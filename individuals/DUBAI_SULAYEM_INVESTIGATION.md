@@ -714,4 +714,6 @@ This network represents a potentially systemic infrastructure connecting Gulf St
 
 ---
 
-*Report compiled from comprehensive search of all four DOJ databases. All EFTA numbers verified against source documents.*
+**See also:** [KHANNA_SIX_NAMES_INVESTIGATION.md](/individuals/KHANNA_SIX_NAMES_INVESTIGATION.md) — Sultan bin Sulayem is one of the six names disclosed by Rep. Ro Khanna from the DOJ co-conspirator list. Full-corpus search (519K documents) found **1,379 documents** referencing Sulayem.
+
+*Report compiled from comprehensive search of all DOJ databases (519,548 documents / 993,406 pages). All EFTA numbers verified against source documents.*

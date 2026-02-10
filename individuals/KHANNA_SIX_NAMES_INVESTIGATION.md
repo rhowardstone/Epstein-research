@@ -101,7 +101,7 @@ Nuara was likely named in Epstein's black book (the physical contact book seized
 - **CONFIRMED** on [EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf) co-conspirator list as **#10**, source: NYPD 2021
 
 ### Assessment
-Mikeladze's inclusion suggests Epstein's network extended into the Caucasus energy sector. Given Epstein's documented connections to Russian/Eastern European networks (MC2 model recruitment from Russia/Eastern Europe, Mandelson-Deripaska Moscow connections, Russian women in SARs), a Georgian oil figure fits the broader pattern of CIS business elite in Epstein's orbit. The NYPD 2021 source date is notably late — this may represent a complaint filed after the 2019 arrest/death, possibly by a victim who came forward during the SDNY investigation. The absence from current databases may change after full-corpus text extraction.
+Mikeladze's inclusion suggests Epstein's network extended into the Caucasus energy sector. Given Epstein's documented connections to Russian/Eastern European networks (MC2 model recruitment from Russia/Eastern Europe, Mandelson-Deripaska Moscow connections, Russian women in SARs), a Georgian oil figure fits the broader pattern of CIS business elite in Epstein's orbit. The NYPD 2021 source date is notably late — this may represent a complaint filed after the 2019 arrest/death, possibly by a victim who came forward during the SDNY investigation. His complete absence from the full 519K-document corpus means he exists only on the EFTA00077895 co-conspirator list.
 
 ---
 
@@ -119,7 +119,7 @@ Mikeladze's inclusion suggests Epstein's network extended into the Caucasus ener
 - **CONFIRMED** on [EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf) co-conspirator list as **#14**, source: NYPD 2021
 
 ### Assessment
-This is the most opaque of the six names. The Russian/Eastern European naming convention is consistent with Epstein's documented Eastern European network (MC2 models from Russia, Mandelson-Moscow connections, "Russian models" in SARs). Like Mikeladze, the NYPD 2021 source date suggests a post-arrest complaint. The absence from current databases may change after full-corpus text extraction.
+This is the most opaque of the six names. The Russian/Eastern European naming convention is consistent with Epstein's documented Eastern European network (MC2 models from Russia, Mandelson-Moscow connections, "Russian models" in SARs). Like Mikeladze, the NYPD 2021 source date suggests a post-arrest complaint. His complete absence from the full 519K-document corpus means he exists only on the EFTA00077895 co-conspirator list.
 
 ---
 
@@ -352,8 +352,6 @@ Financial Trust Company fee income: $66 million (2006) → $4 million (2007, the
 
 #### P. Congressional Subpoena (January-February 2026)
 
-#### K. Congressional Subpoena (January-February 2026)
-
 - **January 8, 2026**: House Oversight Committee voted to subpoena Wexner
 - **February 16, 2026**: Wexner scheduled for deposition before the House Oversight Committee
 - Subpoenas also issued for Darren Indyke and Richard Kahn (Epstein estate executors)
@@ -362,13 +360,16 @@ Financial Trust Company fee income: $66 million (2006) → $4 million (2007, the
 
 ### Assessment
 Leslie Wexner occupies a unique position among the six co-conspirators: he is simultaneously the source of Epstein's entire fortune and the person most extensively documented in the prosecution files. The SDNY obtained an attorney proffer from Wexner's counsel on July 25, 2019 — just weeks after Epstein's arrest. Despite the extraordinary evidence trail, including:
-- Admitted knowledge of Epstein's financial crimes
-- The Victoria's Secret pipeline used for victim recruitment
-- A dedicated "Wexner: Epstein investigation" file
-- FBI requesting photos of Wexner with Epstein
-- Victim testimony connecting Wexner to the operation
+- An FBI FD-302 in which a victim states she "provided an erotic massage to LESLIE WEXNER" (§K)
+- A victim who reported Wexner by name in **1996** and was ignored for decades (§L)
+- A sworn affidavit describing Victoria's Secret lingerie used in abuse (§M)
+- The Victoria's Secret pipeline used for victim recruitment (§D, §E)
+- FBI designation as "secondary co-conspirator" (§J)
+- Financial Trust income proving Wexner was Epstein's only real client (§O)
+- A dedicated "Wexner: Epstein investigation" file (§G)
+- Victim testimony from Giuffre: "I don't think he'll tell you the truth" (§N)
 
-...Wexner was never charged. The prosecution memo's own assessment that Wexner "had no knowledge of any inappropriate or unlawful activity" rests entirely on his own attorneys' representation — a representation directly contradicted by the FBI's "Prominent Names" label and victim testimony.
+...Wexner was never charged. The prosecution memo's own assessment that Wexner "had no knowledge of any inappropriate or unlawful activity" rests entirely on his own attorneys' representation — a representation directly contradicted by multiple victim statements, FBI evidence, and Wexner's own financial records.
 
 ---
 
@@ -455,7 +456,7 @@ On February 10, 2026, all 519,548 PDFs across Datasets 1-12 were extracted via P
 | [CBP_CORRUPTION_INVESTIGATION.md](/institutional/CBP_CORRUPTION_INVESTIGATION.md) | Customs bypass infrastructure (relevant to Sultan/DP World port access) |
 | [TRAFFICKING_ROUTES_INVESTIGATION.md](/victims/TRAFFICKING_ROUTES_INVESTIGATION.md) | Transport routes including USVI port infrastructure |
 | [LEON_BLACK_PROSECUTION_FAILURE.md](/individuals/LEON_BLACK_PROSECUTION_FAILURE.md) | Kate Caputo (Black's assistant) toured Google with Epstein; Black-Wexner financial nexus |
-| [INSTITUTIONAL_FAILURE_NARRATIVE.md](/institutional/INSTITUTIONAL_FAILURE_NARRATIVE.md) | 1996-2024 chronological failure narrative including NPA co-conspirator protection |
+| [INSTITUTIONAL_FAILURE_NARRATIVE.md](/overview/INSTITUTIONAL_FAILURE_NARRATIVE.md) | 1996-2024 chronological failure narrative including NPA co-conspirator protection |
 
 ---
 
@@ -603,4 +604,4 @@ All EFTA links point to the DOJ Epstein Library: https://www.justice.gov/epstein
 
 ---
 
-*Report compiled from analysis of 3.4M+ document text database records, 21,859 analyzed images, 15,533 OCR'd documents (~3% of 519,438 total PDFs), direct PDF text extraction from key documents including EFTA00077895 (downloaded from Dataset 9), and public web sources. All six Khanna names are confirmed in the EFTA corpus. Four names (Nuara, Mikeladze, Leonov, Caputo) appear only on the EFTA00077895 co-conspirator list so far — additional mentions may emerge after full-corpus text extraction is complete.*
+*Report compiled from full-corpus text extraction of all 519,548 PDFs (993,406 pages) across Datasets 1-12, plus 3.4M+ document text database records, 21,859 analyzed images, direct PDF downloads from Dataset 9 (EFTA00077895, EFTA00175080, EFTA00666117), and public web sources. All six Khanna names are confirmed in the EFTA corpus. Four names (Nuara, Mikeladze, Leonov, Caputo) appear ONLY on the EFTA00077895 co-conspirator list — their absence from the remaining 519K documents is definitive. Sultan bin Sulayem appears in 1,379 documents and Leslie Wexner in 644 documents.*
