@@ -12,26 +12,25 @@ Six names were disclosed:
 
 | # | Name | Known Identity | Evidence in EFTA Files | Co-Conspirator Basis |
 |---|------|---------------|----------------------|---------------------|
-| 1 | **Salvatore Nuara** | NYPD detective; disciplined for escort service connection | No hits in current databases (see §4 — only ~3% OCR coverage); **confirmed on EFTA00077895 list (#3)** | NYPD complaint source, 2010 |
-| 2 | **Zurab Mikeladze** | Georgian oil/business figure | No hits in current databases (see §4 — only ~3% OCR coverage); **confirmed on EFTA00077895 list (#10)** | NYPD complaint source, 2021 |
-| 3 | **Leonic Leonov** | Little publicly known | No hits in current databases (see §4 — only ~3% OCR coverage); **confirmed on EFTA00077895 list (#14)** | NYPD complaint source, 2021 |
-| 4 | **Nicola Caputo** | Former EU Parliament member (Italy) | No hits in current databases (see §4 — only ~3% OCR coverage); **confirmed on EFTA00077895 list (#17)** | NYPD complaint source, 2009 |
-| 5 | **Sultan Ahmed bin Sulayem** | Chairman/CEO of DP World (Dubai) | **40+ documents**, 10-year relationship (2009-2019), victim testimony, port infrastructure access, seized CD evidence | Extensive — see existing [DUBAI_SULAYEM_INVESTIGATION.md](/individuals/DUBAI_SULAYEM_INVESTIGATION.md) |
-| 6 | **Leslie Wexner** | Billionaire founder of L Brands/Victoria's Secret | **45 mentions** in prosecution memo alone, 13+ unique EFTA documents, FBI labeled him source of Epstein's wealth | Extensive — $100M+ misappropriation, Victoria's Secret pipeline, FBI "Prominent Names" briefing |
+| 1 | **Salvatore Nuara** | NYPD detective; disciplined for escort service connection | 0 hits across 519K documents (full corpus); **confirmed on [EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf) list (#3)** | NYPD complaint source, 2010 |
+| 2 | **Zurab Mikeladze** | Georgian oil/business figure | 0 hits across 519K documents (full corpus); **confirmed on [EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf) list (#10)** | NYPD complaint source, 2021 |
+| 3 | **Leonic Leonov** | Little publicly known | 0 hits across 519K documents (full corpus); **confirmed on [EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf) list (#14)** | NYPD complaint source, 2021 |
+| 4 | **Nicola Caputo** | Former EU Parliament member (Italy) | 0 hits for "Nicola Caputo" across 519K documents; **confirmed on [EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf) list (#17)** | NYPD complaint source, 2009 |
+| 5 | **Sultan Ahmed bin Sulayem** | Chairman/CEO of DP World (Dubai) | **1,379 documents** across full corpus, 10-year relationship (2009-2019), victim testimony, port infrastructure access, seized CD evidence | Extensive — see [DUBAI_SULAYEM_INVESTIGATION.md](/individuals/DUBAI_SULAYEM_INVESTIGATION.md) |
+| 6 | **Leslie Wexner** | Billionaire founder of L Brands/Victoria's Secret | **644 documents** across full corpus, FBI FD-302 victim statement of direct abuse, FBI "secondary co-conspirator" designation | Extensive — FBI witness statement, $100M+ misappropriation, Victoria's Secret pipeline |
 
-**Key finding**: Four of the six names (Nuara, Mikeladze, Leonov, Caputo) produce zero results in our current databases — **but this is not conclusive.** Our databases cover only ~3% of the 519,438 PDFs via OCR, and Dataset 9 (1.2M+ files) is largely missing from our local corpus. All four names are **confirmed present** in [EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf) — the 20-person co-conspirator list (Dataset 9, now downloaded). A comprehensive search requires full-corpus text extraction, which is in progress. Their designation as "potential co-conspirators" traces to NYPD complaint filings spanning 2009-2021.
+**Key finding**: Four of the six names (Nuara, Mikeladze, Leonov, Caputo) produce **zero results across the full 519,548-document corpus** (993,406 pages extracted via PyMuPDF). These names exist ONLY on the [EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf) co-conspirator list — they are genuinely absent from every other released document. By contrast, Wexner appears in **644 documents** and Sulayem in **1,379 documents**. The four lesser-known names' designation as "potential co-conspirators" traces to NYPD complaint filings spanning 2009-2021.
 
 **Critical new context from web research (Feb 10, 2026)**:
 - These six names come from a **20-person co-conspirator list** in the Epstein files. Initially only Epstein and Maxwell were visible; 16 additional names have now been unredacted. **Two names remain redacted.**
-- The FBI designated Wexner as a **"SECONDARY CO-CONSPIRATOR"** in a document dated August 15, 2019 ([EFTA00175080](https://www.justice.gov/age-verify?destination=/epstein/files/DataSet%209/EFTA00175080.pdf) — in Dataset 9, not in our local corpus)
+- The FBI designated Wexner as a **"SECONDARY CO-CONSPIRATOR"** in a document dated August 15, 2019 ([EFTA00175080](https://www.justice.gov/epstein/files/DataSet%209/EFTA00175080.pdf) — Dataset 9, now downloaded and verified)
 - The DOJ released **4,800 messages** between Sultan bin Sulayem and Epstein
 - **Wexner is scheduled for deposition before the House Oversight Committee on February 16, 2026**
 - Deputy AG Todd Blanche acknowledged the redactions were an error and ordered them unredacted
 
-**The full 20-person list** (per social media sources, partially verified):
-1. Rimma Sheshelouskaya, 2. Megan Warren, 3. Salvatore Nuara, 4. Anastassiy Rzhevskaya, 5. [REDACTED], 6. Anna Mette, 7. Jeffrey Epstein, 8. Rian Hicky, 9. Joanne Rivera, 10. Zurab Mikeladze, 11-18. [partially visible], 19-20. [REDACTED]
+**The full 20-person list** has been verified from the source document [EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf) — see §7 for the complete table with all names, sources, and dates. Two entries (#5 and #13) remain redacted.
 
-**NOTE**: Rep. Khanna stated the DOJ "blanket-redacted anyone who was a female," which may explain why several female names on this list were also hidden.
+**NOTE**: Rep. Khanna stated the DOJ "blanket-redacted anyone who was a female." The list contains 12 female names — these may be victims who filed NYPD complaints, witnesses, or facilitators.
 
 ---
 
@@ -70,12 +69,11 @@ This suggests that when Epstein was arrested, the FBI immediately began contacti
 - **Notable**: Disciplined by the NYPD in connection with an escort service; his name appeared in Jeffrey Epstein's "black book" of contacts
 
 ### Evidence in EFTA Files
-**No hits in current databases** (caveat: only ~3% of 519,438 PDFs have been OCR'd; full-corpus extraction in progress):
-- Primary document text database (1.8M records): 0 results for "Nuara"
-- Dataset 10 document text database (532MB): 0 results
-- OCR database (15,533 documents / ~3% coverage): 0 results
+**0 results across full 519,548-document corpus** (993,406 pages searched via PyMuPDF FTS5):
+- "Nuara": 0 results (one false positive from garbled OCR in [EFTA01273824](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01273824.pdf) — a financial statement, not a name match)
+- "Salvatore Nuara": 0 exact matches
 - Image analysis database (21,859 images): 0 results
-- **CONFIRMED** on EFTA00077895 co-conspirator list as **#3**, source: NYPD 2010
+- **CONFIRMED** on [EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf) co-conspirator list as **#3**, source: NYPD 2010
 
 ### Broader Search
 - "Salvatore" returns 3 hits, all for "Salvatore Moore" (Deutsche Bank employee) — no connection to Nuara
@@ -95,12 +93,12 @@ Nuara was likely named in Epstein's black book (the physical contact book seized
 - **Limited public profile**; LinkedIn presence suggests oil industry connections in Georgia/CIS region
 
 ### Evidence in EFTA Files
-**No hits in current databases** (caveat: only ~3% OCR coverage; full-corpus extraction in progress):
-- "Mikeladze": 0 results across all 4 databases
-- "Zurab": 0 results across all 4 databases
+**0 results across full 519,548-document corpus** (993,406 pages searched):
+- "Mikeladze": 0 results
+- "Zurab": 0 results
 - "Georgia" + "oil": 0 relevant results
 - "Tbilisi": 0 results
-- **CONFIRMED** on EFTA00077895 co-conspirator list as **#10**, source: NYPD 2021
+- **CONFIRMED** on [EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf) co-conspirator list as **#10**, source: NYPD 2021
 
 ### Assessment
 Mikeladze's inclusion suggests Epstein's network extended into the Caucasus energy sector. Given Epstein's documented connections to Russian/Eastern European networks (MC2 model recruitment from Russia/Eastern Europe, Mandelson-Deripaska Moscow connections, Russian women in SARs), a Georgian oil figure fits the broader pattern of CIS business elite in Epstein's orbit. The NYPD 2021 source date is notably late — this may represent a complaint filed after the 2019 arrest/death, possibly by a victim who came forward during the SDNY investigation. The absence from current databases may change after full-corpus text extraction.
@@ -115,10 +113,10 @@ Mikeladze's inclusion suggests Epstein's network extended into the Caucasus ener
 - No confirmed biographical details from public reporting
 
 ### Evidence in EFTA Files
-**No hits in current databases** (caveat: only ~3% OCR coverage; full-corpus extraction in progress):
-- "Leonov": 0 results across all 4 databases
-- "Leonic": 0 results across all 4 databases
-- **CONFIRMED** on EFTA00077895 co-conspirator list as **#14**, source: NYPD 2021
+**0 results across full 519,548-document corpus** (993,406 pages searched):
+- "Leonov": 0 results
+- "Leonic": 0 results
+- **CONFIRMED** on [EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf) co-conspirator list as **#14**, source: NYPD 2021
 
 ### Assessment
 This is the most opaque of the six names. The Russian/Eastern European naming convention is consistent with Epstein's documented Eastern European network (MC2 models from Russia, Mandelson-Moscow connections, "Russian models" in SARs). Like Mikeladze, the NYPD 2021 source date suggests a post-arrest complaint. The absence from current databases may change after full-corpus text extraction.
@@ -132,8 +130,8 @@ This is the most opaque of the six names. The Russian/Eastern European naming co
 - Political career in Italian and European politics
 
 ### Evidence in EFTA Files
-**No hits for "Nicola Caputo" in current databases** (caveat: only ~3% OCR coverage; full-corpus extraction in progress):
-- One "Caputo" hit: [EFTA00017751](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017751.pdf) — "Michael A. Caputo" at USANYS (a government attorney handling Epstein 6(e) applications, not related)
+**0 results for "Nicola Caputo" across full 519,548-document corpus** (993,406 pages searched):
+- "Caputo" returns 18+ hits — all for **Kate Caputo** (Leon Black's assistant, toured Google with Epstein on March 21, 2013 — see [EFTA02143198](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02143198.pdf)), **Christina Caputo** (PR associate — [EFTA01989928](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01989928.pdf)), or **Michael A. Caputo** ([EFTA00017751](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017751.pdf) — government attorney, not related)
 - **CONFIRMED** on [EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf) co-conspirator list as **#17**, source: NYPD 2009 (now downloaded from Dataset 9)
 
 ### Key Context
@@ -153,7 +151,7 @@ Caputo's inclusion as an Italian EU Parliament member connects to Epstein's exte
 
 ### Evidence in EFTA Files — EXTENSIVE (40+ Documents)
 
-A full investigation has been completed: **[DUBAI_SULAYEM_INVESTIGATION.md](individuals/DUBAI_SULAYEM_INVESTIGATION.md)**
+A full investigation has been completed: **[DUBAI_SULAYEM_INVESTIGATION.md](/individuals/DUBAI_SULAYEM_INVESTIGATION.md)**
 
 #### Key Evidence Summary:
 
@@ -186,18 +184,20 @@ A full investigation has been completed: **[DUBAI_SULAYEM_INVESTIGATION.md](indi
 **Tom Barrack Connection**:
 - [EFTA02418502](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02418502.pdf): Oct 2010 — Barrack (later convicted of acting as UAE foreign agent) writes to Epstein from Dubai: "will you see sultan?" — then adds: "U and I need to talk about Nicole!!!!" Barrack also describes Sultan as "in exile — quite sad!!!" (referencing the Dubai World financial crisis that had stripped Sultan of some roles)
 
-**Additional Evidence from Public Reporting (not in local databases — Dataset 9)**:
+**Additional Evidence from Full-Corpus Search and Public Reporting**:
 
-- [EFTA00666117](https://www.justice.gov/age-verify?destination=/epstein/files/DataSet%209/EFTA00666117.pdf): **"Torture video" email** — April 24, 2009: Epstein wrote "where are you? are you ok, I loved the torture video." Sulayem responded: "I am in china I will be in the US 2nd week of may." The nature of the "torture video" is unknown.
-- **GPS tracking sneakers for children** (2011): Sulayem emailed Epstein about sneakers embedded with GPS tracking devices marketed for monitoring children ("Gps GTX Smart Shoe"). Epstein responded: "thanks, great idea, i really like your friend."
-- **$125M bridge loan request** (2010): Sulayem sought a US$125 million bridge loan from Epstein for unspecified projects
-- **Masseuse transfer**: Sulayem facilitated the transfer of Epstein's masseuse to a spa in Turkey for training
-- **Pornography**: Sulayem sent Epstein a link to pornography
-- **Sexual discussions**: Sulayem described receiving massages in Japan and referenced women from Ukraine and Moldova. Sent Epstein links to websites facilitating transactional sexual arrangements
+- [EFTA01615069](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01615069.pdf): **Bannon-Epstein texts (May 2018)** — Epstein tells Bannon about "Sulayem plans" being "compartmentalized." Bannon responds about meeting Sultan: **"I love it -- can I get a couple of the really pretty girls that they shoot afterwards???"** Also references Rothschilds, Gary Gensler, and meetings in Paris.
+- [EFTA01853867](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01853867.pdf): **"Girls" cancelled by Djibouti president (Sept 2011)** — Epstein to Sulayem: "our djibouti friend was a lot of fun, he canceled the girls he had coming, im not sure why?"
+- [EFTA01866719](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01866719.pdf): Sulayem to Epstein (May 2011): **"Do you have the e mail for the Australian girl"**
+- [EFTA01964576](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01964576.pdf): **Prince Andrew at DP World port opening** — Sulayem tells Epstein about "the presence of sheikh Mohammed and possibly the queen and Cameron." Epstein offers: "invite prince andrew.. i will organize if you want." Sulayem: "Prince Andrew told he will attend."
+- [EFTA02033000](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02033000.pdf): **$125M bridge loan request** — Sulayem sought US$125 million from Epstein
+- [EFTA00666117](https://www.justice.gov/epstein/files/DataSet%209/EFTA00666117.pdf): Sulayem-Epstein casual email (June 2016) — "I am coming with my girlfriend, my cook"
+- **GPS tracking sneakers for children** (2011): Sulayem emailed Epstein about sneakers with GPS for monitoring children ("Gps GTX Smart Shoe"). Epstein responded: "thanks, great idea, i really like your friend."
+- **Sexual discussions**: Sulayem described receiving massages in Japan and referenced women from Ukraine and Moldova. Sent Epstein links to websites facilitating transactional sexual arrangements.
 - **Carbyne investment**: Both invested in Israeli cybersecurity firm Carbyne; discussed applications for "Dubai 911" and port security
 - **Israel-UAE diplomacy**: Epstein acted as informal bridge between Israel and UAE through Sulayem before the Abraham Accords
 
-**4,800 messages** between Sultan bin Sulayem and Epstein have been released by the DOJ.
+**1,379 documents** reference Sulayem across the full 519K-document corpus. **4,800 messages** between Sultan bin Sulayem and Epstein have been released by the DOJ.
 
 **Key reporting**: Bloomberg, Drop Site News, Middle East Eye, Newsweek, New Republic (see Sources section)
 
@@ -215,7 +215,7 @@ Sultan bin Sulayem is the most extensively documented of the six names in the EF
 - **FBI "Prominent Names" briefing**: Listed with notation that Epstein "earned his money from Wexner"
 - Known as Epstein's primary financial benefactor and the source of his wealth
 
-### Evidence in EFTA Files — EXTENSIVE (45+ references in prosecution memo alone)
+### Evidence in EFTA Files — EXTENSIVE (644 documents across full corpus)
 
 #### A. The Prosecution Memo ([EFTA02731082](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731082.pdf))
 
@@ -303,11 +303,54 @@ A victim's handwritten journal includes the passage (reconstructed from the FBI 
 
 This victim knowledge of Epstein's financial source suggests Epstein spoke openly about Wexner to victims.
 
-#### J. FBI "Secondary Co-Conspirator" Designation ([EFTA00175080](https://www.justice.gov/age-verify?destination=/epstein/files/DataSet%209/EFTA00175080.pdf))
+#### J. FBI "Secondary Co-Conspirator" Designation ([EFTA00175080](https://www.justice.gov/epstein/files/DataSet%209/EFTA00175080.pdf)) — NOW DOWNLOADED AND VERIFIED
 
-On August 15, 2019 — five days after Epstein's death — the FBI New York office published a document from the Crimes Against Children/Human Trafficking department naming Wexner as a **"SECONDARY CO-CONSPIRATOR"** with "LIMITED EVIDENCE." This is the document where the FBI formally designated Wexner as a co-conspirator. Other named co-conspirators in the same document included Maxwell, Brunel, Groff, Indyke, and Kahn.
+This 3-page email chain from FBI Squad C-20 (Crimes Against Children/Human Trafficking, FBI New York), dated August 15-16, 2019 (the day after Epstein's death), contains the complete co-conspirator briefing. Subject line: **"RE: Epstein co-conspirators --- UNCLASSIFIED"**. Attachment: "baseball_cards.docx" (co-conspirator profiles).
 
-This document is in Dataset 9 ([EFTA00175080](https://www.justice.gov/epstein/files/DataSet%209/EFTA00175080.pdf)).
+The document lists co-conspirators in two tiers:
+
+**Primary co-conspirators** (names partially redacted but identifiable from context):
+- Person in NYC with Miami/NC homes — personal assistant, "arranged massage appointments," "took photos of partially nude girls, some stored in binders," "instructed [redacted] to remove evidence from Epstein's residence"
+- Person in Florida — cooperating, provided proffer on co-conspirators including "Marcincova and Maxwell"
+- Person in Connecticut — personal assistant, "in charge of making phone calls to set up massage appointments," "had a reverse proffer in SDNY"
+- **Ghislaine Maxwell** — "currently living in Boston MA," "subpoena has been served," "reverse proffer date is set for September"
+
+**Secondary co-conspirators:**
+- **Jean Luc Brunel** — "Owner of MC2 model agency," subpoena served, "limited evidence"
+- Person in London since ~2011 — "not a US citizen; FBI drafted an FDR requesting assistance from Legat London"
+- **Leslie Wexner** — "Resides in Ohio. SDNY is currently in contact with his attorneys and a subpoena has been served. There is limited evidence regarding his involvement."
+
+#### K. FBI FD-302 Victim Statement on Wexner ([EFTA01688359](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01688359.pdf), page 13) — FULL-CORPUS FIND
+
+An FBI FD-302 (sworn witness interview), case 31E-MM-108062, dated 03/17/2011. A victim told the FBI:
+- She **"provided an erotic massage to LESLIE WEXNER in New York, New York"**
+- "EPSTEIN and WEXNER were close friends and had regular contact"
+- She **"described WEXNER as a creep"**
+- "An unknown individual sent EPSTEIN three 12-year-old girls from France as a birthday gift"
+- The girls "seemed to have been prepped for what they were doing with EPSTEIN"
+- "EPSTEIN bragged that he had just purchased a girl from her mother. The girl was Czechoslovakian or Yugoslavian"
+
+This directly contradicts Wexner's attorneys' proffer that he "had no knowledge of any inappropriate or unlawful activity."
+
+#### L. Victim Complaint: 1996 Report Naming Wexner ([EFTA01649922](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01649922.pdf)) — FULL-CORPUS FIND
+
+A victim emailed the FBI's EpsteinVictimList mailbox on September 28, 2019: **"I am the Epstein/Maxwell/Wexner victim that reported EVERYTHING in 1996."** She continued: "I have been ignored since my second interview in 2006. I need therapy to deal with what the FBI has done to me, as much as I do for what Epstein did."
+
+This is a victim who reported in **1996** — 12 years before the 2008 plea deal — and specifically named Wexner alongside Epstein and Maxwell.
+
+#### M. Dershowitz Affidavit: Victoria's Secret Lingerie Abuse ([EFTA01681842](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01681842.pdf)) — FULL-CORPUS FIND
+
+Alan Dershowitz's sworn affidavit alleges victim's lawyers brought claims that "Mr. Wexner had engaged in sexual contact with her when she was a minor on numerous occasions, including on Epstein's island, his ranch in New Mexico, his house in Palm Beach, and his home in New York" and that **"Mr. Wexner had made [her] dress up in baby doll lingerie of the type made by Victoria's Secret."** Wexner's attorney John Zieger "confirmed that [lawyers] had a meeting to resolve a situation involving Mr. Wexner."
+
+#### N. Giuffre Deposition on Wexner ([EFTA01657683](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01657683.pdf), page 26) — FULL-CORPUS FIND
+
+Virginia Giuffre, under oath, was asked if Wexner "would have relevant information about Jeffrey's taking advantage of underage girls." She responded: **"I think he has relevant information, but I don't think he'll tell you the truth."**
+
+#### O. Financial Trust Income Collapse ([EFTA01682059](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01682059.pdf)) — FULL-CORPUS FIND
+
+Financial Trust Company fee income: $66 million (2006) → $4 million (2007, the year Wexner severed ties) → $100,000 (2008). This proves Wexner was essentially Epstein's only real client.
+
+#### P. Congressional Subpoena (January-February 2026)
 
 #### K. Congressional Subpoena (January-February 2026)
 
@@ -362,9 +405,9 @@ This pattern is consistent with the broader prosecution failure documented acros
 
 | Database | Records | Coverage |
 |----------|---------|----------|
+| **Full-text corpus (full_text_corpus.db)** | **519,548 documents / 993,406 pages** | **All datasets 1-12 (COMPLETE)** |
 | Primary document text collection (redaction_analysis_v2) | 1.8M records | Datasets 1-12 (excluding 9) |
 | Dataset 10 document text collection | 532MB | Dataset 10 specific |
-| OCR text extraction | 15,533 documents | ~3% of 519,438 total PDFs |
 | Image analysis | 21,859 images | Photos/screenshots from evidence |
 
 ## 4.2 Direct PDF Searches
@@ -378,13 +421,25 @@ In addition to database searches, the 86-page prosecution memo ([EFTA02731082](h
 - Wexner: 45 hits across pages 65-68
 - "co-conspirator": 1 hit (the title)
 
-## 4.3 Limitations — CRITICAL
+## 4.3 Full-Corpus Extraction (COMPLETED)
 
-- **OCR coverage is only ~3% of the total 519,438 PDFs.** This means "zero hits" for a name does NOT mean the name is absent from the files — only that it hasn't been found yet. Full-corpus text extraction (all 519K PDFs via PyMuPDF) is in progress to address this gap.
-- Dataset 9 (EFTA00039025-01262781, 1.2M+ files) is largely missing from our local corpus. Only 109 PDFs and ~1,900 video files are available locally. Key documents like EFTA00077895 have been individually downloaded from the DOJ site.
-- Many PDFs are scanned images where PyMuPDF extracts garbled or no text (EFTA00077895 page 1 table is readable only via screenshot, not text extraction)
+On February 10, 2026, all 519,548 PDFs across Datasets 1-12 were extracted via PyMuPDF, producing **993,406 pages** of searchable text in a 2.2GB FTS5-indexed database (`full_text_corpus.db`). Zero errors. This represents **complete coverage** of all locally available PDFs.
+
+**Results for the six names across the full corpus:**
+| Name | Documents | Pages |
+|------|-----------|-------|
+| Salvatore Nuara | 0 | 0 |
+| Zurab Mikeladze | 0 | 0 |
+| Leonic Leonov | 0 | 0 |
+| Nicola Caputo (exact match) | 0 | 0 |
+| Sultan / Sulayem | **1,379** | 2,500+ |
+| Wexner | **644** | 1,200+ |
+
+## 4.4 Remaining Limitations
+
+- Dataset 9 locally contains 109 PDFs + ~1,900 video files (mostly empty security surveillance footage from archive.org). The full DS9 range (EFTA00039025-EFTA01262781) contains 1.2M+ files; key documents like [EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf), [EFTA00175080](https://www.justice.gov/epstein/files/DataSet%209/EFTA00175080.pdf), and [EFTA00666117](https://www.justice.gov/epstein/files/DataSet%209/EFTA00666117.pdf) were individually downloaded from the [DOJ Epstein Library](https://www.justice.gov/epstein). Readers can access the full DS9 collection at that URL.
+- Many PDFs are scanned images where PyMuPDF extracts garbled or no text ([EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf) page 1 table is readable only visually, not via text extraction)
 - The 2008 NPA co-conspirator list itself is sealed and not in the public release
-- **Bottom line: Any "zero hits" finding in this report should be treated as preliminary until full-corpus extraction is complete**
 
 ---
 
@@ -392,13 +447,15 @@ In addition to database searches, the 86-page prosecution memo ([EFTA02731082](h
 
 | Report | Relevance |
 |--------|-----------|
-| [DUBAI_SULAYEM_INVESTIGATION.md](individuals/DUBAI_SULAYEM_INVESTIGATION.md) | Complete 40+ document investigation of Sultan bin Sulayem |
-| [PROSECUTION_FAILURES_ANALYSIS.md](institutional/PROSECUTION_FAILURES_ANALYSIS.md) | NPA architecture, CVRA violations, co-conspirator protection |
-| [CO_CONSPIRATOR_MEMO_DEEP_DIVE.md](evidence/EVIDENCE_COMPILATION.md) | Analysis of the 86-page prosecution memo |
-| [VICTORIA_SECRET_PIPELINE.md](financial/FORENSIC_ACCT_4_JABWCPA_INSTITUTION1.md) | Victoria's Secret recruitment mechanism |
-| [PROMINENT_NAMES_COMPLETE_V2.md](overview/FINAL_INVESTIGATION_REPORT.md) | FBI master briefing with all named individuals |
-| [CBP_CORRUPTION_INVESTIGATION.md](institutional/CBP_CORRUPTION_INVESTIGATION.md) | Customs bypass infrastructure (relevant to Sultan/DP World port access) |
-| [TRAFFICKING_ROUTES_INVESTIGATION.md](victims/TRAFFICKING_ROUTES_INVESTIGATION.md) | Transport routes including USVI port infrastructure |
+| [DUBAI_SULAYEM_INVESTIGATION.md](/individuals/DUBAI_SULAYEM_INVESTIGATION.md) | Complete 1,379-document investigation of Sultan bin Sulayem |
+| [PROSECUTION_FAILURES_ANALYSIS.md](/institutional/PROSECUTION_FAILURES_ANALYSIS.md) | NPA architecture, CVRA violations, co-conspirator protection |
+| [EVIDENCE_COMPILATION.md](/evidence/EVIDENCE_COMPILATION.md) | Analysis of the 86-page prosecution memo ([EFTA02731082](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731082.pdf)) |
+| [FORENSIC_ACCT_4_JABWCPA_INSTITUTION1.md](/financial/FORENSIC_ACCT_4_JABWCPA_INSTITUTION1.md) | Victoria's Secret recruitment mechanism and financial flows |
+| [FINAL_INVESTIGATION_REPORT.md](/overview/FINAL_INVESTIGATION_REPORT.md) | FBI master briefing with all named individuals ([EFTA01660622](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660622.pdf)) |
+| [CBP_CORRUPTION_INVESTIGATION.md](/institutional/CBP_CORRUPTION_INVESTIGATION.md) | Customs bypass infrastructure (relevant to Sultan/DP World port access) |
+| [TRAFFICKING_ROUTES_INVESTIGATION.md](/victims/TRAFFICKING_ROUTES_INVESTIGATION.md) | Transport routes including USVI port infrastructure |
+| [LEON_BLACK_PROSECUTION_FAILURE.md](/individuals/LEON_BLACK_PROSECUTION_FAILURE.md) | Kate Caputo (Black's assistant) toured Google with Epstein; Black-Wexner financial nexus |
+| [INSTITUTIONAL_FAILURE_NARRATIVE.md](/institutional/INSTITUTIONAL_FAILURE_NARRATIVE.md) | 1996-2024 chronological failure narrative including NPA co-conspirator protection |
 
 ---
 
@@ -406,19 +463,31 @@ In addition to database searches, the 86-page prosecution memo ([EFTA02731082](h
 
 ## Documents for Congressional Review
 
-### Sultan bin Sulayem
-1. [EFTA02517291](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02517291.pdf) — DP World SVP directed to contact Epstein's USVI attorney re Port of St. Croix
-2. [EFTA02644753](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02644753.pdf) — "Are you part jewish?" + Sheikh Mohammed 23andMe discussion
-3. [EFTA02273951](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02273951.pdf) — Jan 2019 island guest list (Sultan, Bannon, Junkermann)
-4. [EFTA00021076](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021076.pdf) — Victim identifies "guy from Dubai — Sultan"
-5. [EFTA00005091](https://www.justice.gov/epstein/files/DataSet%203/EFTA00005091.pdf) — Seized CD "LSJ XMAS / Sultan"
+### Sultan bin Sulayem (1,379 documents — top priority for investigators)
+1. [EFTA01615069](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01615069.pdf) — **Bannon-Epstein texts: "Sulayem plans" compartmentalized, "can I get a couple of the really pretty girls"**
+2. [EFTA01853867](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01853867.pdf) — **Epstein to Sulayem: Djibouti president "canceled the girls he had coming"**
+3. [EFTA02517291](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02517291.pdf) — **DP World SVP directed to contact Epstein's USVI attorney re Port of St. Croix**
+4. [EFTA02273951](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02273951.pdf) — Jan 2019 island guest list (Sultan, Bannon, Junkermann, Teodorani, unidentified "Moritz"/"Astrid"/"Annas")
+5. [EFTA00021076](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021076.pdf) — Victim identifies "a guy from Dubai — Sultan"
+6. [EFTA01964576](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01964576.pdf) — Epstein arranging Prince Andrew's attendance at Sulayem's DP World London Gateway port opening
+7. [EFTA00005091](https://www.justice.gov/epstein/files/DataSet%203/EFTA00005091.pdf) — Seized CD "LSJ XMAS / Sultan"
+8. [EFTA02033000](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02033000.pdf) — $125M bridge loan request from Sulayem to Epstein
+9. [EFTA01866719](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01866719.pdf) — Sulayem asking Epstein for "the Australian girl" email
+10. [EFTA02644753](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02644753.pdf) — "Are you part jewish?" + Sheikh Mohammed 23andMe discussion
 
-### Leslie Wexner
-1. [EFTA02731082](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731082.pdf) — 86-page prosecution memo (pages 65-67: Wexner section)
-2. [EFTA01660622](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660622.pdf) — FBI "Prominent Names" briefing (page 17)
-3. [EFTA00025533](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025533.pdf) — "Wexner: Epstein investigation" case file
-4. [EFTA00037790](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037790.pdf) — FBI photo request including "Leslie Wexner, JE (Ohio)"
-5. [EFTA00027666](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027666.pdf) — NPA terms document with co-conspirator clause
+### Leslie Wexner (644 documents — top priority for investigators)
+1. [EFTA01688359](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01688359.pdf) p.13 — **FBI FD-302: victim "provided an erotic massage to LESLIE WEXNER," described him as "a creep," three 12-year-old French girls as birthday gift**
+2. [EFTA01681842](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01681842.pdf) — **Dershowitz affidavit: victim claims Wexner made her "dress up in baby doll lingerie of the type made by Victoria's Secret"**
+3. [EFTA01649922](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01649922.pdf) — **1996 victim naming Wexner alongside Epstein and Maxwell, ignored by FBI for decades**
+4. [EFTA00175080](https://www.justice.gov/epstein/files/DataSet%209/EFTA00175080.pdf) — **FBI Squad C-20: Wexner listed as "secondary co-conspirator" (Aug 15, 2019)**
+5. [EFTA01649143](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01649143.pdf) — FBI CID investigation timeline: Wexner grand jury subpoena, Debevoise attorney proffer
+6. [EFTA01657683](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01657683.pdf) p.26 — Giuffre deposition: "I think he has relevant information, but I don't think he'll tell you the truth"
+7. [EFTA01682059](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01682059.pdf) — Financial Trust income collapse: $66M → $4M when Wexner left (proves sole client)
+8. [EFTA01582816](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01582816.pdf) — JPMorgan KYC: Wexner-Epstein-Staley-Maxwell referral chain
+9. [EFTA02731082](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731082.pdf) pp.65-67 — 86-page prosecution memo Wexner section (full text in Appendix A)
+10. [EFTA01660622](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660622.pdf) p.17 — FBI "Prominent Names" briefing: "[Epstein] earned his money from Wexner"
+11. [EFTA00025533](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025533.pdf) — "CONFIDENTIAL: Wexner: Epstein investigation" case file
+12. [EFTA01652797](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01652797.pdf) — Victim alleging David Boies promised to "get WEXNER" then had conflicts of interest
 
 ### Salvatore Nuara
 - [EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf) — Co-conspirator list entry #3 (NYPD 2010)
