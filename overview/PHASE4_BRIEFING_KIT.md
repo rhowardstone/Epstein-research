@@ -40,7 +40,7 @@ Financial records extracted from banking document text layers reveal at least 16
 
 ### Five Most Important Questions for the EFTA Reading Room
 
-1. **What is the complete content of [EFTA01719203](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01719203.pdf)?** This single document contains 156 redactions on one page, making it the most redacted document in the database. Its content has never been disclosed.
+1. ~~**What is the complete content of [EFTA01719203](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01719203.pdf)?** This single document contains 156 redactions on one page, making it the most redacted document in the database. Its content has never been disclosed.~~ --> This was an OCR failure: the document is a scan of a scan of a (fairly) redacted PDF: although perhaps important, it is not a priority.
 2. **What is the full text of the Leon Black "HT Subject Referral" documents ([EFTA02731473](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731473.pdf)-02731783)?** Over 50 documents detail a federal human trafficking investigation into Leon Black that appears to have produced no charges.
 3. **What do the [EFTA01310387](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01310387.pdf) documents contain?** With 7,988 redactions, this is the most comprehensively redacted document in the entire collection.
 4. **What is the full "Prominent Names" document ([EFTA01656152](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01656152.pdf) et al.)?** The partially recovered version names Trump, Weinstein, Staley, Black, Cuomo, Prince Andrew, Dershowitz, and Wexner in connection with victim statements.
