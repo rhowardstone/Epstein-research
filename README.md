@@ -5,9 +5,9 @@
 
 This repository contains 100+ forensic analysis reports derived from the U.S. Department of Justice's release of Jeffrey Epstein investigation files -- 218GB across 12 datasets, comprising 519,438+ PDFs. The analysis involved systematic review of 3.4M+ document text records, OCR-extracted text, 21,859 cataloged images, and cross-referenced entity relationships (524 entities, 2,096 connections).
 
-Every factual claim in these reports traces back to specific EFTA document numbers (Epstein Files Task Force Archive). Click any linked EFTA number to attempt to view the original PDF on justice.gov. See the [DOJ Link Status](#doj-link-status) section below for current availability.
+Every factual claim in these reports traces back to specific EFTA document numbers (Epstein Files Task Force Archive). Click any linked EFTA number to attempt to view the original PDF on justice.gov.
 
-**This is not opinion or speculation.** These reports synthesize what the documents themselves say, with sourcing. Where conclusions are drawn, the supporting evidence chain is cited. Where evidence is ambiguous, that is noted.
+**This is not opinion or speculation.** These reports synthesize what the documents themselves say, with sourcing. Where conclusions are drawn, the supporting evidence chain is cited. Where evidence is ambiguous, that is noted. If you notice any problems, please raise an ISSUE on this repository and it will be attended to promptly.
 
 ---
 
