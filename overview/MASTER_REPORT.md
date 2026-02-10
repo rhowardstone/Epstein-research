@@ -59,7 +59,7 @@ A analysis process using PDF analysis tools was used to:
 - **Medium confidence:** Partial text with OCR artifacts but recoverable meaning
 - **Low confidence:** Fragmentary characters that may represent OCR noise rather than actual redacted content
 
-The analysis focused on high and medium confidence extractions (hidden_text length > 3 characters). The corpus is useful for keyword searches identifying which documents mention specific terms. However, the vast majority of extracted text is OCR noise rather than genuinely exposed content. The 12 genuinely failed redaction overlays (exposing PLIST metadata) are documented separately in PLIST_REDACTED_EMAILS_DEEP_DIVE.md.
+The analysis focused on high and medium confidence extractions (hidden_text length > 3 characters). The corpus is useful for keyword searches identifying which documents mention specific terms. However, the vast majority of extracted text is OCR noise rather than genuinely exposed content. The 12 genuinely failed redaction overlays (exposing PLIST metadata) are documented separately in [PLIST_REDACTED_EMAILS_DEEP_DIVE.md](/evidence/PLIST_REDACTED_EMAILS_DEEP_DIVE.md).
 
 ### 1.3 Limitations
 
@@ -289,7 +289,7 @@ AML alerts on the Haze Trust reached the **"URGENT - THIRD REQUEST!!!!!"** level
 - 6-8 DB personnel copied on weekly reports
 - **Zero compliance flags raised** during his entire tenure
 
-**[Full details: INVESTIGATION_2_DB_KYC_BREACH.md, INVESTIGATION_7_BARRETT_REPORTS.md]**
+**[Full details: [INVESTIGATION_2_DB_KYC_BREACH.md](/financial/INVESTIGATION_2_DB_KYC_BREACH.md), INVESTIGATION_7_BARRETT_REPORTS.md]**
 
 ---
 
@@ -323,7 +323,7 @@ Kahn had **complete visibility** into the entire financial architecture. He was 
 - Managed complex derivatives trading including "Harvest Collateral Yield Enhancement Strategy"
 - Never raised a compliance flag in 13+ years of managing accounts where the source of $500M+ in funds was undocumented
 
-**[Full details: FORENSIC_ACCT_4_JABWCPA_INSTITUTION1.md, INVESTIGATION_7_BARRETT_REPORTS.md, INVESTIGATION_8_UNEXPLORED_NAMES.md]**
+**[Full details: [FORENSIC_ACCT_4_JABWCPA_INSTITUTION1.md](/financial/FORENSIC_ACCT_4_JABWCPA_INSTITUTION1.md), [INVESTIGATION_7_BARRETT_REPORTS.md](/financial/INVESTIGATION_7_BARRETT_REPORTS.md), INVESTIGATION_8_UNEXPLORED_NAMES.md]**
 
 ---
 
@@ -363,7 +363,7 @@ Based on reconstruction across all four variants, the following individuals are 
 
 **Critical observation:** Staley and Wexner were "(referred)" for investigation. Barr and Black were not. The individual who oversaw the DOJ during Epstein's arrest, detention, death, and the Maxwell prosecution was on this page as an alleged abuser and was never referred.
 
-**[Full details: INVESTIGATION_1_BARR_NTOC.md, INVESTIGATION_6_LEON_BLACK.md]**
+**[Full details: [INVESTIGATION_1_BARR_NTOC.md](/individuals/INVESTIGATION_1_BARR_NTOC.md), INVESTIGATION_6_LEON_BLACK.md]**
 
 ---
 
@@ -535,7 +535,7 @@ $350,000 was wired to NPA co-conspirators within 2-5 days of the story that reig
 
 **No obstruction charges were ever filed.**
 
-**[Full details: INVESTIGATION_4_2018_WIRE_RECIPIENTS.md, FORENSIC_ACCT_5_CALENDAR_CORRELATION.md]**
+**[Full details: [INVESTIGATION_4_2018_WIRE_RECIPIENTS.md](/financial/INVESTIGATION_4_2018_WIRE_RECIPIENTS.md), FORENSIC_ACCT_5_CALENDAR_CORRELATION.md]**
 
 ---
 
@@ -1141,10 +1141,10 @@ A comprehensive content survey of all **10,594 PDFs** in Dataset 8 yielded the f
 
 | File | Subject |
 |------|---------|
-| DS8_VERIFICATION.md | 10-item verification of key claims with rendered PDF confirmation |
-| DS8_NEW_LEADS.md | New names and leads identified from DS8 deep extraction |
-| DS8_CONTENT_SURVEY.md | Comprehensive DS8 document catalog and classification |
-| DS8_MEDIA_CATALOG.md | Updated with MCC surveillance footage analysis and camera position identification |
+| [DS8_VERIFICATION.md](/raw-dataset-analysis/DS8_VERIFICATION.md) | 10-item verification of key claims with rendered PDF confirmation |
+| [DS8_NEW_LEADS.md](/raw-dataset-analysis/DS8_NEW_LEADS.md) | New names and leads identified from DS8 deep extraction |
+| [DS8_CONTENT_SURVEY.md](/raw-dataset-analysis/DS8_CONTENT_SURVEY.md) | Comprehensive DS8 document catalog and classification |
+| [DS8_MEDIA_CATALOG.md](/raw-dataset-analysis/DS8_MEDIA_CATALOG.md) | Updated with MCC surveillance footage analysis and camera position identification |
 
 ---
 
@@ -1154,53 +1154,53 @@ A comprehensive content survey of all **10,594 PDFs** in Dataset 8 yielded the f
 
 | # | File | Size | Subject |
 |---|------|------|---------|
-| 1 | INVESTIGATION_1_BARR_NTOC.md | 25K | William Barr NTOC filing and recusal failure |
-| 2 | INVESTIGATION_2_DB_KYC_BREACH.md | 31K | Deutsche Bank KYC breach timeline |
-| 3 | INVESTIGATION_3_HAZE_TRUST_AML.md | 31K | Haze Trust AML inquiry |
-| 4 | INVESTIGATION_4_2018_WIRE_RECIPIENTS.md | 27K | November/December 2018 obstruction wires |
-| 5 | INVESTIGATION_5_MAXWELL_SSN.md | 24K | Maxwell identity anomalies |
-| 6 | INVESTIGATION_6_LEON_BLACK.md | 33K | Leon Black FBI investigation |
-| 7 | INVESTIGATION_7_BARRETT_REPORTS.md | 34K | Paul Barrett weekly reporting |
-| 8 | INVESTIGATION_8_UNEXPLORED_NAMES.md | 44K | Unexplored names and disappeared witnesses |
+| 1 | [INVESTIGATION_1_BARR_NTOC.md](/individuals/INVESTIGATION_1_BARR_NTOC.md) | 25K | William Barr NTOC filing and recusal failure |
+| 2 | [INVESTIGATION_2_DB_KYC_BREACH.md](/financial/INVESTIGATION_2_DB_KYC_BREACH.md) | 31K | Deutsche Bank KYC breach timeline |
+| 3 | [INVESTIGATION_3_HAZE_TRUST_AML.md](/financial/INVESTIGATION_3_HAZE_TRUST_AML.md) | 31K | Haze Trust AML inquiry |
+| 4 | [INVESTIGATION_4_2018_WIRE_RECIPIENTS.md](/financial/INVESTIGATION_4_2018_WIRE_RECIPIENTS.md) | 27K | November/December 2018 obstruction wires |
+| 5 | [INVESTIGATION_5_MAXWELL_SSN.md](/individuals/INVESTIGATION_5_MAXWELL_SSN.md) | 24K | Maxwell identity anomalies |
+| 6 | [INVESTIGATION_6_LEON_BLACK.md](/individuals/INVESTIGATION_6_LEON_BLACK.md) | 33K | Leon Black FBI investigation |
+| 7 | [INVESTIGATION_7_BARRETT_REPORTS.md](/financial/INVESTIGATION_7_BARRETT_REPORTS.md) | 34K | Paul Barrett weekly reporting |
+| 8 | [INVESTIGATION_8_UNEXPLORED_NAMES.md](/individuals/INVESTIGATION_8_UNEXPLORED_NAMES.md) | 44K | Unexplored names and disappeared witnesses |
 
 ### Forensic Accounting Reports
 
 | # | File | Size | Subject |
 |---|------|------|---------|
-| 1 | FORENSIC_ACCT_1_HAZE_DRAWDOWN.md | 33K | $46.96M Haze Trust drawdown trace |
-| 2 | FORENSIC_ACCT_2_MONEY_SOURCES.md | 28K | Money sources into Epstein accounts |
-| 3 | FORENSIC_ACCT_3_INTER_ENTITY_FLOWS.md | 32K | Inter-entity fund flow mapping |
-| 4 | FORENSIC_ACCT_4_JABWCPA_INSTITUTION1.md | — | JABWCPA and Institution-1 identification |
-| 5 | FORENSIC_ACCT_5_CALENDAR_CORRELATION.md | 38K | Calendar-to-transaction correlation |
-| 6 | FORENSIC_ACCT_6_POST_DEATH_ASSETS.md | 32K | Post-death estate disposition |
+| 1 | [FORENSIC_ACCT_1_HAZE_DRAWDOWN.md](/financial/FORENSIC_ACCT_1_HAZE_DRAWDOWN.md) | 33K | $46.96M Haze Trust drawdown trace |
+| 2 | [FORENSIC_ACCT_2_MONEY_SOURCES.md](/financial/FORENSIC_ACCT_2_MONEY_SOURCES.md) | 28K | Money sources into Epstein accounts |
+| 3 | [FORENSIC_ACCT_3_INTER_ENTITY_FLOWS.md](/financial/FORENSIC_ACCT_3_INTER_ENTITY_FLOWS.md) | 32K | Inter-entity fund flow mapping |
+| 4 | [FORENSIC_ACCT_4_JABWCPA_INSTITUTION1.md](/financial/FORENSIC_ACCT_4_JABWCPA_INSTITUTION1.md) | — | JABWCPA and Institution-1 identification |
+| 5 | [FORENSIC_ACCT_5_CALENDAR_CORRELATION.md](/financial/FORENSIC_ACCT_5_CALENDAR_CORRELATION.md) | 38K | Calendar-to-transaction correlation |
+| 6 | [FORENSIC_ACCT_6_POST_DEATH_ASSETS.md](/financial/FORENSIC_ACCT_6_POST_DEATH_ASSETS.md) | 32K | Post-death estate disposition |
 
 ### Prior Analysis Reports
 
 | File | Size | Subject |
 |------|------|---------|
-| DS10_FORENSIC_ANALYSIS.md | 37K | Original DS10 deep forensic analysis |
-| DS10_COMPLETE_FINDINGS.md | — | Complete DS10 findings |
-| DS10_ENTITY_EXTRACTION_REPORT.md | 141K | Entity extraction results |
-| DS10_RECONSTRUCTED_PAGES.md | 214K | Full page reconstructions |
-| DS10_KEY_DOCUMENTS_DEEP_DIVE.md | 76K | Key document deep dives |
-| DS10_COMPREHENSIVE_NAME_SEARCH.md | 30K | Name search results |
-| HIDDEN_TEXT_COMPLETE_REVIEW.md | — | Complete hidden text review |
+| [DS10_FORENSIC_ANALYSIS.md](/raw-dataset-analysis/DS10_FORENSIC_ANALYSIS.md) | 37K | Original DS10 deep forensic analysis |
+| [DS10_COMPLETE_FINDINGS.md](/raw-dataset-analysis/DS10_COMPLETE_FINDINGS.md) | — | Complete DS10 findings |
+| [DS10_ENTITY_EXTRACTION_REPORT.md](/raw-dataset-analysis/DS10_ENTITY_EXTRACTION_REPORT.md) | 141K | Entity extraction results |
+| [DS10_RECONSTRUCTED_PAGES.md](/raw-dataset-analysis/DS10_RECONSTRUCTED_PAGES.md) | 214K | Full page reconstructions |
+| [DS10_KEY_DOCUMENTS_DEEP_DIVE.md](/raw-dataset-analysis/DS10_KEY_DOCUMENTS_DEEP_DIVE.md) | 76K | Key document deep dives |
+| [DS10_COMPREHENSIVE_NAME_SEARCH.md](/raw-dataset-analysis/DS10_COMPREHENSIVE_NAME_SEARCH.md) | 30K | Name search results |
+| [HIDDEN_TEXT_COMPLETE_REVIEW.md](/methodology/HIDDEN_TEXT_COMPLETE_REVIEW.md) | — | Complete hidden text review |
 
 ### Gap Analysis Reports
 
 | File | Size | Subject |
 |------|------|---------|
-| DS8_MEDIA_CATALOG.md | 8K | Dataset 8: 419 surveillance videos (412.5 hrs), 62+ seized devices, 4 block-redacted CSVs |
-| LUXURY_PURCHASES_ANALYSIS.md | 15K | Art (Rothko, Sotheby's, Christie's), blue diamonds, yachts, Hermes, $158M Leon Black |
+| [DS8_MEDIA_CATALOG.md](/raw-dataset-analysis/DS8_MEDIA_CATALOG.md) | 8K | Dataset 8: 419 surveillance videos (412.5 hrs), 62+ seized devices, 4 block-redacted CSVs |
+| [LUXURY_PURCHASES_ANALYSIS.md](/financial/LUXURY_PURCHASES_ANALYSIS.md) | 15K | Art (Rothko, Sotheby's, Christie's), blue diamonds, yachts, Hermes, $158M Leon Black |
 
 ### Deep Investigation Reports (February 6, 2026)
 
 | File | Subject |
 |------|---------|
-| DS8_VERIFICATION.md | 10-item verification of key claims with rendered PDF confirmation |
-| DS8_NEW_LEADS.md | New names and leads identified from DS8 deep extraction |
-| DS8_CONTENT_SURVEY.md | Comprehensive DS8 document catalog and classification (10,594 PDFs) |
-| DS8_MEDIA_CATALOG.md | Updated: MCC surveillance footage analysis with camera position IDs |
+| [DS8_VERIFICATION.md](/raw-dataset-analysis/DS8_VERIFICATION.md) | 10-item verification of key claims with rendered PDF confirmation |
+| [DS8_NEW_LEADS.md](/raw-dataset-analysis/DS8_NEW_LEADS.md) | New names and leads identified from DS8 deep extraction |
+| [DS8_CONTENT_SURVEY.md](/raw-dataset-analysis/DS8_CONTENT_SURVEY.md) | Comprehensive DS8 document catalog and classification (10,594 PDFs) |
+| [DS8_MEDIA_CATALOG.md](/raw-dataset-analysis/DS8_MEDIA_CATALOG.md) | Updated: MCC surveillance footage analysis with camera position IDs |
 
 ### DS9 Scan Results
 

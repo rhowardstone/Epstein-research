@@ -2463,49 +2463,49 @@ All 85 reports produced during the 10-session investigation, with brief descript
 
 | # | Report | Description |
 |---|--------|-------------|
-| 45 | LEON_BLACK_PROSECUTION_FAILURE.md | Complete prosecution timeline 2021-2024: SDNY + Manhattan DA failures, 4+ victims, video allegation |
+| 45 | [LEON_BLACK_PROSECUTION_FAILURE.md](/individuals/LEON_BLACK_PROSECUTION_FAILURE.md) | Complete prosecution timeline 2021-2024: SDNY + Manhattan DA failures, 4+ victims, video allegation |
 | 46 | PROMINENT_NAMES_COMPLETE_V2.md | Full extraction of FBI master briefing deck: all 21 pages, all named individuals with exact allegations |
 | 47 | SIEGEL_DILORIO_INVESTIGATION.md | Bill Siegel: 16 EFTA docs, victim journal identification. Dilorio: Apollo/Kushner SEC whistleblower |
-| 48 | ALLRED_VICTIM_INTERVIEW.md | 30-page FBI evidence package: victim born ~1985, 4 assaults before 18, 2 rapes, harem ideology, Brunel |
-| 49 | WILLIAM_BARR_INVESTIGATION.md | 55+ documents: NTOC "present during abuses," father hired Epstein at Dalton, split recusal, K&E conflict |
-| 50 | LUTNICK_DUBIN_INVESTIGATION.md | Lutnick: single NTOC tip (disgruntled employee). Dubin: 54 documents, "lent out," Eva complicit, 34+ flights |
-| 51 | RUEMMLER_DEEP_DIVE.md | 29 documents: "Clinton Obama" warning, "Nigerian" placement, sealed indictment, Goldman Sachs trajectory |
-| 52 | JUNKERMANN_MC2_INVESTIGATION.md | 10+ year relationship, Epstein brokered Black intro, Jan 2019 island, MC2 stranding Russian models |
-| 53 | MARCINKOVA_INVESTIGATION.md | ZERO full-name results across 1.8M records (identity protection), $100K Aviloop wire, 124 flights |
+| 48 | [ALLRED_VICTIM_INTERVIEW.md](/victims/ALLRED_VICTIM_INTERVIEW.md) | 30-page FBI evidence package: victim born ~1985, 4 assaults before 18, 2 rapes, harem ideology, Brunel |
+| 49 | [WILLIAM_BARR_INVESTIGATION.md](/individuals/WILLIAM_BARR_INVESTIGATION.md) | 55+ documents: NTOC "present during abuses," father hired Epstein at Dalton, split recusal, K&E conflict |
+| 50 | [LUTNICK_DUBIN_INVESTIGATION.md](/individuals/LUTNICK_DUBIN_INVESTIGATION.md) | Lutnick: single NTOC tip (disgruntled employee). Dubin: 54 documents, "lent out," Eva complicit, 34+ flights |
+| 51 | [RUEMMLER_DEEP_DIVE.md](/individuals/RUEMMLER_DEEP_DIVE.md) | 29 documents: "Clinton Obama" warning, "Nigerian" placement, sealed indictment, Goldman Sachs trajectory |
+| 52 | [JUNKERMANN_MC2_INVESTIGATION.md](/individuals/JUNKERMANN_MC2_INVESTIGATION.md) | 10+ year relationship, Epstein brokered Black intro, Jan 2019 island, MC2 stranding Russian models |
+| 53 | [MARCINKOVA_INVESTIGATION.md](/individuals/MARCINKOVA_INVESTIGATION.md) | ZERO full-name results across 1.8M records (identity protection), $100K Aviloop wire, 124 flights |
 
 ### Session 9 Reports (54-66)
 
 | # | Report | Description |
 |---|--------|-------------|
-| 54 | SESSION9_MASTER_FINDINGS.md | Comprehensive session findings: CBP corruption, Austrian passport, victim census, shell entity map |
-| 55 | FOUR_CHAN_PARAMEDIC_INVESTIGATION.md | 4chan death leak, hard drives removed 10:15 PM, guard DPAs dismissed, employee confession YouTube |
-| 56 | ONLINE_EVIDENCE_INVESTIGATION.md | r/maxwellhill screenshot in FBI serial, social media led to Maxwell via Borgerson-Angara-Tidewood shells |
-| 57 | UNNAMED_PERSONS_INVESTIGATION.md | Foreign president = Ehud Barak (14+ docs), AOL cluster mapped, 34 journal names cross-referenced |
-| 58 | CBP_CORRUPTION_INVESTIGATION.md | Badge #CAS03223 self-incriminated, 7+ years clearing aircraft, FBI proffer sessions Oct-Nov 2020 |
-| 59 | DILORIO_APOLLO_WHISTLEBLOWER.md | ESWW shell/Epstein Financial Trust in same SEC filing as Apollo, SEC dropped probe, threatening calls |
-| 60 | TRAFFICKING_ROUTES_INVESTIGATION.md | Aircraft fleet, weekly cycling, MC2 ages 13-20, pilots modified logs, victim "database" tracking |
-| 61 | PROSECUTION_FAILURES_ANALYSIS.md | NPA architecture, Acosta deposition, Dershowitz self-immunity, named individual prosecution failures |
-| 62 | SHELL_ENTITY_MAP.md | 95+ entities across 10 categories under RM CODE 82289 at Deutsche Bank |
-| 63 | VICTIM_CENSUS.md | Minimum 60-80 individually identified, likely 200+, USVI AG: "hundreds" |
-| 64 | ISRAELI_INTELLIGENCE_DEEP_DIVE.md | 301 E 66th nexus, military base tour, Melvyn Kohn letters, FOIA intelligence exemption |
-| 65 | CBP_RUEMMLER_REMAINING_LEADS.md | CBP officer expanded, Ruemmler full 15-email trail, 3BIS active construction May 2019 |
-| 66 | UNEXPLORED_DOCUMENT_MINING.md | Camera-in-clock confirmed, T-160 VHS never scanned, Boies/Pottinger extortion, 48 diamonds |
+| 54 | [SESSION9_MASTER_FINDINGS.md](/overview/SESSION9_MASTER_FINDINGS.md) | Comprehensive session findings: CBP corruption, Austrian passport, victim census, shell entity map |
+| 55 | [FOUR_CHAN_PARAMEDIC_INVESTIGATION.md](/conspiracy-debunking/FOUR_CHAN_PARAMEDIC_INVESTIGATION.md) | 4chan death leak, hard drives removed 10:15 PM, guard DPAs dismissed, employee confession YouTube |
+| 56 | [ONLINE_EVIDENCE_INVESTIGATION.md](/conspiracy-debunking/ONLINE_EVIDENCE_INVESTIGATION.md) | r/maxwellhill screenshot in FBI serial, social media led to Maxwell via Borgerson-Angara-Tidewood shells |
+| 57 | [UNNAMED_PERSONS_INVESTIGATION.md](/individuals/UNNAMED_PERSONS_INVESTIGATION.md) | Foreign president = Ehud Barak (14+ docs), AOL cluster mapped, 34 journal names cross-referenced |
+| 58 | [CBP_CORRUPTION_INVESTIGATION.md](/institutional/CBP_CORRUPTION_INVESTIGATION.md) | Badge #CAS03223 self-incriminated, 7+ years clearing aircraft, FBI proffer sessions Oct-Nov 2020 |
+| 59 | [DILORIO_APOLLO_WHISTLEBLOWER.md](/financial/DILORIO_APOLLO_WHISTLEBLOWER.md) | ESWW shell/Epstein Financial Trust in same SEC filing as Apollo, SEC dropped probe, threatening calls |
+| 60 | [TRAFFICKING_ROUTES_INVESTIGATION.md](/victims/TRAFFICKING_ROUTES_INVESTIGATION.md) | Aircraft fleet, weekly cycling, MC2 ages 13-20, pilots modified logs, victim "database" tracking |
+| 61 | [PROSECUTION_FAILURES_ANALYSIS.md](/institutional/PROSECUTION_FAILURES_ANALYSIS.md) | NPA architecture, Acosta deposition, Dershowitz self-immunity, named individual prosecution failures |
+| 62 | [SHELL_ENTITY_MAP.md](/financial/SHELL_ENTITY_MAP.md) | 95+ entities across 10 categories under RM CODE 82289 at Deutsche Bank |
+| 63 | [VICTIM_CENSUS.md](/victims/VICTIM_CENSUS.md) | Minimum 60-80 individually identified, likely 200+, USVI AG: "hundreds" |
+| 64 | [ISRAELI_INTELLIGENCE_DEEP_DIVE.md](/intelligence/ISRAELI_INTELLIGENCE_DEEP_DIVE.md) | 301 E 66th nexus, military base tour, Melvyn Kohn letters, FOIA intelligence exemption |
+| 65 | [CBP_RUEMMLER_REMAINING_LEADS.md](/institutional/CBP_RUEMMLER_REMAINING_LEADS.md) | CBP officer expanded, Ruemmler full 15-email trail, 3BIS active construction May 2019 |
+| 66 | [UNEXPLORED_DOCUMENT_MINING.md](/overview/UNEXPLORED_DOCUMENT_MINING.md) | Camera-in-clock confirmed, T-160 VHS never scanned, Boies/Pottinger extortion, 48 diamonds |
 
 ### Session 10 Reports -- Art and Digital Forensics (67-77)
 
 | # | Report | Description |
 |---|--------|-------------|
-| 67 | ART_INVESTIGATION_COMPLETE.md | Unified art investigation (80KB, 1617 lines): $30.5M auction proceeds, Black $2.7B collection, 54 named art world figures, 72 sections |
-| 68 | ART_INVESTIGATION_REDACTIONS.md | Sub-report: 165 queries across 3.4M redaction records for art-related hidden text |
-| 69 | ART_INVESTIGATION_OCR_IMAGES.md | Sub-report: 53 queries across OCR + image databases for art documentation |
-| 70 | ART_INVESTIGATION_WEB_RESEARCH.md | Sub-report: 40+ web sources, 16 sections on art market connections |
-| 71 | TRANSACTION_CHAIN_AUCTION_TO_DESTINATION.md | Prosecutorial narrative: $30.5M Sotheby's/Christie's through Haze Trust to investment funds |
-| 72 | TRANSACTION_CHAIN_BLACK_ART_MACHINE.md | Prosecutorial narrative: 15 chains tracing $168M Black to Epstein, art/trafficking structural unity |
-| 73 | TRANSACTION_CHAIN_THIRD_PARTY_ART.md | Prosecutorial narrative: Prytanee, Rothschild, Tudor, Gratitude America, Mitchell, art insurance |
-| 74 | PLIST_FORENSIC_SEARCH.md | 460+ Apple Mail PLIST metadata documents, 2 email accounts, 9-year date range |
-| 75 | PLIST_REDACTED_EMAILS_DEEP_DIVE.md | 12 bad_overlay redactions: "I'm not a toy Jeffrey," neuroscience dinner, State Dept call for Mitchell |
-| 76 | PLIST_TIMESTAMP_TRANSACTION_CORRELATION.md | 420 timestamps vs financial dates: Tudor $13.5M strongest, 99-day blackout discovery |
-| 77 | DEVICE_FORENSICS_COMPLETE.md | 70+ devices, 2005 computer NEVER searched, DVR failure, "FBI completely fucking us" processing |
+| 67 | [ART_INVESTIGATION_COMPLETE.md](/art/ART_INVESTIGATION_COMPLETE.md) | Unified art investigation (80KB, 1617 lines): $30.5M auction proceeds, Black $2.7B collection, 54 named art world figures, 72 sections |
+| 68 | [ART_INVESTIGATION_REDACTIONS.md](/art/ART_INVESTIGATION_REDACTIONS.md) | Sub-report: 165 queries across 3.4M redaction records for art-related hidden text |
+| 69 | [ART_INVESTIGATION_OCR_IMAGES.md](/art/ART_INVESTIGATION_OCR_IMAGES.md) | Sub-report: 53 queries across OCR + image databases for art documentation |
+| 70 | [ART_INVESTIGATION_WEB_RESEARCH.md](/art/ART_INVESTIGATION_WEB_RESEARCH.md) | Sub-report: 40+ web sources, 16 sections on art market connections |
+| 71 | [TRANSACTION_CHAIN_AUCTION_TO_DESTINATION.md](/financial/TRANSACTION_CHAIN_AUCTION_TO_DESTINATION.md) | Prosecutorial narrative: $30.5M Sotheby's/Christie's through Haze Trust to investment funds |
+| 72 | [TRANSACTION_CHAIN_BLACK_ART_MACHINE.md](/financial/TRANSACTION_CHAIN_BLACK_ART_MACHINE.md) | Prosecutorial narrative: 15 chains tracing $168M Black to Epstein, art/trafficking structural unity |
+| 73 | [TRANSACTION_CHAIN_THIRD_PARTY_ART.md](/financial/TRANSACTION_CHAIN_THIRD_PARTY_ART.md) | Prosecutorial narrative: Prytanee, Rothschild, Tudor, Gratitude America, Mitchell, art insurance |
+| 74 | [PLIST_FORENSIC_SEARCH.md](/evidence/PLIST_FORENSIC_SEARCH.md) | 460+ Apple Mail PLIST metadata documents, 2 email accounts, 9-year date range |
+| 75 | [PLIST_REDACTED_EMAILS_DEEP_DIVE.md](/evidence/PLIST_REDACTED_EMAILS_DEEP_DIVE.md) | 12 bad_overlay redactions: "I'm not a toy Jeffrey," neuroscience dinner, State Dept call for Mitchell |
+| 76 | [PLIST_TIMESTAMP_TRANSACTION_CORRELATION.md](/evidence/PLIST_TIMESTAMP_TRANSACTION_CORRELATION.md) | 420 timestamps vs financial dates: Tudor $13.5M strongest, 99-day blackout discovery |
+| 77 | [DEVICE_FORENSICS_COMPLETE.md](/evidence/DEVICE_FORENSICS_COMPLETE.md) | 70+ devices, 2005 computer NEVER searched, DVR failure, "FBI completely fucking us" processing |
 
 ### Codex Financial Analysis (78-84)
 

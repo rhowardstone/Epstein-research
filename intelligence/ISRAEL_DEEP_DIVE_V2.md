@@ -3,7 +3,7 @@
 ## Classification: Research Analysis of Publicly Released DOJ FOIA Documents (218GB Corpus)
 ## Date: February 8, 2026
 ## Databases Queried: OCR text extraction database, primary document text database, Dataset 10 document text database, image catalog database
-## Supersedes: ISRAELI_INTELLIGENCE_DEEP_DIVE.md (Feb 6, 2026)
+## Supersedes: [ISRAELI_INTELLIGENCE_DEEP_DIVE.md](/intelligence/ISRAELI_INTELLIGENCE_DEEP_DIVE.md) (Feb 6, 2026)
 
 ---
 
@@ -297,7 +297,7 @@ Nicole Junkermann is a German-born investor, founder of NJF Holdings, and has be
   2. **Junkermann** is on the contact list alongside **Steve Bannon** and **Sultan Bin Sulayem** (chairman of DP World, connected to Dubai's ruling family)
   3. "3BIS" is an entity/group wanting to visit Epstein's island
   4. The email mentions Paris travel (Jan 22-31) and island travel (Feb 2-5)
-  5. **Sultan bin Sulayem** separately appears in DUBAI_SULAYEM_INVESTIGATION.md directing his DP World executive to contact Epstein's USVI attorney about the "port of St Croix"
+  5. **Sultan bin Sulayem** separately appears in [DUBAI_SULAYEM_INVESTIGATION.md](/individuals/DUBAI_SULAYEM_INVESTIGATION.md) directing his DP World executive to contact Epstein's USVI attorney about the "port of St Croix"
 
 ---
 
@@ -794,17 +794,17 @@ The files show the INFRASTRUCTURE of something consistent with an intelligence o
 # APPENDIX E: CROSS-REFERENCES TO PRIOR INVESTIGATIONS
 
 This report incorporates, consolidates, and extends findings from:
-- `ISRAELI_INTELLIGENCE_DEEP_DIVE.md` (Session 9): Prior version of this analysis
-- `JUNKERMANN_MC2_INVESTIGATION.md` (Session 8): Junkermann 10-year relationship, Leon Black introduction
-- `UNNAMED_PERSONS_INVESTIGATION.md` (Session 9): "Foreign president" identified as Ehud Barak
-- `DILORIO_APOLLO_WHISTLEBLOWER.md` (Session 9): Schlaff/Alpha Capital connections
-- `PROSECUTION_FAILURES_ANALYSIS.md` (Session 9): NPA architecture, Acosta deposition
+- `[ISRAELI_INTELLIGENCE_DEEP_DIVE.md](/intelligence/ISRAELI_INTELLIGENCE_DEEP_DIVE.md)` (Session 9): Prior version of this analysis
+- `[JUNKERMANN_MC2_INVESTIGATION.md](/individuals/JUNKERMANN_MC2_INVESTIGATION.md)` (Session 8): Junkermann 10-year relationship, Leon Black introduction
+- `[UNNAMED_PERSONS_INVESTIGATION.md](/individuals/UNNAMED_PERSONS_INVESTIGATION.md)` (Session 9): "Foreign president" identified as Ehud Barak
+- `[DILORIO_APOLLO_WHISTLEBLOWER.md](/financial/DILORIO_APOLLO_WHISTLEBLOWER.md)` (Session 9): Schlaff/Alpha Capital connections
+- `[PROSECUTION_FAILURES_ANALYSIS.md](/institutional/PROSECUTION_FAILURES_ANALYSIS.md)` (Session 9): NPA architecture, Acosta deposition
 - `BLACKMAIL_INTELLIGENCE_INVESTIGATION.md` (Session 3): Earlier blackmail analysis
-- `DUBAI_SULAYEM_INVESTIGATION.md` (Session 10): Sultan bin Sulayem, DP World, port of St Croix
+- `[DUBAI_SULAYEM_INVESTIGATION.md](/individuals/DUBAI_SULAYEM_INVESTIGATION.md)` (Session 10): Sultan bin Sulayem, DP World, port of St Croix
 - `BANNON_CLINTON_EVIDENCE.md` (Session 7): Bannon-Epstein relationship, Barak-Bannon meeting
 - `EHUD_BARAK_ISRAEL_INVESTIGATION.md` (Session 3): Earlier Barak analysis
 - `CLASSIFIED_INTELLIGENCE_INVESTIGATION.md` (Session 3): SECRET/NOFORN documents
-- `CBP_CORRUPTION_INVESTIGATION.md` (Session 9): USVI access infrastructure
+- `[CBP_CORRUPTION_INVESTIGATION.md](/institutional/CBP_CORRUPTION_INVESTIGATION.md)` (Session 9): USVI access infrastructure
 
 ---
 

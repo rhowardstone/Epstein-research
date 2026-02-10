@@ -607,10 +607,10 @@ All four databases were queried with the following terms:
 # APPENDIX C: CROSS-REFERENCES TO PRIOR INVESTIGATIONS
 
 This report incorporates and extends findings from:
-- `JUNKERMANN_MC2_INVESTIGATION.md` (Session 8): Nicole Junkermann, MC2, 301 E 66th Street
-- `UNNAMED_PERSONS_INVESTIGATION.md` (Session 9): "Foreign president" identified as Ehud Barak
-- `DILORIO_APOLLO_WHISTLEBLOWER.md` (Session 9): Schlaff/Alpha Capital connections
-- `PROSECUTION_FAILURES_ANALYSIS.md` (Session 9): NPA architecture and Acosta deposition
+- `[JUNKERMANN_MC2_INVESTIGATION.md](/individuals/JUNKERMANN_MC2_INVESTIGATION.md)` (Session 8): Nicole Junkermann, MC2, 301 E 66th Street
+- `[UNNAMED_PERSONS_INVESTIGATION.md](/individuals/UNNAMED_PERSONS_INVESTIGATION.md)` (Session 9): "Foreign president" identified as Ehud Barak
+- `[DILORIO_APOLLO_WHISTLEBLOWER.md](/financial/DILORIO_APOLLO_WHISTLEBLOWER.md)` (Session 9): Schlaff/Alpha Capital connections
+- `[PROSECUTION_FAILURES_ANALYSIS.md](/institutional/PROSECUTION_FAILURES_ANALYSIS.md)` (Session 9): NPA architecture and Acosta deposition
 - `BLACKMAIL_INTELLIGENCE_INVESTIGATION.md` (Session 3): Earlier blackmail analysis
 
 ---
