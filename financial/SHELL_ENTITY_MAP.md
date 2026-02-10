@@ -13,6 +13,8 @@
 
 All entities below are deduplicated across sources. Entity type and purpose are inferred from document context.
 
+> **SOURCE NOTE:** All `DB-SDNY-#######` Bates numbers in this document are Deutsche Bank document production references from [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf) (Exhibits A-E: master transaction tables compiled by SDNY from Deutsche Bank records).
+
 ---
 
 ## CATEGORY A: CORE EPSTEIN-CONTROLLED TRUSTS AND LLCs

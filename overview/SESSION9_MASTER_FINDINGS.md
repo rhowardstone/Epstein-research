@@ -241,7 +241,7 @@
 - Total amount represented: **$755,632,579**
 - Post-KYC breach transactions: 50 totaling $189M
 - **Dominant corridors**: Haze Trust → Southern Financial ($39.7M outflow), Southern Trust → Honeycomb Partners ($33M, 4 txns), Haze Trust → Southern Financial ($22M, 3 txns)
-- **Same-day bundled transfers** suggest coordinated movement: DB-SDNY-0006153 ($72M same-day), DB-SDNY-0008063 ($24.5M cluster)
+- **Same-day bundled transfers** suggest coordinated movement: DB-SDNY-0006153 ($72M same-day), DB-SDNY-0008063 ($24.5M cluster) *(DB-SDNY Bates numbers are Deutsche Bank production references from [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf))*
 - **Gratitude America, Ltd**: Epstein entity making payments to NPO Baleto Teatras (Lithuanian ballet) and Cancer Research Wellness Institute
 - **Strongest evidence of banker misconduct**: $23M approval workflow ([EFTA01431221](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01431221.pdf)), stop-wire attempted after already processed ([EFTA01426081](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01426081.pdf)), KYC breach with continued servicing
 - **Legal assessment**: Strong institutional knowledge + control failure + suspicious transaction handling, but not yet individual criminal attribution without additional transaction metadata
@@ -461,7 +461,7 @@ Complete entity census compiled across all document collections. Key categories:
 - C/O American Yacht Harbor, 6100 Red Hook Quarters B-3, St. Thomas
 
 ### 35. $23M Wire to Kellerhals Law Firm ([EFTA01431221](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01431221.pdf))
-- November 13, 2015: **$23,000,000** to Kellerhals Ferguson Kroblin PLLC (Bates DB-SDNY-0005003)
+- November 13, 2015: **$23,000,000** to Kellerhals Ferguson Kroblin PLLC (Bates DB-SDNY-0005003, from [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf))
 - Approval email from Stewart Oldfield, flagged by PWM SPG (Private Wealth Management, Special Purpose Group)
 - Erika Kellerhals served as notary, trust counsel, and probate attorney for Epstein's USVI operations
 - This single payment exceeds Leon Black's annual advisory fee - extraordinarily large for a local USVI law firm

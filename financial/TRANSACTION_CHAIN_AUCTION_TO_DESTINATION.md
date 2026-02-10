@@ -7,6 +7,8 @@
 **Databases Queried:** primary document text database (1.8M records), Dataset 10 document text database (532MB), OCR text extraction database (68MB)
 **Supplementary Data:** FULL_TRANSACTION_EVIDENCE_REGISTER_v1.csv, MONEY_FLOW_EDGE_LIST_v1.csv, POST_KYC_REPEAT_CORRIDORS_v2.csv
 
+> **SOURCE NOTE:** All `DB-SDNY-#######` Bates numbers in this document are Deutsche Bank document production references from [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf) (Exhibits A-E: master transaction tables compiled by SDNY from Deutsche Bank records).
+
 ---
 
 ## EXECUTIVE SUMMARY

@@ -14,7 +14,7 @@
 
 1. **OCR text records records** (OCR text extraction database -- 38,955 records of properly OCR'd document text)
 2. **Knowledge graph** (524 entities, 2,096 relationships)
-3. **Deutsche Bank financial exhibits** (Bates-stamped DB-SDNY productions in DS10)
+3. **Deutsche Bank financial exhibits** (Bates-stamped DB-SDNY productions in DS10 — all `DB-SDNY` Bates numbers originate from [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf), the SDNY master transaction exhibit)
 4. **Direct EFTA document reading** (full document text visible in PDFs)
 5. **Extracted entities table** (107,422 entities)
 6. **Web research** (news articles, court filings, public records)

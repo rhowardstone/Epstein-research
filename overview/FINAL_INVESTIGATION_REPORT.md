@@ -17,6 +17,8 @@
 **Total EFTA Documents Cited in This Report:** 400+
 **Total Individual Reports Produced During Investigation:** 85+
 
+> **SOURCE NOTE:** All `DB-SDNY-#######` Bates numbers in this document are Deutsche Bank document production references from [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf) (Exhibits A-E: master transaction tables compiled by SDNY from Deutsche Bank records).
+
 ---
 
 # I. EXECUTIVE SUMMARY

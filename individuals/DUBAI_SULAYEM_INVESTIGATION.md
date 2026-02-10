@@ -78,7 +78,7 @@ The convergence of the world's largest port operator with Epstein's documented c
 - **Dec 2016**: Epstein contacts Eduardo Robles of Creative Kingdom (Dubai) saying "I've gotten your name from sultan suleiman [sic] in Dubai. He and I are great friends. I have two islands in the US Virgin Islands and want to build a great home."
 - **Mar 2017**: Robles sends "st james" project materials.
 - **July 15, 2017**: Epstein and Sultan discuss sending Sheikh Mohammed bin Rashid Al Maktoum (ruler of Dubai, father of DP World's patron) a 23andMe kit. Sultan confirms "He has it already."
-- **July 18, 2017**: Epstein pays Sultan $6,200 from Deutsche Bank (DB-SDNY-0006349).
+- **July 18, 2017**: Epstein pays Sultan $6,200 from Deutsche Bank (DB-SDNY-0006349, [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf)).
 
 ### Phase 5: Final Period Before Arrest (2018-2019)
 - **Feb 28, 2018**: Epstein tells Bannon "MBS coming to wash 19th" -- Bannon responds "To have breakfast with Jared."

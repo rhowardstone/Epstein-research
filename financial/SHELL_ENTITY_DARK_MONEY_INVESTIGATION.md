@@ -12,6 +12,8 @@
 **Total Queries Executed:** 44+ primary queries across all document collections
 **Known Entity Baseline:** 95+ entities under RM CODE 82289
 
+> **SOURCE NOTE:** All `DB-SDNY-#######` Bates numbers in this document are Deutsche Bank document production references from [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf) (Exhibits A-E: master transaction tables compiled by SDNY from Deutsche Bank records).
+
 ---
 
 ## EXECUTIVE SUMMARY

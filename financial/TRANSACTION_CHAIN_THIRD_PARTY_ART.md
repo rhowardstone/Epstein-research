@@ -2,6 +2,8 @@
 ## Prosecutorial Narrative: Transaction Chain Analysis
 ### Compiled: 2026-02-07 | Classification: FORENSIC FINANCIAL INVESTIGATION
 
+> **SOURCE NOTE:** All `DB-SDNY-#######` Bates numbers in this document are Deutsche Bank document production references from [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf) (Exhibits A-E: master transaction tables compiled by SDNY from Deutsche Bank records).
+
 ---
 
 ## CHAIN 1: PRYTANEE LLC -- JACK LANG / CAROLINE LANG ART INVESTMENT ENTITY
