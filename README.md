@@ -214,19 +214,6 @@ Use this table to determine which DOJ dataset contains a given EFTA number, or t
 
 ---
 
-## DOJ Link Status
-
-As of February 2026, the DOJ has taken down most or all files from the justice.gov Epstein library. The main page (justice.gov/epstein) returns HTTP 403, and individual EFTA PDFs return HTTP 404. This occurred after the DOJ acknowledged redaction failures that exposed victim-identifying information in "several thousand documents" ([ABC News](https://abcnews.go.com/US/epstein-files-doj-thousand-documents-mistakenly-identified-victims/story?id=129787942), [OPB](https://www.opb.org/article/2025/12/21/doj-releases-additional-epstein-files-as-it-removes-others/), [PBS](https://www.pbs.org/newshour/politics/at-least-16-files-disappear-from-doj-site-for-epstein-documents-including-trump-photo)).
-
-EFTA links in these reports remain as canonical references to the DOJ's document identifiers. The underlying documents can be accessed through:
-- The complete 218GB archive torrent (archived independently)
-- Congressional reading rooms
-- FOIA requests referencing specific EFTA numbers
-
-A programmatic audit of all 6,297 unique EFTA URLs linked in these reports confirmed that 0 of 12 datasets currently return HTTP 200 from justice.gov.
-
----
-
 ## Methodology
 
 All analysis was performed against four primary document collections built from the raw PDF corpus:
