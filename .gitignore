@@ -1,0 +1,34 @@
+# === EVERYTHING is ignored by default ===
+*
+
+# === Only allow these specific files and folders ===
+
+# Root files
+!README.md
+!CONGRESSIONAL_READING_GUIDE.md
+!CONGRESS_RAW_EFTA_LIST.md
+!.gitignore
+
+# Category folders and their .md contents
+!overview/
+!overview/*.md
+!financial/
+!financial/*.md
+!individuals/
+!individuals/*.md
+!victims/
+!victims/*.md
+!evidence/
+!evidence/*.md
+!intelligence/
+!intelligence/*.md
+!institutional/
+!institutional/*.md
+!art/
+!art/*.md
+!methodology/
+!methodology/*.md
+!conspiracy-debunking/
+!conspiracy-debunking/*.md
+!raw-dataset-analysis/
+!raw-dataset-analysis/*.md
