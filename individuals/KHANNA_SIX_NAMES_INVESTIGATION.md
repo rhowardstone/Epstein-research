@@ -12,14 +12,14 @@ Six names were disclosed:
 
 | # | Name | Known Identity | Evidence in EFTA Files | Co-Conspirator Basis |
 |---|------|---------------|----------------------|---------------------|
-| 1 | **Salvatore Nuara** | NYPD detective; disciplined for escort service connection | **ZERO hits** across all 4 databases (3.4M+ records) | Likely named in 2008 NPA co-conspirator list (sealed) |
-| 2 | **Zurab Mikeladze** | Georgian oil/business figure | **ZERO hits** across all 4 databases | Likely named in 2008 NPA co-conspirator list (sealed) |
-| 3 | **Leonic Leonov** | Little publicly known | **ZERO hits** across all 4 databases | Likely named in 2008 NPA co-conspirator list (sealed) |
-| 4 | **Nicola Caputo** | Former EU Parliament member (Italy) | **ZERO hits** across all 4 databases; [EFTA00077895](https://www.justice.gov/age-verify?destination=/epstein/files/DataSet%209/EFTA00077895) (reported source) falls in Dataset 9 range | Likely named in 2008 NPA co-conspirator list (sealed) |
+| 1 | **Salvatore Nuara** | NYPD detective; disciplined for escort service connection | No hits in current databases (see §4 — only ~3% OCR coverage); **confirmed on EFTA00077895 list (#3)** | NYPD complaint source, 2010 |
+| 2 | **Zurab Mikeladze** | Georgian oil/business figure | No hits in current databases (see §4 — only ~3% OCR coverage); **confirmed on EFTA00077895 list (#10)** | NYPD complaint source, 2021 |
+| 3 | **Leonic Leonov** | Little publicly known | No hits in current databases (see §4 — only ~3% OCR coverage); **confirmed on EFTA00077895 list (#14)** | NYPD complaint source, 2021 |
+| 4 | **Nicola Caputo** | Former EU Parliament member (Italy) | No hits in current databases (see §4 — only ~3% OCR coverage); **confirmed on EFTA00077895 list (#17)** | NYPD complaint source, 2009 |
 | 5 | **Sultan Ahmed bin Sulayem** | Chairman/CEO of DP World (Dubai) | **40+ documents**, 10-year relationship (2009-2019), victim testimony, port infrastructure access, seized CD evidence | Extensive — see existing [DUBAI_SULAYEM_INVESTIGATION.md](/individuals/DUBAI_SULAYEM_INVESTIGATION.md) |
 | 6 | **Leslie Wexner** | Billionaire founder of L Brands/Victoria's Secret | **45 mentions** in prosecution memo alone, 13+ unique EFTA documents, FBI labeled him source of Epstein's wealth | Extensive — $100M+ misappropriation, Victoria's Secret pipeline, FBI "Prominent Names" briefing |
 
-**Key finding**: Four of the six names (Nuara, Mikeladze, Leonov, Caputo) produce zero results across 3.4 million database records, 21,859 analyzed images, and 15,533 OCR'd documents. This means either: (a) the names appear only in sealed/un-OCR'd documents (likely the original 2008 NPA co-conspirator list), or (b) they appear in Dataset 9 materials not in our corpus. Their designation as "potential co-conspirators" likely traces to the 2008 Non-Prosecution Agreement, which explicitly protected unnamed co-conspirators from federal charges.
+**Key finding**: Four of the six names (Nuara, Mikeladze, Leonov, Caputo) produce zero results in our current databases — **but this is not conclusive.** Our databases cover only ~3% of the 519,438 PDFs via OCR, and Dataset 9 (1.2M+ files) is largely missing from our local corpus. All four names are **confirmed present** in [EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf) — the 20-person co-conspirator list (Dataset 9, now downloaded). A comprehensive search requires full-corpus text extraction, which is in progress. Their designation as "potential co-conspirators" traces to NYPD complaint filings spanning 2009-2021.
 
 **Critical new context from web research (Feb 10, 2026)**:
 - These six names come from a **20-person co-conspirator list** in the Epstein files. Initially only Epstein and Maxwell were visible; 16 additional names have now been unredacted. **Two names remain redacted.**
@@ -70,11 +70,12 @@ This suggests that when Epstein was arrested, the FBI immediately began contacti
 - **Notable**: Disciplined by the NYPD in connection with an escort service; his name appeared in Jeffrey Epstein's "black book" of contacts
 
 ### Evidence in EFTA Files
-**ZERO HITS** across all extracted databases:
+**No hits in current databases** (caveat: only ~3% of 519,438 PDFs have been OCR'd; full-corpus extraction in progress):
 - Primary document text database (1.8M records): 0 results for "Nuara"
 - Dataset 10 document text database (532MB): 0 results
-- OCR database (15,533 documents): 0 results
+- OCR database (15,533 documents / ~3% coverage): 0 results
 - Image analysis database (21,859 images): 0 results
+- **CONFIRMED** on EFTA00077895 co-conspirator list as **#3**, source: NYPD 2010
 
 ### Broader Search
 - "Salvatore" returns 3 hits, all for "Salvatore Moore" (Deutsche Bank employee) — no connection to Nuara
@@ -94,14 +95,15 @@ Nuara was likely named in Epstein's black book (the physical contact book seized
 - **Limited public profile**; LinkedIn presence suggests oil industry connections in Georgia/CIS region
 
 ### Evidence in EFTA Files
-**ZERO HITS** across all databases:
+**No hits in current databases** (caveat: only ~3% OCR coverage; full-corpus extraction in progress):
 - "Mikeladze": 0 results across all 4 databases
 - "Zurab": 0 results across all 4 databases
 - "Georgia" + "oil": 0 relevant results
 - "Tbilisi": 0 results
+- **CONFIRMED** on EFTA00077895 co-conspirator list as **#10**, source: NYPD 2021
 
 ### Assessment
-Mikeladze's inclusion suggests Epstein's network extended into the Caucasus energy sector. Given Epstein's documented connections to Russian/Eastern European networks (MC2 model recruitment from Russia/Eastern Europe, Mandelson-Deripaska Moscow connections, Russian women in SARs), a Georgian oil figure fits the broader pattern of CIS business elite in Epstein's orbit. The complete absence from our databases means his name likely appears only in sealed NPA documents or in the physical black book.
+Mikeladze's inclusion suggests Epstein's network extended into the Caucasus energy sector. Given Epstein's documented connections to Russian/Eastern European networks (MC2 model recruitment from Russia/Eastern Europe, Mandelson-Deripaska Moscow connections, Russian women in SARs), a Georgian oil figure fits the broader pattern of CIS business elite in Epstein's orbit. The NYPD 2021 source date is notably late — this may represent a complaint filed after the 2019 arrest/death, possibly by a victim who came forward during the SDNY investigation. The absence from current databases may change after full-corpus text extraction.
 
 ---
 
@@ -113,12 +115,13 @@ Mikeladze's inclusion suggests Epstein's network extended into the Caucasus ener
 - No confirmed biographical details from public reporting
 
 ### Evidence in EFTA Files
-**ZERO HITS** across all databases:
+**No hits in current databases** (caveat: only ~3% OCR coverage; full-corpus extraction in progress):
 - "Leonov": 0 results across all 4 databases
 - "Leonic": 0 results across all 4 databases
+- **CONFIRMED** on EFTA00077895 co-conspirator list as **#14**, source: NYPD 2021
 
 ### Assessment
-This is the most opaque of the six names. The Russian/Eastern European naming convention is consistent with Epstein's documented Eastern European network (MC2 models from Russia, Mandelson-Moscow connections, "Russian models" in SARs). The complete absence from 3.4M+ records suggests his involvement was documented only in sealed materials.
+This is the most opaque of the six names. The Russian/Eastern European naming convention is consistent with Epstein's documented Eastern European network (MC2 models from Russia, Mandelson-Moscow connections, "Russian models" in SARs). Like Mikeladze, the NYPD 2021 source date suggests a post-arrest complaint. The absence from current databases may change after full-corpus text extraction.
 
 ---
 
@@ -129,12 +132,12 @@ This is the most opaque of the six names. The Russian/Eastern European naming co
 - Political career in Italian and European politics
 
 ### Evidence in EFTA Files
-**ZERO direct HITS** for "Nicola Caputo":
+**No hits for "Nicola Caputo" in current databases** (caveat: only ~3% OCR coverage; full-corpus extraction in progress):
 - One "Caputo" hit: [EFTA00017751](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017751.pdf) — "Michael A. Caputo" at USANYS (a government attorney handling Epstein 6(e) applications, not related)
-- Social media reports suggest Caputo's name appears in [EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf), which falls in the EFTA range for Dataset 9 (00039025-01262781).
+- **CONFIRMED** on [EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf) co-conspirator list as **#17**, source: NYPD 2009 (now downloaded from Dataset 9)
 
 ### Key Context
-The reported source document ([EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf)) is in Dataset 9. An Italian/European Parliament connection would fit Epstein's documented European political network, which included Peter Mandelson (UK), connections to European nobility, and travel throughout European capitals.
+EFTA00077895 has been downloaded and verified — it is a 21-page UNCLASSIFIED//FOUO document containing the complete 20-person co-conspirator list. Caputo appears as #17 with an NYPD 2009 complaint source. The NYPD 2009 date predates Epstein's 2019 SDNY arrest, placing it during or shortly after the original Florida case. An Italian/European Parliament connection would fit Epstein's documented European political network, which included Peter Mandelson (UK), connections to European nobility, and travel throughout European capitals.
 
 ### Assessment
 Caputo's inclusion as an Italian EU Parliament member connects to Epstein's extensive European operations — the Avenue Foch apartment in Paris, MC2 modeling operations in Milan, documented travels to Paris/London/continental Europe, and political connections across multiple European countries.
@@ -375,12 +378,13 @@ In addition to database searches, the 86-page prosecution memo ([EFTA02731082](h
 - Wexner: 45 hits across pages 65-68
 - "co-conspirator": 1 hit (the title)
 
-## 4.3 Limitations
+## 4.3 Limitations — CRITICAL
 
-- OCR coverage is only 3% of the total 519,438 PDFs
-- Dataset 9 (EFTA00039025-01262781) is not locally available; EFTA00077895 (reported source for Caputo) falls in this range
-- Many PDFs are scanned images without extractable text
+- **OCR coverage is only ~3% of the total 519,438 PDFs.** This means "zero hits" for a name does NOT mean the name is absent from the files — only that it hasn't been found yet. Full-corpus text extraction (all 519K PDFs via PyMuPDF) is in progress to address this gap.
+- Dataset 9 (EFTA00039025-01262781, 1.2M+ files) is largely missing from our local corpus. Only 109 PDFs and ~1,900 video files are available locally. Key documents like EFTA00077895 have been individually downloaded from the DOJ site.
+- Many PDFs are scanned images where PyMuPDF extracts garbled or no text (EFTA00077895 page 1 table is readable only via screenshot, not text extraction)
 - The 2008 NPA co-conspirator list itself is sealed and not in the public release
+- **Bottom line: Any "zero hits" finding in this report should be treated as preliminary until full-corpus extraction is complete**
 
 ---
 
@@ -417,16 +421,16 @@ In addition to database searches, the 86-page prosecution memo ([EFTA02731082](h
 5. [EFTA00027666](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027666.pdf) — NPA terms document with co-conspirator clause
 
 ### Salvatore Nuara
-- No EFTA documents identified in available databases
+- [EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf) — Co-conspirator list entry #3 (NYPD 2010)
 
 ### Zurab Mikeladze
-- No EFTA documents identified in available databases
+- [EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf) — Co-conspirator list entry #10 (NYPD 2021)
 
 ### Leonic Leonov
-- No EFTA documents identified in available databases
+- [EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf) — Co-conspirator list entry #14 (NYPD 2021)
 
 ### Nicola Caputo
-- [EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf) (reported source, in Dataset 9, not locally available)
+- [EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf) — Co-conspirator list entry #17 (NYPD 2009)
 
 ---
 
@@ -458,31 +462,54 @@ Wexner knows nothing about the [REDACTED] claim from [REDACTED] and explained th
 
 # SECTION 7: THE 20-PERSON CO-CONSPIRATOR LIST
 
-Per social media sources (partially verified through news reporting), the full 20-person list includes:
+## Source: [EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf) — NOW DOWNLOADED AND VERIFIED
 
-| # | Name | Status | Notes |
-|---|------|--------|-------|
-| 1 | Rimma Sheshelouskaya | Unredacted | Eastern European name |
-| 2 | Megan Warren | Unredacted | |
-| 3 | Salvatore Nuara | Unredacted (Khanna) | NYPD detective |
-| 4 | Anastassiy Rzhevskaya | Unredacted | Eastern European name |
-| 5 | [REDACTED] | Still redacted | |
-| 6 | Anna Mette | Unredacted | |
-| 7 | Jeffrey Epstein | Original | |
-| 8 | Rian Hicky | Unredacted | |
-| 9 | Joanne Rivera | Unredacted | |
-| 10 | Zurab Mikeladze | Unredacted (Khanna) | Georgian |
-| 11 | Charlotte [surname?] | Unredacted | |
-| 12-18 | [Various] | Unredacted | |
-| 19-20 | [REDACTED] | Still redacted | |
+This is a 21-page UNCLASSIFIED//FOUO document from Dataset 9. Page 1 contains a table listing 20 individuals with columns: No., Name, DOB (redacted), Source, and "P" (likely "Prosecutable" or "Presented to Grand Jury"). Pages 2-21 appear to be individual profile pages (scanned images, heavily redacted — only classification markings extractable via OCR).
 
-**NOTE**: This list is sourced from social media and has NOT been independently verified by major news organizations. Rep. Khanna stated the DOJ "blanket-redacted anyone who was a female." The presence of multiple female names (Sheshelouskaya, Warren, Rzhevskaya, Mette, Rivera) is notable — these may be victims, witnesses, or co-conspirators like Sarah Kellen and Nadia Marcinkova.
+| # | Name | Source | Year | Khanna Named? |
+|---|------|--------|------|---------------|
+| 1 | Rimma Sheshelouskaya | NYPD | 1999 | |
+| 2 | Megan Warren | NYPD | 2019 | |
+| 3 | **Salvatore Nuara** | NYPD | 2010 | **YES** |
+| 4 | Anastassiy Rzhevskaya | NYPD | 2010 | |
+| 5 | **[STILL REDACTED]** | [redacted] | [redacted] | |
+| 6 | Anna Mette | NYPD | 2020 | |
+| 7 | Jeffrey Epstein | PB (Palm Beach) | 2006 | |
+| 8 | Ria Hicky | NYPD | 1998 | |
+| 9 | Joanne Rivera | NYPD | 2017 | |
+| 10 | **Zurab Mikeladze** | NYPD | 2021 | **YES** |
+| 11 | Charlotte Weber | NYPD | 2017 | |
+| 12 | Miryan Castiel | NYPD | 2016 | |
+| 13 | **[STILL REDACTED]** | [redacted] | [redacted] | |
+| 14 | **Leonic Leonov** | NYPD | 2021 | **YES** |
+| 15 | Nosul Kateryna | NYPD | 2018 | |
+| 16 | Ghislaine Maxwell | US PP | 2003 | |
+| 17 | **Nicola Caputo** | NYPD | 2009 | **YES** |
+| 18 | Maria Villarini | NYPD | 2021 | |
+| 19 | Alexa Manzella | NYPD | 2018 | |
+| 20 | Laura Greco | NYPD | 2001 | |
 
-Previously known NPA co-conspirators (from 2007-2008 legal proceedings):
+### Key observations:
+
+1. **Source column**: Nearly all entries cite NYPD complaints (dates ranging 1998-2021). Epstein himself is sourced to "PB" (Palm Beach, 2006). Maxwell is sourced to "US PP" (US Probation/Prosecution, 2003).
+
+2. **Two names remain redacted**: #5 and #13. DOBs, sources, and even the "P" column are blacked out for these entries. This suggests these two individuals have special protection — possibly minors, cooperating witnesses, or persons with ongoing legal proceedings.
+
+3. **Wexner and Sultan bin Sulayem are NOT on this list.** They appear in other documents (prosecution memo, FBI "secondary co-conspirator" designation). The Khanna 6 came from **multiple source documents**, not just EFTA00077895.
+
+4. **Rep. Khanna stated the DOJ "blanket-redacted anyone who was a female."** The presence of 10 female names (Sheshelouskaya, Warren, Rzhevskaya, Mette, Hicky, Rivera, Weber, Castiel, Kateryna, Manzella, Villarini, Greco) is consistent with this — these may be victims who filed NYPD complaints, witnesses, or facilitators like Sarah Kellen and Nadia Marcinkova.
+
+5. **Post-2019 dates** (Mikeladze 2021, Leonov 2021, Villarini 2021, Mette 2020, Warren 2019): These NYPD complaints were filed AFTER Epstein's arrest and death, suggesting new witnesses came forward during the SDNY investigation and its aftermath.
+
+6. **Pre-2008 dates** (Hicky 1998, Sheshelouskaya 1999, Greco 2001, Maxwell 2003, Epstein 2006): These trace to the original Palm Beach/NYPD investigations that preceded the 2008 NPA.
+
+### Previously known NPA co-conspirators (from 2007-2008 legal proceedings):
 - Sarah Kellen
 - Lesley Groff
 - Adriana Ross (Adriana Mucinska)
 - Nadia Marcinkova (now Nadia Marcinko)
+
+**NOTE**: None of these four previously known co-conspirators appear on the EFTA00077895 list, suggesting this list represents a DIFFERENT set of individuals — possibly the names that follow "including but not limited to" in the NPA clause, or a separate FBI compilation of persons of interest from NYPD complaint filings.
 
 ---
 
@@ -507,4 +534,4 @@ All EFTA links point to the DOJ Epstein Library: https://www.justice.gov/epstein
 
 ---
 
-*Report compiled from analysis of 3.4M+ document text database records, 21,859 analyzed images, 15,533 OCR'd documents, direct PDF text extraction from key documents, and public web sources. Four of six names (Nuara, Mikeladze, Leonov, Caputo) require expanded corpus coverage (currently 3%) or access to Dataset 9 / sealed NPA documents for further investigation.*
+*Report compiled from analysis of 3.4M+ document text database records, 21,859 analyzed images, 15,533 OCR'd documents (~3% of 519,438 total PDFs), direct PDF text extraction from key documents including EFTA00077895 (downloaded from Dataset 9), and public web sources. All six Khanna names are confirmed in the EFTA corpus. Four names (Nuara, Mikeladze, Leonov, Caputo) appear only on the EFTA00077895 co-conspirator list so far — additional mentions may emerge after full-corpus text extraction is complete.*
