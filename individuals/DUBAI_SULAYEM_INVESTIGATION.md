@@ -163,8 +163,8 @@ Epstein's islands (Little St. James and Great St. James) are located in the harb
 The files contain extensive CBP (Customs and Border Protection) records:
 - **[EFTA00010062](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010062.pdf)**: CBP TECS records showing Epstein's travel through "CBP-ST THOMAS, VI PREFLIGHT" and "CBP-CYRIL E KING, INTL AIRPORT"
 - **[EFTA00018023](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018023.pdf)**: "RE: CBP Question" -- prosecutors reviewing all travel records, noting "outbound travel records were not recorded in CBP database during that time (between 1990-2000)"
-- **[EFTA00010069](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010069.pdf)-00010083**: Extensive CBP encounter records for Epstein through multiple ports of entry
-- **[EFTA00010341](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010341.pdf)-10345**: Epstein's passport and TECS records
+- **[EFTA00010069](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010069.pdf)-[EFTA00010083](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010083.pdf)**: Extensive CBP encounter records for Epstein through multiple ports of entry
+- **[EFTA00010341](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010341.pdf)-[EFTA00010345](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010345.pdf)**: Epstein's passport and TECS records
 
 The gap in outbound CBP records (1990-2000) is particularly significant -- during precisely the period Epstein was most actively trafficking.
 
@@ -231,7 +231,7 @@ This gathering was planned for **5 months before Epstein's arrest**. The combina
 - **Feb 28, 2018**: Epstein tells Bannon "MBS coming to wash 19th" -- Bannon: "To have breakfast with Jared"
 - **Oct 2017**: Michael Wolff trying to arrange Bannon-Epstein meeting
 - **[EFTA00027290](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027290.pdf)**: SDNY prosecutors noted "text messages between Steve Bannon and Jeffrey Epstein on Bannon's iPhone 7"
-- **[EFTA00025553](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025553.pdf)/00030999**: FBI found photo of Trump and Ghislaine Maxwell on Bannon's phone
+- **[EFTA00025553](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025553.pdf)/[EFTA00030999](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030999.pdf)**: FBI found photo of Trump and Ghislaine Maxwell on Bannon's phone
 - **Jan 2019**: Epstein sent Apple Watch to Bannon's son Sean
 - **Feb 25, 2019**: Epstein arranging Bannon-Ehud Barak meeting
 - **Strategic value**: US political intelligence, Trump administration access, populist movement connections
