@@ -15,7 +15,7 @@ Six names were disclosed:
 | 1 | **Salvatore Nuara** | NYPD detective; disciplined for escort service connection | **ZERO hits** across all 4 databases (3.4M+ records) | Likely named in 2008 NPA co-conspirator list (sealed) |
 | 2 | **Zurab Mikeladze** | Georgian oil/business figure | **ZERO hits** across all 4 databases | Likely named in 2008 NPA co-conspirator list (sealed) |
 | 3 | **Leonic Leonov** | Little publicly known | **ZERO hits** across all 4 databases | Likely named in 2008 NPA co-conspirator list (sealed) |
-| 4 | **Nicola Caputo** | Former EU Parliament member (Italy) | **ZERO hits** across all 4 databases; EFTA00077895 (reported source) falls in Dataset 9 range, not in our corpus | Likely named in 2008 NPA co-conspirator list (sealed) |
+| 4 | **Nicola Caputo** | Former EU Parliament member (Italy) | **ZERO hits** across all 4 databases; [EFTA00077895](https://www.justice.gov/age-verify?destination=/epstein/files/DataSet%209/EFTA00077895) (reported source) falls in Dataset 9 range | Likely named in 2008 NPA co-conspirator list (sealed) |
 | 5 | **Sultan Ahmed bin Sulayem** | Chairman/CEO of DP World (Dubai) | **40+ documents**, 10-year relationship (2009-2019), victim testimony, port infrastructure access, seized CD evidence | Extensive — see existing [DUBAI_SULAYEM_INVESTIGATION.md](individuals/DUBAI_SULAYEM_INVESTIGATION.md) |
 | 6 | **Leslie Wexner** | Billionaire founder of L Brands/Victoria's Secret | **45 mentions** in prosecution memo alone, 13+ unique EFTA documents, FBI labeled him source of Epstein's wealth | Extensive — $100M+ misappropriation, Victoria's Secret pipeline, FBI "Prominent Names" briefing |
 
@@ -70,7 +70,7 @@ This suggests that when Epstein was arrested, the FBI immediately began contacti
 - **Notable**: Disciplined by the NYPD in connection with an escort service; his name appeared in Jeffrey Epstein's "black book" of contacts
 
 ### Evidence in EFTA Files
-**ZERO HITS** across all databases:
+**ZERO HITS** across all extracted databases:
 - Primary document text database (1.8M records): 0 results for "Nuara"
 - Dataset 10 document text database (532MB): 0 results
 - OCR database (15,533 documents): 0 results
@@ -78,8 +78,8 @@ This suggests that when Epstein was arrested, the FBI immediately began contacti
 
 ### Broader Search
 - "Salvatore" returns 3 hits, all for "Salvatore Moore" (Deutsche Bank employee) — no connection to Nuara
-- NYPD references appear in 20+ documents (EFTA00015037, EFTA00019022, EFTA00028415, etc.) but none mention Nuara by name
-- EFTA00029444 contains an NYPD email "PICARELLO, JOSEPH" — a different NYPD officer involved in Epstein sex offender monitoring
+- NYPD references appear in 20+ documents ([EFTA00015037](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015037.pdf), [EFTA00019022](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019022.pdf), [EFTA00028415](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028415.pdf), etc.) but none mention Nuara by name
+- [EFTA00029444](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029444.pdf) contains an NYPD email "PICARELLO, JOSEPH" — a different NYPD officer involved in Epstein sex offender monitoring
 
 ### Assessment
 Nuara was likely named in Epstein's black book (the physical contact book seized in 2005, not the same as the publicly leaked "Little Black Book"). His NYPD connection and escort service discipline may have placed him in the co-conspirator orbit during the original 2006-2008 Palm Beach investigation. The fact that he does not appear in the 2019 SDNY prosecution memo suggests he was not a focus of the later investigation.
@@ -130,11 +130,11 @@ This is the most opaque of the six names. The Russian/Eastern European naming co
 
 ### Evidence in EFTA Files
 **ZERO direct HITS** for "Nicola Caputo":
-- One "Caputo" hit: EFTA00017751 — "Michael A. Caputo" at USANYS (a government attorney handling Epstein 6(e) applications, not related)
-- Social media reports suggest Caputo's name appears in EFTA00077895, which falls in the EFTA range for Dataset 9 (00039025-01262781). Dataset 9 materials were reportedly "REMOVED" from DOJ servers, though our testing showed 200 responses for some DS9 URLs
+- One "Caputo" hit: [EFTA00017751](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017751.pdf) — "Michael A. Caputo" at USANYS (a government attorney handling Epstein 6(e) applications, not related)
+- Social media reports suggest Caputo's name appears in [EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf), which falls in the EFTA range for Dataset 9 (00039025-01262781).
 
 ### Key Context
-The reported source document (EFTA00077895) is in Dataset 9, which we do not have locally. This may be why his name doesn't appear in our databases despite reportedly being in the files. An Italian/European Parliament connection would fit Epstein's documented European political network, which included Peter Mandelson (UK), connections to European nobility, and travel throughout European capitals.
+The reported source document ([EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf)) is in Dataset 9. An Italian/European Parliament connection would fit Epstein's documented European political network, which included Peter Mandelson (UK), connections to European nobility, and travel throughout European capitals.
 
 ### Assessment
 Caputo's inclusion as an Italian EU Parliament member connects to Epstein's extensive European operations — the Avenue Foch apartment in Paris, MC2 modeling operations in Milan, documented travels to Paris/London/continental Europe, and political connections across multiple European countries.
@@ -304,7 +304,7 @@ This victim knowledge of Epstein's financial source suggests Epstein spoke openl
 
 On August 15, 2019 — five days after Epstein's death — the FBI New York office published a document from the Crimes Against Children/Human Trafficking department naming Wexner as a **"SECONDARY CO-CONSPIRATOR"** with "LIMITED EVIDENCE." This is the document where the FBI formally designated Wexner as a co-conspirator. Other named co-conspirators in the same document included Maxwell, Brunel, Groff, Indyke, and Kahn.
 
-This document is in Dataset 9 (EFTA00175080) and is not in our local corpus.
+This document is in Dataset 9 ([EFTA00175080](https://www.justice.gov/epstein/files/DataSet%209/EFTA00175080.pdf)).
 
 #### K. Congressional Subpoena (January-February 2026)
 
@@ -330,10 +330,10 @@ Leslie Wexner occupies a unique position among the six co-conspirators: he is si
 
 ## 3.1 The 2008 NPA Protection
 
-The Non-Prosecution Agreement (EFTA00027666) explicitly states:
+The Non-Prosecution Agreement ([EFTA00027666](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027666.pdf)) explicitly states:
 > "not institute any criminal charges against any potential co-conspirators of Epstein, including but not limited to [NAMES]"
 
-Epstein's defense attorney Jack Lefkowitz then demanded (EFTA00027666 page 10):
+Epstein's defense attorney Jack Lefkowitz then demanded ([EFTA00027666](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027666.pdf) page 10):
 > "Neither federal agents nor anyone from your Office should contact the identified individuals to inform them of the resolution of the case"
 
 This created a regime where: (1) the co-conspirators were protected from prosecution, (2) the victims were not informed, and (3) even the existence of the NPA was concealed.
@@ -426,7 +426,7 @@ In addition to database searches, the 86-page prosecution memo ([EFTA02731082](h
 - No EFTA documents identified in available databases
 
 ### Nicola Caputo
-- EFTA00077895 (reported source, in Dataset 9, not locally available)
+- [EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf) (reported source, in Dataset 9, not locally available)
 
 ---
 
@@ -483,22 +483,6 @@ Previously known NPA co-conspirators (from 2007-2008 legal proceedings):
 - Lesley Groff
 - Adriana Ross (Adriana Mucinska)
 - Nadia Marcinkova (now Nadia Marcinko)
-
----
-
-# SECTION 8: DATASET 9 — THE MISSING CORPUS
-
-Multiple critical documents referenced in this investigation fall in Dataset 9 (EFTA00039025-01262781):
-
-| EFTA Number | Description | Source |
-|-------------|-------------|--------|
-| EFTA00077895 | Document naming Nicola Caputo | Social media / X |
-| EFTA00175080 | FBI "secondary co-conspirator" designation of Wexner (Aug 15, 2019) | Newsweek / WOSU |
-| EFTA00666117 | Sultan bin Sulayem "torture video" email | Bloomberg / Drop Site News |
-
-Dataset 9 was reportedly "REMOVED" from DOJ servers at one point but our testing showed 200 responses for some DS9 URLs. These documents are accessible via the DOJ Epstein Library at https://www.justice.gov/epstein but are not in our local corpus for database searching.
-
-**Recommendation**: Downloading and OCR'ing Dataset 9 would significantly expand coverage of the co-conspirator investigation.
 
 ---
 
