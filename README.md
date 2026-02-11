@@ -228,6 +228,8 @@ All analysis was performed against four primary document collections built from 
 
 For methodology details, data quality assessment, and reliability audits, see the [Methodology & Data Quality](#methodology--data-quality-10-reports) section above.
 
+Processed data collection: https://github.com/rhowardstone/Epstein-research-data
+
 ---
 
 ## Disclaimer
