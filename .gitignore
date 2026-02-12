@@ -32,6 +32,8 @@
 !conspiracy-debunking/*.md
 !raw-dataset-analysis/
 !raw-dataset-analysis/*.md
+!government-officials/
+!government-officials/*.md
 
 # Recovered forensic evidence (binary files from corrupted PDF analysis)
 !recovered_corrupted_pdfs/

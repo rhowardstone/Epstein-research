@@ -116,7 +116,7 @@ See the [EFTA Dataset Mapping](#efta-number-to-dataset-mapping) table at the bot
 | [PLIST_FORENSIC_SEARCH](evidence/PLIST_FORENSIC_SEARCH.md) | 460+ Apple Mail PLIST metadata documents, 2 email accounts, 9-year date range (2009-2018). |
 | [PLIST_REDACTED_EMAILS_DEEP_DIVE](evidence/PLIST_REDACTED_EMAILS_DEEP_DIVE.md) | 12 failed redaction overlays exposing PLIST XML: Russian/Uzbek woman, neuroscience dinner, Groff calling State Dept for Mitchell. |
 | [PLIST_TIMESTAMP_TRANSACTION_CORRELATION](evidence/PLIST_TIMESTAMP_TRANSACTION_CORRELATION.md) | 420 timestamps vs financial dates: Tudor $13.5M strongest correlation. **Note:** The "99-day blackout" originally reported here was corrected — DS9 shows continuous email activity. |
-| [EFTA00004800_DEEP_DIVE](evidence/EFTA00004800_DEEP_DIVE.md) | FBI "Book 17" evidence binder: 98 pages of CDs/DVDs, "grapes" files blacked out alongside CSAM, ~50+ unscanned media items. |
+| [[EFTA00004800](https://www.justice.gov/epstein/files/DataSet%203/EFTA00004800.pdf)_DEEP_DIVE](evidence/EFTA00004800_DEEP_DIVE.md) | FBI "Book 17" evidence binder: 98 pages of CDs/DVDs, "grapes" files blacked out alongside CSAM, ~50+ unscanned media items. |
 | [BLACKOUT_PERIOD_INVESTIGATION](evidence/BLACKOUT_PERIOD_INVESTIGATION.md) | Investigation of the Nov 2018 - Feb 2019 period. Originally reported as 99-day email silence, **corrected**: DS9 shows continuous email activity throughout. The gap was a PLIST extraction artifact. Epstein flew 8+ flights, paid $100K/$250K during this period. |
 | [MAXWELL_FIREARMS_LICENSE_INVESTIGATION](evidence/MAXWELL_FIREARMS_LICENSE_INVESTIGATION.md) | Maxwell NYPD firearms license application investigation. |
 | [EVIDENCE_COMPILATION](evidence/EVIDENCE_COMPILATION.md) | Master evidence table: named individuals with documented victim interactions and legal status. |
@@ -175,6 +175,19 @@ See the [EFTA Dataset Mapping](#efta-number-to-dataset-mapping) table at the bot
 | [FOUR_CHAN_PARAMEDIC_INVESTIGATION](conspiracy-debunking/FOUR_CHAN_PARAMEDIC_INVESTIGATION.md) | 4chan death leak: hard drives removed from SHU at 10:15 PM, guard DPAs then charges dismissed, FBI captured 8+ screenshots. |
 | [ONLINE_EVIDENCE_INVESTIGATION](conspiracy-debunking/ONLINE_EVIDENCE_INVESTIGATION.md) | r/maxwellhill screenshot in FBI case serial, social media led to Maxwell via Borgerson-Angara-Tidewood shells. |
 
+### Government Officials Corpus Search (6 reports)
+
+Full-corpus search of all 537 current members of Congress (119th Congress) plus 77 executive branch officials. Every name was searched as an exact quoted phrase across all 1,380,937 documents. Officials with significant hit counts received deeper context analysis to distinguish genuine connections from news mentions.
+
+| Report | Description |
+|--------|-------------|
+| [DEMOCRAT_HOUSE](government-officials/DEMOCRAT_HOUSE.md) | 216 Democratic House members: 2 DIRECT connections (Plaskett, DeGette), 1 INVESTIGATION, 2 MIXED, 1 FALSE POSITIVE. |
+| [DEMOCRAT_SENATE](government-officials/DEMOCRAT_SENATE.md) | 45 Democratic Senators: 2 MIXED (Schumer donation/return, Warner media project list). |
+| [REPUBLICAN_HOUSE](government-officials/REPUBLICAN_HOUSE.md) | 221 Republican House members: 1 MIXED (Loudermilk — different person), 2 FALSE POSITIVES (John James, Scott Fitzgerald). |
+| [REPUBLICAN_SENATE](government-officials/REPUBLICAN_SENATE.md) | 53 Republican Senators: 2 MIXED (McConnell declined donation, Rick Scott routine govt doc), 1 FALSE POSITIVE (Jim Justice). |
+| [INDEPENDENT_SENATE](government-officials/INDEPENDENT_SENATE.md) | 2 Independent Senators (Sanders, King): news coverage only. |
+| [EXECUTIVE_BRANCH](government-officials/EXECUTIVE_BRANCH.md) | 77 officials: 8 DIRECT connections (Musk, Bannon, Lutnick, Burns, Trump, Kushner, Rice, Monaco). Key finding: William Burns (future CIA Director) had direct emails with Epstein in 2014; Epstein introduced Burns to Peter Thiel. |
+
 ### Raw Dataset Analysis (11 reports)
 
 | Report | Description |
@@ -199,18 +212,18 @@ Use this table to determine which DOJ dataset contains a given EFTA number, or t
 
 | Dataset | EFTA Range Start | EFTA Range End | URL Pattern |
 |---------|-----------------|----------------|-------------|
-| 1 | EFTA00000001 | EFTA00003158 | `DataSet%201/EFTA{########}.pdf` |
-| 2 | EFTA00003159 | EFTA00003857 | `DataSet%202/EFTA{########}.pdf` |
-| 3 | EFTA00003858 | EFTA00005586 | `DataSet%203/EFTA{########}.pdf` |
-| 4 | EFTA00005705 | EFTA00008320 | `DataSet%204/EFTA{########}.pdf` |
-| 5 | EFTA00008409 | EFTA00008528 | `DataSet%205/EFTA{########}.pdf` |
-| 6 | EFTA00008529 | EFTA00008998 | `DataSet%206/EFTA{########}.pdf` |
-| 7 | EFTA00009016 | EFTA00009664 | `DataSet%207/EFTA{########}.pdf` |
-| 8 | EFTA00009676 | EFTA00039023 | `DataSet%208/EFTA{########}.pdf` |
-| 9 | EFTA00039025 | EFTA01262781 | `DataSet%209/EFTA{########}.pdf` |
-| 10 | EFTA01262782 | EFTA02205654 | `DataSet%2010/EFTA{########}.pdf` |
-| 11 | EFTA02205655 | EFTA02730264 | `DataSet%2011/EFTA{########}.pdf` |
-| 12 | EFTA02730265 | EFTA02731783 | `DataSet%2012/EFTA{########}.pdf` |
+| 1 | [EFTA00000001](https://www.justice.gov/epstein/files/DataSet%201/EFTA00000001.pdf) | [EFTA00003158](https://www.justice.gov/epstein/files/DataSet%201/EFTA00003158.pdf) | `DataSet%201/EFTA{########}.pdf` |
+| 2 | [EFTA00003159](https://www.justice.gov/epstein/files/DataSet%202/EFTA00003159.pdf) | [EFTA00003857](https://www.justice.gov/epstein/files/DataSet%202/EFTA00003857.pdf) | `DataSet%202/EFTA{########}.pdf` |
+| 3 | [EFTA00003858](https://www.justice.gov/epstein/files/DataSet%203/EFTA00003858.pdf) | [EFTA00005586](https://www.justice.gov/epstein/files/DataSet%203/EFTA00005586.pdf) | `DataSet%203/EFTA{########}.pdf` |
+| 4 | [EFTA00005705](https://www.justice.gov/epstein/files/DataSet%204/EFTA00005705.pdf) | [EFTA00008320](https://www.justice.gov/epstein/files/DataSet%204/EFTA00008320.pdf) | `DataSet%204/EFTA{########}.pdf` |
+| 5 | [EFTA00008409](https://www.justice.gov/epstein/files/DataSet%205/EFTA00008409.pdf) | [EFTA00008528](https://www.justice.gov/epstein/files/DataSet%205/EFTA00008528.pdf) | `DataSet%205/EFTA{########}.pdf` |
+| 6 | [EFTA00008529](https://www.justice.gov/epstein/files/DataSet%206/EFTA00008529.pdf) | [EFTA00008998](https://www.justice.gov/epstein/files/DataSet%206/EFTA00008998.pdf) | `DataSet%206/EFTA{########}.pdf` |
+| 7 | [EFTA00009016](https://www.justice.gov/epstein/files/DataSet%207/EFTA00009016.pdf) | [EFTA00009664](https://www.justice.gov/epstein/files/DataSet%207/EFTA00009664.pdf) | `DataSet%207/EFTA{########}.pdf` |
+| 8 | [EFTA00009676](https://www.justice.gov/epstein/files/DataSet%208/EFTA00009676.pdf) | [EFTA00039023](https://www.justice.gov/epstein/files/DataSet%208/EFTA00039023.pdf) | `DataSet%208/EFTA{########}.pdf` |
+| 9 | [EFTA00039025](https://www.justice.gov/epstein/files/DataSet%209/EFTA00039025.pdf) | [EFTA01262781](https://www.justice.gov/epstein/files/DataSet%209/EFTA01262781.pdf) | `DataSet%209/EFTA{########}.pdf` |
+| 10 | [EFTA01262782](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01262782.pdf) | [EFTA02205654](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02205654.pdf) | `DataSet%2010/EFTA{########}.pdf` |
+| 11 | [EFTA02205655](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02205655.pdf) | [EFTA02730264](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02730264.pdf) | `DataSet%2011/EFTA{########}.pdf` |
+| 12 | [EFTA02730265](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02730265.pdf) | [EFTA02731783](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731783.pdf) | `DataSet%2012/EFTA{########}.pdf` |
 
 **Base URL:** `https://www.justice.gov/epstein/files/`
 
