@@ -155,7 +155,7 @@ This is a synthesis/summary document that compiles findings from the other phase
 
 ---
 
-### 5. [BIOTECH_SCIENCE_NETWORK_INVESTIGATION.md](/intelligence/BIOTECH_SCIENCE_NETWORK_INVESTIGATION.md)
+### 5. [BIOTECH_SCIENCE_NETWORK_INVESTIGATION.md](/scientists/BIOTECH_SCIENCE_NETWORK_INVESTIGATION.md)
 
 **Classification: SOLID**
 

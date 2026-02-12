@@ -87,7 +87,6 @@ See the [EFTA Dataset Mapping](#efta-number-to-dataset-mapping) table at the bot
 | [SENATOR_MITCHELL_INVESTIGATION](individuals/SENATOR_MITCHELL_INVESTIGATION.md) | Former Senate Majority Leader: 4 evidentiary pillars, 2 independent victims, Groff/State Dept call, Mitchell's own admission. |
 | [MITCHELL_CASCADE_INVESTIGATION](individuals/MITCHELL_CASCADE_INVESTIGATION.md) | David J. Mitchell (estate co-executor): $580.5K wires, fragmentation pattern, "Cascade" code name, Mandelson connection. Separate from Senator Mitchell. |
 | [ROTHSCHILD_INVESTIGATION](individuals/ROTHSCHILD_INVESTIGATION.md) | Ariane de Rothschild's untraceable aderfam.ch channel. $25M in 2 wires bracketing EdR $45M DOJ penalty. Both $25M principals now dead. |
-| [DAVID_SHAW_INVESTIGATION](individuals/DAVID_SHAW_INVESTIGATION.md) | D.E. Shaw & Co.: Limited exposure, proposed as dinner guest only. Science dinner network architecture mapped. |
 | [JUNKERMANN_MC2_INVESTIGATION](individuals/JUNKERMANN_MC2_INVESTIGATION.md) | Nicole Junkermann: 4,182 docs (expanded from 10+ in DS1-8), 10+ year relationship, Leon Black intro brokered, Jan 2019 island trip. MC2 stranding Russian girls in Milan, recruiting ages 13-20. |
 | [MARCINKOVA_INVESTIGATION](individuals/MARCINKOVA_INVESTIGATION.md) | Nadia Marcinkova: ZERO results for full name (systematic identity protection). $100K Aviloop wire 2 days after Miami Herald. 124 flights. NPA protected. |
 | [INVESTIGATION_1_BARR_NTOC](individuals/INVESTIGATION_1_BARR_NTOC.md) | William Barr NTOC filing deep dive -- forensic analysis of the tip and associated evidence. |
@@ -124,7 +123,15 @@ See the [EFTA Dataset Mapping](#efta-number-to-dataset-mapping) table at the bot
 | [CORRUPTED_PDF_FORENSICS](evidence/CORRUPTED_PDF_FORENSICS.md) | **NEW:** Byte-level recovery of 5 "corrupted" DS9 PDFs. **Apple Address Book with 8 contacts** (Epstein attorney, known associates, Senegalese political figure, PI firm) + **iPhone 5s photo from Little Saint James, Aug 2014.** No prior public reporting. [Recovered files](recovered_corrupted_pdfs/github_release/) |
 | [GABRIELLA_RICO_JIMENEZ_INVESTIGATION](evidence/GABRIELLA_RICO_JIMENEZ_INVESTIGATION.md) | NO connection found to Epstein. Jimenez incident Aug 2009 in Monterrey. ZERO hits across all document collections. |
 
-### Intelligence Connections (4 reports)
+### Scientists & Academic Network (3 reports)
+
+| Report | Description |
+|--------|-------------|
+| [SCIENCE_NETWORK_COMPREHENSIVE_AUDIT](scientists/SCIENCE_NETWORK_COMPREHENSIVE_AUDIT.md) | **NEW:** Full-corpus audit of 35+ scientists with Epstein connections. 10,000+ documents across uninvestigated individuals. FBI FinCEN investigation of Robert Trivers, 8 Nobel laureates, Biden's Science Advisor (Eric Lander), Global Viral/Metabiota founder (Nathan Wolfe), and mega-event guest lists. |
+| [BIOTECH_SCIENCE_NETWORK_INVESTIGATION](scientists/BIOTECH_SCIENCE_NETWORK_INVESTIGATION.md) | Original biotech/science report: Brockman/Edge pipeline, Nowak ($6.5M), Chomsky (trust management), Hillis (Zorro Ranch), Krauss, Church, Lloyd, Ito, Boyden, Marsh. |
+| [DAVID_SHAW_INVESTIGATION](scientists/DAVID_SHAW_INVESTIGATION.md) | D.E. Shaw & Co.: Limited exposure, proposed as dinner guest only. Science dinner network architecture mapped. |
+
+### Intelligence Connections (3 reports)
 
 **Key document: [EFTA00090314](https://www.justice.gov/epstein/files/DataSet%209/EFTA00090314.pdf)** — FBI Confidential Human Source report (FD-1023 format), filed under intelligence product case numbers ("INTELPRODS"). The CHS states that Epstein "belonged to both U.S. and allied intelligence services," "trained as a spy under" former Israeli PM Ehud Barak, and that "Mossad would then call Dershowitz to debrief" after Epstein-related calls. This is an unverified CHS report — not an FBI conclusion — but it is an official DOJ document preserved in the FBI case file. See [ISRAEL_DEEP_DIVE_V2](intelligence/ISRAEL_DEEP_DIVE_V2.md) Section B for full analysis.
 
@@ -132,7 +139,6 @@ See the [EFTA Dataset Mapping](#efta-number-to-dataset-mapping) table at the bot
 |--------|-------------|
 | [ISRAEL_DEEP_DIVE_V2](intelligence/ISRAEL_DEEP_DIVE_V2.md) | Definitive Israel report: Barak 3,756 docs, Carbyne 50 docs, Reporty 324 docs, 301 E 66th nexus, Kohn letters. **FBI CHS FD-1023 ([EFTA00090314](https://www.justice.gov/epstein/files/DataSet%209/EFTA00090314.pdf)) states Epstein "belonged to both U.S. and allied intelligence services" and "trained as a spy under" Barak.** Barak-Epstein exchange (Dec 2018): "you should make clear that i dont work for mossad :)" / "unfortunately, not." |
 | [ISRAELI_INTELLIGENCE_DEEP_DIVE](intelligence/ISRAELI_INTELLIGENCE_DEEP_DIVE.md) | Initial Israeli intelligence connections investigation across all document collections. Revised: FD-1023 intelligence claims now documented; original "zero hits for Mossad" corrected. |
-| [BIOTECH_SCIENCE_NETWORK_INVESTIGATION](intelligence/BIOTECH_SCIENCE_NETWORK_INVESTIGATION.md) | Biotech, science, and AI investment network: 95+ queries, Brockman/Edge pipeline, Church, Lloyd, Krauss, Minsky connections. |
 | [POWER_OVERLAP_SEALED_FILINGS_INVESTIGATION](intelligence/POWER_OVERLAP_SEALED_FILINGS_INVESTIGATION.md) | Power overlap, sealed filings, and evidence suppression patterns. 100+ searches across 4 document collections. Section 9.3 corrected: intelligence connection documented via CHS FD-1023 but unverified at FBI conclusion level. |
 
 ### Institutional Failures (3 reports)

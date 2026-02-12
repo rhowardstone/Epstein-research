@@ -193,19 +193,19 @@ Manual review:  Please note that for *all* of the following files, the only reda
 
 ## FOR CONGRESSIONAL ACTION
 
-1. **EFTA00090314** -- Demand FBI disclose whether the CHS intelligence claims were ever investigated and what actions resulted.
+1. **[EFTA00090314](https://www.justice.gov/epstein/files/DataSet%209/EFTA00090314.pdf)** -- Demand FBI disclose whether the CHS intelligence claims were ever investigated and what actions resulted.
 
-2. **EFTA00077895** -- Demand unredaction of co-conspirator list entries #5 and #13.
+2. **[EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf)** -- Demand unredaction of co-conspirator list entries #5 and #13.
 
-3. **EFTA00175080** -- Confront Wexner at his Feb 16 deposition with the FBI's own "secondary co-conspirator" designation.
+3. **[EFTA00175080](https://www.justice.gov/epstein/files/DataSet%209/EFTA00175080.pdf)** -- Confront Wexner at his Feb 16 deposition with the FBI's own "secondary co-conspirator" designation.
 
-4. **EFTA00099449** -- Ask Kathryn Ruemmler about her duties as named trustee of Epstein's 2018 Trust.
+4. **[EFTA00099449](https://www.justice.gov/epstein/files/DataSet%209/EFTA00099449.pdf)** -- Ask Kathryn Ruemmler about her duties as named trustee of Epstein's 2018 Trust.
 
 5. **Current officials** (Musk, Burns, Lutnick) -- All have direct documentary evidence of Epstein relationships. Congress should ask each what they knew and when.
 
-6. **EFTA02711200** -- Expand the banking inquiry beyond Deutsche Bank to include FirstBank, UBS, BNP Paribas, and Wells Fargo.
+6. **[EFTA02711200](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02711200.pdf)** -- Expand the banking inquiry beyond Deutsche Bank to include FirstBank, UBS, BNP Paribas, and Wells Fargo.
 
-7. **EFTA02532934** -- Investigate evidence destruction: who is "James" and what was on the wiped computer?
+7. **[EFTA02532934](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02532934.pdf)** -- Investigate evidence destruction: who is "James" and what was on the wiped computer?
 
 ---
 

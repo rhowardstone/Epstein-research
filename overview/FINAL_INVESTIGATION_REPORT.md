@@ -2450,7 +2450,7 @@ All 85 reports produced during the 10-session investigation, with brief descript
 | # | Report | Description |
 |---|--------|-------------|
 | 34 | VICTIM_JOURNAL_FULL_EXTRACTION.md | Complete 13-page first journal reconstruction: Black, Mitchell, Summers, Dershowitz, 20+ names |
-| 35 | BROCKMAN_SCIENCE_NETWORK.md | Edge Foundation pipeline: Brin/Page/Bezos 2004 dinner, Seth Lloyd, George Church, Krauss, Minsky |
+| 35 | [BIOTECH_SCIENCE_NETWORK_INVESTIGATION.md](/scientists/BIOTECH_SCIENCE_NETWORK_INVESTIGATION.md) | Edge Foundation pipeline: Brin/Page/Bezos 2004 dinner, Seth Lloyd, George Church, Krauss, Minsky |
 | 36 | RICHARDSON_SDNY_COVERUP.md | Richardson "clearance" claim falsification, SDNY frustration, NM AG deferral, never subpoenaed |
 | 37 | DC_POWER_BROKERS_INVESTIGATION.md | Leonsis (filming), Pritzker (Hyatt), Josephson ($200K), Zuckerman, Bannon, AOL cluster |
 | 38 | HAUB_CHASIN_DEATH_THREATS.md | Karl Erivan Haub disappearance claims, Mark Epstein threats, Dana Chasin aviation intermediary |
