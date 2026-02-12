@@ -118,6 +118,7 @@ See the [EFTA Dataset Mapping](#efta-number-to-dataset-mapping) table at the bot
 | [BLACKOUT_PERIOD_INVESTIGATION](evidence/BLACKOUT_PERIOD_INVESTIGATION.md) | 99-day email silence (Nov 2018 - Feb 2019): Epstein flew 8+ flights, paid $100K/$250K, trafficked victims. Signal/WhatsApp/PGP refs found. |
 | [MAXWELL_FIREARMS_LICENSE_INVESTIGATION](evidence/MAXWELL_FIREARMS_LICENSE_INVESTIGATION.md) | Maxwell NYPD firearms license application investigation. |
 | [EVIDENCE_COMPILATION](evidence/EVIDENCE_COMPILATION.md) | Master evidence table: named individuals with documented victim interactions and legal status. |
+| [CORRUPTED_PDF_FORENSICS](evidence/CORRUPTED_PDF_FORENSICS.md) | **NEW:** Byte-level recovery of 5 "corrupted" DS9 PDFs. **Apple Address Book with 8 contacts** (Epstein attorney, known associates, Senegalese political figure, PI firm) + **iPhone 5s photo from Little Saint James, Aug 2014.** No prior public reporting. [Recovered files](recovered_corrupted_pdfs/github_release/) |
 | [GABRIELLA_RICO_JIMENEZ_INVESTIGATION](evidence/GABRIELLA_RICO_JIMENEZ_INVESTIGATION.md) | NO connection found to Epstein. Jimenez incident Aug 2009 in Monterrey. ZERO hits across all document collections. |
 
 ### Intelligence Connections (4 reports)
