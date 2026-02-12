@@ -175,9 +175,9 @@ See the [EFTA Dataset Mapping](#efta-number-to-dataset-mapping) table at the bot
 | [FOUR_CHAN_PARAMEDIC_INVESTIGATION](conspiracy-debunking/FOUR_CHAN_PARAMEDIC_INVESTIGATION.md) | 4chan death leak: hard drives removed from SHU at 10:15 PM, guard DPAs then charges dismissed, FBI captured 8+ screenshots. |
 | [ONLINE_EVIDENCE_INVESTIGATION](conspiracy-debunking/ONLINE_EVIDENCE_INVESTIGATION.md) | r/maxwellhill screenshot in FBI case serial, social media led to Maxwell via Borgerson-Angara-Tidewood shells. |
 
-### Government Officials Corpus Search (6 reports)
+### Government Officials Corpus Search (7 reports)
 
-Full-corpus search of all 537 current members of Congress (119th Congress) plus 77 executive branch officials. Every name was searched as an exact quoted phrase across all 1,380,937 documents. Officials with significant hit counts received deeper context analysis to distinguish genuine connections from news mentions.
+Full-corpus search of all 537 current members of Congress (119th Congress), 77 executive branch officials, and 503 Article III federal judges (sourced from the Federal Judicial Center's biographical directory). Every name was searched as an exact quoted phrase across all 1,380,937 documents. Officials with significant hit counts received deeper context analysis to distinguish genuine connections from news mentions.
 
 | Report | Description |
 |--------|-------------|
@@ -187,6 +187,7 @@ Full-corpus search of all 537 current members of Congress (119th Congress) plus 
 | [REPUBLICAN_SENATE](government-officials/REPUBLICAN_SENATE.md) | 53 Republican Senators: 2 MIXED (McConnell declined donation, Rick Scott routine govt doc), 1 FALSE POSITIVE (Jim Justice). |
 | [INDEPENDENT_SENATE](government-officials/INDEPENDENT_SENATE.md) | 2 Independent Senators (Sanders, King): news coverage only. |
 | [EXECUTIVE_BRANCH](government-officials/EXECUTIVE_BRANCH.md) | 77 officials: 8 DIRECT connections (Musk, Bannon, Lutnick, Burns, Trump, Kushner, Rice, Monaco). Key finding: William Burns (future CIA Director) had direct emails with Epstein in 2014; Epstein introduced Burns to Peter Thiel. |
+| [JUDICIAL_BRANCH](government-officials/JUDICIAL_BRANCH.md) | 503 federal judges (all SCOTUS + 301 circuit + 191 key district): No SCOTUS justice has direct Epstein connection. Elena Kagan (58 docs) linked via Harvard poetry project Epstein funded. Stephanie Thacker (now 4th Circuit) was former CEOS deputy who formally criticized DOJ's Epstein case handling. |
 
 ### Raw Dataset Analysis (11 reports)
 
