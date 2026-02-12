@@ -27,9 +27,10 @@ Edwards, et al.* — 15th Judicial Circuit Case No. 502009CA040800XXXXMB. Concer
 about motion for fees/costs.
 
 **Recovered files:**
-- `EFTA00645624_decoded.png` — Full-resolution page image (1704x2196 px, bilevel)
-- `EFTA00645624.tiff` — Raw TIFF with CCITT data
-- `EFTA00645624_ocr.txt` — Full OCR text
+- [`EFTA00645624_decoded.png`](github_release/EFTA00645624/EFTA00645624_decoded.png) — Full-resolution page image (1704x2196 px, bilevel)
+- [`EFTA00645624.tiff`](carved_pdfs/EFTA00645624.tiff) — Raw TIFF with CCITT data
+- [`EFTA00645624_ocr.txt`](github_release/EFTA00645624/EFTA00645624_ocr.txt) — Full OCR text
+- [`EFTA00645624_ccitt_raw.bin`](carved_pdfs/EFTA00645624_ccitt_raw.bin) — Raw CCITT Group 4 bitstream (31,992 bytes)
 
 **Recovery technique:**
 1. Parsed PDF objects manually (no xref available)
@@ -57,8 +58,9 @@ for a Tiburon, CA residence. References David Packard and the Zaffaroni family. 
 "Academic Affairs" at 972-883-6764 (UT Dallas area code), dated March 22, 2012/2014.
 
 **Recovered files:**
-- `EFTA01175426_page02.png` through `_page20.png` — 10 page images (1728x2203 px, bilevel)
-- `EFTA01175426_full_ocr.txt` — Full OCR text of all pages
+- [`EFTA01175426_page02.png`](github_release/EFTA01175426/EFTA01175426_page02.png) through [`_page20.png`](github_release/EFTA01175426/EFTA01175426_page20.png) — 10 page images (1728x2203 px, bilevel)
+- [`EFTA01175426_full_ocr.txt`](github_release/EFTA01175426/EFTA01175426_full_ocr.txt) — Full OCR text of all pages
+- [`EFTA01175426_repaired.pdf`](carved_pdfs/EFTA01175426_repaired.pdf) — Repaired PDF with recovered pages
 
 **Recovery technique:**
 1. PyMuPDF, Ghostscript, and pdftoppm all failed (truncated xref)
@@ -92,7 +94,7 @@ each JPEG spans multiple disk sectors, but only the first contiguous run of sect
 The rest of each JPEG's data was in sectors belonging to other files on the original disk.
 
 **Recovered files:**
-- `EFTA01220934_jpeg1.jpg` through `_jpeg9.jpg` — 9 JPEGs carved from disk (2 corrupted, 7 viewable)
+- [`EFTA01220934_jpeg1.jpg`](github_release/EFTA01220934/EFTA01220934_jpeg1.jpg) through [`_jpeg9.jpg`](github_release/EFTA01220934/EFTA01220934_jpeg9.jpg) — 9 JPEGs carved from disk (2 corrupted, 7 viewable)
   - jpeg2: Small thumbnail (160x120), woman with goggles (scientist/lab worker?)
   - jpeg4: Sky icon (160x44)
   - jpeg5: Low-res stamped document (160x44)
@@ -101,11 +103,11 @@ The rest of each JPEG's data was in sectors belonging to other files on the orig
   - jpeg8: Image of money/currency (286x384)
   - jpeg9: Tall image (532x922)
   - jpeg1, jpeg3: Corrupted (cannot be opened)
-- `EFTA01220934_gif1.gif` — Office/application icons (344x280)
-- `EFTA01220934_png1.png` — Tiny icon (9x9)
-- `EFTA01220934_png2.png` — Small icon (38x12)
-- `EFTA01220934_content.html` — Macromedia Dreamweaver tag library dialog (not case-relevant)
-- `EFTA01220934_content.rtf` — Browser Extended Validation certificate help text (not case-relevant)
+- [`EFTA01220934_gif1.gif`](github_release/EFTA01220934/EFTA01220934_gif1.gif) — Office/application icons (344x280)
+- [`EFTA01220934_png1.png`](github_release/EFTA01220934/EFTA01220934_png1.png) — Tiny icon (9x9)
+- [`EFTA01220934_png2.png`](github_release/EFTA01220934/EFTA01220934_png2.png) — Small icon (38x12)
+- [`EFTA01220934_content.html`](github_release/EFTA01220934/EFTA01220934_content.html) — Macromedia Dreamweaver tag library dialog (not case-relevant)
+- [`EFTA01220934_content.rtf`](github_release/EFTA01220934/EFTA01220934_content.rtf) — Browser Extended Validation certificate help text (not case-relevant)
 
 **Sector map (each character = 4096 bytes):**
 ```
@@ -163,8 +165,8 @@ Michael Wolff (journalist), Gerald Sussman.
 Recovered as 640x480 thumbnail; original was 3264x2448.
 
 **Recovered files:**
-- `contacts_extracted.txt` — Full contact details with cross-references
-- `EFTA00597207_embedded_photo.jpg` — iPhone 5s photo from Aug 3, 2014
+- [`contacts_extracted.txt`](github_release/EFTA00597207/contacts_extracted.txt) — Full contact details with cross-references
+- [`EFTA00597207_embedded_photo.jpg`](github_release/EFTA00597207/EFTA00597207_embedded_photo.jpg) — iPhone 5s photo from Aug 3, 2014
 
 **Byte-level structure:**
 ```
@@ -203,9 +205,8 @@ describes the complexity of the case (157 separate assertions of material fact) 
 Government's three responsive filings (DE 407, DE 402, and the 30-page cross-motion).
 
 **Recovered files:**
-- `efta00593870_stripped.pdf` — Null bytes removed, 16,384 bytes remaining
-- `EFTA00593870_cleaned_text.txt` — Cleaned, readable text from page 1
-- `EFTA00593870_partial_text.txt` — Raw extraction with both spaced and joined text
+- [`efta00593870_stripped.pdf`](carved_pdfs/efta00593870_stripped.pdf) — Null bytes removed, 16,384 bytes remaining
+- [`EFTA00593870_cleaned_text.txt`](github_release/EFTA00593870/EFTA00593870_cleaned_text.txt) — Cleaned, readable text from page 1
 
 **Recovery technique:**
 1. Identified %%EOF at byte 734 (linearization first part)
@@ -248,3 +249,44 @@ The iPhone 5s photo from August 2014 was also recovered from the same file.
 
 The "corrupted PDFs" are better understood as **forensic imaging artifacts** — fragments of hard drives
 that were captured during evidence collection and assigned EFTA numbers regardless of their actual content.
+
+---
+
+## File Directory
+
+### `github_release/` — Curated recoveries organized by EFTA number
+
+| File | Description |
+|------|-------------|
+| [`EFTA00593870/EFTA00593870_cleaned_text.txt`](github_release/EFTA00593870/EFTA00593870_cleaned_text.txt) | Cleaned OCR text — CVRA motion page 1 |
+| [`EFTA00597207/contacts_extracted.txt`](github_release/EFTA00597207/contacts_extracted.txt) | 8 Apple Address Book contacts with cross-references |
+| [`EFTA00597207/EFTA00597207_embedded_photo.jpg`](github_release/EFTA00597207/EFTA00597207_embedded_photo.jpg) | iPhone 5s photo, Aug 3, 2014 |
+| [`EFTA00645624/EFTA00645624_decoded.png`](github_release/EFTA00645624/EFTA00645624_decoded.png) | Legal memo — full-resolution fax image |
+| [`EFTA00645624/EFTA00645624_ocr.txt`](github_release/EFTA00645624/EFTA00645624_ocr.txt) | Full OCR text of legal memo |
+| [`EFTA01175426/EFTA01175426_full_ocr.txt`](github_release/EFTA01175426/EFTA01175426_full_ocr.txt) | Full OCR text — San Mateo probate order (10 pages) |
+| [`EFTA01175426/EFTA01175426_page02.png`](github_release/EFTA01175426/EFTA01175426_page02.png) ... [`_page20.png`](github_release/EFTA01175426/EFTA01175426_page20.png) | 10 recovered page images |
+| [`EFTA01220934/EFTA01220934_jpeg1.jpg`](github_release/EFTA01220934/EFTA01220934_jpeg1.jpg) ... [`_jpeg9.jpg`](github_release/EFTA01220934/EFTA01220934_jpeg9.jpg) | 9 JPEGs carved from disk image |
+| [`EFTA01220934/EFTA01220934_gif1.gif`](github_release/EFTA01220934/EFTA01220934_gif1.gif) | GIF carved from disk image |
+| [`EFTA01220934/EFTA01220934_png1.png`](github_release/EFTA01220934/EFTA01220934_png1.png), [`_png2.png`](github_release/EFTA01220934/EFTA01220934_png2.png) | PNGs carved from disk image |
+| [`EFTA01220934/EFTA01220934_content.html`](github_release/EFTA01220934/EFTA01220934_content.html) | Dreamweaver tag library (not case-relevant) |
+| [`EFTA01220934/EFTA01220934_content.rtf`](github_release/EFTA01220934/EFTA01220934_content.rtf) | Browser EV cert help text (not case-relevant) |
+
+### `carved_pdfs/` — Raw forensic carving output (all 44 files)
+
+| File | Description |
+|------|-------------|
+| [`efta00593870_stripped.pdf`](carved_pdfs/efta00593870_stripped.pdf) | Null-stripped PDF shell (16KB) |
+| [`EFTA00597207_embedded_photo.jpg`](carved_pdfs/EFTA00597207_embedded_photo.jpg) | iPhone 5s photo recovered from bplist data |
+| [`EFTA00597207_pdftoppm-01.png`](carved_pdfs/EFTA00597207_pdftoppm-01.png) ... [`-10.png`](carved_pdfs/EFTA00597207_pdftoppm-10.png) | 10 pdftoppm render attempts (mostly blank — sectors overwritten) |
+| [`EFTA00645624_ccitt.bin`](carved_pdfs/EFTA00645624_ccitt.bin), [`_ccitt_raw.bin`](carved_pdfs/EFTA00645624_ccitt_raw.bin) | Raw CCITT Group 4 fax bitstreams |
+| [`EFTA00645624_decoded.png`](carved_pdfs/EFTA00645624_decoded.png) | Decoded fax page image |
+| [`EFTA00645624.tiff`](carved_pdfs/EFTA00645624.tiff) | TIFF-wrapped CCITT data |
+| [`EFTA01175426_full_ocr.txt`](carved_pdfs/EFTA01175426_full_ocr.txt) | Full OCR of 10 recovered pages |
+| [`EFTA01175426_page02.png`](carved_pdfs/EFTA01175426_page02.png) ... [`_page20.png`](carved_pdfs/EFTA01175426_page20.png) | 10 recovered fax page images |
+| [`EFTA01175426_repaired.pdf`](carved_pdfs/EFTA01175426_repaired.pdf) | Repaired PDF with recovered pages reinserted |
+| [`EFTA01220934_content.html`](carved_pdfs/EFTA01220934_content.html) | Dreamweaver HTML carved from disk |
+| [`EFTA01220934_content.rtf`](carved_pdfs/EFTA01220934_content.rtf) | RTF carved from disk |
+| [`efta01220934_first_image.jpeg`](carved_pdfs/efta01220934_first_image.jpeg), [`_first_png.png`](carved_pdfs/efta01220934_first_png.png) | First image/PNG found in disk sectors |
+| [`EFTA01220934_gif1.gif`](carved_pdfs/EFTA01220934_gif1.gif) | GIF carved from disk image |
+| [`EFTA01220934_jpeg1.jpg`](carved_pdfs/EFTA01220934_jpeg1.jpg) ... [`_jpeg9.jpg`](carved_pdfs/EFTA01220934_jpeg9.jpg) | 9 JPEGs carved from disk (2 corrupted) |
+| [`EFTA01220934_png1.png`](carved_pdfs/EFTA01220934_png1.png), [`_png2.png`](carved_pdfs/EFTA01220934_png2.png) | PNGs carved from disk image |
