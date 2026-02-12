@@ -38,12 +38,12 @@ The DOJ released an FBI Confidential Human Source report (FD-1023 format) in Dat
 
 | # | EFTA | What It Is | What To Look For |
 |---|------|-----------|-----------------|
-| 6 | ~~**[EFTA00649662](https://www.justice.gov/epstein/files/DataSet%209/EFTA00649662.pdf)** | Direct email between Musk and Epstein | **Full email contents.** The current head of DOGE had direct email correspondence with Epstein.~~ -> Only e-mail is redacted |
-| 7 | ~~**[EFTA02708600](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02708600.pdf)** | Second direct Musk-Epstein email | **Pattern, not isolated contact.**~~ --> Only e-mail is redacted |
-| 8 | ~~**[EFTA01003577](https://www.justice.gov/epstein/files/DataSet%209/EFTA01003577.pdf)** | Epstein to Musk: "caribean?" -- Christmas Caribbean trip invitation | **Did Musk ever visit Epstein's Caribbean properties, including the island?**~~ --> Only e-mail is redacted |
+| 6 | ~~**[EFTA00649662](https://www.justice.gov/epstein/files/DataSet%209/EFTA00649662.pdf)**~~ | Direct email between Musk and Epstein | **Full email contents.** The current head of DOGE had direct email correspondence with Epstein. -> Only e-mail is redacted |
+| 7 | ~~**[EFTA02708600](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02708600.pdf)**~~ | Second direct Musk-Epstein email | **Pattern, not isolated contact.** --> Only e-mail is redacted |
+| 8 | ~~**[EFTA01003577](https://www.justice.gov/epstein/files/DataSet%209/EFTA01003577.pdf)**~~ | Epstein to Musk: "caribean?" -- Christmas Caribbean trip invitation | **Did Musk ever visit Epstein's Caribbean properties, including the island?** --> Only e-mail is redacted |
 | 9 | **[EFTA02146241](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02146241.pdf)** | Scheduling meetings at SpaceX between Epstein and Musk | **Epstein had physical access to SpaceX facilities. National security implications.** |
-| 10 | ~~**[EFTA01909090](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01909090.pdf)** | Epstein lunch invitation to Musk | **Context of the social relationship.**~~ --> Only e-mails are redacted |
-| 11 | ~~**[EFTA01904574](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01904574.pdf)** | Epstein to Musk: "all fun based, not a funding trip" | **Epstein offering social introductions as currency.**~~ --> Only e-mail is redacted |
+| 10 | ~~**[EFTA01909090](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01909090.pdf)**~~ | Epstein lunch invitation to Musk | **Context of the social relationship.** --> Only e-mails are redacted |
+| 11 | ~~**[EFTA01904574](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01904574.pdf)**~~ | Epstein to Musk: "all fun based, not a funding trip" | **Epstein offering social introductions as currency.** --> Only e-mail is redacted |
 
 ### William Burns (CIA Director) -- 5 direct documents
 
