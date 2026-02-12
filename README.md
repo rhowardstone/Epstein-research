@@ -17,8 +17,9 @@ Every factual claim in these reports traces back to specific EFTA document numbe
 
 | Document | Description |
 |----------|-------------|
-| [CONGRESSIONAL_READING_GUIDE.md](CONGRESSIONAL_READING_GUIDE.md) | Prioritized document list for the DOJ reading room |
+| [CONGRESSIONAL_READING_GUIDE.md](CONGRESSIONAL_READING_GUIDE.md) | Prioritized document list for the DOJ reading room (original 90 documents) |
 | [CONGRESS_RAW_EFTA_LIST.md](CONGRESS_RAW_EFTA_LIST.md) | Complete EFTA document numbers with descriptions |
+| [CONGRESSIONAL_FOLLOWUP_NEW_FINDINGS.md](CONGRESSIONAL_FOLLOWUP_NEW_FINDINGS.md) | **NEW:** 60 additional critical documents from the full-corpus revisit (DS9-12) — includes FBI FD-1023, current government officials, co-conspirator list, Wexner deposition evidence |
 
 ---
 
