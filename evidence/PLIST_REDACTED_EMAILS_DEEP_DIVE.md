@@ -8,18 +8,18 @@
 
 ## Executive Summary
 
-Twelve documents in the Epstein DOJ file release contain Apple Mail PLIST XML metadata that was partially or fully exposed beneath failed redaction overlays (classified as `bad_overlay` type in the document text databases). These PLIST blocks are structured metadata automatically appended by Apple Mail when emails are exported from a Gmail IMAP account. They contain:
+Twelve documents in the Epstein DOJ file release were originally identified as containing Apple Mail PLIST XML metadata exposed beneath failed redaction overlays (classified as `bad_overlay` type in the document text databases). These 12 documents represent a small subset of the actual PLIST corpus: the full text corpus reveals approximately **75,630 documents** in DS11 and **571 documents** in DS9 containing PLIST metadata as part of the standard email export format, not hidden behind redactions. The PLIST blocks are structured metadata automatically appended by Apple Mail when emails are exported from a Gmail IMAP account. They contain:
 
 - **date-received**: Unix timestamp of when the email arrived
 - **date-last-viewed**: When the email was last opened (all show 0 = never viewed in client)
-- **flags**: Apple Mail status bitmask (all show 8590195713 = read, with one exception)
-- **gmail-label-ids**: Gmail folder labels assigned to the message
+- **flags**: Apple Mail status bitmask (8590195713 = read; 8606972929 = forwarded; 8623750145 = third distinct value found in DS11)
+- **gmail-label-ids**: Gmail folder labels assigned to the message (present in **93,066 DS11 documents**)
 - **remote-id**: Gmail server message ID
-- **conversation-id**: Gmail thread ID (present in one document)
+- **conversation-id**: Gmail thread ID (present in **80,570 DS11 documents**, not just the single document originally identified)
 
 **Key Finding:** The PLIST metadata was NOT intentionally placed in these documents -- it was inadvertently included when emails were exported from **jeevacation@gmail.com** (Jeffrey Epstein's personal Gmail account) using Apple Mail. The export process embedded the PLIST XML as part of the email body. The DOJ's redaction team attempted to redact this metadata (likely because it reveals the source email account and technical details about how evidence was collected/stored), but the overlay redactions failed, leaving the XML partially or fully visible.
 
-**The Gmail account jeevacation@gmail.com is confirmed as Epstein's personal email** -- it appears explicitly in [EFTA01781767](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01781767.pdf), [EFTA01792918](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01792918.pdf), and [EFTA02696356](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02696356.pdf).
+**The Gmail account jeevacation@gmail.com is confirmed as Epstein's personal email** -- it appears explicitly in [EFTA01781767](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01781767.pdf), [EFTA01792918](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01792918.pdf), and [EFTA02696356](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02696356.pdf). The full corpus provides far more comprehensive confirmation: jeevacation@gmail.com appears in **272,735 DS9 documents** and **170,876 DS11 documents**, including the Google Subscriber Information record ([EFTA00092106](https://www.justice.gov/epstein/files/DataSet%209/EFTA00092106.pdf)) listing all Google services used, Yahoo Account Management records linking it as recovery email for littlestjeff@yahoo.com and jeeproject@yahoo.com ([EFTA00083914](https://www.justice.gov/epstein/files/DataSet%209/EFTA00083914.pdf)/[EFTA00083915](https://www.justice.gov/epstein/files/DataSet%209/EFTA00083915.pdf)), and a Grand Jury subpoena to Amazon listing all 9 Epstein email addresses ([EFTA00081990](https://www.justice.gov/epstein/files/DataSet%209/EFTA00081990.pdf)).
 
 **All 12 emails were received into the same Gmail account** with consistent PLIST structure, confirming they are part of a single forensic export of Epstein's email archive.
 
@@ -480,7 +480,7 @@ This email was sent **the same evening** as [EFTA01792918](https://www.justice.g
 - Sultan Bin Sulayem also appears in the **January 2019 island guest list** ([EFTA02273951](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02273951.pdf)) alongside Steve Bannon, Nicole Junkermann, and Eduardo Teodorani -- 5 months before Epstein's final arrest
 - DP World is a massive global logistics/ports enterprise -- Epstein's connection to its chairman suggests geopolitical/business intelligence interests
 - The Russia expansion angle is notable given Epstein's other Russia-connected relationships (Mandelson/Moscow, Russian models via MC2)
-- 8+ other Sultan Bin Sulayem documents exist in the corpus spanning 2011-2015
+- The full corpus reveals **2,285 DS9 documents** referencing Sultan Bin Sulayem, including: a $6,200 Deutsche Bank wire transfer ([EFTA00080250](https://www.justice.gov/epstein/files/DataSet%209/EFTA00080250.pdf), July 2017); island trip coordination by Groff ([EFTA00324174](https://www.justice.gov/epstein/files/DataSet%209/EFTA00324174.pdf): "Did you want me to coordinate a trip to your island on June 9/10 with Sultan?"); DP World Maritime Hall of Fame invitation ([EFTA00317396](https://www.justice.gov/epstein/files/DataSet%209/EFTA00317396.pdf)); and a December 2016 island visitor list with "Sultan + 3" alongside Tom Pritzker, Joi Ito, Seth Lloyd, Joscha Bach, and Ed Boyden ([EFTA00285207](https://www.justice.gov/epstein/files/DataSet%209/EFTA00285207.pdf))
 
 **This is a high-profile international business figure maintaining casual, early-morning contact with a convicted sex offender.**
 
@@ -577,6 +577,12 @@ This email was sent **the same evening** as [EFTA01792918](https://www.justice.g
 
 **This is one of the clearest documents showing Epstein operating as a science patron with direct access to world-class researchers.** The casual reference to David E. Shaw (billionaire) and Yann LeCun (Facebook AI chief) as potential dinner guests at Epstein's home -- 5+ years after his sex trafficking conviction -- demonstrates the extraordinary insulation his scientific network provided.
 
+> **Revisit addition (2026-02-12):** DS9 contains the full raw email thread for this dinner: [EFTA00374338](https://www.justice.gov/epstein/files/DataSet%209/EFTA00374338.pdf) (Seung proposing Slavin and LeCun, Gershenfeld "cc'ing Jeff"), [EFTA00374345](https://www.justice.gov/epstein/files/DataSet%209/EFTA00374345.pdf) (Boyden's JetBlue itinerary), [EFTA00374405](https://www.justice.gov/epstein/files/DataSet%209/EFTA00374405.pdf) (Boyden's full signature block), [EFTA00374528](https://www.justice.gov/epstein/files/DataSet%209/EFTA00374528.pdf) (Gershenfeld: "Jeffrey says the start time will be 7pm!"). The March 14, 2014 day schedule ([EFTA00372853](https://www.justice.gov/epstein/files/DataSet%209/EFTA00372853.pdf)) confirms Tom Pritzker at 2:00pm and Mort Zuckerman breakfast at 9:00am on the same day. Gershenfeld's Citicar pickup was at 9 E 71st St (Epstein's townhouse) at 9:15 PM ([EFTA00372888](https://www.justice.gov/epstein/files/DataSet%209/EFTA00372888.pdf)). Reimbursements came from the Epstein foundation ([EFTA00373002](https://www.justice.gov/epstein/files/DataSet%209/EFTA00373002.pdf)).
+>
+> DS9 also reveals a **second Boyden dinner** -- August 2, 2015 at Baume Restaurant, 201 S California Ave, Palo Alto. The restaurant was bought out entirely. Confirmed attendees per [EFTA00344556](https://www.justice.gov/epstein/files/DataSet%209/EFTA00344556.pdf)/[EFTA00344562](https://www.justice.gov/epstein/files/DataSet%209/EFTA00344562.pdf): Ed Boyden, Reid Hoffman, Mark Zuckerberg, Priscilla Chan, Peter Thiel, Jeffrey Epstein, Joi Ito, and Elon Musk. Reid Hoffman's invitation to Epstein: "I have a dinner with joi, ed boyden, mark zuckerberg, and a few others that evening in Palo Alto. You would be welcome to join" ([EFTA00691059](https://www.justice.gov/epstein/files/DataSet%209/EFTA00691059.pdf)). Joi Ito: "dinner with Ed Boyden, Mark Zuckerberg, Reid Hoffman and others on Sunday that we have been planning for like a year" ([EFTA00691010](https://www.justice.gov/epstein/files/DataSet%209/EFTA00691010.pdf)).
+>
+> Boyden's relationship with Epstein extended beyond dinners: Boyden visited Zorro Ranch with Martin Nowak (Aug 2013, [EFTA00284739](https://www.justice.gov/epstein/files/DataSet%209/EFTA00284739.pdf)), had AmEx Centurion travel booked by Epstein ([EFTA00290723](https://www.justice.gov/epstein/files/DataSet%209/EFTA00290723.pdf)), and appeared on a December 2016 island visitor list ([EFTA00285207](https://www.justice.gov/epstein/files/DataSet%209/EFTA00285207.pdf)). DS9 contains 468 Boyden documents total.
+
 **The bad_overlay exposed Neil Gershenfeld's critical line: "Don't have a strong opinion, cc'ing Jeff to see if he does"** -- directly proving Epstein controlled the invitation list for these elite gatherings.
 
 ---
@@ -622,9 +628,13 @@ This email was sent **the same evening** as [EFTA01792918](https://www.justice.g
 - This email was sent **the same day** as [EFTA01766832](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01766832.pdf) (the Joe Pagano call list, sent at 5:28 PM) -- Groff was managing multiple contacts for Epstein simultaneously
 - **Gmail conversation-id** (142251) is unique among the 12 documents -- this may indicate the email was part of a longer thread
 
-**This PLIST metadata uniquely contains a conversation-id field not present in the other 11 documents, suggesting a different email thread structure.**
+**Correction (2026-02-12):** The conversation-id field was originally characterized as "unique to this document" and "present in one document." This is incorrect for the corpus as a whole: conversation-id is present in **80,570 DS11 documents**. It is a standard PLIST field in the DS11 email export, not an anomaly specific to EFTA02522767. Among the 12 bad_overlay documents analyzed in this report, it does appear only in this one.
 
 **Context:** Senator Mitchell has been publicly named in connection with Epstein. Virginia Giuffre named Mitchell in her allegations, though Mitchell has denied any wrongdoing. This document shows Epstein's office actively maintaining contact with Mitchell as late as mid-2012.
+
+> **Revisit addition (2026-02-12):** DS9 reveals 53 Mitchell documents and DS11 has 50. Key DS9 findings expand the Mitchell relationship: Epstein instructed staff to invite Mitchell for coffee with Terje Rod-Larsen and Ehud Barak ([EFTA00339490](https://www.justice.gov/epstein/files/DataSet%209/EFTA00339490.pdf), September 2015). Mitchell personally replied from his BlackBerry ([EFTA00339592](https://www.justice.gov/epstein/files/DataSet%209/EFTA00339592.pdf): "I think I will see Ehud Barak at a conference in Aspen"). Groff arranged Mitchell/Gates dinners ([EFTA00395024](https://www.justice.gov/epstein/files/DataSet%209/EFTA00395024.pdf): "Senator Mitchell asking if he might be available to meet with you and Bill Gates late Wed. Feb. 27th evening").
+>
+> The State Department contact has a companion document in DS9: in March 2019, Groff again called the State Department -- this time asking about passports for registered sex offenders ([EFTA00492095](https://www.justice.gov/epstein/files/DataSet%209/EFTA00492095.pdf): "I asked if there was a specialist in the area of passports for registered sex offenders"). Epstein had initiated the call ([EFTA00492076](https://www.justice.gov/epstein/files/DataSet%209/EFTA00492076.pdf): "connect me to the state dept person that knows about these passports"). He then forwarded the response to Darren Indyke asking "how long can they drag out the process" ([EFTA02631920](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02631920.pdf)). This occurred four months before Epstein's arrest.
 
 ---
 

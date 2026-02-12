@@ -11,9 +11,11 @@
 |--------|---------------------------|------|----------------|
 | PDFs scanned | 16,284 | 503,154 | **30.9x** |
 | Total redactions | 179,139 | 1,629,776 | **9.1x** |
-| Bad overlays (recoverable text) | 70,940 | 545,293 | **7.7x** |
+| Bad overlays (OCR text layers) | 70,940 | 545,293 | **7.7x** |
 | Proper redactions | 108,199 | 1,084,483 | **10.0x** |
 | Documents with hidden text | 9,133 | 209,829 | **23.0x** |
+
+**Methodology note:** DS10's PDFs are predominantly image-based scans with invisible OCR text layers (Text Rendering Mode 3 at 96 DPI). The black rectangles visible in redacted documents are baked JPEG pixels, not PDF annotation overlays. The "bad overlay" / "hidden text" entries in the redaction database represent garbled OCR from the scanning pipeline, not genuinely concealed content behind removable black rectangles. One confirmed readable exception: [EFTA00001932](https://www.justice.gov/epstein/files/DataSet%201/EFTA00001932.pdf) victim letter fragments. See REDACTION_TEXT_LAYER_ANALYSIS.md for the definitive methodology analysis.
 
 ## CRITICAL FINDING: FBI "PROMINENT NAMES" Briefing ([EFTA01660622](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660622.pdf))
 
@@ -33,6 +35,8 @@ Page 17 contains a "PROMINENT NAMES" summary listing victim allegations against 
 ### Glen Dubin
 1. Victim stated Maxwell instructed her to give Dubin a massage and "do what she did for Epstein."
 
+*Prosecutors formally classified Dubin under "Individuals Who Have Engaged in Massages with Epstein Girls" alongside Jes Staley ([EFTA00098755](https://www.justice.gov/epstein/files/DataSet%209/EFTA00098755.pdf)). Former Dubin employee Rinaldo Rizzo identified as having "knowledge of Epstein underage activity." Eva Dubin's phone number was on the operational staff contacts sheet alongside Groff, Indyke, Kahn, and Brunel. See LUTNICK_DUBIN_INVESTIGATION.md.*
+
 ### Prince Andrew
 1. Victim was told to "make Prince Andrew same things" — "he is good friends [with Epstein]"
 2. Steve Scully** [noted as having criminal history] witnessed at Epstein's Island
@@ -42,8 +46,10 @@ Page 17 contains a "PROMINENT NAMES" summary listing victim allegations against 
 1. Victim told to give Staley a massage at Epstein's. Staley "forced her" and "had rough sex" with her.
 
 ### Leon Black (Apollo Global Management founder)
-1. Victim told to give Black a massage. "Cuomo stated [he gave her a] massage and he made [jokes]" — another female gave her oral sex while Black watched. Made jokes about Black's penis size.
+1. Victim told to give Black a massage. "Cuomo stated [he gave her a] massage and he made [jokes]" — another female gave her oral sex while Black watched. Made jokes about Black's penis size. **Note: "Cuomo" is a victim surname (Tony Cuomo, per [EFTA02696360](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02696360.pdf)), not Governor Andrew Cuomo.**
 2. Victim stated Black "sex trafficked" and "threatened [her] numerous [times, including at Epstein's]." Black threatened her life and stated he had "connections."
+
+*The 2-allegation summary above significantly understates the evidentiary record. DS9/DS11 revisit identified at least 4 distinct victims with FBI 302s or ADA notes, $118.5M+ in documented wire transfers (Deutsche Bank Exhibit A), and a complete DANY-SDNY-FBI correspondence chain showing SDNY declined to investigate. See LEON_BLACK_PROSECUTION_FAILURE.md for the full record.*
 
 ### Les Wexner (L Brands/Victoria's Secret founder)
 1. Victim stated someone "earned his money from Wexner."
@@ -58,6 +64,8 @@ Page 17 contains a "PROMINENT NAMES" summary listing victim allegations against 
 
 ### Howard Lutnick (Cantor Fitzgerald CEO)
 1. "Simon Andriesz reported that Lutnick made his money through Ponzi schemes and money laundering. Lutnick and Epstein were neighbors and Epstein sold Lutnick a home for $10 which was then sold for millions."
+
+*The single NTOC tip above is the only Prominent Names entry for Lutnick. However, DS9 revisit found 20+ documents showing an active 2011-2013 social relationship: calendar appointments, family visit to Little St. James Island by boat (Dec 2012), email correspondence, and placement on the same call list as Leon Black, Boris Nikolic, Jes Staley, and John Brockman. See LUTNICK_DUBIN_INVESTIGATION.md.*
 
 ### William Barr / Leon Black
 1. NTOC tip stated "Barr and Black were present during abuses."
@@ -83,7 +91,7 @@ These are compilations of FBI tip line reports from **August 6-7, 2025** contain
 
 7. **Detailed allegation**: "He measured the children's vulva and vaginas by entering a finger and rated the children on tightness. The guests were elder men and included Elon Musk, Don Jr. Trump, Ivanka Trump, and Eric Trump. Attorney Allan Dershowitz was also there with Attorney Bob Shapiro. We were taken in rooms, forced to give oral sex to Donald J Trump. Forced to allow them to penetrate us. I was 13 years old when Donald J Trump raped me. Ghislaine Maxwell was also present."
 
-**IMPORTANT CAVEAT:** These are FBI tip line reports containing unverified allegations from callers. They are NOT established facts or FBI investigative conclusions. Tip line reports routinely contain unsubstantiated and sometimes false claims. The FBI compiled these for investigation purposes. The significance is that they were included in the case file and specifically redacted from public release.
+**IMPORTANT CAVEAT:** These are anonymous FBI tip line reports (NTOC = National Threat Operations Center) containing **unverified, unvetted intake from callers**. They are NOT established facts, NOT FBI investigative conclusions, and NOT evidence of the alleged conduct. NTOC tips routinely contain unsubstantiated, internally inconsistent, and sometimes entirely fabricated claims. Several of the tips above contain details that cannot be corroborated anywhere in the 218GB, 1.38M-document DOJ corpus. The FBI compiled these as raw intake for potential investigation. Their significance is institutional (they were included in the case file and redacted from public release) rather than evidentiary.
 
 ## Epstein Death Investigation Details ([EFTA01660622](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660622.pdf) p12)
 

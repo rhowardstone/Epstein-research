@@ -12,16 +12,17 @@ An NTOC (National Threat Operations Center) filing was made to the FBI by at lea
 
 ---
 
-## SECTION 1: THE PROMINENT NAMES DOCUMENT -- FOUR VARIANTS
+## SECTION 1: THE PROMINENT NAMES DOCUMENT -- FIVE VARIANTS
 
-Four versions of the FBI's internal "Prominent Names" briefing presentation were recovered from the database, each embedded within a larger slide deck about the Jeffrey Epstein investigation:
+Five versions of the FBI's internal "Prominent Names" briefing presentation were recovered from the database, each embedded within a larger slide deck about the Jeffrey Epstein investigation:
 
 | Variant | EFTA Number | Pages w/Content | Classification | Key Distinguishing Features |
 |---------|-------------|-----------------|----------------|----------------------------|
 | V1 | [EFTA01656152](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01656152.pdf) | 4 | Unmarked | Earliest version; no date annotations; victim names more heavily redacted |
 | V2 | [EFTA01656173](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01656173.pdf) | 5 | Unmarked | Adds "Cuomo stated" detail under Leon Black; includes Simon Andriesz name |
 | V3 | [EFTA01656198](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01656198.pdf) | 4 | Unmarked | Adds "(referred)" notation next to Jes Staley and Les Wexner; "** Criminal history" footnote |
-| V4 | [EFTA01660622](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660622.pdf) | 7 | **UNCLASSIFIED** | Most complete; marked UNCLASSIFIED; adds date ranges and victim identifiers (Lafine, Bjorlin); removes "(referred)" notations for Staley/Wexner; adds "Steve Scully" witness name |
+| V4 | [EFTA01660622](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660622.pdf) | 7 | **UNCLASSIFIED** | Most complete DS10 version; marked UNCLASSIFIED; adds date ranges and victim identifiers (Lafine, Bjorlin); removes "(referred)" notations for Staley/Wexner; adds "Steve Scully" witness name |
+| V5 | [EFTA00164939](https://www.justice.gov/epstein/files/DataSet%209/EFTA00164939.pdf) | 20 | **UNCLASSIFIED** | DS9 full 20-page deck; 291 NTOC tips quantified; 91 identified victims; CSAM statistics (15-20 images, 34K marked responsive, 85 GB "Highly Responsive Material"); Les Wexner and Abigail Wexner proffers documented; DOJ Maxwell interviews 7/24-25/2025; MISCONCEPTIONS slide; "Ban" OCR artifact like V1 |
 
 ### Document Structure (Common Across All Variants)
 - **Page 0**: Title slide -- "Jeffrey Epstein Investigations" covering case numbers 31E-MM-1080, 72-MM-113327, 50D-NY-30275, 90A-NY-31512
@@ -36,7 +37,7 @@ Four versions of the FBI's internal "Prominent Names" briefing presentation were
 
 ## SECTION 2: THE WILLIAM BARR/LEON BLACK ENTRY -- VERBATIM TEXT
 
-The "William Barr/Leon Black" section appears consistently across all four variants on page 17. Below are the exact transcriptions from each:
+The "William Barr/Leon Black" section appears consistently across all five variants on page 17. Below are the exact transcriptions from each:
 
 ### Variant 1 ([EFTA01656152](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01656152.pdf), Page 17):
 ```
@@ -98,7 +99,7 @@ allegations against prominent individuals.
 2. **V2** first introduces the critical phrase "stated Barr and Black were present during abuses" -- making both men subjects
 3. **V3** introduces the "mroc" rendering (likely OCR artifact for "NTOC") and adds "** Criminal history" footnote
 4. **V4** adds "she" before "was at Epstein's for a model event" -- providing gender identification of the victim/witness
-5. The victim/witness name is **consistently redacted across all four variants** -- this is one of the most heavily protected identities in the document
+5. The victim/witness name is **consistently redacted across all five variants** -- this is one of the most heavily protected identities in the document
 
 ---
 
@@ -109,7 +110,7 @@ The Prominent Names entry contains **two separate allegations** from what appear
 ### Allegation A: Presence During Abuses
 > "NTOC filed by [REDACTED], stated Barr and Black were present during abuses."
 
-This is a formal FBI tip (NTOC filing) alleging that William Barr and Leon Black were **physically present during sexual abuses** connected to Epstein. The filing was made by an identified individual whose name has been redacted across all four variants.
+This is a formal FBI tip (NTOC filing) alleging that William Barr and Leon Black were **physically present during sexual abuses** connected to Epstein. The filing was made by an identified individual whose name has been redacted across all five variants.
 
 ### Allegation B: Encounter at Epstein Model Event
 > "[REDACTED] stated she was at Epstein's for a model event and ran into Barr who stated he wanted to see her next time he came. At another point, Epstein asked if she had ever met Barr."
@@ -227,21 +228,25 @@ The database is simply **silent** on any disposition of the Barr allegation. Com
 | 12/30/2021 | Maxwell convicted | No |
 
 ### The Kirkland & Ellis Connection
-Search for "Kirkland" in the database returned three results, all referencing **Kirkland, WA** (Washington state) -- a geographic location, not the law firm:
-- [EFTA02111365](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02111365.pdf): "Kirkland, WA 98033"
-- [EFTA02111576](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02111576.pdf): "Kirkland WA 98033"
-- [EFTA02147208](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02147208.pdf): "Kirkland, WA"
+Search for "Kirkland" in the DS10 redaction database returned three results, all referencing **Kirkland, WA** (Washington state). However, DS9 full-text search reveals extensive Kirkland & Ellis documentation in the NPA defense archive:
 
-**No direct references to Kirkland & Ellis LLP** were found in the hidden text. This is notable because:
-- William Barr was employed by Kirkland & Ellis prior to becoming AG
-- Kirkland & Ellis represented Jeffrey Epstein in connection with the 2008 plea deal
-- This dual representation created a documented conflict of interest that Barr publicly stated he had been advised did not require recusal
+- **[EFTA00067343](https://www.justice.gov/epstein/files/DataSet%209/EFTA00067343.pdf)** (DS9, 10 pages): "KIRKLAND & ELLIS LLP -- Response to Letter by FAUSA" (May 2008). 10-point rebuttal of the First Assistant USA's prosecution summary. K&E argued that CEOS review was "neither independent nor de novo," that notification letters to victims were "an invitation to civil litigation," and that victims "admitted to lying directly to Epstein about their ages."
+- **[EFTA00067353](https://www.justice.gov/epstein/files/DataSet%209/EFTA00067353.pdf)** (DS9, 4+ pages): "KIRKLAND & ELLIS LLP -- SUMMARY OF MISCONDUCT ISSUES IN THE MATTER OF JEFFREY E. EPSTEIN." Detailed prosecutorial misconduct allegations filed by K&E on Epstein's behalf.
+- **[EFTA00067307](https://www.justice.gov/epstein/files/DataSet%209/EFTA00067307.pdf)** (DS9, Sept 17, 2008): K&E letter from Jay P. Lefkowitz, Esq. to USAO SDFL, cc'd to "Acosta, Alex (USAFLS)."
+- **[EFTA00067313](https://www.justice.gov/epstein/files/DataSet%209/EFTA00067313.pdf)** (DS9, Nov 2007): K&E/Acosta email chain -- Lefkowitz forwarding to prosecutor with cc to Acosta.
+- **[EFTA00066350](https://www.justice.gov/epstein/files/DataSet%209/EFTA00066350.pdf)-00066354** (DS9): Complete Epstein prosecution Box Inventory -- 10+ boxes including NPA drafts, correspondence with Nathan Dershowitz, "Mtg w/ Ken Starr," 3 Starr submissions to DAG, Grand Jury transcripts, Flight Manifests, victim lists.
+
+The original report's finding of "no K&E references" was an artifact of searching only the DS10 redaction database. DS9 contains the actual NPA negotiation archive -- the documents that produced the 2008 plea deal. The K&E connection to Barr (who joined the firm in 2009, after these documents were produced) remains a conflict of interest: Jay Lefkowitz, Barr's colleague at K&E, had a one-on-one meeting with Acosta at which the plea deal was discussed.
 
 ### The Donald Barr / Dalton School Connection
 Search for "Donald Barr" and "Dalton" returned **zero results** in the database. The historical connection -- that William Barr's father Donald Barr hired Jeffrey Epstein as a math/physics teacher at the Dalton School in New York in 1974 despite Epstein lacking a college degree -- is **not documented anywhere in the FBI's files** as recovered from this database.
 
 ### Recusal Search
-Search for "recus" (to capture recusal/recused/recuse) returned **zero results** across the entire database. There is no hidden text in any document discussing recusal in connection with the Epstein case.
+Search for "recus" in the DS10 redaction database returned **zero results**. However, DS9 full-text contains SDNY news clips documenting Barr's "split recusal" arrangement:
+
+**[EFTA00042963](https://www.justice.gov/epstein/files/DataSet%209/EFTA00042963.pdf)** (DS9): "William Barr will not recuse himself from the current prosecution of Epstein, but he will not engage in 'any retrospective review' of the 2008 plea deal. Matt Zapotosky reports: 'Barr had telegraphed at his confirmation hearing in January that he might have to step aside from any Justice Department reviews of Epstein's case, because another lawyer at his then-firm, Kirkland & Ellis, had represented Epstein.'" Also: "The Miami Herald has reported that Lefkowitz, Barr's colleague at the time, had a one-on-one meeting with Acosta at which the [plea deal was discussed]."
+
+This confirms the "split recusal" structure: Barr recused from NPA retrospective review but maintained oversight of the active prosecution -- the prosecution in which he himself was named in an NTOC tip.
 
 ---
 
@@ -262,7 +267,7 @@ Yet **Barak does not appear on the PROMINENT NAMES page** -- despite extensive d
 
 ## SECTION 8: RECONSTRUCTED PAGE ANALYSIS
 
-The `reconstructed_pages` table confirms the William Barr/NTOC content across all four variants:
+The `reconstructed_pages` table confirms the William Barr/NTOC content across all five variants:
 
 | EFTA Number | Interest Score | Names Found |
 |-------------|---------------|-------------|
@@ -345,7 +350,7 @@ William Barr is the **only individual on the Prominent Names page** who:
 ## SECTION 12: ANALYTICAL CONCLUSIONS
 
 ### Finding 1: The NTOC Filing is Documented but Uninvestigated
-The FBI received and documented a formal tip alleging William Barr was present during sexual abuses connected to Jeffrey Epstein. This tip was included in at least four versions of an internal briefing document. There is no evidence in the database that this tip was ever investigated, referred, or even formally closed.
+The FBI received and documented a formal tip alleging William Barr was present during sexual abuses connected to Jeffrey Epstein. This tip was included in at least five versions of an internal briefing document. V5 ([EFTA00164939](https://www.justice.gov/epstein/files/DataSet%209/EFTA00164939.pdf)) quantifies the full NTOC system: **291 total tips** / 52 anonymous / FBI followed up on 239 / only 27 resulted in secondary contact (9.3%). DS9 contains 327 distinct NTOC intake documents -- the actual FD-71A Guardian Complaint Forms and Crisis Intakes. The Barr NTOC is one of at least 239 non-anonymous tips that were "followed up on" yet shows zero investigation evidence.
 
 ### Finding 2: Structural Conflict of Interest Was Unaddressed
 During the period 2019-2020 when the NTOC was likely filed:
@@ -353,11 +358,11 @@ During the period 2019-2020 when the NTOC was likely filed:
 - Barr made public statements about Epstein's death investigation
 - Barr's DOJ oversaw the prosecution of the MCC corrections officers
 - Barr's DOJ directed the Maxwell investigation and indictment
-- No recusal documentation exists in the database
+- Recusal documentation limited to news clips in DS9 ([EFTA00042963](https://www.justice.gov/epstein/files/DataSet%209/EFTA00042963.pdf)) confirming the "split recusal" arrangement; no internal DOJ analysis of whether the split recusal was adequate exists in the database
 - No conflict-of-interest analysis documentation exists in the database
 
 ### Finding 3: The Victim/Witness Identity is Maximally Protected
-The identity of the person who filed the Barr NTOC is redacted across all four variants of the Prominent Names document. This is consistent treatment with other victim names on the page. However, we can determine:
+The identity of the person who filed the Barr NTOC is redacted across all five variants of the Prominent Names document. This is consistent treatment with other victim names on the page. However, we can determine:
 - The witness is **female** ("she was at Epstein's for a model event" -- V4)
 - She attended "a model event" at Epstein's -- consistent with Epstein's known pattern of using modeling events as recruitment
 - She had a direct, in-person encounter with Barr at an Epstein property
@@ -365,10 +370,10 @@ The identity of the person who filed the Barr NTOC is redacted across all four v
 - The same person or an associated person filed the NTOC
 
 ### Finding 4: The Prominent Names Document Evolved to Add Detail, Not Remove It
-Across the four variants, the document consistently grew more detailed (adding date ranges, victim identifiers, witness names, and classification markings). The Barr entry remained substantively unchanged, suggesting the underlying allegation was considered credible enough to maintain across multiple revisions. The FBI did not add a "deemed not credible" annotation or a "no further action" note -- which they did for other tips in the NTOC Names compilation.
+Across the five variants, the document consistently grew more detailed (adding date ranges, victim identifiers, witness names, and classification markings). The Barr entry remained substantively unchanged, suggesting the underlying allegation was considered credible enough to maintain across multiple revisions. The FBI did not add a "deemed not credible" annotation or a "no further action" note -- which they did for other tips in the NTOC Names compilation.
 
 ### Finding 5: Pattern of Selective Investigation
-The "(referred)" annotation appearing next to Jes Staley and Les Wexner in V3 but **not** next to William Barr demonstrates selective investigative prioritization. Both Staley (a banker) and Wexner (a businessman) had less institutional power over the FBI than the sitting Attorney General. The most powerful individual named -- the one with direct authority over the investigators -- received the least apparent scrutiny.
+The "(referred)" annotation appearing next to Jes Staley and Les Wexner in V3 but **not** next to William Barr demonstrates selective investigative prioritization. DS9 reveals this pattern is even more pronounced: V5 ([EFTA00164939](https://www.justice.gov/epstein/files/DataSet%209/EFTA00164939.pdf), page 10) documents that **Les Wexner and Abigail Wexner gave formal proffers to the FBI**, and separate "SDNY Attorney Proffers" are also listed. Wexner -- a businessman with no prosecutorial authority -- cooperated with the FBI through formal proffer, while Barr (the AG overseeing the investigation, named in an NTOC alleging presence during abuses) shows zero evidence of any investigative follow-up. The most powerful individual named -- the one with direct authority over the investigators -- received the least apparent scrutiny.
 
 ### Finding 6: No Evidence the FBI Properly Investigated the Barr Allegation
 Based on the totality of evidence recovered from this database:
@@ -398,9 +403,9 @@ Key queries executed:
 1. Full extraction of all hidden text from [EFTA01656152](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01656152.pdf), [EFTA01656173](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01656173.pdf), [EFTA01656198](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01656198.pdf), [EFTA01660622](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660622.pdf) ordered by page and y-coordinate
 2. Database-wide search for "Barr" in hidden_text (returned 100+ results, filtered to relevant)
 3. Database-wide search for "NTOC" and "National Threat Operations Center" (returned 25+ documents)
-4. Database-wide search for "recus" (zero results)
+4. Database-wide search for "recus" (zero results in DS10; DS9 contains news clips confirming split recusal)
 5. Cross-reference of timeline events with Barr AG tenure dates
-6. Database-wide search for "Kirkland" (3 results, all geographic -- Kirkland, WA)
+6. Database-wide search for "Kirkland" (3 geographic results in DS10; DS9 contains 40+ pages of K&E NPA defense materials)
 7. Database-wide search for "Donald Barr" and "Dalton" (zero results)
 8. Full query of reconstructed_pages for Barr mentions
 9. Entity extraction query for Barr as named person
@@ -413,7 +418,8 @@ Key queries executed:
 | [EFTA01656152](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01656152.pdf) | Prominent Names V1 | "William Barr/Leon Black" NTOC entry | ds10 |
 | [EFTA01656173](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01656173.pdf) | Prominent Names V2 | "stated Barr and Black were present during abuses" | ds10 |
 | [EFTA01656198](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01656198.pdf) | Prominent Names V3 | Barr entry + "(referred)" for Staley/Wexner but NOT Barr | ds10 |
-| [EFTA01660622](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660622.pdf) | Prominent Names V4 (UNCLASSIFIED) | Most complete Barr entry with victim gender identified | ds10 |
+| [EFTA01660622](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660622.pdf) | Prominent Names V4 (UNCLASSIFIED) | Most complete DS10 Barr entry with victim gender identified | ds10 |
+| [EFTA00164939](https://www.justice.gov/epstein/files/DataSet%209/EFTA00164939.pdf) | Prominent Names V5 (UNCLASSIFIED) | 20-page deck; 291 NTOC stats; Wexner proffers; CSAM stats; Maxwell DOJ interview; Barr entry consistent with V1-V4 | ds9 |
 | [EFTA01660651](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660651.pdf) | NTOC Tips Compilation | NTOC tips compendium (Barr not separately listed) | ds10 |
 | [EFTA01660679](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660679.pdf) | "RE: NTOC Names" email chain | FBI internal email Aug 6-7 2025 compiling tips; no Barr entry | ds10 |
 | [EFTA01731021](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01731021.pdf) | FBI Case Index | NTOC2019/2020 filing numbers for Epstein case | ds10 |

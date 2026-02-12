@@ -66,6 +66,19 @@ Barak served as Prime Minister of Israel (1999-2001) and was documented visiting
 
 **Note:** The "foreign president" and the "well-known Prime Minister" in the legal filings may refer to different individuals, or may refer to the same person described inconsistently. Barak is the strongest documented match for either designation.
 
+> **[UPDATE — 2026-02-12]** DS9 calendar documents (EFTA00284xxx-EFTA00287xxx series, Lesley Groff's scheduling records covering 2013-2019) massively expand the documented Barak-Epstein relationship with **15+ new scheduling entries**:
+>
+> - [EFTA00284747](https://www.justice.gov/epstein/files/DataSet%209/EFTA00284747.pdf): "3:00pm Appt w/Ehud Barak" (Dec 4, 2013)
+> - [EFTA00284799](https://www.justice.gov/epstein/files/DataSet%209/EFTA00284799.pdf): "7:45pm Casual Dinner w/Terje, Ehud and Nili" (Barak and wife, Sept 2013)
+> - [EFTA00284908](https://www.justice.gov/epstein/files/DataSet%209/EFTA00284908.pdf): 2014 dinner party list: Barak alongside Black, Staley, Blankfein, Kissinger, Summers, Woody Allen
+> - [EFTA00284942](https://www.justice.gov/epstein/files/DataSet%209/EFTA00284942.pdf): "Possibly Ehud Barak to go to JE's island today" (Jan 23, 2014)
+> - [EFTA00284949](https://www.justice.gov/epstein/files/DataSet%209/EFTA00284949.pdf): "DINNER w/Peter Thiel and Ehud Barak" (June 9, 2014)
+> - [EFTA00285006](https://www.justice.gov/epstein/files/DataSet%209/EFTA00285006.pdf): "Fly Ehud Barak from PB, Galaxy Aviation, to Tampa" (Jan 26, 2014) -- Barak on Epstein's aircraft
+> - [EFTA00285196](https://www.justice.gov/epstein/files/DataSet%209/EFTA00285196.pdf): "LUNCH w/Ehud Barak, Tom Barrack and Vital Churkin" (Aug 28, 2016)
+> - [EFTA00285740](https://www.justice.gov/epstein/files/DataSet%209/EFTA00285740.pdf): Two meals in one day -- BREAKFAST + LUNCH w/Ehud Barak (Feb 25, 2019), just 5 months before Epstein's arrest
+>
+> These entries establish: (1) Barak used Epstein's private aircraft, (2) Barak was invited to Epstein's island, (3) the relationship continued through February 2019, and (4) Nili Priell Barak (wife) traveled with Barak in the Epstein orbit. This elevates the Barak identification from PROBABLE to **STRONG**.
+
 ---
 
 ## PART 3: IDENTIFICATION OF THE "FRENCH HOTEL CHAIN OWNER"
@@ -82,11 +95,15 @@ The accusation compilation states Giuffre alleges she was told to have sex with 
 - [EFTA00362478](https://www.justice.gov/epstein/files/DataSet%209/EFTA00362478.pdf): Larry Summers stayed at "the Sofitel" (an Accor brand) when meeting Epstein
 - [EFTA02108305](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02108305.pdf): "Kafrawi Yuliantono -- SOFITEL Bali Nusa Dua FB" (redacted contact)
 
-The Accor hotel group is a French multinational hospitality company. Its founders, **Paul Dubrule** and **Gerard Pelisson**, would fit the description of "French hotel chain owner." However, the databases do not contain direct evidence tying either man to Epstein's abuse network.
+The Accor hotel group is a French multinational hospitality company. Its founders, **Paul Dubrule** and **Gerard Pelisson**, were initially considered as possible matches for the description of "French hotel chain owner." However, the databases do not contain direct evidence tying either man to Epstein's abuse network.
+
+> **[CORRECTION — 2026-02-12]** The 14 "Dubrule" hits found in DS9/DS11 all refer to **Sophie Dubrule**, a **Sotheby's Paris** employee who handled Epstein's art consignment -- NOT Paul Dubrule (Accor co-founder, born 1934). Sophie Dubrule arranged the pickup and sale of furniture from Epstein's 22 Avenue Foch apartment in Paris through Sotheby's "Mobilier, Sculptures et Objets d'Art" auction in 2012 ([EFTA00532711](https://www.justice.gov/epstein/files/DataSet%209/EFTA00532711.pdf), [EFTA02299718](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02299718.pdf)-[EFTA02306530](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02306530.pdf)). Gerard Pelisson's single hit ([EFTA00578074](https://www.justice.gov/epstein/files/DataSet%209/EFTA00578074.pdf)) is a World Travel & Tourism Council executive committee membership list. The Dubrule/Pelisson lead should be considered **eliminated**.
+>
+> New Accor hotel **usage** evidence confirms Epstein patronized Accor properties: a Pullman Riga Old Town Hotel credit card authorization ([EFTA00313771](https://www.justice.gov/epstein/files/DataSet%209/EFTA00313771.pdf)) and multiple Accor online booking confirmations charged to Epstein's Amex ([EFTA00326274](https://www.justice.gov/epstein/files/DataSet%209/EFTA00326274.pdf)). This confirms hotel usage but does NOT identify the accused individual.
 
 An alternative possibility is that this refers to someone in the broader French hospitality industry connected to Epstein's Paris operations. Epstein maintained a residence in Paris (Avenue Foch), and Jean-Luc Brunel (MC2/Karin Models) was the primary conduit to French connections. The "French hotel chain owner" may have been introduced through Brunel's modeling/entertainment network.
 
-**Confidence Level:** LOW -- The specific identification remains unresolved. The Accor connection appears in redacted form in the investigative files but without a named individual linked to abuse.
+**Confidence Level:** LOW/UNRESOLVED -- The specific identification remains unresolved. The Accor brand appears in travel records and the Dubrule surname in the corpus refers to a Sotheby's employee, not the Accor co-founder.
 
 ---
 
@@ -105,7 +122,7 @@ An alternative possibility is that this refers to someone in the broader French 
 |---|---|---|---|
 | **Mr. Leonsis** | "flights of horror. Whether its with Jeffrey, Mr. Leonsis, Mr. Case, Mr. Snyder, the Gregorys, Mr. Colgan" | **Ted Leonsis** -- AOL executive, owner of Washington Capitals/Wizards. AOL connection established via victim journal AOL clippings and Vradenburg/Case connections | HIGH |
 | **Mr. Case** | Same passage as Leonsis | **Steve Case** -- Co-founder and former CEO of AOL. Fits the AOL cluster of names in the journals | HIGH |
-| **Mr. Snyder / Dan Snyder** | "Joe Gibbs is so nice but **Dan Snyder is a pig! A red skin hoggett(sp?)!**" | **Daniel Snyder** -- Former owner of the Washington Redskins (now Commanders). "Red skin hoggett" is clearly a reference to the football team. Joe Gibbs was the Redskins coach. | CONFIRMED |
+| **Mr. Snyder / Dan Snyder** | "Joe Gibbs is so nice but **Dan Snyder is a pig! A red skin hoggett(sp?)!**" | **Daniel Snyder** -- Former owner of the Washington Redskins (now Commanders). "Red skin hoggett" is clearly a reference to the football team. Joe Gibbs was the Redskins coach. Independently corroborated: Epstein personally referred Snyder to a Palm Beach real estate broker ([EFTA00767027](https://www.justice.gov/epstein/files/DataSet%209/EFTA00767027.pdf), Dec 2009; [EFTA00764574](https://www.justice.gov/epstein/files/DataSet%209/EFTA00764574.pdf), Jan 2010). SDNY dismissed a TMZ Snyder arrest rumor as "Insane" ([EFTA00102503](https://www.justice.gov/epstein/files/DataSet%209/EFTA00102503.pdf)). | CONFIRMED |
 | **Mr. Kimsey** | "Mr. Kimsey is deranged, The answer is c. crazy!" | **James V. Kimsey** -- Co-founder of AOL. Fits the AOL/DC tech cluster with Case, Leonsis, Vradenburg | HIGH |
 | **Mr. Colgan** | "Why did Mr. Colgan agree to this!" | Unknown -- possibly a local facilitator, attorney, or business associate. No definitive match in databases. | LOW |
 | **The Gregorys** | "the Gregorys" (plural, suggesting a couple) | Unknown -- possibly a family involved in Epstein's social circle. No definitive match. | LOW |
@@ -124,6 +141,8 @@ An alternative possibility is that this refers to someone in the broader French 
 > "Thank you so Mody, for all your coords... and for teaching me how to cycle... Know you. I hope you learn to see... I remember you forever, until I learn to... beauty calling yourself, for you are an absolutely lovely person inside and out."
 
 This appears to be a heartfelt note to someone who taught the victim to cycle and served as a supportive figure. The tone is warm, suggesting "Mody" may have been a caretaker or therapist -- but the [EFTA02731420](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731420.pdf) entry says these people "are not who they say!" suggesting betrayal or deception. No definitive identification from the databases.
+
+> **[UPDATE — 2026-02-12]** DS9 contains a complete copy of the victim journal ([EFTA00155037](https://www.justice.gov/epstein/files/DataSet%209/EFTA00155037.pdf), labeled "EXHIBIT C") with improved OCR text. A search across the full 12-dataset corpus (1,380,937 docs) confirms that all eight ghost names (Mody, Sant, Ludwig, Cecchi, Mora, Goodlatte, Atkins, Colgan) appear **only** in the journal text itself and nowhere else in Epstein's email, financial, calendar, or organizational records. "Cecchi" has zero hits across the entire corpus outside the journal. This strongly supports the victim's own statement that these individuals "are not who they say" -- i.e., the names were aliases used during encounters.
 
 ### Mr. Goodlatte
 
@@ -148,7 +167,7 @@ The journal entry asks whether this is Bob Goodlatte, the Virginia congressman. 
 | **Mr. Caruthers** | Same passage, named alongside Dershowitz and "Mr. Islam" as someone who "will hurt you" | Unknown -- distinctive spelling. No match in redaction databases. Possibly a pseudonym or lesser-known associate. | UNRESOLVED |
 | **Mr. Islam** | Same passage. Named as dangerous: "even Mr. Islam will hurt you" | Unknown -- could be a surname or a reference to someone's religious background. No match in databases. | UNRESOLVED |
 | **Mr. Leonsis** | "Why would they all allow Mr. Leonsis wait this long? Why would he bring a friend and make a video?" | **Ted Leonsis** -- AOL executive, Washington sports team owner. The reference to "bring a friend and make a video" is deeply disturbing and suggests documented abuse. | HIGH |
-| **Mr. Rai[...]s** | "Mr. Rai[...]s and Mr. Ein [clipping: blood on their hands]" | Partially obscured by clipping. Could be "Mr. Raines" or similar. No definitive match. | UNRESOLVED |
+| **Mr. Rails** | "Mr. Rails and Mr. Ein [clipping: blood on their hands]" | DS9 journal copy ([EFTA00155037](https://www.justice.gov/epstein/files/DataSet%209/EFTA00155037.pdf), page 14) confirms full name as "Mr. Rails" -- not "Raines" or similar. No definitive match in the corpus. | UNRESOLVED |
 | **Mr. Ein** | Same passage -- "Mr. Ein [clipping: blood on their hands]" | Unknown -- could be a partial name. Possibly related to someone from Epstein's financial network. | UNRESOLVED |
 | **Mr. Jacobson** | "but so does Jeffrey and Mr. Jacobson. Mr. Conway Mr. vradenberg and Bill s" | Unknown -- Jacobson is a common surname. The context lists him among those who "dont care if this happens" (referring to a painful medical procedure, likely an abortion). Could be a doctor or financial associate. | UNRESOLVED |
 | **Mr. Conway** | Same passage | Unknown -- no definitive match. | UNRESOLVED |
@@ -206,9 +225,9 @@ Key revelations:
 
 | # | Reference | Source EFTA | Proposed Identity | Status |
 |---|---|---|---|---|
-| 1 | "foreign president" | [EFTA00022133](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022133.pdf) | **Ehud Barak** (former Israeli PM) or another foreign leader | PROBABLE |
-| 2 | "well-known Prime Minister" | [EFTA00021553](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021553.pdf) | **Ehud Barak** | PROBABLE |
-| 3 | "French hotel chain" owner | [EFTA00022133](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022133.pdf) | **Unknown** -- Accor hotel chain referenced in redacted files ([EFTA00007157](https://www.justice.gov/epstein/files/DataSet%204/EFTA00007157.pdf)) but no named individual | UNRESOLVED |
+| 1 | "foreign president" | [EFTA00022133](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022133.pdf) | **Ehud Barak** (former Israeli PM) or another foreign leader | **STRONG** (upgraded from PROBABLE; 15+ DS9 calendar entries 2013-2019, aircraft usage, island invitation) |
+| 2 | "well-known Prime Minister" | [EFTA00021553](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021553.pdf) | **Ehud Barak** | **STRONG** |
+| 3 | "French hotel chain" owner | [EFTA00022133](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022133.pdf) | **Unknown** -- Accor hotel chain referenced in redacted files ([EFTA00007157](https://www.justice.gov/epstein/files/DataSet%204/EFTA00007157.pdf)) but no named individual. "Dubrule" lead eliminated (Sophie Dubrule = Sotheby's Paris, not Accor co-founder). | UNRESOLVED |
 | 4 | Unnamed "prince" | [EFTA00022133](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022133.pdf) | **Prince Andrew** | CONFIRMED (elsewhere in same doc) |
 | 5 | "The old president" | [EFTA02731465](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731465.pdf) | **Bill Clinton** (Chelsea reference) | HIGH |
 | 6 | Mr. Mody | [EFTA02731420](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731420.pdf) | Unknown -- possibly caretaker/therapist | UNRESOLVED |
@@ -237,7 +256,7 @@ Key revelations:
 | 29 | Mr. staley | [EFTA02731465](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731465.pdf) | **Jes Staley** (Barclays CEO) | CONFIRMED |
 | 30 | Ms. Vicki | [EFTA02731465](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731465.pdf) | Unknown female facilitator in FL and CA | UNRESOLVED |
 | 31 | Mr. Dana | [EFTA02731420](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731420.pdf) | **Dana Chasin** (Rockefeller connection) | CONFIRMED |
-| 32 | Mr. Rai[...]s | [EFTA02731465](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731465.pdf) | Unknown -- partially obscured | UNRESOLVED |
+| 32 | Mr. Rails | [EFTA02731465](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731465.pdf), [EFTA00155037](https://www.justice.gov/epstein/files/DataSet%209/EFTA00155037.pdf) | Unknown -- name confirmed as "Rails" by DS9 journal copy | UNRESOLVED |
 | 33 | Mr. Ein | [EFTA02731465](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731465.pdf) | Unknown | UNRESOLVED |
 | 34 | Mr. Glickman | [EFTA02731420](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731420.pdf) | Unknown -- pre-Epstein, mother's associate | UNRESOLVED |
 
@@ -247,9 +266,9 @@ Key revelations:
 
 ### Critical Findings
 
-1. **The "foreign president"** in [EFTA00022133](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022133.pdf) most likely refers to **Ehud Barak**, based on extensive documented contact between Barak and Epstein in the email records. Barak is the only foreign head of state/government with deep, personal, repeated interaction documented in the files.
+1. **The "foreign president"** in [EFTA00022133](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022133.pdf) most likely refers to **Ehud Barak**, based on extensive documented contact between Barak and Epstein in the email and calendar records. DS9 calendar documents provide 15+ scheduling entries spanning 2013-2019, including Epstein flying Barak on his private aircraft, a documented island invitation, and meetings continuing through February 2019 (five months before arrest). Barak is the only foreign head of state/government with deep, personal, repeated interaction documented in the files.
 
-2. **The "French hotel chain" owner** remains unidentified. The word "Accor" appears in redacted text within police investigative files ([EFTA00007157](https://www.justice.gov/epstein/files/DataSet%204/EFTA00007157.pdf), page 15), and the Sofitel (an Accor brand) appears in travel records, but no specific individual from the Accor ownership/management is named in connection with abuse.
+2. **The "French hotel chain" owner** remains unidentified. The word "Accor" appears in redacted text within police investigative files ([EFTA00007157](https://www.justice.gov/epstein/files/DataSet%204/EFTA00007157.pdf), page 15), and Accor hotel booking confirmations appear in Epstein's credit card records. The "Dubrule" surname in DS9/DS11 was definitively identified as Sophie Dubrule of Sotheby's Paris (not Paul Dubrule, Accor co-founder), eliminating the most promising lead. No specific individual from the Accor ownership/management is named in connection with abuse.
 
 3. **The AOL cluster** (Case, Kimsey, Leonsis, Vradenburg) represents a previously underappreciated network of tech executives connected to Epstein's operations. The victim's journal entries about AOL being used "to find us" warrant further investigation into whether AOL's technology or resources were exploited for recruitment purposes.
 
@@ -268,7 +287,7 @@ Key revelations:
 - Subpoena Accor hotel group records for any business relationship with Epstein, Brunel, or Maxwell
 - Investigate "Mr. Robert" with wife "Jill" as the potential entry point for victim into the network via Maxwell
 - Identify "Ms. Vicki" through Florida and California massage/modeling business records
-- Cross-reference "Mr. Caruthers" and "Mr. Islam" against Epstein's contact lists and flight manifests
+- Cross-reference "Mr. Caruthers," "Mr. Islam," and "Mr. Rails" against Epstein's contact lists and flight manifests
 - Investigate the AOL technology angle referenced in the journals
 - Determine if Bob Goodlatte (Virginia congressman) had any documented contact with Epstein or his associates
 

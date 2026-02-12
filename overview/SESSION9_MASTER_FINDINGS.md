@@ -100,7 +100,7 @@
 
 ### 9. Victim Trafficking Infrastructure
 - Weekly cycling pattern: Teterboro-Palm Beach-USVI
-- Pilots retroactively modified flight logs (adding passenger names after the fact)
+- Epstein ordered pilots to stop recording passenger names circa 2010/2011, resulting in incomplete flight records (per [EFTA02731168](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731168.pdf) p.7: Rodgers would NOT go back to add names -- prosecutors cited this to explain incomplete records, not tampering)
 - Victims tracked using **database** for "availability and proximity" ([EFTA00016836](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016836.pdf))
 - Model agency visas used as legal cover for international movement
 - CBP officer facilitated customs bypass at St. Thomas for 7+ years
@@ -129,7 +129,7 @@
 - **MC2 Tel Aviv**: ZERO direct results
 - **Soros-Epstein**: ZERO substantive connection (one LedgerX pitch deck, one Swedish museum)
 - **Bezos-Epstein**: ZERO direct connection (only 2004 Indian Summer dinner via Brockman)
-- **Musk-Epstein**: ZERO results
+- **Musk-Epstein**: DS9 contains 1,038 documents mentioning "Musk" (mostly news articles in email corpus). The categorical "ZERO" from redaction databases was an artifact of limited search scope. Substantive direct Musk-Epstein connection remains unestablished.
 - **Kevin Spacey**: ZERO results
 - **Collins-Rector**: ZERO results
 - **Ms. Vicki**: Only appears in victim journal text, no other database hits
@@ -175,10 +175,10 @@
 2. **Austrian passport follow-up**: Was Marius Fortelni contacted? What was the purpose of the Saudi residence entry?
 3. **Bannon texts content**: Were Bannon-Epstein texts ever obtained via separate warrant?
 4. **ESWW SEC filing verification**: Can the Epstein Financial Trust/Apollo ESWW connection be verified independently?
-5. **CBP officer identity**: Full name still redacted - but badge number CAS03223 is identified
+5. **CBP officer identity**: Identified as "Bill Rouch" -- agriculture/customs specialist at STT. Visoski had his number stored as "Customs STT." Direct email evidence of pilot-officer communication Jan 2016 ([EFTA00572782](https://www.justice.gov/epstein/files/DataSet%209/EFTA00572782.pdf), [EFTA00080458](https://www.justice.gov/epstein/files/DataSet%209/EFTA00080458.pdf)). Badge number CAS03223.
 6. **Taus claims**: Was Richard Taus ever interviewed? What information did he claim about "J. Doe"?
 7. **Victim database** ([EFTA00016836](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016836.pdf)): How victims were tracked for "availability and proximity"
-8. **Flight log retroactive modifications**: Extent of David Rodgers' log alterations
+8. **Flight log incompleteness**: No "alterations" occurred -- Rodgers would NOT go back to add names. The question is the extent of INCOMPLETE records resulting from Epstein's ~2010/2011 order to stop recording passenger names.
 9. **12 TB of raw device data**: What was ultimately found in the full Epstein digital corpus?
 10. **Ms. Vicki**: Female facilitator in FL and CA still completely unidentified
 11. **Mr. Robert and Jill**: First entry point for victim into Maxwell's network
@@ -309,7 +309,7 @@
 - **Boothbay Fund complex**: $38.25M total (Absolute Strategies + Multi Strategy) - includes $10M round-trip
 - **Valar Global Fund** (Peter Thiel): Fund III $22.5M + Fund II $6.3M = **$28.8M total** to Thiel's Valar
 - **The 2017 Caterpillar Trust**: $15M (received Blockchain Capital crypto investment)
-- **Coatue Enterprises LLC**: $2M (Philippe Laffont's tech hedge fund)
+- **Coatue Enterprises LLC**: $2M (Richard Kahn's personal shell company per GVI complaint [EFTA00161836](https://www.justice.gov/epstein/files/DataSet%209/EFTA00161836.pdf) -- not Philippe Laffont's tech hedge fund)
 - **Joichi Ito / Neoteny**: $2M total ($1M Neoteny 3, $1M direct to Ito across multiple payments)
 - **Melanoma Research Alliance Foundation**: $225K
 - These outflows demonstrate Epstein was operating as a **fund-of-funds allocator** distributing to elite investment vehicles
@@ -622,11 +622,11 @@ Complete entity census compiled across all document collections. Key categories:
 - **[EFTA00015219](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015219.pdf)**: FOIA exemption memo explicitly states information about "confidential relationship with a foreign government" was withheld
 - This confirms the existence of classified intelligence-related material about Epstein that was actively suppressed
 
-### 57. Critical Negative Findings on Israel
-- **ZERO results** for Carbyne across all document collections (despite public reporting of Barak's chairmanship)
-- **ZERO results** for Mega Group (despite Wexner's co-founding role)
-- **ZERO results** for Shin Bet, Aman, Unit 8200, or LAKAM
-- **ZERO results** for MC2 + Tel Aviv recruiting (despite MC2's documented ages 13-20 requirement)
+### 57. Israel-Related Search Findings (Updated)
+- **DS9 corpus overturns prior "ZERO" findings from redaction/OCR databases**: Carbyne (50 docs), Reporty (324 docs), Unit 8200 (11 docs), Shin Bet (23 docs), Mega Group (4 docs) all found in full_text_corpus.db. Epstein invested $500K in Carbyne; Barak had $1.5M carry at $50M valuation. The prior "ZERO" results were an artifact of searching only redaction/OCR databases, not the DS9 email corpus.
+- FBI CHS FD-1023 ([EFTA00090314](https://www.justice.gov/epstein/files/DataSet%209/EFTA00090314.pdf)) contains claim that "Epstein belonged to both U.S. and allied intelligence services" and "trained as a spy under" Barak -- unverified CHS claims but present in the FBI case file
+- **MC2 + Tel Aviv recruiting**: ZERO direct results in available databases (MC2's documented ages 13-20 requirement confirmed from actual website)
+- No explicit foreign intelligence service connection established despite infrastructure consistent with such operations
 - "Mossad" appears only in external correspondence, never in FBI investigative documents
 - The systematic absence of Israeli intelligence agency references across 1.8M+ records is itself significant
 
@@ -640,7 +640,7 @@ Complete entity census compiled across all document collections. Key categories:
   - Later transferred to North Charleston, SC
 - **[EFTA00038585](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038585.pdf)**: C-4 CBP investigation with FBI and HSI partners, agents traveled to South Carolina (April 2021)
 - **[EFTA00020852](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020852.pdf)**: SDNY proffer sessions (Oct-Nov 2020) explicitly asking about CBP employees helping Epstein avoid normal customs processing
-- **Officer's name remains redacted** across all document collections despite exhaustive searches
+- **Officer identified as "Bill Rouch"** via DS9 evidence: Visoski email to Epstein Jan 18, 2016 ([EFTA00572782](https://www.justice.gov/epstein/files/DataSet%209/EFTA00572782.pdf)): "I spoke to STT agriculture Officer Rouch"; attorney notes ([EFTA00080458](https://www.justice.gov/epstein/files/DataSet%209/EFTA00080458.pdf)) confirm Visoski had "Bill Rouch" stored as "Customs STT" in his phone
 
 ### 59. Kathryn Ruemmler Full Email Trail
 - **15 OCR documents** with direct Epstein-Ruemmler email communications spanning September 2014 through January 2018
@@ -779,7 +779,7 @@ Complete entity census compiled across all document collections. Key categories:
 - **Atelier Meriguet** ([EFTA02116336](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02116336.pdf)): Prestigious French decorative firm, catalog requested for 22 Avenue Foch (2014)
 
 ### 80. Art Investigation — Financial Structures and Art as Vehicle
-- **Prytanee LLC**: Joint Epstein/Caroline Lang (Jack Lang's daughter) entity for "art investment" ($1.4M). Confirmed on Deutsche Bank balance sheet at RM CODE 82289 with $197,214 ([EFTA01415196](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01415196.pdf)). Lang resigned from Arab World Institute Feb 2026; French criminal investigation opened
+- **Prytanee LLC**: KYC principal is Etienne Pierre Jean Binant (French citizen), not Jack Lang or his daughter -- Caroline Lang was the social introducer, not a principal. $700K estate valuation (50% interest). Confirmed on Deutsche Bank balance sheet at RM CODE 82289 with $197,214 ([EFTA01415196](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01415196.pdf)). French criminal investigation opened
 - **Friends Ventures LLC** (2014): Joint Black/Lauder entity for Schwitters "Ja-Was?-Bild" ($25M), each 50%
 - **Narrows Holdings LLC / AP Narrows / Narrows II LLC**: Art-backed lending structures
 - **Art insurance policy** ([EFTA01896117](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01896117.pdf)-243): Covered bronzes and paintings
@@ -812,7 +812,7 @@ Complete entity census compiled across all document collections. Key categories:
 - **$13.5M Tudor Futures (Aug 2014) — STRONGEST CORRELATION**: 21 emails within 14 days; on exact transfer date (Aug 15), Epstein messaged someone identified as "President" asking "tomorw?" August 2014 = single highest-activity month (23 emails, 4.2x monthly average)
 - **Leon Black "sensitive accounts" ([EFTA02664953](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02664953.pdf), Dec 21, 2016)**: JE instructed Black to "liquidate the J BLACK trust," alarmed about Wechsler telling people about "sensitive accounts" — 10 days before $30.5M Sotheby's/Christie's cluster
 - **"Cascade" payments ([EFTA02570991](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02570991.pdf), Nov 7, 2017)**: JE to David Mitchell: "tomorow you must make money. clear that cascade will au[thorize] the payments." Same day: JE emailed Richard Kahn re trustee replacements, Bain lawsuit, account statements
-- **99-DAY BLACKOUT (Nov 14, 2018 – Feb 21, 2019)**: ZERO Apple Mail PLIST emails during period covering Miami Herald, $100K Marcinkova payment, December emergency wires, $31.5M dissolution event — evidence destruction or channel switch
+- **99-DAY PLIST GAP (Nov 14, 2018 -- Feb 21, 2019)**: ZERO Apple Mail PLIST emails during this period. However, DS9 shows continuous daily jeevacation@gmail.com email activity throughout (Summers, Barak, Ruemmler, Church, Bannon proxy contacts, Mitchell). The PLIST gap is a DS11 extraction artifact reflecting Apple Mail export limitations, not actual communication silence. The underlying activity -- Miami Herald response, $100K Marcinkova payment, December emergency wires, $31.5M dissolution event -- is documented in DS9 email records.
 - **Ariane de Rothschild ([EFTA02502971](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02502971.pdf), Apr 2015)**: "this is my new email address that nobody can access" — deliberate untraceable channel creation, **8 months before $25M Rothschild→Southern Trust transfer**
 - **Richard Kahn** (HBRK Associates): 7 emails — trust operations, Christie's art, Maybach exchange, investment tracking, trustee management = central financial hub
 
@@ -908,7 +908,7 @@ Complete entity census compiled across all document collections. Key categories:
   26. **$30.5M in auction proceeds from Sotheby's/Christie's to Haze Trust in 2017 alone**
   27. **Leon Black $2.7B art collection managed by Epstein — 935 works, $440M BofA credit line, contested Picasso**
   28. **Art consultant John Kendall Rowlands witnessed "presence of young girls" while sourcing art for Epstein**
-  29. **Prytanee LLC confirmed on Deutsche Bank balance sheet — Jack Lang now under French criminal investigation**
+  29. **Prytanee LLC confirmed on Deutsche Bank balance sheet -- KYC principal is Etienne Pierre Jean Binant, not Jack Lang (Caroline Lang was social introducer only). French criminal investigation opened.**
   30. **Ronald Lauder/Leon Black joint art purchases through Epstein entity Friends Ventures LLC ($25M Schwitters)**
   31. **460+ documents with Apple Mail PLIST metadata — 9-year email activity window (2009-2018) from jeevacation@gmail.com and sarahk525@mail.mac.com**
   32. **12 failed redaction overlays exposing PLIST XML beneath — redaction tools didn't handle embedded email metadata**
@@ -917,7 +917,7 @@ Complete entity census compiled across all document collections. Key categories:
   35. **[EFTA01792918](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01792918.pdf): Young Russian/Eastern European woman to Epstein — "I'm not a toy Jeffrey" — explicit sexual transactional dynamics, shoplifting arrest, expiring visa, financial desperation**
   36. **[EFTA02114558](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02114558.pdf): Elite neuroscience dinner — David E. Shaw, Yann LeCun, John Hopfield, Ed Boyden, Sebastian Seung — Epstein approved guest list**
   37. **[EFTA02522767](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02522767.pdf): Lesley Groff calling US State Department searching for Senator George Mitchell**
-  38. **99-day Apple Mail blackout (Nov 14, 2018 – Feb 21, 2019) covering Miami Herald, Marcinkova payment, dissolution event — evidence destroyed or channel switched**
+  38. **99-day Apple Mail PLIST gap (Nov 14, 2018 -- Feb 21, 2019): a DS11 extraction artifact, not actual communication silence. DS9 shows continuous daily jeevacation@gmail.com email activity throughout this period (Summers, Barak, Ruemmler, Church, Bannon proxy contacts, Mitchell).**
   39. **Leon Black "liquidate the J BLACK trust" + alarm about "sensitive accounts" ([EFTA02664953](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02664953.pdf), Dec 21, 2016)**
   40. **Ariane de Rothschild "nobody can access" new email to Epstein (Apr 2015) — 8 months before $25M transfer**
   41. **Unsearched 2005 Palm Beach computer: 16 EnCase DVDs from peak abuse period NEVER examined — FBI lacked legal authority, estate refused waiver**
@@ -931,7 +931,7 @@ Complete entity census compiled across all document collections. Key categories:
   49. **Brad Wechsler = Managing Partner of Elysium (Black's family office); Epstein directed him on tax returns; "sensitive accounts" alarm Dec 2016**
   50. **J BLACK Trust made payments to woman under NDA with Leon Black; $30.5M BV70 loans match $30.5M auction proceeds = circular funding**
   51. **Senator George Mitchell: 4 evidentiary pillars — 2 independent victims, Groff/State Dept call, own admission; FBI doc "multiday trips" CA/DC**
-  52. **99-day blackout = NOT technical — Epstein flew 8+ flights, paid $350K, trafficked victims; ProtonMail/Signal/WhatsApp/PGP refs found**
+  52. **99-day PLIST gap now explained as DS11 extraction artifact -- DS9 email corpus shows continuous daily activity. Epstein flew 8+ flights and paid $350K during this period, all documented in DS9. ProtonMail/Signal/WhatsApp/PGP refs found in broader corpus.**
   53. **Tom Barrack (later convicted UAE foreign agent) simultaneously in Epstein's Dubai orbit discussing Sultan and Junkermann**
   54. **[EFTA00004800](https://www.justice.gov/epstein/files/DataSet%203/EFTA00004800.pdf) "Book 17": FBI evidence binder with 2 confirmed CSAM CDs/DVDs (pages 20, 79). "grapes" files (grapes7/2/6/3 copy.jpg) ALL blacked out on same CD as CSAM. 21 "model_" files ALL blacked out in direct proximity to CSAM. Companion [EFTA00004898](https://www.justice.gov/epstein/files/DataSet%203/EFTA00004898.pdf) has 2 more CSAM pages with counted thumbnails (25+27). ~50+ optical media items NEVER scanned.**
   55. **Ehud Barak apartment at 301 E. 66th St cleaned by Epstein's staff 5 days before Barak publicly distanced himself ([EFTA02278459](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02278459.pdf), Mar 4, 2019: "clean Ehud's apt at 11am"). 25+ documents confirm 9-year relationship (2010-2019) with direct emails, routinized meals, and Barak-Bannon meeting brokered.**

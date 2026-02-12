@@ -67,13 +67,9 @@ These appear in [EFTA02730741](https://www.justice.gov/epstein/files/DataSet%201
 
 **What "Legat" means:** "Legat" is FBI shorthand for Legal Attache -- FBI agents stationed at U.S. embassies abroad. The FBI has Legal Attache offices in approximately 63 countries. A "Lead Forwarded to Legat Mexico City" is a standard investigative step meaning the FBI's New York office identified a lead requiring follow-up in Mexico and forwarded it to the Mexico City office for action.
 
-**What we do NOT know:** The substance of these leads is not disclosed. They could involve:
-- A victim or witness located in Mexico
-- A financial transaction routed through Mexico
-- A person of interest who traveled to or through Mexico
-- An associate or employee with Mexican connections
+**Full corpus update (2026-02-12) -- Substance now revealed:** [EFTA01250170](https://www.justice.gov/epstein/files/DataSet%209/EFTA01250170.pdf) (DS9) discloses the substance of these leads. A tipster named Kenneth Darrell Turner claimed that Richard Marcinko (former U.S. Navy SEAL team commander) was in custody in Mexico City on child sex ring charges. Turner claimed a Mexican law enforcement official known as "Jorge" possessed video of Epstein engaging in sex acts with minors. Turner made increasingly sensational claims over 19+ documents ([EFTA00164990](https://www.justice.gov/epstein/files/DataSet%209/EFTA00164990.pdf)-[EFTA00165128](https://www.justice.gov/epstein/files/DataSet%209/EFTA00165128.pdf)) including alleged involvement of a former U.S. Ambassador to Mexico, but "has remained in contact with the author on an infrequent basis and has yet to provide any evidence of his claims." The FBI forwarded the lead to Legat Mexico City for verification but the file contains no resolution.
 
-**What we CAN say:** These leads were generated in the 2019 investigation (after Epstein's July 2019 arrest), NOT in connection with any 2009 incident. The content is heavily redacted/classified (marked U//FOUO).
+**These leads have no connection to the Jimenez incident.** Turner's claims involve different locations (Mexico City, Juarez, Cancun), different timeframes (2010-2019), different people, and different allegations.
 
 ### B. Flight Records -- Aircraft to Mexico
 
@@ -83,11 +79,15 @@ These appear in [EFTA02730741](https://www.justice.gov/epstein/files/DataSet%201
 
 **N120JE / N722JE (Sikorsky S-76C++ helicopter):** Registration and sale records only. No Mexico flight records found.
 
-### C. Cancun Reference
+### C. Cancun References
 
-One reference to Cancun exists in the Epstein files: an email thread from December 2017 involving **Lesley Groff** (Epstein's executive assistant) and **Natalia (Natasha) Molotkova** (Centurion/American Express travel manager). They discuss booking flights for an unnamed woman who was "coming back from Cancun to Miami" around January 2, 2018, before being rebooked to Paris. (Source: [EFTA02233968](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02233968.pdf)).
+**Full corpus update (2026-02-12):** "Cancun" appears in 331 documents across DS4/DS8/DS9/DS10/DS11, substantially more than the single reference initially identified. Key findings:
 
-This indicates someone in Epstein's circle traveled through Cancun in late 2017/early 2018. The woman's identity is redacted. This has no connection to the 2009 Jimenez incident.
+- **Epstein personal charges:** [EFTA01671962](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01671962.pdf) (DS10) -- American Express statements show Epstein made personal charges at Cancun Airport in December 2014 (airport fees, Starbucks).
+- **Victim wires:** [EFTA00172125](https://www.justice.gov/epstein/files/DataSet%209/EFTA00172125.pdf) (DS9) -- A minor victim (Jane Doe #7) received a Western Union wire of $350 to Cancun on 06/02/2005. FBI 302 interview ([EFTA00269550](https://www.justice.gov/epstein/files/DataSet%209/EFTA00269550.pdf)) confirms the victim "was on her senior high school trip in Cancun, Mexico, and called Epstein because she needed some money."
+- **Travel scheduling:** Groff calendars ([EFTA00285019](https://www.justice.gov/epstein/files/DataSet%209/EFTA00285019.pdf), [EFTA00285325](https://www.justice.gov/epstein/files/DataSet%209/EFTA00285325.pdf), [EFTA00285514](https://www.justice.gov/epstein/files/DataSet%209/EFTA00285514.pdf)) show multiple women booked on Cancun flights in 2014, 2017, 2018, and 2019.
+
+While Epstein and his circle had real connections to Cancun, **none of these references connect to the 2009 Jimenez incident** in Monterrey, which is 900+ km away.
 
 ### D. "New Mexico" vs. "Mexico"
 
@@ -95,21 +95,22 @@ The vast majority of "Mexico" references in the Epstein files actually refer to 
 
 ### E. Carlos Slim
 
-**Zero results** for "Carlos Slim" in any DOJ database -- OCR text, redacted content, or image analysis. There is no connection between Carlos Slim and the Epstein investigation in any released document.
+**Full corpus update (2026-02-12):** "Carlos Slim" appears in 51 documents across DS9/DS10/DS11, but all references are incidental. These include: a flirtatious joke ("Shall I marry you or Carlos Slim?" per [EFTA00667648](https://www.justice.gov/epstein/files/DataSet%209/EFTA00667648.pdf)); Epstein attending the 2013 Milken Institute Global Conference where Slim appeared on a panel; a third-party contact chain via James Tagg about a physicist with "contacts to Carlos Slim" ([EFTA00664250](https://www.justice.gov/epstein/files/DataSet%209/EFTA00664250.pdf)); a connections web listing Slim as a target for philanthropic outreach ([EFTA01104262](https://www.justice.gov/epstein/files/DataSet%209/EFTA01104262.pdf)); and a real estate comparison noting Slim's $75M house was for sale near a property Epstein was eyeing ([EFTA00990676](https://www.justice.gov/epstein/files/DataSet%209/EFTA00990676.pdf)). There is **no evidence of any personal relationship, communication, meeting, or direct connection** between Epstein and Slim. The initial finding of zero results was from a smaller database subset; the conclusion remains unchanged.
 
 ### F. Direct Searches for Jimenez-Related Terms
 
-| Search Term | OCR Database | Redactions v2 | Redactions ds10 |
+| Search Term | Initial DBs (3) | Full Corpus (all 12 DS) | Jimenez-Related? |
 |---|---|---|---|
-| Gabriela / Gabriella | 0 hits | 0 hits | 0 hits |
-| Rico Jimenez | 0 hits | 0 hits | 0 hits |
-| Monterrey | 1 hit* | 0 hits | 0 hits |
-| Nuevo Leon | 0 hits | 0 hits | 0 hits |
-| Cannibalism | 0 hits | 0 hits | 0 hits |
-| Fiesta Inn | 0 hits | 0 hits | 0 hits |
-| Carlos Slim | 0 hits | 0 hits | 0 hits |
+| Gabriela / Gabriella | 0 hits | 99 hits | **None** -- all different individuals |
+| Rico Jimenez | 0 hits | **0 hits** | N/A |
+| Monterrey | 1 hit | 26 hits | **None** -- timezone metadata, furniture brand, one Zeitlin travel email |
+| Nuevo Leon | 0 hits | 1 hit | **No** -- geographic border description |
+| Cannibalism | 0 hits | 7 hits | **No** -- 1 FBI 302 of unrelated mentally unstable interviewee; others academic/biological |
+| Fiesta Inn | 0 hits | **0 hits** | N/A |
+| Carlos Slim | 0 hits | 51 hits | **No** -- all incidental (conferences, jokes, real estate comparisons) |
+| Cancun | 1 hit | 331 hits | **No** -- Epstein connections to Cancun exist but Cancun is 900+ km from Monterrey |
 
-*The single "Monterrey" hit ([EFTA00147306](https://www.justice.gov/epstein/files/DataSet%209/EFTA00147306.pdf)) is from an FBI Daily News Briefing about immigration policy -- migrants being bused from Nuevo Laredo to Monterrey. It has no connection to Epstein.
+*Full corpus search conducted 2026-02-12 across 1,380,937 documents / 2,731,796 pages / all 12 datasets. Updated counts replace the initial 3-database results. None of the expanded hits connect to the Jimenez incident.*
 
 ---
 
@@ -135,12 +136,14 @@ The viral narrative implied that Jimenez had been a witness to or victim of Epst
 
 3. **The FBI did forward investigative leads to its Mexico City Legal Attache office in 2019.** However, this occurred during the post-arrest investigation (July-November 2019) and the substance of these leads is unknown and redacted. This is a standard FBI procedure -- the 2019 investigation generated leads forwarded to FBI offices worldwide (the case index in [EFTA00006107](https://www.justice.gov/epstein/files/DataSet%204/EFTA00006107.pdf) shows leads sent to dozens of field offices and international Legats). The Mexico City leads could relate to any number of investigative threads, including financial records, travel patterns, or witness locations.
 
-4. **There is no mention of Gabriela Rico Jimenez, the Fiesta Inn, Monterrey, Carlos Slim, or cannibalism in any of the tens of thousands of DOJ documents examined.** Not in OCR text, not in redacted/hidden text, not in image analysis.
+4. **There is no mention of Gabriela Rico Jimenez or the Fiesta Inn in any of the 1,380,937 DOJ documents examined across all 12 datasets.** While "Carlos Slim" (51 hits), "Monterrey" (26 hits), and "Cannibalism" (7 hits) appear in the full corpus, none of these references connect to the Jimenez incident. Not in OCR text, not in redacted/hidden text, not in image analysis.
 
-5. **The only documented Mexico connections in Epstein's network are:**
-   - A woman in Epstein's circle traveling through Cancun to Miami in late 2017/early 2018 (commercial flight)
+5. **The documented Mexico connections in Epstein's network are:**
+   - Epstein's personal AmEx charges at Cancun Airport in December 2014
+   - A minor victim wired $350 to Cancun in June 2005 while on a school trip
+   - Multiple women in his circle booked on Cancun flights in 2014, 2017, 2018, and 2019
    - A post-estate-sale flight of the former N212JE to Cabo San Lucas in February 2021 (unrelated to Epstein)
-   - Two FBI investigative leads forwarded to Legat Mexico City in 2019 (substance unknown)
+   - Two FBI investigative leads forwarded to Legat Mexico City in 2019, now revealed as the Turner/Marcinko tip (unverified claims, no connection to Jimenez)
 
 6. **Epstein's documented abuse locations were:** New York City, Palm Beach (Florida), Santa Fe (New Mexico, USA), London (England), Paris (France), and the U.S. Virgin Islands. Mexico does not appear as a location in any charging document, victim statement, or investigative summary.
 
@@ -169,4 +172,4 @@ The resurgence of interest in the Jimenez case following the 2026 Epstein docume
 
 ---
 
-*This report was compiled from a comprehensive search of the DOJ Epstein document databases including OCR text extraction (OCR text extraction database), two document text databases (primary document text database, Dataset 10 document text database), image analysis (image catalog database), and open-source web research.*
+*This report was compiled from a comprehensive search of the DOJ Epstein document databases including OCR text extraction, document text databases, image analysis, and the full_text_corpus.db (1,380,937 documents / 2,731,796 pages / all 12 datasets, revisited 2026-02-12).*

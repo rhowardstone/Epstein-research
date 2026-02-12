@@ -234,11 +234,18 @@ Entity details: 237 Lafayette Street #6E, New York, NY 10012. DOMESTIC LIMITED L
 |--------|---------|----------|
 | Narrows Holdings LLC | Artworks pledged as collateral | $440M BofA loan |
 | AP Narrows | Related art holding entity | |
-| Narrows II LLC | Holds Munch's "The Scream" | $120M |
+| Narrows II LLC | Holds Munch's "The Scream" | $135M (2014 Sotheby's appraisal) |
 | Friends Ventures LLC (2014) | Joint Black/Lauder ownership | Schwitters $25M |
 | Southern Trust (USVI) | Main business; wired $23M for Giacometti | Most revenue from Black fees |
 | Haze Trust | Received auction proceeds | $30.5M from Sotheby's/Christie's (2017) |
 | Prytanee LLC (2016) | Joint Epstein/Caroline Lang | $1.4M; "art investment" |
+| Noel Calb LLC | Art-holding entity (anagram of "Leon Black") | $57.7M appraised; Toulouse-Lautrec, Rothko, Gauguin, 40+ works ([EFTA00591815](https://www.justice.gov/epstein/files/DataSet%209/EFTA00591815.pdf)) |
+| APO-01 Declaration | Art contributed to AP Narrows LP 2/4/2016 | $396M (Christie's 2016); Malevich $50M, Van Gogh $60M, 60+ works ([EFTA00592899](https://www.justice.gov/epstein/files/DataSet%209/EFTA00592899.pdf)) |
+| LDB 2011 LLC | Black art-holding entity | Schiele, Cezanne 90%, De Kooning; $100M+ |
+| BV70 LLC | Epstein-controlled entity (c/o Elysium Mgmt, 445 Park Ave) | Loaned $22.5M to Plan D, donated $10M to Gratitude America ([EFTA00583120](https://www.justice.gov/epstein/files/DataSet%209/EFTA00583120.pdf)) |
+| Pent Holdings, Inc. | Art-holding entity | Turner "Seascape Folkestone" ($80M) |
+| Black Family 1997 Trust | Trust art holdings | Picasso, Malevich |
+| Black 2006 Family Trust | Trust art holdings | Matisse "Nu de Dos" ($50M) |
 
 ### Bank SARs
 Bank of America filed two suspicious activity reports regarding payments from Leon Black to Epstein (first: Feb 2020, second: eight months later). Source: [Congressional documents](https://docs.house.gov/meetings/JU/JU00/20250917/118612/)
@@ -486,11 +493,13 @@ Auctionata was a Berlin-based online auction platform merged with Paddle8 (NY) i
 
 ## 15. Munch — "The Scream"
 
-- **Value:** $120 million (2012)
+- **Value:** $120 million (2012 purchase); **$135 million** (2013/2014 Sotheby's appraisal per [EFTA01084294](https://www.justice.gov/epstein/files/DataSet%209/EFTA01084294.pdf))
 - **Auction:** Sotheby's, purchased anonymously
 - **Holding entity:** **Narrows II LLC** (set up by Epstein)
 - **Owner:** Leon Black
-- **Source:** [Artnet](https://news.artnet.com/market/epstein-files-art-deals-loans-llcs-2741134)
+- **Full corpus designation:** Listed as Munch, Edvard -- "TH Stream" (Identifier 8XV3L) in the 2013/2014 Sotheby's appraisal comparison. This designation likely reflects partial OCR rendering of "The Scream."
+- **Rank in collection:** The single most valuable artwork in the entire Black collection, ranking #1 ahead of Turner "Seascape Folkestone" ($80M) and Cezanne "Le Marin" ($55M).
+- **Source:** [Artnet](https://news.artnet.com/market/epstein-files-art-deals-loans-llcs-2741134), [EFTA01084294](https://www.justice.gov/epstein/files/DataSet%209/EFTA01084294.pdf)
 
 ---
 
@@ -743,6 +752,16 @@ A chain of 4-5 emails about shipping a framed painting from Paris. The valuation
 - 2018: Serrano agreed to photograph Epstein in exchange for the statue
 - October 2016: Serrano emailed Epstein about Trump's "grab them by the pussy" comment
 - **Source:** [Artnet](https://news.artnet.com/art-world/epstein-files-andres-serrano-2713719)
+
+**Full corpus expansion (353 documents):** The full text corpus reveals Serrano was far more deeply embedded in the Epstein-Black network than the original web-source analysis indicated:
+- [EFTA00284996](https://www.justice.gov/epstein/files/DataSet%209/EFTA00284996.pdf): Calendar shows "12:30pm Appt w/Andres Serrano" followed by "1:00pm LUNCH w/Leon Black" -- same-day scheduling
+- [EFTA00285541](https://www.justice.gov/epstein/files/DataSet%209/EFTA00285541.pdf): "Reminder: Portrait by Andres Serrano this Month!" (July 2018)
+- [EFTA00305095](https://www.justice.gov/epstein/files/DataSet%209/EFTA00305095.pdf): "6:00 Appt w/Andres Serrano" (July 2018)
+- [EFTA00307036](https://www.justice.gov/epstein/files/DataSet%209/EFTA00307036.pdf): "6:00 Appt w/Andres Serrano (SNACKS? DINNER?)" (May 2018)
+- [EFTA00371311](https://www.justice.gov/epstein/files/DataSet%209/EFTA00371311.pdf): Lesley Groff email to Serrano: "Hello Andres...you may reach Leon Black through his assistant, Melanie at: Melanie Spinella" -- Epstein directly connecting Serrano to Black
+- [EFTA00365247](https://www.justice.gov/epstein/files/DataSet%209/EFTA00365247.pdf): William Spear letter: "I did arrange for a family to meet with Andres Serrano but he failed to return my calls"
+
+Serrano was a regular portrait-session artist for Epstein and was directly introduced to Leon Black through Epstein's assistant network.
 
 ---
 
@@ -1000,9 +1019,9 @@ Sotheby's employee corresponding about 358 El Brillo Way.
 
 ## 48. Christie's Contacts
 
-- **Joanna Ostrem** — Christie's NY ([EFTA02323043](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02323043.pdf))
-- **Madeline Lazaris** — Christie's NY ([EFTA02323043](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02323043.pdf))
-- **"Hela Fox" / Catherine McIvern** — Christie's, September 2011 French-language correspondence ([EFTA02029291](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02029291.pdf))
+- **Joanna Ostrem** — Christie's Estates, Appraisals & Valuations (EAV) account manager for Epstein ([EFTA02323043](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02323043.pdf)). Full corpus (24 documents) reveals Ostrem was the dedicated Christie's contact: [EFTA00521479](https://www.justice.gov/epstein/files/DataSet%209/EFTA00521479.pdf) (Sale Lot Advice addressed to "Mr Jeffrey Epstein c/o Joanna Ostrem, Christie's, EAV, 20 Rockefeller Plaza"); [EFTA00531360](https://www.justice.gov/epstein/files/DataSet%209/EFTA00531360.pdf) (Epstein assistant sends Ostrem photos of 5 paintings to sell); [EFTA02323137](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02323137.pdf) (Ostrem offers 5% flat commission for Epstein consignment); [EFTA02322995](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02322995.pdf) (Ostrem arranges appraiser visit to 9 E. 71st St)
+- **Madeline Lazaris** — Christie's NY ([EFTA02323043](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02323043.pdf)); [EFTA00562490](https://www.justice.gov/epstein/files/DataSet%209/EFTA00562490.pdf): "For Christie's in NY, I contact Joanna Ostrem or her colleague Madeline Lazaris"
+- **"Hela Fox" / Catherine McIvern** — Christie's, September 2011 French-language correspondence ([EFTA02029291](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02029291.pdf)). Note: Zero results for "Hela Fox" in the full text corpus.
 
 ---
 
@@ -1558,6 +1577,54 @@ JACK LANG CONNECTION:
 14. **Acquavella Gallery:** Web sources suggest possible transactions but no documentary evidence found.
 
 15. **Ocean's Bridge reproduction:** What famous painting was reproduced? [EFTA01779110](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01779110.pdf) has "photos of your painting" but the original is unidentified.
+
+---
+
+---
+
+## FULL CORPUS REVISIT INTEGRATION (2026-02-12)
+
+*The following findings were identified through revisit against the full text corpus (1,380,937 docs, 2,731,796 pages, all 12 datasets) and represent corrections or expansions to the original report.*
+
+### Collection Value Upgrade
+The original report estimated the collection in hundreds of millions based on partial documentation. The full corpus reveals the collection was insured for **$1.6 billion** via a 16-layer fine arts insurance tower ([EFTA00607435](https://www.justice.gov/epstein/files/DataSet%209/EFTA00607435.pdf)), with documented appraised values exceeding $1 billion across all entities. Named insureds include Leon D. Black, Debra R. Black, Pent Holdings, Narrows Holdings LLC, Narrows Holdings II LLC, Black Family 1997 Trust, Black 2006 Family Trust, and LDB 2011 LLC. Annual premiums totaled $724,250.
+
+### Complete Art Inventories Discovered
+At least 5 separate comprehensive inventories are now documented: [EFTA00592228](https://www.justice.gov/epstein/files/DataSet%209/EFTA00592228.pdf) (ALL ART 3/19/17, Christie's 5/11/16 values), [EFTA00592858](https://www.justice.gov/epstein/files/DataSet%209/EFTA00592858.pdf) (ALL ART WITH BASIS 7/15/16), [EFTA00592899](https://www.justice.gov/epstein/files/DataSet%209/EFTA00592899.pdf) (APO-01 at Christie's values: $396M), [EFTA00593106](https://www.justice.gov/epstein/files/DataSet%209/EFTA00593106.pdf) (APO-01 Art to AP Narrows: $183M), and [EFTA01084294](https://www.justice.gov/epstein/files/DataSet%209/EFTA01084294.pdf) (Sotheby's 2013/2014 comparison with Munch at $135M).
+
+### Top 10 Artworks by Value
+Per [EFTA01084294](https://www.justice.gov/epstein/files/DataSet%209/EFTA01084294.pdf):
+1. Munch "Stream" (The Scream) -- $135M (Narrows II)
+2. Turner "Seascape Folkestone" -- $80M (Pent Holdings)
+3. Cezanne "Le Marin" -- $55M (Narrows)
+4. Matisse "Nu de Dos" -- $50M (Black 2008 Family Trust)
+5. Raphael "Head of a Young Apostle" -- $50M (Narrows)
+6. Raphael "Head of a Muse" -- $48M (Narrows)
+7. Kirchner "Berliner Strassenszene" -- $45M (Narrows, 50% interest)
+8. Monet "Nympheas" -- $45M (Narrows)
+9. Beckmann "Selbstbildnis mit Horn" -- $42.5M (Narrows, 50% interest)
+10. Picasso "Portrait de Mateu Fernandez de Soto" -- $37.5M (B Fam 1997 Trust)
+
+### 2016 Purchases ($286.6M)
+[EFTA00792629](https://www.justice.gov/epstein/files/DataSet%209/EFTA00792629.pdf) documents total 2016 art purchases of $286,605,000 with Christie's 2017 appraised value of $242,284,000 (unrealized loss of $44,031,000). Included Picasso "Buste de femme (Marie-Therese)" at $125.2M, Cezanne "Bouteilles, Pots..." at $54M (90% LDB 2011 LLC), and a 20+ work Dutch Masters acquisition from dealer Paul Russell for Narrows (Collateral).
+
+### BV70 LLC (181 documents -- new finding)
+BV70 LLC is an Epstein-controlled entity managed by Elysium Management at 445 Park Avenue. [EFTA00583120](https://www.justice.gov/epstein/files/DataSet%209/EFTA00583120.pdf): Epstein personally guaranteed BV70 obligations. [EFTA00585854](https://www.justice.gov/epstein/files/DataSet%209/EFTA00585854.pdf): $8M promissory note from Plan D LLC to BV70 at 1.11% interest. [EFTA00587879](https://www.justice.gov/epstein/files/DataSet%209/EFTA00587879.pdf): BV70 donated $10M to Gratitude America Ltd. [EFTA00080250](https://www.justice.gov/epstein/files/DataSet%209/EFTA00080250.pdf)/[EFTA00080260](https://www.justice.gov/epstein/files/DataSet%209/EFTA00080260.pdf): Deutsche Bank charts show BV70 -> Gratitude America $10M and BV70 -> Plan D $22.5M.
+
+### Noel Calb LLC (88 documents -- new finding)
+A separate art-holding entity with $57.7M in appraised art. The name "Noel Calb" is an anagram of "Leon Black." [EFTA00591815](https://www.justice.gov/epstein/files/DataSet%209/EFTA00591815.pdf) provides the complete inventory: Toulouse-Lautrec "Au bal de l'opera" ($10M), Rothko "Black, White, Blue" ($4M), Gauguin "Autoportrait" ($1.75M), and 40+ additional works.
+
+### Epstein's Direct Advisory Role -- Additional Evidence
+[EFTA01042767](https://www.justice.gov/epstein/files/DataSet%209/EFTA01042767.pdf): Epstein email from Paris (07/07/2017): "im in paris. use your judgement, it could be a rodin or a brancusi. it should be an outdoor piece, i think that i can use inside 15-20 fot high?" -- personally selecting monumental sculptures for the collection.
+
+### Kirchner Clarification
+166 documents mention Kirchner. Many hits in the EFTA00261xxx series are false positives from unrelated Australian complaint documents mentioning a "Roger Kirchner." Core Kirchner art holdings confirmed: "Berliner Strassenszene" (Narrows, 50% interest, $45M), "Stehender Madchenakt" (AP Narrows), and "Steigendes Pferd mit Reiter" (LDB, purchased 3/31/2016 for $150K).
+
+### Christine Gibbons Correction
+3 documents. [EFTA01785536](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01785536.pdf): Gibbons was a **real estate broker** at Sotheby's International Realty for the "El Brillo" property in Palm Beach, not an art contact. Minimal art relevance.
+
+### Negative Findings
+The following individuals referenced in web sources returned zero results in the full corpus: Hela Fox, Tom Otterness, Jorge Alvarez. John F. Simon returned 1 result (minimal).
 
 ---
 

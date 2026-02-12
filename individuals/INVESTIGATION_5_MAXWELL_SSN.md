@@ -81,6 +81,10 @@ This document is a comprehensive background investigation report containing SSN 
 
 **Identity Contradiction:** Ghislaine Maxwell was born in Maisons-Laffitte, France (Country of Birth: FR) on December 25, 1961. She is a citizen of France, England, and the United States (confirmed in [EFTA00011365](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011365.pdf): "Page 10 (Maxwell is a US Citizen as well as citizen of France and England)"). A Connecticut-prefix SSN issued to a French-born individual with no known Connecticut residency during the era of geographic SSN assignment is anomalous and warrants scrutiny regarding how the number was obtained.
 
+**[REVISIT UPDATE -- SSN Issuance Date Resolved]:** An Experian credit report ([EFTA00152321](https://www.justice.gov/epstein/files/DataSet%209/EFTA00152321.pdf), DS9) pulled on 8/27/2019 definitively establishes that SSN 133-78-4883 was "ISSUED 1990-1993." This narrows the issuance window to Maxwell's first years in the United States (she arrived in New York circa 1991). The Connecticut prefix remains geographically anomalous for a New York-based applicant but is consistent with the issuance era. The same credit report reveals the alias "GHISLAINE BORGERSON," employer history ("J EPSTEIN AND COMPNY"), addresses at 139A Charles St Apt 233, Boston, MA (Borgerson's apartment) and 116A E 65th St, New York, NY (Epstein's townhouse), and a USAA Savings Bank account with a $102,243 balance in dispute.
+
+A Grand Jury subpoena to UBS ([EFTA00235805](https://www.justice.gov/epstein/files/DataSet%209/EFTA00235805.pdf), DS9, dated August 16, 2019) lists Maxwell's full SSN (133-78-4883), all 5 associated entities (including ELLMAX LLC and MAX HOTEL SERVICES CORP), 7 phone numbers, and 5 UBS account numbers. JPMorgan checks ([EFTA00270728](https://www.justice.gov/epstein/files/DataSet%209/EFTA00270728.pdf), DS9, 73 pages) bear SSN 133784883 and confirm Maxwell's accountant was Marks Paneth, LLP.
+
 ### 2.2 SSN Cross-Reference: [EFTA01296720](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01296720.pdf)
 
 The SSN appears a second time in a partially redacted form in **[EFTA01296720](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01296720.pdf), Page 56** (Redaction ID 207739, confidence 0.99):
@@ -120,6 +124,8 @@ This appears to be a database search result listing multiple individuals, sugges
 
 **Analysis:** Maxwell's actual date of birth is **December 25, 1961**. The firearms permit listing of "1963" is either a data entry error within the NYPD system or a deliberate falsification on the application. The two-year age discrepancy (making her appear younger) on a government firearms application is itself a potential violation.
 
+**[REVISIT UPDATE -- DOB Discrepancy Resolved]:** With 4,215+ DS9 documents consistently showing 12/25/1961, the 1963 date on the firearms permit is almost certainly a data entry error in the NYPD system rather than deliberate falsification. The year 1963 appears only on that one document and nowhere else across the entire corpus.
+
 ---
 
 ## 3. MILITARY RECORD: YES -- ANOMALY ANALYSIS
@@ -139,6 +145,8 @@ Ghislaine Maxwell has no publicly documented military service in any nation's ar
 3. **Misinterpretation of Foreign Records:** As a foreign-born individual with citizenship in three countries, records from foreign services might have been misinterpreted.
 4. **Deliberate Fabrication on Application:** Military service can be advantageous on firearms permit applications; this could represent a false statement.
 5. **Classified or Intelligence-Adjacent Service:** Given her father's documented intelligence connections (see Section 9), some form of intelligence-related service record could theoretically exist.
+
+**[REVISIT UPDATE -- Military Record Flag Contextualized]:** The Experian credit report ([EFTA00152321](https://www.justice.gov/epstein/files/DataSet%209/EFTA00152321.pdf)) reveals Maxwell held a USAA Savings Bank account ($102,243 balance). USAA historically restricted membership to active and former military personnel and their families. A USAA Grand Jury subpoena chain ([EFTA00074084](https://www.justice.gov/epstein/files/DataSet%209/EFTA00074084.pdf), [EFTA00074091](https://www.justice.gov/epstein/files/DataSet%209/EFTA00074091.pdf), [EFTA00084186](https://www.justice.gov/epstein/files/DataSet%209/EFTA00084186.pdf)) confirms the FBI subpoenaed USAA for Maxwell's records. Additionally, Maxwell's security consultant Matthew Hellyer ([EFTA00065645](https://www.justice.gov/epstein/files/DataSet%209/EFTA00065645.pdf)) served 25 years in UK military including 15 in UK Special Forces. The combination of (a) a USAA account, (b) UK Special Forces security detail hired by her brother, (c) Robert Maxwell's documented intelligence connections, and (d) Scott Borgerson's Coast Guard background creates a constellation of military-adjacent associations that could explain the flag without requiring Maxwell herself to have served.
 
 ---
 
@@ -189,6 +197,8 @@ Page 10 (Maxwell is a US Citizen as well as citizen of France and England)
 ```
 
 This is from a deposition transcript analysis (the Maxwell Deposition Transcript, filed from Mineola, New York 11501, dated April 9, 2019).
+
+**[REVISIT UPDATE -- Citizenship Investigation and Travel Records]:** An internal SDNY email chain dated January 21-22, 2020 ([EFTA00153527](https://www.justice.gov/epstein/files/DataSet%209/EFTA00153527.pdf)) reveals prosecutors actively investigating how Maxwell obtained US citizenship and requesting her immigration file from ICE/DHS. CBP/TECS records ([EFTA02727130](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02727130.pdf), pages 353-355) show a person record created 3/18/1992 listing Maxwell's citizenship as "UNITED KINGDOM" and status as "ALIEN" with a "PRIVATE AIRCRAFT INSPECTION" category. A "SILENT HIT" alert was placed 8/27/2019 (start date: 08/27/2019, stop date: 08/27/2020). The 1992 TECS record listing her as an alien confirms she was not yet a US citizen in March 1992 -- consistent with SSN issuance 1990-1993 as a legal alien/resident, not yet a citizen. A US passport renewal application (DS-82) dated April 2013 ([EFTA00099206](https://www.justice.gov/epstein/files/DataSet%209/EFTA00099206.pdf)) confirms Maxwell held and renewed a US passport.
 
 ### 5.3 Country of Birth: FR (France)
 
@@ -427,6 +437,8 @@ Kevin Maxwell appears in additional correspondence documents ([EFTA01792888](htt
 
 The firearms permit was executed on **10/8/2019 at 13:14** by operator **NYPDFINESTSYRNE941477**. This date falls after Epstein's death (August 10, 2019) and during the period of active investigation into Maxwell, confirming this was a law enforcement database pull, not a permit application review.
 
+**[REVISIT UPDATE -- Operator Identified]:** "NYPDFINESTSYRNE941477" is DT3 Paul W. Byrne, Tax# 941477, Shield 756, NYPD Squad HT (Human Trafficking), Command 488. "SYRNE" is an OCR corruption of "BYRNE." Byrne was also the arresting officer for Maxwell's March 29, 2021 arrest ([EFTA01261996](https://www.justice.gov/epstein/files/DataSet%209/EFTA01261996.pdf)), confirming he was assigned to the Maxwell case from at least October 2019 through the arrest in 2021.
+
 ### 10.2 NYPD Sex Offender Monitoring
 
 **[EFTA00028415](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028415.pdf)** (Redaction ID 128970, confidence 0.8378):
@@ -530,9 +542,13 @@ The firearms permit shows a DOB that could be read as 12/25/1963, while multiple
 
 The NYSID (New York State Identification) field is blank, meaning Maxwell had no prior New York State criminal fingerprint record at the time of the firearms database query. This is potentially inconsistent with the "Criminal Record: YES" flag, unless the criminal record was from another jurisdiction.
 
+**[REVISIT UPDATE -- NYSID Anomaly Resolved]:** The NYPD arrest report ([EFTA01261996](https://www.justice.gov/epstein/files/DataSet%209/EFTA01261996.pdf), DS9) for Maxwell's March 29, 2021 arrest (Arrest ID M21609870) shows "RECORD STATUS: NYSID ENTERED" -- meaning the NYSID was created only at that time. The same report states "Number of Priors: 0." This confirms the NYSID was blank on the 2006 firearms permit because Maxwell had no New York State criminal fingerprint record until 2021. The "Criminal Record: YES" flag was therefore not based on a New York State record; it was likely from another jurisdiction, a federal record, or a data entry error. Defense counsel assertions in bail filings ("Ms. Maxwell has no criminal record," [EFTA00066317](https://www.justice.gov/epstein/files/DataSet%209/EFTA00066317.pdf)) further support that the flag was erroneous.
+
 ### 13.6 Document Context: Post-Mortem Investigation
 
 The execution date of 10/8/2019 -- nearly two months after Epstein's death on 8/10/2019 -- confirms this firearms permit record was pulled as part of the active federal investigation into Maxwell and associates, not as a routine permit review. The surrounding EFTA cluster (TECS queries, property records, criminal background checks, intelligence analysis) represents a comprehensive investigative workup.
+
+**[REVISIT UPDATE -- FBI Arrest Operation]:** DS9 contains the complete FBI Tactical Operation Plan for Maxwell's arrest ([EFTA00149884](https://www.justice.gov/epstein/files/DataSet%209/EFTA00149884.pdf) and [EFTA00152203](https://www.justice.gov/epstein/files/DataSet%209/EFTA00152203.pdf), case number 50D-NY-3027571). Prepared 6/30/2020, the plan confirms three citizenships, describes Maxwell as a "flight risk," identifies Borgerson as a "person of interest but not an alleged subject," and documents the use of CAST/technical phone tracking methods to locate Maxwell in the Sutton, NH / Lake Sunapee region. An FBI email dated September 17, 2019 ([EFTA00039885](https://www.justice.gov/epstein/files/DataSet%209/EFTA00039885.pdf)) from the Crimes Against Children unit confirms the FBI was tracking a cell phone believed to belong to Maxwell from that date, and that Maxwell was with Borgerson in Manchester-by-the-Sea, MA in August 2019 but fled after media scrutiny.
 
 ---
 
@@ -558,13 +574,13 @@ The execution date of 10/8/2019 -- nearly two months after Epstein's death on 8/
 
 ## 15. RECOMMENDATIONS FOR FURTHER INVESTIGATION
 
-1. **SSN Issuance Records:** Request SSA records for SSN 133-78-4883 to determine the original applicant, date of issuance, and application location.
-2. **NYPD Firearms Division Records:** Obtain the complete original application file from February 21, 2006, including the physical application form, supporting documents submitted, and the adjudicator's notes explaining approval despite criminal record flag.
-3. **Military Records Check:** Submit FOIA requests to all branches of U.S. military, as well as UK MOD, for any service records under the name Ghislaine Maxwell or known aliases.
-4. **Criminal Record Identification:** Determine the nature and jurisdiction of the criminal record flagged in the NYPD system and in [EFTA01653435](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01653435.pdf).
-5. **Connecticut Connection:** Investigate any Maxwell or Epstein property, business, or personal connections to Connecticut during the period when the SSN would have been issued.
-6. **NYSID Reconciliation:** Determine why NYSID is blank when Criminal Record shows YES.
-7. **Date of Birth Investigation:** Determine whether the 1963 DOB on the firearms application was an applicant-provided date (potential fraud) or a data entry error.
+1. **SSN Issuance Records:** ~~Request SSA records for SSN 133-78-4883 to determine the original applicant, date of issuance, and application location.~~ **[RESOLVED by revisit]:** Experian credit report ([EFTA00152321](https://www.justice.gov/epstein/files/DataSet%209/EFTA00152321.pdf)) confirms issuance 1990-1993.
+2. **NYPD Firearms Division Records:** Obtain the complete original application file from February 21, 2006, including the physical application form, supporting documents submitted, and the adjudicator's notes explaining approval despite criminal record flag. **[PARTIALLY RESOLVED by revisit]:** DS11 full firearms permit ([EFTA02727130](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02727130.pdf), page 348) provides complete un-redacted record: Application X2006000433, Permit 2006002458, issued 11/2/2006, Glock 19 (Serial KM8076) sold to gun dealer on 12/12/2006 (40 days after issuance), permit cancelled 11/16/2009 when Maxwell moved to Florida. Firearm transferred via West Side Range. Associate on application: Richard Barnett, 14 Oakland Ave, Port Washington.
+3. **Military Records Check:** Submit FOIA requests to all branches of U.S. military, as well as UK MOD, for any service records under the name Ghislaine Maxwell or known aliases. **[CONTEXTUALIZED by revisit]:** USAA account and UK Special Forces security detail provide plausible non-service explanations.
+4. **Criminal Record Identification:** ~~Determine the nature and jurisdiction of the criminal record flagged in the NYPD system and in [EFTA01653435](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01653435.pdf).~~ **[PARTIALLY RESOLVED by revisit]:** 2021 arrest report confirms 0 priors; defense counsel asserted no criminal record. Flag almost certainly a database error.
+5. **Connecticut Connection:** Investigate any Maxwell or Epstein property, business, or personal connections to Connecticut during the period when the SSN would have been issued. **[NARROWED by revisit]:** Issuance 1990-1993 aligns with Maxwell's arrival; Connecticut application during early travels remains plausible.
+6. **NYSID Reconciliation:** ~~Determine why NYSID is blank when Criminal Record shows YES.~~ **[RESOLVED by revisit]:** NYSID entered only upon 2021 arrest; Maxwell had no prior NY State criminal fingerprint record.
+7. **Date of Birth Investigation:** ~~Determine whether the 1963 DOB on the firearms application was an applicant-provided date (potential fraud) or a data entry error.~~ **[RESOLVED by revisit]:** 4,215+ DS9 documents unanimously show 12/25/1961; 1963 is a data entry error.
 
 ---
 

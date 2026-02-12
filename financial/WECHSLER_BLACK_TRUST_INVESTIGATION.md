@@ -20,7 +20,7 @@ This email is explosive for three independent reasons:
 2. **"Wechsler" -- identified as Brad Wechsler, Managing Partner of Elysium Management (Black's Family Office) -- is revealing the existence of "sensitive accounts" to others**, and Epstein is alarmed about it
 3. **Epstein is directing the preparation of gift tax returns** -- further evidence of his hands-on role in Black's tax affairs
 
-The email also references **"Judy"** who "has passed" -- identified as **Judy Ellen Black**, Leon Black's sister, who died November 15, 2015. The reference is about 13 months after her death, suggesting the J BLACK trust may have been connected to Judy Black's estate, or that her death triggered a trust provision that Epstein now wanted to exploit for liquidation purposes.
+The email also references **"Judy"** who "has passed" -- identified as **Judy Ellen Black**, Leon Black's mother, who died November 15, 2015. The reference is about 13 months after her death. **[CORRECTION -- see Revisit Integration below]:** The full-corpus revisit located the complete J. Black Trust Agreement ([EFTA00292681](https://www.justice.gov/epstein/files/DataSet%209/EFTA00292681.pdf), DS9), dated April 29, 2014 -- 19 months BEFORE Judy Black's death. The trust was created by Leon Black at Epstein's direction, with Darren Indyke drafting it, and was NOT a Judy Black vehicle. Judy's death was the stated occasion for liquidation, but the trust predated her passing.
 
 ---
 
@@ -64,15 +64,33 @@ The reference to **"Joe"** likely refers to a tax professional or accountant wit
 
 ### What Was the "J BLACK Trust"?
 
-The J BLACK trust referenced in Epstein's email appears to be a trust structure named for or connected to the Black family. Evidence points to multiple possible interpretations:
+**[CORRECTED]:** The full-corpus revisit located the complete trust agreement and creation chain in DS9:
 
-#### A. Connection to Judy Black
+#### A. Complete Trust Agreement Found -- [EFTA00292681](https://www.justice.gov/epstein/files/DataSet%209/EFTA00292681.pdf) / [EFTA00292702](https://www.justice.gov/epstein/files/DataSet%209/EFTA00292702.pdf) (DS9)
 
-Judy Ellen Black, Leon Black's sister, died November 15, 2015. Epstein's email says "the reason is that judy has passed" as the basis for liquidating the trust. This suggests:
+- **Dated:** April 29, 2014 -- 19 months BEFORE Judy Black's death (November 2015)
+- **Grantor:** Leon David Black
+- **Trustees:** Leon David Black and Melanie Spinella (Leon's assistant at Apollo)
+- **Initial Funding:** $2,000,000
+- **Type:** Discretionary gift trust -- Trustees have "complete and uncontrolled discretion" to distribute to Leon Black's family members or any person to whom Leon Black previously made gifts
+- **Trust may be referred to as:** "THE J. BLACK TRUST"
+- 20+ pages including trust terms, signature pages, notarization
 
-- The trust may have been established for or by Judy Black
-- Judy's death may have triggered trust provisions (successor trustee, distribution events)
-- The trust may have been named "J. Black Trust" using Judy's initial, or using Leon's middle name (Leon J. Black) -- both could read as "J. Black"
+**Creation Email Chain:** [EFTA00370268](https://www.justice.gov/epstein/files/DataSet%209/EFTA00370268.pdf) (DS9) -- Darren Indyke to Lesley Groff: "Please see JE's email below confirming the request that you send Melanie at Leon's office the attached Trust Agreement." Confirms Epstein directed the trust's creation and Indyke drafted it. [EFTA00370275](https://www.justice.gov/epstein/files/DataSet%209/EFTA00370275.pdf) / [EFTA00370276](https://www.justice.gov/epstein/files/DataSet%209/EFTA00370276.pdf): Groff to Spinella: "At Jeffrey's request, I have attached an execution copy of The J. Black Trust." Spinella: "Will do." The trust was executed through Epstein's staff, not Black's lawyers.
+
+**Operational Details:** [EFTA00370270](https://www.justice.gov/epstein/files/DataSet%209/EFTA00370270.pdf) -- "Turrin removed as a successor Trustee" and "$2,000,000 is transferred to the trust." Thomas Turrin (CPA at Raich Ende Malter & Co. LLP) was originally named as successor trustee but removed.
+
+**Earlier Drafts:** [EFTA00587101](https://www.justice.gov/epstein/files/DataSet%209/EFTA00587101.pdf) / [EFTA00587809](https://www.justice.gov/epstein/files/DataSet%209/EFTA00587809.pdf) / [EFTA00589300](https://www.justice.gov/epstein/files/DataSet%209/EFTA00589300.pdf) / [EFTA00589321](https://www.justice.gov/epstein/files/DataSet%209/EFTA00589321.pdf) -- January-February 2014 drafts showing evolution of trust terms before the April 29, 2014 final execution.
+
+**Post-Arrest Inquiry:** [EFTA01020924](https://www.justice.gov/epstein/files/DataSet%209/EFTA01020924.pdf) / [EFTA01020958](https://www.justice.gov/epstein/files/DataSet%209/EFTA01020958.pdf) (DS9, October 2018) -- Epstein to Thomas Turrin: "did you review the j black trust bank account?" and "was a final return filed for j black? was its own taxpayer. was there money still there in jan? 17." Confirms Epstein was monitoring trust status through early 2017, suggesting potential wind-down.
+
+**Separate Judy Black Provision:** [EFTA00609831](https://www.justice.gov/epstein/files/DataSet%209/EFTA00609831.pdf) / [EFTA00616927](https://www.justice.gov/epstein/files/DataSet%209/EFTA00616927.pdf) (DS9) contain Leon Black's Revocable Trust, which includes "$5 million in a separate trust for Judy's benefit" if she survives him. This is SEPARATE from the J. Black Trust, further confirming the J. Black Trust was not a Judy Black vehicle.
+
+**Assessment:** The J. Black Trust was a discretionary gift trust created by Leon Black at Epstein's direction. It was NOT connected to Judy Black. Epstein's team (Indyke, Groff) created and executed the trust, naming Black's personal assistant Melanie Spinella as co-trustee. This structure gave Epstein effective operational control over a trust that could distribute money to anyone Black had previously made gifts to -- an extraordinarily broad discretionary power.
+
+#### ~~A. Connection to Judy Black~~ [SUPERSEDED]
+
+~~Judy Ellen Black, Leon Black's mother, died November 15, 2015. Epstein's email says "the reason is that judy has passed" as the basis for liquidating the trust.~~ The original speculation of a Judy Black connection is incorrect. The trust was created April 29, 2014 (19 months before her death) and bears Leon's middle initial "J" (Leon J. Black), not Judy's initial. Judy's death was cited as a reason to liquidate, suggesting she may have been a beneficiary or the trust served a purpose that was no longer needed after her passing.
 
 #### B. The "J. Black Trust" as an Active Payment Vehicle
 
@@ -98,12 +116,13 @@ Bank statements show:
 
 These wire transfers confirm the J. Black Trust was an operational entity making regular payments.
 
-#### D. The "E Trust" Connection
+#### D. The "E Trust" Connection -- IDENTIFIED AS "GIGI (E) TRUST"
 
-The "E Trust" that made parallel payments alongside the J. Black Trust is significant. The "E" could stand for:
-- **Epstein** -- suggesting an Epstein-controlled trust was making payments alongside a Black-controlled trust
-- **Estate** -- a generic estate trust
-- This created a **two-source payment structure** where both Black and Epstein entities were funding payments to the same recipient
+**[CORRECTED]:** The full-corpus revisit definitively identified the "E Trust." [EFTA00812184](https://www.justice.gov/epstein/files/DataSet%209/EFTA00812184.pdf) (DS9, p.33) contains an Epstein email to Spinella: "paper gigi (E) trust to avoid gift tax." The "E Trust" is the **"Gigi (E) Trust"** -- a gift tax avoidance vehicle for one of Black's daughters (likely Victoria or Olivia, "Gigi" being a family nickname). This is a Black family instrument, NOT an Epstein entity. [EFTA00812184](https://www.justice.gov/epstein/files/DataSet%209/EFTA00812184.pdf) p.5 confirms both trusts were discussed in a single context as Black family matters: "we should discuss e trust and j black trust. brad buying phaidon. artspace folding?"
+
+~~The "E" could stand for Epstein or Estate~~ -- this speculation is now superseded. Both the J. Black Trust and E Trust were Black family instruments under Epstein's operational direction.
+
+The two-source payment structure where both trusts funded payments to an NDA-protected woman remains significant, but the payments originated from Black family entities, not from a combination of Black and Epstein entities.
 
 ### Prosecutorial Significance of the J BLACK Trust
 
@@ -255,8 +274,8 @@ This structure allowed Epstein to:
 | **Black Family Partners, LP** | Limited Partnership | Black family investment vehicle; c/o Apollo Management | $10M to Southern Trust (12/2013); $5M (4/2014); $13M (10/2014); $3M (10/2014); $5M (10/2015); $10M (12/2015) |
 | **BV70 LLC** | LLC | Reportedly owned Black's yacht; payment conduit to Epstein | $10M to Gratitude America (10/2015); $22.5M to Plan D (3/2017); $8M to Plan D (4/2017) |
 | **Narrow Holdings LLC** | LLC | c/o Elysium Management | $20M to Southern Trust Company (7/2014) |
-| **J. Black Trust** | Trust | Payments to NDA-protected individuals; possibly connected to Judy Black | Regular wire transfers to at least one woman; subject of Dec 2016 liquidation order |
-| **E Trust** | Trust | Parallel payments alongside J. Black Trust | Payments from Nov 2015 through 2021 |
+| **J. Black Trust** | Trust | Discretionary gift trust created Apr 29, 2014 at Epstein's direction; Trustees: Leon Black + Melanie Spinella; $2M initial funding | Regular wire transfers to at least one NDA-protected woman; subject of Dec 2016 liquidation order |
+| **E Trust ("Gigi (E) Trust")** | Trust | Gift tax avoidance vehicle for Black's daughter; Black family instrument under Epstein direction | Payments from Nov 2015 through 2021 |
 | **Black Family Foundation** | Foundation | Philanthropy | Epstein was director 1997-2007; IRS 990s incorrectly listed him through 2012 |
 | **Leon and Debra Black** (personal) | Individual/Joint | Direct payments | $8.5M (10/2013); $5M (4/2014); $15M (4/2014); $7M (10/2014); $2M (10/2014); $5M (10/2015); $10M (12/2015); $8M (4/2017) |
 
@@ -283,14 +302,18 @@ This structure allowed Epstein to:
 
 | Person | Role | Key Evidence |
 |---|---|---|
-| **Brad Wechsler** | Managing Partner, Elysium Management | Revealed "sensitive accounts" to colleagues; received Epstein directives on tax returns |
-| **Ada Clapp** | Chief Legal Officer, Elysium Management | Worked on trust closing timing, Phaidon loan, Dartmouth pledges |
-| **Melanie Spinella** | Executive Assistant to Leon D. Black, Apollo Management | Referenced in Wigdor LLP letter; communicated with NDA woman |
-| **Richard Joslin** | Attorney/Advisor | Advised on Narrows tax structure; communicated with Epstein and Elysium |
+| **Brad Wechsler** | Managing Partner, Elysium Management | Revealed "sensitive accounts" to colleagues; received Epstein directives on tax returns. Epstein privately considered him guilty of "total and utter incompetence" ([EFTA00465675](https://www.justice.gov/epstein/files/DataSet%209/EFTA00465675.pdf), DS9) but Black kept him in role. 25+ DS9 calendar entries show regular meetings with Epstein at Apollo offices and 71st St. Dec 2016 email was a routine reporting function, not a disclosure event. |
+| **Ada Clapp** | Elysium Staff | Worked on trust closing timing, Phaidon loan, Dartmouth pledges. Epstein directed her firing: "ada goes, hire heather a paralegal" ([EFTA00812184](https://www.justice.gov/epstein/files/DataSet%209/EFTA00812184.pdf), DS9) |
+| **Melanie Spinella** | Executive Assistant to Leon D. Black, Apollo Management; Co-Trustee of J. Black Trust | Referenced in Wigdor LLP letter; communicated with NDA woman. Received Apple Watch from Epstein. $1M Melanoma Research Alliance contribution routed through her at Apollo ([EFTA00298998](https://www.justice.gov/epstein/files/DataSet%209/EFTA00298998.pdf)). Primary conduit for Epstein's instructions to Black's office. |
+| **Richard Joslin** | CFO, Elysium Management / Leon Black's Family Office | Personally interviewed by Epstein for CFO position in Aug 2013 ([EFTA00284739](https://www.justice.gov/epstein/files/DataSet%209/EFTA00284739.pdf)). Epstein critique: "rich joslin SHOULD NOT be involved in model building. he is in house TAX. he is not competent" ([EFTA00350879](https://www.justice.gov/epstein/files/DataSet%209/EFTA00350879.pdf)). Epstein wanted him fired or "closely managed by new cfo." |
+| **Thomas Turrin** | CPA at Raich Ende Malter & Co. LLP | Originally named as successor trustee of J. Black Trust, later removed. Reviewed J. Black Trust bank account as late as Oct 2018. Regular conference calls with Epstein. |
+| **John Castrucci** | COO, Elysium Management | Handled Phaidon closing books and operations. Epstein directed his firing: "castrucci goes asap" ([EFTA00812184](https://www.justice.gov/epstein/files/DataSet%209/EFTA00812184.pdf)) |
+| **Alan Halperin** | Partner, Paul Weiss | Attended multiple "Black Family Meetings" with Epstein; calendar entries at 71st St. |
+| **Eileen Alexanderson** | Former Family Office Head | Preceded Wechsler in managing Black's family office; transitioned ~2015-2016 |
 | **Erika A. Kellerhals** | Attorney (Kellerhals Ferguson Kroblin PLLC) | Successor trustee; received $23M wire; Epstein's USVI counsel; notarized his will |
 | **Darren K. Indyke** | Attorney (PLLC) | Co-executor of Epstein's estate; registered aviation entities; signatory on multiple LLCs |
 | **Richard D. Kahn** | Attorney | Co-executor of Epstein's estate |
-| **Brad S. Karp** | Chairman, Paul Weiss | Communicated directly with Epstein about "tolling agreement" matters |
+| **Brad S. Karp** | Chairman, Paul Weiss | Communicated directly with Epstein about "tolling agreement" matters. DS9 reveals dual role: socialized with Epstein (dinners with Woody Allen, lunches with Barak, meetings with Ruemmler) while his firm represented DB Zwirn/Fortress AGAINST Epstein in a $175M dispute ([EFTA00587244](https://www.justice.gov/epstein/files/DataSet%209/EFTA00587244.pdf)). Serious conflict of interest. |
 | **Larry Visoski** | Pilot/Manager | Manager of Plan D LLC; registered Epstein's aircraft |
 
 ---
@@ -307,6 +330,8 @@ The December 21, 2016 email is the most damning single piece of evidence regardi
 4. **Epstein treating Black as a subordinate** -- the email reads as directives from a superior, not suggestions from an advisor
 
 This contradicts the Dechert Report's characterization that Epstein merely "provided advice" and that Black made all decisions independently.
+
+**[EXPANDED -- DS9 EVIDENCE]:** The 97-page email compilation [EFTA00812184](https://www.justice.gov/epstein/files/DataSet%209/EFTA00812184.pdf) (DS9) proves Epstein was not merely an "advisor" but the de facto chief operating officer of Black's family office, with authority to: hire and fire staff ("ada goes, hire heather a paralegal. Joslin goes or is closely managed by new cfo... castrucci goes asap"), manage tax filings ("sign your gift tax return today if possible"), question art dealers ("gagosian. no written contract??!! fishy to me - who transfers 100 million dollars overseas without a contract" regarding Larry Gagosian), and negotiate his own $50-60M compensation. He personally interviewed candidates for Black's CFO position ([EFTA00284739](https://www.justice.gov/epstein/files/DataSet%209/EFTA00284739.pdf), Aug 2013 calendar: "5:15pm Interview Richard Joslin"). [EFTA00465675](https://www.justice.gov/epstein/files/DataSet%209/EFTA00465675.pdf) contains his fee negotiation letter: "$150 million free" in tax savings, "50-60 million the fair price" for his services, and a devastating critique of Wechsler's "total and utter incompetence."
 
 ### B. The "Sensitive Accounts" as Evidence of Concealment
 
@@ -366,9 +391,23 @@ This non-enforcement, combined with Epstein's directive to "mock up this years g
 1. **Was the J. Black Trust liquidated as Epstein ordered?** If so, what happened to its assets?
 2. **Did Brad Wechsler cooperate with investigators?** As the person who knew about "sensitive accounts," his testimony would be critical
 3. **Who is "Joe"?** This person received information about sensitive accounts and may be a key witness
-4. **What was the E Trust?** Was this an Epstein entity making parallel payments to Black's NDA woman?
+4. **~~What was the E Trust?~~** [RESOLVED] The E Trust is the "Gigi (E) Trust," a gift tax avoidance vehicle for Black's daughter -- a Black family instrument, not an Epstein entity.
 5. **What happened to the $20.5M in unreturned "loans"?** Did Epstein use this money to fund criminal operations?
 6. **What are the complete "sensitive accounts"?** How many accounts existed that were hidden from the family office staff?
+
+---
+
+## DB ZWIRN / FORTRESS DISPUTE -- NEW DS9 DISCOVERY
+
+[EFTA00587244](https://www.justice.gov/epstein/files/DataSet%209/EFTA00587244.pdf) (DS9) contains a Susman Godfrey LLP letter (April 22, 2010) to Brad Karp (Paul, Weiss) and Lara Flint (Senior Litigation Analyst, Paul, Weiss) regarding the "Epstein/DB Zwirn Investment Dispute." Epstein demanded $140,000,000 plus $35,000,000 in prejudgment interest from DB Zwirn Special Opportunities Fund / Fortress Value Recovery Fund I LLC. Claims included breach of fiduciary duty, breach of contract, conversion, fraud, and breach of partnership agreement. A Glenn Dubin affidavit was enclosed, providing sworn testimony supporting Epstein's claims. Paul, Weiss represented DB Zwirn/Fortress as defendants.
+
+Tolling agreement documents ([EFTA00584968](https://www.justice.gov/epstein/files/DataSet%209/EFTA00584968.pdf), [EFTA00587247](https://www.justice.gov/epstein/files/DataSet%209/EFTA00587247.pdf)) confirm this was an active legal dispute, not just a threat.
+
+This reveals Karp simultaneously socialized with Epstein while his firm represented parties adverse to Epstein in a $175M dispute -- and the Dubin affidavit is significant given Eva Dubin's implication in trafficking.
+
+## "SENSITIVE ACCOUNTS" EMAIL -- DUAL PRODUCTION CONFIRMED
+
+[EFTA01058973](https://www.justice.gov/epstein/files/DataSet%209/EFTA01058973.pdf) (DS9) is the same "sensitive accounts" email that appeared as [EFTA02664953](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02664953.pdf) in DS11. The critical December 21, 2016 email now exists in TWO separate DOJ productions. Dual production suggests the email was pulled from two different custodians or collection streams.
 
 ---
 
@@ -393,6 +432,15 @@ This non-enforcement, combined with Epstein's directive to "mock up this years g
 | **[EFTA02664954](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02664954.pdf)** | May 2018: Brad Karp (Paul Weiss Chairman) to Epstein re: "tolling agreement" | Senior attorney directly communicating with Epstein |
 | **[EFTA01477330](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01477330.pdf)** | "ELYSIUM MANAGEMENT RELATIONSHIP" -- banking document (9/20/2015) | Bank's Elysium relationship file |
 | **[EFTA01773654](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01773654.pdf)** | "Melanie Spinella, Apollo Management, Executive Assistant to Leon D. Black" | Key assistant referenced in NDA woman's evidence |
+| **[EFTA00292681](https://www.justice.gov/epstein/files/DataSet%209/EFTA00292681.pdf)** | Complete J. Black Trust Agreement (April 29, 2014) | Definitively identifies trust: Leon Black grantor, Spinella co-trustee, $2M funding, discretionary gift trust |
+| **[EFTA00812184](https://www.justice.gov/epstein/files/DataSet%209/EFTA00812184.pdf)** | 97-page Epstein email compilation to Spinella | De facto COO control: hiring/firing, tax filings, art dealer oversight, fee negotiations; "Gigi (E) Trust" identification |
+| **[EFTA00465675](https://www.justice.gov/epstein/files/DataSet%209/EFTA00465675.pdf)** | Fee negotiation letter: "$150 million free" | Epstein's $50-60M fee claim, Wechsler "total and utter incompetence" critique |
+| **[EFTA00587244](https://www.justice.gov/epstein/files/DataSet%209/EFTA00587244.pdf)** | DB Zwirn $175M demand letter (Susman Godfrey to Karp) | Dubin affidavit, Paul Weiss dual role, previously unknown dispute |
+| **[EFTA00370268](https://www.justice.gov/epstein/files/DataSet%209/EFTA00370268.pdf)** | J. Black Trust creation email chain | Indyke drafted, Groff executed, Epstein directed |
+| **[EFTA01020924](https://www.justice.gov/epstein/files/DataSet%209/EFTA01020924.pdf)** | Oct 2018 post-arrest inquiry about J. Black Trust | Epstein monitoring trust status, wind-down questions |
+| **[EFTA01058973](https://www.justice.gov/epstein/files/DataSet%209/EFTA01058973.pdf)** | DS9 copy of "sensitive accounts" email | Dual production confirms DOJ importance |
+| **[EFTA00284739](https://www.justice.gov/epstein/files/DataSet%209/EFTA00284739.pdf)** | Calendar: Epstein interviews Richard Joslin for CFO | Direct evidence of hiring authority over Black's family office |
+| **[EFTA00298998](https://www.justice.gov/epstein/files/DataSet%209/EFTA00298998.pdf)** | $1M MRA contribution through Spinella at Apollo | Charitable giving through Black's corporate infrastructure |
 
 ---
 
@@ -412,3 +460,21 @@ This non-enforcement, combined with Epstein's directive to "mock up this years g
 - [Judy Black Obituary (November 2015)](https://www.legacy.com/us/obituaries/nytimes/name/judy-black-obituary?id=32846209)
 - [Brad Wechsler / Elysium Management (PitchBook)](https://pitchbook.com/profiles/investor/119831-05)
 - [Yahoo Finance: Leon Black Epstein Payments](https://finance.yahoo.com/news/billionaire-leon-black-gave-even-212230095.html)
+
+---
+
+## REVISIT INTEGRATION (2026-02-12)
+
+**Classification: SIGNIFICANT NEW FINDINGS**
+
+Full-corpus revisit against DS9 (531,284 pages) and DS11 (331,655 pages) integrated above. Key corrections:
+
+1. **J. Black Trust Identity (CRITICAL):** Complete trust agreement found ([EFTA00292681](https://www.justice.gov/epstein/files/DataSet%209/EFTA00292681.pdf)) -- created April 29, 2014 (19 months before Judy Black's death). Grantor: Leon Black. Co-Trustees: Leon Black + Melanie Spinella. $2M initial funding. NOT connected to Judy Black.
+2. **E Trust Identity (CRITICAL):** Identified as "Gigi (E) Trust" -- gift tax avoidance vehicle for Black's daughter. NOT an Epstein entity. Black family instrument under Epstein direction.
+3. **Wechsler Role Corrected:** Routine manager, not whistleblower. Epstein called him "total and utter incompetence" but Black retained him for discretion over competence.
+4. **Epstein's Scope of Control Expanded:** 97-page email compilation ([EFTA00812184](https://www.justice.gov/epstein/files/DataSet%209/EFTA00812184.pdf)) proves de facto COO authority: hiring/firing staff, managing tax filings, questioning $100M art deals, negotiating $50-60M personal compensation.
+5. **DB Zwirn $175M Dispute (NEW):** Epstein claimed $175M from DB Zwirn/Fortress with Brad Karp (Paul, Weiss) as opposing counsel and Glenn Dubin affidavit supporting Epstein -- creating serious conflict questions about Karp's dual social/adversarial relationship.
+6. **Sensitive Accounts Dual Production:** Dec 2016 email exists in both DS9 ([EFTA01058973](https://www.justice.gov/epstein/files/DataSet%209/EFTA01058973.pdf)) and DS11 ([EFTA02664953](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02664953.pdf)).
+7. **New Personnel Identified:** Thomas Turrin (CPA/former successor trustee), John Castrucci (COO, fired by Epstein), Alan Halperin (Paul Weiss), Eileen Alexanderson (former family office head), Heather Gray (Elysium staff).
+
+*Revisit queries: 20+ searches across full_text_corpus.db*

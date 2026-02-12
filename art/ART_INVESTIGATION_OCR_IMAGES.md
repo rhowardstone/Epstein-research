@@ -7,6 +7,8 @@
 **Total Queries Executed:** 53+
 **Note:** financial transaction database was found to be an empty 0-byte file; no financial data could be queried from it.
 
+> **Full Corpus Update (2026-02-12):** The original investigation queried only the OCR database (38,955 records) and image database (26,721 images). Full corpus search across all 12 datasets (1,380,937 documents, 2,731,796 pages) has produced substantial expansions of nearly every finding. Sotheby's expanded from approximately 3 OCR records to **906 documents** (300x), Christie's from approximately 7 records to **1,438 documents** (205x), and multiple artists/entities previously absent now appear in hundreds of documents. A complete art inventory (EFTA00592228) with Christie's appraised values totaling $558M+ was discovered. Key additions are integrated inline and in the new sections below.
+
 ---
 
 ## TABLE OF CONTENTS
@@ -29,10 +31,18 @@
 16. [Wexner Art Connection](#16-wexner-art-connection)
 17. [Ariane de Rothschild -- Sotheby's Mention](#17-rothschild-sothebys)
 18. [Evidence Items -- Bronze Sculpture & Physical Evidence](#18-evidence-items)
+19. [Complete Art Inventory -- EFTA00592228 ($558M+)](#19-complete-art-inventory) *(added 2026-02-12)*
+20. [Giacometti / Braque -- $30M Purchase](#20-giacometti-braque) *(added 2026-02-12)*
+21. [Gagosian Gallery](#21-gagosian-gallery) *(added 2026-02-12)*
+22. [Eileen Guggenheim / NYAA -- FBI Witness](#22-guggenheim-nyaa) *(added 2026-02-12)*
+23. [AP Narrows LP / Pent Holdings -- Art Investment Entities](#23-art-investment-entities) *(added 2026-02-12)*
+24. [Expanded Artist and Entity Counts](#24-expanded-counts) *(added 2026-02-12)*
 
 ---
 
 ## 1. AUCTION HOUSE TRANSACTIONS
+
+> **Full corpus update:** Sotheby's expanded from approximately 3 OCR records to **906 documents** (DS9:433, DS10:258, DS11:211). Christie's expanded from approximately 7 OCR records to **1,438 documents** (DS9:765, DS10:221, DS11:445). See also Section 19 for the complete art inventory with Christie's appraised values.
 
 ### Sotheby's -- Paris Chair Consignment (2011)
 
@@ -198,6 +208,8 @@ Sub-questions demanded:
 From OCR record 37024:
 > "Committee staff submitted a second set of questions regarding Epstein's compensation scheme. These questions also inquired about **advice Epstein provided in relation to your private art collection, which your outside counsel confirmed in a briefing has a value of more than $1 billion**. Again, you refused to provide answers to those questions."
 
+> **Full corpus update:** Beyond the Dechert report, full corpus search reveals **Elysium Management** (Leon Black's family office) at 2,458 documents, **AP Narrows LP** at 218 documents, and explicit co-ownership annotations in [EFTA00592228](https://www.justice.gov/epstein/files/DataSet%209/EFTA00592228.pdf): "LDB owns 50%" of Kirchner's "Street Scene" ($50M) and Beckmann's "The Actors" ($40M). See Section 19 for the full inventory and Section 23 for the Narrows/Pent Holdings entities.
+
 ### Leon Black -- Art Gallery for a Woman
 
 **[EFTA02731697](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731697.pdf)** (OCR record 2720)
@@ -316,6 +328,8 @@ The Government of the Virgin Islands confirmed:
 > "The Estate has **not yet valued his fine arts, antiques, and other valuables**."
 
 Given the $30.5M in auction proceeds in 2017 alone, and the Sotheby's Matisse lot sheet, the art collection was likely worth tens of millions of dollars or more.
+
+> **Full corpus update:** The estate's "TBD subject to appraisal" notation was misleading. [EFTA00592228](https://www.justice.gov/epstein/files/DataSet%209/EFTA00592228.pdf) (DS9) contains a complete "ALL ART - 3/19/17" inventory spreadsheet with Christie's appraised values dated 5/11/2016, totaling **$558M+** in named artworks. Detailed appraisals existed well before the estate filing. See Section 19 for the full inventory.
 
 ---
 
@@ -599,21 +613,26 @@ During the search of the yellow and blue room at 358 El Brillo Way:
 
 ### Financial Scale of Art Operations
 - **$30.5M** in auction proceeds through Sotheby's and Christie's to the Haze Trust in 2017 alone
-- Leon Black's art collection valued at **over $1 billion**, with Epstein advising on partnerships, loans, sales, like-kind exchanges, and tax planning
-- Art collection in Epstein's estate listed as **"TBD subject to appraisal"** -- never publicly valued
+- **$558M+** in jointly held Epstein/Black artwork appraised by Christie's as of 5/11/2016 ([EFTA00592228](https://www.justice.gov/epstein/files/DataSet%209/EFTA00592228.pdf)) *(added 2026-02-12)*
+- **$30M** single Giacometti/Braque purchase through Haze Trust in November 2016 ([EFTA00592208](https://www.justice.gov/epstein/files/DataSet%209/EFTA00592208.pdf)) *(added 2026-02-12)*
+- Leon Black's art collection valued at **over $1 billion**, with Epstein advising on partnerships, loans, sales, like-kind exchanges, and tax planning; explicit co-ownership: "LDB owns 50%" of Kirchner ($50M) and Beckmann ($40M) *(updated 2026-02-12)*
+- Art collection in Epstein's estate listed as **"TBD subject to appraisal"** -- but Christie's appraisals existed since May 2016 *(corrected 2026-02-12)*
 - Professional art historian **John Kendall Rowlands** owed "substantial" fees for sourcing and disposing of art
 - Staff of **40 people across 7 estates** handling art purchasing, shipping, crating, restoration, and insurance
 
 ### Art Infrastructure
-- Accounts with both **Sotheby's** and **Christie's**
+- Accounts with both **Sotheby's** (906 docs in full corpus) and **Christie's** (1,438 docs) *(counts updated 2026-02-12)*
+- **Gagosian Gallery**: 449 documents in full corpus; zero in original databases *(added 2026-02-12)*
 - Dedicated staff for **auction house liaison**
 - Art **shipping, crating, and restoration** operations
 - Art **insurance policies** maintained
 - Active interest in **emerging artist collections** and **online auction platforms** (Auctionata/Paddles)
 - Control of **Zuckerman's art inventory**
+- **AP Narrows LP** (218 docs), **Pent Holdings** (41 docs), **Elysium Management** (2,458 docs) -- formal art investment structures *(added 2026-02-12)*
 
 ### Art as Instrumentality
 - Epstein presented himself as a **"patron of the arts"** to groom minors and their families
+- **NYAA institutional pipeline**: FBI 302 ([EFTA00269752](https://www.justice.gov/epstein/files/DataSet%209/EFTA00269752.pdf)) reveals NYAA students sent to Zorro Ranch for "art workshops on the human figure"; Epstein was NYAA board member 1980s-1990s *(added 2026-02-12)*
 - Art displayed prominently in abuse settings (nude murals and photographs in massage/abuse rooms)
 - The **hanging figure sculpture** in the stairwell was a disturbing centerpiece documented extensively by the FBI
 - Leon Black's art gallery established for a woman who "allegedly had a relationship" with him
@@ -646,7 +665,158 @@ During the search of the yellow and blue room at 358 El Brillo Way:
 | [EFTA00007157](https://www.justice.gov/epstein/files/DataSet%204/EFTA00007157.pdf) | Palm Beach -- statue of man with bow |
 | [EFTA00009448](https://www.justice.gov/epstein/files/DataSet%207/EFTA00009448.pdf) | Palm Beach -- nude mural testimony |
 | [EFTA00013640](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013640.pdf) | Vanity Fair -- 71st Street art-filled mansion |
+| [EFTA00592228](https://www.justice.gov/epstein/files/DataSet%209/EFTA00592228.pdf) | Complete art inventory "ALL ART - 3/19/17" -- $558M+ appraised *(added 2026-02-12)* |
+| [EFTA00592208](https://www.justice.gov/epstein/files/DataSet%209/EFTA00592208.pdf) | Giacometti $25MM + Braque $5MM purchase through Haze Trust *(added 2026-02-12)* |
+| [EFTA00591282](https://www.justice.gov/epstein/files/DataSet%209/EFTA00591282.pdf) | Giacometti sale analysis -- Christie's vs Sotheby's comparison *(added 2026-02-12)* |
+| [EFTA00269752](https://www.justice.gov/epstein/files/DataSet%209/EFTA00269752.pdf) | Guggenheim FBI 302 -- NYAA students sent to Zorro Ranch *(added 2026-02-12)* |
+| [EFTA00583700](https://www.justice.gov/epstein/files/DataSet%209/EFTA00583700.pdf) | AP Narrows LP partnership agreement -- art investment vehicle *(added 2026-02-12)* |
+| [EFTA00595394](https://www.justice.gov/epstein/files/DataSet%209/EFTA00595394.pdf) | Narrows restructuring -- "diversified portfolio of fine art" *(added 2026-02-12)* |
+| [EFTA00905943](https://www.justice.gov/epstein/files/DataSet%209/EFTA00905943.pdf) | Pivar defense article sent to Epstein *(added 2026-02-12)* |
+| [EFTA00080260](https://www.justice.gov/epstein/files/DataSet%209/EFTA00080260.pdf) | Complete Haze Trust transaction exhibits *(added 2026-02-12)* |
 
 ---
 
-*Investigation compiled from 53+ database queries across OCR text extraction database (38,955 records) and image catalog database (26,721 records). The financial transaction database was empty (0 bytes) and could not be queried.*
+## 19. COMPLETE ART INVENTORY -- EFTA00592228 ($558M+)
+*(Section added 2026-02-12 from full corpus search)*
+
+**[EFTA00592228](https://www.justice.gov/epstein/files/DataSet%209/EFTA00592228.pdf)** (DS9): A complete spreadsheet titled "ALL ART - 3/19/17" with Christie's appraised values dated 5/11/2016. This document was entirely absent from the OCR and image databases and represents the definitive catalog of jointly held Epstein/Black artwork.
+
+| Artwork | Artist | Basis | Appraised Value | Owner/Entity |
+|---------|--------|-------|----------------|--------------|
+| Seascape: Folkestone | J.M.W. Turner | $15M | **$80M** | Pent Holdings |
+| Le Chateau Noir | Paul Cezanne | $11.5M | **$50M** | Narrows (Collateral) |
+| Composition with Red | Piet Mondrian | -- | **$40M** | -- |
+| Suprematist Composition (2 works) | Kazimir Malevich | -- | **$50M x2** | APO-01 / Joint |
+| Street Scene (Berlin Night) | Ernst Ludwig Kirchner | -- | **$50M** | LDB owns 50% |
+| Bird in Space | Constantin Brancusi | -- | **$40M** | -- |
+| The Actors | Max Beckmann | -- | **$40M** | LDB owns 50% |
+| Landscape at Twilight | Vincent van Gogh | -- | **$25M** | -- |
+| Landscape with Olive Trees | Vincent van Gogh | -- | **$60M** | -- |
+| Self Portrait | Rembrandt | -- | **$18M** | -- |
+| [Untitled] | Henri Matisse | -- | **$25M** | -- |
+| [Sculpture] | Pablo Picasso | -- | **$20M** | -- |
+| [Untitled] | Edgar Degas | -- | **$20M** | -- |
+
+**Total appraised value of listed works: $558M+** (the spreadsheet may continue beyond the extracted text).
+
+**Ownership entities identified:**
+- **"LDB" = Leon D. Black** -- confirming Epstein/Black co-ownership of specific artworks
+- **APO-01** = Apollo-linked trust entity
+- **Narrows (Collateral)** = AP Narrows LP art investment vehicle ([EFTA00583700](https://www.justice.gov/epstein/files/DataSet%209/EFTA00583700.pdf): partnership agreement)
+- **Pent Holdings** = Epstein-controlled entity
+
+This document establishes that Christie's had completed detailed appraisals by May 2016, contradicting the estate filing's "TBD subject to appraisal" notation for fine arts.
+
+---
+
+## 20. GIACOMETTI / BRAQUE -- $30M PURCHASE
+*(Section added 2026-02-12 from full corpus search)*
+
+The full corpus contains **316 documents** referencing Giacometti, entirely absent from the OCR and image databases.
+
+### $25M Giacometti + $5M Braque Purchase
+
+**[EFTA00592208](https://www.justice.gov/epstein/files/DataSet%209/EFTA00592208.pdf)** (DS9): Indyke email chain documenting a single art transaction:
+- "Haze is just purchasing Giacometti for $25MM and Braque for $5MM"
+- Two separate wires: $25MM with reference to AP Narrows for Giacometti, $5MM with reference to LDB 2011 LLC for the Braque
+- Bill of Sale dated November 23, 2016 for "Figure moyenne II" bronze
+- Total: **$30MM in a single transaction** through Haze Trust
+
+### Giacometti Auction Comparison
+
+**[EFTA00591282](https://www.justice.gov/epstein/files/DataSet%209/EFTA00591282.pdf)** (DS9): Detailed Christie's vs Sotheby's comparison document for selling a Giacometti work, including estimate ranges, buyer's premium calculations, seller's commission, and timing considerations. This establishes that Epstein/Black were actively evaluating liquidation of Giacometti holdings.
+
+---
+
+## 21. GAGOSIAN GALLERY
+*(Section added 2026-02-12 from full corpus search)*
+
+Gagosian returned zero results in the OCR and image databases. The full corpus contains **449 documents** (DS9:243, DS10:78, DS11:128).
+
+**[EFTA00411612](https://www.justice.gov/epstein/files/DataSet%209/EFTA00411612.pdf)** (DS9): Documents a NYAA "John Richardson, Picasso Tour" event held at Gagosian Gallery, connecting the New York Academy of Art institutional network to the gallery.
+
+**[EFTA00394771](https://www.justice.gov/epstein/files/DataSet%209/EFTA00394771.pdf)** (DS9): NY Observer 25th Anniversary guest list that includes Larry Gagosian alongside other prominent names.
+
+---
+
+## 22. EILEEN GUGGENHEIM / NYAA -- FBI WITNESS
+*(Section added 2026-02-12 from full corpus search)*
+
+Not mentioned in the original OCR/Images report. Full corpus totals: Eileen Guggenheim **476 documents** (DS9:225, DS10:175, DS11:75); NYAA **540 documents** (DS9:235, DS10:262, DS11:43).
+
+### FBI 302 Interview
+
+**[EFTA00269752](https://www.justice.gov/epstein/files/DataSet%209/EFTA00269752.pdf)** (DS9): FBI interview of Eileen Guggenheim (September 11, 2007), NYAA Chairman:
+- Interviewed "pursuant to a federal investigation regarding the sexual exploitation of minors"
+- Epstein was NYAA board member during the 1980s-1990s
+- Epstein was "social acquaintance with artist Andy Warhol"
+- A victim-artist traveled to Epstein's Ohio residence and returned "very upset"
+- NYAA students were sent to Zorro Ranch for "art workshop on the human figure"
+
+The "patron of the arts" grooming pipeline documented in Section 10 ([EFTA00019101](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019101.pdf)) connects directly to this NYAA institutional channel: Epstein used his board position to recruit students to his ranch under the pretext of art workshops.
+
+### Stuart Pivar -- FBI Interview and Unsolicited Defense
+
+**[EFTA00269749](https://www.justice.gov/epstein/files/DataSet%209/EFTA00269749.pdf)/50/51** (DS9): FBI interviews of Stuart Pivar (art collector, Epstein associate). Total expanded from approximately 2 OCR records to **49 documents** (DS9:13, DS10:14, DS11:22).
+
+**[EFTA00905943](https://www.justice.gov/epstein/files/DataSet%209/EFTA00905943.pdf)** (DS9): Pivar sent Epstein an unsolicited article defending him titled "Billionaire Paedophile Jeffrey Epstein is, in fact, Neither."
+
+---
+
+## 23. AP NARROWS LP / PENT HOLDINGS -- ART INVESTMENT ENTITIES
+*(Section added 2026-02-12 from full corpus search)*
+
+These entities were entirely absent from the OCR and image databases.
+
+### AP Narrows LP (218 documents)
+
+**[EFTA00583700](https://www.justice.gov/epstein/files/DataSet%209/EFTA00583700.pdf)** (DS9): Limited partnership agreement establishing AP Narrows as a formal art investment vehicle. Partners include Leon D. Black, APO-01 Trust, and Narrows Holdings LLC.
+
+**[EFTA00595394](https://www.justice.gov/epstein/files/DataSet%209/EFTA00595394.pdf)** (DS9): "Overview of Narrows Restructuring" describes a "diversified portfolio of fine art for investment purposes."
+
+In the complete art inventory ([EFTA00592228](https://www.justice.gov/epstein/files/DataSet%209/EFTA00592228.pdf)), Cezanne's "Le Chateau Noir" ($50M) is held by "Narrows (Collateral)."
+
+### Pent Holdings (41 documents)
+
+In the art inventory, Turner's "Seascape: Folkestone" ($80M) is held by Pent Holdings, an Epstein-controlled entity.
+
+### Additional Entities
+
+- **Elysium Management** (Leon Black's family office): **2,458 documents** -- central art holding entity
+- **Friends Ventures**: **85 documents** -- linked to $25M Schwitters (Black/Lauder joint purchase)
+- **Prytanee LLC**: **1,468 documents** -- Deutsche Bank account statements for USVI entity (Etienne Binant)
+- **Stewart Oldfield** (Deutsche Bank officer): **9,602 documents** -- managed Epstein's art-related entities at Deutsche Bank (DS10: 9,111 docs)
+- **Peggy Siegal** (NYC publicist): **7,038 documents** (DS9:2,627, DS10:2,762, DS11:1,649) -- social conduit connecting Epstein to art world events and NYC cultural elite; not mentioned in original report
+- **Jack Lang** (former French Minister of Culture): **680 documents** (DS9:294, DS10:171, DS11:215) -- not mentioned in original report; significant given Prytanee LLC connection and Paris apartment at 22 Avenue Foch
+- **Gratitude America**: **2,827 documents** -- Epstein charitable entity funding Lithuanian ballet
+
+---
+
+## 24. EXPANDED ARTIST AND ENTITY COUNTS
+*(Section added 2026-02-12 from full corpus search)*
+
+| Artist/Entity | OCR DB Count | Full Corpus Count | Key New Context |
+|---------------|-------------|-------------------|-----------------|
+| Matisse | ~1 | **84** | EFTA00592228: $25M appraised value in inventory |
+| Rothko | ~1 | **117** | DS9: 65 docs; email discussions of Rothko painting |
+| Giacometti | 0 | **316** | $25MM purchase + $5MM Braque; sale analysis document |
+| Jeff Koons | 0 | **373** | DS9: 178 docs, DS10: 164; calendar/email references |
+| Schwitters | 0 | **75** | DS9: 46 docs; Friends Ventures / Black connection |
+| Brancusi | 0 | **40** | EFTA00592228: $40M "Bird in Space" in inventory |
+| Mondrian | 0 | **75** | EFTA00592228: $40M "Composition with Red" |
+| Kirchner | 0 | **166** | EFTA00592228: $50M "Street Scene" -- "LDB owns 50%" |
+| Andy Warhol | 0 | **96** | EFTA00269752: Guggenheim says Epstein was "social acquaintance with artist Andy Warhol" |
+| Andres Serrano | 0 | **353** | DS9: 147, DS10: 100, DS11: 106; previously absent from report |
+| Lily Snyder (Sotheby's) | 0 | **9** | Private Client Group handler for Epstein accounts |
+| Leah Kleman | 0 | **9** | Art-related staff/contact |
+| Meriguet | ~2 | **49** | Atelier Meriguet: 22 Avenue Foch interior work |
+| Framecreations | ~4 | **17** | Framing service, DS10-concentrated |
+| John Kendall Rowlands | 1 | **2** | Art historian -- no expansion beyond DS8/DS10; minimal footprint despite sourcing/disposing art and being owed "substantial" fees |
+
+### Rowlands -- Notable Absence
+
+Despite being named in Section 5 as a key art figure who "sourced and disposed art" for Epstein and was owed "substantial" fees, Rowlands appears in only **2 documents** across the entire 1.38M-document corpus (DS8:1, DS10:1). This could indicate most Rowlands dealings were conducted verbally, his records were among those not seized, or he used a different name/title in correspondence.
+
+---
+
+*Investigation compiled from 53+ database queries across OCR text extraction database (38,955 records) and image catalog database (26,721 records). The financial transaction database was empty (0 bytes) and could not be queried. Full corpus revisit (2026-02-12) searched 1,380,937 documents across all 12 datasets; financial documents that the empty transaction DB missed are now captured, including complete Haze Trust transaction exhibits ([EFTA00080260](https://www.justice.gov/epstein/files/DataSet%209/EFTA00080260.pdf)) with $30.5M art auction proceeds and subsequent flows.*

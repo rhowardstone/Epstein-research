@@ -6,16 +6,19 @@
 
 ---
 
-## CHAIN 1: PRYTANEE LLC -- JACK LANG / CAROLINE LANG ART INVESTMENT ENTITY
+## CHAIN 1: PRYTANEE LLC -- ETIENNE BINANT ART INVESTMENT ENTITY
 
 ### Entity Profile
 - **Entity:** Prytanee LLC
-- **Created:** 2016
+- **Created:** November 2016 (USVI LLC formation)
 - **Stated Purpose:** "Art investment"
-- **Reported Balance:** $1.4M in accounts
+- **Reported Balance:** $1.4M in accounts (confirmed by estate valuation: 50% interest = $700,000)
 - **Deutsche Bank RM CODE:** 82289 (Epstein's relationship manager code)
-- **Key Principals:** Jack Lang (former French Culture Minister), Caroline Lang (daughter)
-- **Current Status:** Jack Lang under French criminal investigation
+- **Key Principal:** Etienne Pierre Jean Binant (French citizen) -- per Deutsche Bank KYC documentation ([EFTA00167059](https://www.justice.gov/epstein/files/DataSet%209/EFTA00167059.pdf), [EFTA00168930](https://www.justice.gov/epstein/files/DataSet%209/EFTA00168930.pdf))
+- **Introducer:** Caroline Lang served as the social introduction connecting Binant to Epstein ([EFTA00325458](https://www.justice.gov/epstein/files/DataSet%209/EFTA00325458.pdf): "caroline suggested i contact you directly")
+- **Second Member:** Southern Trust Company, Inc. (50% interest)
+
+> **CORRECTION (2026-02-12 Revisit):** The original version of this report identified Jack Lang and Caroline Lang as key principals of Prytanee LLC. DS9 KYC documents ([EFTA00167059](https://www.justice.gov/epstein/files/DataSet%209/EFTA00167059.pdf), [EFTA00168930](https://www.justice.gov/epstein/files/DataSet%209/EFTA00168930.pdf)) identify **Etienne Pierre Jean Binant** (French citizen) as the individual party on the Deutsche Bank KYC profile. Caroline Lang's role was limited to social introduction. Jack Lang's connection is indirect through the French cultural network; he is not the KYC principal. 15+ DS9 calendar/email documents show Binant had regular meetings with Epstein from 2013 to 2018 ([EFTA00285541](https://www.justice.gov/epstein/files/DataSet%209/EFTA00285541.pdf), [EFTA00287420](https://www.justice.gov/epstein/files/DataSet%209/EFTA00287420.pdf), [EFTA00438240](https://www.justice.gov/epstein/files/DataSet%209/EFTA00438240.pdf), [EFTA00438252](https://www.justice.gov/epstein/files/DataSet%209/EFTA00438252.pdf), [EFTA00438256](https://www.justice.gov/epstein/files/DataSet%209/EFTA00438256.pdf)), including a dinner with Binant the evening before a breakfast meeting with Leon Black ([EFTA00285541](https://www.justice.gov/epstein/files/DataSet%209/EFTA00285541.pdf)).
 
 ### Evidence Chain
 
@@ -58,10 +61,10 @@ DESTINATION: Unknown -- the $1.4M total balance and specific art purchases remai
 Prytanee LLC was an art investment vehicle controlled by the Lang family, housed within Epstein's Deutsche Bank relationship under RM CODE 82289 -- the same relationship code covering all of Epstein's core financial entities (Haze Trust, Southern Financial, Southern Trust, Butterfly Trust, Gratitude America). This means:
 1. Epstein's Deutsche Bank relationship manager had oversight of this entity
 2. It was subject to the same compliance framework (or lack thereof) as Epstein's other entities
-3. The $197,214 balance on the 08/17/18 snapshot is a fraction of the reported $1.4M -- suggesting either prior withdrawals or additional accounts
-4. Jack Lang, as former French Culture Minister, had extensive art world connections -- making this entity ideal for art-market money laundering
+3. The $197,214 balance on the 08/17/18 snapshot is a fraction of the confirmed $1.4M total valuation ($700K for 50% interest per estate probate [EFTA00076491](https://www.justice.gov/epstein/files/DataSet%209/EFTA00076491.pdf) p.97) -- suggesting prior withdrawals or additional accounts
+4. Etienne Binant, as a French citizen integrated into Epstein's Franco-cultural network, had the social connections for art-market activity. The introducer Caroline Lang (daughter of former French Culture Minister Jack Lang) facilitated the initial connection
 5. The 20+ redaction hits across Deutsche Bank DS10 production indicate this entity was heavily discussed in internal bank communications
-6. Jack Lang is now under French criminal investigation, corroborating the suspicious nature of this entity
+6. Binant's sustained relationship with Epstein (15+ documented meetings 2013-2018) indicates ongoing business beyond a single entity formation
 
 ### EVIDENCE GAPS
 - No wire transfer records showing source of the $1.4M capitalization
@@ -194,11 +197,15 @@ DESTINATION: Southern Financial LLC --> Boothbay Fund / Joichi Ito / other hedge
 3. The funds entered Southern Financial, which was the same entity making payments to Joichi Ito (MIT Media Lab director, who later resigned over Epstein ties) and Boothbay funds
 4. No art-specific connection documented, but the Tudor money commingled with funds used for various undisclosed purposes
 
-### EVIDENCE GAPS
-- No documentation of the original investment from Southern Financial to Tudor Futures Fund
-- Nature of the advisory/investment arrangement unknown
-- No art-specific connection found in recovered documents
-- No separate Tudor references found in DS10 redaction database or OCR text records beyond the exhibit entry
+**DS9 CONFIRMATION (Revisit, 2026-02-12):**
+
+- [EFTA00607612](https://www.justice.gov/epstein/files/DataSet%209/EFTA00607612.pdf): Complete J. Epstein Valuations (January 2014). Tudor Futures valued at **$13,819,703**, listed alongside "AP TECHNOLOGY (LEON BLACK)" and other positions. Confirms the Tudor position was an active investment, not a fee.
+- [EFTA00306071](https://www.justice.gov/epstein/files/DataSet%209/EFTA00306071.pdf): "Tudor Futures Fund Private Placement and Memorandum" dated May 2002, sent to Susman's Office. Confirms the investment relationship dated back to at least 2002, suggesting Wexner-era capital.
+- [EFTA00600074](https://www.justice.gov/epstein/files/DataSet%209/EFTA00600074.pdf), [EFTA00603012](https://www.justice.gov/epstein/files/DataSet%209/EFTA00603012.pdf), [EFTA00610665](https://www.justice.gov/epstein/files/DataSet%209/EFTA00610665.pdf): Earlier valuations (2011-2012) showing Tudor Futures tracked consistently across monthly/quarterly statements, with position size fluctuating between $12-14M.
+
+### EVIDENCE GAPS (Updated)
+- Nature of the original Epstein-Tudor investment arrangement remains unclear
+- No art-specific connection found
 
 ---
 
@@ -310,16 +317,19 @@ DESTINATION:
 
 ---
 
-## CHAIN 5: DAVID J MITCHELL -- $526,500 IN RECURRING PAYMENTS (2018-2019)
+## CHAIN 5: DAVID J MITCHELL -- $526,500+ IN RECURRING PAYMENTS (2018-2019)
 
 ### Entity Profile
 - **Recipient:** David J. Mitchell
 - **Company:** Mitchell Holdings LLC (801 Madison Avenue / 745 Fifth Avenue / 815 Fifth Avenue, NYC)
-- **Total Payments:** $526,500 (14 transactions per edge list; 16 documented in exhibits)
+- **Total Payments:** $526,500+ (14 transactions per edge list; 16 documented in exhibits)
 - **Post-KYC Flag:** 13 of 14 transactions occurred post-KYC review
 - **Nov/Dec 2018 Flag:** 2 transactions in critical period
 - **Connection to Mandelson:** Peter Mandelson (Lord Mandelson), former UK Business Secretary
 - **Email:** djm@mitchellholdings.com
+- **Spouse:** Jamie Mitchell (confirmed, see DS9 correction below)
+
+> **CORRECTION (2026-02-12 Revisit):** The original version of this report characterized David Mitchell as a "financial proxy." DS9 documents establish he was a **formal Trustee** of the Jeffrey E. Epstein 2013 Trust alongside Darren Indyke and Jes Staley ([EFTA00082247](https://www.justice.gov/epstein/files/DataSet%209/EFTA00082247.pdf)), making him one of only three fiduciaries with legal authority over Epstein's assets. He also served as **co-surety for Epstein's bail bond** ([EFTA00066191](https://www.justice.gov/epstein/files/DataSet%209/EFTA00066191.pdf), [EFTA00076815](https://www.justice.gov/epstein/files/DataSet%209/EFTA00076815.pdf)), pledging investment interests in properties as security. Mitchell owned/controlled the **Life Hotel** (19 West 31st Street, NYC) and provided complimentary rooms for Epstein's guests ([EFTA00464261](https://www.justice.gov/epstein/files/DataSet%209/EFTA00464261.pdf), [EFTA00464429](https://www.justice.gov/epstein/files/DataSet%209/EFTA00464429.pdf): room confirmed at $0.00). Epstein used the Life Hotel as an alternative to 301 E 66th Street for housing guests ([EFTA00479189](https://www.justice.gov/epstein/files/DataSet%209/EFTA00479189.pdf): "Let's put [person] and friend at life hotel instead of 301"). Jamie Mitchell is confirmed as David's **spouse** through a joint property application ([EFTA00286410](https://www.justice.gov/epstein/files/DataSet%209/EFTA00286410.pdf)).
 
 ### Evidence Chain
 
@@ -393,16 +403,16 @@ DESTINATION: David J Mitchell / Mitchell Holdings LLC -- primarily for real esta
 2. **13 of 14 transactions post-KYC**: Mitchell payments accelerated after Deutsche Bank's enhanced compliance review -- suggesting urgency to move money
 3. **2 transactions in Nov/Dec 2018**: The critical period when Deutsche Bank was exiting the Epstein relationship
 4. **"Cascade" payment structure**: Epstein's email about "cascade" authorizing payments suggests a layered disbursement mechanism
-5. **Proof of funds letter**: Epstein providing proof-of-funds for Mitchell's real estate transactions demonstrates Mitchell was a financial proxy
-6. **Mandelson connection**: Mitchell managed Epstein's relationship with a former UK government minister, creating a political influence nexus
+5. **Formal Trustee status**: Mitchell was one of only three Trustees of the Jeffrey E. Epstein 2013 Trust -- not merely a "financial proxy" but a fiduciary with legal authority over Epstein's assets. The $526K+ in payments now appears as trustee compensation rather than proxy fees.
+6. **Bail co-surety**: Mitchell pledged personal investment interests as security for Epstein's bail, demonstrating deep financial entanglement.
+7. **Life Hotel as alternative to 301**: Epstein actively used Mitchell's Life Hotel as overflow housing when 301 E 66th (the known trafficking address) was unavailable.
+8. **Mandelson connection**: Mitchell managed Epstein's relationship with a former UK government minister, creating a political influence nexus
 7. **YIVO Institute introduction**: Mitchell facilitating Epstein's connection to a Jewish cultural archive director in January 2019 (6 months before arrest)
 8. **Lindemann juxtaposition**: Mitchell appearing on a list with Adam Lindemann (art world figure) suggests overlapping social/financial circles
 
-### EVIDENCE GAPS
+### EVIDENCE GAPS (Updated)
 - No explicit art purchase documentation tied to Mitchell payments
 - The "Cascade" entity not identified in any other records
-- Nature of Mitchell's services to Epstein not fully documented
-- Jamie Mitchell's relationship to David J Mitchell unclear
 - Whether the Life Hotel project involved art purchases or installations
 - The $54,000 payment on 4/2/2019 has no documented purpose
 
@@ -466,9 +476,16 @@ DESTINATION: Insurance premiums paid from Epstein accounts to unknown insurance 
 4. **Compliance flags**: The "[C]" classification and "reject" references indicate Deutsche Bank's compliance team had concerns about the Insurance Trust
 5. **Bronze sculpture evidence**: FBI catalogued bronze sculptures from Epstein properties, confirming the insured assets existed
 
-### EVIDENCE GAPS
-- Insurance carrier identity unknown
-- Premium amounts not documented in recovered text
+**DS9 FINDINGS -- CARRIER IDENTIFIED (Revisit, 2026-02-12):**
+
+- [EFTA00370456](https://www.justice.gov/epstein/files/DataSet%209/EFTA00370456.pdf): Email reference: "Rich J and I have a call... with the AIG guys re the art insurance." **AIG (American International Group)** identified as art insurance carrier. "Rich J" likely Richard Joslin (Elysium CFO).
+- The separate SHELL_ENTITY_MAP revisit found [EFTA00607435](https://www.justice.gov/epstein/files/DataSet%209/EFTA00607435.pdf) (pp.3-8) documenting the complete **Leon Black art insurance tower**: XL Specialty (Primary: $100M), Chubb (1st Excess: $100M), AXA Art (2nd Excess: $100M), Travelers (3rd Excess: $100M), Chartis/AIG (4th Excess: $100M), Fireman's Fund (5th Excess: $100M), AXA Art (6th Excess: $100M+). Total coverage: **$700M+** for the Black/Debra art collection. This was found in Epstein's files.
+- [EFTA00604545](https://www.justice.gov/epstein/files/DataSet%209/EFTA00604545.pdf): "LEON BLACK AND DEBRA BLACK ETAL" Travelers Property Casualty Company policy, Term: May 8, 2013 to May 8, 2014, Premium: $50,000.
+
+Epstein's personal art insurance carrier may have been a subset of this same tower. AIG is confirmed as at least one layer of the coverage.
+
+### EVIDENCE GAPS (Updated)
+- Premium amounts for Epstein's personal policies not documented in recovered text
 - Full inventory of insured art assets not recovered
 - Whether the Insurance Trust was funded by Epstein personally or through entity accounts
 - Relationship between Insurance Trust and the art purchased/held by other Epstein entities
@@ -581,7 +598,7 @@ STEP 1: Jeffrey Epstein VI Foundation -- NYAA connections
 - [EFTA02149790](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02149790.pdf): "NYAA gift" reference
 - [EFTA02150802](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02150802.pdf): "ks to NYAA gift article" -- reference to article about Epstein's gifts to NYAA
 
-STEP 2: Enhanced Education Foundation
+STEP 2: Enhanced Education Foundation = J. Epstein VI Foundation (CONFIRMED)
 - [EFTA00021411](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021411.pdf): FBI case file includes citizen tip:
   - "Last--Ohio state donation and report showing a foundation called Enhanced EducAtion"
   - "see who is largest donation is to in the 2009 report"
@@ -595,15 +612,19 @@ STEP 2: Enhanced Education Foundation
     - Jeanne Brennan
   - The "[C]" classification indicates compliance-flagged discussion
 
+> **DS9 CONFIRMATION (Revisit, 2026-02-12):** [EFTA00169300](https://www.justice.gov/epstein/files/DataSet%209/EFTA00169300.pdf) (p.12) definitively identifies: "J. EPSTEIN VIRGIN ISLANDS FOUNDATION, INC (a/k/a ENHANCED EDUCATION)." These are confirmed as the **same entity** operating under two names. Enhanced Education was the public-facing name; J. Epstein VI Foundation was the legal name. [EFTA00101280](https://www.justice.gov/epstein/files/DataSet%209/EFTA00101280.pdf): Deutsche Bank account opening for Enhanced Education shows a **$4,600,000 Brokerage account** managed by Ted Serure.
+
 STEP 3: Met Gala / Hasty Pudding -- cultural event connections
 - [EFTA02112605](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02112605.pdf), [EFTA02114502](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02114502.pdf): "Jeffrey Epstein/Hasty Pudding Event in NY" with Karyna Shuliak
 - [EFTA02236055](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02236055.pdf): "2 Tickets for Hasty Pudding event from Farkas" (Jan 29, 2018)
   - Epstein acquiring tickets to Harvard's Hasty Pudding theatrical event through "Farkas"
 - Enhanced Education Foundation reportedly contributed $5K to Met Gala (per briefing)
 
-STEP 4: C.O.U.Q. Foundation (Clinton connection)
+STEP 4: C.O.U.Q. Foundation (Clinton connection + NYAA confirmed)
 - [EFTA00026723](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026723.pdf): "through his C.O.U.Q. nonprofit in 2006 reportedly sent $25,000 to the [Clinton] foundation"
 - C.O.U.Q. was an Epstein charitable entity that preceded Gratitude America
+
+> **DS9 CONFIRMATION (Revisit, 2026-02-12):** [EFTA00224262](https://www.justice.gov/epstein/files/DataSet%209/EFTA00224262.pdf): C.O.U.Q. Foundation Form 990 documents a **$7,250 donation to NYAA** dated March 2, 2004. This confirms the NYAA/Epstein financial connection predates the 2008 conviction by years. Additionally, [EFTA00357411](https://www.justice.gov/epstein/files/DataSet%209/EFTA00357411.pdf) through EFTA00357547: Complete email chain showing payment processing confusion between the Bruce & Marsha Moskowitz Foundation and BREF, with Stephen Hanson involved in processing $25K donation payments. Multiple exchanges were needed to sort out the correct recipient and payment routing, confirming operational confusion around Gratitude America's charitable disbursements.
 
 STEP 5: Cultural institution network
 - NYAA (New York Academy of Art): Multiple web references in Epstein's emails; known institutional connection
@@ -790,12 +811,13 @@ Prytanee sits alongside all core Epstein entities on this single relationship ma
 | Tazia Smith | 2 | Deutsche Bank |
 | Delores Rubin | 2 | Epstein staff |
 | Karyna Shuliak | 4 | Butterfly Trust beneficiary, Epstein companion |
-| David Mitchell | 5, 8 | Mitchell Holdings, financial proxy |
+| David Mitchell | 5, 8 | Mitchell Holdings, formal Trustee of 2013 Trust, bail co-surety, Life Hotel owner |
 | Peter Mandelson | 5 | Lord Mandelson, political connection |
 | Ariane de Rothschild | 2 | Benjamin Edmond de Rothschild's wife |
-| Jack Lang | 1 | Former French Culture Minister |
-| Caroline Lang | 1 | Jack Lang's daughter |
+| Etienne Binant | 1 | French citizen, KYC-documented principal of Prytanee LLC |
+| Caroline Lang | 1 | Social introducer (Jack Lang's daughter), NOT operational principal |
 | Jeanne Brennan | 8 | Enhanced Education correspondence |
+| Jamie Mitchell | 5 | David Mitchell's spouse, confirmed by joint property application |
 
 ---
 

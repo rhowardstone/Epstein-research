@@ -6,7 +6,7 @@
 
 ## EXECUTIVE SUMMARY
 
-The Epstein forensic database reveals a systematic pattern of prosecution failures spanning nearly two decades (2006-2024). Despite overwhelming evidence of a multi-state, international sex trafficking operation involving dozens of identifiable co-conspirators and abusers, only two individuals -- Jeffrey Epstein (2008 state plea; 2019 federal indictment, died pre-trial) and Ghislaine Maxwell (convicted 2021) -- were ever criminally charged. Every other named individual escaped criminal prosecution through a combination of: (1) the unprecedented 2007 Non-Prosecution Agreement that granted blanket immunity to unnamed co-conspirators; (2) deliberate prosecutorial decisions to narrow investigations; (3) political and institutional barriers; (4) witness non-cooperation by powerful subjects; and (5) jurisdictional complications. The result is one of the most comprehensive prosecution failures in modern American criminal justice.
+The Epstein forensic database reveals a systematic pattern of prosecution failures spanning nearly two decades (2006-2024). Despite overwhelming evidence of a multi-state, international sex trafficking operation involving dozens of identifiable co-conspirators and abusers, only two individuals -- Jeffrey Epstein (2008 state plea; 2019 federal indictment, died pre-trial) and Ghislaine Maxwell (convicted 2021, sentenced to 20 years; Supreme Court certiorari petition filed 4/10/2025, DOJ opposed 7/22/2025; DOJ interviewed Maxwell 7/24-25/2025) -- were ever criminally charged. Every other named individual escaped criminal prosecution through a combination of: (1) the unprecedented 2007 Non-Prosecution Agreement that granted blanket immunity to unnamed co-conspirators; (2) deliberate prosecutorial decisions to narrow investigations; (3) political and institutional barriers; (4) witness non-cooperation by powerful subjects; and (5) jurisdictional complications. The result is one of the most comprehensive prosecution failures in modern American criminal justice.
 
 ---
 
@@ -54,7 +54,11 @@ The defense team appealed directly to the Deputy Attorney General's office, crea
 
 - **[EFTA00013989](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013989.pdf):** Kirkland noted that CEOS (Child Exploitation and Obscenity Section) reviewed the matter only for "abuse of discretion" -- not de novo -- making "the outcome a foregone conclusion."
 
-### 1.4 CVRA Violations -- Concealment from Victims
+### 1.4 OPR Finding: "Poor Judgment" but Not "Professional Misconduct"
+
+The complete DOJ Office of Professional Responsibility Executive Summary (November 2020), available in full at [EFTA00095558](https://www.justice.gov/epstein/files/DataSet%209/EFTA00095558.pdf) (DS9, 13 pages), concluded that Acosta exercised "poor judgment" but did not commit "professional misconduct." OPR conducted more than 60 interviews and reviewed hundreds of thousands of records. Notably, OPR explicitly found no evidence that Acosta's decision "was based on corruption or other impermissible considerations, such as Epstein's wealth, status, or associations," while finding that "the victims were not treated with the forthrightness and sensitivity expected by the Department." This finding provides context for the prosecution failures documented throughout this report -- the official determination characterized the NPA as poor judgment within prosecutorial discretion, even as its consequences enabled the architecture of impunity described below.
+
+### 1.5 CVRA Violations -- Concealment from Victims
 
 The NPA was deliberately concealed from victims in violation of the Crime Victims' Rights Act:
 
@@ -66,7 +70,9 @@ The NPA was deliberately concealed from victims in violation of the Crime Victim
 
 - **[EFTA00010507](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010507.pdf) (Page 28):** Judge Marra found: "the Government... chose to conceal the existence of the NPA from the victims" and that "the Government spent untold hours negotiating the terms and implications of the NPA with Epstein's attorneys, scant information was shared with victims."
 
-### 1.5 The State Plea Transcript Revelation
+- **[EFTA00073493](https://www.justice.gov/epstein/files/DataSet%209/EFTA00073493.pdf) / [EFTA00074599](https://www.justice.gov/epstein/files/DataSet%209/EFTA00074599.pdf) (11th Circuit, *In re Wild*, 955 F.3d 1196 (2020) and 994 F.3d 1244 (2021)):** The full appellate decisions confirmed Judge Marra's findings and explicitly stated that "it was highly unusual -- never seen before -- that the government would extend federal immunity to Epstein's co-conspirators." The court documented the nine-month concealment period during which "the Office misrepresented to the victims that 'this case' was still under investigation, advised them 'to be patient,' and never disclosed the government's NPA with Epstein." The court further found that "the coconspirators had not cooperated or assisted the government. Rather, the sole consideration for their federal immunity was that Epstein plead to two state charges."
+
+### 1.6 The State Plea Transcript Revelation
 
 - **[EFTA00027590](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027590.pdf)/[EFTA00027591](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027591.pdf) (State plea transcript, Pages 38-39):** Epstein's counsel stated on the record: "there is a nonprosecution agreement with the United States Attorney's office that triggers as a result of this plea agreement." SDNY prosecutors later flagged this: "Check out pages 38-39 of his state plea" -- showing the NPA was explicitly tied to the minimal state disposition.
 
@@ -172,6 +178,8 @@ The NPA was deliberately concealed from victims in violation of the Crime Victim
 
 - **[EFTA00010380](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010380.pdf) (July 31, 2020):** Daily Mail asked SDNY about "the claim in newly unsealed court documents that Prince Andrew and Alan Dershowitz put pressure on the DOJ to give Epstein a favorable plea deal in 2007."
 
+- **[EFTA00092643](https://www.justice.gov/epstein/files/DataSet%209/EFTA00092643.pdf) / [EFTA00105307](https://www.justice.gov/epstein/files/DataSet%209/EFTA00105307.pdf) (DS9, wire transfer records):** A $20,532 payment on 3/5/2015 from the Butterfly Trust to "Coffey Burlington (Alan Dershowitz)" via Coconut Grove Bank establishes a direct financial link between Epstein and Dershowitz that extends well beyond the NPA negotiation period.
+
 **Prosecution decision:** Dershowitz was never investigated, never interviewed as a subject, and never charged. He simultaneously served as Epstein's defense attorney while being named as an abuser -- and negotiated an immunity agreement that protected himself.
 
 ### 2.6 GLENN AND EVA DUBIN -- "Lent Out"
@@ -188,7 +196,9 @@ The NPA was deliberately concealed from victims in violation of the Crime Victim
 
 - **[EFTA00022133](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022133.pdf) (Accusation summary):** "Epstein directed her to have sex with Glen Dubin."
 
-**Prosecution decision:** Despite victim testimony using the term "lent out" -- directly implicating the Dubins in the sex trafficking conspiracy -- no investigation or charges were pursued against either Glenn or Eva Dubin.
+- **[EFTA01249021](https://www.justice.gov/epstein/files/DataSet%209/EFTA01249021.pdf) (DS9, FBI 302 interview, 8 pages, dated 9/9/2019):** The primary source FBI interview provides detailed testimony that the victim was "lent out" to Eva Andersson and Glen Dubin at "the Breakers." Maxwell told the victim "she had to do to DUBIN what she did for EPSTEIN." The victim "was lent out so many times that she started to use drugs." Maxwell was described as a "mastermind" who "hated the girls" but "got off on it."
+
+**Prosecution decision:** Despite victim testimony using the term "lent out" -- directly implicating the Dubins in the sex trafficking conspiracy -- and despite the detailed primary source FBI 302 now available, no investigation or charges were pursued against either Glenn or Eva Dubin.
 
 ### 2.7 SARAH KELLEN / NADIA MARCINKOVA -- NPA Co-Conspirators, Plea Negotiations
 
@@ -282,7 +292,11 @@ This memo, sent two months before Epstein's arrest, shows SDNY was actively inve
 
 - **[EFTA00035812](https://www.justice.gov/epstein/files/DataSet%208/EFTA00035812.pdf) (September 2021):** The DOJ Inspector General's office investigated BOP employees for false certifications related to Epstein's death. After presenting findings to SDNY, "it was determined that the USAO SDNY would not prosecute" Lieutenant Roberto [REDACTED], Material Handler Supervisor [REDACTED], or Correctional Officer Tova Noel.
 
-This declination meant that no one was held criminally responsible for the conditions that enabled Epstein's death, despite documented failures in custody procedures.
+- **[EFTA00126052](https://www.justice.gov/epstein/files/DataSet%209/EFTA00126052.pdf) (DS9, OIG Memorandum of Investigation):** The full OIG memo confirms the declination decision was made within a single day of presentation. The AUSA consulted with the "USAO SDNY supervisor of the Public Corruption Unit" on September 20-21, 2021, and the decision not to prosecute was reached immediately.
+
+- **[EFTA00161426](https://www.justice.gov/epstein/files/DataSet%209/EFTA00161426.pdf) (DS9, FBI Case Summary Briefing Deck):** The death investigation (case 90A-NY-3151227) was formally **closed on 12/5/2022** with "no criminality found pertaining to Epstein's death."
+
+This declination and rapid case closure meant that no one was held criminally responsible for the conditions that enabled Epstein's death, despite documented failures in custody procedures.
 
 ### 3.5 The CVRA Litigation Paradox
 
@@ -297,6 +311,19 @@ This created a paradox: DOJ acknowledged the moral obligation to notify victims 
 - **[EFTA00021049](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021049.pdf):** SDNY responded: "no comment."
 
 The Maxwell prosecution was deliberately narrowed to specific victims and a specific time period, excluding the most prominent accusers and the most powerful alleged abusers.
+
+### 3.7 Maxwell Post-Trial Developments
+
+Per [EFTA00161426](https://www.justice.gov/epstein/files/DataSet%209/EFTA00161426.pdf) and [EFTA00163378](https://www.justice.gov/epstein/files/DataSet%209/EFTA00163378.pdf) (DS9):
+
+- **July 7, 2022:** Maxwell filed appeal of conviction
+- **September 17, 2024:** Federal appellate court upheld conviction
+- **April 10, 2025:** Writ of Certiorari filed with Supreme Court, arguing the NPA should have barred her prosecution
+- **July 22, 2025:** DOJ formally opposed the writ
+- **July 24-25, 2025:** DOJ interviewed Maxwell
+- SDNY also chose not to pursue Maxwell's 2 remaining perjury charges after the initial trial
+
+Maxwell argued to the Supreme Court that "a defendant should be able to rely on a promise that the United States will not prosecute again, without being subject to a gotcha in some other jurisdiction" -- directly invoking the NPA co-conspirator immunity clause that forms the foundation of Part I of this report.
 
 ---
 
@@ -338,8 +365,8 @@ Despite this 2016 push, no prosecution was initiated until July 2019 -- more tha
 
 | Individual | Evidence | Status | Charges Filed | Outcome |
 |---|---|---|---|---|
-| **Jeffrey Epstein** | 36+ victims, physical evidence | Target | 2008 state plea; 2019 federal indictment | Died Aug 10, 2019 (ruled suicide) |
-| **Ghislaine Maxwell** | Multiple victim testimony, documents | Target | July 2020 indictment | Convicted Dec 2021; sentenced 20 years |
+| **Jeffrey Epstein** | 93 identified victims (per FBI case summary, [EFTA00161426](https://www.justice.gov/epstein/files/DataSet%209/EFTA00161426.pdf)), physical evidence | Target | 2008 state plea; 2019 federal indictment | Died Aug 10, 2019 (ruled suicide); death investigation closed 12/5/2022, "no criminality found" |
+| **Ghislaine Maxwell** | Multiple victim testimony, documents | Target | July 2020 indictment | Convicted Dec 2021; sentenced 20 years; appeal upheld Sept 2024; SCOTUS cert petition 4/10/2025; 2 perjury charges not pursued |
 | **Sarah Kellen** | Named NPA co-conspirator; scheduled "hundreds of sexual massages with minors" | Subject; plea negotiations | None | Plea negotiations for obstruction collapsed; no charges |
 | **Nadia Marcinkova** | Named NPA co-conspirator; victim testimony | Subject | None | Protected by NPA immunity; no charges |
 | **Jean-Luc Brunel** | Multiple victim allegations; French investigation | Target (France) | French charges filed | Died Feb 19, 2022 (alleged suicide in French prison) |
@@ -418,8 +445,18 @@ The most prosecution-ready co-conspirators (Kellen, Marcinkova) were also victim
 | [EFTA02731473](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731473.pdf) | Leon Black $62.5M settlement email to SDNY |
 | [EFTA02731660](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731660.pdf) | SDNY CRU decision not to investigate Leon Black |
 | [EFTA02731721](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731721.pdf) | Victim attorney letter -- Leon Black as "VIP" |
+| [EFTA00095558](https://www.justice.gov/epstein/files/DataSet%209/EFTA00095558.pdf) | DOJ OPR Executive Summary (Nov 2020) -- "poor judgment" finding, 13 pages |
+| [EFTA00065989](https://www.justice.gov/epstein/files/DataSet%209/EFTA00065989.pdf) | Maxwell NPA motion to dismiss (36+ pages) -- co-conspirator immunity argument |
+| [EFTA00073493](https://www.justice.gov/epstein/files/DataSet%209/EFTA00073493.pdf) | *In re Wild*, 955 F.3d 1196 (11th Cir. 2020) -- full CVRA appellate ruling |
+| [EFTA00074599](https://www.justice.gov/epstein/files/DataSet%209/EFTA00074599.pdf) | *In re Wild*, 994 F.3d 1244 (11th Cir. 2021) -- follow-up en banc ruling |
+| [EFTA00085291](https://www.justice.gov/epstein/files/DataSet%209/EFTA00085291.pdf) | Operation Leap Year grand jury transcripts (157+ pages) |
+| [EFTA00092643](https://www.justice.gov/epstein/files/DataSet%209/EFTA00092643.pdf) | Wire transfer: $20,532 Butterfly Trust to Dershowitz law firm (3/5/2015) |
+| [EFTA00126052](https://www.justice.gov/epstein/files/DataSet%209/EFTA00126052.pdf) | OIG Memorandum -- BOP employee prosecution declination, 1-day decision |
+| [EFTA00161426](https://www.justice.gov/epstein/files/DataSet%209/EFTA00161426.pdf) | FBI Case Summary Briefing Deck -- 93 victims, 291 NTOC tips, case closed 12/5/2022 |
+| [EFTA00191587](https://www.justice.gov/epstein/files/DataSet%209/EFTA00191587.pdf) | Third Supplement to Prosecution Memorandum (2/19/08) -- victim deletions |
+| [EFTA01249021](https://www.justice.gov/epstein/files/DataSet%209/EFTA01249021.pdf) | FBI 302 -- "lent out" testimony re Dubins (8 pages, 9/9/2019) |
 
 ---
 
-*Analysis compiled from forensic review of primary document text database, Dataset 10 document text database, and OCR text extraction database*
+*Analysis compiled from forensic review of primary document text database, Dataset 10 document text database, OCR text extraction database, and full text corpus (all 12 datasets)*
 *All EFTA references correspond to documents in the Epstein Files Technical Archive*

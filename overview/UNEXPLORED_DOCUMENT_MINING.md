@@ -8,6 +8,8 @@
 
 This report documents a systematic deep search across four databases containing 3.5M+ records from the DOJ's Epstein document corpus. The investigation targeted five specific areas: surveillance/recording systems, undiscovered named individuals in redacted text, medical/scientific connections, law enforcement failures, and financial mysteries. Over 40 distinct queries were executed. Findings are organized by investigation area with all EFTA document identifiers cited.
 
+> **[UPDATE — 2026-02-12]** This report was written using four databases totaling 3,477,673 records. The full corpus now contains 1,380,937 documents (2,731,796 pages) across all 12 datasets in full_text_corpus.db (4.79 GB). Several "ZERO results" findings below have been overturned by DS9/DS11 expansion; corrections are noted inline.
+
 ---
 
 ## 1. SURVEILLANCE AND RECORDING SYSTEMS
@@ -78,9 +80,11 @@ This means **3 out of 4 cameras covering Epstein's area were NOT recording** on 
 **[EFTA01656173](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01656173.pdf), [EFTA01656152](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01656152.pdf), [EFTA01656198](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01656198.pdf), [EFTA01660622](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660622.pdf)** (FBI Briefing versions):
 > "Approximately 450 hours of video from 7/23... Approximately 150 cameras total in MCC... DVR2 - system failure on 7/29/2019... #2 system was not recording. On 8/8/2019, BOP learned that DVR... recording. On 8/8/2019, BOP learned that DVR [had failed]"
 
-**[EFTA00039025](https://www.justice.gov/epstein/files/DataSet%209/EFTA00039025.pdf)** (OIG Report, pp. 25-26):
+**[EFTA00039025](https://www.justice.gov/epstein/files/DataSet%209/EFTA00039025.pdf)** (OIG Report, 125+ pages, pp. 25-26):
 > "MCC New York staff obtain the replacement hard drives to repair the institution's security camera system but do not complete the repairs necessary to restore recording functionality"
 > "MCC New York's failure to ensure that its security camera system was fully functional and make timely repairs is consistent with the OIG's previous observations regarding weaknesses in the BOP's overall system of security cameras. Dating back to at least 2013, the OIG has repeatedly observed inadequacies"
+
+> **UPDATE (Revisit, 2026-02-12):** Per [EFTA01649190](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01649190.pdf), replacement drives were obtained but **never installed** before Epstein's death. The OIG report ([EFTA00039025](https://www.justice.gov/epstein/files/DataSet%209/EFTA00039025.pdf)) is confirmed at 125+ pages.
 
 ### 1F. FBI Seizure of DVR Systems Post-Death
 
@@ -180,7 +184,9 @@ David Boies (prominent attorney) and Stan Pottinger planned to use Epstein's sec
 **[EFTA00018466](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018466.pdf)** (SDNY News Clips):
 > "the scientists -- including Mr. Hawking -- crowded on board a submarine that Mr. Epstein had chartered"
 
-### 2B. Larry Summers -- EXTENSIVE 30+ Document Trail
+### 2B. Larry Summers -- EXTENSIVE Document Trail (2,000+ in full corpus)
+
+> **UPDATE (Revisit, 2026-02-12):** The original search found 30+ documents. The expanded full corpus (1,380,937 docs) contains **2,000+ documents** referencing Summers, including direct emails 2013-2018 such as "central bank mongol does not like imf idea" ([EFTA02484293](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02484293.pdf)), active NYC meetups ([EFTA02233990](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02233990.pdf)), and the Wigdor victim allegation ([EFTA02731721](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731721.pdf)).
 
 Larry Summers (former Treasury Secretary, Harvard President) has one of the densest document trails of any named individual:
 
@@ -259,15 +265,15 @@ This is a direct victim statement naming George Mitchell as an abuser.
 
 ### 2G. NEGATIVE FINDINGS -- Names NOT Found
 
-The following names returned **ZERO results** across all document collections (primary text database, DS10 text database, OCR text records, image catalog):
+The following names returned **ZERO results** across the databases available at time of initial search (primary text database, DS10 text database, OCR text records, image catalog). Subsequent expansion to the full 12-dataset corpus (1,380,937 docs) overturned several of these findings as noted:
 
 - **Rupert Murdoch**: Zero results
 - **Steven Spielberg**: Zero results
 - **David Geffen**: Zero results (only "Geffen" false positives from metadata)
 - **Steven Mnuchin**: Zero results (only appears in unrelated NTOC tipster rants about Trump administration - [EFTA00010786](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010786.pdf))
-- **Henry Kissinger**: Zero results
+- **Henry Kissinger**: ~~Zero results~~ **OVERTURNED (Revisit, 2026-02-12):** 431 documents found in the full corpus. Kissinger appears on a 2014 dinner party list ([EFTA00284908](https://www.justice.gov/epstein/files/DataSet%209/EFTA00284908.pdf)) alongside Black, Barak, Summers, Staley, Blankfein, and Allen. Also referenced in a Villa Arabesque NTOC tip.
 - **Edgar/Clare Bronfman**: Zero results
-- **Ronald Lauder**: Zero results (hundreds of false positives for "Fort Lauderdale")
+- **Ronald Lauder**: ~~Zero results~~ **OVERTURNED (Revisit, 2026-02-12):** 463 documents found in full corpus. Ronald Lauder Clinique Foundation referenced in email corpus; Estee Lauder brand references across DS9/DS11.
 - **Wilbur Ross**: Zero results
 
 ### 2H. Terje Roed-Larsen / BMGF Connection
@@ -436,6 +442,8 @@ Multiple witnesses reported Epstein with young girls on Palm Beach bike paths in
 - **[EFTA02518909](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02518909.pdf)**: Epstein and Reid Hoffman introduced to Austin Hill (crypto pioneer) for "cryptography/e-cash tech" (March 2014)
 - **Blockchain Capital IV**: $15M to The 2017 Caterpillar Trust (Feb 2018) -- Epstein crypto investment via shell entity
 
+> **[UPDATE — 2026-02-12]** The crypto section above was described as "unexplored" in the original report. The Austin Hill introduction and Blockchain Capital IV $15M investment are now documented in forensic_workbench.db. However, deeper analysis of the Bitcoin troika, LedgerX relationship, and Mongolia crypto channels remains warranted.
+
 ### 5B. Diamonds -- 48 Loose Stones + Ring in Safe
 
 **[EFTA00014493](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014493.pdf)** (Government filing, Case 1:19-cr-00490-RMB, July 16, 2019):
@@ -579,6 +587,8 @@ This reveals the DOJ's internal file structure for the Epstein case, codenamed "
 4. **What is in the "Epstein-Cryptology?" file?** Three separate documents reference a file or folder with this name. Cryptology could refer to cryptocurrency, but it could also refer to encryption of communications or files.
 
 5. **Who are the names behind the "Murdoch/Spielberg/Geffen/Kissinger" zeros?** The complete absence of these names from 3.5M+ records could indicate: (a) no connection existed, (b) connections were maintained through channels not captured in the DOJ corpus, or (c) names were successfully redacted/removed before document production.
+
+> **[UPDATE — 2026-02-12]** The "Kissinger: ZERO results" finding has been **overturned**: 431 documents reference Kissinger in full_text_corpus.db. [EFTA00284908](https://www.justice.gov/epstein/files/DataSet%209/EFTA00284908.pdf) places Kissinger on a 2014 dinner party guest list alongside Black, Barak, Summers, Staley, Blankfein, and Allen. Separately, "Lauder: ZERO results" has also been overturned (463 docs), with Ronald Lauder Clinique Foundation appearing in the email corpus. Murdoch, Spielberg, and Geffen remain at zero or near-zero in the full corpus.
 
 6. **What happened to the diamonds?** Defense counsel was requesting return of diamonds, ring, and funds in August 2019. The disposition of 48 loose diamonds (some over 2 carats) and a large diamond ring is unknown.
 

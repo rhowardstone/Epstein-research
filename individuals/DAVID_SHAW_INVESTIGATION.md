@@ -90,7 +90,9 @@ This document is significant for several reasons:
 
 4. **Lesley Groff's Role:** Boyden sends his flight itinerary to Lesley Groff (Epstein's executive assistant), confirming the dinner was hosted at Epstein's residence and Epstein's staff handled logistics.
 
-5. **Subject Line "deception":** The email subject is "deception" and the topic is "a contrarian disruptive perspective on creating and understanding brains, consciousness" -- suggesting the dinner's intellectual theme related to deception/perception in neuroscience.
+5. **Subject Line "deception":** The email subject is "deception" and the topic is "a contrarian disruptive perspective on creating and understanding brains, consciousness" -- suggesting the dinner's intellectual theme related to deception/perception in neuroscience. The "Deception" topic was a multi-session initiative: a Sept 6, 2013 Skype with Joi Ito, Kevin Slavin, and Reid Hoffman also addressed this theme ([EFTA00284801](https://www.justice.gov/epstein/files/DataSet%209/EFTA00284801.pdf)).
+
+6. **Dinner Disrupted (DS9 finding):** [EFTA00372888](https://www.justice.gov/epstein/files/DataSet%209/EFTA00372888.pdf) reveals the March 14, 2014 dinner was partially canceled. Ed Boyden sent a last-minute cancellation: "My apologies -- for the Obama BRAIN initiative, I need to work at MIT today to coordinate the activities of a bunch of groups for a Monday deadline." Groff replied: "Jeffrey prefers to either reschedule for April in NY or he could come to Boston possibly sometime April 23-25... Jeffrey was flying in for the dinner so he prefers to reschedule." Seung replied: "I agree... getting all of us in the same room at the same time is obviously difficult, so **four out of five isn't bad**." Judith Donath indicated she was in NYC that evening, suggesting a smaller gathering may have proceeded without Epstein and Boyden. Epstein's calendar ([EFTA00284873](https://www.justice.gov/epstein/files/DataSet%209/EFTA00284873.pdf)) lists: "12:00pm Lunch w/Neil Gershenfeld, Judith, Ed, Sebastatian for Neuro/Deception" -- confirming the event was planned as a lunch, not dinner. This further weakens any inference about Shaw's proposed attendance at what was, in its original form, a gathering that did not proceed as planned.
 
 ---
 
@@ -151,11 +153,20 @@ The [EFTA02114558](https://www.justice.gov/epstein/files/DataSet%2010/EFTA021145
 | Date | EFTA | Attendees | Subject |
 |------|------|-----------|---------|
 | **May 22, 2013** | [EFTA02377042](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02377042.pdf) | Woody Allen, Joi Ito, Ed Boyden, Tom Pritzker | Dinner at Epstein's NYC residence |
+| **Jul 19, 2013** | [EFTA00284774](https://www.justice.gov/epstein/files/DataSet%209/EFTA00284774.pdf) | Joi Ito, Ed Boyden, Neil Gershenfeld | Epstein tour of MIT Media Lab + Gershenfeld lunch |
 | **Aug 2, 2013** | [EFTA02131219](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02131219.pdf) | Ed Boyden | Communication with Epstein |
+| **Aug 11, 2013** | [EFTA00284739](https://www.justice.gov/epstein/files/DataSet%209/EFTA00284739.pdf) | Ed Boyden, Martin Nowak | Flying to Epstein's Zorro Ranch |
+| **Sept 4, 2013** | [EFTA00284799](https://www.justice.gov/epstein/files/DataSet%209/EFTA00284799.pdf) | Woody Allen, Soon Yi, **Neil Gershenfeld**, Jeff Koons, Justine Koons, David Blaine | Dinner at Epstein's NYC residence |
+| **Sept 6, 2013** | [EFTA00284801](https://www.justice.gov/epstein/files/DataSet%209/EFTA00284801.pdf) | Joi Ito, Kevin Slavin, Reid Hoffman | Skype re "Deception" topic |
 | **Feb 2014** | [EFTA01945946](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01945946.pdf) | Lesley Groff | Subject: "Re: deception" (same thread) |
-| **Mar 14, 2014** | [EFTA02114558](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02114558.pdf) | Gershenfeld, Seung, Boyden, Donath + proposed: Shaw, Hopfield, LeCun, Slavin, Tank | Neuroscience dinner on "deception" |
+| **Mar 14, 2014** | [EFTA02114558](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02114558.pdf) | Gershenfeld, Seung, Boyden, Donath + proposed: Shaw, Hopfield, LeCun, Slavin, Tank | Neuroscience lunch on "deception" (partially canceled -- see Section 1.5) |
 | **Apr 21, 2014** | [EFTA02108058](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02108058.pdf) | Epstein, Barnaby Marsh, Danielle Nadeau, Martin Nowak, Kevin Slavin | Meeting/dinner |
+| **Aug 2, 2015** | [EFTA00344556](https://www.justice.gov/epstein/files/DataSet%209/EFTA00344556.pdf) | **Mark Zuckerberg, Priscilla Chan, Elon Musk, Peter Thiel, Reid Hoffman**, Ed Boyden, Desiree Dudley, Michelle Yee, Navaid Farooq | Palo Alto dinner at Baume Restaurant (bought out for Epstein group, organized via Reid Hoffman) |
+| **Feb 2016** | [EFTA00328942](https://www.justice.gov/epstein/files/DataSet%209/EFTA00328942.pdf) | Brockman, **Demis Hassabis** (DeepMind) | Brockman-hosted dinner, reported to Epstein |
+| **Jun 2016** | [EFTA00323044](https://www.justice.gov/epstein/files/DataSet%209/EFTA00323044.pdf) | Ed Boyden | Skype with Epstein from TED Summit (email carries "JEE" entity disclaimer) |
 | **Various** | [EFTA02109316](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02109316.pdf) | Barnaby Marsh, Martin Nowak, Kevin Slavin, Danielle Nadeau | Further coordination |
+
+Note: Ed Boyden's travel was reimbursed by Epstein's foundation (AmEx Centurion bookings [EFTA00290723](https://www.justice.gov/epstein/files/DataSet%209/EFTA00290723.pdf); Gershenfeld travel reimbursement [EFTA00373002](https://www.justice.gov/epstein/files/DataSet%209/EFTA00373002.pdf)).
 
 ### 3.2 The Gershenfeld Connection
 
@@ -188,11 +199,22 @@ The Epstein science network operated through multiple parallel channels:
 
 4. **Martin Nowak / Harvard** -- Documented in [EFTA02108058](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02108058.pdf), [EFTA02109316](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02109316.pdf), [EFTA02110197](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02110197.pdf)
 
+### 3.4 Epstein's Scientist Master Lists (DS9 Finding)
+
+[EFTA00307028](https://www.justice.gov/epstein/files/DataSet%209/EFTA00307028.pdf)-[EFTA00307035](https://www.justice.gov/epstein/files/DataSet%209/EFTA00307035.pdf) contain two master scientist lists from Epstein's schedule (late May-early June 2013, World Science Festival period):
+
+**"JE's LIST OF SCIENTIST's":** Vinton Cerf, Dennis S. Charney, James Fallon, Elaine Fuchs, Neil Gershenfeld, John Holdren ("No"), Petr Janata, Seth Lloyd ("Yes"), Maja Mataric, Lyman Page, David Spergel, Suzanne Staggs, Edward O. Wilson ("No"), Adam Wilson
+
+**"BRIAN GREENE'S PREFERRED LIST OF SCIENTISTS":** Dr. Boaz Almog, Ryan Chin, Dennis Hong, Julia R. Greer, Eitan Grinspun, John Holdren (White House Science Director), Ellen Jorgensen, Eric Lander (Broad Institute Director), John C. Mather, Siddhartha Mukherjee, William Phillips (Nobel), Oliver Sacks, Harold Varmus (NCI Director), Edward O. Wilson
+
+**David E. Shaw does NOT appear on either list.** This further confirms Shaw was not in Epstein's inner science circle despite being proposed for the March 2014 dinner by Gershenfeld.
+
 **David E. Shaw exists at the intersection of ALL these networks:**
 - His computational biology work connects to the Edge Foundation science circle
 - His hedge fund status makes him a "billionaire dinner" candidate in Brockman's framework
 - His MIT connections (Columbia CS faculty, science advisory boards) overlap with the Media Lab network
 - His proposed attendance at the Gershenfeld dinner directly places him in the Epstein-hosted science gathering pattern
+- However, Shaw is absent from Epstein's own scientist master lists, absent from the 2015 Palo Alto dinner with Zuckerberg/Musk/Thiel, and absent from all DS9 calendars
 
 ---
 
@@ -214,20 +236,30 @@ The only document in the corpus that mentions "D E Shaw" by company name is [EFT
 
 **Relevance:** This document connects D.E. Shaw & Co. to Blackstone Group -- and Blackstone's co-founder Stephen Schwarzman has been noted in other Epstein investigation contexts. However, this is an INDIRECT connection through a whistleblower's claims about market manipulation, not direct evidence of Shaw-Epstein financial flows.
 
-### 4.2 Karla Shaw -- [EFTA02006000](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02006000.pdf)
+### 4.2 Karla Shaw -- IDENTIFIED: Kimbal Musk's Assistant
 
 | EFTA | Hidden Text |
 |------|-------------|
 | [EFTA02006000](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02006000.pdf) | "Jeffrey Epste[in] / Karla Shaw / B / i Nik li[c] / I" |
 
-**Analysis:** This document shows a "Karla Shaw" in the same email chain or document as "Jeffrey Epstein" and what appears to be "Nikoli[c]" (likely Boris Nikolic, Bill Gates' science advisor who was named as fallback executor of Epstein's will). Note: "Karla Shaw" is NOT David E. Shaw or his wife (Beth Kobliner Shaw / Lorraine Chang). This may be a different Shaw entirely, but the juxtaposition with Epstein and Nikolic is noteworthy.
+**Identification (resolved via DS9):** Karla Shaw is definitively identified as **Kimbal Musk's assistant** at The Kitchen & The Kitchen Community, 1980 8th Street, Boulder, CO 80302 (email: karla@thekitchencommunity.org). She coordinated Kimbal Musk's October 2012 lunch meeting with Epstein and Boris Nikolic at 9 East 71st Street.
+
+DS9 documents ([EFTA00403170](https://www.justice.gov/epstein/files/DataSet%209/EFTA00403170.pdf)-[EFTA00404179](https://www.justice.gov/epstein/files/DataSet%209/EFTA00404179.pdf)) contain 15+ emails establishing this chain:
+- Groff to Karla Shaw: "Jeffrey said yes to having Kimbal come to his home at 11:30 on Sunday!"
+- Groff: "I am now trying to find out if **Boris** will be coming as well."
+- Kimbal Musk to Boris Nikolic (Sept 21, 2012, [EFTA00404176](https://www.justice.gov/epstein/files/DataSet%209/EFTA00404176.pdf)): "Fun time last night! **Let Jeffrey and his friends know they are invited tomorrow**"
+- Schedule ([EFTA00403463](https://www.justice.gov/epstein/files/DataSet%209/EFTA00403463.pdf)): "12:00 Lunch w/Kimbal Musk and MAYBE Boris"
+
+Karla Shaw is NOT related to David E. Shaw. The [EFTA02006000](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02006000.pdf) fragment showing "Karla Shaw / Jeffrey Epstein / Nikolic" was a contact list from this Kimbal Musk meeting coordination.
+
+**Kimbal Musk → Elon Musk pipeline:** [EFTA00391375](https://www.justice.gov/epstein/files/DataSet%209/EFTA00391375.pdf) (April 29, 2013, Milken Conference) contains an Epstein email: "you should fly straight to new york instead of los angeles. **jenn broke up with kimbal therefore no elon** and most of the fun things will be this afternoon." This confirms Epstein expected to leverage Kimbal's relationship to access Elon Musk, and the breakup disrupted that pipeline. [EFTA00392307](https://www.justice.gov/epstein/files/DataSet%209/EFTA00392307.pdf) shows Epstein attended the same Milken Conference where "Elon and Kimbal Musk" were featured speakers.
 
 ### 4.3 Other "Shaw" References in the Corpus
 
 | EFTA | Context | Relevance to David E. Shaw |
 |------|---------|---------------------------|
 | [EFTA01406842](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01406842.pdf)-955 (multiple) | "Shawn Staker" -- Deutsche Bank KYC breach correspondence | **NOT RELATED** -- Deutsche Bank compliance officer |
-| [EFTA02006000](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02006000.pdf) | "Karla Shaw" + Jeffrey Epstein + Nikolic | **POSSIBLY RELATED** -- unknown |
+| [EFTA02006000](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02006000.pdf) | "Karla Shaw" + Jeffrey Epstein + Nikolic | **NOT RELATED** -- Kimbal Musk's assistant (resolved via DS9) |
 | [EFTA02135211](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02135211.pdf)/361/[EFTA02136341](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02136341.pdf) | "Liefer, Shawn (CHICO)" -- MIT Media Lab | **NOT RELATED** -- different person, but same MIT network |
 | [EFTA00032317](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032317.pdf)/906 | "Seyfarth Shaw" | **NOT RELATED** -- law firm name |
 | [EFTA00032518](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032518.pdf) | "(Shawn Thew/EPA-EFE/Shutterstock)" | **NOT RELATED** -- photo credit |
@@ -268,7 +300,23 @@ The following searches returned ZERO results across ALL databases:
 | "deshaw" (email domain) | 0 | 0 | 0 | 0 |
 | Knowledge graph entities | 0 | -- | -- | -- |
 
-### 5.2 What This Means
+### 5.2 Dubin Breast Center Co-Chair Connection (DS11 Finding)
+
+[EFTA02702727](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02702727.pdf) is a Dubin Breast Center Second Annual Benefit invitation (Monday, December 10, 2012) that was forwarded to Epstein's email (jeevacation@gmail.com). It lists **Beth and David Shaw** as benefit co-chairs alongside:
+
+| Co-Chair | Epstein Connection |
+|----------|-------------------|
+| Eva and Glenn Dubin | Documented Epstein associate, "lent out" prosecution testimony, 34+ flights |
+| Allison and Howard Lutnick | Named in NTOC tip on Prominent Names |
+| Sonia and Paul Tudor Jones II | $13.5M Tudor Futures Fund to Epstein's Southern Financial |
+| Alexandra and Steven Cohen | Hedge fund billionaire |
+| Gabrielle and Louis Bacon | Hedge fund billionaire |
+
+Also on the Benefit Committee: Tommy Mottola and Lorne Michaels.
+
+This establishes that the Shaws moved in the same philanthropic social circuit as multiple documented Epstein associates. However, being a co-chair of a public charity benefit does not establish direct Shaw-Epstein contact or knowledge of Epstein's criminal activities.
+
+### 5.3 What This Means
 
 The absence of David E. Shaw from 99%+ of the corpus is itself a significant finding. Compare Shaw's presence to other Epstein associates:
 
@@ -387,7 +435,7 @@ Shaw's proposed attendance at an MIT-organized dinner is significant because:
 
 D.E. Shaw Research has no documented direct connection to MIT in the Epstein files, but Shaw's background as a Columbia CS professor and his computational biology work place him in the same intellectual circles.
 
-### 7.4 [EFTA02006000](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02006000.pdf) -- Karla Shaw, Epstein, and Nikolic
+### 7.4 [EFTA02006000](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02006000.pdf) -- Karla Shaw, Epstein, and Nikolic (RESOLVED)
 
 The document [EFTA02006000](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02006000.pdf) contains a fragmentary redaction showing:
 ```
@@ -398,7 +446,7 @@ i Nik li[c]
 I
 ```
 
-This appears to be an email participant list. "Karla Shaw" has NOT been identified as a relative of David E. Shaw. The juxtaposition with "Nikoli[c]" (Boris Nikolic, Gates Foundation science advisor who was named as fallback executor of Epstein's will) is notable but does not establish a connection to David E. Shaw.
+This is an email participant list from the October 2012 Kimbal Musk meeting coordination. Karla Shaw is Kimbal Musk's assistant at The Kitchen Community (Boulder, CO), and "Nikoli[c]" is Boris Nikolic, who was invited to the same lunch. See Section 4.2 for full identification. This document has no connection to David E. Shaw.
 
 ---
 
@@ -691,7 +739,7 @@ The most significant aspect of Shaw's appearance is what it reveals about **Epst
 2. **Was Shaw at any of the earlier Brockman "billionaires' dinners"?** No evidence in the corpus.
 3. **Were there communications on channels not captured?** Phone calls, in-person meetings, or communications through intermediaries would not appear in the email-centric DOJ files.
 4. **What is behind the 3 proper redactions on [EFTA02114558](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02114558.pdf)?** These could contain additional email addresses or names relevant to Shaw's involvement.
-5. **Who is "Karla Shaw" in [EFTA02006000](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02006000.pdf)?** This person appears with Epstein and Nikolic but has not been identified as connected to David E. Shaw.
+5. ~~**Who is "Karla Shaw" in [EFTA02006000](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02006000.pdf)?**~~ **RESOLVED:** Karla Shaw is Kimbal Musk's assistant at The Kitchen Community (Boulder, CO). She coordinated Musk-Epstein lunch meetings via Boris Nikolic. Not related to David E. Shaw.
 
 ---
 
@@ -715,7 +763,7 @@ The most significant aspect of Shaw's appearance is what it reveals about **Epst
 5. [EFTA01406915](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01406915.pdf) -- Shawn Staker (Deutsche Bank KYC)
 6. [EFTA01406948](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01406948.pdf) -- Shawn Staker (Deutsche Bank KYC)
 7. [EFTA01406955](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01406955.pdf) -- Shawn Staker (Deutsche Bank KYC)
-8. [EFTA02006000](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02006000.pdf) -- **Karla Shaw** + Jeffrey Epstein + Nikolic
+8. [EFTA02006000](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02006000.pdf) -- **Karla Shaw** (Kimbal Musk's assistant, resolved) + Jeffrey Epstein + Nikolic
 9. [EFTA02135211](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02135211.pdf) -- Shawn Liefer (MIT Media Lab CHICO)
 10. [EFTA02135361](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02135361.pdf) -- Shawn Liefer (MIT Media Lab)
 11. [EFTA02136341](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02136341.pdf) -- Shawn Liefer (MIT Media Lab)
@@ -740,7 +788,7 @@ The most significant aspect of Shaw's appearance is what it reveals about **Epst
 | EFTA | Database(s) | Shaw Relevance | Content Summary |
 |------|-------------|----------------|-----------------|
 | **[EFTA02114558](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02114558.pdf)** | v2, ds10 | **PRIMARY** | Neuroscience dinner: Shaw proposed as invitee |
-| [EFTA02006000](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02006000.pdf) | v2, ds10 | Indirect | Karla Shaw + Epstein + Nikolic |
+| [EFTA02006000](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02006000.pdf) | v2, ds10 | Resolved | Karla Shaw (Kimbal Musk's assistant) + Epstein + Nikolic |
 | [EFTA00010819](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010819.pdf) | OCR, images | Indirect | D E Shaw Co. mentioned in KODK/Blackstone context |
 | [EFTA01939169](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01939169.pdf) | v2, ds10 | Network | Gershenfeld/Seung/Epstein email (dinner organizers) |
 | [EFTA02115011](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02115011.pdf) | v2, ds10 | Network | Donath/Gershenfeld/Seung/Boyden |
@@ -761,7 +809,8 @@ The most significant aspect of Shaw's appearance is what it reveals about **Epst
 
 ---
 
-*Report compiled: 2026-02-07*
-*Databases searched: 4 primary + 1 knowledge graph*
-*Total queries executed: 60+*
+*Report compiled: 2026-02-07 | Updated 2026-02-12 with DS9/DS11 full corpus findings*
+*Databases searched: 4 primary + 1 knowledge graph + full_text_corpus.db (1,380,937 documents)*
+*Total queries executed: 60+ (original) + 12 targeted DS9/DS11 queries*
 *Total records scanned: ~3.5 million across all document collections*
+*Key updates: Karla Shaw identified (Kimbal Musk's assistant), March 14 dinner disrupted, Dubin Breast Center co-chair connection, science network expanded (Palo Alto dinner, scientist master lists)*

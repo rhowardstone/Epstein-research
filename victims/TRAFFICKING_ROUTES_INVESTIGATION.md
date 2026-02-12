@@ -27,7 +27,7 @@
 
 ## 1. EXECUTIVE SUMMARY
 
-The Epstein trafficking network operated a sophisticated, multi-modal transportation system designed to move victims between at least seven primary locations across four countries. The operation used private aircraft (Boeing 727, Gulfstream G2B, Gulfstream G4/G550, Sikorsky S-76C helicopter), ground transportation (car services, limousines, personal drivers), maritime vessels (boats to/from islands), and commercial flights (Concorde, JetBlue, commercial airlines).
+The Epstein trafficking network operated a sophisticated, multi-modal transportation system designed to move victims between at least seven primary locations across four countries. The operation used private aircraft (Hawker 700, Boeing 727, Gulfstream G2B, Gulfstream G4/G550, Sikorsky S-76C++ helicopter, Bell 407 helicopter), ground transportation (car services, limousines, personal drivers, Michelle's Transportation LLC), maritime vessels (boats to/from islands), and commercial flights (Concorde, JetBlue, commercial airlines).
 
 The network exploited the private aviation system to bypass normal customs and immigration controls. A key enabler was the use of model agency front companies (MC2 Model Management, Karin Models) to obtain "modeling visas" that provided legal cover for moving victims across international borders. Epstein's associates maintained relationships with customs officials, and the system tracked victim "availability and proximity using a database" ([EFTA00016836](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016836.pdf)).
 
@@ -43,11 +43,14 @@ The network operated the following aircraft over approximately two decades:
 
 | Aircraft | Tail Number | Approximate Period | Notes |
 |----------|-------------|-------------------|-------|
-| Gulfstream G2B | Unknown | ~1990s | Silver with burgundy strip, burgundy carpet |
-| Boeing 727 ("Lolita Express") | N908JE | ~2000s | Registered to JEGE Inc. ([EFTA00019442](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019442.pdf)) |
-| Gulfstream G4 (later G550) | Unknown | ~2010+ | Purchased approximately 2010 |
-| Sikorsky S-76C Helicopter | N162AE (later N162AD) | ~1999-mid 2000s | Serial number 760472; tail number changed August 2011 ([EFTA00021666](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021666.pdf)) |
-| Additional aircraft | N405PJ | Various | Tail number was changed ([EFTA00021666](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021666.pdf)) |
+| Hawker 700 (HS-700) | Unknown | 1991-2004 | First aircraft; mid-size jet fitting ~12 passengers ([EFTA00159180](https://www.justice.gov/epstein/files/DataSet%209/EFTA00159180.pdf)) |
+| Gulfstream G2B | N909JE | ~1994-2000s | Purchased Feb 2, 1994. Silver with burgundy strip, burgundy carpet. Owned by Hyperion Air Inc. ([EFTA00159180](https://www.justice.gov/epstein/files/DataSet%209/EFTA00159180.pdf)) |
+| Boeing 727 | N908JE | ~2000-2010s | Registered to JEGE Inc. 26-passenger capacity. ([EFTA00019442](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019442.pdf), [EFTA00159180](https://www.justice.gov/epstein/files/DataSet%209/EFTA00159180.pdf)) |
+| Gulfstream G4 | N120JE | ~2010-2017 | Transitional aircraft. CBP TECS records show use through 2018. ([EFTA00040497](https://www.justice.gov/epstein/files/DataSet%209/EFTA00040497.pdf)) |
+| Gulfstream G550 | N212JE | ~2017-2019 | Owned by Plan D LLC. Used on arrest flight (Paris-Teterboro, July 6, 2019). ([EFTA00083891](https://www.justice.gov/epstein/files/DataSet%209/EFTA00083891.pdf)) |
+| Sikorsky S-76C++ ("Air Ghislaine 2") | N722JE (prev. N331JE) | 2007-2019 | Serial 760750. Ownership chain: Air Ghislaine Inc -> Shmitka Air Inc -> Freedom Air International Inc -> ASI Wings LLC -> Hyperion Air LLC ([EFTA00075806](https://www.justice.gov/epstein/files/DataSet%209/EFTA00075806.pdf), [EFTA00040848](https://www.justice.gov/epstein/files/DataSet%209/EFTA00040848.pdf)) |
+| Bell 407 ("Air Ghislaine 1") | N491GM | Various | Second helicopter ([EFTA00040848](https://www.justice.gov/epstein/files/DataSet%209/EFTA00040848.pdf)) |
+| Non-Epstein aircraft | N415LM | ~Apr 2017 | Transitional use; CBP records show KISP-TIST flights ([EFTA00040497](https://www.justice.gov/epstein/files/DataSet%209/EFTA00040497.pdf)) |
 
 **Key finding from [EFTA00030491](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030491.pdf) (pilot interview notes):**
 > "JE had the G2B from approximately 19[90s]. G2B was silver with burgundy strip at f[ront], burgundy carpet. JE had the Boeing form approximately 2[000s]. JE bought the G4 in approximately 201[0]. JE bought firs[t] helicopter in approximate[ly] 1999 and the mid-2000s, GM flew JE's [aircraft]. [Witness was] in the helicopter with GM... GM never owned any of the helicopters."
@@ -56,12 +59,12 @@ The network operated the following aircraft over approximately two decades:
 
 ### 2.2 Pilots
 
-- **Larry Visoski (Captain):** Primary pilot; signed aircraft registration documents as Manager/Director; involved in property management for Epstein entities in the Virgin Islands ([EFTA00037862](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037862.pdf), [EFTA01266380](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01266380.pdf), [EFTA01364303](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01364303.pdf), [EFTA01684300](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01684300.pdf))
-- **David Rodgers (Co-Pilot):** Maintained flight logs; recalled introducing passengers by name on prior flight logs after the fact; testified about annual trips and specific passengers ([EFTA01684300](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01684300.pdf), [EFTA02731168](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731168.pdf))
+- **Larry Visoski (Chief Pilot from ~2004 onward):** Worked for Epstein from July 1991 to 2019; became Chief Pilot after Rodgers' demotion in Dec 2004. Signed aircraft registration documents as Manager/Director of Plan D LLC; involved in property management for Epstein entities in the Virgin Islands. Per proffer interview ([EFTA00159712](https://www.justice.gov/epstein/files/DataSet%209/EFTA00159712.pdf), Oct 2020): "Around 2010/2011 EPSTEIN tells VISOSKI and RODGERS to stop putting passenger names and only put EPSTEIN on passenger manifest and sheets." Had CBP officer "Bill Rouch" stored as "Customs STT" in his phone ([EFTA00080458](https://www.justice.gov/epstein/files/DataSet%209/EFTA00080458.pdf)). ([EFTA00037862](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037862.pdf), [EFTA01266380](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01266380.pdf), [EFTA01364303](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01364303.pdf), [EFTA01684300](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01684300.pdf))
+- **David Rodgers (Chief Pilot 1991-2004, then Captain):** Maintained flight logs; first flight with Epstein July 26, 1991. Per [EFTA02731168](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731168.pdf) p.7, Rodgers would NOT go back to add passenger names on prior flight logs -- prosecutors cited this to explain INCOMPLETE records, not tampering. Epstein ordered both pilots to stop recording passenger names circa 2010/2011 ([EFTA00159712](https://www.justice.gov/epstein/files/DataSet%209/EFTA00159712.pdf), [EFTA00159180](https://www.justice.gov/epstein/files/DataSet%209/EFTA00159180.pdf)). Rodgers continued employment and pay through NES LLC even after Epstein's July 2019 arrest. ([EFTA01684300](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01684300.pdf), [EFTA02731168](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731168.pdf))
+- **Larry Morrison:** Regular Flight Engineer on the Boeing 727 ([EFTA00159180](https://www.justice.gov/epstein/files/DataSet%209/EFTA00159180.pdf))
 
-From [EFTA02731168](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731168.pdf) (prosecution memo):
-> "Rodgers recalls that in [year], [he] recalls airport trips and specific [details]. [He] understood... one of those [trips]... Rodgers understood [the purpose]."
-> "back to add in that passenger's name on prior flight logs" -- indicating retroactive modification of flight records.
+From [EFTA00159180](https://www.justice.gov/epstein/files/DataSet%209/EFTA00159180.pdf) (Rodgers 17-page FD-302, Feb 2020):
+> Aircraft progression: Hawker 700 (1991-2004, first aircraft, mid-size jet fitting ~12 passengers) -> Gulfstream G2B (purchased Feb 2, 1994) -> Boeing 727 (starting ~2000, owned by JEGE Inc., 26 passengers) -> Gulfstream (owned by Hyperion Air Inc., 12 passengers). Rodgers did not check IDs or DOBs of passengers. Maxwell gave travel schedule verbally, never written.
 
 ### 2.3 Flight Calendars ([EFTA00005994](https://www.justice.gov/epstein/files/DataSet%204/EFTA00005994.pdf) - OCR Records)
 
@@ -148,6 +151,26 @@ ROUTE 8: Epstein's Island (boat-based access)
 - "Caller was taken by boat to Epstein's Island" (EFTA01660679)
 - Air traffic controllers in the Virgin Islands observed Epstein "leaving his private
   [jet] with girls who looked as young as 11" (EFTA00016836)
+
+ROUTE 9 (DS9 NEW): Vienna stopover
+- N212JE landed Vienna March 22, 2019 with Epstein and "3 female ladies,"
+  departed to Paris at 10 PM; visited "coffee house Landmann" (EFTA00076034)
+
+ROUTE 10 (DS9 NEW): Ecuador (Guayaquil)
+- JEGE Inc. B-727 manifest page 44 shows flight from Guayaquil (EFTA00066572)
+
+ROUTE 11 (DS9 NEW): Palma de Mallorca, Spain
+- B-727 manifest shows JFK to LEPA (Palma de Mallorca) route (EFTA00066572)
+
+ROUTE 12 (DS9 NEW): Interlochen, Michigan
+- Music camp destination confirmed by both pilots (EFTA00159712, EFTA00159180):
+  "EPSTEIN was big on the arts and had a cabin there"
+
+ROUTE 13 (DS9 NEW): Goose Bay, Canada (CYYR)
+- Transatlantic refueling stop for Gulfstream (EFTA00040504)
+
+ROUTE 14 (DS9 NEW): Providenciales, Turks & Caicos
+- Technical stop on route to USVI (EFTA00572782: "even after making a Tech stop in Provo")
 ```
 
 ### 3.3 CBP Entry/Exit Records ([EFTA00010062](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010062.pdf), [EFTA00010069](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010069.pdf))
@@ -157,14 +180,15 @@ U.S. Customs and Border Protection TECS (Treasury Enforcement Communications Sys
 | CBP Site Code | Location |
 |---------------|----------|
 | A472 | NEW YORK (JFK) |
-| AS12 | CBP-ST THOMAS, VI PREFLIGHT |
-| AS11 | CBP-ST THOMAS, GAP PREDEPART |
-| AS23 | CBP-PALM BEACH, INTERNATIONAL |
-| A200 | CBP-TETERBORO, JET AVIATION |
-| AS15 | CBP-CYRIL & KING, INTL AIRPORT |
-| AS24 | CBP-[additional St. Thomas] |
-| AS20 | CBP-[additional] |
-| A103 | CBP-[additional] |
+| A514 | CBP-ST THOMAS, GAF PREDEPART ([EFTA00040478](https://www.justice.gov/epstein/files/DataSet%209/EFTA00040478.pdf)) |
+| A512 / P512 | CBP-ST THOMAS, VI PREDEPARTURE ([EFTA00040478](https://www.justice.gov/epstein/files/DataSet%209/EFTA00040478.pdf)) |
+| PSIS | CBP-CYRIL KING GAF, PRE-FLIGHT ([EFTA00040478](https://www.justice.gov/epstein/files/DataSet%209/EFTA00040478.pdf)) |
+| A523 | CBP-PALM BEACH INTERNATIONAL ([EFTA00040504](https://www.justice.gov/epstein/files/DataSet%209/EFTA00040504.pdf)) |
+| A461 | CBP-TETERBORO, AIRPT HANGER 2 ([EFTA00040504](https://www.justice.gov/epstein/files/DataSet%209/EFTA00040504.pdf)) |
+| A10D | CBP-TETERBORO, JET AVIATION ([EFTA00040504](https://www.justice.gov/epstein/files/DataSet%209/EFTA00040504.pdf)) |
+| A472 | NEW YORK (JFK) |
+
+Note: Two distinct CBP processing locations at Teterboro (Hangar 2 and Jet Aviation) and four distinct CBP processing sites at St. Thomas.
 
 Records show passport (type "P") encounters at London/Heathrow, Paris Charles de Gaulle, JFK, and multiple Florida/VI locations spanning 2016-2019.
 
@@ -219,7 +243,7 @@ The most extensively documented recruiting operation was the Palm Beach "pyramid
 **[EFTA00009550](https://www.justice.gov/epstein/files/DataSet%207/EFTA00009550.pdf) (FBI testimony):**
 > A recruiter "has been interviewed... And has he admitted to being a recruiter for Mr. Epstein? Yes, recruiter and driver."
 
-This reveals the dual role: recruiters also served as drivers, physically transporting victims.
+This identifies **Tony Figurello** as an admitted recruiter and driver for Epstein in Palm Beach ([EFTA00085291](https://www.justice.gov/epstein/files/DataSet%209/EFTA00085291.pdf), [EFTA00179399](https://www.justice.gov/epstein/files/DataSet%209/EFTA00179399.pdf)). The dual role reveals that recruiters also served as drivers, physically transporting victims.
 
 ### 5.2 Recruitment Methodology
 
@@ -289,9 +313,18 @@ The submission requirements explicitly targeted children as young as **13 years 
 **[EFTA00016836](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016836.pdf) (USVI Attorney General Lawsuit):**
 > "[Epstein used] a ring of associates to rotate the women and girls in and out of sexual servitude, [obtaining] modeling visas to transport them across state lines and international borders, [and] tracked their availability and proximity using the database."
 
-This is the clearest evidence that **modeling visas were systematically used as the legal mechanism to import victims internationally**.
+**DS9 direct Epstein emails on visa procurement:**
+- [EFTA00935562](https://www.justice.gov/epstein/files/DataSet%209/EFTA00935562.pdf): Epstein to woman in Poland: "we need to deal with your papers next... we might try a modeling visa. put together all of your tear sheets"
+- [EFTA00940633](https://www.justice.gov/epstein/files/DataSet%209/EFTA00940633.pdf): "your work is a model visa. ? how old are you now?" and "no, ss number is meaningless. the h 1 visa is very specific"
+- [EFTA00696949](https://www.justice.gov/epstein/files/DataSet%209/EFTA00696949.pdf): Woman writes to Epstein: "I didn't think about a model visa" after discussing photos taken in Moscow
+- [EFTA02567104](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02567104.pdf) (DS11): Email stating a woman "is here on a modeling visa so it is important to be able to show work"
+- [EFTA00143406](https://www.justice.gov/epstein/files/DataSet%209/EFTA00143406.pdf): Attorney for Brunel's victims: modelling agencies "were used not only as a recruiting strategy for new victims to be trafficked but also as a gateway for trading victims internationally and for obtaining modeling visas"
+
+This is the clearest evidence that modeling visas were systematically used as the legal mechanism to import victims internationally. Epstein's direct involvement in visa paperwork is now documented through first-person emails.
 
 ### 6.3 Daniel Siad's Role
+
+**DS9 identifies Siad as recruiter** ([EFTA00083931](https://www.justice.gov/epstein/files/DataSet%209/EFTA00083931.pdf)): Brunel himself described Siad as "a 'scout' or recruiter of girls and/or women for J. Epstein." Siad had extensive connections to Hermes luxury brand executives (Francois Manalt, Francois Dore, Pierre Francois Le Poutre -- [EFTA00307001](https://www.justice.gov/epstein/files/DataSet%209/EFTA00307001.pdf)). Siad actively introduced women to Epstein via email ([EFTA00404287](https://www.justice.gov/epstein/files/DataSet%209/EFTA00404287.pdf)): "Dear Daniel and Jeffrey, I would love to meet your friend Jeffrey" with Epstein writing to Siad: "if your princess would like to come, she needs to schedule?" Contact info: +33633582532, +32489336992, photographtv.daniel@gmail.com.
 
 **[EFTA01986452](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01986452.pdf):** Email from Daniel Siad to Jean-Luc Brunel with subject line: **"Commission de mes 2 filles Chez toi"** ("Commission for my 2 girls at your place")
 
@@ -503,10 +536,15 @@ Groff served as Epstein's executive assistant and handled:
 
 ### 10.6 Jean-Luc Brunel -- International Recruiting
 
-- Founded Karin Models (Paris) and MC2 Model Management (New York, Miami, Tel Aviv)
+- Founded Karin Models (Paris) and MC2 Model Management (New York, Miami, Tel Aviv). Jeff Fuller identified as MC2 manager ([EFTA00073492](https://www.justice.gov/epstein/files/DataSet%209/EFTA00073492.pdf)). Harry Bellar identified as MC2 accountant ([EFTA00172125](https://www.justice.gov/epstein/files/DataSet%209/EFTA00172125.pdf)).
+- Wire transfers from Epstein to MC2: $25,000 on 12/4/2013 and $29,440 on 12/10/2013 ([EFTA00105307](https://www.justice.gov/epstein/files/DataSet%209/EFTA00105307.pdf))
 - Recruited models from France, Eastern Europe, Russia, Tel Aviv
+- FBI interview via telephone at MC2 Models, Miami FL, July 2019 ([EFTA00073492](https://www.justice.gov/epstein/files/DataSet%209/EFTA00073492.pdf))
 - FBI investigation conducted July 9-11, 2019 ([EFTA01684300](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01684300.pdf))
 - FBI formally interviewed Brunel ([EFTA01731021](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01731021.pdf))
+- French MLAT request (July 2020, [EFTA00077200](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077200.pdf)): Paris Public Prosecutor investigation; search of 22 Avenue Foch on Sept 23, 2019 yielded "two MAC computers, several storage media"
+- Brunel died in French prison Feb 2022 ([EFTA00174036](https://www.justice.gov/epstein/files/DataSet%209/EFTA00174036.pdf))
+- FedEx shipping records from "J EPSTEIN & CO" to "CO KARIN MODELS" ([EFTA00219275](https://www.justice.gov/epstein/files/DataSet%209/EFTA00219275.pdf))
 - Communicated with Daniel Siad about "Commission de mes 2 filles" ([EFTA01986452](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01986452.pdf))
 
 ### 10.7 Daniel Siad -- Brunel's Associate
@@ -576,7 +614,12 @@ Offers of college assistance, career help, and luxury experiences were used to m
 | Freedom Air International | Aircraft registration | [EFTA00037645](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037645.pdf) |
 | Shmitka Air Inc. | Name change from previous entity | [EFTA00037645](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037645.pdf) |
 | Flight Options LLC | Aircraft operations | [EFTA00012111](https://www.justice.gov/epstein/files/DataSet%208/EFTA00012111.pdf) |
-| Hyperion Air LLC | KYC (Know Your Customer) investigation | [EFTA01298802](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01298802.pdf) |
+| Hyperion Air LLC | KYC (Know Your Customer) investigation; current registered owner of N722JE | [EFTA01298802](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01298802.pdf), [EFTA00150915](https://www.justice.gov/epstein/files/DataSet%209/EFTA00150915.pdf) |
+| Freedom Air Petroleum LLC | Fuel procurement entity, valued at $22,512 at death | [EFTA00076491](https://www.justice.gov/epstein/files/DataSet%209/EFTA00076491.pdf) |
+| Michelle's Transportation LLC | USVI ground/marine transport, valued at $323,907 at death. Address: 9053 Estate Thomas, Ste 101, Charlotte Amalie, USVI 00802 | [EFTA00076491](https://www.justice.gov/epstein/files/DataSet%209/EFTA00076491.pdf) |
+| Thomas World Air LLC | Aircraft-related entity | [EFTA00065864](https://www.justice.gov/epstein/files/DataSet%209/EFTA00065864.pdf) |
+| NES LLC | Pilot payroll entity; continued paying Rodgers post-death | [EFTA00159180](https://www.justice.gov/epstein/files/DataSet%209/EFTA00159180.pdf), [EFTA00159199](https://www.justice.gov/epstein/files/DataSet%209/EFTA00159199.pdf) |
+| Industrial Integrity Solutions LLC | New Mexico LLC (Rich Munkvold CFO); purchased N722JE helicopter from estate in 2021 for $1.00 + OVC | [EFTA00080010](https://www.justice.gov/epstein/files/DataSet%209/EFTA00080010.pdf) |
 
 ### 12.2 Deliberate Obfuscation
 

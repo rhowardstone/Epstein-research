@@ -6,6 +6,23 @@
 **Total entities extracted:** 107,422
 
 ---
+
+### Data Provenance Note
+
+Per the REDACTION_TEXT_LAYER_ANALYSIS (Report #93), the DS10 "hidden text" is predominantly garbled OCR generated over scanned document images, not text concealed under intentional redaction overlays. Many extracted "email addresses" are OCR artifacts — truncated or garbled variants of the same underlying addresses (e.g., the numerous partial variants of `jeevacation@gmail.com` such as `eevacation@`, `evacation@`, `acation@`). This does not invalidate the catalog but reframes the provenance of the data: these entities were extracted from an OCR layer, not from deliberately concealed content.
+
+The full_text_corpus.db (PyMuPDF extraction) captures a superset of this data — all text on every page, not just text beneath redaction bars.
+
+**Key emails confirmed in subsequent investigations:**
+- `jabwcpa@gmail.com` — Jeanne Anne Brennan Wiebracht (resolved in Report #33 revisit)
+- `kari.shulia@gmail.com` — Karyna Shuliak
+- `richardkahn12@gmail.com` / `ichardkahn12@gmail.com` — Richard Kahn (accountant)
+- `michaelwolffnyc@gmail.com` — Michael Wolff
+- `zorro.office@gmail.com` — Zorro Ranch office
+- `lsj.island@gmail.com` / `sj.island@gmail.com` — Little Saint James island
+- `boris.nikolic@bgc3.com` — Boris Nikolic (Gates advisor)
+
+---
 ## 1. Entity Counts by Type
 
 | Entity Type | Count |

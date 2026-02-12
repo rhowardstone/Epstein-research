@@ -9,6 +9,8 @@ Every factual claim in these reports traces back to specific EFTA document numbe
 
 **This is not opinion or speculation.** These reports synthesize what the documents themselves say, with sourcing. Where conclusions are drawn, the supporting evidence chain is cited. Where evidence is ambiguous, that is noted. If you notice any problems, please raise an ISSUE on this repository and it will be attended to promptly.
 
+**February 2026 Full-Corpus Update:** All 100+ reports have been systematically revisited against the complete 12-dataset corpus (1,380,937 documents). Key corrections include: the "99-day blackout" was a PLIST extraction artifact (DS9 shows continuous email activity); the flight log modification claim was inverted (pilots didn't go back to add names, explaining incomplete records); "Coatue" was Richard Kahn's personal shell entity, not Philippe Laffont's hedge fund; and "Prytanee LLC" was traced to Etienne Pierre Jean Binant, not Jack Lang. Major expansions: intelligence-related searches that returned zero in DS1-8 now show Carbyne (50 docs), Reporty (324), Unit 8200 (11 refs); Ehud Barak expanded from 25 to 3,756 documents; Elon Musk expanded from 0 to 1,038 documents with 15+ direct emails; CBP officer de-redacted as Timothy Routch; JABWCPA de-redacted as Jeanne Anne Brennan Wiebracht. Corrections are marked inline with `[CORRECTED]` or `[CORRECTION]` tags throughout.
+
 ---
 
 ### For Congressional Staff
@@ -56,20 +58,20 @@ See the [EFTA Dataset Mapping](#efta-number-to-dataset-mapping) table at the bot
 | [FORENSIC_ACCT_1_HAZE_DRAWDOWN](financial/FORENSIC_ACCT_1_HAZE_DRAWDOWN.md) | Tracing the Haze Trust $41.7M drawdown from $49.5M to ~$7.7M (June 2018 - February 2019). |
 | [FORENSIC_ACCT_2_MONEY_SOURCES](financial/FORENSIC_ACCT_2_MONEY_SOURCES.md) | Tracing the sources of Epstein's wealth. No legitimate source for $500M+ identified in the record. |
 | [FORENSIC_ACCT_3_INTER_ENTITY_FLOWS](financial/FORENSIC_ACCT_3_INTER_ENTITY_FLOWS.md) | Inter-entity fund flows across the Epstein shell company network. |
-| [FORENSIC_ACCT_4_JABWCPA_INSTITUTION1](financial/FORENSIC_ACCT_4_JABWCPA_INSTITUTION1.md) | Identification of JABWCPA email (CPA Richard Kahn) and Institution-1 (Deutsche Bank). |
+| [FORENSIC_ACCT_4_JABWCPA_INSTITUTION1](financial/FORENSIC_ACCT_4_JABWCPA_INSTITUTION1.md) | Identification of JABWCPA (Jeanne Anne Brennan Wiebracht, CPA — **de-redacted via DS9**) and Institution-1 (Deutsche Bank). Richard Kahn confirmed as `rkahn` email. |
 | [FORENSIC_ACCT_5_CALENDAR_CORRELATION](financial/FORENSIC_ACCT_5_CALENDAR_CORRELATION.md) | Cross-referencing meeting/calendar data with financial transactions. |
 | [FORENSIC_ACCT_6_POST_DEATH_ASSETS](financial/FORENSIC_ACCT_6_POST_DEATH_ASSETS.md) | Post-death disposition of $600M+ estate: 14 entities, Indyke/Kahn as co-executors. |
 | [SHELL_ENTITY_MAP](financial/SHELL_ENTITY_MAP.md) | Complete map of 95+ Epstein shell entities across 10 categories under RM CODE 82289. |
 | [SHELL_ENTITY_DARK_MONEY_INVESTIGATION](financial/SHELL_ENTITY_DARK_MONEY_INVESTIGATION.md) | 57 additional entities beyond the 95+ baseline map: JEEPERS INC, ELLMAX LLC, Rothschild pipeline. |
 | [TRANSACTION_CHAIN_AUCTION_TO_DESTINATION](financial/TRANSACTION_CHAIN_AUCTION_TO_DESTINATION.md) | Complete forensic trace: $30.5M in Sotheby's/Christie's auction proceeds through Haze Trust to Valar, Honeycomb, Boothbay, Plan D. |
 | [TRANSACTION_CHAIN_BLACK_ART_MACHINE](financial/TRANSACTION_CHAIN_BLACK_ART_MACHINE.md) | Prosecutorial narrative: 15 chains tracing $168M Black-to-Epstein, art machine / trafficking machine structural unity. |
-| [TRANSACTION_CHAIN_THIRD_PARTY_ART](financial/TRANSACTION_CHAIN_THIRD_PARTY_ART.md) | Third-party art-related money flows: Prytanee LLC, Rothschild $25M, Tudor $13.5M, Gratitude America, David Mitchell $526K. |
+| [TRANSACTION_CHAIN_THIRD_PARTY_ART](financial/TRANSACTION_CHAIN_THIRD_PARTY_ART.md) | Third-party art-related money flows: Prytanee LLC (**corrected:** Etienne Pierre Jean Binant, not Jack Lang), Rothschild $25M, Tudor $13.5M, Gratitude America, David Mitchell $526K. |
 | [INVESTIGATION_2_DB_KYC_BREACH](financial/INVESTIGATION_2_DB_KYC_BREACH.md) | Deutsche Bank KYC breach timeline for Southern Financial LLC / Epstein. |
 | [INVESTIGATION_3_HAZE_TRUST_AML](financial/INVESTIGATION_3_HAZE_TRUST_AML.md) | Haze Trust AML inquiry -- Deutsche Bank's anti-money laundering process for Epstein's largest trust vehicle. |
 | [INVESTIGATION_4_2018_WIRE_RECIPIENTS](financial/INVESTIGATION_4_2018_WIRE_RECIPIENTS.md) | November/December 2018 wire recipients -- post-Miami Herald payments. |
 | [INVESTIGATION_7_BARRETT_REPORTS](financial/INVESTIGATION_7_BARRETT_REPORTS.md) | Paul Barrett's weekly reports as Deutsche Bank relationship manager on the Epstein account. |
 | [DILORIO_APOLLO_WHISTLEBLOWER](financial/DILORIO_APOLLO_WHISTLEBLOWER.md) | Christopher J. DiLorio SEC whistleblower complaint -- Apollo/Epstein/Kushner connections, ESWW shell company. |
-| [WECHSLER_BLACK_TRUST_INVESTIGATION](financial/WECHSLER_BLACK_TRUST_INVESTIGATION.md) | Brad Wechsler (Elysium Management), J BLACK Trust payments, $30.5M BV70 circular loan structure. |
+| [WECHSLER_BLACK_TRUST_INVESTIGATION](financial/WECHSLER_BLACK_TRUST_INVESTIGATION.md) | Brad Wechsler (Elysium Management), J BLACK Trust **identified as Leon Black discretionary gift trust** (created April 2014 at Epstein's direction), $30.5M BV70 circular loan structure. DS9 yielded complete trust agreement chain. |
 | [LUXURY_PURCHASES_ANALYSIS](financial/LUXURY_PURCHASES_ANALYSIS.md) | Luxury purchases, lifestyle spending, and high-value acquisitions analysis. |
 | [WOW_GOLD_IGE_BANNON_SEARCH](financial/WOW_GOLD_IGE_BANNON_SEARCH.md) | NEGATIVE: Zero evidence of WoW gold / IGE / virtual currency money laundering across 3.5M+ records. |
 
@@ -79,13 +81,13 @@ See the [EFTA Dataset Mapping](#efta-number-to-dataset-mapping) table at the bot
 |--------|-------------|
 | [LEON_BLACK_PROSECUTION_FAILURE](individuals/LEON_BLACK_PROSECUTION_FAILURE.md) | Complete prosecution failure timeline: SDNY + Manhattan DA failed to charge despite 4+ victims, FBI 302s, $62.5M USVI settlement. |
 | [LUTNICK_DUBIN_INVESTIGATION](individuals/LUTNICK_DUBIN_INVESTIGATION.md) | Howard Lutnick (single NTOC tip, financial only) and Glen Dubin (54 documents, "lent out" testimony, Eva complicit, 34+ flights). |
-| [WILLIAM_BARR_INVESTIGATION](individuals/WILLIAM_BARR_INVESTIGATION.md) | 55+ documents: NTOC tip, father hired Epstein at Dalton, Kirkland & Ellis conflict, split recusal, death investigation oversight. |
+| [WILLIAM_BARR_INVESTIGATION](individuals/WILLIAM_BARR_INVESTIGATION.md) | 55+ documents: NTOC tip, father hired Epstein at Dalton, Kirkland & Ellis conflict, split recusal, death investigation oversight. **Corrected:** OIG did publish its report in June 2023 (125+ pages located in DS9). Evan Barr (Fried Frank) distinguished from AG William Barr — separate individual with direct Epstein attorney-client relationship. |
 | [RUEMMLER_DEEP_DIVE](individuals/RUEMMLER_DEEP_DIVE.md) | Former Obama White House Counsel: 29 documents, "Clinton Obama unnecessary implication" warning, career broker relationship through May 2019. |
 | [SENATOR_MITCHELL_INVESTIGATION](individuals/SENATOR_MITCHELL_INVESTIGATION.md) | Former Senate Majority Leader: 4 evidentiary pillars, 2 independent victims, Groff/State Dept call, Mitchell's own admission. |
 | [MITCHELL_CASCADE_INVESTIGATION](individuals/MITCHELL_CASCADE_INVESTIGATION.md) | David J. Mitchell (estate co-executor): $580.5K wires, fragmentation pattern, "Cascade" code name, Mandelson connection. Separate from Senator Mitchell. |
 | [ROTHSCHILD_INVESTIGATION](individuals/ROTHSCHILD_INVESTIGATION.md) | Ariane de Rothschild's untraceable aderfam.ch channel. $25M in 2 wires bracketing EdR $45M DOJ penalty. Both $25M principals now dead. |
 | [DAVID_SHAW_INVESTIGATION](individuals/DAVID_SHAW_INVESTIGATION.md) | D.E. Shaw & Co.: Limited exposure, proposed as dinner guest only. Science dinner network architecture mapped. |
-| [JUNKERMANN_MC2_INVESTIGATION](individuals/JUNKERMANN_MC2_INVESTIGATION.md) | Nicole Junkermann: 10+ year relationship, Leon Black intro brokered, Jan 2019 island trip. MC2 stranding Russian girls in Milan, recruiting ages 13-20. |
+| [JUNKERMANN_MC2_INVESTIGATION](individuals/JUNKERMANN_MC2_INVESTIGATION.md) | Nicole Junkermann: 4,182 docs (expanded from 10+ in DS1-8), 10+ year relationship, Leon Black intro brokered, Jan 2019 island trip. MC2 stranding Russian girls in Milan, recruiting ages 13-20. |
 | [MARCINKOVA_INVESTIGATION](individuals/MARCINKOVA_INVESTIGATION.md) | Nadia Marcinkova: ZERO results for full name (systematic identity protection). $100K Aviloop wire 2 days after Miami Herald. 124 flights. NPA protected. |
 | [INVESTIGATION_1_BARR_NTOC](individuals/INVESTIGATION_1_BARR_NTOC.md) | William Barr NTOC filing deep dive -- forensic analysis of the tip and associated evidence. |
 | [INVESTIGATION_5_MAXWELL_SSN](individuals/INVESTIGATION_5_MAXWELL_SSN.md) | Maxwell NYPD firearms permit anomalies: CT-prefix SSN, military/criminal record flags. |
@@ -104,7 +106,7 @@ See the [EFTA Dataset Mapping](#efta-number-to-dataset-mapping) table at the bot
 | [ALLRED_VICTIM_INTERVIEW](victims/ALLRED_VICTIM_INTERVIEW.md) | Complete 30-page FBI evidence package: victim met Epstein at 17, 4 assaults before 18, 2 rapes, harem ideology, Brunel companion. |
 | [VICTIM_CENSUS](victims/VICTIM_CENSUS.md) | Minimum 60-80 individually identified victims, likely 200+, USVI civil suit says "hundreds." |
 | [VICTIM_LEADS_VERIFICATION](victims/VICTIM_LEADS_VERIFICATION.md) | Re-verification of Leads 7-12 including major correction on flight log modification claim. |
-| [TRAFFICKING_ROUTES_INVESTIGATION](victims/TRAFFICKING_ROUTES_INVESTIGATION.md) | Aircraft fleet, weekly cycling routes, MC2 recruitment ages 13-20, pilots modified flight logs, victim "database," CBP bypass. |
+| [TRAFFICKING_ROUTES_INVESTIGATION](victims/TRAFFICKING_ROUTES_INVESTIGATION.md) | Aircraft fleet, weekly cycling routes, MC2 recruitment ages 13-20, **corrected:** pilots did not retroactively add names to logs (explaining incomplete records), victim availability tracking, CBP bypass. |
 
 ### Evidence & Digital Forensics (9 reports)
 
@@ -113,9 +115,9 @@ See the [EFTA Dataset Mapping](#efta-number-to-dataset-mapping) table at the bot
 | [DEVICE_FORENSICS_COMPLETE](evidence/DEVICE_FORENSICS_COMPLETE.md) | 70+ devices, 2005 computer NEVER searched, DVR failure 12 days pre-death, 6 machines unexported Oct 2020. |
 | [PLIST_FORENSIC_SEARCH](evidence/PLIST_FORENSIC_SEARCH.md) | 460+ Apple Mail PLIST metadata documents, 2 email accounts, 9-year date range (2009-2018). |
 | [PLIST_REDACTED_EMAILS_DEEP_DIVE](evidence/PLIST_REDACTED_EMAILS_DEEP_DIVE.md) | 12 failed redaction overlays exposing PLIST XML: Russian/Uzbek woman, neuroscience dinner, Groff calling State Dept for Mitchell. |
-| [PLIST_TIMESTAMP_TRANSACTION_CORRELATION](evidence/PLIST_TIMESTAMP_TRANSACTION_CORRELATION.md) | 420 timestamps vs financial dates: Tudor $13.5M strongest correlation, 99-day blackout Nov 2018-Feb 2019. |
+| [PLIST_TIMESTAMP_TRANSACTION_CORRELATION](evidence/PLIST_TIMESTAMP_TRANSACTION_CORRELATION.md) | 420 timestamps vs financial dates: Tudor $13.5M strongest correlation. **Note:** The "99-day blackout" originally reported here was corrected — DS9 shows continuous email activity. |
 | [EFTA00004800_DEEP_DIVE](evidence/EFTA00004800_DEEP_DIVE.md) | FBI "Book 17" evidence binder: 98 pages of CDs/DVDs, "grapes" files blacked out alongside CSAM, ~50+ unscanned media items. |
-| [BLACKOUT_PERIOD_INVESTIGATION](evidence/BLACKOUT_PERIOD_INVESTIGATION.md) | 99-day email silence (Nov 2018 - Feb 2019): Epstein flew 8+ flights, paid $100K/$250K, trafficked victims. Signal/WhatsApp/PGP refs found. |
+| [BLACKOUT_PERIOD_INVESTIGATION](evidence/BLACKOUT_PERIOD_INVESTIGATION.md) | Investigation of the Nov 2018 - Feb 2019 period. Originally reported as 99-day email silence, **corrected**: DS9 shows continuous email activity throughout. The gap was a PLIST extraction artifact. Epstein flew 8+ flights, paid $100K/$250K during this period. |
 | [MAXWELL_FIREARMS_LICENSE_INVESTIGATION](evidence/MAXWELL_FIREARMS_LICENSE_INVESTIGATION.md) | Maxwell NYPD firearms license application investigation. |
 | [EVIDENCE_COMPILATION](evidence/EVIDENCE_COMPILATION.md) | Master evidence table: named individuals with documented victim interactions and legal status. |
 | [CORRUPTED_PDF_FORENSICS](evidence/CORRUPTED_PDF_FORENSICS.md) | **NEW:** Byte-level recovery of 5 "corrupted" DS9 PDFs. **Apple Address Book with 8 contacts** (Epstein attorney, known associates, Senegalese political figure, PI firm) + **iPhone 5s photo from Little Saint James, Aug 2014.** No prior public reporting. [Recovered files](recovered_corrupted_pdfs/github_release/) |
@@ -125,7 +127,7 @@ See the [EFTA Dataset Mapping](#efta-number-to-dataset-mapping) table at the bot
 
 | Report | Description |
 |--------|-------------|
-| [ISRAEL_DEEP_DIVE_V2](intelligence/ISRAEL_DEEP_DIVE_V2.md) | Definitive Israel report: Barak 25+ docs, 301 E 66th nexus, Kohn letters, NTOC tips. Infrastructure consistent with intel operation but no explicit service connection. |
+| [ISRAEL_DEEP_DIVE_V2](intelligence/ISRAEL_DEEP_DIVE_V2.md) | Definitive Israel report: Barak 3,756 docs (expanded from 25 in DS1-8), Carbyne 50 docs, Reporty 324 docs, Unit 8200 11 refs, 301 E 66th nexus, Kohn letters. Infrastructure consistent with intel operation but no explicit service connection. |
 | [ISRAELI_INTELLIGENCE_DEEP_DIVE](intelligence/ISRAELI_INTELLIGENCE_DEEP_DIVE.md) | Initial Israeli intelligence connections investigation across all document collections. |
 | [BIOTECH_SCIENCE_NETWORK_INVESTIGATION](intelligence/BIOTECH_SCIENCE_NETWORK_INVESTIGATION.md) | Biotech, science, and AI investment network: 95+ queries, Brockman/Edge pipeline, Church, Lloyd, Krauss, Minsky connections. |
 | [POWER_OVERLAP_SEALED_FILINGS_INVESTIGATION](intelligence/POWER_OVERLAP_SEALED_FILINGS_INVESTIGATION.md) | Power overlap, sealed filings, and evidence suppression patterns. 100+ searches across 4 document collections. |
@@ -135,7 +137,7 @@ See the [EFTA Dataset Mapping](#efta-number-to-dataset-mapping) table at the bot
 | Report | Description |
 |--------|-------------|
 | [PROSECUTION_FAILURES_ANALYSIS](institutional/PROSECUTION_FAILURES_ANALYSIS.md) | Comprehensive documentation of failed prosecutions: NPA architecture, Acosta deposition, Dershowitz self-immunity, CVRA violations, 15+ named individuals. |
-| [CBP_CORRUPTION_INVESTIGATION](institutional/CBP_CORRUPTION_INVESTIGATION.md) | CBP officer Badge #CAS03223 self-incriminated, 7+ years clearing Epstein's aircraft at St. Thomas. FBI proffer sessions Oct-Nov 2020. |
+| [CBP_CORRUPTION_INVESTIGATION](institutional/CBP_CORRUPTION_INVESTIGATION.md) | CBP officer **Timothy Routch** (Badge #CAS03223, **de-redacted via DS9**) self-incriminated, 7+ years clearing Epstein's aircraft at St. Thomas. FBI proffer sessions Oct-Nov 2020. |
 | [CBP_RUEMMLER_REMAINING_LEADS](institutional/CBP_RUEMMLER_REMAINING_LEADS.md) | CBP officer expanded investigation, Ruemmler full 15-email trail, remaining unidentified leads. |
 
 ### Art World (4 reports)

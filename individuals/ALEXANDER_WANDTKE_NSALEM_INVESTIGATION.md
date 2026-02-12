@@ -77,8 +77,8 @@ Previously, the companion document [EFTA01660679](https://www.justice.gov/epstei
 | 742907 | [EFTA01660679](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660679.pdf) | 0 | Duplicate: tip compact version |
 | 742921 | [EFTA01660679](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660679.pdf) | 3 | Duplicate: tip expanded with annotation |
 
-**Category 2: Eileen Alexanderson (Epstein associate/employee) -- 45+ records**
-Eileen Alexanderson appears extensively across ~40 unique EFTA documents. Key observations:
+**Category 2: Eileen Alexanderson (Epstein associate/employee) -- 3,548+ records (DS9/DS11 full corpus)**
+Eileen Alexanderson appears in 3,548 documents across DS9/DS11, overwhelmingly in Epstein's daily calendars as a member of the Leon Black financial team. Representative calendar entries include "Appt w/Eileen Alexanderson and team at Leon Black's" ([EFTA00284747](https://www.justice.gov/epstein/files/DataSet%209/EFTA00284747.pdf)), "JE to Go See Eileen Alexanderson and Ada Clapp at Leon Black's" ([EFTA00284793](https://www.justice.gov/epstein/files/DataSet%209/EFTA00284793.pdf)), and "Black Family Meeting: Larry Delson, Rich Joslin, Eileen Alexanderson, Ada Clapp, Rich D'Agostino, Heather Gray, Alan Dlugash, Rich Kahn, Darren" ([EFTA00284982](https://www.justice.gov/epstein/files/DataSet%209/EFTA00284982.pdf)). One entry ([EFTA00299816](https://www.justice.gov/epstein/files/DataSet%209/EFTA00299816.pdf)) mentions "Katie Newman and August Sangovese" as "Eileen Alexanderson's people" -- this "Katie" is a colleague, NOT the victim "Katie LNU" from the Alexander brothers tip. Alexanderson is NOT connected to the Alexander brothers; the surname overlap is a coincidence. Key observations from earlier databases:
 - Email: jeevacation@gmail.com (an Epstein email domain)
 - Regularly corresponds with: Lesley Groff (Epstein's executive assistant), Jeffrey Epstein, Richard Joslin, Ada Clapp, Heather Gray, Melanie Spinella
 - One record ([EFTA02137987](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02137987.pdf), id 1628841): "leen Alexanderson* 05/23/2013 07:53 -- 2:30 Jeffrey Epstein meeting" -- scheduling Epstein meetings
@@ -134,7 +134,7 @@ Only hits: [EFTA01660651](https://www.justice.gov/epstein/files/DataSet%2010/EFT
 ### "Alon" / "Allen"
 "Allen" is too common for targeted search (Amanda L. Allen at FBI, Woody Allen, etc.). "Alon" yields zero relevant hits beyond the NTOC tip.
 
-**Finding: The Alexander brothers appear in exactly 2 EFTA numbers ([EFTA01660651](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660651.pdf) and [EFTA01660679](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660679.pdf), which are the same document in two versions) and nowhere else in the entire 2.4M+ record collection across 6 databases.**
+**Finding: The Alexander brothers appear in 3 EFTA numbers: [EFTA01660651](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660651.pdf) and [EFTA01660679](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660679.pdf) (the same NTOC document in two versions), plus [EFTA01207741](https://www.justice.gov/epstein/files/DataSet%209/EFTA01207741.pdf) -- a browser screenshot from a seized device showing someone browsing Oren Alexander's photo page on BFA.com (a society photography site), specifically a photo from the 22nd Annual Watermill Center Summer Benefit (July 25, 2015). The browser tabs in the screenshot include "Inspiring Capital" and French-language settings ("Accueil"), indicating the user may be associated with that venture platform. Two additional EFTA documents reference BFA.com in Epstein's network: [EFTA00850564](https://www.justice.gov/epstein/files/DataSet%209/EFTA00850564.pdf) (Epstein emailing a BFA.com link about a "russian girl from moscow" attempting to "blackmail a group of powerful biznessman in New York") and [EFTA01198259](https://www.justice.gov/epstein/files/DataSet%209/EFTA01198259.pdf) (another seized-device Firefox screenshot browsing BFA.com). This pattern suggests BFA.com was used within Epstein's network for surveillance-style identification of individuals at society events.**
 
 ## 1d. "Katie" as Victim Reference
 
@@ -307,7 +307,7 @@ OCR text ([EFTA00004348](https://www.justice.gov/epstein/files/DataSet%203/EFTA0
 ## 3a. Primary Evidence: [EFTA00004800](https://www.justice.gov/epstein/files/DataSet%203/EFTA00004800.pdf), Pages 88-96
 
 ### Binder Cover Reference
-Page 1 of [EFTA00004800](https://www.justice.gov/epstein/files/DataSet%203/EFTA00004800.pdf) lists "WEDDING/TUCKER/N SALEM" as one of the content categories.
+Page 1 of [EFTA00004800](https://www.justice.gov/epstein/files/DataSet%203/EFTA00004800.pdf) lists "WEDDING/TUCKER/N SALEM" as one of the content categories. Full-text corpus search of DS9 reveals the complete folder label is actually **"North Salem/Kidd Wedding/Tucker"** (visible in [EFTA00245479](https://www.justice.gov/epstein/files/DataSet%209/EFTA00245479.pdf), [EFTA00245481](https://www.justice.gov/epstein/files/DataSet%209/EFTA00245481.pdf), and [EFTA00245483](https://www.justice.gov/epstein/files/DataSet%209/EFTA00245483.pdf)), adding the surname **"Kidd"** to identify the wedding couple or family.
 
 ### Wedding Photo Pages (Image Analysis Database)
 
@@ -331,7 +331,7 @@ Page 1 of [EFTA00004800](https://www.justice.gov/epstein/files/DataSet%203/EFTA0
 
 **Camera 2 (DSC -- Nikon):**
 - DSC01734.JPG through DSC01764.JPG (~30 photos)
-- Specifically labeled "North Salem/Wedding"
+- Specifically labeled "North Salem/Kidd Wedding/Tucker"
 
 **Camera 3 (DSCF -- high-resolution scans/TIF format):**
 - DSCF0001_1.TIF through DSCF0037_1.TIF (~37 images)
@@ -348,7 +348,7 @@ Page 1 of [EFTA00004800](https://www.justice.gov/epstein/files/DataSet%203/EFTA0
 | image catalog database | "Salem" or "wedding" in [EFTA00004800](https://www.justice.gov/epstein/files/DataSet%203/EFTA00004800.pdf) | **Multiple hits** (pages 1, 88-96) |
 | entity relationship database | "North Salem", "Salem", "Westchester" | **0 hits** |
 
-**Finding: "North Salem" appears ONLY in [EFTA00004800](https://www.justice.gov/epstein/files/DataSet%203/EFTA00004800.pdf) and nowhere else in the entire corpus. No emails, property records, travel records, or financial transactions mention North Salem.**
+**Finding (original databases only):** "North Salem" appeared only in [EFTA00004800](https://www.justice.gov/epstein/files/DataSet%203/EFTA00004800.pdf) in the original databases. **UPDATED:** Full-text corpus search of DS9/DS11 reveals extensive North Salem references -- the property is the **Glenn and Eva Dubin estate at 12 June Road, North Salem, NY**. See Section 3e below for the complete Dubin identification evidence and the deposition allegation that Epstein "brought young girls on multiple occasions to north salem."
 
 ## 3c. "Tucker" Search Results
 
@@ -377,7 +377,7 @@ Page 1 of [EFTA00004800](https://www.justice.gov/epstein/files/DataSet%203/EFTA0
 - **Judy Tuckerman** (person, from flight logs): Traveled on Epstein flights
 - No entity named simply "Tucker"
 
-**Assessment: The "Tucker" on the binder cover cannot be definitively matched to any known individual. Chris Tucker flew on Epstein's plane but no evidence connects him to a North Salem wedding. The Tuckermans appear in flight logs. It is possible "Tucker" is the surname of the wedding host/couple, or a folder/location designation. The identity remains unresolved.**
+**Assessment:** The "Tucker" on the binder cover cannot be definitively matched to any known individual. Chris Tucker flew on Epstein's plane but no evidence connects him to a North Salem wedding. The Tuckermans appear in flight logs. Now that the full folder label is known to be "North Salem/Kidd Wedding/Tucker" and the property is identified as the Dubin estate, "Tucker" most likely refers to a guest, family member, or the photographer associated with the wedding event itself -- not Chris Tucker, Tucker Carlson, or the Tuckermans from flight logs. The identity remains unresolved but is contextually narrowed.
 
 ## 3d. "LSJ" Reference Context
 
@@ -396,17 +396,68 @@ Within [EFTA00004800](https://www.justice.gov/epstein/files/DataSet%203/EFTA0000
 
 **This confirms the evidence binder contains material from multiple Epstein locations: LSJ (island), PB (Palm Beach), and N. Salem (North Salem wedding).**
 
-## 3e. Web Search: Epstein North Salem Connection
+## 3e. North Salem Property Identified: Glenn and Eva Dubin, 12 June Road
 
-### Results
-- **No known Epstein-owned property in North Salem, NY**
-- Epstein's documented properties: Manhattan (9 E 71st St), Palm Beach (358 El Brillo Way), Zorro Ranch (NM), Little St. James, Great St. James, Paris (22 Avenue Foch)
-- North Salem is approximately 50 miles north of Manhattan in northern Westchester County
-- Known as "Billionaires' Dirt Road" area with wealthy residents
-- No public records or reporting link Epstein to North Salem real estate
+**CORRECTION (full-text corpus revisit, 2026-02-12):** The original investigation found no Epstein-owned property in North Salem and no specific Epstein associate owning property there. The full-text corpus of DS9/DS11 definitively identifies the property as the **Glenn and Eva Dubin estate at 12 June Road, North Salem, NY.**
 
-### "North Salem" Westchester Billionaire Context
-Web search identified North Salem as an affluent area, but no specific Epstein associate was found to own property there. Notable North Salem residents have included David Koch and other wealthy figures, but no direct Epstein connection was established.
+### Property Identification Evidence
+
+| EFTA | DS | Content |
+|------|-----|---------|
+| [EFTA00300312](https://www.justice.gov/epstein/files/DataSet%209/EFTA00300312.pdf) | 9 | Formal invitation: "PLEASE JOIN EVA AND GLENN FOR DINNER & DANCING SATURDAY, JUNE 10, 2017... **12 JUNE ROAD**... North Salem, NY... SHUTTLE AVAILABLE FROM MANHATTAN" |
+| [EFTA00315414](https://www.justice.gov/epstein/files/DataSet%209/EFTA00315414.pdf) | 9 | Calendar: "Glen Dubin's Birthday Party, Cocktails 8:00pm Dinner & Dancing **12 June Road, North Salem, NY**" |
+| [EFTA02347618](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02347618.pdf) | 11 | Lesley Groff email: "Glen Dubin's office called to confirm you will NOT go to Glen's party on June 10th... 7:00pm Cocktails, 8:00pm Dinner & Dancing, **North Salem, NY**" |
+| [EFTA00669252](https://www.justice.gov/epstein/files/DataSet%209/EFTA00669252.pdf) | 9 | Eva Dubin to Epstein: "Leaving today at 4.30 for **North Salem**" (April 14, 2017) |
+| [EFTA00664138](https://www.justice.gov/epstein/files/DataSet%209/EFTA00664138.pdf) | 9 | Eva Dubin to Epstein: "I can have the couple from **North Salem** pick it up" (March 24, 2011) |
+| [EFTA01022237](https://www.justice.gov/epstein/files/DataSet%209/EFTA01022237.pdf) | 9 | Eva Dubin to Epstein: "In **North Salem** coming back tonight" (Sept 22, 2018) |
+| [EFTA02555266](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02555266.pdf) | 11 | Eva Dubin to Epstein: "**North salem**" -- reply to "Where ar you" (May 28, 2012) |
+| [EFTA02589174](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02589174.pdf) | 11 | Eva Dubin to Epstein: "**North Salem**" -- reply to "where are you?" (Aug 17, 2014) |
+| [EFTA02453633](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02453633.pdf) | 11 | Eva Dubin: "I am in **North Salem**" (Aug 28, 2016) |
+| [EFTA00784306](https://www.justice.gov/epstein/files/DataSet%209/EFTA00784306.pdf) | 9 | iMessage: Eva says "In **north salem** with Jordan maya and clay... mommy and poppy in the city with grandma" (March 30, 2019) |
+
+### Epstein Email Regarding Deposition About "Young Girls" at North Salem
+
+[EFTA00825777](https://www.justice.gov/epstein/files/DataSet%209/EFTA00825777.pdf) (DS9) contains an email from Epstein to Glenn Dubin, June 13, 2016:
+
+> *"fyi. renaldo. gave a depo and said i brought young girls on multiple occassions to north salem. nonsense but i thought you shoudl know"*
+
+Glenn Dubin's reply ([EFTA00825780](https://www.justice.gov/epstein/files/DataSet%209/EFTA00825780.pdf)), 2 minutes later:
+
+> *"uuugghh"*
+
+Duplicate copies exist in DS11 at [EFTA02459952](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02459952.pdf) and [EFTA02460024](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02460024.pdf).
+
+Epstein explicitly acknowledges that a deposition has been given alleging he brought "young girls on multiple occasions" to the Dubins' North Salem property. Epstein dismisses this as "nonsense." Dubin's single-word response does not deny the allegation.
+
+### "Renaldo" Identified as Eva Dubin's Staff Member
+
+The "Renaldo" who gave the deposition was Eva Dubin's household staff member:
+
+- [EFTA02552296](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02552296.pdf) (DS11): Lesley Groff to Epstein (March 19, 2012): *"Please confirm it is ok for Renaldo, eva's staff person, to stay at the PB house staff quarters. He would be alone and just sleep there. He knows not to go into the kitchen. March 23-25"*
+- [EFTA01212224](https://www.justice.gov/epstein/files/DataSet%209/EFTA01212224.pdf) (DS9, iMessage March 18, 2019): Epstein texts: *"renaldo a real creep"* -- Response: *"He is the worst!!!"*
+
+Renaldo had access to both the Dubins' properties and Epstein's Palm Beach house. He later gave deposition testimony stating Epstein brought young girls to North Salem.
+
+### Janusz Banasiak: Epstein Staff Placement at Dubin Property
+
+Multiple emails show Epstein placing his own employee Janusz Banasiak at the Dubins' North Salem property:
+
+| EFTA | DS | Date | Content |
+|------|-----|------|---------|
+| [EFTA00630164](https://www.justice.gov/epstein/files/DataSet%209/EFTA00630164.pdf) | 9 | Jul 29, 2016 | Epstein to Eva: "would you consdier taking janusch and his wife for north salem" |
+| [EFTA00636112](https://www.justice.gov/epstein/files/DataSet%209/EFTA00636112.pdf) | 9 | Jul 29, 2016 | Eva reply: "Yes! But I don't think they want to move from Florida...." |
+| [EFTA01058566](https://www.justice.gov/epstein/files/DataSet%209/EFTA01058566.pdf) | 9 | Dec 23, 2016 | Epstein: "do you want janusch for north salem?" |
+| [EFTA01058334](https://www.justice.gov/epstein/files/DataSet%209/EFTA01058334.pdf) | 9 | Dec 27, 2016 | Eva: "interested in exploring Janusz and Ofelia taking a couples position in North Salem" |
+
+[EFTA00040278](https://www.justice.gov/epstein/files/DataSet%209/EFTA00040278.pdf) (DS9) is a 7-page FBI 302 interview of Janusz Banasiak (October 19, 2021). Banasiak was Epstein's Palm Beach house manager (2005-2016+). Key excerpt: *"When EPSTEIN would arrive with the girls BANASIAK would try to give them space or privacy so he wouldn't answer as many phone calls during that time."* The attempt to place Banasiak -- an Epstein employee who witnessed "arriving with girls" -- at the Dubins' North Salem property is a documented staffing connection between Epstein's operations and the Dubin household.
+
+### Kevin Vanacore / Old Salem Farm
+
+[EFTA00309497](https://www.justice.gov/epstein/files/DataSet%209/EFTA00309497.pdf) (DS9) contains the resume of Kevin F. Vanacore, who was Property Manager at Old Salem Farm, North Salem, NY from 1994-1998. Documents show Epstein interviewed Vanacore via Skype in June 2012 for a property management position.
+
+### Lesley Groff Hiring Caretaker for Dubins' Property
+
+[EFTA00396552](https://www.justice.gov/epstein/files/DataSet%209/EFTA00396552.pdf) (DS9) shows Lesley Groff (Epstein's assistant) emailing about a "Caretaker for South Salem" position (January 31, 2013) for Eva Dubin, demonstrating Epstein's staff was directly involved in hiring for the Dubins' household. (South Salem is the hamlet directly adjacent to North Salem.)
 
 ## 3f. Geographic Anomaly
 
@@ -448,9 +499,11 @@ The Wandtke CD (Lead 2) and North Salem Wedding CD (Lead 3) are in the SAME evid
 **Total "NOT SCANNED" media items: 19+**
 **Total images in binder: 98 pages**
 
-## No Direct Connection Between Lead 1 and Leads 2/3
+## Lead 1 and Leads 2/3 Connection Status
 
-The Alexander brothers (Lead 1) appear only in NTOC tips documents ([EFTA01660651](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660651.pdf)/[EFTA01660679](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660679.pdf)). They have NO documented connection to [EFTA00004800](https://www.justice.gov/epstein/files/DataSet%203/EFTA00004800.pdf) or North Salem.
+The Alexander brothers (Lead 1) appear in NTOC tips documents ([EFTA01660651](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660651.pdf)/[EFTA01660679](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660679.pdf)) and in the Oren Alexander browser screenshot ([EFTA01207741](https://www.justice.gov/epstein/files/DataSet%209/EFTA01207741.pdf)). No direct connection between the Alexander brothers and the Dubin North Salem property has been established. The Alexander brothers tip describes events at "Epstein's New York residence" (9 East 71st Street), not North Salem. However, the Oren Alexander screenshot shows someone in Epstein's network browsing his society photos, and the brothers' luxury real estate business operated in the same social circuit as the Dubins. Both the Alexander brothers tip and the North Salem evidence involve allegations of bringing young women/girls to social events.
+
+The connection between Leads 2 (Wandtke) and 3 (North Salem) is now substantially strengthened: the North Salem wedding photos were taken at the Glenn and Eva Dubin property, where deposition testimony alleges Epstein brought "young girls on multiple occasions," and where Epstein attempted to place his own staff member (Banasiak, who witnessed "arriving with girls").
 
 ## "Max" Across Binders
 
@@ -507,17 +560,21 @@ Whether these are the same person cannot be confirmed.
 
 5. **Web Identity:** No public figure named "Max Wandtke" could be identified. The "wandke-photography" accounts on photo-sharing sites (without the 't') may be worth investigating.
 
-## Lead 3: North Salem Wedding -- PROPERTY AND ATTENDEES UNIDENTIFIED
+## Lead 3: North Salem Wedding -- PROPERTY IDENTIFIED, WEDDING PARTIALLY RESOLVED
 
-1. **Whose Wedding?** The redacted text on the Sony CD (page 94) likely contains the name of the wedding couple or host. The DOJ specifically redacted this.
+1. **Property Identified:** The North Salem property is the **Glenn and Eva Dubin estate at 12 June Road, North Salem, NY**. The Dubins are extensively documented Epstein associates (54+ documents in original databases, thousands in DS9/DS11, 34+ flights, "lent out" prosecution testimony).
 
-2. **"Tucker" Identity:** Whether this refers to Chris Tucker, Steve/Judy Tuckerman from flight logs, or an entirely different person named Tucker remains unresolved.
+2. **Wedding Identified as "Kidd Wedding":** Full-text corpus reveals the folder label is "North Salem/Kidd Wedding/Tucker" -- the surname **Kidd** identifies the wedding couple or family.
 
-3. **Video Evidence:** Three AVI video files from the wedding exist. These may contain audio and clearer identification of attendees than the blurred still photos.
+3. **"Tucker" Identity Narrowed:** In the context "North Salem/Kidd Wedding/Tucker" at the Dubin estate, "Tucker" most likely refers to a guest, family member, or photographer associated with the wedding -- not Chris Tucker, Tucker Carlson, or the Tuckermans.
 
-4. **Scale of Documentation:** 105+ photos from 3 cameras plus 3 videos indicates this was a significant event warranting extensive documentation.
+4. **Deposition Allegation:** [EFTA00825777](https://www.justice.gov/epstein/files/DataSet%209/EFTA00825777.pdf) documents Epstein informing Glenn Dubin that a staff member (Renaldo) gave deposition testimony alleging Epstein "brought young girls on multiple occasions to north salem."
 
-5. **NOT a Known Epstein Property:** North Salem is not among Epstein's documented real estate holdings. This was someone else's property, making the guest/host identification more important.
+5. **Staff Connections:** Epstein attempted to place his own Palm Beach house manager (Janusz Banasiak) at the Dubins' North Salem property, and Epstein's assistant (Lesley Groff) was directly involved in hiring household staff for the Dubins.
+
+6. **Video Evidence:** Three AVI video files from the wedding exist. These may contain audio and clearer identification of attendees than the blurred still photos.
+
+7. **Scale of Documentation:** 105+ photos from 3 cameras plus 3 videos indicates this was a significant event warranting extensive documentation.
 
 ---
 
@@ -535,6 +592,16 @@ Whether these are the same person cannot be confirmed.
 | [EFTA00005091](https://www.justice.gov/epstein/files/DataSet%203/EFTA00005091.pdf) | Evidence binder: LSJ photos (same labeling as [EFTA00004800](https://www.justice.gov/epstein/files/DataSet%203/EFTA00004800.pdf)) | 3 | -- |
 | [EFTA00004663](https://www.justice.gov/epstein/files/DataSet%203/EFTA00004663.pdf) | Evidence binder: "LSJ boat view" photos | 3 | -- |
 | [EFTA00037340](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037340.pdf) | FBI search warrant execution plan for LSJ | 3 | -- |
+| [EFTA01207741](https://www.justice.gov/epstein/files/DataSet%209/EFTA01207741.pdf) | Browser screenshot: Oren Alexander on BFA.com, Watermill Center Benefit 2015 | 1 | 1 p |
+| [EFTA00825777](https://www.justice.gov/epstein/files/DataSet%209/EFTA00825777.pdf) | Epstein to Glenn Dubin: "renaldo gave a depo... brought young girls... to north salem" | 3 | 1 p |
+| [EFTA00825780](https://www.justice.gov/epstein/files/DataSet%209/EFTA00825780.pdf) | Glenn Dubin reply: "uuugghh" | 3 | 1 p |
+| [EFTA00300312](https://www.justice.gov/epstein/files/DataSet%209/EFTA00300312.pdf) | Glenn Dubin birthday invitation, 12 June Road, North Salem | 3 | 1 p |
+| [EFTA00040278](https://www.justice.gov/epstein/files/DataSet%209/EFTA00040278.pdf) | FBI 302: Janusz Banasiak interview -- witnessed "arriving with girls" | 2/3 | 7 pp |
+| [EFTA02552296](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02552296.pdf) | Groff: "Renaldo, eva's staff person, to stay at PB house staff quarters" | 3 | 1 p |
+| [EFTA00245479](https://www.justice.gov/epstein/files/DataSet%209/EFTA00245479.pdf) | Evidence photos: "North Salem/Kidd Wedding/Tucker" | 3 | 2 pp |
+| [EFTA00630164](https://www.justice.gov/epstein/files/DataSet%209/EFTA00630164.pdf) | Epstein to Eva: "janusch and his wife for north salem" | 3 | 1 p |
+| [EFTA00396552](https://www.justice.gov/epstein/files/DataSet%209/EFTA00396552.pdf) | Groff hiring caretaker for Dubins' South Salem property | 3 | 2 pp |
+| [EFTA00850564](https://www.justice.gov/epstein/files/DataSet%209/EFTA00850564.pdf) | Epstein email with BFA.com link re: Russian blackmail scheme | 1 | 1 p |
 
 ---
 
@@ -563,7 +630,8 @@ Whether these are the same person cannot be confirmed.
 
 ---
 
-*Report generated: 2026-02-08*
-*Total records searched: ~2.4 million across 6 databases*
+*Report generated: 2026-02-08 (Revised 2026-02-12 with full-text corpus revisit)*
+*Total records searched: ~2.4 million across 6 databases + 1.38M full-text corpus documents (DS9/DS11)*
 *Web searches conducted: 10+*
+*Revisit new documents identified: 40+*
 *All file paths are absolute.*

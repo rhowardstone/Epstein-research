@@ -1,9 +1,9 @@
 # EVIDENCE RELIABILITY AUDIT
 # Impact of "bad_overlay" OCR Noise on Investigation Reports
 
-**Date:** 2026-02-10
+**Date:** 2026-02-10 (Revisited 2026-02-12)
 **Auditor:** Independent evidence review
-**Scope:** 8 investigation reports examined for reliance on bad_overlay data
+**Scope:** 8 investigation reports examined for reliance on bad_overlay data. **[NOTE 2026-02-12]:** At time of writing, only 8 reports existed. The investigation has since produced 98+ reports. The audit's conclusion applies to the original 8, though the methodology and 4-tier evidence system remain applicable to all subsequent reports.
 **Reference:** [DATA_QUALITY_AUDIT.md](/methodology/DATA_QUALITY_AUDIT.md) (616,233 bad_overlay records; ~98% OCR noise; ~500 clearly substantive)
 
 ---
@@ -249,10 +249,10 @@ This 3,041-line definitive report synthesizes all 10 sessions of investigation. 
 
 **bad_overlay Dependency:** NEAR-ZERO for substance. TWO specific framing issues need correction:
 
-**FRAMING ISSUE #1 (Line 28):**
+**FRAMING ISSUE #1 (Line 28) -- [STILL NEEDS CORRECTION AS OF 2026-02-12]:**
 > "The investigation recovered hidden text from beneath 1.8 million redaction overlays"
 
-This is the single most problematic sentence in the entire investigation. It implies that 1.8 million pieces of hidden text were successfully extracted from behind redaction boxes. The [DATA_QUALITY_AUDIT.md](/methodology/DATA_QUALITY_AUDIT.md) definitively shows that:
+This is the single most problematic sentence in the entire investigation. "Recovered" implies text was genuinely hidden beneath removable redactions; "extracted from OCR text layer" is more accurate. The FINAL_INVESTIGATION_REPORT revisit (#79) flagged this same framing issue. The [DATA_QUALITY_AUDIT.md](/methodology/DATA_QUALITY_AUDIT.md) definitively shows that:
 - 616,233 of these records are bad_overlay, of which ~98% are OCR noise
 - 1,192,682 are proper_redaction, of which only 2% yielded any text at all
 - The "1.8 million" figure describes records in the database table, not successfully recovered hidden content
@@ -322,6 +322,8 @@ These 12 are correctly described in the [PLIST_REDACTED_EMAILS_DEEP_DIVE.md](/ev
 ## FINDINGS THAT CAN GO TO CONGRESS WITH FULL CONFIDENCE
 
 ### TIER 1: UNIMPEACHABLE (Based on financial records, court documents, signed legal instruments)
+
+**[NOTE 2026-02-12]:** Tier 1 now also includes full_text_corpus.db text extraction (1,380,937 docs), DS9 email corpus, and transcripts.db audio transcription. Tier 2 now includes cross-references between full_text_corpus.db and v2 redaction records. The tier framework is sound but the evidence base has expanded significantly.
 
 1. **$755M in documented financial flows** -- traced from DB-SDNY Bates-stamped exhibits through financial transaction database
 2. **$168M Leon Black to Epstein entities** -- specific wire transfers with dates, amounts, source/destination entities
@@ -418,3 +420,15 @@ PROPOSED: "Text extracted from near redaction zones may contain OCR errors and s
 ---
 
 *This audit was conducted by reading the first 100-300 lines of each report, searching each report for bad_overlay/hidden-text terminology, cross-referencing evidence citations against the [DATA_QUALITY_AUDIT.md](/methodology/DATA_QUALITY_AUDIT.md) findings, and examining the actual evidence types underlying each major claim.*
+
+---
+
+## REVISIT INTEGRATION (2026-02-12)
+
+**Classification: MINOR** -- 3 corrections, all additive scope notes rather than error corrections:
+
+1. **Scope limitation:** Audit covered 8 of what are now 98+ reports. The conclusion ("no primary findings depend on OCR noise") has been validated across all 98 revisits.
+2. **"Recovered" framing:** The FINAL_INVESTIGATION_REPORT Line 28 framing issue remains uncorrected as of this revisit and should be addressed.
+3. **Expanded evidence base:** Tier 1 and Tier 2 now encompass full_text_corpus.db, transcripts.db, and cross-database verification. The framework is sound and continues to be used implicitly across all subsequent investigations.
+
+All 8 audited reports confirmed SOLID by subsequent revisits. Zero primary findings built on OCR noise confirmed across all 98 revisits.

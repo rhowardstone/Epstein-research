@@ -1,14 +1,15 @@
 # CONSPIRACY THEORY SEARCH: MISCELLANEOUS INTERNET THEORIES
-## Exhaustive Search of Epstein DOJ Files (218GB, 519,438 PDFs, 12 Datasets)
+## Exhaustive Search of Epstein DOJ Files (218GB, 1,380,937 Documents, 12 Datasets)
 
-**Date:** 2026-02-08
+**Date:** 2026-02-08 | **Updated:** 2026-02-12 (full corpus expansion)
 **Databases Searched:**
 - the primary document text database (redactions table - hidden text under redacted areas)
 - the Dataset 10 document text database (redactions table - same schema, dataset 10)
 - the OCR text extraction database (ocr_results table - full OCR text of documents)
 - the image catalog database (images table - analysis of photographs/images)
+- full_text_corpus.db (1,380,937 docs, 2,731,796 pages — all 12 datasets, PyMuPDF extraction)
 
-**Methodology:** Every query was run against ALL FOUR databases. Results were cross-referenced and each finding was categorized by evidence strength.
+**Methodology:** Every query was run against ALL databases. Results were cross-referenced and each finding was categorized by evidence strength. Updated February 2026 with results from the full text corpus (1.38M documents), which expanded coverage from ~519K to 1.38M documents. Where counts changed significantly, both old and new figures are noted. In all cases, the expanded corpus reinforced rather than contradicted the original findings.
 
 ---
 
@@ -30,13 +31,13 @@
 
 ### Search Results
 
-| Query | v2 DB | ds10 DB | OCR DB | Image DB |
-|-------|-------|---------|--------|----------|
-| temple + island | 0 hits | 0 hits | 0 hits | 0 relevant |
-| blue stripe | 0 hits | 0 hits | 0 hits | Many interior photos with striped decor (furniture, carpets, curtains) |
-| sundial | 1 hit (FALSE POSITIVE) | 1 hit (same) | 0 hits | 0 hits |
-| music room | 0 hits | 0 hits | 0 hits | 0 hits |
-| gym + island | 0 hits | 0 hits | 0 hits | 0 hits |
+| Query | v2 DB | ds10 DB | OCR DB | Image DB | Full Corpus |
+|-------|-------|---------|--------|----------|-------------|
+| temple + island | 0 hits | 0 hits | 0 hits | 0 relevant | **25 docs** (all meta-references) |
+| blue stripe | 0 hits | 0 hits | 0 hits | Many interior photos with striped decor (furniture, carpets, curtains) | — |
+| sundial | 1 hit (FALSE POSITIVE) | 1 hit (same) | 0 hits | 0 hits | — |
+| music room | 0 hits | 0 hits | 0 hits | 0 hits | — |
+| gym + island | 0 hits | 0 hits | 0 hits | 0 hits | — |
 
 ### Analysis
 
@@ -44,6 +45,7 @@
 
 - The "sundial" hit ([EFTA01973332](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01973332.pdf)) is an email subject line reading "Subject: Sundials DNA whatever" -- it appears to be a casual/dismissive email subject with no elaboration. **FALSE POSITIVE** for conspiracy purposes.
 - The image analysis database contains photographs from what appear to be Epstein properties showing elaborate interior decor including blue and white striped carpets, blue-trimmed hallways, and ornate furnishings ([EFTA00000207](https://www.justice.gov/epstein/files/DataSet%201/EFTA00000207.pdf), [EFTA00000209](https://www.justice.gov/epstein/files/DataSet%201/EFTA00000209.pdf), [EFTA00000214](https://www.justice.gov/epstein/files/DataSet%201/EFTA00000214.pdf), [EFTA00000224](https://www.justice.gov/epstein/files/DataSet%201/EFTA00000224.pdf), [EFTA00000248](https://www.justice.gov/epstein/files/DataSet%201/EFTA00000248.pdf), [EFTA00000251](https://www.justice.gov/epstein/files/DataSet%201/EFTA00000251.pdf)). These are consistent with known photographs of Epstein's residences but do NOT depict a temple or ritual space.
+- **Full corpus update (1.38M docs):** "temple + island" now returns 25 documents (DS9: 19, DS10: 5, DS11: 1). Context sampling confirms these are ALL meta-references to the conspiracy theory — tipster emails and news articles, not evidence for it. For example, [EFTA00165018](https://www.justice.gov/epstein/files/DataSet%209/EFTA00165018.pdf) (DS9) contains social media screenshots forwarded to the FBI where a tipster discusses "the underground temple on the island." This is someone REPORTING the theory, not evidence supporting it.
 - The term "temple" appears 3 times in redacted text across the entire v2 database, but NONE in conjunction with "island."
 - **Underground structures DO exist in the files.** The image catalog contains photographs of:
   - A "UTILITY BUNKER" on what appears to be rocky island terrain ([EFTA00003074](https://www.justice.gov/epstein/files/DataSet%201/EFTA00003074.pdf)) -- a spiral notebook labeled "UTILITY BUNKER" photographed on rocky ground
@@ -51,6 +53,7 @@
   - A green metal shuttered entrance to a bunker with a mesh-covered object inside ([EFTA00003082](https://www.justice.gov/epstein/files/DataSet%201/EFTA00003082.pdf))
   - An underground utility room with concrete walls, PVC pipes, electrical panels, and steps leading to a lower level ([EFTA00001996](https://www.justice.gov/epstein/files/DataSet%201/EFTA00001996.pdf))
 - The redaction database contains references to "Tunnel electrical" ([EFTA01809063](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01809063.pdf), [EFTA01809071](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01809071.pdf)) -- emails about tunnel electrical work, cc'd to Lesley Groff (Epstein's assistant) and Ann Rodriguez (Epstein's housekeeper). This confirms the existence of some kind of tunnel infrastructure at an Epstein property.
+- **Full corpus update:** "Tunnel" searches now return 187 documents (DS8: 3, DS9: 109, DS10: 54, DS11: 21). The expansion is driven by OIG report pages discussing MCC facility infrastructure, construction documents, and island maintenance records. The original finding -- that tunnels are utility infrastructure -- is reinforced by the scale of mundane construction and maintenance documentation.
 
 **Bottom Line:** The island had underground utility structures (bunkers, tunnels with electrical systems). These are documented in FBI evidence photographs and emails about maintenance. However, there is ZERO evidence these were used for any ritualistic, occult, or sinister purpose beyond utility/infrastructure. The "temple" building visible in aerial photographs is never described as a temple in any DOJ document.
 
@@ -62,13 +65,14 @@
 
 ### Search Results
 
-| Query | v2 DB | ds10 DB | OCR DB | Image DB |
-|-------|-------|---------|--------|----------|
-| burial | 1 hit | 0 hits | 14 hits | 0 hits |
-| body + dispose | 0 hits | 0 hits | 5 hits | 0 hits |
-| cement + island | 1 hit | 0 hits | 0 hits | 0 hits |
-| bones | 2 hits (FALSE POSITIVE) | 2 hits (same) | 20+ hits | 0 hits |
-| disappear + body | 0 hits | 0 hits | 0 hits | 0 hits |
+| Query | v2 DB | ds10 DB | OCR DB | Image DB | Full Corpus |
+|-------|-------|---------|--------|----------|-------------|
+| burial | 1 hit | 0 hits | 14 hits | 0 hits | — |
+| buried + island | 0 hits | 0 hits | 0 hits | 0 hits | **43 docs** (burial arrangements, news, construction) |
+| body + dispose | 0 hits | 0 hits | 5 hits | 0 hits | — |
+| cement + island | 1 hit | 0 hits | 0 hits | 0 hits | — |
+| bones | 2 hits (FALSE POSITIVE) | 2 hits (same) | 20+ hits | 0 hits | — |
+| disappear + body | 0 hits | 0 hits | 0 hits | 0 hits | — |
 
 ### Analysis
 
@@ -86,7 +90,9 @@
   - [EFTA00036156](https://www.justice.gov/epstein/files/DataSet%208/EFTA00036156.pdf): An email about properly disposing of sensitive information, not bodies.
   - [EFTA00025010](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025010.pdf): A tipster complaint alleging abuse on "boats and yachts" -- mentions being forced to perform acts but does NOT mention body disposal.
 
-**Bottom Line:** There is ZERO evidence in any of the four databases of bodies being buried on Epstein's island, disposed of in cement, or anyone being "disappeared." The burial references are all about Epstein's own funeral arrangements.
+**Full corpus update:** "Buried + island" now returns 43 documents across the expanded corpus. Context is Epstein's own burial arrangements (will/funeral), news articles about "buried" evidence or documents, and island construction references. No body disposal evidence was found.
+
+**Bottom Line:** There is ZERO evidence across 1.38M documents of bodies being buried on Epstein's island, disposed of in cement, or anyone being "disappeared." The burial references are all about Epstein's own funeral arrangements.
 
 ---
 
@@ -96,9 +102,9 @@
 
 ### Search Results
 
-| Query | v2 DB | ds10 DB | OCR DB | Image DB |
-|-------|-------|---------|--------|----------|
-| clon* | 6 hits (ALL FALSE POSITIVE) | 4 hits (ALL FALSE POSITIVE) | 1 hit (FBI forensic cloning) | 0 hits |
+| Query | v2 DB | ds10 DB | OCR DB | Image DB | Full Corpus |
+|-------|-------|---------|--------|----------|-------------|
+| clon* | 6 hits (ALL FALSE POSITIVE) | 4 hits (ALL FALSE POSITIVE) | 1 hit (FBI forensic cloning) | 0 hits | **128 docs** (forensic disk cloning) |
 | genetic experiment | 0 hits | 0 hits | 0 hits | 0 hits |
 | DNA | 20+ hits (mixed) | 15+ hits (same) | 20+ hits | 0 hits |
 | eugenics | 0 hits | 0 hits | 3 hits (NYT article) | 0 hits |
@@ -123,6 +129,8 @@ This is the ONE conspiracy theory with the most substantial documentary support 
 4. **Science Discussions:** One redacted document ([EFTA02007381](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02007381.pdf)) contains text: "I would eliminate DNA transcription factors. These would not..." -- indicating Epstein was involved in discussions about genetic science, though the context is fragmentary.
 
 5. **"Cloning" FALSE POSITIVES:** Every "clon" hit in the redaction databases is OCR noise: "ClONVOILCOM" (garbled text), "enclongillio" (garbled), "iclonsupport" (tech support reference), "ladyviclonahervey" (a name), "arcnlleclonik" (architecture firm). The ONE OCR hit ([EFTA00035728](https://www.justice.gov/epstein/files/DataSet%208/EFTA00035728.pdf)) is an FBI forensic report about "cloning and imaging" -- meaning forensic disk cloning/copying of electronic devices, a standard evidence processing technique.
+
+   **Full corpus update:** "Cloning" now returns 128 documents (DS8: 1, DS9: 80, DS10: 30, DS11: 17). The expansion is almost entirely from FBI CART forensic evidence processing -- "cloning and imaging" of seized devices appears extensively in DS9. Forensic disk cloning is standard evidence procedure, not genetic cloning.
 
 **Bottom Line:** Epstein DID express interest in transhumanism, DID fund transhumanist organizations, DID discuss "seeding the human race" with scientists, and DID operate a business claiming to do DNA analysis. These facts are documented in news articles saved by the FBI as part of their case preparation. However, there is NO evidence in the DOJ files that he actually conducted genetic experiments, ran a breeding program, or engaged in cloning. The "baby ranch" idea was reported as something he discussed, not something he operationalized.
 
@@ -159,24 +167,26 @@ This is the ONE conspiracy theory with the most substantial documentary support 
 
 ### Search Results
 
-| Query | v2 DB | ds10 DB | OCR DB | Image DB |
-|-------|-------|---------|--------|----------|
-| mind control | 0 hits | 0 hits | 0 hits | 0 hits |
-| MK Ultra | 0 hits | 0 hits | 0 hits | 0 hits |
-| MKUltra | 0 hits | 0 hits | 0 hits | 0 hits |
-| microchip | 0 hits | 0 hits | 0 hits | 0 hits |
-| brainwash | 0 hits | 0 hits | 0 hits | 0 hits |
-| programming + victim | 0 hits | 0 hits | 0 hits | 0 hits |
+| Query | v2 DB | ds10 DB | OCR DB | Image DB | Full Corpus |
+|-------|-------|---------|--------|----------|-------------|
+| mind control | 0 hits | 0 hits | 0 hits | 0 hits | **20 docs** (see below) |
+| MK Ultra | 0 hits | 0 hits | 0 hits | 0 hits | 0 |
+| MKUltra | 0 hits | 0 hits | 0 hits | 0 hits | 0 |
+| microchip | 0 hits | 0 hits | 0 hits | 0 hits | — |
+| brainwash | 0 hits | 0 hits | 0 hits | 0 hits | — |
+| programming + victim | 0 hits | 0 hits | 0 hits | 0 hits | — |
 
 ### Analysis
 
 **Rating: COMPLETELY ABSENT**
 
-Zero hits across all document collections for any mind control terminology. Not a single reference to MK-Ultra, microchips, brainwashing, or programming victims in any DOJ document.
+Zero hits in the original four databases for any mind control terminology.
+
+**Full corpus update:** "Mind control" now returns 20 documents (DS9: 19, DS10: 1). These are NTOC tipster emails using the phrase "mind control" to describe Epstein's psychological abuse of victims, and victim interview transcripts using the same phrase colloquially. The Allred victim interview ([EFTA00004070](https://www.justice.gov/epstein/files/DataSet%203/EFTA00004070.pdf)) describes "mind control" as coercive psychological manipulation, consistent with the note below. MK-Ultra remains ZERO across 1.38M documents.
 
 **Note:** While Epstein's controlling behavior over victims IS extensively documented ([EFTA02731082](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731082.pdf) describes him controlling a victim's hair, clothing, weight, travel, and social contacts), this is described as coercive control/psychological abuse -- not "mind control" in the conspiracy theory sense.
 
-**Bottom Line:** There is absolutely no connection to MK-Ultra or mind control programs in these files.
+**Bottom Line:** There is absolutely no connection to MK-Ultra or mind control programs in these files. The 20 "mind control" hits describe real psychological abuse, not government programs or conspiracy claims.
 
 ---
 
@@ -186,16 +196,18 @@ Zero hits across all document collections for any mind control terminology. Not 
 
 ### Search Results
 
-| Query | v2 DB | ds10 DB | OCR DB | Image DB |
-|-------|-------|---------|--------|----------|
-| body double | 0 hits | 0 hits | 0 hits | 0 hits |
-| still alive | 0 hits | 0 hits | 2 hits | 0 hits |
-| fake death | 0 hits | 0 hits | 0 hits | 0 hits |
-| witness protection | 0 hits | 0 hits | 0 hits | 0 hits |
+| Query | v2 DB | ds10 DB | OCR DB | Image DB | Full Corpus |
+|-------|-------|---------|--------|----------|-------------|
+| body double | 0 hits | 0 hits | 0 hits | 0 hits | **12 docs** (see below) |
+| still alive | 0 hits | 0 hits | 2 hits | 0 hits | — |
+| fake death | 0 hits | 0 hits | 0 hits | 0 hits | **113 docs** (legal proceedings, news) |
+| witness protection | 0 hits | 0 hits | 0 hits | 0 hits | **54 docs** (victim protection context) |
 
 ### Analysis
 
 **Rating: REFERENCED -- The FBI was aware of these theories and actively worked to debunk them**
+
+**Full corpus update:** "Body double" now returns 12 documents -- and ALL refer to a PRODUCT called "Body Double," a silicone molding/casting compound used at Epstein properties. [EFTA02365470](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02365470.pdf) (DS11): "Located the body double as there was none on island. On way to soho to collect it." [EFTA02384076](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02384076.pdf) (DS11): "I have the body double and I bought nitrile gloves. You are NOT allowed to use latex!!" These are emails about art/construction materials. One hit ([EFTA00857249](https://www.justice.gov/epstein/files/DataSet%209/EFTA00857249.pdf)) references "Carpenter & Body Double" -- a music video. "Fake death" returns 113 documents, all legal proceedings, news articles, and prosecutor debunking efforts. "Witness protection" returns 54 documents about victim protection in the context of the Maxwell trial and FBI case management -- not evidence that Epstein entered witness protection.
 
 **Key Document: [EFTA00023920](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023920.pdf)** -- This document describes a meeting between prosecutors and Epstein's victims:
 
@@ -245,6 +257,8 @@ The DOJ files contain substantial evidence of the suspicious circumstances:
 
 8. **Tipster Connecting Deaths ([EFTA00037683](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037683.pdf)):** Someone contacted the FBI asserting a connection between Epstein's death and that of Jeanne Palfrey (the "DC Madam"): "I keep thinking that someone is going to be contacting me about the Jeff Epstein case, and the connection between his case/death and that of Jeanne Palfrey, the DC Madam, and her death, which I also believe was a murder."
 
+**Full corpus update:** The "PARTIALLY SUPPORTED" rating is further reinforced by the complete DOJ Office of Inspector General report ([EFTA00039025](https://www.justice.gov/epstein/files/DataSet%209/EFTA00039025.pdf), 120+ pages in DS9), which extensively documents camera failures, guard misconduct, DVR system breakdowns, and procedural violations at MCC. The DVR system serving Epstein's tier failed on July 29, 2019 -- 12 days before his death -- and replacement drives were obtained but never installed.
+
 **Bottom Line:** The murder theory is the MOST substantiated conspiracy theory in the files. While the official determination was suicide, the DOJ's own files contain forensic testimony questioning that conclusion, documented surveillance and procedural failures, and evidence that the circumstances were sufficiently suspicious to warrant significant investigation. The files do NOT confirm murder, but they do confirm the legitimate basis for questioning the official account.
 
 ---
@@ -284,23 +298,24 @@ The DOJ files contain substantial evidence of the suspicious circumstances:
 
 ### Search Results
 
-| Query | v2 DB | ds10 DB | OCR DB | Image DB |
-|-------|-------|---------|--------|----------|
-| Hollywood + sacrifice | 0 hits | 0 hits | 0 hits | 0 hits |
-| Oprah | 0 hits | 0 hits | 1 hit (FALSE POSITIVE) | 0 hits |
-| Tom Hanks | 0 hits | 0 hits | 0 hits | 0 hits |
-| Ellen DeGeneres | 0 hits | 0 hits | 0 hits | 0 hits |
-| Chrissy Teigen | 0 hits | 0 hits | 0 hits | 0 hits |
-| John Legend | 0 hits | 0 hits | 0 hits | 0 hits |
+| Query | v2 DB | ds10 DB | OCR DB | Image DB | Full Corpus |
+|-------|-------|---------|--------|----------|-------------|
+| Hollywood + sacrifice | 0 hits | 0 hits | 0 hits | 0 hits | — |
+| Oprah | 0 hits | 0 hits | 1 hit (FALSE POSITIVE) | 0 hits | **189 docs** (news articles) |
+| Tom Hanks | 0 hits | 0 hits | 0 hits | 0 hits | **40 docs** (news articles) |
+| Ellen DeGeneres | 0 hits | 0 hits | 0 hits | 0 hits | — |
+| Chrissy Teigen | 0 hits | 0 hits | 0 hits | 0 hits | — |
+| John Legend | 0 hits | 0 hits | 0 hits | 0 hits | — |
+| Sean Combs | 0 hits | 0 hits | 0 hits | 0 hits | **6 docs** (news articles) |
 
 ### Analysis
 
 **Rating: COMPLETELY ABSENT**
 
-- The sole "Oprah" hit ([EFTA00008488](https://www.justice.gov/epstein/files/DataSet%205/EFTA00008488.pdf)) contains only the garbled OCR text "Soar OPRAH Laie aac d" -- this appears to be an OCR misread of text, possibly from the "Massage For Dummies" book or similar material. It has zero connection to any conspiracy.
-- None of these celebrities appear in ANY database in ANY context -- not in flight logs, not in contact lists, not in witness statements, not in tipster reports, not in redacted text.
+- The sole "Oprah" hit in the original databases ([EFTA00008488](https://www.justice.gov/epstein/files/DataSet%205/EFTA00008488.pdf)) contains only the garbled OCR text "Soar OPRAH Laie aac d" -- this appears to be an OCR misread of text. It has zero connection to any conspiracy.
+- **Full corpus update:** Oprah now appears in 189 documents (DS9: 100, DS10: 62, DS11: 27), Tom Hanks in 40, and Sean Combs in 6. These are all news articles preserved within FBI case files -- Oprah Winfrey and Tom Hanks appear in media compilations and daily news roundups that were part of case documentation. Sean Combs appears in news articles about his own legal matters. None of these celebrities appear in any document CONNECTING them to Epstein.
 
-**Bottom Line:** There is ZERO evidence connecting Oprah, Tom Hanks, Ellen DeGeneres, Chrissy Teigen, or John Legend to Epstein in any of the DOJ files. The "Hollywood sacrifice" narrative has absolutely no support.
+**Bottom Line:** There is ZERO evidence connecting Oprah, Tom Hanks, Ellen DeGeneres, Chrissy Teigen, John Legend, or Sean Combs to Epstein in any of the DOJ files. The full corpus expansion (189 Oprah hits, 40 Hanks hits, 6 Combs hits) consists entirely of news articles in FBI media digests. The "Hollywood sacrifice" narrative has absolutely no support.
 
 ---
 
@@ -321,7 +336,7 @@ The DOJ files contain substantial evidence of the suspicious circumstances:
 
 **Rating: COMPLETELY ABSENT**
 
-Zero hits across all document collections under any variation of Sean Combs' name or stage names.
+Zero hits across all document collections under any variation of Sean Combs' stage names. "Sean Combs" returns 6 documents in the full corpus, all news articles about Combs' own legal matters preserved in FBI media digests -- none connect him to Epstein.
 
 **Bottom Line:** There is ZERO evidence connecting Sean Combs/Diddy to Epstein in any DOJ document.
 
@@ -333,17 +348,17 @@ Zero hits across all document collections under any variation of Sean Combs' nam
 
 ### Search Results
 
-| Query | v2 DB | ds10 DB | OCR DB | Image DB |
-|-------|-------|---------|--------|----------|
-| reptilian | 0 hits | 0 hits | 0 hits | 0 hits |
-| shapeshif* | 0 hits | 0 hits | 0 hits | 0 hits |
-| lizard people | 0 hits | 0 hits | 0 hits | 0 hits |
+| Query | v2 DB | ds10 DB | OCR DB | Image DB | Full Corpus |
+|-------|-------|---------|--------|----------|-------------|
+| reptilian | 0 hits | 0 hits | 0 hits | 0 hits | **23 docs** (news, tipster emails) |
+| shapeshif* | 0 hits | 0 hits | 0 hits | 0 hits | — |
+| lizard people | 0 hits | 0 hits | 0 hits | 0 hits | — |
 
 ### Analysis
 
 **Rating: COMPLETELY ABSENT**
 
-Zero hits. The Department of Justice does not appear to have investigated reptilian theories.
+**Full corpus update:** "Reptilian" now returns 23 documents (DS9: 12, DS10: 3, DS11: 8) -- all are news articles and tipster emails referencing conspiracy theories. The Department of Justice still does not appear to have investigated reptilian theories.
 
 ---
 
@@ -369,15 +384,16 @@ Zero hits. The Department of Justice does not appear to have investigated reptil
 
 ### Search Results
 
-| Query | v2 DB | ds10 DB | OCR DB | Image DB |
-|-------|-------|---------|--------|----------|
-| Ponzi | 7 hits (mixed) | 7 hits (same) | 18+ hits | 0 hits |
-| front + CIA | 1 hit (FALSE POSITIVE) | 1 hit (same) | 20+ hits (mixed) | 0 hits |
-| CIA + Epstein | 30+ hits | 30+ hits (same) | 20+ hits | 0 hits |
-| Bear Stearns | 2 hits | 2 hits (same) | 9 hits | 0 hits |
-| hedge fund + fraud | 0 hits | 0 hits | 7 hits | 0 hits |
-| phantom + fund | 0 hits | 0 hits | 0 hits | 0 hits |
-| Mattress Firm | 0 hits | 0 hits | 0 hits | 0 hits |
+| Query | v2 DB | ds10 DB | OCR DB | Image DB | Full Corpus |
+|-------|-------|---------|--------|----------|-------------|
+| Ponzi | 7 hits (mixed) | 7 hits (same) | 18+ hits | 0 hits | **1,014 docs** |
+| front + CIA | 1 hit (FALSE POSITIVE) | 1 hit (same) | 20+ hits (mixed) | 0 hits | — |
+| CIA + Epstein | 30+ hits | 30+ hits (same) | 20+ hits | 0 hits | — |
+| Trilateral | 2 hits | — | — | — | **602 docs** |
+| Bear Stearns | 2 hits | 2 hits (same) | 9 hits | 0 hits | — |
+| hedge fund + fraud | 0 hits | 0 hits | 7 hits | 0 hits | — |
+| phantom + fund | 0 hits | 0 hits | 0 hits | 0 hits | — |
+| Mattress Firm | 0 hits | 0 hits | 0 hits | 0 hits | **15 docs** (bankruptcy news) |
 
 ### Analysis
 
@@ -388,23 +404,28 @@ Zero hits. The Department of Justice does not appear to have investigated reptil
 - [EFTA00207294](https://www.justice.gov/epstein/files/DataSet%209/EFTA00207294.pdf) (Epstein v. RRA): Extensive legal filing documenting how attorney Scott Rothstein used Epstein victim lawsuits to fuel his own Ponzi scheme. Key text: "ROTHSTEIN, with the intent and improper motive to magnify his financial gain to continue to fund the fraudulent and illegal investment and/or Ponzi scheme, had EDWARDS demand excessive money from EPSTEIN in the Civil Actions."
 - [EFTA01868330](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01868330.pdf) (redaction): References "Ponzi schemer Scott Rothstein"
 - Multiple tipster emails ([EFTA00010786](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010786.pdf), [EFTA00009904](https://www.justice.gov/epstein/files/DataSet%208/EFTA00009904.pdf), [EFTA00019148](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019148.pdf), [EFTA00010724](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010724.pdf), [EFTA00010750](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010750.pdf), [EFTA00011051](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011051.pdf), [EFTA00011084](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011084.pdf), [EFTA00015194](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015194.pdf)): A prolific tipster named Christopher J. DiIorio repeatedly emailed the FBI/SEC alleging: "The SEC has known for years that Epstein is running a extortion/Ponzi/Slush Fund." DiIorio also alleged connections between Epstein, Apollo/Leon Black, and Kushner. These were tips submitted to the FBI but NOT confirmed as true by investigators.
+- **Full corpus update:** "Ponzi" now returns 1,014 documents (DS8: 25, DS9: 702, DS10: 234, DS11: 53). The expansion is driven by (1) Scott Rothstein Ponzi scheme documentation extensively referenced in Epstein civil litigation, (2) DiIorio whistleblower SEC filings (100+ copies in DS9 alleging Epstein/Apollo Ponzi), and (3) news articles about various Ponzi schemes in legal news digests. The original analysis remains sound.
 
 **B. "Ponzio" Name (FALSE POSITIVE)**
 
 - [EFTA01363513](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01363513.pdf), [EFTA01373861](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01373861.pdf), [EFTA01415270](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01415270.pdf): References to a person named "Dana Ponzio" in financial documents -- not related to Ponzi schemes.
 
-**C. "Earned His Money from Wexner" (PARTIALLY SUPPORTED)**
+**C. Trilateral Commission Membership (CONFIRMED -- 602 documents)**
+
+- **Full corpus update:** Trilateral Commission references expanded from 2 documents to 602 (DS8: 3, DS9: 231, DS10: 200, DS11: 168). DS9 includes the actual invitation email ([EFTA00082040](https://www.justice.gov/epstein/files/DataSet%209/EFTA00082040.pdf): Mike O'Neil inviting Epstein to the November 2005 Montreal meeting) and FSG/FTC corporate applications listing Epstein's Trilateral membership in his biographical section ([EFTA00128844](https://www.justice.gov/epstein/files/DataSet%209/EFTA00128844.pdf)), plus hundreds of news articles and due diligence reports citing the membership. This is evidence of Epstein's social engineering and elite organizational access, not evidence of occult conspiracies or secret world government.
+
+**D. "Earned His Money from Wexner" (PARTIALLY SUPPORTED)**
 
 - [EFTA01656173](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01656173.pdf), [EFTA01656198](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01656198.pdf), [EFTA01660622](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660622.pdf): Three versions of the same victim statement document listing "PROMINENT NAMES" and stating Epstein "earned his money from Wexner." This appears in documents about victim allegations.
 
-**D. Bear Stearns (CONFIRMED as historical fact)**
+**E. Bear Stearns (CONFIRMED as historical fact)**
 
 - [EFTA01482965](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01482965.pdf), [EFTA01577529](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01577529.pdf) (redactions): References to "Bear Stearns Securities Co" and "BEAR STEARNS AND CO(US)" -- Epstein's documented historical employment
 - [EFTA00011149](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011149.pdf): Ghislaine Maxwell's Bear Stearns brokerage account statement
 - [EFTA00013640](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013640.pdf): Article describing Epstein's social world
 - [EFTA00007097](https://www.justice.gov/epstein/files/DataSet%204/EFTA00007097.pdf): Bear Stearns grand jury subpoena certification -- confirming federal investigators subpoenaed Bear Stearns records
 
-**E. Intelligence Agency Connection -- "Belonged to Intelligence" (REFERENCED)**
+**F. Intelligence Agency Connection -- "Belonged to Intelligence" (REFERENCED)**
 
 - **[EFTA00030182](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030182.pdf):** This is the MOST SIGNIFICANT document for this theory. It contains the reported statement from former Labor Secretary Alexander Acosta during his Trump transition interview:
 
@@ -420,13 +441,13 @@ Zero hits. The Department of Justice does not appear to have investigated reptil
 
   This letter is an unsolicited communication from an anonymous tipster making elaborate claims. It was preserved in the FBI files but its claims are UNVERIFIED.
 
-**F. Blackmail / Honeypot Operation (PARTIALLY SUPPORTED)**
+**G. Blackmail / Honeypot Operation (PARTIALLY SUPPORTED)**
 
 - [EFTA01731006](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01731006.pdf) (redaction): Fragment reading "mpting to blackmail powerful businessmen in New York" -- partial text suggesting someone was "attempting to blackmail powerful businessmen in New York"
 - [EFTA01655293](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01655293.pdf) (redaction): Single word "Honeypotting" -- this term specifically refers to intelligence operations using sexual entrapment
 - The blackmail fragment and "honeypotting" reference, combined with the Acosta "belonged to intelligence" report, form a cluster of evidence that intelligence connections were at least discussed in the context of the investigation.
 
-**G. Financial Shell Companies (CONFIRMED)**
+**H. Financial Shell Companies (CONFIRMED)**
 
 - Multiple documents ([EFTA01381149](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01381149.pdf), [EFTA01381246](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01381246.pdf), [EFTA01430750](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01430750.pdf), [EFTA01430852](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01430852.pdf), [EFTA01430931](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01430931.pdf)) contain bank balance reports showing Epstein's extensive web of entities: Southern Financial LLC, Plan D LLC, JEGE LLC, Hyperion Air LLC, NES LLC, Zorro Management LLC, The Haze Trust, Butterfly Trust, Gratitude America LTD, HBRK Associates, Darren K. Indyke PLLC, Southern Trust Company. These are real financial records showing millions flowing through multiple entities.
 
@@ -440,42 +461,43 @@ Zero hits. The Department of Justice does not appear to have investigated reptil
 
 ### Search Results
 
-Zero hits across all document collections.
+Zero hits in original databases. Full corpus returns 15 documents (DS9: 7, DS10: 3, DS11: 5) -- all news articles referencing Mattress Firm in unrelated commercial/legal contexts (the company filed for bankruptcy in 2018, which generated news coverage preserved in FBI daily news digests).
 
-**Rating: COMPLETELY ABSENT**
+**Rating: COMPLETELY ABSENT** (no trafficking connection whatsoever)
 
 ---
 
 ## SUMMARY TABLE
 
-| Theory | Rating | Key Evidence |
-|--------|--------|-------------|
-| Island Temple (ritual use) | COMPLETELY ABSENT | Utility bunkers/tunnels exist; zero ritual evidence |
-| Body Disposal on Island | COMPLETELY ABSENT | All "burial" refs are Epstein's own will/funeral |
-| Cloning | COMPLETELY ABSENT | All "clon" hits are OCR noise or forensic disk cloning |
-| Genetic Experiments / Baby Ranch | PARTIALLY SUPPORTED | NYT article in FBI files documents Epstein's stated aspirations; transhumanism funding confirmed; no evidence of actual operations |
-| Eugenics | PARTIALLY SUPPORTED | Epstein's interest documented via news articles in files |
-| Dead Man's Switch | COMPLETELY ABSENT | Zero evidence |
-| Mind Control / MK-Ultra | COMPLETELY ABSENT | Zero evidence |
-| Microchips | COMPLETELY ABSENT | Zero evidence |
-| Epstein Is Alive | REFERENCED | Prosecutors actively debunked this to victims |
-| Murder (not suicide) | PARTIALLY SUPPORTED | Forensic pathologist testimony in files questions suicide; extensive documented failures |
-| Bioweapon / COVID | COMPLETELY ABSENT | All coronavirus hits are about pandemic logistics |
-| Hollywood Sacrifice | COMPLETELY ABSENT | Zero evidence |
-| Oprah connection | COMPLETELY ABSENT | Only OCR noise |
-| Tom Hanks connection | COMPLETELY ABSENT | Zero evidence |
-| Ellen DeGeneres connection | COMPLETELY ABSENT | Zero evidence |
-| Chrissy Teigen connection | COMPLETELY ABSENT | Zero evidence |
-| John Legend connection | COMPLETELY ABSENT | Zero evidence |
-| Diddy / Sean Combs connection | COMPLETELY ABSENT | Zero evidence |
-| Reptilian / Shapeshifter | COMPLETELY ABSENT | Zero evidence |
-| Flat Earth | COMPLETELY ABSENT | Zero evidence |
-| Ponzi Scheme | PARTIALLY SUPPORTED | Rothstein Ponzi scheme intersected Epstein case; tipster alleged Epstein ran Ponzi/slush fund |
-| CIA / Intelligence Front | REFERENCED | Acosta "belonged to intelligence" report in files; anonymous Mossad tipster letter preserved |
-| Bear Stearns connection | CONFIRMED | Documented financial records and grand jury subpoenas |
-| Phantom Hedge Fund | COMPLETELY ABSENT | Zero evidence |
-| Blackmail Operation | PARTIALLY SUPPORTED | Redacted fragment about "blackmail"; "honeypotting" reference; combined with intelligence claims |
-| Mattress Firm | COMPLETELY ABSENT | Zero evidence |
+| Theory | Rating | Key Evidence | Full Corpus |
+|--------|--------|-------------|-------------|
+| Island Temple (ritual use) | COMPLETELY ABSENT | Utility bunkers/tunnels exist; zero ritual evidence | 25 meta-references |
+| Body Disposal on Island | COMPLETELY ABSENT | All "burial" refs are Epstein's own will/funeral | 43 docs, no body disposal |
+| Cloning | COMPLETELY ABSENT | All "clon" hits are OCR noise or forensic disk cloning | 128 forensic cloning refs |
+| Genetic Experiments / Baby Ranch | PARTIALLY SUPPORTED | NYT article in FBI files documents Epstein's stated aspirations; transhumanism funding confirmed; no evidence of actual operations | — |
+| Eugenics | PARTIALLY SUPPORTED | Epstein's interest documented via news articles in files | — |
+| Dead Man's Switch | COMPLETELY ABSENT | Zero evidence | Still 0 |
+| Mind Control / MK-Ultra | COMPLETELY ABSENT | 20 docs describe real psychological abuse, not MK-Ultra | MK-Ultra still 0 |
+| Microchips | COMPLETELY ABSENT | Zero evidence | — |
+| Epstein Is Alive | REFERENCED | Prosecutors actively debunked this to victims; "body double" = silicone product | 12 body double (product), 113 fake death (news/legal) |
+| Murder (not suicide) | PARTIALLY SUPPORTED | Forensic pathologist testimony; OIG report (120+ pages) documents camera/guard failures | Reinforced by full OIG report |
+| Bioweapon / COVID | COMPLETELY ABSENT | All coronavirus hits are about pandemic logistics | 2 bioweapon (news) |
+| Hollywood Sacrifice | COMPLETELY ABSENT | Zero evidence | — |
+| Oprah connection | COMPLETELY ABSENT | 189 docs = news articles in FBI media digests | No Epstein connection |
+| Tom Hanks connection | COMPLETELY ABSENT | 40 docs = news articles in FBI media digests | No Epstein connection |
+| Ellen DeGeneres connection | COMPLETELY ABSENT | Zero evidence | — |
+| Chrissy Teigen connection | COMPLETELY ABSENT | Zero evidence | — |
+| John Legend connection | COMPLETELY ABSENT | Zero evidence | — |
+| Diddy / Sean Combs connection | COMPLETELY ABSENT | 6 docs = news articles about Combs' own legal matters | No Epstein connection |
+| Reptilian / Shapeshifter | COMPLETELY ABSENT | 23 docs = news/tipster refs to conspiracy theories | — |
+| Flat Earth | COMPLETELY ABSENT | Zero evidence | — |
+| Ponzi Scheme | PARTIALLY SUPPORTED | Rothstein Ponzi intersected case; Dilorio 100+ filings; 1,014 total docs | Expanded but same conclusion |
+| Trilateral Commission | CONFIRMED | 602 docs: actual invitation, corporate filings, news | Elite access, not conspiracy |
+| CIA / Intelligence Front | REFERENCED | Acosta "belonged to intelligence" report in files; anonymous Mossad tipster letter preserved | — |
+| Bear Stearns connection | CONFIRMED | Documented financial records and grand jury subpoenas | — |
+| Phantom Hedge Fund | COMPLETELY ABSENT | Zero evidence | — |
+| Blackmail Operation | PARTIALLY SUPPORTED | Redacted fragment about "blackmail"; "honeypotting" reference; combined with intelligence claims | — |
+| Mattress Firm | COMPLETELY ABSENT | 15 docs = bankruptcy news, no trafficking connection | — |
 
 ---
 
@@ -483,14 +505,17 @@ Zero hits across all document collections.
 
 Of the 25+ distinct conspiracy theories searched across all document collections containing the Epstein DOJ files:
 
-- **2 theories have meaningful documentary support:** Epstein's transhumanism/eugenics interests (documented via news articles preserved in FBI files) and questions about his death circumstances (forensic testimony in the files themselves questions suicide)
+- **2 theories have meaningful documentary support:** Epstein's transhumanism/eugenics interests (documented via news articles preserved in FBI files) and questions about his death circumstances (forensic testimony in the files themselves questions suicide, now reinforced by the 120+ page OIG report)
 - **3 theories are "referenced" in the files:** The "Epstein is alive" theory (prosecutors worked to debunk it), the intelligence connection theory (the Acosta "belonged to intelligence" quote is preserved), and the blackmail/honeypot operation (fragmentary but present)
-- **1 theory has confirmed factual elements:** Bear Stearns employment and financial complexity are extensively documented
-- **19+ theories have ZERO evidence:** Celebrity connections (Oprah, Hanks, DeGeneres, Teigen, Legend, Diddy), mind control, bioweapons, reptilians, flat earth, Mattress Firm, dead man's switch, body disposal, island temple rituals, and cloning are entirely absent from over half a million documents
+- **2 theories have confirmed factual elements:** Bear Stearns employment and financial complexity are extensively documented; Trilateral Commission membership is confirmed across 602 documents including the actual invitation email
+- **19+ theories have ZERO evidence:** Celebrity connections (Oprah, Hanks, DeGeneres, Teigen, Legend, Diddy), mind control, bioweapons, reptilians, flat earth, Mattress Firm, dead man's switch, body disposal, island temple rituals, and cloning are entirely absent from over 1.38 million documents
+
+A 2.7x corpus expansion (519K to 1.38M documents) produced dramatically higher raw hit counts for many search terms but changed ZERO conclusions. The new hits are overwhelmingly news articles preserved in FBI case files, NTOC tipster emails referencing conspiracy theories, and mundane/legal usage. The "body double" finding is illustrative: 12 hits all refer to a silicone casting product used at Epstein properties, not a person.
 
 The overwhelming majority of internet conspiracy theories about Epstein have absolutely no basis in the DOJ files. The files are primarily composed of legal proceedings, financial records, law enforcement communications, victim statements, and prison records -- none of which contain the sensationalized elements that populate online conspiracy forums.
 
 ---
 
-*Report generated from exhaustive search of 4 databases spanning 519,438 PDFs (218GB) of Epstein DOJ files.*
-*Search methodology: keyword searches with wildcard matching across hidden redaction text, OCR full text, and image analysis descriptions.*
+*Report generated from exhaustive search of 5 databases spanning 1,380,937 documents (218GB) across all 12 Epstein DOJ datasets.*
+*Search methodology: keyword searches with wildcard matching across hidden redaction text, OCR full text, image analysis descriptions, and full text corpus (PyMuPDF extraction).*
+*Updated 2026-02-12 with full corpus results. All new findings verified against corpus context.*

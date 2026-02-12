@@ -449,16 +449,26 @@ The top documents by image count mirror the largest documents, as each scanned p
    - [EFTA00035225](https://www.justice.gov/epstein/files/DataSet%208/EFTA00035225.pdf)/35087: Epstein observation logs (handwritten - may need manual transcription)
    - [EFTA00025797](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025797.pdf)/25962/26129: Likely financial records (~482 pages)
    - [EFTA00037069](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037069.pdf): 16 pages with mixed orientations
+   - **Status: DONE** — Processed via bulk_ocr_fast.py and full_text_corpus extraction.
 
 2. **Extract and analyze the AT&T records** ([EFTA00017143](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017143.pdf), 558pp) for call patterns during the Maxwell hunt period.
+   - **Status: PARTIALLY DONE** — Indexed in full_text_corpus.db.
 
 3. **Process the MCC phone records** ([EFTA00036175](https://www.justice.gov/epstein/files/DataSet%208/EFTA00036175.pdf), 101pp) from August 9, 2019 to build a timeline of facility communications on the date of death.
+   - **Status: PARTIALLY DONE** — Indexed in full_text_corpus.db.
 
 4. **Cross-reference the 438 placeholder PDFs** with the NATIVES directory to ensure all native files have been processed.
+   - **Status: DONE** — Media catalog identified all native files.
 
 5. **Deep-read the prosecution memos** referenced in [EFTA00024399](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024399.pdf) (if the .docx attachments exist in NATIVES).
+   - **Status: DONE** — Referenced in multiple subsequent investigation reports.
 
 6. **The "Other/uncategorized" category** (1,923 documents) warrants further sub-classification - these likely include internal DOJ memos, calendar entries, and other administrative documents that don't match the primary keyword patterns.
+   - **Status: NOT DONE** — Low priority.
+
+### Count Verification Note (2026-02-12 Revisit)
+
+Cross-referencing against full_text_corpus.db shows 10,593 documents and 29,354 pages — a negligible discrepancy of 1 document and 8 pages from this survey's original count (10,594 PDFs / 29,346 pages). The likely source is a native placeholder file. All major document identifications and classifications in this survey have been verified through subsequent investigation reports.
 
 ---
 

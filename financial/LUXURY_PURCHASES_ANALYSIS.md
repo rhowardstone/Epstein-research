@@ -16,7 +16,7 @@ The redaction database reveals a significant art acquisition apparatus. Epstein 
 - **"@christies.com"** ([EFTA02029291](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02029291.pdf), ds10) -- Direct email communications with Christie's auction house personnel.
 
 ### Specific Artworks and Transactions
-- **"Rothko painting"** ([EFTA01786553](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01786553.pdf), ds10) -- Subject line referencing a Mark Rothko painting. Rothko works routinely sell for $20M-$80M+. This is among the most significant art-related finds in the database.
+- **"Rothko painting"** ([EFTA01786553](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01786553.pdf), ds10) -- Subject line referencing a Mark Rothko painting. **UPDATE (2026-02-12):** DS9 reveals the specific Rothko was valued at **$46,000,000** in a Gagosian Gallery trade-in for a $48M Picasso ([EFTA00592810](https://www.justice.gov/epstein/files/DataSet%209/EFTA00592810.pdf)). Epstein personally managed the transaction strategy: "ask withers and gagosian if they can find an accomodator to take the rothko" ([EFTA00646622](https://www.justice.gov/epstein/files/DataSet%209/EFTA00646622.pdf)). Separately, Epstein brokered Mort Zuckerman's $50M+ Rothko sale: Ralph Lerner to Epstein: "I do have someone looking for a private, off the radar, purchase... take 50 million plus off the table" ([EFTA00368138](https://www.justice.gov/epstein/files/DataSet%209/EFTA00368138.pdf)). Additionally, Ghislaine Maxwell personally owned a Rothko confirmed in 2002 correspondence ([EFTA00578619](https://www.justice.gov/epstein/files/DataSet%209/EFTA00578619.pdf)).
 - **"Painting from Brinsley and Julie arri[ved]"** ([EFTA01998728](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01998728.pdf), ds10) -- A painting arriving from individuals named Brinsley and Julie, suggesting private art dealer transactions.
 - **"Quote for Shipping Painting from Pari[s]"** -- This subject line appears in FOUR separate redaction entries ([EFTA02125762](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02125762.pdf), [EFTA02125922](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02125922.pdf), [EFTA02125992](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02125992.pdf), [EFTA02126033](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02126033.pdf), all ds10), indicating multiple paintings were being shipped from Paris to Epstein properties.
 - **"The painting is framed and va[lued at...]"** ([EFTA02126033](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02126033.pdf) and [EFTA02125922](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02125922.pdf), ds10) -- Appraisal/valuation of a framed painting, amount redacted.
@@ -31,6 +31,27 @@ The redaction database reveals a significant art acquisition apparatus. Epstein 
 - **"Gallery [listing/directory]"** ([EFTA01954050](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01954050.pdf), [EFTA02184200](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02184200.pdf), ds10) -- Gallery listings and directory references.
 - **"Rose Drive, Fort Lauderdale... Gallery Building"** ([EFTA01735665](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01735665.pdf), ds10) -- Another Florida gallery connection.
 
+### Gagosian Gallery (Added 2026-02-12 -- DS9 evidence, not in original report)
+
+DS9 reveals Gagosian Gallery as the primary art dealer for the Epstein-Black relationship, handling transactions totaling at minimum $163M:
+
+- **$48M Picasso / $46M Rothko trade-in** ([EFTA00592810](https://www.justice.gov/epstein/files/DataSet%209/EFTA00592810.pdf)): Gagosian invoice (Jan 4, 2013): Picasso "Mateu Fernandez de Soto" purchased for $48,000,000, less $46,000,000 trade-in credit for a Rothko "Untitled" (1961). Buyer: Black Family 1997 Trust.
+- **$115M Picasso "Buste de femme"** ([EFTA01072368](https://www.justice.gov/epstein/files/DataSet%209/EFTA01072368.pdf)): Balance sheet footnote: "$86.25mm deposit with Gagosian Gallery for Picasso's 'Buste de Femme.' One remaining installment of $28.75mm is due."
+- **Epstein CC'd on negotiations** ([EFTA00622832](https://www.justice.gov/epstein/files/DataSet%209/EFTA00622832.pdf)): Elysium Management memo CC'd to Jeffrey Epstein alongside Bradley Wechsler, with Gagosian lawyer comments on the Picasso Agreement of Sale.
+
+### Leon Black Financial Infrastructure (Added 2026-02-12 -- DS9 evidence)
+
+DS9 provides the first visibility into the financial scale Epstein was managing for Black:
+
+- **$2.97 billion art collection** ([EFTA01072368](https://www.justice.gov/epstein/files/DataSet%209/EFTA01072368.pdf)): Complete Black Family Composite Balance Sheet (Dec 31, 2015): Total Net Worth $4,752,691,000. Art: $2,973,640,000 (Fine Art $2,418.8M + Chinese Bronzes $198.4M + SE Asia $26.2M + Rare Books $176.6M + Jewelry $67.4M + Deposit $86.25M). Bank of America art loan: $565,000,000.
+- **$695M art loan** ([EFTA00299513](https://www.justice.gov/epstein/files/DataSet%209/EFTA00299513.pdf)): Estate plan overview (Jun 30, 2016): "Loan payable-Bank of America (Art): $695,000,000."
+- **Real estate portfolio** ([EFTA01072368](https://www.justice.gov/epstein/files/DataSet%209/EFTA01072368.pdf)): 760 Park Ave NYC ($29M), 70th St. Townhouse ($55.9M), Meadow Lane Southampton ($50.2M), Miami Condo ($16.5M). Total: $200M.
+
+### Ralph Lerner / Art World Advisors (Added 2026-02-12 -- DS9 evidence)
+
+- Lerner brokered "off the radar" $50M+ Rothko sale through Epstein for Zuckerman ([EFTA00368138](https://www.justice.gov/epstein/files/DataSet%209/EFTA00368138.pdf))
+- Lerner reconnected with Epstein after his law license was reinstated ([EFTA00693639](https://www.justice.gov/epstein/files/DataSet%209/EFTA00693639.pdf), Nov 2015)
+
 ### Jean-Luc Brunel / MC2 Model Management (Art/Modeling Crossover)
 - Full MC2 Model Management bio recovered from [EFTA01728258](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01728258.pdf): Jean-Luc Brunel's modeling agency (discovered Christie Turlington, worked with Sharon Stone, Milla Jovovich, etc.) operated from New York, Miami, and Tel Aviv. This was the gateway through which Epstein accessed the fashion and art world.
 
@@ -40,7 +61,7 @@ The redaction database reveals a significant art acquisition apparatus. Epstein 
 
 ### Diamond Transactions
 - **"Subject: Diamond Ring"** -- Email to Richard Kahn, cc'd "Brown, Kendall" ([EFTA01961137](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01961137.pdf), ds10). Richard Kahn was Epstein's co-executor and financial manager. A diamond ring purchase going through Epstein's financial apparatus.
-- **"blue diamond"** -- Multiple email chains: [EFTA02054163](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02054163.pdf), [EFTA02052061](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02052061.pdf), [EFTA02053706](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02053706.pdf), [EFTA02053979](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02053979.pdf) (all ds10). Four separate emails about a "blue diamond" -- a rare and extraordinarily expensive category of gems. Top blue diamonds sell for $30M-$50M+.
+- **"blue diamond"** -- Multiple email chains: [EFTA02054163](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02054163.pdf), [EFTA02052061](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02052061.pdf), [EFTA02053706](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02053706.pdf), [EFTA02053979](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02053979.pdf) (all ds10). **UPDATE (2026-02-12):** DS9 identifies the specific blue diamond: the **Shirley Temple Blue Diamond** (9.54 carats), which sold at Sotheby's in April 2016 for **$22.3 million**. Calendar entry: "CANCELLED 4:30pm View the Shirley Temple Blue Diamond at Sotheby's with Woody and Soon Yi. Meet Frank Everett in the lobby" ([EFTA00285182](https://www.justice.gov/epstein/files/DataSet%209/EFTA00285182.pdf)). Epstein planned to view one of the world's most famous colored diamonds with Woody Allen and Soon-Yi Previn.
 - **"Diamond B Investments"** ([EFTA01421742](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01421742.pdf), ds10) -- An entity called Diamond B Investments, possibly an Epstein-linked investment vehicle.
 - **"Antiques, Diamond... Ebay Live Auction To[day]... To include an extensive collection of an[tiques]"** and **"antique & estate jewelry"** ([EFTA01682184](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01682184.pdf), ds10) -- Reference to antiques and estate jewelry auctions.
 
@@ -78,7 +99,7 @@ Massive chain of escrow-related emails involving Darren Indyke (Epstein attorney
 ## 4. LUXURY VEHICLES, YACHTS, AND BOATS
 
 ### Yacht Management
-- **"www.wilsonyachtmanagement.com"** -- Appears in at least 15 separate redaction entries ([EFTA01807453](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01807453.pdf), [EFTA01807598](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01807598.pdf), [EFTA01808596](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01808596.pdf), [EFTA01807192](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01807192.pdf), [EFTA01807874](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01807874.pdf), [EFTA01746459](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01746459.pdf), [EFTA01807229](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01807229.pdf), [EFTA01807348](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01807348.pdf), [EFTA01807521](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01807521.pdf), [EFTA01807896](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01807896.pdf), [EFTA01808451](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01808451.pdf), [EFTA01808512](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01808512.pdf), [EFTA01809300](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01809300.pdf), ds10). Wilson Yacht Management was clearly managing one or more vessels for Epstein's network. The sheer volume of entries indicates ongoing, intensive yacht management.
+- **"www.wilsonyachtmanagement.com"** -- Appears in at least 15 separate redaction entries ([EFTA01807453](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01807453.pdf), [EFTA01807598](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01807598.pdf), [EFTA01808596](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01808596.pdf), [EFTA01807192](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01807192.pdf), [EFTA01807874](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01807874.pdf), [EFTA01746459](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01746459.pdf), [EFTA01807229](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01807229.pdf), [EFTA01807348](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01807348.pdf), [EFTA01807521](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01807521.pdf), [EFTA01807896](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01807896.pdf), [EFTA01808451](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01808451.pdf), [EFTA01808512](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01808512.pdf), [EFTA01809300](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01809300.pdf), ds10). **UPDATE (2026-02-12):** DS9 identifies the vessel as **STARFIRE**, a 178-foot 1997 Benetti motor yacht (built by Azimut Spa, Viareggio, Italy). Complete 36-page marine survey in [EFTA01080045](https://www.justice.gov/epstein/files/DataSet%209/EFTA01080045.pdf) (Oct 2013): steel hull, aluminum superstructure, 5 decks, twin Deutz MWM 1,056kW diesel engines, 75-bottle Eurocave wine cellar. Owner: BJAV Marine Limited (Grand Cayman) -- a Leon Black entity. Purchased in 2011 for $21.15M, appraised at $26M, carried at $16.5M on Black's balance sheet ([EFTA01072368](https://www.justice.gov/epstein/files/DataSet%209/EFTA01072368.pdf)), financed through a $16.5M Bank of America loan.
 - **"www.churchillyachts.com"** ([EFTA01806835](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01806835.pdf), ds10) -- Churchill Yachts, another yacht broker/management firm.
 - **"Diversified Yacht Services"** ([EFTA01580539](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01580539.pdf), ds10) -- Yet another yacht services company.
 - **"www.igy americanyachtharbor"** ([EFTA01802571](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01802571.pdf), ds10) -- IGY American Yacht Harbor (Island Global Yachting), located in St. Thomas, USVI -- near Little St. James Island.
@@ -98,7 +119,7 @@ Massive chain of escrow-related emails involving Darren Indyke (Epstein attorney
 - **"http://www.paris.mercedes.fr"** ([EFTA01388894](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01388894.pdf), ds10) -- Mercedes Paris dealership, suggesting vehicle purchases in France.
 - **"Re: mercedes repairs"** ([EFTA02188940](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02188940.pdf), ds10).
 - **"Reveal of Bentley Fly[ing Spur?]"** ([EFTA01971854](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01971854.pdf), ds10) -- Invitation to a Bentley vehicle reveal event.
-- **"Rolls Royce Corp. Care"** -- Referenced in Gulfstream IVSP listing ([EFTA01989258](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01989258.pdf), ds10) as engines on Rolls Royce Corporate Care program.
+- **"Rolls Royce Corp. Care"** -- Referenced in Gulfstream IVSP listing ([EFTA01989258](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01989258.pdf), ds10). **UPDATE (2026-02-12):** DS9 clarifies these are **Rolls Royce model 250-C40B aircraft engines** on Bell helicopters, not automobiles. The Bell 430 helicopter (S/N 49078, N901RL) was purchased with two Rolls Royce engines via Bovale Developments Inc. ([EFTA00284127](https://www.justice.gov/epstein/files/DataSet%209/EFTA00284127.pdf)). The full aircraft fleet includes: a Sikorsky S-76C helicopter (N722JE, nicknamed "Air Ghislaine 2"), a Bell 407 (N491GM), the Bell 430 (N901RL), and a Gulfstream (per pilot testimony in [EFTA00068582](https://www.justice.gov/epstein/files/DataSet%209/EFTA00068582.pdf)). Maxwell held a private pilot certificate for rotorcraft (issued 10/2/2007).
 
 ### Aircraft
 - **"1997 Gulfstream IVSP - S/N: 1305 -- Now Asking: $12,995,000 USD"** ([EFTA01989258](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01989258.pdf), ds10) -- A Gulfstream IV-SP for sale at nearly $13 million, with 5,923 hours, Rolls Royce engines, paint/interior by Duncan Aviation.
@@ -117,6 +138,7 @@ Massive chain of escrow-related emails involving Darren Indyke (Epstein attorney
 - **"Elodie BRISEBARRE/INTL/FR/HERMES"** -- Appears in FOUR separate entries ([EFTA02113803](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02113803.pdf), [EFTA02113080](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02113080.pdf), [EFTA02113732](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02113732.pdf), [EFTA02113835](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02113835.pdf), ds10). Elodie Brisebarre was an international Hermes representative in regular contact with the Epstein operation.
 - **"Re: Hermes internship Bid"** ([EFTA02193149](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02193149.pdf), ds10) -- An "internship bid" at Hermes, possibly arranging positions for young women.
 - **"Your Hermes la Mais[on]"** ([EFTA01930190](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01930190.pdf), ds10) -- Hermes La Maison (homeware/luxury living) order.
+- **UPDATE (2026-02-12):** DS9 reveals deeper Hermes connections: (1) A 2018 mass Apple Watch/Hermes gifting operation ([EFTA00285604](https://www.justice.gov/epstein/files/DataSet%209/EFTA00285604.pdf)/[EFTA00285607](https://www.justice.gov/epstein/files/DataSet%209/EFTA00285607.pdf)) -- 30+ recipients of Hermes-edition Apple Watches ($1,300-$1,500 each) including Kathy Ruemmler (former Obama WH Counsel, who chose "bleu indigo swift leather double tour"), Martin Nowak, Jack Goldberger, Larry Visoski, Darren Indyke, and others. (2) A member of the Hermes founding family -- Valesca Guerrand-Hermes -- appears in the Maxwell/Epstein personal contact directory ([EFTA00191467](https://www.justice.gov/epstein/files/DataSet%209/EFTA00191467.pdf)).
 
 ### Chanel
 - **"[poss]ible chanel look etc"** ([EFTA01847449](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01847449.pdf), ds10) -- Styling discussion referencing Chanel.
@@ -142,6 +164,9 @@ Massive chain of escrow-related emails involving Darren Indyke (Epstein attorney
 - **"RE: Wine list" / "Re: Wine list"** ([EFTA01807555](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01807555.pdf), [EFTA01807611](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01807611.pdf), ds10) -- Wine list correspondence, likely for yacht or property stocking.
 - **"Alert: order wine"** ([EFTA02163415](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02163415.pdf), ds10) -- Wine ordering alert.
 - **"9 E 71st St Cellar Drain Pi[ping]"** ([EFTA01829330](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01829330.pdf), ds10) -- Wine cellar infrastructure at the Manhattan townhouse.
+
+### Dom Perignon / Scientist Dinners (Added 2026-02-12 -- DS9 evidence)
+- **Dom Perignon at scientist dinners** ([EFTA00085684](https://www.justice.gov/epstein/files/DataSet%209/EFTA00085684.pdf)): NYT article in SDNY clips: "Scientists gathered at dinner parties at Mr. Epstein's Manhattan mansion, where Dom Perignon and expensive wines flowed freely, even though Mr. Epstein did not drink."
 
 ### Napa Wine Events (Deutsche Bank)
 - **"Napa wine event - Oct. 24-26"** -- Appears in SIX separate entries ([EFTA01387904](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01387904.pdf), [EFTA01388492](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01388492.pdf), [EFTA01435308](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01435308.pdf), [EFTA01436043](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01436043.pdf), [EFTA01437514](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01437514.pdf), [EFTA01387906](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01387906.pdf), ds10). Deutsche Bank hosted wine events in Napa Valley that Epstein was invited to attend.
@@ -354,19 +379,21 @@ Epstein's luxury spending served three interlocking purposes:
 3. **Grooming and Control Infrastructure**: Hermes purchases ("would you like another valentino?"), apartment rentals, tuition payments, car and furniture payments, and direct cash to young women with Eastern European surnames -- all represent the material scaffolding of a trafficking operation. The gifts created dependency. The luxury created allure. The financial control ensured silence.
 
 ### Key Financial Relationships Exposed
-- **Leon Black**: $158M in payments, $1B+ in tax savings
+- **Leon Black**: $158M+ in payments, $1B+ in tax savings. **DS9 update**: Epstein managed a $2.97B art collection, $695M BofA art loan, $200M real estate portfolio; $118M+ documented in Exhibit A wire transfers
+- **Gagosian Gallery** (DS9): $163M+ in identified Epstein-brokered art transactions for Black (Picasso, Rothko trade-ins)
+- **Sotheby's**: $22.8M to Haze Trust (2017); appraised Black's art collection; Shirley Temple Blue Diamond viewing
+- **Christie's**: $7.725M to Haze Trust (2017); 40+ work appraisal for Black's Noel Calb LLC entity ($57.7M)
 - **Jes Staley (JP Morgan)**: Wine procurement, personal relationship
 - **Deutsche Bank**: Full KCP treatment, event invitations, real estate financing
 - **Richard Kahn / Darren Indyke**: Financial executors handling diamonds, escrow, gifts
-- **Wilson Yacht Management**: 15+ entries, intensive vessel management
-- **Hermes (Elodie Brisebarre)**: 4+ entries, ongoing luxury fashion relationship
-- **Sotheby's (Christine Gibbons)**: Art transactions tied to properties
+- **STARFIRE yacht** (DS9): 178-foot Benetti, BJAV Marine Ltd. (Leon Black entity), $16.5M on balance sheet
+- **Hermes**: Retail purchases + founding family (Guerrand-Hermes) in contact book + 2018 Apple Watch gifting ($25K-$50K total)
 - **ADP Payroll**: Formal payroll infrastructure across entities
 
 ### What Was Being Hidden
 The redactions in this database were not random. The pattern of what was concealed reveals:
 - **Names of women receiving payments** (tuition, apartments, cars, furniture)
-- **Dollar amounts on art and jewelry** (Rothko painting value, blue diamond value, painting appraisals)
+- ~~**Dollar amounts on art and jewelry** (Rothko painting value, blue diamond value, painting appraisals)~~ **DS9 update (2026-02-12):** Now identified -- Rothko valued at $46M, Picasso at $48M, Shirley Temple Blue Diamond at $22.3M, Picasso "Buste de femme" at $115M, Black's total art collection at $2.97B
 - **Specific property transactions** ($13M appraisal, 116 E. 65th St. analysis)
 - **Euro purchase amounts and recipients**
 - **The full scope of cash disbursements** ($2.4M/month concealed)

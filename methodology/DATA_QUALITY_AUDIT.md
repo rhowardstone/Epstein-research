@@ -1,9 +1,11 @@
 # DATA QUALITY AUDIT: "bad_overlay" Redaction Records
 
-**Database:** the primary document text database
-**Date:** 2026-02-10
+**Database:** the primary document text database (v2 redaction database, 1.8M records)
+**Date:** 2026-02-10 | **Updated:** 2026-02-12
 **Auditor:** Systematic analysis of document text records
 **Purpose:** Determine what fraction of "bad_overlay" records contain genuinely recoverable hidden text vs. OCR noise from degraded scans.
+
+**Scope Note (added 2026-02-12):** This audit was conducted against the v2 redaction database only. The subsequently completed full_text_corpus.db (1,380,937 documents, 2,731,796 pages across all 12 datasets) provides a parallel, more reliable text extraction method (PyMuPDF). The audit's conclusions about bad_overlay noise are confirmed by subsequent analysis: the "bad_overlay" label reflects garbled OCR of baked-in JPEG redaction bars, not actual hidden text beneath annotation-type redactions. Per REDACTION_TEXT_LAYER_ANALYSIS.md, DS10's PDFs use invisible OCR text layers (Text Rendering Mode 3 at 96 DPI), and the black boxes are baked JPEG pixels, not PDF annotation overlays. Zero annotation-type (Method 1) redactions were found across the entire corpus.
 
 ---
 
@@ -297,6 +299,8 @@ Despite the noise, there ARE records of genuine significance. The longest record
 The detection algorithm appears to have been run with very aggressive sensitivity, causing it to flag any OCR artifact near a dark region as a "bad overlay with hidden text." This produced a 98% false positive rate.
 
 **Recommendation:** Create a curated subset of bad_overlay records where `LENGTH(hidden_text) > 100 AND confidence > 0.95` (approximately 3,500 records) and manually review those. Everything else should be considered noise unless specifically investigated.
+
+**Update (2026-02-12):** This curation recommendation was implemented via HIDDEN_TEXT_COMPLETE_REVIEW.md (report #95). However, the full_text_corpus.db now provides a more reliable text extraction path for most documents -- PyMuPDF captures the same invisible OCR text layer without the false positive problem. The curation recommendation was sound for its time but is now secondary to full corpus search via full_text_corpus.db.
 
 ---
 

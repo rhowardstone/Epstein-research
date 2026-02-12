@@ -22,6 +22,15 @@ The Epstein DOJ files reveal a forensic evidence operation of staggering scope -
 - **A 2005 Palm Beach computer forensic image** on 16 DVDs that was never searched due to lack of legal authority
 - **2,100 nude/partially nude images** from devices designated "Highly Confidential"
 - **The FBI CART examiner was reduced to 1 day per week** during COVID, stretching timelines by "a factor of 5"
+- **Evidence review still ongoing as of April 2025** -- 6 years after seizure
+
+**March-July 2025 FBI Evidence Review (DS9 expansion):** Internal communications between Director Patel, DD Bongino, AUSAs, and FBI NY provide definitive FBI conclusions:
+
+- **No sexual abuse videos found -- ever** ([EFTA00164742](https://www.justice.gov/epstein/files/DataSet%209/EFTA00164742.pdf)): AUSA Comey explicitly stated to Director Patel and DD Bongino: "there were no videos of any sexual abuse identified at any point in the investigation."
+- **Over 1 million images/videos extracted from devices** ([EFTA00164897](https://www.justice.gov/epstein/files/DataSet%209/EFTA00164897.pdf), [EFTA00161426](https://www.justice.gov/epstein/files/DataSet%209/EFTA00161426.pdf)): ~34,000 marked responsive (85 GB), 15-20 CSAM images (commercial, not self-produced), ~90% adult pornography/erotica, ~9% generic images
+- **Camera-in-clock practice documented to 2003** ([EFTA00157526](https://www.justice.gov/epstein/files/DataSet%209/EFTA00157526.pdf)): Palm Beach PD burglary report -- 2 years before the 2005 sex trafficking investigation
+- **MCC surveillance: 147 cameras, 8.08 TB** ([EFTA00164855](https://www.justice.gov/epstein/files/DataSet%209/EFTA00164855.pdf)): SHU cameras not active at time of death
+- **Epstein received an unmonitored phone call the night before his death** ([EFTA00061927](https://www.justice.gov/epstein/files/DataSet%209/EFTA00061927.pdf)): Recipient never identified
 
 ---
 
@@ -286,6 +295,8 @@ Per [EFTA00030562](https://www.justice.gov/epstein/files/DataSet%208/EFTA0003056
 - Final report with images was prepared for production
 - This was the **phone seized from Epstein upon arrest** at Teterboro Airport on July 6, 2019
 
+**Cellebrite Processing Anomaly ([EFTA00089804](https://www.justice.gov/epstein/files/DataSet%209/EFTA00089804.pdf)):** Cellebrite extracted **205,000+ images that "all look empty"** from iPhone 1B71. An analyst asked: "Is it possible that FBI removed some photos beforehand if they were cp?" Additionally, 1,107 emails were withheld as potentially privileged. The blank images could result from corrupted data, encrypted thumbnails, deleted images leaving empty placeholder files, or processing artifacts. The analyst's question about prior FBI removal is documented but unresolved.
+
 ### D. iPads
 
 Per [EFTA00028481](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028481.pdf) and [EFTA00018089](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018089.pdf):
@@ -294,7 +305,38 @@ Per [EFTA00028481](https://www.justice.gov/epstein/files/DataSet%208/EFTA0002848
 - Data was extracted and sent for privilege review
 - A separate drive was created containing data from "several of Epstein's phones and ipads"
 
-### E. Steve Bannon's iPhone (Cross-case discovery)
+### E. Definitive FBI Accounting: March-July 2025 Evidence Review (DS9 Expansion)
+
+In 2025, newly appointed FBI Director Patel and Deputy Director Bongino requested a complete accounting of all Epstein evidence from FBI NY field office. DS9 contains the resulting internal communications.
+
+**No Sexual Abuse Videos Found ([EFTA00164742](https://www.justice.gov/epstein/files/DataSet%209/EFTA00164742.pdf), March 21, 2025):**
+AUSA Maurene Comey's response to Director Patel and DD Bongino:
+> "There were no videos of any sexual abuse identified at any point in the investigation."
+> Over ONE MILLION images/videos reviewed. FBI had no legal authority to seize 2019 surveillance videos from residences.
+> Nude photos of victims -- "victims are alone in these photos." No males present.
+
+**Definitive Content Breakdown ([EFTA00164897](https://www.justice.gov/epstein/files/DataSet%209/EFTA00164897.pdf), July 10, 2025 Director's Call; [EFTA00161426](https://www.justice.gov/epstein/files/DataSet%209/EFTA00161426.pdf)):**
+
+| Category | Amount | Percentage |
+|----------|--------|------------|
+| Total images/videos extracted from devices | 1,000,000+ | 100% |
+| Marked responsive | ~34,000 | ~3.4% |
+| Highly Responsive Material | 85 GB | -- |
+| CSAM (commercial, NOT self-produced) | 15-20 images | <0.001% |
+| Adult pornography/erotica/"age-difficult" | ~30,600 | ~90% of responsive |
+| Personal or generic internet images | ~3,060 | ~9% of responsive |
+
+**Victim Accusations Against Others ([EFTA00164897](https://www.justice.gov/epstein/files/DataSet%209/EFTA00164897.pdf)):** "Approximately 4-5 victims accused other adult men sexually abused them. There was not enough evidence to federally charge these individuals, so the cases were referred to local law enforcement." Also: "Approximately 4-5 victims accused other adult women to have taken part in sexual abuse (threesomes with the minor), including Epstein's girlfriend who was approximately 18-20 years of age at the time."
+
+**Evidence Items Seized:** "sex toys, massage tables, framed photos, photo albums, thumb drives, hard drives, computers, tapes, CDs/DVDs, iPads, personal documents, notes, writing tablets/binders, clothing items, logbooks, contact lists, blueprints."
+
+**Evidence Custody ([EFTA00164740](https://www.justice.gov/epstein/files/DataSet%209/EFTA00164740.pdf), March 21, 2025):** All evidence seized in the 50D (sex trafficking) and 90A (death investigation) cases remains in FBI custody. CART creates 2 bit-for-bit copies of all digital evidence.
+
+**Devices Still Under Review April 2025 ([EFTA00164855](https://www.justice.gov/epstein/files/DataSet%209/EFTA00164855.pdf)):** 6 years after seizure, device examination had not been fully completed.
+
+**DOJ Conclusions ([EFTA00163550](https://www.justice.gov/epstein/files/DataSet%209/EFTA00163550.pdf), July 2025):** DOJ concluded "no incriminating client list," no evidence of blackmail. AG Bondi stated many videos "turned out to be child porn" and will "never be released. Never going to see the light of day." DOJ reviewed "more than 300 gigabytes of data."
+
+### F. Steve Bannon's iPhone (Cross-case discovery)
 
 Per [EFTA00025553](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025553.pdf), [EFTA00030999](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030999.pdf):
 - During the **We Build the Wall (WBTW)** case review, an FBI reviewer was examining **Steve Bannon's iPhone 7 on Cellebrite**
@@ -311,7 +353,7 @@ Per [EFTA00025553](https://www.justice.gov/epstein/files/DataSet%208/EFTA0002555
 This is arguably the most critical forensic failure in the entire case.
 
 ### The DVR System Architecture:
-- **192 total cameras** at MCC New York
+- **147 total cameras** at MCC New York ([EFTA00164855](https://www.justice.gov/epstein/files/DataSet%209/EFTA00164855.pdf)) -- total video data: **8.08 TB**
 - **128 cameras** assigned to recording
 - **DVR 1:** 16 hard drives, operational, data available 7/23 - 8/10/2019
   - 2 camera angles of interest recorded to DVR 1
@@ -357,7 +399,38 @@ Per [EFTA00023970](https://www.justice.gov/epstein/files/DataSet%208/EFTA0002397
 
 All documented as: "Submission of CART Evidence [number]: One (1) [make/model] from MCC Nice Vision DVR2 Surveillance System ([X] of 18)"
 
-**Result: The 3 of 4 cameras covering the SHU where Epstein died had NO recoverable recordings from after July 29, 2019.**
+**Result: The 3 of 4 cameras covering the SHU where Epstein died had NO recoverable recordings from after July 29, 2019.** Per [EFTA00164855](https://www.justice.gov/epstein/files/DataSet%209/EFTA00164855.pdf): "Cameras in SHU not active at time of death."
+
+### Contraband Phone — Inmate Michael Thomas, NOT Epstein ([EFTA00164855](https://www.justice.gov/epstein/files/DataSet%209/EFTA00164855.pdf))
+
+Device 1B46, previously listed in the CART inventory as an "EMTEC 16GB USB," was clarified in April 2025: it was actually a **contraband phone** belonging to **Inmate Michael Thomas**, not Epstein. An 80 GB Cellebrite report was generated, but nothing in the extraction related to Epstein.
+
+### Unmonitored Phone Call -- Night Before Death ([EFTA00061927](https://www.justice.gov/epstein/files/DataSet%209/EFTA00061927.pdf), [EFTA00115642](https://www.justice.gov/epstein/files/DataSet%209/EFTA00115642.pdf), [EFTA00115744](https://www.justice.gov/epstein/files/DataSet%209/EFTA00115744.pdf))
+
+Multiple OIG interview transcripts document extensive questioning about an **unmonitored phone call** provided to Epstein on August 9, 2019 -- the night before his death:
+
+> "This call was done on an unmonitored line."
+> "It is extremely concerning why this call would have been placed, and why it would be done on an unmonitored line."
+> "All inmate phone calls are recorded. So, why would an employee go on their own and provide a phone call to an offender?"
+> "It could have potentially led to the incident, but we don't, we will never know."
+
+A male answered the phone and it was "handed off." The investigation never identified who Epstein spoke with.
+
+### MCC Document Shredding -- Full Text ([EFTA00068331](https://www.justice.gov/epstein/files/DataSet%209/EFTA00068331.pdf))
+
+FBI Crisis Intake memorandum, August 16, 2019 (6 days after Epstein's death):
+> "4-5 bags of shredded documents" produced by BOP After-Actions team.
+> Staff member said: "this isn't the first time I've had to do things like this."
+
+Related documents: [EFTA00078396](https://www.justice.gov/epstein/files/DataSet%209/EFTA00078396.pdf) (OIG forwarding the shredding report), [EFTA00092927](https://www.justice.gov/epstein/files/DataSet%209/EFTA00092927.pdf) (USAO response: "Can we take a look at the dumpster ASAP?"), [EFTA00089106](https://www.justice.gov/epstein/files/DataSet%209/EFTA00089106.pdf) (internal research into 18 USC 1519 elements -- obstruction statute for document destruction). The urgency of the dumpster request and the 18 USC 1519 research indicates prosecutors took the shredding allegation seriously.
+
+### TRUSCOPE Count Failures ([EFTA00039972](https://www.justice.gov/epstein/files/DataSet%209/EFTA00039972.pdf), [EFTA00064553](https://www.justice.gov/epstein/files/DataSet%209/EFTA00064553.pdf), [EFTA00092920](https://www.justice.gov/epstein/files/DataSet%209/EFTA00092920.pdf))
+
+FD-302 interview confirming:
+> "There were no entries of counts in TRUSCOPE the entire night."
+> "If technology is down, the Correctional Officers also [are required to maintain manual counts]."
+
+The 3:00 AM and 5:00 AM counts -- designed to "physically count and confirm each person in each cell" -- were not recorded. Combined with the DVR failure timeline, this establishes a complete surveillance blackout at MCC on the night of Epstein's death.
 
 ---
 
@@ -611,6 +684,18 @@ The inability to link emails to their attachments in the initial 1.1 million doc
 ### 10. 400 TB Deletion Order
 The FBI CART team was ordered to "delete old stuff (about 400 TB worth)" during their network replacement. While this appears to reference general FBI data management rather than Epstein evidence specifically, the timing during active evidence processing raises questions.
 
+### 11. Camera-in-Clock Practice -- 2003 Origin ([EFTA00157526](https://www.justice.gov/epstein/files/DataSet%209/EFTA00157526.pdf))
+Palm Beach Police Department report from 2003 documents a burglary at 358 El Brillo Way (Epstein's Palm Beach residence). Epstein had purchased a spy camera from a store on Okeechobee Boulevard and concealed it "in a clock in his office" to catch a suspected thief. The camera successfully recorded the suspect at 4:28 AM with $4,000 in bait money involved. This is the earliest documented instance of Epstein's camera-in-clock practice -- **2 full years before** the 2005 sex trafficking investigation. It establishes surveillance expertise, equipment procurement channels, and contextualizes the later contradiction between the FBI CID finding of "no cameras found in bedrooms" ([EFTA00038617](https://www.justice.gov/epstein/files/DataSet%209/EFTA00038617.pdf)) and the Maxwell prosecution memo stating "Epstein had cameras in his clock" ([EFTA02731226](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02731226.pdf)).
+
+### 12. NARA Unauthorized Destruction Investigation ([EFTA00172146](https://www.justice.gov/epstein/files/DataSet%209/EFTA00172146.pdf))
+In April 2025, the National Archives and Records Administration (NARA) investigated an ex-FBI agent whistleblower's claims that "people inside the FBI have been working night and day to destroy files on these servers." NARA contacted FBI's Information Management Division (IMD), which contacted INSD (Internal Security Division). **INSD declined to investigate** without more specific allegations. IMD hit a "dead end." OGC/CDC was to draft a response. This is the only documented federal investigation into potential evidence destruction -- and it was effectively killed by the refusal to act without specifics.
+
+### 13. Senator Blackburn Evidence Request -- Unanswered ([EFTA00161477](https://www.justice.gov/epstein/files/DataSet%209/EFTA00161477.pdf), [EFTA00161474](https://www.justice.gov/epstein/files/DataSet%209/EFTA00161474.pdf))
+Senator Marsha Blackburn sent a letter to Director Patel on February 24, 2025, requesting complete flight logs from Epstein's private jet and helicopter, any records in Maxwell's possession containing names of individuals, and additional items. FBI internal email from May 6, 2025: "Did we ever get the response?" -- "I did not." As of May 2025, the FBI had not responded to a sitting Senator's formal request for Epstein evidence -- 10 weeks after the letter was sent.
+
+### 14. FBI Redaction of Trump Name ([EFTA00163673](https://www.justice.gov/epstein/files/DataSet%209/EFTA00163673.pdf))
+Bloomberg reported that the FBI FOIA team "played a central role in redacting former President Donald Trump's name -- and the names of other high-profile individuals -- from the Epstein investigation files" using FOIA privacy exemptions.
+
 ---
 
 ## APPENDIX A: DOCUMENT REFERENCE INDEX
@@ -705,4 +790,6 @@ The FBI CART team was ordered to "delete old stuff (about 400 TB worth)" during 
 
 ---
 
-*This report was compiled from systematic search of 4 databases using 16+ search terms across the complete Epstein DOJ document corpus. All EFTA document references are verifiable within the source databases.*
+*Report compiled: 2026-02-07 | Updated 2026-02-12 with DS9/DS11 full corpus findings (1,380,937 documents)*
+*Databases searched: 4 primary databases + full_text_corpus.db*
+*Key updates: March-July 2025 FBI evidence review (no sex abuse videos, 15-20 commercial CSAM, 85 GB responsive), camera-in-clock 2003 origin, MCC 147 cameras/8.08 TB, contraband phone = Inmate Thomas, iPhone 205K blank images, MCC shredding full text, unmonitored phone call Aug 9, NARA destruction investigation, Senator Blackburn request unanswered, DOJ 2025 conclusions, FBI Trump name redaction*

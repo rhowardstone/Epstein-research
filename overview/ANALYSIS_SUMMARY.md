@@ -94,7 +94,7 @@ Per Wexner's lawyers' attorney proffer:
 - Jean Luc Brunel (died in custody)
 - Glen Dubin
 - Leon Black
-- Jes Staley
+- Jes Staley (subsequently classified by prosecutors as among "Individuals Who Have Engaged in Massages with Epstein Girls" per [EFTA00098755](https://www.justice.gov/epstein/files/DataSet%209/EFTA00098755.pdf); 2 violent rape accusations documented in [EFTA00090717](https://www.justice.gov/epstein/files/DataSet%209/EFTA00090717.pdf))
 - Prince Andrew (settled civil case for reported $12M+)
 - Alan Dershowitz
 
@@ -140,5 +140,19 @@ Evidence folders include:
 
 ---
 
-*Analysis conducted February 2, 2026*
+---
+
+## REVISIT CORRECTIONS (2026-02-12)
+
+1. **"Cuomo" on Prominent Names page:** The "Cuomo" referenced on the FBI Prominent Names page ([EFTA01660622](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660622.pdf)) is a **victim surname** (Tony Cuomo, [EFTA02696360](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02696360.pdf) -- invited to Epstein's NY house in January 2012), not former Governor Andrew Cuomo.
+
+2. **Leon Black $158 million:** This figure is the Senate Finance Committee's stated number from their letter ([EFTA02731023](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731023.pdf)). Independent analysis of Deutsche Bank wire exhibits ([EFTA00080260](https://www.justice.gov/epstein/files/DataSet%209/EFTA00080260.pdf)) documents $118.5M+ through bank records, with the total potentially reaching higher through additional channels. The $158M figure has not been independently verified by DOJ exhibits.
+
+3. **Jes Staley evidence strengthened:** Staley was classified by prosecutors as among "Individuals Who Have Engaged in Massages with Epstein Girls" ([EFTA00098755](https://www.justice.gov/epstein/files/DataSet%209/EFTA00098755.pdf)), alongside Glenn Dubin. Two violent rape accusations are documented in [EFTA00090717](https://www.justice.gov/epstein/files/DataSet%209/EFTA00090717.pdf).
+
+4. **Victim count expanded:** Subsequent investigations confirmed minimum 60-80 individually identified victims, likely 200+ total.
+
+---
+
+*Analysis conducted February 2, 2026 (Revised 2026-02-12 with full-text corpus revisit corrections)*
 *Documents publicly released by DOJ per Epstein Files Transparency Act*

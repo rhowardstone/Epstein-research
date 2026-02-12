@@ -17,7 +17,7 @@ The cover page (page 1) reveals the binder's organizational categories:
 - **LSJ/BOAT** (Little Saint James island / boat)
 - **PB** (Palm Beach)
 - **MISC CLOUDS**
-- **WEDDING/TUCKER/N SALEM** (North Salem, NY -- Epstein property area)
+- **WEDDING/TUCKER/N SALEM** (North Salem, NY -- subsequently identified as the **"Kidd Wedding"**; see Section 3D)
 - **BOOK 17** (sequential evidence binder number)
 
 This document is part of a sequential series: [EFTA00004663](https://www.justice.gov/epstein/files/DataSet%203/EFTA00004663.pdf) is "Book 16" (containing LSJ BOAT VIEWS, MALLORCA, CANCER BENEFIT, LSJ XMAS 04, JEAN LUC ZORRO) and [EFTA00005091](https://www.justice.gov/epstein/files/DataSet%203/EFTA00005091.pdf) is "Book 20" (containing LSJ WATER, 29 BDAY, LSJ XMAS05, LSJ/PUERTO RICO/GUANA, PINTO HOUSE PICS, CLOUDS, BRAZIL, MISC, LSJ AERIAL, WALTER CRONKITE, ST. BARTS, CHATEAU VILLETTE, CHATEAU GUERAMENTES, LSJ SUNSETS, PARIS 07, TAOS SKIING).
@@ -51,10 +51,16 @@ This document is part of a sequential series: [EFTA00004663](https://www.justice
 The binder documents **at least 23 optical media items** (CDs and DVDs) that were seized but either not scanned or flagged as containing CSAM:
 
 **CSAM-Flagged Media (2 items):**
-1. **Page 20:** CSAM NOT SCANNED -- "Official DocLab Instruction(s) -- Revised March 10th, 2025." Handwritten note partially legible. This is a **blue placeholder sheet** inserted by DocLab indicating the preceding CD/DVD contained child sexual abuse material and was segregated from scanning.
-2. **Page 79:** CSAM NOT SCANNED -- "Official DocLab Instruction(s) -- Revised March 10th, 2025." Handwritten note reads what appears to be "Pict" (possibly "Pictures" or a count). Same blue placeholder format.
+1. **Page 20:** CSAM NOT SCANNED -- "Official DocLab Instruction(s) -- Revised March 10th, 2025." Handwritten note partially legible. This is a DocLab "kicksheet" -- a blue placeholder inserted where CSAM was found during scanning.
+2. **Page 79:** CSAM NOT SCANNED -- "Official DocLab Instruction(s) -- Revised March 10th, 2025." Handwritten note reads what appears to be "Pict" (possibly "Pictures" or a count). Same kicksheet format.
 
-**CRITICAL NOTE:** The revision date of March 10, 2025 on the CSAM sheets is significant -- this is **after** the 2019 arrest and **after** the initial 2019-2021 evidence processing. This aligns with [EFTA00039019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00039019.pdf)'s finding that CSAM was discovered during the 2023 estate settlement, meaning these CSAM designations were applied retroactively during re-review of evidence, not during initial processing. The DocLab instruction was revised as recently as March 2025.
+**DocLab Protocol Confirmed**: The kicksheet system is explicitly documented in [EFTA00147819](https://www.justice.gov/epstein/files/DataSet%209/EFTA00147819.pdf) (DS9, page 3), an email from an FBI DocLab technician to SDNY prosecutors dated July 12, 2019:
+
+> "There were some pornographic images of young girls. These were not imaged per our protocols. As you review the content anywhere these images may have been you will see a DocLab kicksheet that states 'possible child pornography' DO NOT SCAN. The original documents are still in their original location -- they were just not scanned."
+
+A follow-up in October 2020 ([EFTA00101087](https://www.justice.gov/epstein/files/DataSet%209/EFTA00101087.pdf)) confirmed: "There should have been kick sheets denoting where the pornographic images were removed, but a keyword search of the scan output for the Doclab form would confirm this."
+
+**Timeline Note:** The revision date of March 10, 2025 on the CSAM sheets reflects ongoing re-review. The Epstein Estate discovered "new videos and photographs" on March 14, 2023 ([EFTA00144344](https://www.justice.gov/epstein/files/DataSet%209/EFTA00144344.pdf)), leading to a court-ordered CSAM review protocol. This aligns with [EFTA00039019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00039019.pdf)'s finding that CSAM was discovered during the 2023 estate settlement.
 
 **Comparison with [EFTA00004898](https://www.justice.gov/epstein/files/DataSet%203/EFTA00004898.pdf) (companion binder):** That document has CSAM pages at pages 22 and 73 with handwritten notes specifying **"25 Thumbnails"** and **"27 Thumbnails"** respectively -- indicating the exact count of CSAM images found on those media. The [EFTA00004800](https://www.justice.gov/epstein/files/DataSet%203/EFTA00004800.pdf) CSAM pages likely have similar counts but the handwritten notes are less legible in OCR.
 
@@ -130,14 +136,14 @@ Page 22 is labeled **"SK pics"** at the top and contains a grid of thumbnail pho
 - Resident at 301 E 66th St APT 8H (same building as MC2, Barak apartment, and corporate entities)
 - Connected to Lithuanian ballet payments via Gratitude America
 
-### 3D. "Wedding / N. Salem" Content (Pages 88-96)
+### 3D. "North Salem / Kidd Wedding / Tucker" Content (Pages 88-96)
 
 **Images:**
 - `extracted_images/EFTA00004800_p88_i0_154639b81c3313e4.png`
 - `extracted_images/EFTA00004800_p91_i0_75b614f6437eb59a.png`
 - `extracted_images/EFTA00004800_p94_i0_10ef8bf19d467b1e.png`
 
-Pages 88-92 show extensive thumbnail contact sheets labeled **"North Salem / Wedding"** containing photos from what appears to be an outdoor event/wedding at a property in North Salem, New York. The camera filenames include both CIMG (Casio camera) and DSC (Sony/Nikon camera) prefixes:
+Pages 88-92 show extensive thumbnail contact sheets labeled **"North Salem / Kidd Wedding / Tucker"** (full label confirmed via OCR in [EFTA00245479](https://www.justice.gov/epstein/files/DataSet%209/EFTA00245479.pdf)-[EFTA00245483](https://www.justice.gov/epstein/files/DataSet%209/EFTA00245483.pdf), DS9). The cover page could only be read as "WEDDING/TUCKER/N SALEM" -- the "Kidd" wedding family name was obscured. Photos are from what appears to be an outdoor event/wedding at a property in North Salem, New York. The camera filenames include both CIMG (Casio camera) and DSC (Sony/Nikon camera) prefixes:
 - CIMG0528-CIMG0566 (pages 88-90)
 - DSC01734-DSC01764 (pages 90-92)
 
@@ -145,13 +151,21 @@ Page 89 notably includes **3 video files** (AVI format): CIMG0554.AVI, CIMG0555.
 
 Page 94 shows the physical CD: a **SONY CD-R 700MB** with handwritten label **"wedding/ N. Salem"** -- confirming the North Salem connection.
 
-**North Salem significance:** North Salem is a town in Westchester County, NY. The "Tucker" reference from the cover page may connect to a person named Tucker associated with this wedding/event.
+**North Salem geographic context:** North Salem is a town in Westchester County, NY. DS9 email chains (48 documents) confirm the Dubin family's North Salem/South Salem residence and Epstein's direct involvement in staffing it:
+- [EFTA00396552](https://www.justice.gov/epstein/files/DataSet%209/EFTA00396552.pdf) (Jan 2013): Lesley Groff staffing Eva Dubin's South Salem caretaker position
+- [EFTA00823233](https://www.justice.gov/epstein/files/DataSet%209/EFTA00823233.pdf) (Jul 2016): Epstein to Eva Dubin offering his own employee Janusz Banasiak for North Salem
+- [EFTA01058334](https://www.justice.gov/epstein/files/DataSet%209/EFTA01058334.pdf) (Dec 2016): Eva Dubin: "interested in exploring Janusz and Ofelia taking a couples position in North Salem"
+- [EFTA00784306](https://www.justice.gov/epstein/files/DataSet%209/EFTA00784306.pdf) (Mar 2019): Epstein iMessage references being "In North Salem"
+
+Whether the "Kidd Wedding" was a Dubin family event or a separate North Salem event remains unclear, but the geographic connection to the Dubin property is established.
 
 ### 3E. "Max Wandtke" CD (Page 9)
 
 **Image:** `extracted_images/EFTA00004800_p9_i0_5fec0e4fb2494b7b.png`
 
 Page 9 shows a CD with the handwritten name **"Max Wandtke"** clearly visible. This CD was part of a pair (the "2 CD'S" referenced in the NOT SCANNED notice on page 8).
+
+**Confirmed ghost**: "Wandtke" returns zero results across the entire 1,380,937-document corpus (all 12 datasets). The name exists only on this physical CD label. No emails, financial records, or FBI reports reference this person. This is consistent with the ALEXANDER_WANDTKE_NSALEM_INVESTIGATION.md finding that Max Wandtke is identifiable only by this single CD label.
 
 ### 3F. Email Files (Page 7)
 
@@ -250,9 +264,36 @@ The systematic blacking out of these specific thumbnails (while others on nearby
 
 ---
 
-## 6. EVIDENCE CHAIN AND CSAM FINDINGS
+## 6. THE 22-BOX EVIDENCE SCANNING PROJECT
 
-### 6A. The Two CSAM-Flagged Media in This Binder
+DS9 contains the complete email chain documenting the SDNY/DocLab evidence scanning operation that produced these binders ([EFTA00147819](https://www.justice.gov/epstein/files/DataSet%209/EFTA00147819.pdf) and related documents):
+
+| Date | Event |
+|------|-------|
+| June 27, 2019 | SDNY prosecutors contact DocLab: "approximately 23 boxes of papers... two boxes from FBI case file 72-MM-113327 and the remainder from FBI case file 31E-MM-108062" |
+| July 2, 2019 | DocLab: "How much wiggle room can I get on the deadline... boxes going from 15 to 22" |
+| July 3, 2019 | "22 boxes about 5 minutes ago. We discovered that the Miami Field Office had requested DocLab to scan a number of them back in 2013" |
+| July 9, 2019 | "We finished inventorying all 22 boxes and released everything to DocLab last evening for scanning" |
+| July 12, 2019 | Scanning complete. "Pornographic images of young girls" flagged with kicksheets. "Discs scattered throughout" -- copied 4x each (standard: defense, AUSA, Agent, backup). |
+| July 15, 2019 | SDNY asks about locating unscanned images; confirms 55 discs will be reviewed separately |
+| July 25, 2019 | SDNY follows up: "Want to very briefly check in with you before giving the 55 discs to our vendor here" |
+| October 12, 2020 | Maxwell case discovery follow-up: "DocLab unit chief" contacted about kick sheets and disc labeling |
+
+**Case files identified**:
+- **31E-MM-108062**: Main Epstein/Maxwell investigation (WSTA -- Child Prostitution, FBI Miami)
+- **72-MM-113327**: Alfredo Rodriguez obstruction case (2 of 22 boxes)
+
+The discs found in the boxes "contain pdfs (searchable), jpgs, gifs, and tif files" -- these were not processed, just physically copied 4x. The Book 17 binder CDs/DVDs would be among the 55 discs referenced.
+
+### BALEEN SWEEP Connection
+
+The same DocLab facility (170 Marcel Drive, Winchester, Virginia 22602) processed the 2010 Alfredo Rodriguez evidence via "BALEEN SWEEP" operation -- 15+ DS9 documents ([EFTA00108625](https://www.justice.gov/epstein/files/DataSet%209/EFTA00108625.pdf)-[EFTA00108746](https://www.justice.gov/epstein/files/DataSet%209/EFTA00108746.pdf)) document the scanning of Rodriguez address book toll records, forwarded to the Special Technologies and Applications Office (STAO). This connects the 2010 evidence processing to the same facility that later processed the 22 boxes in 2019.
+
+---
+
+## 7. EVIDENCE CHAIN AND CSAM FINDINGS
+
+### 7A. The Two CSAM-Flagged Media in This Binder
 
 **CSAM Item 1 (Page 20):**
 - **Preceding content:** Pages 15-17 show "model_1.jpg" through "model_21.jpg" and "grapes" series -- ALL blacked out
@@ -270,7 +311,7 @@ This places the "model" and "grapes" files in **direct proximity** to confirmed 
 - **CSAM sheet:** Blue DocLab placeholder, March 2025 revision, handwritten note "Pict" (possibly picture count)
 - **Following content:** Pages 80-84 show NOT SCANNED (1 DVD + 1 CD), then photos including people at locations
 
-### 6B. Cross-Reference with [EFTA00004898](https://www.justice.gov/epstein/files/DataSet%203/EFTA00004898.pdf)
+### 7B. Cross-Reference with [EFTA00004898](https://www.justice.gov/epstein/files/DataSet%203/EFTA00004898.pdf)
 
 The companion binder [EFTA00004898](https://www.justice.gov/epstein/files/DataSet%203/EFTA00004898.pdf) (77 pages) has its own organizational categories:
 - PB/LSJ CLOUDS, PB SUNSET, LSJ, MISC, CARNIVAL, B&W, LSJ ROOMS
@@ -281,7 +322,7 @@ The companion binder [EFTA00004898](https://www.justice.gov/epstein/files/DataSe
 
 Combined, the two binders document **4 CDs/DVDs containing confirmed CSAM** with at least **52 thumbnails** identified (25+27 from [EFTA00004898](https://www.justice.gov/epstein/files/DataSet%203/EFTA00004898.pdf); counts not fully legible for [EFTA00004800](https://www.justice.gov/epstein/files/DataSet%203/EFTA00004800.pdf)).
 
-### 6C. Alignment with Known Evidence Findings
+### 7C. Alignment with Known Evidence Findings
 
 This finding aligns with:
 - **[EFTA00038617](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038617.pdf)** (FBI CID summary, approved 7/17/2024): "small number of CSAM images found on one of Epstein's devices"
@@ -290,11 +331,13 @@ This finding aligns with:
 - **[EFTA00024584](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024584.pdf)**: "Nudes 1" and "Girl pics nude" found in locked safe, some appearing underage
 - **[EFTA00020974](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020974.pdf)**: "Highly confidential responsive material" (nude/semi-nude images/videos) from 14 devices compiled Jan 2021
 
-The "Book 17" binder is part of the physical evidence documentation system. The CSAM designations on pages 20 and 79 were added in March 2025 during what appears to be a re-review of previously processed evidence, consistent with the timeline of CSAM being discovered post-settlement.
+**CSAM Legal Context**: A 55-page legal filing from the Marsh Law Firm ([EFTA00144344](https://www.justice.gov/epstein/files/DataSet%209/EFTA00144344.pdf)) to the FBI Director, Inspector General, and Attorney General documents the full CSAM investigation timeline: 1996 FBI report by victim documenting CSAM concerns, 2005 child erotica found in Palm Beach home, 2008 investigation ended "prematurely" per OPR Report, and 2023 estate discovery of new videos and photographs leading to a court-ordered CSAM review protocol. A separate Notice of Claim ([EFTA00143419](https://www.justice.gov/epstein/files/DataSet%209/EFTA00143419.pdf)) references the FBI's failure to investigate Epstein's CSAM crimes and the "premature" truncation of the 2008 investigation.
+
+The "Book 17" binder is part of the physical evidence documentation system. The CSAM designations on pages 20 and 79 were applied through the DocLab kicksheet protocol confirmed in [EFTA00147819](https://www.justice.gov/epstein/files/DataSet%209/EFTA00147819.pdf).
 
 ---
 
-## 7. TOTAL UNSCANNED MEDIA COUNT
+## 8. TOTAL UNSCANNED MEDIA COUNT
 
 ### Book 17 ([EFTA00004800](https://www.justice.gov/epstein/files/DataSet%203/EFTA00004800.pdf)):
 - **19 "ITEM NOT SCANNED" pages** documenting approximately 23 individual media items:
@@ -311,7 +354,7 @@ The "Book 17" binder is part of the physical evidence documentation system. The 
 
 ---
 
-## 8. THE "MISCLSJ" DVD (Page 47)
+## 9. THE "MISCLSJ" DVD (Page 47)
 
 **Image:** `extracted_images/EFTA00004800_p47_i0_90467929ed3bb30c.png`
 
@@ -325,7 +368,7 @@ This represents typical leisure photography from Epstein's private island, inclu
 
 ---
 
-## 9. VIDEO FILES DOCUMENTED
+## 10. VIDEO FILES DOCUMENTED
 
 Page 89 reveals **3 AVI video files** in the North Salem/Wedding series:
 - **CIMG0554.AVI**
@@ -336,15 +379,15 @@ These video files are interspersed among still photos (CIMG0546-CIMG0561), indic
 
 ---
 
-## 10. KEY FINDINGS SUMMARY
+## 11. KEY FINDINGS SUMMARY
 
-1. **CSAM CONFIRMED on 2 media items** in this binder (pages 20, 79), designated retroactively in March 2025 during evidence re-review. Combined with [EFTA00004898](https://www.justice.gov/epstein/files/DataSet%203/EFTA00004898.pdf), at least 4 CDs/DVDs across the two binders contained CSAM.
+1. **CSAM protocol confirmed by direct evidence**: DocLab technician email ([EFTA00147819](https://www.justice.gov/epstein/files/DataSet%209/EFTA00147819.pdf)) explicitly states: "There were some pornographic images of young girls. These were not imaged per our protocols... you will see a DocLab kicksheet that states 'possible child pornography' DO NOT SCAN." The CSAM NOT SCANNED pages (20, 79) in this binder are confirmed instances of these kicksheets. Combined with [EFTA00004898](https://www.justice.gov/epstein/files/DataSet%203/EFTA00004898.pdf), at least 4 CDs/DVDs across the two binders contained CSAM.
 
 2. **"model_1.jpg" through "model_21.jpg"** -- 21 completely blacked-out image files in immediate proximity to CSAM-flagged media, with filenames suggesting "modeling" photographs. Given Epstein's MC2 recruitment of minors ages 13-20, these files warrant particular scrutiny.
 
-3. **"grapes" series files** -- 4+ completely blacked-out images with unusual filenames ("grapes7 copy.jpg" etc.) on the same CD section as CSAM, suggesting either coded filenames or content requiring suppression.
+3. **"grapes" series files** -- 4+ completely blacked-out images with unusual filenames ("grapes7 copy.jpg" etc.) on the same CD section as CSAM. No document in the full 1.38M-document corpus references this naming convention; the filenames remain unexplained.
 
-4. **~50+ optical media items across two binders** were never fully scanned during evidence processing, representing a significant gap in the digital evidence review.
+4. **~50+ optical media items across two binders** were never fully scanned during evidence processing. These were among the 55 discs found during the 22-box scanning operation that were copied 4x but not digitally processed.
 
 5. **"SK pics"** likely documents Karyna Shuliak (Epstein's last girlfriend/Butterfly Trust beneficiary), connecting this evidence binder to the broader network.
 
@@ -352,7 +395,11 @@ These video files are interspersed among still photos (CIMG0546-CIMG0561), indic
 
 7. **Multiple LSJ (Little Saint James) labeled media** confirm these are photographs from Epstein's private island, documenting activities with unidentified individuals whose faces have been systematically obscured.
 
-8. **The binder structure itself** -- physical "Print File" sleeve pages, photographs of CDs/DVDs paired with NOT SCANNED/CSAM placeholders -- reveals the FBI/DocLab evidence processing workflow and its limitations. Media was photographed but not always digitally ingested, creating permanent gaps in the evidentiary record.
+8. **Wedding identified as "Kidd Wedding"** at North Salem, NY -- full CD label "North Salem/Kidd Wedding/Tucker" confirmed via DS9 OCR. North Salem is established as the area of the Dubin family property, where Epstein actively staffed positions.
+
+9. **Max Wandtke confirmed as total ghost** across 1,380,937 documents. The name exists only on the physical CD label.
+
+10. **The 22-box evidence processing chain** is now fully documented: 22 boxes scanned June-July 2019, 55 discs extracted, DocLab kicksheets inserted for CSAM, same DocLab facility that processed the 2010 Rodriguez evidence via BALEEN SWEEP.
 
 ---
 
@@ -387,9 +434,17 @@ Key images for further review:
 | [EFTA00020974](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020974.pdf) | "Highly confidential responsive material" from 14 devices |
 | [EFTA00037551](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037551.pdf) | Master evidence spreadsheet: 60+ seized devices |
 | [EFTA00032104](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032104.pdf) | CART: "terabytes worth of data" |
+| [EFTA00147819](https://www.justice.gov/epstein/files/DataSet%209/EFTA00147819.pdf) | DocLab CSAM kicksheet protocol confirmed; 22-box scanning timeline |
+| [EFTA00101087](https://www.justice.gov/epstein/files/DataSet%209/EFTA00101087.pdf) | DocLab Oct 2020 follow-up: kick sheets for Maxwell discovery |
+| [EFTA00143419](https://www.justice.gov/epstein/files/DataSet%209/EFTA00143419.pdf) | Notice of Claim: FBI CSAM investigation failures |
+| [EFTA00144344](https://www.justice.gov/epstein/files/DataSet%209/EFTA00144344.pdf) | 55-page legal filing: March 2023 CSAM discovery, court-ordered protocol |
+| [EFTA00245479](https://www.justice.gov/epstein/files/DataSet%209/EFTA00245479.pdf) | OCR confirming "North Salem/Kidd Wedding/Tucker" CD label |
+| [EFTA00396552](https://www.justice.gov/epstein/files/DataSet%209/EFTA00396552.pdf) | Groff staffing Eva Dubin's South Salem caretaker position |
+| [EFTA01058334](https://www.justice.gov/epstein/files/DataSet%209/EFTA01058334.pdf) | Eva Dubin: Janusz/Ofelia couples position in North Salem |
+| [EFTA00108625](https://www.justice.gov/epstein/files/DataSet%209/EFTA00108625.pdf) | BALEEN SWEEP: Rodriguez address book toll records at DocLab |
 
 ---
 
-*Report generated: 2026-02-08*
-*Source databases: image catalog database, OCR text extraction database, primary document text database*
+*Report generated: 2026-02-08, updated 2026-02-12 with full corpus integration*
+*Source databases: image catalog database, OCR text extraction database, primary document text database, full_text_corpus.db (1,380,937 docs across 12 datasets)*
 *98 pages visually examined and cataloged*

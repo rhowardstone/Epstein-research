@@ -34,8 +34,11 @@ This investigation identified **57 NEW or under-mapped entities, financial vehic
 
 ### 1. JEEPERS INC (Deutsche Bank Brokerage)
 - **Type:** Shell company / Investment brokerage vehicle
-- **Jurisdiction:** Unknown (likely USVI or Delaware)
-- **Connected Persons:** Jeffrey Epstein, Darren Indyke, Richard Kahn
+- **Jurisdiction:** USVI corporation ([EFTA00097633](https://www.justice.gov/epstein/files/DataSet%209/EFTA00097633.pdf): "Jeepers, Inc... which is also a USVI corporation")
+- **Parent Entity:** Financial Trust Company, Inc. (USVI) is the sole stockholder of Jeepers Inc., both with Bear Stearns brokerage accounts pre-Deutsche Bank era (March 2007, [EFTA00097633](https://www.justice.gov/epstein/files/DataSet%209/EFTA00097633.pdf))
+- **Connected Persons:** Jeffrey Epstein (ONLY authorized signer/verbal confirmation for checking, [EFTA00128822](https://www.justice.gov/epstein/files/DataSet%209/EFTA00128822.pdf)), Darren Indyke (co-signer on commercial checking, [EFTA00065864](https://www.justice.gov/epstein/files/DataSet%209/EFTA00065864.pdf))
+- **Account Lifecycle:** Opened 02/02/07, closed 12/31/19. Estate liquidation: $192,384 ([EFTA00075562](https://www.justice.gov/epstein/files/DataSet%209/EFTA00075562.pdf)). Listed as "Dormant/Inactive" at $0 in estate verified inventory ([EFTA00076491](https://www.justice.gov/epstein/files/DataSet%209/EFTA00076491.pdf))
+- **SAR References:** FinCEN BSAR transcript referencing Jeepers within Epstein entity network, cases 2019-05-000717/720/722 ([EFTA00151554](https://www.justice.gov/epstein/files/DataSet%209/EFTA00151554.pdf))
 - **Function:** PRIMARY capitalization vehicle for Epstein's Deutsche Bank NOW/SuperNOW accounts
 - **Money Flows (documented from [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf) Exhibit C):**
 
@@ -80,12 +83,16 @@ This investigation identified **57 NEW or under-mapped entities, financial vehic
 - **Function:** Maxwell's personal consulting company; received payments; had JPMorgan bank accounts
 - **EFTA Sources:** [EFTA01517371](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01517371.pdf)-[EFTA01517547](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01517547.pdf) (bank statements), [EFTA01589107](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01589107.pdf), [EFTA01577520](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01577520.pdf), [EFTA00025624](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025624.pdf), [EFTA00011365](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011365.pdf)
 - **Key Finding:** "Darren Indyke helped Maxwell create Ellmax" ([EFTA00011365](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011365.pdf)). Maxwell "paid personal assistant for more than 10 years" through Ellmax ([EFTA00011365](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011365.pdf))
+- **Maxwell Deposition (DS9):** Complete deposition transcript at [EFTA00065870](https://www.justice.gov/epstein/files/DataSet%209/EFTA00065870.pdf) (April 9, 2019): Maxwell formed Ellmax in "2010 or '11," was sole member, entity had no assets, generated minimal revenue, was effectively dormant from 2013 onward. "It didn't have any assets." Records kept in a "file cabinet. wherever I was sitting." Maxwell email: gmaxl@ellmax.com. CargoMetrics UBS correspondence used this address ([EFTA00239492](https://www.justice.gov/epstein/files/DataSet%209/EFTA00239492.pdf)).
 
 ### 3. NEPTUNE LLC
-- **Type:** Shell company / Operating entity
-- **Jurisdiction:** Unknown (likely USVI)
-- **Bank Officers:** Jj Litchford / Paul Morris (JPMorgan)
+- **Type:** Shell company / Operating entity -- "Money Market to hold funds necessary to run the costs associated with Jeffrey Epstein's NYC home" ([EFTA00166822](https://www.justice.gov/epstein/files/DataSet%209/EFTA00166822.pdf) KYC profile)
+- **Jurisdiction:** Sole member Jeffrey E. Epstein; Operating agreement dated December 2011 ([EFTA00076491](https://www.justice.gov/epstein/files/DataSet%209/EFTA00076491.pdf) p.39)
+- **JPMorgan Account:** 9/29/2006 -- 1/31/2013 (Bates range JPM-SDNY-00019781 to JPM-SDNY-00020040, [EFTA00090639](https://www.justice.gov/epstein/files/DataSet%209/EFTA00090639.pdf))
+- **Bank Officers:** Jj Litchford / Paul Morris (Deutsche Bank); Paul Morris as Relationship Manager on updated KYC ([EFTA00166948](https://www.justice.gov/epstein/files/DataSet%209/EFTA00166948.pdf))
 - **Connected Persons:** Jeffrey Epstein, Darren Indyke, Stewart Oldfield
+- **SAR References:** Listed alongside NES LLC, New York Strategy Group LLC in JPMorgan SAR ([EFTA00151209](https://www.justice.gov/epstein/files/DataSet%209/EFTA00151209.pdf))
+- **Estate Value:** $0 (listed as LLC Wholly Owned by Decedent, [EFTA00076491](https://www.justice.gov/epstein/files/DataSet%209/EFTA00076491.pdf))
 - **Function:** Operating entity with JPMorgan accounts under RM CODE 82289
 - **Balances Found:**
   - D $250,390.13 ([EFTA01381049](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01381049.pdf))
@@ -256,10 +263,10 @@ This investigation identified **57 NEW or under-mapped entities, financial vehic
 ### 23. INDUSTRIAL INTEGRITY SOLUTIONS LLC
 - **Type:** Shell company / Aircraft purchaser
 - **Jurisdiction:** New Mexico
-- **Connected Persons:** Rich Munkvold (signatory)
-- **Function:** Purchased aircraft from Hyperion Air LLC (Epstein estate)
-- **Key Finding:** "Aircraft Purchase Agreement by and between HYPERION AIR, LLC, a U.S. Virgin Islands limited liability company ('Seller'), and INDUSTRIAL INTEGRITY SOLUTIONS, LLC, a New Mexico limited liability company ('Purchaser')" ([EFTA00022855](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022855.pdf))
-- **EFTA Sources:** [EFTA00022855](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022855.pdf), [EFTA00022706](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022706.pdf), [EFTA00022793](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022793.pdf), [EFTA01334323](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01334323.pdf)
+- **Connected Persons:** Rich Munkvold (Chief Financial Officer, [EFTA00080010](https://www.justice.gov/epstein/files/DataSet%209/EFTA00080010.pdf)), Darren Indyke (Authorized Representative of Hyperion Air, seller)
+- **Function:** Purchased Sikorsky S-76C++ helicopter (serial 760750, registration N722JE) from Hyperion Air LLC (Epstein estate) for $1.00 + OVC
+- **DS9 -- Complete Purchase Chain:** [EFTA00080010](https://www.justice.gov/epstein/files/DataSet%209/EFTA00080010.pdf) contains complete Aircraft Purchase Agreement (April 2021), First Amendment (April 20, 2021), Second Amendment (May 7, 2021), FAA Aircraft Bill of Sale, Delivery Receipt, and Warranty Bill of Sale.
+- **EFTA Sources:** [EFTA00022855](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022855.pdf), [EFTA00022706](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022706.pdf), [EFTA00022793](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022793.pdf), [EFTA01334323](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01334323.pdf), [EFTA00080010](https://www.justice.gov/epstein/files/DataSet%209/EFTA00080010.pdf)
 
 ### 24. FLYING V AVIATION LLC
 - **Type:** Aviation entity
@@ -275,11 +282,11 @@ This investigation identified **57 NEW or under-mapped entities, financial vehic
 - **EFTA Sources:** [EFTA01654681](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01654681.pdf)
 
 ### 26. FREESTREAM AIRCRAFT (BERMUDA) LIMITED
-- **Type:** Aircraft management company
-- **Jurisdiction:** Bermuda
-- **Connected Persons:** Jeffrey Epstein
-- **Function:** Aircraft management/charter services
-- **EFTA Sources:** [EFTA02076233](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02076233.pdf), [EFTA01738420](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01738420.pdf), [EFTA01782859](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01782859.pdf), [EFTA01794105](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01794105.pdf)
+- **Type:** Aircraft management/charter company
+- **Jurisdiction:** Bermuda (Canon's Court, 22 Victoria Street, PO Box HM 1179, Hamilton HM EX)
+- **Connected Persons:** Jeffrey Epstein, Alireza Ittihadieh (CEO)
+- **Function:** Charter aircraft provider for Epstein. NDA between Freestream and Epstein dated March 1, 2016 ([EFTA00307754](https://www.justice.gov/epstein/files/DataSet%209/EFTA00307754.pdf)). Coordinated Geneva charter trip (July 2015, Hawker 800XP, GBP 11,000, [EFTA00346055](https://www.justice.gov/epstein/files/DataSet%209/EFTA00346055.pdf)). Passport coordination for Kathryn Ruemmler (former Obama White House Counsel) on the Geneva trip ([EFTA00346038](https://www.justice.gov/epstein/files/DataSet%209/EFTA00346038.pdf)).
+- **EFTA Sources:** [EFTA02076233](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02076233.pdf), [EFTA01738420](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01738420.pdf), [EFTA01782859](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01782859.pdf), [EFTA01794105](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01794105.pdf), [EFTA00307754](https://www.justice.gov/epstein/files/DataSet%209/EFTA00307754.pdf), [EFTA00346038](https://www.justice.gov/epstein/files/DataSet%209/EFTA00346038.pdf)
 
 ### 27. ISLAND GLOBAL YACHTING LTD
 - **Type:** Maritime/yacht company
@@ -348,7 +355,7 @@ This investigation identified **57 NEW or under-mapped entities, financial vehic
 - **EFTA Sources:** [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf)
 
 ### 35. VALAR GLOBAL FUND II LP / VALAR GLOBAL FUND III LP
-- **Type:** Venture fund (Peter Thiel)
+- **Type:** Venture fund (Peter Thiel). DS9 provides complete Fund III Private Placement Memorandum ([EFTA00609489](https://www.justice.gov/epstein/files/DataSet%209/EFTA00609489.pdf), $200M target): "Andrew McCormack, James Fitzgerald and Peter Thiel (the 'Founding Partners') formed Valar Ventures... in 2010, with a mandate to find and fund high-growth, earlier-stage companies located in markets outside of Northern California." Southern Trust Company confirmed as LP with $15M commitment ([EFTA00597489](https://www.justice.gov/epstein/files/DataSet%209/EFTA00597489.pdf): Paid in Capital: $4,350,000, Remaining: $10,650,000).
 - **Money Flows:**
   - 1/21/2015: Southern Trust -> Valar Global Fund II = $150,000
   - 2/12/2015: Southern Trust -> Valar Global Fund II = $900,000
@@ -365,20 +372,28 @@ This investigation identified **57 NEW or under-mapped entities, financial vehic
 - **EFTA Sources:** [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf)
 
 ### 36. HONEYCOMB VENTURES I LP / HONEYCOMB PARTNERS
-- **Type:** Venture fund
+- **Type:** Venture fund ($64M+ total outflows from Epstein entities)
+- **DS9 Finding:** Honeycomb Asset Management's outside counsel (Reed Brodsky, Stephanie Brooker of Gibson Dunn) proactively contacted SDNY prosecutors in August 2019 because they were "currently holding funds for entities linked to Epstein and Richard Kahn" ([EFTA00068100](https://www.justice.gov/epstein/files/DataSet%209/EFTA00068100.pdf)). This suggests Honeycomb held Epstein-linked funds post-arrest and was seeking guidance on how to proceed.
+- **DS9 SAR:** $10,000,000 transaction from The 2017 Caterpillar Trust to Honeycomb Ventures IV LP (3/13/2019 to 3/19/2019, [EFTA00151209](https://www.justice.gov/epstein/files/DataSet%209/EFTA00151209.pdf))
+- **Connection Lead:** David Fiszel (previously at Tiger Global, then Honeycomb Asset Management) met Epstein same day as Peter Thiel and Leon Black, Feb 4, 2016 ([EFTA00329762](https://www.justice.gov/epstein/files/DataSet%209/EFTA00329762.pdf)). Visited 9 E 71st in April 2019 with "new idea almost ready for prime time" ([EFTA00492527](https://www.justice.gov/epstein/files/DataSet%209/EFTA00492527.pdf)).
 - **Money Flows:**
   - 7/10/2017: Southern Trust -> Honeycomb Ventures I LP = $1,000,000
   - 6/27/2018: Southern Trust -> Honeycomb Partners (amount cut off)
-- **EFTA Sources:** [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf)
+  - 3/13/2019: The 2017 Caterpillar Trust -> Honeycomb Ventures IV LP = $10,000,000
+- **EFTA Sources:** [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf), [EFTA00068100](https://www.justice.gov/epstein/files/DataSet%209/EFTA00068100.pdf), [EFTA00329762](https://www.justice.gov/epstein/files/DataSet%209/EFTA00329762.pdf)
 
 ### 37. COATUE ENTERPRISES LLC
-- **Type:** Investment entity (Philippe Laffont)
+- **Type:** Personal shell company of Richard Kahn (Epstein's accountant) -- NOT Philippe Laffont's tech hedge fund
+- **Correction:** GVI Second Amended Complaint ([EFTA00161836](https://www.justice.gov/epstein/files/DataSet%209/EFTA00161836.pdf) p.58) explicitly states: "Coatue Enterprises, LLC (Kahn)" -- listed alongside "HBRK Associates, Inc. (Kahn)" as entities that "functioned as shell companies and engaged in no activities other than to coordinate the activities of Epstein's Enterprise"
+- **Trust Provisions:** Named in multiple Epstein trust instruments ([EFTA00098341](https://www.justice.gov/epstein/files/DataSet%209/EFTA00098341.pdf)): "including, but not limited to, Coatue Enterprises, LLC, or its successor entities" -- beneficially owned by Richard David Kahn and Lisa Kahn
+- **Portfolio Status:** $1,500,000 under "Loans Receivable" in July 2017 portfolio valuation ([EFTA00599617](https://www.justice.gov/epstein/files/DataSet%209/EFTA00599617.pdf) p.6), listed alongside personal loans to Epstein employees
+- **SAR References:** Listed in JPMorgan Chase SAR as subject entity ([EFTA00151209](https://www.justice.gov/epstein/files/DataSet%209/EFTA00151209.pdf))
 - **Money Flows:**
   - 5/5/2017: Southern Financial -> Coatue Enterprises = $500,000
   - 1/12/2018: Southern Financial -> Coatue Enterprises = $500,000
   - 6/13/2018: Southern Financial -> Coatue Enterprises = $500,000
-  - **Total: $1,500,000**
-- **EFTA Sources:** [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf)
+  - **Total: $1,500,000** (likely compensation/debt servicing for Kahn's accounting work)
+- **EFTA Sources:** [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf), [EFTA00161836](https://www.justice.gov/epstein/files/DataSet%209/EFTA00161836.pdf), [EFTA00098341](https://www.justice.gov/epstein/files/DataSet%209/EFTA00098341.pdf), [EFTA00599617](https://www.justice.gov/epstein/files/DataSet%209/EFTA00599617.pdf)
 
 ### 38. BARACK PERRAZZANO KIRSCHBAUM AND NAGELBERG CLIENT FUND
 - **Type:** Law firm client fund
@@ -387,10 +402,11 @@ This investigation identified **57 NEW or under-mapped entities, financial vehic
 
 ### 39. CARGOMETRICS TECHNOLOGIES LLC / CARGOMETRICS COMPASS FUND LP
 - **Type:** Technology/shipping analytics company
-- **Connected Persons:** Scott Borgerson, Ghislaine Maxwell
+- **Connected Persons:** Scott Borgerson, Ghislaine Maxwell, Denis Dietz (CargoMetrics)
 - **Function:** Maxwell and Borgerson's tax filings show K-1 income from Cargometrics entities
 - **Key Finding:** Maxwell/Borgerson Form 6781 shows: Cargometrics Technologies LLC ($1 loss), Alphakeys Millennium Fund LLC ($835 gain), Cargometrics Compass Fund LP ($1,950 gain), Atlas Enhanced Fund LP ($468 gain)
-- **EFTA Sources:** [EFTA00025624](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025624.pdf)
+- **DS9 Findings -- Maxwell $1M Wire:** [EFTA00238097](https://www.justice.gov/epstein/files/DataSet%209/EFTA00238097.pdf): Maxwell transferred $1,000,000 from her personal savings to CargoMetrics Compass Fund LP at Bank of America (March 2016). Confirmed at [EFTA00238107](https://www.justice.gov/epstein/files/DataSet%209/EFTA00238107.pdf). Maxwell promoted the fund to UBS advisor Scott Stackman ([EFTA00238074](https://www.justice.gov/epstein/files/DataSet%209/EFTA00238074.pdf)). Fund closed Dec 31, 2018 ([EFTA00239490](https://www.justice.gov/epstein/files/DataSet%209/EFTA00239490.pdf)); Borgerson coordinated redemption from Tokyo through shell entities Angara/Montpelier/Temporary Cookware LLC ([EFTA00239488](https://www.justice.gov/epstein/files/DataSet%209/EFTA00239488.pdf)). FBI investigation returns identify Borgerson-Cargometrics connection ([EFTA00153365](https://www.justice.gov/epstein/files/DataSet%209/EFTA00153365.pdf)).
+- **EFTA Sources:** [EFTA00025624](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025624.pdf), [EFTA00238097](https://www.justice.gov/epstein/files/DataSet%209/EFTA00238097.pdf), [EFTA00239490](https://www.justice.gov/epstein/files/DataSet%209/EFTA00239490.pdf)
 
 ### 40. ALPHAKEYS MILLENNIUM FUND LLC
 - **Type:** Hedge fund
@@ -421,9 +437,10 @@ This investigation identified **57 NEW or under-mapped entities, financial vehic
 
 ### 45. SEED MEDIA GROUP
 - **Type:** Media/science publishing
-- **Connected Persons:** Adam Bly (founder), Jeffrey Epstein
-- **Money Flow:** 8/13/2015: JE -> Seed Media Group = $170,000
-- **EFTA Sources:** [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf)
+- **Connected Persons:** Adam Bly (founder/CEO), Jeffrey Epstein, Vera Savcic (COO/CFO)
+- **Money Flow:** 8/13/2015: JE -> Seed Media Group = $170,000 (settlement)
+- **DS9 Findings:** Complete cap table at [EFTA00730006](https://www.justice.gov/epstein/files/DataSet%209/EFTA00730006.pdf): Common shares 5,000,000; Series A/B Preferred held by Innovium Media Properties; Wexner Children's Trust II as Series C Preferred investor ($1,360,500 / 5,212,644 shares, [EFTA00730015](https://www.justice.gov/epstein/files/DataSet%209/EFTA00730015.pdf)). Forbearance agreement between Epstein and Bly ([EFTA00616097](https://www.justice.gov/epstein/files/DataSet%209/EFTA00616097.pdf)): judgment against Bly in favor of Epstein. Unpaid payroll taxes across Seed Media, Science Blogs, and Planet entities.
+- **EFTA Sources:** [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf), [EFTA00730006](https://www.justice.gov/epstein/files/DataSet%209/EFTA00730006.pdf), [EFTA00616097](https://www.justice.gov/epstein/files/DataSet%209/EFTA00616097.pdf)
 
 ---
 
@@ -837,3 +854,29 @@ Extensive Firstbank Puerto Rico activity for LSJE LLC, Southern Trust, and other
 **TOTAL EXHIBITS ANALYZED: 7 (Exhibits A through E from [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf))**
 
 *This report represents findings from forensic document analysis only. Additional investigation of the source PDF documents may reveal further entities and connections.*
+
+---
+
+## DS9/DS11 REVISIT INTEGRATION (2026-02-12)
+
+The following corrections and additions were integrated from a revisit against DS9 (531,284 pages) and DS11 (331,655 pages) in full_text_corpus.db:
+
+**Corrections Applied:**
+1. **Coatue Enterprises LLC**: Corrected from "Philippe Laffont" to Richard Kahn's personal shell company per GVI complaint [EFTA00161836](https://www.justice.gov/epstein/files/DataSet%209/EFTA00161836.pdf)
+2. **Jeepers Inc**: Jurisdiction confirmed as USVI; parent entity Financial Trust Company Inc. identified; Bear Stearns brokerage accounts pre-Deutsche Bank
+3. **Neptune LLC**: Purpose, operating agreement date, JPMorgan account range, and SAR references added
+
+**New Entities/Findings Added from DS9:**
+- Jeepers Inc/Financial Trust Company ownership chain ([EFTA00097633](https://www.justice.gov/epstein/files/DataSet%209/EFTA00097633.pdf))
+- BV70 LLC confirmed as Leon Black entity with $30.5M Plan D promissory notes ([EFTA00589279](https://www.justice.gov/epstein/files/DataSet%209/EFTA00589279.pdf), [EFTA00599517](https://www.justice.gov/epstein/files/DataSet%209/EFTA00599517.pdf))
+- Rothschild formal engagement letter for "risk analysis and estate planning" ([EFTA00310331](https://www.justice.gov/epstein/files/DataSet%209/EFTA00310331.pdf))
+- Honeycomb counsel contacted SDNY holding Epstein-linked funds ([EFTA00068100](https://www.justice.gov/epstein/files/DataSet%209/EFTA00068100.pdf))
+- Brock Pierce 2014-2017 direct correspondence, 20+ emails/calendar entries ([EFTA00360441](https://www.justice.gov/epstein/files/DataSet%209/EFTA00360441.pdf))
+- Kyara Investments operating agreements confirming Ito/Epstein dual management ([EFTA00584696](https://www.justice.gov/epstein/files/DataSet%209/EFTA00584696.pdf))
+- Maxwell $1M CargoMetrics wire from personal savings ([EFTA00238097](https://www.justice.gov/epstein/files/DataSet%209/EFTA00238097.pdf))
+- Kellerhals as MCC visitor (July 29, 2019), will affiant (Aug 8, 2019), and USVI incorporator ([EFTA00056410](https://www.justice.gov/epstein/files/DataSet%209/EFTA00056410.pdf))
+- Seed Media/Wexner Children's Trust II $3.36M investment ([EFTA00730006](https://www.justice.gov/epstein/files/DataSet%209/EFTA00730006.pdf))
+- Valar Fund III complete PPM confirming Thiel as Founding Partner ([EFTA00609489](https://www.justice.gov/epstein/files/DataSet%209/EFTA00609489.pdf))
+
+**DS11 Finding:**
+- [EFTA02622846](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02622846.pdf): Epstein direct email to Richard Kahn (Sep 17, 2018): "10 k from gratitude" to VSJ Baleto Teatras in Vilnius, Lithuania via SEB bank -- confirms Epstein personally directed Gratitude America disbursements

@@ -51,7 +51,7 @@ All entities below are deduplicated across sources. Entity type and purpose are 
 | Southern Trust Company, Inc. | Trust Company (USVI) | **Largest recipient entity ($133M total inflows)**; receives Leon Black / Rothschild / Apollo funds; distributes to hedge funds | DB-SDNY-0002962, 0003484, 0003819; [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf) |
 | Southern Trust Company Checking a | Trust/Checking | Receives $10M from Haze DBAGNY | DB-SDNY-0007725 |
 | Southern Trust Company, Inc. (variant) | Trust Company | Same entity, OCR variant | Multiple |
-| Southern Financial LLC | LLC | Investment disbursement vehicle; pays Boothbay, Coatue, Joichi Ito, Neoteny | DB-SDNY-0003845, 0004032; [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf) |
+| Southern Financial LLC | LLC | Investment disbursement vehicle; pays Boothbay, Coatue Enterprises (Kahn), Joichi Ito, Neoteny | DB-SDNY-0003845, 0004032; [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf) |
 | Southern Financial LLC Checking | LLC/Checking | Receives $5M from Haze DBAGNY | DB-SDNY-0007725 |
 | Southern Financial LLC Checking ( | LLC/Checking | **Major post-KYC inflow ($27M)**; receives from Haze Trust Checking O ($24.6M) | DB-SDNY-0008063 |
 | Southern Financial LLC Checking a | LLC/Checking | **$27M post-KYC inflow**; receives from Haze DBAGNY ($22M across 3 txns) | DB-SDNY-0007361, 0007544, 0007635 |
@@ -203,7 +203,7 @@ All entities below are deduplicated across sources. Entity type and purpose are 
 | Boothbay Multi Strategy Fund LP | LP (Fund) | $10M | DB-SDNY-0003845 |
 | Valar Globaal Fund III LP | LP (Fund) | $22.5M (11 txns; $5.75M post-KYC) | [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf) |
 | Valar Global Fund II LP | LP (Fund) | $6.3M | [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf) |
-| Coatue Enterprises LLC | LLC (Fund) | $2M (4 txns; $1M post-KYC) | [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf) |
+| Coatue Enterprises LLC (Richard Kahn) | LLC (Kahn personal shell -- NOT Laffont hedge fund, per [EFTA00161836](https://www.justice.gov/epstein/files/DataSet%209/EFTA00161836.pdf)) | $2M (4 txns; $1M post-KYC); $1.5M loan receivable | [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf), [EFTA00161836](https://www.justice.gov/epstein/files/DataSet%209/EFTA00161836.pdf) |
 | Tudor Futures Fund | Fund | $13.5M inflow to Southern Financial | DB-SDNY-0004032 |
 | Blockchain Capital IV, LP | LP (Fund) | $10.5M to 2017 Caterpillar Trust | [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf) |
 | Blockchain Capital Parallel Fund IV, LP | LP (Fund) | $1.875M to 2017 Caterpillar Trust | [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf) |
@@ -301,4 +301,30 @@ All entities below are deduplicated across sources. Entity type and purpose are 
 
 5. **GVI Complaint Entities**: The Government of the Virgin Islands identified "six companies" in its CICO enforcement action: the estate itself plus entities including Southern Trust Company, LSJE LLC, Great St. Jim LLC, Nautilus Inc., and others that participated in the "Epstein Enterprise."
 
-6. **HBRK Associates as Operational Hub**: Richard Kahn at HBRK Associates (575 Lexington Ave, 4th Floor, NYC 10022) served as the day-to-day operational manager, handling property management, staffing, vendor payments, and personal financial requests across all properties.
+6. **HBRK Associates as Operational Hub**: Richard Kahn at HBRK Associates (575 Lexington Ave, 4th Floor, NYC 10022) served as the day-to-day operational manager, handling property management, staffing, vendor payments, and personal financial requests across all properties. DS11 emails massively confirm this: wire transfers, 1099 preparation, DB compliance responses, donation checks, trust administration all routed through HBRK. Darren K. Indyke PLLC co-located at same address.
+
+---
+
+## DS9/DS11 REVISIT INTEGRATION (2026-02-12)
+
+DS9 (531,284 pages) and DS11 (331,655 pages) were searched against 40+ entity names. Key new findings:
+
+7. **Entity Wind-Down (March 2019)**: DS11 reveals active entity liquidation beginning March 2019 -- 4 months before arrest. Caterpillar Trust DB accounts ordered closed; $2.16M transferred to Morgan Stanley Butterfly Trust. Haze Trust positioned to acquire Morocco property ("Bin Ennakhil" via [EFTA02312902](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02312902.pdf)).
+
+8. **Elysium Management Integration**: DS11 reveals Leon Black's family office (445 Park Ave, Suite 1401) was functionally integrated with Epstein's operation. Epstein approved entity naming (Narrow LLC), received Black GRAT tax planning details, and directed $86.25M Narrow Holdings -> Gagosian -> Maya Picasso art purchase chain. Communications marked "property of JEE." Officers: Richard Joslin (CFO), Ada Clapp (Chief Legal Officer), Heather Gray (Art Counsel).
+
+9. **Gratitude America as Multi-Purpose Entity**: DS11 reveals GA served as: (a) tax shelter ($150M net savings calculation per [EFTA02231659](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02231659.pdf)), (b) Leon Black pass-through ($10M BV70 contribution), (c) small grants ($20K-$30K to Chomsky, Hasty Pudding, Landon Thomas), (d) personal recommendation stationery, and (e) international cultural program funding. No logo; used Red Hook Quarter address.
+
+10. **Caterpillar Trust Trustee Ignorance**: DS11 email chain shows trustee Lesley Groff did not know the trust's purpose: "I should probably know...but I don't recall...what is the Caterpillar Trust for?" Klein responded: "Asset that we should sell and need a bank account to park money." Groff: "signing but not really understanding my role." ([EFTA02237571](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02237571.pdf))
+
+11. **Haze Trust International Real Estate**: DS11 reveals Haze Trust used for Moroccan property acquisition ("the buyer will be THe Haze Trust") in March 2019, expanding its function beyond brokerage/checking conduit to international real property.
+
+12. **BV70 LLC Ownership Confirmed**: Leon D. Black as sole member, Debra R. Black as manager, Eileen Alexanderson as Secretary/Treasurer ([EFTA00599517](https://www.justice.gov/epstein/files/DataSet%209/EFTA00599517.pdf)). $30.5M promissory notes from Plan D LLC personally guaranteed by Epstein. BV70 made $10M "charitable contribution" to Gratitude America.
+
+13. **Plan D/Hyperion Air Unification**: DS11 confirms single aviation unit -- Visoski email signature: "Chief Pilot, Hyperion Air, Plan D, LLC." G550 tail N415LM/N212JE operated by Plan D. West Palm Beach office at 3800 Southern Blvd, Suite 204, FL 33406.
+
+14. **Brock Pierce 13-Year Relationship**: DS11 reveals island visits (Dec 2011), conference attendance, $10-12M crypto investment proposals, Bannon connection ("Bannon is letting me know tomorrow if he'll be in NY"), and 13-year collaboration claim. Pierce identified as "Managing Partner - Crypto Currency Partners" (later Blockchain Capital).
+
+15. **Kyara Investments Operating Agreements**: Ito as Manager, Epstein/Southern Financial as member. Wire details: Kyara III funded "Blockstream Investment," Kyara IV funded "OH2 Laboratories" ([EFTA00584696](https://www.justice.gov/epstein/files/DataSet%209/EFTA00584696.pdf)).
+
+16. **Coatue Enterprises LLC Correction**: NOT Philippe Laffont's hedge fund. GVI complaint confirms "Coatue Enterprises, LLC (Kahn)" -- Richard Kahn's personal shell ([EFTA00161836](https://www.justice.gov/epstein/files/DataSet%209/EFTA00161836.pdf)).

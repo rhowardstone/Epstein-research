@@ -14,7 +14,7 @@ Phase III searched for hidden connections across nine domain categories using ke
 - **Leon Black** is THE most important undiscovered story: 816 knowledge-graph connections to Epstein (more than any other individual), 100+ Leon Black documents in the highest-EFTA range, and a direct accusation text message found in the document corpus reading: "Leon. You sexually harassed me, sex trafficked me, raped me, and eventually blacklisted me."
 - **Ehud Barak** maintained an active social and scheduling relationship with Epstein across 18+ documents spanning multiple years, with meetings organized through Epstein's calendar system.
 - **Sergey Brin** appeared on a direct email list alongside Epstein, Paul Allen, Richard Dawkins, Max Tegmark, Sebastian Thrun, and George Church -- a science/tech inner circle.
-- **The Prominent Names Document** ([EFTA01656152](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01656152.pdf)/01656173/01656198/01660622) contains victim statements naming Trump, Weinstein, Staley, Black, Cuomo, Dershowitz, and Wexner in connection with sexual abuse.
+- **The Prominent Names Document** ([EFTA01656152](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01656152.pdf)/01656173/01656198/01660622) contains victim statements naming Trump, Weinstein, Staley, Black, Dershowitz, and Wexner in connection with sexual abuse. (Note: "Cuomo" on this page is a **victim surname** -- [EFTA02696360](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02696360.pdf) confirms "Tony Cuomo" invited to Epstein's house in Jan 2012 -- not Governor Andrew Cuomo.)
 - **175 unique documents** exist in the high-sensitivity [EFTA02700000](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02700000.pdf)+ range containing 5,031 redactions, including detailed victim interviews, prosecution memos, and Leon Black investigation correspondence.
 
 ---
@@ -84,11 +84,11 @@ Phase III searched for hidden connections across nine domain categories using ke
 - [EFTA02073960](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02073960.pdf), [EFTA02073991](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02073991.pdf), [EFTA02088574](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02088574.pdf), [EFTA02088580](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02088580.pdf) -- four additional documents
 - Named alongside Daphne Wallace in scheduling
 
-**Knowledge Graph Weight:** Ehud Barak associated_with Jeffrey Epstein = 14 (confirming sustained relationship)
+**Knowledge Graph Weight:** Ehud Barak associated_with Jeffrey Epstein = 14. **[EXPANDED: 3,756 documents in full corpus.** Direct emails 2013-2016, apartment at 301 E 66th cleaned by Epstein staff (Mar 2019), "i dont work for mossad :)" (Dec 2017), week-long island stay Jan 2019, Bannon meeting brokered.**]**
 
 ### Israeli Intelligence/Mossad
 - **[EFTA01652757](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01652757.pdf)** - References "FBI, MI6, CIA or Mossad" in connection with Epstein's death
-- No direct Carbyne or Reporty hits in the database
+- **[OVERTURNED]** Full corpus contains Carbyne 50+ docs, Reporty 324 docs, Unit 8200 11 docs, Shin Bet 23 docs, Mega Group 4 docs. Complete Carbyne/Reporty investment structure documented: Epstein invested $500K, Barak held $1.5M carry at $50M valuation. Board reports were forwarded to Epstein. FBI CHS FD-1023 ([EFTA00090314](https://www.justice.gov/epstein/files/DataSet%209/EFTA00090314.pdf)) contains an unverified claim that Epstein "belonged to both U.S. and allied intelligence services"
 
 ---
 
@@ -109,7 +109,8 @@ Most Google references are incidental (Google Calendar notifications, Google Ale
 ### Eric Schmidt
 - **[EFTA01762137](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01762137.pdf)** - "AN ERIC SCHMIDT WALTER ISAACSON" -- listed together in what appears to be an event or document
 
-### Larry Page: No direct hits
+### Larry Page
+- No direct hits in original databases. **[CORRECTION]** Page confirmed at 2004 Indian Summer dinner alongside Brin and Bezos (EFTA00018466).
 ### DeepMind, YouTube, Waymo, Calico, Verily, GV, Schmidt Futures: No substantive hits
 
 ---
@@ -132,11 +133,14 @@ Most Google references are incidental (Google Calendar notifications, Google Ale
 
 ### Elon Musk
 - **[EFTA01907455](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01907455.pdf)** - "Elon Musk [elon@spacex.com]" -- direct email correspondence with Epstein
-- **Knowledge Graph Weight:** Elon Musk associated_with Jeffrey Epstein = 12
-- **[EFTA01660679](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660679.pdf), p.5** - Victim statement: "He measured the children's vulva and vaginas by entering a finger and rated the children on tightness. The guests were elder men and included Elon Musk."
+- **Knowledge Graph Weight:** Elon Musk associated_with Jeffrey Epstein = 12. **[EXPANDED in full corpus: 1,038 documents mentioning "Musk" (mostly news articles in email corpus). 15+ direct email exchanges 2012-2015 including "Wildest party on your island?" (EFTA02364941), "I will send heli for you" (EFTA02343260). Substantive direct connection remains unestablished beyond these email exchanges.]**
+- **[EFTA01660679](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660679.pdf), p.5** - NTOC tip (unverified caller report from FBI hotline -- should carry standard NTOC caveat that these are unverified public submissions): "He measured the children's vulva and vaginas by entering a finger and rated the children on tightness. The guests were elder men and included Elon Musk."
 
-### Jeff Bezos: No hits
-### Mark Zuckerberg: No hits
+### Jeff Bezos
+- No hits in original databases. **[CORRECTION]** Bezos confirmed at 2004 Indian Summer dinner alongside Brin and Page (Brin/Page/Bezos via Brockman, EFTA00018466).
+
+### Mark Zuckerberg
+- No hits in original databases. **[CORRECTION]** Zuckerberg attended August 2015 Palo Alto dinner (restaurant bought out) with Chan/Musk/Thiel/Hoffman/Boyden (EFTA00344556).
 ### Marc Andreessen: No hits
 ### Jack Dorsey: No hits
 ### Paul Graham / Y Combinator: No hits
@@ -358,6 +362,7 @@ MIT was the institutional hub, with Epstein paying for Boyden's travel and maint
 ### Howard Lutnick
 - **Knowledge Graph Weight: 13** -- associated_with Jeffrey Epstein
 - [EFTA01871107](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01871107.pdf) - "Re: Howard Lutnick" correspondence
+- **[OVERTURNED -- peripheral to inner circle]** DS9 reveals 20+ documents showing active social relationship (2011-2013): calendar entries (drinks with Leon Black), Lutnick family visit to Little St. James Island by boat (Dec 2012), document sharing, same call list as Leon Black/Nikolic/Staley/Brockman
 
 ### The Dubins (Glenn and Eva)
 - **Knowledge Graph Weight: 65 (Dubin), 30 (Glen Dubin), 30 (Eva Dubin)**
@@ -429,7 +434,7 @@ The contradiction: Prosecutors said cameras captured footage, but MCC documentat
 15. **Butterfly Trust** - $734,175.44
 16. **Jeepers, Inc.** - Multiple transactions (linked to Glen Dubin)
 
-**Total identifiable account balances exceed $85 million across these entities at any given snapshot.**
+**Total identifiable account balances exceed $85 million across these entities at any given snapshot.** **[EXPANDED: Total documented financial flows now exceed $755M through 95+ entities across 10 categories per forensic_workbench.db and subsequent investigations. Haze Trust alone peaked at $40.5M, Southern Trust $45M+.]**
 
 ---
 
@@ -460,8 +465,28 @@ From FBI tips ([EFTA01660651](https://www.justice.gov/epstein/files/DataSet%2010
 3. **Ehud Barak** maintained a regular personal relationship with Epstein through at least 2017
 4. **The Prominent Names document** names 8+ prominent individuals in connection with victim statements
 5. **175 high-sensitivity documents** in the [EFTA02700000](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02700000.pdf)+ range remain partially unexplored
-6. **Financial records reveal $85M+ flowing through 16+ shell entities**, with JEEPERS INC linked to Glen Dubin
+6. **Financial records reveal $755M+ flowing through 95+ shell entities** (expanded from original $85M/16+ entities estimate), with JEEPERS INC linked to Glen Dubin
 7. **The camera contradiction** at MCC is documented in the files themselves
 8. **Evidence destruction** occurred post-conviction and is documented
 9. **FBI tips about the Alexander brothers** received zero documented follow-up
 10. **Victoria's Secret recruitment pipeline** through Ed Razek is explicitly documented
+
+---
+
+## REVISIT CORRECTIONS LOG (February 12, 2026)
+
+Corrections integrated from revisit against full_text_corpus.db (1,380,937 docs, all 12 datasets):
+
+1. **Section B (Carbyne/Reporty, line 91):** Overturned from "No direct hits" to 50+ Carbyne, 324 Reporty, 11 Unit 8200, 23 Shin Bet, 4 Mega Group docs. Complete investment structure documented. FBI CHS FD-1023 intelligence claim identified. (Report #52 revisit)
+2. **Executive summary (Cuomo, line 17):** "Cuomo" is a victim surname (Tony Cuomo), not Governor Andrew Cuomo. (Session 8 finding)
+3. **Section D (Elon Musk, line 134):** Expanded from Knowledge Graph Weight 12 to 1,038 docs in full corpus. 15+ direct email exchanges 2012-2015. NTOC tip caveat added. (Report #54 revisit)
+4. **Section D (Bezos, line 138):** Overturned from "No hits" -- confirmed at 2004 Indian Summer dinner with Brin/Page. (BROCKMAN_SCIENCE_NETWORK.md)
+5. **Section D (Zuckerberg, line 139):** Overturned from "No hits" -- attended Aug 2015 Palo Alto dinner. (Report #45 revisit)
+6. **Section N (Financial scope, lines 432/463):** Expanded from $85M/16+ entities to $755M+/95+ entities. (Reports #7-8 revisit)
+7. **Section J (Lutnick, line 358):** Overturned from peripheral (KGW 13) to inner circle -- 20+ DS9 docs, Little St. James family visit, same call list as Leon Black. (Report #21 revisit)
+8. **Section B (Barak, line 87):** Expanded from 18+ scheduling docs (KGW 14) to 3,756 documents. Direct emails, 301 E 66th apartment, island stay, Bannon meeting. (Report #52 revisit)
+9. **Section D (NTOC Musk tip, line 136):** Added caveat that this is an unverified caller report from the FBI hotline. (Report #56 revisit)
+10. **Section C (Larry Page, line 112):** Overturned from "No direct hits" -- confirmed at 2004 Indian Summer dinner. (BROCKMAN_SCIENCE_NETWORK.md)
+11. **Items confirmed:** Leon Black as most-connected individual, Prominent Names document (all variants + 5th variant EFTA00164939), Alexander brothers, shell company entities (expanded to 95+), evidence destruction indicators.
+
+*Cross-referenced with revisits #7, #8, #21, #45, #52, #54, #55, #56.*

@@ -28,7 +28,7 @@ Results cross-referenced with prior investigation findings from Sessions 1-10 (6
 **DOMAIN 1 (Political):** U.S. Treasury Secretary (1999-2001), Obama economic advisor
 **DOMAIN 2 (Financial):** D.E. Shaw managing director, Wall Street advisor, spoke at Leon Black's Apollo investor event
 **DOMAIN 3 (Academic):** Harvard University President (2001-2006), Harvard Kennedy School
-**EPSTEIN CONNECTION:** 30+ documents across all document collections. Direct emails, flights, dinners, W9 tax form on file with Epstein.
+**EPSTEIN CONNECTION:** Full corpus: **5,118 documents** (DS9: 2,095, DS10: 1,557, DS11: 1,464, DS12: 2). Direct emails, flights, dinners, W9 tax form on file with Epstein. DS9 calendar documents place Summers on planned dinner party lists alongside Kissinger, Barak, Blankfein, Staley, and Black ([EFTA00284908](https://www.justice.gov/epstein/files/DataSet%209/EFTA00284908.pdf)).
 
 ### Key Evidence:
 - **[EFTA02731721](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731721.pdf)**: Wigdor Law letter -- victim "was flown to NYC the first time (where she had sex with Larry Summers). At a later date, [she] flew with J and Dana Chasin somewhere else"
@@ -56,7 +56,7 @@ Results cross-referenced with prior investigation findings from Sessions 1-10 (6
 **DOMAIN 1 (Political):** Prime Minister of Israel (1999-2001)
 **DOMAIN 2 (Military/Intel):** Former IDF Chief of Staff, defense industry contractor
 **DOMAIN 3 (Financial):** Defense technology ventures, apartment at 301 E 66th St (same building as MC2/victims)
-**EPSTEIN CONNECTION:** 25+ documents, direct emails 2013-2019, dinners, apartment cleaning, shared contacts
+**EPSTEIN CONNECTION:** Full corpus: **3,744 documents** (DS9: 1,689, DS10: 1,076, DS11: 978, DS8: 1). Direct emails 2013-2019, dinners, apartment cleaning at 301 E 66th, shared contacts
 
 ### Key Evidence:
 - **[EFTA01802812](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01802812.pdf)**: Direct email from ehbarak email, April 2016
@@ -88,7 +88,7 @@ Results cross-referenced with prior investigation findings from Sessions 1-10 (6
 **DOMAIN 1 (Political):** UK Secretary of State for Business, Lord, Labour Party powerbroker
 **DOMAIN 2 (International):** Russia connections (Oleg Deripaska), Congo (Andely/Ollivier), Global Counsel chairman
 **DOMAIN 3 (Financial):** Advisory roles, Global Counsel Ltd
-**EPSTEIN CONNECTION:** 11+ unique documents, direct emails 2009-2013, Moscow property deal, Congo political coordination
+**EPSTEIN CONNECTION:** 11+ in older databases; full corpus: **5,354 documents** (DS9: 2,356, DS10: 1,856, DS11: 1,141). Direct emails 2009-2013, Moscow property deal, Congo political coordination
 
 ### Key Evidence:
 - **[EFTA02434424](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02434424.pdf)**: Mandelson forwarding Moscow City penthouse listing to Epstein: "Oleg has a great woman who looks after things for him" (Oleg = likely Deripaska)
@@ -107,6 +107,8 @@ Results cross-referenced with prior investigation findings from Sessions 1-10 (6
 
 **OBFUSCATION METHOD:** "Global Counsel" (38 Wigmore Street, London) provided legitimate advisory firm cover. Congo relationship triangulated through Andely/Ollivier intermediaries. Moscow property forwarded through Deripaska's handler. David Mitchell (Epstein estate co-executor) served as logistics intermediary.
 
+> **Revisit addition (2026-02-12):** DS9 contains [EFTA00086575](https://www.justice.gov/epstein/files/DataSet%209/EFTA00086575.pdf) -- a UK citizen's letter directly to SDNY urging them to interview Mandelson, noting: "Mandelson is gay. This is widely known and I assume that Epstein would not have offered him the services of any underage girls. I would not be surprised if Epstein offered the services of men or boys... it would allow him to blackmail anyone who took advantage." Also suggests interviewing Kevin Spacey and notes "Andrew, Mandelson and Spacey had social or professional connexions with each other in England." DS9 also contains 2024-2025 journalist inquiries about Mandelson's UK ambassador appointment and Epstein links ([EFTA00143413](https://www.justice.gov/epstein/files/DataSet%209/EFTA00143413.pdf)).
+
 ---
 
 ## 1.4 KATHRYN RUEMMLER -- POLITICAL (WH COUNSEL) + LEGAL + CAREER BROKERING
@@ -114,7 +116,7 @@ Results cross-referenced with prior investigation findings from Sessions 1-10 (6
 **DOMAIN 1 (Political):** Obama White House Counsel (2011-2014), highest-ranking legal advisor
 **DOMAIN 2 (Legal/Corporate):** Goldman Sachs General Counsel trajectory, Latham & Watkins
 **DOMAIN 3 (Intelligence-Adjacent):** Consulted on sealed indictment (Manafort), discussed Clinton/Obama implications
-**EPSTEIN CONNECTION:** 10+ unique documents, 15+ emails spanning Sept 2014 - May 2019
+**EPSTEIN CONNECTION:** Full corpus: **8,940 documents** (DS9: 1,409, DS10: 891, DS11: 6,640). The DS11 count reflects trust documents appearing across many related filings. 15+ substantive emails spanning Sept 2014 - May 2019
 
 ### Key Evidence:
 - **[EFTA02484285](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02484285.pdf)**: Epstein to Ruemmler: "defense counsel might create Clinton Obama unnecessary implication" (Oct 2015) -- advising on political exposure
@@ -133,6 +135,8 @@ Results cross-referenced with prior investigation findings from Sessions 1-10 (6
 
 **OBFUSCATION METHOD:** Post-White House "personal friendship" framing. Latham & Watkins position provided professional distance. Epstein functioned as career broker -- coaching on Goldman Sachs GC appointment, Nobel Committee access, sealed indictment intelligence. "PW" and coded references in emails.
 
+> **Revisit addition (2026-02-12):** DS9 reveals Ruemmler was a **named Trustee of the Jeffrey E. Epstein 2018 Trust** ([EFTA00099449](https://www.justice.gov/epstein/files/DataSet%209/EFTA00099449.pdf)), signed May 8, 2018, alongside Darren K. Indyke and Richard D. Kahn. This elevates her relationship from social/advisory to a **fiduciary position** over Epstein's estate. Additional DS9 findings: Mandarin Oriental spa appointment for "Ruemmler, Kathy" February 13, 2016 ([EFTA00283634](https://www.justice.gov/epstein/files/DataSet%209/EFTA00283634.pdf)); "LUNCH w/Kathy Ruemmler & possibly Nathan Myhrvold" April 2015 ([EFTA00285028](https://www.justice.gov/epstein/files/DataSet%209/EFTA00285028.pdf)); "TBD Meeting w/Ariane DeRothschild and Kathy Ruemmler" ([EFTA00284969](https://www.justice.gov/epstein/files/DataSet%209/EFTA00284969.pdf)); September 2014 contact list placing her alongside Bill Burns, Peter Thiel, Bob Kerry, and Terje ([EFTA00284982](https://www.justice.gov/epstein/files/DataSet%209/EFTA00284982.pdf)).
+
 ---
 
 ## 1.5 TERJE ROED-LARSEN -- UN DIPLOMACY + MIDDLE EAST + PHILANTHROPY
@@ -140,7 +144,7 @@ Results cross-referenced with prior investigation findings from Sessions 1-10 (6
 **DOMAIN 1 (Political/Diplomatic):** UN Special Envoy, Oslo Accords architect, International Peace Institute president
 **DOMAIN 2 (Philanthropic):** Gates Foundation proposal coordination
 **DOMAIN 3 (Finance-adjacent):** Connected to international policy-finance nexus
-**EPSTEIN CONNECTION:** 21 unique documents, direct emails, dinners, personal relationship (birthdate inquiries, shirt purchases)
+**EPSTEIN CONNECTION:** 21 in older databases; full corpus: **8,885 documents** (DS9: 3,870, DS10: 2,913, DS11: 2,100, DS8: 2). Direct emails, dinners, personal relationship (birthdate inquiries, shirt purchases)
 
 ### Key Evidence:
 - **[EFTA01749216](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01749216.pdf)**: "meeting with Larry Summers" -- Roed-Larsen CC'd
@@ -163,7 +167,7 @@ Results cross-referenced with prior investigation findings from Sessions 1-10 (6
 
 **DOMAIN 1 (Political):** New Mexico Governor, U.S. Energy Secretary, UN Ambassador
 **DOMAIN 2 (Geographic):** New Mexico overlapped with Zorro Ranch location
-**EPSTEIN CONNECTION:** 35 unique EFTA documents mentioning "Richardson"
+**EPSTEIN CONNECTION:** 35 in older databases; full corpus: **2,437 documents** (DS9: 1,188, DS10: 884, DS11: 320, DS8: 44)
 
 ### Key Evidence:
 - **[EFTA00022133](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022133.pdf)**: Named by victim alongside "former Democratic Senate Majority Leader George Mitchell; the late MIT computer scientist Marvin Minsky; and MC2 model agency cofounder Jean Luc Brunel"
@@ -179,7 +183,7 @@ Results cross-referenced with prior investigation findings from Sessions 1-10 (6
 
 **DOMAIN 1 (Political):** U.S. Senate Majority Leader, Northern Ireland peace broker
 **DOMAIN 2 (Diplomatic/Think Tank):** Trilateral Commission member, Council on Foreign Relations
-**EPSTEIN CONNECTION:** Named in 2 victim testimonies + profile article
+**EPSTEIN CONNECTION:** 3 in older databases; full corpus: **315 documents** (DS9: 154, DS10: 101, DS11: 57, DS8: 2, DS12: 1). Named in 2 victim testimonies + profile article
 
 ### Key Evidence:
 - **[EFTA00013640](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013640.pdf)**: "George Mitchell, for example. In Epstein's mind, Mitchell is the world's greatest negotiator, based on his work in Ireland" -- Epstein profile article, also notes he is "an enthusiastic member of the Trilateral Commission and the Council on Foreign Relations"
@@ -195,7 +199,7 @@ Results cross-referenced with prior investigation findings from Sessions 1-10 (6
 **DOMAIN 1 (Financial):** Billionaire, L Brands/Victoria's Secret founder
 **DOMAIN 2 (Philanthropic):** Wexner Foundation, Ohio State University donations
 **DOMAIN 3 (Intelligence-Adjacent):** "Certain parties in this mix who ARE" intelligence-connected (Kohn letters)
-**EPSTEIN CONNECTION:** 27 unique documents across V2 (15) + DS10 (12)
+**EPSTEIN CONNECTION:** 27 in older databases; full corpus: **1,497 documents** (DS9: 675, DS10: 629, DS11: 178, DS8: 10, DS12: 4)
 
 ### Key Evidence:
 - **[EFTA00037218](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037218.pdf)/37239** (prior findings): Melvyn Kohn letters: "certain parties in this mix who ARE" working for foreign intelligence
@@ -213,12 +217,18 @@ Results cross-referenced with prior investigation findings from Sessions 1-10 (6
 **DOMAIN 1 (Political):** U.S. Senator (Nebraska), Medal of Honor recipient, Vietnam veteran
 **DOMAIN 2 (Academic):** New School President
 **DOMAIN 3 (Intelligence-Adjacent):** Arranged lunch between Peter Thiel and Bill Burns (future CIA Director)
-**EPSTEIN CONNECTION:** Limited but significant
+**EPSTEIN CONNECTION:** Full corpus: **421 documents** (DS9: 148, DS10: 179, DS11: 94). Regular social engagement 2013-2014, not merely a single event.
 
 ### Key Evidence:
 - **[EFTA02589110](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02589110.pdf)** (prior findings): Epstein lunch with Peter Thiel and possibly Bill Burns (future CIA Director), arranged by Bob Kerrey (Sept 2014)
+- **[EFTA00362699](https://www.justice.gov/epstein/files/DataSet%209/EFTA00362699.pdf)** (DS9): Epstein to Thiel: "see you at 5, bill burns will be here then dinner with woody and kathy" + "Sunday lunch with Kerrey would be great." Full email text of the Burns-Thiel-Kerrey weekend.
+- **[EFTA00362703](https://www.justice.gov/epstein/files/DataSet%209/EFTA00362703.pdf)-718** (DS9): Complete email chain between Groff and Jennifer Hill (Kerrey's assistant at Allen & Company) scheduling "Jeffrey Epstein dinner - Senator Bob Kerrey" for Sept 14, 2014 lunch at "9 East 71st street."
+- **[EFTA00287420](https://www.justice.gov/epstein/files/DataSet%209/EFTA00287420.pdf)** (DS9): April 23, 2013 -- "7:30pm Dinner w/Woody Allen, Soon Yi, Bob Kerrey, Mort Zuckerman, Joel Klein and his wife, Nicole Seligman."
+- **[EFTA00306308](https://www.justice.gov/epstein/files/DataSet%209/EFTA00306308.pdf)** (DS9): May 5, 2013 -- "9:00am Breakfast w/Bob Kerry."
+- **[EFTA00299816](https://www.justice.gov/epstein/files/DataSet%209/EFTA00299816.pdf)** (DS9): "12:00pm Lunch w/Professor Kosslyn, Ben Nelson and Senator Bob Kerrey."
+- **[EFTA00284982](https://www.justice.gov/epstein/files/DataSet%209/EFTA00284982.pdf)** (DS9): Kerrey on September 2014 contact list alongside Burns, Thiel, Ruemmler, Brockman.
 
-**OBFUSCATION METHOD:** New School presidency provided academic cover. Single documented event but connects intelligence (Burns/CIA), technology capital (Thiel), and political establishment (Kerrey).
+**OBFUSCATION METHOD:** New School presidency provided academic cover. Regular dinners and breakfasts at 9 E 71st Street spanning 2013-2014 connect intelligence (Burns/CIA), technology capital (Thiel), and political establishment (Kerrey).
 
 ---
 
@@ -226,12 +236,12 @@ Results cross-referenced with prior investigation findings from Sessions 1-10 (6
 
 ### Henry Kissinger
 **Domains:** Political (Secretary of State) + Diplomacy + Finance (Kissinger Associates)
-**Query Result:** 0 unique documents in V2 hidden text for "Kissinger"
-**Status:** Referenced in public Epstein materials but not surfaced in recovered redactions. Known to have visited Epstein's townhouse (public reporting). [EFTA00013640](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013640.pdf) profile article references Council on Foreign Relations where Kissinger was prominent.
+**Query Result:** 0 in V2 hidden text; full corpus: **431 documents** (DS9: 210, DS10: 167, DS11: 54)
+**Key new document:** [EFTA00284908](https://www.justice.gov/epstein/files/DataSet%209/EFTA00284908.pdf) (DS9) -- "2014 Dinner Party" guest list places Kissinger alongside Terje Rod Larsen, Leon Black, Ehud Barak, "Geitner" [sic], Jes Staley, Lloyd Blankfein, Len Blavatnik, Larry Summers, David Blaine, Jacob Frankel, Woody Allen, and JJ Abrams. [EFTA00284799](https://www.justice.gov/epstein/files/DataSet%209/EFTA00284799.pdf) notes "Kissinger is free" in a September 2013 calendar alongside Barak, Summers, and Terje. While many DS9 hits are news clips, the dinner party list is a first-person planning document confirming Kissinger's presence in Epstein's social orbit.
 
 ### Tony Blair
 **Domains:** Political (UK PM) + Finance (Tony Blair Associates) + Philanthropy
-**Query Result:** No direct Epstein correspondence found. "Blair" hits are mostly Jennifer Ruth Blair (property records) and Charles P. Blair (nuclear article). [EFTA00020910](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020910.pdf) mentions "attorney named Blair Fellows" unrelated to Tony Blair.
+**Query Result:** No direct correspondence in older databases; full corpus: **269 documents** for "Tony Blair" (DS9: 165, DS10: 57, DS11: 47). Many hits are news clips, but the volume warrants further analysis to distinguish substantive from incidental references.
 
 ### Andrew Cuomo
 **Domains:** Political (NY Governor) + Legal
@@ -239,7 +249,7 @@ Results cross-referenced with prior investigation findings from Sessions 1-10 (6
 
 ### Timothy Geithner
 **Domains:** Political (Treasury Secretary) + Finance (Warburg Pincus)
-**Query Result:** 0 hits across all document collections.
+**Query Result:** 0 in older databases; full corpus: **162 documents** (DS9: 101, DS10: 46, DS11: 15). The misspelling "Geitner" appears on the [EFTA00284908](https://www.justice.gov/epstein/files/DataSet%209/EFTA00284908.pdf) dinner party list alongside Kissinger, Black, Barak, Summers, Staley, and Blankfein. While many DS9 hits are news clips mentioning Geithner in policy context, his presence on Epstein's personal dinner party list is a first-person planning document.
 
 ### Robert Rubin
 **Domains:** Political (Treasury Secretary) + Finance (Citigroup)
@@ -268,7 +278,17 @@ Results cross-referenced with prior investigation findings from Sessions 1-10 (6
 
 ## 2.3 MOSSAD / ISRAELI INTELLIGENCE
 
-**Query Result:** 0 hits for "Mossad" or "Shin Bet" or "LAKAM" across all document collections. The ABSENCE is significant given:
+**Query Result:** 0 hits in older databases; full corpus: **2,151 documents** for "Mossad" / "CIA" / "intelligence service" combined (DS9: 1,117, DS10: 783, DS11: 198, DS8: 46). Additionally, 47 documents reference FBI CHS FD-1023 / "CHS Reporting."
+
+> **Correction (2026-02-12):** The original claim of "0 hits for Mossad...in substantive Epstein context" was an artifact of searching only the older databases. The DS9 corpus contains multiple substantive intelligence agency references:
+>
+> - **[EFTA00090314](https://www.justice.gov/epstein/files/DataSet%209/EFTA00090314.pdf)** (DS9): FBI CHS FD-1023, filed 10/19/2020, Source S-00099701, LA Field Office. CHS states Dershowitz told Acosta "Epstein belonged to both U.S. and allied intelligence services." CHS further states "Mossad would then call Dershowitz to debrief" after Epstein calls. Epstein "trained as a spy under" Barak. CHS also states Dershowitz said "if he were young again, he would be holding a stun gun as an Israeli Intelligence (Mossad) agent." Filed under case numbers 804I-LA-3315657-INTELPRODS and 50D-NY-3027571.
+> - **[EFTA00030182](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030182.pdf)** (DS8): Email dated July 10, 2019, forwarded by AUSA. Acosta "was told Epstein 'belonged to intelligence' and to leave it alone."
+> - **[EFTA00076059](https://www.justice.gov/epstein/files/DataSet%209/EFTA00076059.pdf)/[EFTA00076060](https://www.justice.gov/epstein/files/DataSet%209/EFTA00076060.pdf)/[EFTA00097444](https://www.justice.gov/epstein/files/DataSet%209/EFTA00097444.pdf)** (DS9): Same Daily Beast article forwarded to Geoffrey Berman (USANYS) with subject "For our next discussion" -- three copies circulating within SDNY prosecution team on July 9, 2019, the same day as Epstein's arrest.
+>
+> Note: FD-1023 documents are unverified CHS reports, not FBI conclusions. But their existence in the case file means the FBI received this intelligence. The classification of Part 9.3 has been changed from "intelligence gap" to "intelligence connection documented but unverified by FBI."
+
+The following remain significant as context:
 - **[EFTA00037218](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037218.pdf)/37239**: Kohn explicitly states certain parties "ARE" intelligence-connected
 - **[EFTA00015219](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015219.pdf)**: FOIA exemption invoked for foreign government relationship
 - Barak's military/intelligence background + Epstein's Israeli military base tours
@@ -313,14 +333,18 @@ Results cross-referenced with prior investigation findings from Sessions 1-10 (6
 
 ## 3.4 Other Institutions
 
-- **Bilderberg:** 0 hits
-- **Brookings:** 0 hits
-- **Atlantic Council:** 0 hits
-- **Aspen Institute:** 0 hits
-- **World Economic Forum / Davos:** 0 hits in hidden text (but Davos connections documented in public reporting)
+> **Correction (2026-02-12):** The original "0 hits" claims for the institutions below were based on older databases only. Full corpus results:
+
+| Institution | Original Claim | Full Corpus |
+|---|---|---|
+| Bilderberg | 0 hits | **51 documents** |
+| Brookings / Aspen Institute / Atlantic Council | 0 hits each | **486 documents combined** |
+| World Economic Forum / Davos | 0 hits | **1,962 documents** |
+| Rockefeller Foundation / Ford Foundation | 0 hits | **105 documents combined** |
+
+- **World Economic Forum:** Epstein's C.O.U.Q. Foundation made direct donations: $3,000 (1999) and $50,000 (2000), per IRS Form 990PF ([EFTA00192298](https://www.justice.gov/epstein/files/DataSet%209/EFTA00192298.pdf)). Isabel Maxwell (Ghislaine's sister) identified herself as "a World Economic Forum Technology" [Pioneer] ([EFTA00065640](https://www.justice.gov/epstein/files/DataSet%209/EFTA00065640.pdf)). [EFTA00065987](https://www.justice.gov/epstein/files/DataSet%209/EFTA00065987.pdf) references "notes from Davos" in same email discussing Glenn Dubin's retirement and "past ties with Jeffrey Epstein."
 - **Carnegie:** 0 substantive hits
 - **RAND:** 0 substantive hits (hits are mostly names like Randy, Rand property records)
-- **Rockefeller Foundation / Ford Foundation:** 0 hits
 - **Open Society / Soros:** See section 2.5 above
 
 ---
@@ -611,23 +635,26 @@ The Epstein case involved multiple layers of sealed proceedings:
 
 ## 8.3 Document Counts Summary
 
-| Search Term | Unique EFTA Count (V2) |
-|---|---|
-| Larry Summers | 18 |
-| Richardson | 35 |
-| Terje/Roed-Larsen | 21 |
-| Mandelson | 11 |
-| Ruemmler | 10 |
-| Ehud Barak | 7 (+ 50 DB staff) |
-| Boies | 49 |
-| Settlement | 34 |
-| Sealed | 28 |
-| Obstruction | 18 |
-| Tampering | 2 (but extensive in OCR/DS10) |
-| Intimidation | 2 (but extensive in OCR/DS10) |
-| Wexner | 15 (V2) + 12 (DS10) |
-| Kissinger | 0 |
-| Geithner | 0 |
+| Search Term | Unique EFTA Count (V2) | Full Corpus Total | Expansion |
+|---|---|---|---|
+| Larry Summers | 18 | **5,118** | ~170x |
+| Richardson | 35 | **2,437** | ~70x |
+| Terje/Roed-Larsen | 21 | **8,885** | ~423x |
+| Mandelson | 11 | **5,354** | ~487x |
+| Ruemmler | 10 | **8,940** | ~894x |
+| Ehud Barak | 7 (+ 50 DB staff) | **3,744** | ~150x |
+| George Mitchell | 3 | **315** | ~105x |
+| Kerrey | 1 | **421** | ~421x |
+| Wexner | 15 (V2) + 12 (DS10) | **1,497** | ~55x |
+| Kissinger | 0 | **431** | 0-to-431 |
+| Geithner | 0 | **162** | 0-to-162 |
+| Tony Blair | 0 | **269** | 0-to-269 |
+| Sealed | 28 | **212** | ~8x |
+| Settlement | 34 | **14,894** | ~438x |
+| NDA/non-disclosure | Not searched | **5,215** | -- |
+| Protective order | ~10 | **3,519** | ~352x |
+
+> **Note (2026-02-12):** The dramatic expansion factors (50x-900x) require contextualization. DS9 includes daily FBI news clips, Wikipedia printouts, duplicate documents, and legal filings appearing in multiple copies. For individuals like Summers, substantive Epstein-specific documents are likely 50-100 rather than 5,118. The Kissinger, Geithner, and intelligence corrections are the most significant because they involve qualitative changes (from "absent" to "present") rather than merely quantitative expansion.
 
 ---
 
@@ -656,17 +683,33 @@ The sealed architecture served multiple functions:
 - **Attorney capture**: Victim attorney (Edwards) later retained by accused (Black)
 - **Prosecutorial failure**: Pre-NPA indictment suppressed, OPR found potential improper motive but no action taken
 
-## 9.3 Intelligence Gap
+## 9.3 ~~Intelligence Gap~~ Intelligence Connection Documented but Unverified by FBI
 
-The most significant finding in the intelligence domain is the ABSENCE of explicit intelligence agency references despite:
-- FOIA exemption for "confidential relationship with a foreign government"
+> **Correction (2026-02-12):** The original claim that the intelligence domain produced "zero hits" for Mossad, CIA, or MI6 "in substantive Epstein context" was an artifact of searching only older databases. The DS9 corpus contains an FBI CHS FD-1023 ([EFTA00090314](https://www.justice.gov/epstein/files/DataSet%209/EFTA00090314.pdf)) in which a Confidential Human Source explicitly states:
+> 1. Dershowitz told Acosta that Epstein "belonged to both U.S. and allied intelligence services"
+> 2. "Mossad would then call Dershowitz to debrief" after Epstein calls
+> 3. Epstein "trained as a spy under" Barak
+> 4. Dershowitz was "co-opted by Mossad"
+>
+> Additionally, [EFTA00030182](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030182.pdf) documents that Acosta "was told Epstein 'belonged to intelligence' and to leave it alone," and three copies of the same article ([EFTA00076059](https://www.justice.gov/epstein/files/DataSet%209/EFTA00076059.pdf)/76060/97444) were circulating within SDNY prosecution on July 9, 2019 (day of arrest), forwarded to Geoffrey Berman (USANYS) with "For our next discussion."
+>
+> FD-1023 documents are unverified CHS reports, not FBI conclusions. But their existence in the case file means the FBI received this intelligence and the original claim of absence was incorrect.
+>
+> The full corpus also contains 174 documents referencing "intelligence asset" / "intelligence services" and 47 referencing FBI CHS / CHS Reporting.
+
+The following contextual evidence remains relevant:
+- FOIA exemption for "confidential relationship with a foreign government" ([EFTA00015219](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015219.pdf))
 - Kohn letters stating "certain parties ARE" intelligence-connected
-- Barak's military/intelligence background
+- Barak's military/intelligence background + 3,744 documents in full corpus
 - Maxwell's father (Robert Maxwell) known intelligence connections
-- Zero hits for Mossad, MI6, CIA in substantive Epstein context
+- Barak to Epstein: "you should make clear that i dont work for mossad :)" / Epstein: "unfortunately, not" ([EFTA01013272](https://www.justice.gov/epstein/files/DataSet%209/EFTA01013272.pdf), Dec 2018)
 
-This absence suggests either (a) intelligence-related material was excluded from the DOJ release, (b) it was properly redacted at a level not recoverable from the PDF text layer, or (c) the intelligence nexus operated through personal relationships rather than institutional channels documented in writing.
+The intelligence nexus is now documented through CHS reporting but remains unverified at the FBI conclusion level. The FD-1023 was filed under case numbers that include "INTELPRODS" (intelligence products), indicating it was processed through an intelligence channel rather than a criminal channel.
 
 ---
 
 *Report compiled from 100+ queries across primary document text database (519,520 recoverable redactions), Dataset 10 document text database (434,721 records), OCR text extraction database (38,955 records), and entity relationship database (524 entities, 2,096 relationships). All EFTA citations verified against primary database records.*
+
+---
+
+**REVISIT INTEGRATION (2026-02-12):** This report was reviewed against the full text corpus (1,380,937 documents across all 12 datasets, 2,731,796 pages). 18 corrections were integrated. One correction is critical: Part 9.3 "Intelligence Gap" -- the claim of "zero hits for Mossad, CIA in substantive Epstein context" is directly contradicted by FBI CHS FD-1023 ([EFTA00090314](https://www.justice.gov/epstein/files/DataSet%209/EFTA00090314.pdf)) stating "Epstein belonged to both U.S. and allied intelligence services." Five corrections are major: Kissinger (0 to 431 docs, dinner party list confirmed), Geithner (0 to 162 docs, on same dinner list), Ruemmler (10+ to 8,940 docs, named Trustee of Epstein 2018 Trust), Kerrey (1 doc to 421 docs, regular social engagement), and all think tank zero-claims invalidated (WEF: 1,962 docs with direct C.O.U.Q. Foundation donations). Every named individual showed expansion factors of 50x-900x. The report's analytical framework -- mapping multi-domain power figures and suppression patterns -- is confirmed and strengthened. The September 2014 dinner documents ([EFTA00284908](https://www.justice.gov/epstein/files/DataSet%209/EFTA00284908.pdf)) confirm the power convergence thesis with Kissinger, Black, Barak, Summers, Staley, Blankfein, Blavatnik, Allen, and Geithner on a single planned dinner list. Cross-referenced with revisits #52, #54, #56, #57.

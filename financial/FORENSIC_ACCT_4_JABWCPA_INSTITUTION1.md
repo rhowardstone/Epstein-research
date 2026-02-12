@@ -11,7 +11,7 @@
 
 This analysis identifies two key redacted references from the DOJ Epstein files:
 
-1. **JABWCPA@gmail.com** = Almost certainly the email of **Richard D. Kahn** of **HBRK Associates, Inc.**, Epstein's personal CPA/accountant, located at 575 Lexington Avenue, 4th Floor, New York, NY 10022. The "JAB" in the email likely refers to a personal/family identifier, while "WCPA" denotes "CPA" (Certified Public Accountant). The alternate reading is "J.A.B.W., CPA" -- initials followed by professional designation. However, all forensic evidence points to Richard Kahn as the person behind this email address.
+1. **JABWCPA@gmail.com** = **CORRECTION (Revisit):** DS11 email headers unambiguously identify JABWCPA@gmail.com as the personal/professional email address of **Jeanne Anne Brennan Wiebracht**, Epstein's USVI-based administrative assistant and CPA. The "JABW" stands for her initials: **J**eanne **A**nne **B**rennan **W**iebracht. The "CPA" suffix reflects her accounting role within the organization. The original report's attribution to Richard Kahn was incorrect -- both Jeanne Brennan and Richard Kahn received all DB financial reports on the same distribution lists, which caused the misidentification. See revised Finding below.
 
 2. **Institution-1** (from the bail memo [EFTA00028785](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028785.pdf)) = **Deutsche Bank**, the financial institution holding Epstein's accounts from August 2013 through 2019, which the Government subpoenaed in connection with the SDNY prosecution.
 
@@ -130,15 +130,17 @@ The database contains OCR misreadings of JABWCPA that further confirm it is a si
 
 ## A.8 — JABWCPA Conclusion
 
-**FINDING: JABWCPA@gmail.com is the accounting-specific email address used to route Deutsche Bank financial reports to HBRK Associates, Inc. / Richard D. Kahn.** The email received every DB financial statement, Fx rate report, and account notification simultaneously with richardkahn12@gmail.com. Kahn served as Epstein's CPA, handling tax filings, financial statements, wire authorizations, and trust account management across all Epstein entities.
+**CORRECTION (Revisit -- DS11 Evidence):** The original finding attributing JABWCPA to Richard Kahn is **incorrect**. DS11 contains multiple emails sent directly FROM Jeanne Brennan Wiebracht using jabwcpa@gmail.com as her email address:
 
-The "JAB" initials could refer to:
-- A family member or associate at HBRK Associates (the firm had multiple people: scanner@hbrkassociates.com, kmbizhub@hbrkassociates.com suggest at least 2-3 staff)
-- An abbreviation for the firm or a subset of services
-- Personal initials of someone at HBRK who managed the accounting email
-- Given the "W" before CPA, the full handle may decode as initials J.A.B.W. followed by "CPA"
+- EFTA02349173 (DS11): "On Monday, 29 February 2016, Jeanne <jabwcpa@gmail.com> wrote: yes" (forwarded chain about "Anna's Salary")
+- EFTA02353230 (DS11): "On Tue, Nov 5, 2014 at 1:05 PM, Jeanne Brennan Wiebracht <jabwcpa@gmail.com> wrote:"
+- EFTA02361912 (DS11): "From: Jeanne Brennan [mailto:jabwcpa@gmail.com]" corresponding with Toshiba International about solar energy on Little St. James Island
+- EFTA02369673 (DS11): "From: Jeanne Brennan [mailto:jabwcpa@gmail.com] To: 'Jeffrey Epstein' Subject: RE: Anna's Salary"
+- EFTA02384062, EFTA02386987, EFTA02450341 (DS11): Additional emails confirming the same attribution
 
-Regardless of the precise decode of the initials, **all 290 JABWCPA emails route to the HBRK Associates / Richard Kahn accounting function** for the Epstein financial network.
+**REVISED FINDING: JABWCPA@gmail.com is the personal/professional email address of Jeanne Anne Brennan Wiebracht**, Epstein's administrative assistant based in the USVI. "JABW" = her initials (Jeanne Anne Brennan Wiebracht). "CPA" reflects her financial/accounting role. The original report's observation that JABWCPA appears on Deutsche Bank distribution lists alongside richardkahn12@gmail.com remains correct -- both Jeanne Brennan and Richard Kahn received all DB financial reports. But the email belongs to Jeanne, not Kahn.
+
+**Revised Confidence: 99%** (up from 95%, and corrected in attribution)
 
 ---
 
@@ -305,13 +307,13 @@ The forensic evidence reveals a tight financial control structure:
 
 2. **Deutsche Bank** (Institution-1) provided the banking platform:
    - Opened the "Southern Financial Relationship" on 8/26/2013 (immediately after JPM exit)
-   - Stewart Oldfield and Paul Barrett served as primary relationship managers
+   - Stewart Oldfield and Paul Morris served as primary relationship managers (Note: Paul Barrett was Epstein's personal portfolio manager at JPMorgan and later Alpha Group Capital, not a DB relationship manager)
    - HNW ClientServices handled report distribution
    - Account balance reports sent to JABWCPA, richardkahn12, Pinedo, Smith, Cothron, Morris, Stepanian, Amanda Kirby
    - Peak combined balances exceeded $50M across all Epstein entities
 
 3. **The Inner Circle receiving financial reports:**
-   - JABWCPA@gmail.com (Kahn/HBRK -- accountant)
+   - JABWCPA@gmail.com (Jeanne Brennan Wiebracht -- USVI administrative assistant/CPA; **CORRECTED** from original Kahn attribution)
    - richardkahn12@gmail.com (Kahn -- personal)
    - Amanda Kirby (Epstein's assistant/office)
    - Darren Indyke (DKIESQ -- Epstein's attorney)
@@ -372,16 +374,73 @@ From RM CODE 82289 balance reports:
 
 # CONFIDENCE ASSESSMENTS
 
-| Finding | Confidence | Basis |
-|---------|-----------|-------|
-| JABWCPA routes to Richard Kahn / HBRK Associates | **HIGH (95%)** | Co-occurrence on 290 identical distribution lists; same recipients; same document types; professional CPA designation matches Kahn's role |
-| Richard D. Kahn was Epstein's primary CPA | **VERY HIGH (99%)** | "sole authorized signer"; cc'd on all financial transactions; tax filings; 498 appearances; HBRK Associates bank accounts within Epstein network |
-| Institution-1 = Deutsche Bank | **VERY HIGH (99%)** | November-December 2018 wire transfers only possible at DB (JPM closed 2013); DB was subject of SDNY subpoena; DB account structures match bail memo descriptions; temporal alignment is conclusive |
-| $500M = total net worth per DB records | **HIGH (90%)** | DB cash accounts total ~$50-60M; $500M reflects total assets including real estate ($77M mansion, islands, NM ranch, Paris apartment) plus investments |
-| $10M/year overseas = USVI + international income | **HIGH (85%)** | USVI entities, FX exposure, international wires, Paris residence, Prime Overseas Investments all consistent |
+| Finding | Original Confidence | Revised Confidence | Basis for Change |
+|---------|-------------------|-------------------|-----------------|
+| JABWCPA = Jeanne Brennan Wiebracht | 95% (HBRK/Kahn) -- **INCORRECT** | **99% (Brennan Wiebracht)** | DS11 email headers unambiguously show Jeanne Brennan Wiebracht sending from jabwcpa@gmail.com |
+| Richard D. Kahn was Epstein's primary CPA | **99%** | **99%** | Confirmed by FBI interview of Amanda Kirby (EFTA00128765); Harry Beller also had significant role |
+| Institution-1 = Deutsche Bank | **99%** | **100%** | EFTA00081426 (DS9): AUSA notes cite DB production numbers (DB00001, DB000117) with identical figures ($10M income, $500MM+ net worth, $250K on 12/3/18) |
+| $500M = total net worth per DB records | **90%** | **100%** | EFTA00081426 explicitly quotes "Estimated net worth: $500MM+" from DB records |
+| $10M/year overseas = USVI + international income | **85%** | **100%** | EFTA00081426 explicitly quotes "Estimated annual income: $10,000,000" from DB records |
+
+---
+
+---
+
+## ADDENDUM: DS9/DS11 REVISIT FINDINGS (2026-02-12)
+
+### The Rosetta Stone: EFTA00081426 (DS9)
+
+An internal AUSA email dated July 12, 2019 (same date as the Government's bail/detention memo) provides definitive confirmation of Institution-1 = Deutsche Bank. The email, titled "notes on [Deutsche Bank subpoena returns]," states:
+
+> "DB00001 - at 11: Estimated annual income: $10,000,000 / Estimated net worth: $500MM+ / [Accountant -- Harry Beller, HBRK Associates, Accountant"
+> "DB000117 - made payments to: 12/3/18, $250,000 / 4/22/15, $50,000 / 1/28/15, $50,000 / 9/24/15, $23,625"
+
+The "DB00001" and "DB000117" are Deutsche Bank document production numbers. The $10M income, $500MM+ net worth, and $250K on 12/3/18 are identical to the bail memo's Institution-1 figures. This document also identifies Harry Beller (not Richard Kahn) as the accountant listed in DB's records.
+
+### Amanda Kirby FBI Interview (EFTA00128765, DS9)
+
+Complete 15-page FBI FD-302 interview of Amanda Kirby, Deutsche Bank associate, conducted August 10, 2021. Key clarifications:
+- Harry Beller "was also one of EPSTEIN'S accountants. Wire requests would generally come in from KAHN, who was EPSTEIN'S accountant. KAHN would at least be CC'd on all requests."
+- "Bella Klein -- Was an assistant to Richard Kahn."
+- Kirby "did not recall if she ever flagged any EPSTEIN wires as suspicious."
+- Callback verification stamps required for wires above $50,000.
+
+This clarifies the hierarchy: Richard Kahn was the senior accountant; Harry Beller was a second accountant at HBRK; Bella Klein was Kahn's assistant.
+
+### FirstBank Puerto Rico Subpoena Response (EFTA00065864, DS9)
+
+Grand Jury Subpoena response (FB Num. SUB-19353, March 9, 2020) reveals the complete USVI banking architecture. Harry Beller was an authorized signer on accounts dating back to 1998 (Little St James LLC, alongside Ghislaine Maxwell). Jeanne Brennan-Wiebracht (JABWCPA) was authorized signer on multiple entity accounts including IGO Company LLC, Thomas World Air LLC, and Southern Trust Company Inc.
+
+### Charles Schwab SAR: $27.6M Suspicious Activity (EFTA00151544-151545, DS9)
+
+Charles Schwab filed a SAR covering $27,658,324 in suspicious activity between 6/28/2019 and 7/10/2019 (immediately before Epstein's arrest). The SAR concerned "attempted wires for the purpose of real estate, in light of negative media surrounding Jeffrey Epstein" and referenced HBRK Associates. The FBI was considering whether HBRK and Schwab accounts were "facilitating" Epstein's operations.
+
+### Honeycomb Asset Management: $70M Liquid (EFTA00068100, DS9)
+
+Attorneys Reed Brodsky and Stephanie Brooker reached out on behalf of Honeycomb, which was "currently holding funds for entities linked to Epstein and Richard Khan": approximately $70M liquid for the benefit of Southern Trust, plus $1M for Kahn and his spouse. The Butterfly Trust held illiquid assets (an entity awaiting IPO).
+
+### Complete Co-Conspirator Payment Timeline (EFTA00092643, DS9)
+
+Government Exhibit providing the complete timeline of payments to potential co-conspirators (>$10,000) with full account numbers: MC2 Model Management received $79,440 (Dec 2013-Jan 2014); redacted recipients received $50K+$50K+$23,625 (2015) from Butterfly Trust/JE accounts; Aviloop LLC received $45K (Nov 27, 2018) from JEGE LLC and $100K (Nov 30, 2018) from Butterfly Trust; a redacted recipient received $250K (Dec 3, 2018) from Butterfly Trust; and two redacted recipients received $175K+$110K (Dec 19, 2018) from Southern Financial. These match EFTA00081426's AUSA notes exactly.
+
+### Bloomberg FOIA for Institution-1 (EFTA00040515, DS9)
+
+Bloomberg News submitted a FOIA request specifically seeking to identify Institution-1, referencing Document 11, Case 1:19-cr-00490-RMB. SDNY's response noted: "This is very likely covered by exemption."
+
+### FBI CHS Reporting on Boris Nikolic (EFTA00128842-843, DS9)
+
+The FBI ran a Confidential Human Source to report on Boris Nikolic's activities as part of the Southern Trust wire fraud investigation (Case ID #: 272-SJ-3262541). Nikolic (Managing Director of bng0 and Biomatics Capital) was named as a potential successor trustee in Epstein's trust.
+
+### Epstein Trust Instruments -- Key Provisions (DS9)
+
+- EFTA00099303: Richard David Kahn and Lisa Kahn named as trust beneficiaries, including "Coatue Enterprises, LLC" among Kahn's beneficial interests
+- EFTA00098341: Paul Barrett named with provision to settle financial obligations upon Epstein's death
+- EFTA00099303: Successor trustee chain: Boris Nikolic -> Barnaby Marsh -> Anthony Barrett -> Kathy Ruemmler (former Obama White House Counsel)
+- EFTA00092555: Harry Beller served as notary for Epstein's codicil; Kahn and Groff as witnesses
 
 ---
 
 *End of Forensic Accounting Analysis #4*
+*Addendum dated: 2026-02-12*
 
 DATA QUALITY NOTE: A data quality audit confirmed that ~98% of 'bad_overlay' records in the redaction database are OCR noise from degraded scans, not text hidden behind removable redactions. Text searches against this corpus remain valid for identifying which documents mention specific terms.

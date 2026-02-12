@@ -4,10 +4,12 @@
 
 ## Methodology
 
+**Data Source Note:** Per REDACTION_TEXT_LAYER_ANALYSIS (Report #93), DS10's "hidden text under redaction bars" is predominantly garbled OCR from an invisible Tr=3 text rendering layer placed over scanned document images, not content genuinely concealed beneath PDF redaction annotations. The black boxes visible in these PDFs are baked JPEG pixels in the scanned images, not PDF overlay objects. The full_text_corpus.db (PyMuPDF extraction) captures the same underlying text more cleanly. The reconstructed pages below reflect OCR of page content, and while the extracted text is real, the recovery mechanism is OCR-based, not redaction-defeat.
+
 Each entry in the redaction database represents text extracted from under a single
-black rectangle (redaction overlay) in court documents. Multiple rectangles on the
+black rectangle region in court documents. Multiple rectangles on the
 same page, when read in spatial order (top-to-bottom, left-to-right), reconstruct
-the original content that was intentionally hidden.
+page content.
 
 This analysis groups fragments by EFTA number and page number, orders them by
 spatial coordinates (rect_y0 then rect_x0), and concatenates them to produce
@@ -58,6 +60,12 @@ readable page reconstructions.
 | Bradley | 134 |
 | Andrew | 121 |
 | Chris | 117 |
+
+**Name Disambiguation Notes:**
+- **"Les" (960 pages)** — Likely includes Les Wexner references, other uses of "Les" as a first name, and word fragments
+- **"Ross" (136 pages)** — Multiple individuals: Adriana Ross (co-conspirator), other Rosses in legal filings
+- **"Bradley" (134 pages)** — Predominantly Bradley Gillin (Deutsche Bank) in account management emails
+- **"Mitchell" (54 pages, if present below)** — Both Senator George Mitchell and David Mitchell (estate co-executor) are separate individuals who appear in the corpus
 | Darren | 114 |
 | Indyke | 99 |
 | Larry | 73 |

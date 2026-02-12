@@ -91,7 +91,7 @@ The most critical document for understanding Epstein's financial architecture at
 
 Combining both Haze Trust accounts on 08/17/2018:
 - **Haze Trust Total: $43,086,768.63**
-- **Total Epstein-related balances (estimated): ~$49,000,000+**
+- **Total Epstein-related balances (Haze Trust peak): ~$49,500,000** (Note: DS9 reveals the total Epstein relationship at DB was approximately **$230-330 million** per [EFTA00128826](https://www.justice.gov/epstein/files/DataSet%209/EFTA00128826.pdf) and [EFTA00165748](https://www.justice.gov/epstein/files/DataSet%209/EFTA00165748.pdf); the $49M represents only the Haze Trust peak, not the total relationship.)
 - **Haze Trust as percentage of total: ~88%**
 
 The Haze Trust was not merely one account among many. It was the **overwhelmingly dominant financial vehicle** in Epstein's Deutsche Bank relationship.
@@ -223,7 +223,7 @@ The recovered email threads reveal the complete cast of participants in the AML 
 
 | Name | Role | Key Evidence |
 |------|------|-------------|
-| **Vahe Stepanian** | AML Compliance Officer (primary) | Named in 100+ redactions; led the Haze Trust inquiry; sent/received all SAM 1788880 communications |
+| **Vahe Stepanian** | PWM team member (Associate, Wealth Investment Coverage / Key Client Partners) | Named in 100+ redactions; appeared on AML correspondence as the banker being questioned by compliance, not the compliance officer initiating inquiries. DS9 confirms his role as operational banking (wire tracking, account management for Richard Kahn) -- not AML compliance ([EFTA00693410](https://www.justice.gov/epstein/files/DataSet%209/EFTA00693410.pdf), [EFTA00169398](https://www.justice.gov/epstein/files/DataSet%209/EFTA00169398.pdf)) |
 | **Amlcompliance Inquiries** (amlcompliance.inquiries@db.com) | Shared mailbox | Formal sender/recipient of all inquiry emails |
 | **Cherie Quigley** | AML Compliance (escalation) | Added to thread during URGENT-THIRD REQUEST phase |
 | **Cynthia Rodriguez** | Compliance team member | Cc'd on most inquiry emails; also involved in other account inquiries (LSJE LLC) |
@@ -346,7 +346,7 @@ The database contains **207 unique EFTA documents** in the 01501000-01504000 ran
 | 2/1/12 - 2/29/12 | [EFTA01503001](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01503001.pdf) | `"Primary Account; THE HAZE TRUST; [For] [t]h[e] P[er]i[o]d 2[/]1/12 [to] 2/29/12"` |
 | 8/31/13 - 9/30/13 | [EFTA01503202](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01503202.pdf) | `"THE HAZE TRUST; Primary Account; [For] th[e] P[er]i[o]d 8/31/13 t[o] 9/30/13"` |
 
-This confirms the Haze Trust was operational at Deutsche Bank for **at least 8+ years** (2011-2019), providing ample time for any genuine AML process to detect suspicious patterns.
+The DB bank statements begin in 2011, but DS9 reveals the Haze Trust was formed on **February 9, 1999** ([EFTA00721073](https://www.justice.gov/epstein/files/DataSet%209/EFTA00721073.pdf), [EFTA01193890](https://www.justice.gov/epstein/files/DataSet%209/EFTA01193890.pdf), [EFTA00165655](https://www.justice.gov/epstein/files/DataSet%209/EFTA00165655.pdf)) -- not 1991 as partially read from one OCR artifact. The trust was established under New York law with EIN 13-7185414, Epstein as both Grantor and Trustee, and Darren Indyke designated as successor trustee. The earliest investments (King Street Capital, $10M) date to November 1, 1999. This means the trust was operational for **at least 20 years** (1999-2019), providing ample time for any genuine AML process to detect suspicious patterns.
 
 ---
 
@@ -538,7 +538,7 @@ This model persisted for the duration of the Epstein relationship. It was not un
 The Haze Trust AML inquiry at Deutsche Bank represents a systemic failure of anti-money laundering controls at one of the world's largest financial institutions. The evidence recovered from these redacted documents demonstrates that:
 
 - DB's AML systems **did** detect suspicious activity (Alert# SAM 1788880)
-- DB's compliance officers **did** attempt to investigate (Vahe Stepanian's persistent inquiries)
+- DB's compliance team **did** attempt to investigate by questioning the PWM banking team (Stepanian, Morris, Oldfield, Kozelsky), but the banking team systematically deflected. Note: Stepanian was not a compliance officer but the PWM team member being questioned by compliance.
 - DB's private wealth management team **systematically obstructed** the compliance process (requiring URGENT THIRD REQUEST escalations)
 - DB's institutional response was to **clear alerts** rather than file SARs
 - DB **did not file** a Suspicious Activity Report until weeks after Epstein's arrest
@@ -547,8 +547,34 @@ The Haze Trust AML inquiry at Deutsche Bank represents a systemic failure of ant
 
 This is not a case of AML systems failing to detect suspicious activity. It is a case of an institution that **detected suspicious activity and chose not to act on it** -- a pattern consistent with the prioritization of client revenue over regulatory compliance obligations.
 
-The Haze Trust, holding nearly **$50 million** at its peak, was the single largest vehicle in an intricate web of shell companies controlled by a convicted sex offender. That it operated at Deutsche Bank for nearly a decade without a proactive SAR filing is not a compliance gap. It is a compliance failure of the most fundamental kind.
+The Haze Trust, holding nearly **$50 million** at its peak (within a total Epstein relationship of $230-330 million), was the single largest account in an intricate web of shell companies controlled by a convicted sex offender. That it operated at Deutsche Bank for **20 years** (1999-2019) without a proactive SAR filing is not a compliance gap. It is a compliance failure of the most fundamental kind.
 
 ---
 
-*This report was generated through forensic analysis of 1,808,915 redacted text fragments, 107,422 extracted entities, and 39,588 reconstructed pages from the DOJ Epstein Files database. All quoted text is reproduced exactly as extracted from document text layers (OCR), with brackets indicating reconstructed characters where OCR confidence was below 0.99. DATA QUALITY NOTE: A data quality audit confirmed ~98% of 'bad_overlay' records are OCR noise from degraded scans. Text searches remain valid for identifying document content.*
+## APPENDIX E: DS9/DS11 REVISIT FINDINGS (2026-02-12)
+
+DS9/DS11 full-text search identified **412 unique EFTA documents** referencing "Haze Trust" (136 in DS11 alone), representing a substantial expansion beyond the original 300 DS10-based documents.
+
+### Key DS9 Corrections Applied Above
+1. **Formation date**: February 9, 1999 (not 1991 OCR artifact); trust operated 20 years, not ~8
+2. **Stepanian role**: PWM team member, not AML compliance officer
+3. **Total relationship**: $230-330M, not ~$49M
+4. **Ownership chain**: HAZE TRUST (EIN 13-7185414) is a grantor trust of Southern Financial LLC, which is a disregarded entity 100% owned by Southern Trust Company, Inc. ([EFTA00593861](https://www.justice.gov/epstein/files/DataSet%209/EFTA00593861.pdf))
+
+### Key DS9 New Documents
+| EFTA | Description |
+|------|-------------|
+| [EFTA00128968](https://www.justice.gov/epstein/files/DataSet%209/EFTA00128968.pdf) | FBI FD-302: Cherie Quigley -- "maybe a SAR should have been filed on EPSTEIN" |
+| [EFTA00128765](https://www.justice.gov/epstein/files/DataSet%209/EFTA00128765.pdf) | FBI FD-302: Amanda Kirby -- Morris "insecure and a back-handed manipulator," MC2 wires "did not raise a red flag" |
+| [EFTA00080250](https://www.justice.gov/epstein/files/DataSet%209/EFTA00080250.pdf) | SDNY Exhibit D: complete Haze Trust transaction tables with DB-SDNY Bates numbers |
+| [EFTA00168946](https://www.justice.gov/epstein/files/DataSet%209/EFTA00168946.pdf) | Complete KYC Print (20 pages): Haze Trust rated "Overall-HIGH, Entity-HIGH, Industry-HIGH, Country-MEDIUM, Product-HIGH" |
+| [EFTA00166763](https://www.justice.gov/epstein/files/DataSet%209/EFTA00166763.pdf) | Complete KYC Print (12 pages): full risk profile for Epstein Jeffrey Relationship |
+| [EFTA00144222](https://www.justice.gov/epstein/files/DataSet%209/EFTA00144222.pdf) | FBI objected to FinCEN SAR release in 2023 civil litigation, citing pending Maxwell appeal |
+| [EFTA00090637](https://www.justice.gov/epstein/files/DataSet%209/EFTA00090637.pdf) | JPMorgan filed **14 SARs and 89 CTRs** on Epstein -- a parallel SAR filing DB apparently never cross-referenced |
+| [EFTA00313328](https://www.justice.gov/epstein/files/DataSet%209/EFTA00313328.pdf) | Christie's Seller Agreement for Haze Trust -- "Post-War and Contemporary Art Evening Auction" (Dec 2017) |
+| [EFTA01255683](https://www.justice.gov/epstein/files/DataSet%209/EFTA01255683.pdf) | Full trust agreement with signature pages, successor trustee designation |
+| [EFTA00076491](https://www.justice.gov/epstein/files/DataSet%209/EFTA00076491.pdf) | Estate Verified Inventory: Southern Trust Company Inc. valued at **$233.6 million** |
+
+---
+
+*This report was generated through forensic analysis of 1,808,915 redacted text fragments, 107,422 extracted entities, and 39,588 reconstructed pages from the DOJ Epstein Files database, supplemented by DS9/DS11 full-text corpus review (862,939 documents). All quoted text is reproduced exactly as extracted from document text layers (OCR), with brackets indicating reconstructed characters where OCR confidence was below 0.99. DATA QUALITY NOTE: A data quality audit confirmed ~98% of 'bad_overlay' records are OCR noise from degraded scans. Text searches remain valid for identifying document content.*

@@ -49,7 +49,9 @@ The specific EFTA number `EFTA00524160` was NOT found in any of the four databas
 | Redaction analysis (v2) | Distinct EFTA with plist in hidden (redacted) text | **12** |
 | Redaction analysis (ds10) | Distinct EFTA with plist (duplicates v2) | **10** |
 
-**Total unique documents containing Apple PLIST metadata: approximately 460+**
+**Total unique documents containing Apple PLIST metadata (OCR database only): approximately 460+**
+
+> **Revisit note (2026-02-12):** The full text corpus (1,380,937 documents across all 12 datasets) reveals a scale approximately 200x larger than the OCR database captured: 93,634 documents with `gmail-label-ids`, 18,160 with `original-mailbox` references, and 84,401 with `date-received` + `plist` co-occurring. DS11 alone contains approximately 75,630 PLIST-containing documents. The OCR database captured less than 0.5% of the actual PLIST corpus. The 460+ figure below reflects only the OCR database subset.
 
 ### 2.2 What This Data Actually Is
 
@@ -86,10 +88,13 @@ The PLIST fragments are Apple Mail's internal message metadata, automatically ap
 
 | Email Account | Description | Document Count |
 |---------------|-------------|----------------|
-| `jeevacation@gmail.com` | Jeffrey Epstein's primary Gmail | ~683 total docs (45+ with plist) |
-| `sarahk525@mail.mac.com` | Sarah Kellen's Apple iCloud/Mac email | 11 documents with IMAP mailbox references |
+| `jeevacation@gmail.com` | Jeffrey Epstein's primary Gmail | ~683 in OCR DB; **272,735 in DS9 + 170,876 in DS11** (full corpus) |
+| `sarahk525@mail.mac.com` | Sarah Kellen's Apple iCloud/Mac email | 11 in OCR DB; **1,465 in DS9/DS11** (full corpus) |
+| `sarahk525@me.com` | Sarah Kellen's transitional Apple email | **39 in DS9** (full corpus; not found in OCR DB) |
 
 The `sarahk525@mail.mac.com` account is forensically significant -- it reveals that **Sarah Kellen's Mac computer running Apple Mail** was used to access and export some of these emails. The IMAP mailbox references show folder paths like `imap://sarahk525@mail.mac.com/Sent%20Messages`.
+
+> **Revisit note (2026-02-12):** DS9 also reveals the `sarahk525@me.com` transitional Apple domain, with 39 documents including flight coordination emails with Nadia Marcinkova ([EFTA00415730](https://www.justice.gov/epstein/files/DataSet%209/EFTA00415730.pdf): "330 wheels up WED the 11th from lsj to ny") and direct emails to Epstein ([EFTA00422779](https://www.justice.gov/epstein/files/DataSet%209/EFTA00422779.pdf)). The total sarahk525 count expands from 11 to 1,465 documents across DS9/DS11.
 
 ### 2.4 Date Range of PLIST-Embedded Email Metadata
 
@@ -167,7 +172,7 @@ All 12 of these come from dataset10 (EFTA01*) and dataset11 (EFTA02*).
 
 ### 4.2 Lesley Groff (Epstein's Executive Assistant) -- Heaviest PLIST Presence
 
-Lesley Groff appears in **40+ documents** with PLIST metadata, making her the most frequently appearing person in the Apple Mail data. Her emails consistently show the plist metadata pattern, indicating she was a primary user of Apple Mail for Epstein-related correspondence.
+Lesley Groff appears in **40+ documents** with PLIST metadata in the OCR database, making her the most frequently appearing person in the Apple Mail data. Her emails consistently show the plist metadata pattern, indicating she was a primary user of Apple Mail for Epstein-related correspondence. DS9 contains additional Groff email chains showing her `lesley.jee@gmail.com` account (the "JEE" = Jeffrey E. Epstein naming convention mirrors `jeevacation@gmail.com`), including [EFTA00432172](https://www.justice.gov/epstein/files/DataSet%209/EFTA00432172.pdf) and [EFTA00436223](https://www.justice.gov/epstein/files/DataSet%209/EFTA00436223.pdf) (furniture shopping at 301 E 66th, March 2011).
 
 ### 4.3 Ann Rodriquez (Epstein's Housekeeper, USVI)
 
@@ -180,7 +185,9 @@ Ann Rodriquez appears in 6+ documents with PLIST, including:
 
 ## 5. CELLEBRITE AND DEVICE FORENSIC REFERENCES
 
-### 5.1 Cellebrite References (17 documents)
+### 5.1 Cellebrite References (17 documents in DS8; 21+ in DS9)
+
+> **Revisit note (2026-02-12):** DS9 alone contains 21+ Cellebrite-referencing documents, expanding the total beyond the 17 identified in DS8. New DS9 documents include: [EFTA00164855](https://www.justice.gov/epstein/files/DataSet%209/EFTA00164855.pdf) (CART download of 80GB Cellebrite report from a contraband phone, April 2025); [EFTA00173373](https://www.justice.gov/epstein/files/DataSet%209/EFTA00173373.pdf) (FBI CACHTU inspection revealing Axiom, Cellebrite, and GrayKey purchased via UCO funds); and [EFTA00164740](https://www.justice.gov/epstein/files/DataSet%209/EFTA00164740.pdf) (March 2025 evidence review referencing CART/Cellebrite procedures).
 
 The following documents reference Cellebrite forensic extraction software:
 
@@ -229,6 +236,24 @@ These documents contain Apple Mail PLIST metadata with IMAP mailbox paths pointi
 | [EFTA02323071](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02323071.pdf) | Email with Sarah Kellen's mailbox reference |
 
 **Forensic significance:** The presence of `imap://sarahk525@mail.mac.com/Sent%20Messages` in the PLIST metadata proves these emails were stored in and exported from Sarah Kellen's Apple Mail account on a Mac computer. The `.mac.com` domain was Apple's pre-iCloud email service (later transitioned to `@me.com` and then `@icloud.com`).
+
+### Sarah Kellen's Mac -- Property-Organized Email Folders (DS9 Expansion)
+
+> **Revisit addition (2026-02-12):** [EFTA00511040](https://www.justice.gov/epstein/files/DataSet%209/EFTA00511040.pdf) (DS9) is a Cellebrite forensic extraction report for device NYCO24329 (Macintosh HD, AFF4 forensic image format). It reveals Kellen's complete Mac Mail folder structure organized by Epstein property:
+>
+> - `/Users/(Deleted)/Library/Mail/V2/Mac-sarahk525/Work.mbox/LSJ.mbox/` -- emails organized under Little Saint James island
+> - `/Users/(Deleted)/Library/Mail/V2/Mac-sarahk525/Work.mbox/71st.mbox/` -- emails organized under the 71st Street Manhattan townhouse
+> - `/Users/(Deleted)/Library/Mail/V2/MailData/Envelope Index` -- master email database
+>
+> The account was marked `(Deleted)` -- the user profile had been deleted before forensic imaging, indicating attempted evidence destruction. The `Work.mbox` parent folder confirms these were treated as work-related communications.
+>
+> The same Macintosh (NYCO24329) also contained `/Users/karyna/Library/Mail/V6/` -- Karyna Shuliak's user account, establishing a device continuity chain from NPA-protected co-conspirator (Kellen) to Epstein's later partner (Shuliak).
+>
+> [EFTA00518756](https://www.justice.gov/epstein/files/DataSet%209/EFTA00518756.pdf) shows top contacts analysis: sarahk525 had 22,524 messages with her top contact, 12,304 with the second, and 10,952 with the third.
+
+### Skype Call Logs -- Device NYCO24329 (DS9 Expansion)
+
+> **Revisit addition (2026-02-12):** [EFTA00511018](https://www.justice.gov/epstein/files/DataSet%209/EFTA00511018.pdf)/[EFTA00511023](https://www.justice.gov/epstein/files/DataSet%209/EFTA00511023.pdf) (DS9): Cellebrite extraction from NYCO24329 includes complete Skype audio call logs spanning September 2012 through January 2014, with both incoming and outgoing calls documented. Many calls show "Cancelled" status. This provides an additional communication channel not previously documented.
 
 ---
 
@@ -282,7 +307,7 @@ Despite not being device backup data, this PLIST metadata is still forensically 
 
 ### 8.3 Date Coverage
 
-The PLIST metadata timestamps cover email activity from **September 2009 to October 2018** -- a 9-year window ending approximately 9 months before Epstein's arrest on July 6, 2019.
+The PLIST metadata timestamps in the OCR database cover email activity from **September 2009 to October 2018** -- a 9-year window ending approximately 9 months before Epstein's arrest on July 6, 2019. With the full corpus, DS9 Cellebrite extractions provide device-level timestamps independent of email PLIST metadata, and the PLIST date range may extend further.
 
 ### 8.4 Redaction Failures
 
@@ -292,7 +317,7 @@ The PLIST metadata timestamps cover email activity from **September 2009 to Octo
 
 - The **OCR-based findings** (268 documents) represent data visible in the document text and captured by OCR processing. These would be available to anyone examining the documents.
 - The **12 redacted PLIST documents** from the redaction analysis are potentially NEW findings, as the PLIST content was hidden beneath redaction overlays and only recovered through the document analysis process.
-- The **Cellebrite/forensic device** references (17 documents) provide context about how Apple device data was handled in the case but are visible in the document text.
+- The **Cellebrite/forensic device** references (17 documents in DS8; 21+ in DS9) provide context about how Apple device data was handled in the case but are visible in the document text.
 
 ### 8.6 Regarding [EFTA00524160](https://www.justice.gov/epstein/files/DataSet%209/EFTA00524160.pdf)
 

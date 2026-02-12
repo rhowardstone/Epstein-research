@@ -2,7 +2,7 @@
 
 ## Overview
 
-This report documents all significant text extracted from document text layers across the Epstein Files Task Force Archive (EFTA). DATA QUALITY NOTE: A data quality audit confirmed ~98% of 'bad_overlay' records are OCR noise from degraded scans. Text searches remain valid for identifying document content. Two source files were systematically reviewed:
+This report documents all significant text extracted from document text layers across the Epstein Files Task Force Archive (EFTA). The term "hidden text" used throughout this report refers to text from invisible OCR text layers (Tr=3 rendering mode in PDF), not text concealed beneath removable redaction overlays. As confirmed by the REDACTION_TEXT_LAYER_ANALYSIS report, the black redaction bars in these documents are baked JPEG pixels, not PDF annotation objects. The OCR was performed on original pre-redacted page images, and the resulting text layer was placed over the scanned (redacted) versions. The extracted text IS genuine government content, but the extraction method is OCR text layer reading, not redaction removal. DATA QUALITY NOTE: A data quality audit confirmed ~98% of 'bad_overlay' records are OCR noise from degraded scans. Text searches remain valid for identifying document content. The full_text_corpus.db (PyMuPDF extraction) now provides a cleaner path to the same text layer content. Two source files were systematically reviewed:
 
 - **all_hidden_text_50plus.txt**: 2,205+ entries of hidden text with 50+ characters
 - **hidden_text_names_keywords.txt**: 4,703 entries of shorter hidden text (10-49 characters) containing significant keywords
@@ -838,10 +838,10 @@ Multiple entries across files reference:
 # PART II: DATASET 10 — Complete Redaction Analysis
 
 **Added:** 2026-02-05
-**Source:** Dataset 10 document text database — 503,154 PDFs scanned, 545,293 bad overlays recovered
+**Source:** Dataset 10 document text database -- 503,154 PDFs scanned, 545,293 bad overlays with extracted OCR text
 **Additional source files:** ds10_hidden_text_50plus.txt (14,216 entries), ds10_hidden_text_keywords.txt (26,970 entries), ds10_all_hidden_text.txt (376,116 entries)
 
-Dataset 10 is by far the largest dataset, containing 30x more documents than all other datasets combined. The redaction scan found **1,629,776 total redactions** with **545,293 recoverable bad overlays** — 7.7x more than all other datasets combined.
+Dataset 10 is by far the largest dataset, containing 30x more documents than all other datasets combined. The redaction scan found **1,629,776 total redactions** with **545,293 bad overlays containing OCR text** -- 7.7x more than all other datasets combined. METHODOLOGY CAVEAT: As documented in the DATA_QUALITY_AUDIT, DS10 bad_overlay results are subject to the same false positive issue as DS9-11 -- garbled OCR of scanned black bars. The 545,293 figure includes a high proportion of noise. The curated 14,216 entries (50+ chars) are more reliable but still contain artifacts.
 
 ---
 
@@ -918,7 +918,7 @@ Sentence: 20 years with 5 years supervised release and $750,000 restitution.
 
 ### FBI "PROMINENT NAMES" Summary (Page 17)
 
-**The entire page was redacted but fully recoverable.** This is an FBI summary of all victim allegations against named prominent individuals:
+**The entire page was visually redacted but its text content was extracted from the OCR text layer.** This is an FBI summary of all victim allegations against named prominent individuals:
 
 #### Trump
 > "1. [Victim] stated Epstein introduced her to Trump who subsequently forced her head down to his exposed penis which she subsequently bit. In response, Trump punched her in the head and kicked her out. (date range 1983-1985. Lafine would have been 13-15)"

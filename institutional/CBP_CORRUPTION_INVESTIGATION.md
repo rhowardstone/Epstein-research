@@ -12,6 +12,8 @@ This report documents a systematic investigation into U.S. Customs and Border Pr
 
 This is the single most damning document in the CBP corruption investigation. It is an internal CBP memo titled "INFORMATION PROVIDED BY CBPAS" dated Friday, August 30, 2019, at 0730 hours, from "1601 - CBP CES, Supervisor's office, North Charleston, SC."
 
+**[IDENTITY DE-REDACTED 2026-02-12]:** The officer is **Timothy ("Tim") Routch**, also known as "Bill Routch" -- identified by name in DS9 unredacted versions ([EFTA00149603](https://www.justice.gov/epstein/files/DataSet%209/EFTA00149603.pdf), [EFTA00149608](https://www.justice.gov/epstein/files/DataSet%209/EFTA00149608.pdf)). FBI grand jury subpoenas for Routch's credit reports from all three bureaus (May/June 2020) confirm: employer DHS, position Agriculture Specialist ([EFTA01681786](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01681786.pdf), [EFTA01681789](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01681789.pdf), [EFTA01681829](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01681829.pdf)). Routch worked at USVI Pre-Clearance from 2008-2016, transferring to Charleston approximately February 21, 2016. The dual name "Bill"/"Tim" is explained by Lesley Groff having him in contacts as "Bill Routch, Customs Agent" while official documents use "Timothy."
+
 The document records a CBP Agriculture Specialist (CBPAS), Badge # CAS03223, HashID # CZACMME, who walked into his supervisor's office to disclose that a female acquaintance had filed two complaints against him:
 
 **ISSUE 1 -- Complaint to the U.S. Department of Justice:**
@@ -54,7 +56,7 @@ The same female acquaintance filed a complaint accusing the officer of "predator
 Multiple copies of this email chain appear across the databases (also in [EFTA00015006](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015006.pdf), [EFTA00015013](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015013.pdf), [EFTA00019203](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019203.pdf), [EFTA00020825](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020825.pdf), [EFTA00022435](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022435.pdf), [EFTA00022456](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022456.pdf), [EFTA00023258](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023258.pdf), [EFTA00024932](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024932.pdf), [EFTA00024938](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024938.pdf)), indicating its significance.
 
 **The Witness and His Counsel:**
-A witness (name redacted, referred to as "Mr. [REDACTED]") was represented by **Glen G. McGorty, Managing Partner of Crowell & Moring LLP, New York Office**. McGorty is a prominent white-collar defense attorney.
+**[IDENTITY DE-REDACTED 2026-02-12]:** The witness is **Larry Visoski**, Epstein's chief pilot (email: lvjet@aol.com). DS9 document [EFTA00081477](https://www.justice.gov/epstein/files/DataSet%209/EFTA00081477.pdf) names him in full: "We want Larry to be fully prepared." Visoski was represented by **Glen G. McGorty, Managing Partner of Crowell & Moring LLP, New York Office**. McGorty is a prominent white-collar defense attorney.
 
 **The Prosecutors:**
 The SDNY team included:
@@ -71,6 +73,8 @@ The SDNY team included:
 
 3. **Key Email -- October 26, 2020**: The AUSA specified the topics for the second proffer:
 > "We expect to ask Mr. [REDACTED] about his interactions with [REDACTED], the U.S. Customs and Border Protection employee who worked in Saint Thomas and who had Mr. [REDACTED] listed as a contact in his phone. I expect we will ask for an approximate timeline of when Mr. [REDACTED] met and interacted with [REDACTED], the nature of those interactions, and any interactions [REDACTED] may have had with Epstein (to the best of Mr. [REDACTED]'s knowledge)."
+
+   **[DE-REDACTED]:** DS9 [EFTA00081477](https://www.justice.gov/epstein/files/DataSet%209/EFTA00081477.pdf) provides the unredacted version: "We expect to ask Mr. Visoski about his interactions with Timothy ('Tim') Routch, the U.S. Customs and Border Protection employee who worked in Saint Thomas and who had Mr. Visoski listed as a contact in his phone."
 
 4. **November 10-11, 2020**: McGorty asked for "more granularity on this topic" so his client could be "fully prepared."
 
@@ -370,8 +374,8 @@ Despite the redactions, the documents reveal enough context to understand the sc
 
 ## 13. KEY FINDINGS AND CONCLUSIONS
 
-### Finding 1: Identified CBP Officer
-A specific CBP Agriculture Specialist (Badge # CAS03223, HashID # CZACMME) who worked at CBP Pre-Clearance in Saint Thomas from approximately 2008 for over 7 years is confirmed as having:
+### Finding 1: Identified CBP Officer -- Timothy ("Tim") Routch
+**[UPDATED 2026-02-12]:** The officer is **Timothy Routch** (also "Bill Routch"), a CBP Agriculture Specialist (Badge # CAS03223, HashID # CZACMME) who worked at CBP Pre-Clearance in Saint Thomas from 2008-2016. He is confirmed as having:
 - A personal friendship with Epstein developed through official duties
 - Visited Epstein's house, boat, and flew in his helicopter
 - Cleared Epstein's aircraft through customs
@@ -388,12 +392,17 @@ The FBI conducted a dedicated CBP corruption investigation (designated "C-4") th
 - Traveled to South Carolina to interview the subject CBP officer
 - Was ongoing as late as March 2021
 
-### Finding 3: Systematic Customs Bypass
-The proffer questions explicitly asked about:
+### Finding 3: Systematic Customs Bypass -- Scope Expanded
+**[UPDATED 2026-02-12]:** The proffer questions explicitly asked about:
 - Steps CBP employees took to help Epstein "avoid processing that travelers would normally undergo"
 - Favors Epstein did for CBP employees including "trips to Epstein's island"
 - Identities of ALL CBP employees who interacted with Epstein in the Virgin Islands
-This indicates the government believed there was a systematic arrangement, not just one corrupt officer.
+
+DS9 confirms this was far more extensive than one officer. The full corpus reveals:
+- **Direct island visits:** [EFTA00874296](https://www.justice.gov/epstein/files/DataSet%209/EFTA00874296.pdf): Epstein: "please have officer routch come to island for coffee at 130"; [EFTA01972990](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01972990.pdf): "Officer Routch will be at the Dock at 1:30pm"
+- **Regular phone contact 2012-2015:** At least 10 documented phone calls/messages between Epstein and Routch across DS9/DS10/DS11
+- **Second customs agent groomed:** "Alford Richards" (39 documents) -- a customs agent at STT whom Epstein was personally mentoring with Khan Academy courses, Apple University, and employment placement ([EFTA00344575](https://www.justice.gov/epstein/files/DataSet%209/EFTA00344575.pdf), [EFTA00339138](https://www.justice.gov/epstein/files/DataSet%209/EFTA00339138.pdf), [EFTA00340924](https://www.justice.gov/epstein/files/DataSet%209/EFTA00340924.pdf))
+- **Additional named CBP contacts:** "Supervisor Carpenter" ([EFTA00763733](https://www.justice.gov/epstein/files/DataSet%209/EFTA00763733.pdf): "CM's contact"), "Customs Supervisor Joseph" ([EFTA00416276](https://www.justice.gov/epstein/files/DataSet%209/EFTA00416276.pdf)), Officers Goico and Marusic at Teterboro
 
 ### Finding 4: Critical Evidence Gap
 CBP outbound travel records from 1990-2000 were NEVER recorded in the TECS database. This means:
@@ -464,6 +473,41 @@ Ironically, while one CBP officer helped Epstein evade customs for years, CBP wa
 
 ---
 
+## FULL CORPUS REVISIT INTEGRATION (2026-02-12)
+
+### Indyke DHS Complaint Letter (New Finding)
+[EFTA00584279](https://www.justice.gov/epstein/files/DataSet%209/EFTA00584279.pdf): A 3-page letter from Darren K. Indyke to DHS "Private Aircraft Support" (March 15, 2016) complaining about Teterboro CBP officers who attempted to enforce pre-clearance procedures on N212JE. Indyke demanded a standing blanket authorization letter for Epstein's aircraft -- showing legal intimidation of CBP officers who tried to follow rules.
+
+### FBI Financial Investigation of Routch (New Finding)
+FBI issued a grand jury subpoena (May 8, 2020) for Routch's credit reports from all three bureaus: [EFTA01681786](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01681786.pdf) (Experian, June 9, 2020), [EFTA01681789](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01681789.pdf) (Equifax, May 11, 2020), [EFTA01681829](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01681829.pdf) (TransUnion). Reports show a modest financial profile; the investigation was active as of mid-2020.
+
+### Visoski as Planned Maxwell Trial Witness (New Finding)
+[EFTA00098971](https://www.justice.gov/epstein/files/DataSet%209/EFTA00098971.pdf) (May 2021): SDNY was planning to call Visoski as a trial witness at the Maxwell trial (Nov 2021). McGorty coordinated: "He has no specific plans which cannot be moved at this point, but we would only ask that you keep in mind that [he is] going to need to fly up to NY from Florida."
+
+### Pre-Proffer Photo Identification Phase (New Finding)
+[EFTA00084236](https://www.justice.gov/epstein/files/DataSet%209/EFTA00084236.pdf) (July 2020): The investigation began months before the October proffer. The AUSA sent Visoski a photo of Routch to identify, and described: "The individual... may have had a friendship with Jeffrey Epstein... has been to Epstein's home in the Virgin Islands and has accompanied Epstein on boat, helicopter, and/or plane trips. Mr. [redacted] was listed as a contact in [redacted]'s phone, and [he] may have introduced one or more individuals to [redacted] at a bar or other location in the Virgin Islands."
+
+### Epstein-Routch Relationship Timeline
+Based on full corpus documentation:
+| Date | Event | Source |
+|---|---|---|
+| 2008 | Routch begins at CBP Pre-Clearance, St. Thomas | [EFTA00149603](https://www.justice.gov/epstein/files/DataSet%209/EFTA00149603.pdf) |
+| Oct 2012 | Pilot forwards "Bill routch" contact to Epstein | [EFTA01892062](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01892062.pdf) |
+| Nov 2012 | "Reminder to call customs agent Bill Routch" | [EFTA02562492](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02562492.pdf) |
+| May 2013 | Epstein asks "customs officer from ohio that wanted to have a drinkk starts with an R" | [EFTA00365228](https://www.justice.gov/epstein/files/DataSet%209/EFTA00365228.pdf) |
+| May 21, 2013 | "please have officer routch come to island for coffee at 130" | [EFTA00874296](https://www.justice.gov/epstein/files/DataSet%209/EFTA00874296.pdf) |
+| May 21, 2013 | "Officer Routch will be at the Dock at 1:30pm" | [EFTA01972990](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01972990.pdf) |
+| Jul 2014 | Routch calling Epstein back | [EFTA02586243](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02586243.pdf) |
+| Jun 2015 | "Tim Routch (STT customs) is returning your call" | [EFTA02388821](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02388821.pdf) |
+| Feb 2016 | Routch transfers to Charleston | [EFTA00149603](https://www.justice.gov/epstein/files/DataSet%209/EFTA00149603.pdf) |
+| Aug 2019 | Routch self-reports to supervisor | [EFTA00149608](https://www.justice.gov/epstein/files/DataSet%209/EFTA00149608.pdf) |
+| May-Jun 2020 | FBI grand jury subpoena for credit reports | [EFTA01681829](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01681829.pdf) |
+| Jun-Jul 2020 | FBI sends Routch photo to Visoski | [EFTA00084236](https://www.justice.gov/epstein/files/DataSet%209/EFTA00084236.pdf) |
+| Oct-Nov 2020 | Visoski proffer sessions | [EFTA00081477](https://www.justice.gov/epstein/files/DataSet%209/EFTA00081477.pdf) |
+| May 2021 | Visoski planned as Maxwell trial witness | [EFTA00098971](https://www.justice.gov/epstein/files/DataSet%209/EFTA00098971.pdf) |
+
+---
+
 ## 15. OPEN QUESTIONS
 
 1. **Was the CBP officer ever criminally charged?** The C-4 investigation appears to have been active through at least March 2021. No public charging documents have been identified.
@@ -478,7 +522,7 @@ Ironically, while one CBP officer helped Epstein evade customs for years, CBP wa
 
 6. **What is the connection to the Vienna HSI query?** ICE-Vienna queried Epstein's TECS record on March 6, 2020 -- suggesting European law enforcement interest in the trafficking network.
 
-7. **What did Larry Visoski reveal about CBP interactions?** As Epstein's pilot who cleared customs hundreds of times, Visoski would have been the primary witness to CBP corruption at St. Thomas airport.
+7. **What did Larry Visoski reveal about CBP interactions?** As Epstein's pilot who cleared customs hundreds of times, Visoski was the primary witness. **[UPDATED]:** DS9 confirms Visoski was proffered specifically about Timothy Routch in October-November 2020, and was planned as a Maxwell trial witness. The substance of his testimony remains under proffer protection, but the FBI used his identification of Routch's photo to advance the C-4 case.
 
 ---
 

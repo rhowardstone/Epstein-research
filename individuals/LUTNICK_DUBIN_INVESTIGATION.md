@@ -104,18 +104,36 @@ Epstein's mansion was at **9 E 71st Street** (later renumbered to 9-11 E 71st St
 
 A separate FBI internal email chain titled "Follow-up to Money Laundering Discussion" classified as UNCLASSIFIED//LES (Law Enforcement Sensitive) was exchanged between FBI personnel in October-November 2022. This document does NOT appear to reference Lutnick or Cantor Fitzgerald specifically -- the content is largely redacted -- but represents the FBI's active investigation into money laundering aspects of the Epstein case.
 
-### 1.8 What the FBI Files DO NOT Contain for Lutnick
+### 1.8 What the FBI Files DO NOT Contain for Lutnick ~~(SUPERSEDED)~~
 
-- No victim allegations of sexual abuse involving Lutnick
-- No flight log entries showing Lutnick on Epstein's aircraft
-- No email correspondence between Epstein and Lutnick
-- No financial transaction records between Epstein entities and Cantor Fitzgerald (beyond generic term sheets)
-- No corroboration of the Ponzi scheme or money laundering allegations
-- No property deed showing a $10 sale
-- No evidence of FBI follow-up investigation on the Andriesz tip
-- No mention of Lutnick in the NTOC tips compilations ([EFTA01660679](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660679.pdf), [EFTA01660651](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660651.pdf))
+**UPDATE (2026-02-12):** Full-text corpus review of DS9 overturns several claims in this section. Corrections marked with strikethrough below. DS9 contains 20+ documents showing an active social relationship between Epstein and Lutnick spanning 2011-2013.
 
-**The Lutnick entry on the Prominent Names page is based entirely on a single NTOC tip from Simon Andriesz, dated October 19, 2020.**
+- No victim allegations of sexual abuse involving Lutnick -- **Still accurate**
+- ~~No flight log entries showing Lutnick on Epstein's aircraft~~ -- Technically still true, but **Lutnick visited Little St. James Island by his own boat** (Dec 2012). See Section 1.9 below.
+- ~~No email correspondence between Epstein and Lutnick~~ -- **Overturned.** DS9 contains 20+ documents showing extensive email correspondence between Epstein's staff and Lutnick's office (Nov 2012 - Jan 2013), plus direct Epstein-to-Lutnick document sharing. Cell phone numbers were exchanged.
+- ~~No financial transaction records between Epstein entities and Cantor Fitzgerald~~ -- Partially overturned: Epstein sent Lutnick a Deutsche Bank document ("TopTenDB.pdf") on Christmas Eve 2012.
+- No corroboration of the Ponzi scheme or money laundering allegations -- **Still accurate**
+- No property deed showing a $10 sale -- **Still accurate**
+- ~~No evidence of FBI follow-up investigation on the Andriesz tip~~ -- Partially overturned: FBI ARMS Reach vetting flagged Lutnick during his 2025 Commerce Secretary nomination ([EFTA00173881](https://www.justice.gov/epstein/files/DataSet%209/EFTA00173881.pdf)), connecting him to case numbers 272-NY-0 Serial 197 and 50D-NY-3027571 Serial 530. The FBI confirmed no investigation was opened.
+- No mention of Lutnick in the NTOC tips compilations ([EFTA01660679](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660679.pdf), [EFTA01660651](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660651.pdf)) -- **Still accurate**
+
+~~**The Lutnick entry on the Prominent Names page is based entirely on a single NTOC tip from Simon Andriesz, dated October 19, 2020.**~~ **CORRECTED:** While the Prominent Names entry itself derives from the Andriesz tip, the Epstein-Lutnick relationship is extensively documented in DS9 across calendar entries, email chains, and a family visit to Little St. James Island.
+
+### 1.9 DS9 Evidence: Lutnick-Epstein Social Relationship (Added 2026-02-12)
+
+DS9 contains 20+ documents showing an active social relationship between Epstein and Lutnick spanning 2011-2013:
+
+**Calendar Entry -- May 1, 2011** (EFTA00307005-307015): Five versions of the same daily calendar show Lutnick with a 5:00pm drinks appointment with Epstein on the same day as Leon Black (10:30am), Michael Wolff (1:00pm), and a dinner with Woody Allen and Soon-Yi (6:30pm) at which "Glenn Dubin may stop by with Celina." The next day: dinner with Bill Gates, Larry Summers, and Jes Staley.
+
+**Little St. James Island Visit -- December 2012**: Lutnick emailed about landing in St. Thomas ([EFTA00399318](https://www.justice.gov/epstein/files/DataSet%209/EFTA00399318.pdf)). Epstein replied: "come sat or sunday lunch? little st james on the map, behind christmans cove" ([EFTA00399319](https://www.justice.gov/epstein/files/DataSet%209/EFTA00399319.pdf)). Groff confirmed: "1:30 this sunday for lunch to the island for Howard, wife and all the kids and other family traveling with them. They are taking their boat to the island" ([EFTA00398732](https://www.justice.gov/epstein/files/DataSet%209/EFTA00398732.pdf)). The Lutnick family visited Little St. James Island for lunch on approximately December 23, 2012.
+
+**Email Chains (Nov 2012 -- Jan 2013)**: Groff shared Lutnick's cell, wife's cell, and assistant's contact details with Epstein ([EFTA00398857](https://www.justice.gov/epstein/files/DataSet%209/EFTA00398857.pdf)). Epstein sent Lutnick a Deutsche Bank document ("TopTenDB.pdf") on Christmas Eve 2012 ([EFTA00398744](https://www.justice.gov/epstein/files/DataSet%209/EFTA00398744.pdf)). Additional documents forwarded in January 2013 ([EFTA00398076](https://www.justice.gov/epstein/files/DataSet%209/EFTA00398076.pdf)).
+
+**Call List -- April 2011** ([EFTA00435530](https://www.justice.gov/epstein/files/DataSet%209/EFTA00435530.pdf)): Lutnick was on the same contact rotation as Leon Black, Boris Nikolic, Jes Staley, and John Brockman: "HOWARD LUTNICK is available today from 10-2 in the office. I will add him to our list today."
+
+**FBI ARMS Reach Vetting -- January 30, 2025** ([EFTA00173881](https://www.justice.gov/epstein/files/DataSet%209/EFTA00173881.pdf)): When Lutnick was being vetted as Trump's Commerce Secretary nominee, the FBI flagged his Epstein file connection. The response confirmed: "We did not open an investigation as a result of these allegations."
+
+**Hillary Clinton Fundraiser** ([EFTA00301239](https://www.justice.gov/epstein/files/DataSet%209/EFTA00301239.pdf)): An invitation in Epstein's files for a Clinton fundraiser hosted by Lutnick at Cantor Fitzgerald, November 11, 2015.
 
 ---
 
@@ -233,7 +251,21 @@ The Giuffre-Dubin relationship is documented:
 > Public denial: true
 > Legal outcome: No criminal charges
 
-### 2.9 4chan / Social Media -- Dubin Named in Death Conspiracy
+### 2.9 DS9 Evidence: Expanded Dubin Findings (Added 2026-02-12)
+
+**FBI FD-302: Eva Dubin Interview** ([EFTA00083800](https://www.justice.gov/epstein/files/DataSet%209/EFTA00083800.pdf)/[EFTA00083821](https://www.justice.gov/epstein/files/DataSet%209/EFTA00083821.pdf)): Eva Dubin was given an introductory meeting with the SDNY case team over video conference on January 22, 2021. Her attorney Tatiana Martins was present alongside FBI Special Agent Amanda Young. Eva "expressed her willingness to cooperate with the investigation."
+
+**Prosecution Planning Document** ([EFTA00098755](https://www.justice.gov/epstein/files/DataSet%209/EFTA00098755.pdf), pp.2-4): A prosecution strategy document formally lists Glen Dubin under "Individuals Who Have Engaged in Massages with Epstein Girls" alongside Jes Staley and Frederic Fekkai. Separately, Rinaldo Rizzo is identified as a "Former Employee of Glenn Dubin with knowledge of Epstein underage activity." The same document lists individuals with "significant knowledge" including Ehud Barak, Les Wexner, George Mitchell, Bill Richardson, Bill Clinton, and Doug Band.
+
+**Sworn Affidavit for DB Zwirn Claim** ([EFTA00586975](https://www.justice.gov/epstein/files/DataSet%209/EFTA00586975.pdf)): Glenn Dubin provided a sworn affidavit supporting Epstein's $175M claim against DB Zwirn/Fortress. Groff sent the draft affidavit to Dubin to sign. This demonstrates financial entanglement -- Dubin was willing to provide sworn testimony in Epstein's investment disputes.
+
+**Eva Dubin on Staff Phone Sheet** ([EFTA00282489](https://www.justice.gov/epstein/files/DataSet%209/EFTA00282489.pdf)): Eva Dubin's phone number was listed on the "IMPORTANT PHONE NUMBERS FOR ASSISTANTS" sheet alongside Groff, Indyke, Visoski, Kahn, Klein, and Brunel -- operational inner circle contacts.
+
+**CEHTTF Subpoena** ([EFTA00154007](https://www.justice.gov/epstein/files/DataSet%209/EFTA00154007.pdf)): Eva Dubin's personal identifying information (name, DOB, SSN, address, phone) was requested by the NYPD/FBI Child Exploitation Human Trafficking Task Force.
+
+**Highbridge Capital / Staley Introduction** ([EFTA00145666](https://www.justice.gov/epstein/files/DataSet%209/EFTA00145666.pdf)): Epstein introduced Jes Staley to Glenn Dubin (owner of Highbridge Capital Management) in 2004, laying the groundwork for JPMorgan's acquisition of Highbridge. Epstein was paid $15M+ for his role ([EFTA00162121](https://www.justice.gov/epstein/files/DataSet%209/EFTA00162121.pdf)).
+
+### 2.10 4chan / Social Media -- Dubin Named in Death Conspiracy
 
 Multiple documents ([EFTA01652757](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01652757.pdf), [EFTA01652995](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01652995.pdf), [EFTA01653060](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01653060.pdf)) contain a social media post by "George B. Tonks" listing individuals allegedly connected to Epstein:
 
@@ -251,14 +283,15 @@ This was collected by the FBI as part of their monitoring of social media relate
 
 | Category | Howard Lutnick | Glen Dubin |
 |----------|---------------|------------|
-| **Source** | Single NTOC tip from Simon Andriesz | Direct victim testimony (Giuffre) |
-| **Allegation type** | Financial crimes (Ponzi, money laundering, $10 house) | Sexual abuse / trafficking |
-| **Date of allegation** | October 19, 2020 | Pre-2019 (prosecution interview) |
-| **Documents mentioning** | 6 distinct EFTA documents | 54 distinct EFTA documents |
-| **Flight log entries** | NONE | 34+ flights (1995-2005) |
-| **Email correspondence** | NONE found | Multiple emails (2010-2015+) |
-| **Corroboration** | None in FBI files | Prosecution memo, flight logs, Juan Alessi testimony |
-| **FBI follow-up** | No evidence of investigation | Included in prosecution deliberations |
+| **Source** | NTOC tip from Andriesz + DS9 social records | Direct victim testimony (Giuffre) + DS9 prosecution planning |
+| **Allegation type** | Financial crimes (tip); social relationship (DS9) | Sexual abuse / trafficking; formal prosecutor classification |
+| **Date of allegation** | October 19, 2020 (tip); relationship documented 2011-2013 | Pre-2019 (prosecution interview) |
+| **Documents mentioning** | 6 DS8/DS10 + 20+ DS9 documents | 54 DS8/DS10/DS12 + 25+ DS9 documents |
+| **Flight log entries** | NONE (visited island by own boat) | 34+ flights (1995-2005) |
+| **Email correspondence** | 20+ emails found in DS9 (2011-2013) | Multiple emails (2010-2015+) |
+| **Property visits** | Little St. James Island lunch, Dec 2012 (DS9) | N/A (34+ flights suffice) |
+| **Corroboration** | DS9 calendar, contact lists, Deutsche Bank doc shared | Prosecution memo, flight logs, Alessi testimony, DS9 prosecutor classification |
+| **FBI follow-up** | ARMS Reach vetting 2025; no investigation opened | FBI 302 (Eva Dubin interview); included in prosecution deliberations |
 | **Criminal charges** | None | None |
 
 ### 3.2 Placement on Prominent Names Page
@@ -343,14 +376,15 @@ Simon Andriesz is identified only through the FBI NTOC intake:
 ## PART 6: CONCLUSIONS
 
 ### On Howard Lutnick:
-1. The FBI's Prominent Names entry for Lutnick is based **solely** on a single NTOC tip from Simon Andriesz (October 19, 2020).
+1. The FBI's Prominent Names entry for Lutnick is based on a single NTOC tip from Simon Andriesz (October 19, 2020). However, DS9 documents reveal a broader social relationship.
 2. The tipster appears to be a disgruntled former employee/contractor of Cantor Fitzgerald / BGC Partners.
 3. The allegation is financial in nature -- no sexual abuse or trafficking allegations exist against Lutnick.
 4. The neighbor claim is **confirmed** by FBI property records (14 E 71st St is across from Epstein's mansion).
 5. Cantor Fitzgerald term sheets exist in Epstein's financial records, indicating some business relationship, but this is unremarkable given Cantor Fitzgerald's role as a major bond dealer.
 6. The $10 house sale claim is **unverified** -- no property records in the FBI files corroborate or refute it.
-7. No evidence of FBI follow-up investigation was found.
-8. Lutnick is the only person on the Prominent Names page with a purely financial (non-sexual) allegation.
+7. **DS9 substantially changes the picture**: 20+ documents show an active 2011-2013 social relationship including a family visit to Little St. James Island (Dec 2012), scheduled drinks at Epstein's Manhattan residence (May 2011), email and phone number exchanges through Groff, document sharing (Deutsche Bank PDF), and placement on the same call list as Leon Black, Boris Nikolic, and Jes Staley.
+8. FBI ARMS Reach vetting in January 2025 flagged Lutnick's Epstein file connection during the Commerce Secretary nomination process; the FBI confirmed no investigation was opened.
+9. Lutnick is the only person on the Prominent Names page with a purely financial (non-sexual) allegation.
 
 ### On Glen/Glenn Dubin:
 1. The Dubin allegation is **directly from a victim** and is corroborated by prosecution documents.
@@ -362,7 +396,8 @@ Simon Andriesz is identified only through the FBI NTOC intake:
 7. Eva Dubin discussed **typhoid vaccinations** with Epstein in 2010, suggesting planned travel to Africa together.
 8. Multiple Dubin philanthropic activities (Dubin Breast Center at Mount Sinai) appear in Epstein's records.
 9. Despite the prosecution memo documenting direct victim testimony, **no criminal charges were ever filed** against either Glen or Eva Dubin.
-10. The Dubin entry has **54 distinct documents** versus Lutnick's 6, reflecting the vastly different evidentiary weight.
+10. **DS9 substantially deepens the record**: Glen Dubin was formally listed under "Individuals Who Have Engaged in Massages with Epstein Girls" in a prosecution planning document ([EFTA00098755](https://www.justice.gov/epstein/files/DataSet%209/EFTA00098755.pdf)). Eva Dubin was interviewed by the FBI (Jan 2021), her personal info was requested by the Child Exploitation Human Trafficking Task Force, and her phone number appeared on the same staff contacts sheet as Groff, Indyke, and Brunel. Glenn Dubin provided a sworn affidavit supporting Epstein's $175M claim against DB Zwirn/Fortress. Epstein earned $15M+ brokering the Dubin-Staley introduction for JPMorgan's acquisition of Highbridge Capital.
+11. The Dubin entry now has **75+ distinct documents** across all datasets, reflecting substantial evidentiary weight.
 
 ### The Disparity:
 The juxtaposition of Lutnick and Dubin on the same FBI Prominent Names page masks a fundamental difference: Lutnick's entry reflects an unverified, potentially motivated third-party tip about financial dealings, while Dubin's entry reflects corroborated victim testimony about sexual trafficking, backed by flight logs, prosecution interviews, and extensive documentary evidence. The fact that neither resulted in criminal charges is notable in different ways -- for Lutnick, because the allegation appears weak; for Dubin, because the evidence appears substantial.

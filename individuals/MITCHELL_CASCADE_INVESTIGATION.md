@@ -13,7 +13,7 @@
 
 ## EXECUTIVE SUMMARY
 
-David J. Mitchell, operating through Mitchell Holdings LLC, was not merely a peripheral associate of Jeffrey Epstein. The documentary evidence establishes Mitchell as one of the **three named executors of Epstein's 2014 will** (alongside Darren K. Indyke and James E. Staley), a **successor executor in the 2013 will**, and a **direct recipient of at least $526,500 in wire transfers** from Epstein's Deutsche Bank accounts between March 2018 and April 2019. Mitchell served as Epstein's real estate proxy, investment scout, property development manager, and financial intermediary -- a role that intersected with Epstein's relationship with former UK politician Peter Mandelson (Lord Mandelson) and was formalized through a November 7, 2017 directive from Epstein instructing Mitchell to "make money" and "clear that cascade will authorize the payments."
+David J. Mitchell, operating through Mitchell Holdings LLC, was not merely a peripheral associate of Jeffrey Epstein. The documentary evidence establishes Mitchell as one of the **three named executors of Epstein's 2014 will** (alongside Darren K. Indyke and James E. Staley), a **Trustee of both the 2013 Trust and 2014 Trust** (giving him active fiduciary control during Epstein's lifetime -- distinct from and more powerful than the executor role), a **successor executor in the 2013 will**, and a **direct recipient of at least $580,500 in verified wire transfers** from Epstein's Deutsche Bank accounts between March 2018 and April 2019. Mitchell served as Epstein's real estate proxy, investment scout, property development manager, and financial intermediary -- a role that intersected with Epstein's relationship with former UK politician Peter Mandelson (Lord Mandelson) and was formalized through a November 7, 2017 directive from Epstein instructing Mitchell to "make money" and "clear that cascade will authorize the payments."
 
 This narrative traces every documented payment, communication, and connection.
 
@@ -55,6 +55,36 @@ Mitchell is named as **CO-EXECUTOR** alongside:
 
 **Evolution of Trust:** Between 2013 and 2014, Mitchell was **promoted** from successor executor to named co-executor, replacing Joseph Pagano. This demonstrates that Mitchell's relationship with Epstein deepened over this period. Being named executor of a multi-hundred-million-dollar estate is an act of extraordinary personal and financial trust. Each executor was to receive $250,000 compensation upon completion of probate.
 
+### 1.3 Role as Trustee -- Active Fiduciary Control (DS9 Discovery)
+
+DS9 reveals Mitchell held a role distinct from and more operationally powerful than executor: **Trustee** of both the 2013 Trust and the 2014 Trust.
+
+- **[EFTA00082247](https://www.justice.gov/epstein/files/DataSet%209/EFTA00082247.pdf):** The Jeffrey E. Epstein 2013 Trust (full text, 18+ pages) -- Mitchell named as Trustee alongside Indyke and Staley, dated September 16, 2013. Notarized by Harry I. Beller.
+- **[EFTA00082273](https://www.justice.gov/epstein/files/DataSet%209/EFTA00082273.pdf):** The Jeffrey E. Epstein 2014 Trust (full text) -- Mitchell again named as Trustee alongside Indyke and Staley, dated November 18, 2014. Trust provisions include $10M to Karyna Shuliak, $5M each to Brunel and Indyke.
+- **[EFTA00082296](https://www.justice.gov/epstein/files/DataSet%209/EFTA00082296.pdf):** Amendment and Restatement of 2014 Trust, dated May 1, 2015 -- Mitchell signed as Trustee.
+- **[EFTA00082267](https://www.justice.gov/epstein/files/DataSet%209/EFTA00082267.pdf):** First Amendment to 2014 Trust -- Mitchell signed as Trustee. Adds provision that any beneficiary who "was employed by or provided services to me during my lifetime" must receive distribution within one year of death.
+- **[EFTA00082266](https://www.justice.gov/epstein/files/DataSet%209/EFTA00082266.pdf):** Revocation of the 2014 Trust, dated January 30, 2017 -- Mitchell acknowledged receipt as Trustee.
+- **[EFTA00099303](https://www.justice.gov/epstein/files/DataSet%209/EFTA00099303.pdf):** Later trust instrument (the "1953 Trust," created August 2019, two days before death) -- Boris Nikolic replaces Mitchell as successor Trustee.
+
+As Trustee, Mitchell had active fiduciary control over Epstein's assets during Epstein's lifetime, with authority to distribute principal and income at Epstein's direction. This significantly elevates Mitchell's legal exposure beyond the executor role.
+
+### 1.4 Expanded Real Estate Development Portfolio (DS9 Discovery)
+
+DS9 reveals Mitchell operated at the center of multiple Epstein-funded real estate entities not documented in the original databases:
+
+| Entity | Property | Mitchell Role | Epstein Connection |
+|--------|----------|---------------|-------------------|
+| **Mitchell Holdings LLC** | Multiple | Operating company | Mitchell's primary entity |
+| **AdvanceStar LLC** | 21 E 26th St (The Chapman) | Managing Member | FT Real Estate (Indyke) held membership interest ([EFTA00300020](https://www.justice.gov/epstein/files/DataSet%209/EFTA00300020.pdf)) |
+| **Lofts 21 LLC** | 21 E 26th St ($13.25M) | Class A Member | AdvanceStar (Mitchell) as Managing Member ([EFTA00306090](https://www.justice.gov/epstein/files/DataSet%209/EFTA00306090.pdf)) |
+| **183 Columbia Holding LLC** | 183 Columbia Heights, Brooklyn | Manager | Property purchased from Watchtower Bible and Tract Society ([EFTA00283892](https://www.justice.gov/epstein/files/DataSet%209/EFTA00283892.pdf)) |
+| **Park Partners Manager LLC** | 320 E 82nd St (Park Mansion) | Manager and Member | FT Real Estate (Indyke) as Member ([EFTA00806988](https://www.justice.gov/epstein/files/DataSet%209/EFTA00806988.pdf)) |
+| **Life Hotel One LLC** | 19 W 31st St | Manager/Operator | Used for Epstein guests at zero charge |
+
+**FT Real Estate, Inc.** -- headquartered at 6100 Red Hook Quarter, Suite B-3, St. Thomas, USVI, with Darren Indyke as Vice President -- was the common capital partner across Mitchell's real estate ventures. This means Epstein's money, channeled through FT Real Estate, funded Mitchell's developments. Mitchell provided operational management; Epstein/Indyke provided capital.
+
+Mitchell had a dedicated file folder tab in Epstein's corporate filing system ([EFTA01221862](https://www.justice.gov/epstein/files/DataSet%209/EFTA01221862.pdf)), listed alongside core entities like LSJ, Zorro, Jeepers, and Plan D.
+
 ---
 
 ## PART II: THE COMPLETE DAVID J. MITCHELL PAYMENT LEDGER
@@ -89,7 +119,7 @@ Source: **[EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA0
 |------|-----------|--------|-----------------|
 | 10/26/2017 | Jamie Mitchell | $100,000 | DB-SDNY-0006594 |
 
-**Note:** "Jamie Mitchell" appears in the same payment exhibit. The relationship to David J. Mitchell is not definitively established in the documents but warrants investigation given the surname and Bates number proximity.
+**Note:** Jamie Mitchell is confirmed as David Mitchell's **spouse**. DS9 document [EFTA00286410](https://www.justice.gov/epstein/files/DataSet%209/EFTA00286410.pdf) establishes they jointly own a landmarked home in New York City. [EFTA00688010](https://www.justice.gov/epstein/files/DataSet%209/EFTA00688010.pdf) shows Jamie Mitchell working as a junior broker on Mitchell's 183 Columbia Heights project (an Epstein/FT Real Estate investment), earning 50% of 0.75% of sales commission. [EFTA01080936](https://www.justice.gov/epstein/files/DataSet%209/EFTA01080936.pdf) lists Jamie Mitchell as a listing broker for the Park Mansion at 320 East 82nd Street. The $100,000 wire may have been a real estate commission connected to Mitchell's projects.
 
 ### 2.3 Payment Pattern Analysis
 
@@ -224,7 +254,19 @@ The documents reveal a bitter dispute between Mitchell and Hanson about:
 - Hanson threatened to withdraw, telling Mitchell: "let's hear your separation plan"
 - Mitchell responded about the two "MOST IMPORTANT FACTS": close out construction/get TCO, and make restaurant funds available
 
-### 4.5 The "Totally Toxic" Email -- [EFTA02518904](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02518904.pdf)
+### 4.5 Life Hotel as Epstein Overflow Housing (DS9 Discovery)
+
+DS9 reveals the Life Hotel was actively used to house Epstein's associates, including international visitors, at zero charge:
+
+- **[EFTA00464424](https://www.justice.gov/epstein/files/DataSet%209/EFTA00464424.pdf) (Nov 17, 2017):** Groff to Mitchell: "Jeffrey is asking if you could check and see if a friend of his who arrives NY city tonight could possibly stay at your Life Hotel for One Night. Her Flight Home is tomorrow evening." Mitchell: "I will make it happen." The guest arrived at JFK on an international flight at ~9pm, departed the next day at 3:30pm on another international flight. Life Hotel confirmation generated at $0.00 room charge.
+- **[EFTA00464421](https://www.justice.gov/epstein/files/DataSet%209/EFTA00464421.pdf) (Nov 17, 2017):** Epstein to Groff: "what apt is [name] staying in. call david mitchell, put her at the life hotel instead." Someone named "Marilyn" was being moved from Epstein's apartment 3M to the Life Hotel.
+- **[EFTA00479189](https://www.justice.gov/epstein/files/DataSet%209/EFTA00479189.pdf) (Aug 6, 2018):** Epstein: "Let's put [name] and friend at life hotel instead of 301." "301" refers to 301 East 66th Street, the building containing Barak's apartment, MC2 offices, and other Epstein-connected units.
+- **[EFTA00464351](https://www.justice.gov/epstein/files/DataSet%209/EFTA00464351.pdf) (Nov 17, 2017):** Mitchell to Denise Luna (Life Hotel General Manager): "I need a VIP room like 1004 or something in the King Deluxe... She is my guest so no payment collected."
+- **[EFTA00464261](https://www.justice.gov/epstein/files/DataSet%209/EFTA00464261.pdf) (Nov 19, 2017):** Groff: "David Mitchell has kindly offered me a room at his Life Hotel!" -- Mitchell also extended hospitality to Epstein's staff.
+
+The pattern of international female visitors staying at Epstein-controlled properties at zero charge, with the Life Hotel used as an alternative to the trafficking-connected 301 East 66th Street address, is consistent with documented trafficking patterns.
+
+### 4.6 The "Totally Toxic" Email -- [EFTA02518904](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02518904.pdf)
 
 **Date:** March 1, 2018
 **From:** David Mitchell to Jeffrey Epstein
@@ -291,7 +333,7 @@ Mitchell conducted reference checks on a deal involving a person named "Shawn":
 
 > "rich just showed me your investor letter on 82nd street saying completion in march of 17."
 
-**Analysis:** Mitchell was writing investor letters for a property on 82nd Street, and someone named "Rich" (possibly Richard Joslin, who appears elsewhere in the documents) showed it to Epstein. This suggests Mitchell was raising or managing capital for this property, with Epstein as either investor or financial backer.
+**Analysis:** Mitchell was writing investor letters for a property on 82nd Street, and someone named "Rich" (likely Richard Kahn, Epstein's accountant) showed it to Epstein. DS9 resolves this: the property was **320 East 82nd Street** ("The Park Mansion"), operated through **Park Partners Manager LLC** (Mitchell as Manager) and **Park Partners LLC** (the property-holding entity), with **FT Real Estate, Inc.** (Epstein/Indyke entity in USVI) as the capital partner. The operating agreement ([EFTA00806988](https://www.justice.gov/epstein/files/DataSet%209/EFTA00806988.pdf), dated June 5, 2015) shows FT Real Estate gets a 20% IRR first, then all excess distributions go to Mitchell. Darren Indyke signed as Vice President of FT Real Estate, confirming Epstein money directly funded this project.
 
 ### 5.5 YIVO Institute Introduction -- [EFTA02271386](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02271386.pdf)
 
@@ -343,7 +385,9 @@ A critical cluster of documents ([EFTA02182891](https://www.justice.gov/epstein/
 - Recipient includes: "Boehly Todd"
 - "Hope you are well"
 
-**Analysis:** This cluster establishes that in September 2011, David Mitchell was coordinating something related to Peter Mandelson (spelled "Mandelsohn"), and the correspondence included **Todd Boehly** (now owner of Chelsea FC, then a Guggenheim Partners executive). The subject line "RE: Peter Mandelsohn" appears to concern an introduction, meeting, or advisory arrangement involving Mandelson.
+**Analysis:** This cluster establishes that in September 2011, David Mitchell was coordinating something related to Peter Mandelson (spelled "Mandelsohn"), and the correspondence included **Todd Boehly** (now owner of Chelsea FC, then a Guggenheim Partners executive). DS9 provides the complete email chain including the originating message ([EFTA00427774](https://www.justice.gov/epstein/files/DataSet%209/EFTA00427774.pdf)): Mitchell asked Boehly about **"bringing Peter into the Irish situation"** -- a specific business proposal, not merely a social introduction. The meeting was originally planned as in-person at Boehly's office (Guggenheim Partners) but was converted to a conference call with Epstein as the moderator ("JE LEADER"). Emily Curtis (Boehly's assistant) notably asked: "can you please remind me of Jeffrey's last name?" -- indicating Curtis did not previously know Epstein.
+
+Additionally, DS9 calendar evidence ([EFTA00304706](https://www.justice.gov/epstein/files/DataSet%209/EFTA00304706.pdf)) establishes a **February 4, 2011 breakfast** at Epstein's residence: "8:10 Breakfast with David Mitchell and Peter Mandelson." This predates the September 2011 email chain by 7 months and is the first documented in-person meeting among Mitchell, Mandelson, and Epstein.
 
 ### 6.2 Peter Mandelson's Relationship with Epstein
 
@@ -618,11 +662,11 @@ The following patterns raise prosecutorial concerns:
 
 ### 11.3 Unanswered Questions
 
-1. What entity is "Cascade"? Is it a legal entity, a bank process, a code name, or an escrow mechanism?
-2. What was the purpose of the September 2011 "Peter Mandelsohn" coordination between Mitchell and Todd Boehly?
-3. Is "Jamie Mitchell" related to David J. Mitchell?
-4. What was the 82nd Street property, and who were the investors Mitchell was writing to?
-5. Did Mitchell actually serve as executor after Epstein's death, and what access did he have to estate funds?
+1. What entity is "Cascade"? Is it a legal entity, a bank process, a code name, or an escrow mechanism? **(Remains open.** DS9/DS11 search found no additional "Cascade" references as an Epstein entity or code name beyond the single EFTA02570991 document. The word appears only in unrelated contexts -- dishwasher detergent, a workplace violence training document, and one NTOC tip using the word in its ordinary English sense. This reinforces that "Cascade" was an informal/private reference.**)**
+2. ~~What was the purpose of the September 2011 "Peter Mandelsohn" coordination between Mitchell and Todd Boehly?~~ **RESOLVED:** Mitchell proposed "bringing Peter into the Irish situation" -- a specific business proposal involving Mandelson's European/Irish expertise and Boehly's business interests. Epstein served as the convener.
+3. ~~Is "Jamie Mitchell" related to David J. Mitchell?~~ **RESOLVED:** Jamie Mitchell is David Mitchell's wife. They jointly own a landmarked home. Jamie worked as a broker on Mitchell's Epstein-funded projects.
+4. ~~What was the 82nd Street property, and who were the investors Mitchell was writing to?~~ **RESOLVED:** 320 East 82nd Street ("The Park Mansion"), operated through Park Partners Manager LLC (Mitchell) with FT Real Estate, Inc. (Epstein/Indyke) as the capital partner.
+5. Did Mitchell actually serve as executor after Epstein's death, and what access did he have to estate funds? **(Partially resolved:** DS9 shows Mitchell was removed from the final trust instrument (the "1953 Trust" created August 2019, two days before death), where Boris Nikolic replaced him as successor Trustee ([EFTA00099303](https://www.justice.gov/epstein/files/DataSet%209/EFTA00099303.pdf)).**)**
 6. What was the Vicis entity in the 51% acquisition negotiation?
 7. What is the relationship between NLR Resorts International LLC (which received $100,000 in Dec 2017 - Jan 2018) and Mitchell's operations?
 
@@ -705,3 +749,19 @@ Search terms included: "David Mitchell," "D. Mitchell," "Mitchell Holdings," "Mi
 *END OF INVESTIGATION*
 
 *This document contains analysis of materials from the United States Department of Justice Epstein files. All Bates-stamped references (DB-SDNY-XXXXXXX) refer to documents produced by Deutsche Bank under subpoena to the Southern District of New York. EFTA numbers reference documents from the Electronic Freedom of Information Act production.*
+
+---
+
+## REVISIT CORRECTIONS LOG (February 12, 2026)
+
+Corrections integrated from revisit against full_text_corpus.db (DS9/DS11, 862,939 documents):
+
+1. **Executive summary payment total:** Corrected from "$526,500" to "$580,500" per verified wire transfer ledger in Part II, Section 2.1.
+2. **Mitchell as Trustee (Section 1.3 added):** Mitchell was Trustee of both the 2013 Trust and 2014 Trust -- a distinct and more powerful legal instrument than executor, giving him active fiduciary control during Epstein's lifetime. 60+ new DS9 documents identified.
+3. **Jamie Mitchell confirmed as spouse (Section 2.2 updated):** EFTA00286410 definitively establishes the marriage. Jamie worked as broker on Mitchell's Epstein-funded projects.
+4. **82nd Street property identified (Section 5.4 updated):** 320 East 82nd Street, Park Partners Manager LLC, FT Real Estate as capital partner.
+5. **"Irish situation" purpose identified (Section 6.1 updated):** Mitchell's originating message asked Boehly about "bringing Peter into the Irish situation."
+6. **Feb 2011 in-person meeting documented (Section 6.1 updated):** Calendar shows Feb 4, 2011 breakfast with Mitchell, Mandelson, and Epstein -- 7 months before email evidence.
+7. **Life Hotel as Epstein overflow housing (Section 4.5 added):** DS9 documents show Epstein directing unnamed women from international flights to stay at Life Hotel at $0.00 charge, used as alternative to 301 East 66th Street.
+8. **Expanded real estate portfolio (Section 1.4 added):** AdvanceStar LLC, Lofts 21 LLC ($13.25M), 183 Columbia Holding LLC, Park Partners Manager LLC -- all funded through FT Real Estate (Epstein/Indyke entity).
+9. **Unanswered questions 2, 3, 4 resolved; question 5 partially resolved (Section 11.3 updated).**

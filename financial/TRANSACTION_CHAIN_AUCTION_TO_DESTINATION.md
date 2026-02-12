@@ -13,7 +13,7 @@
 
 ## EXECUTIVE SUMMARY
 
-Between June and October 2017, Jeffrey Epstein received $30,510,961 from the sale of fine art through Sotheby's and Christie's, deposited into The Haze Trust Checking account at Deutsche Bank Trust Company Americas. These funds were then systematically moved through a layered network of Epstein-controlled accounts -- first to the Haze Trust DBAGNY (Deutsche Bank AG New York branch, offering higher interest rates), then downstream to Southern Financial LLC, Southern Trust Company Inc., Plan D LLC, and ultimately to external hedge funds, venture capital funds, and investment vehicles including Peter Thiel's Valar Fund ($28.8M total across all Epstein entities), Honeycomb Partners ($64M total), Boothbay Fund ($38.25M total), Coatue Enterprises ($2M), and Blockchain Capital ($15M to The 2017 Caterpillar Trust).
+Between June and October 2017, Jeffrey Epstein received $30,510,961 from the sale of fine art through Sotheby's and Christie's, deposited into The Haze Trust Checking account at Deutsche Bank Trust Company Americas. These funds were then systematically moved through a layered network of Epstein-controlled accounts -- first to the Haze Trust DBAGNY (Deutsche Bank AG New York branch, offering higher interest rates), then downstream to Southern Financial LLC, Southern Trust Company Inc., Plan D LLC, and ultimately to external hedge funds, venture capital funds, and investment vehicles including Peter Thiel's Valar Fund ($28.8M total across all Epstein entities), Honeycomb Partners ($64M total), Boothbay Fund ($38.25M total), Coatue Enterprises LLC ($2M -- Richard Kahn's personal shell, not Philippe Laffont's hedge fund), and Blockchain Capital ($15M to The 2017 Caterpillar Trust).
 
 This document traces every dollar from auction house to final known destination.
 
@@ -186,7 +186,7 @@ Plan D, LLC is a USVI limited liability company (6100 Red Hook Quarter, B3, St. 
 
 **PROSECUTORIAL SIGNIFICANCE:** Plan D, LLC held the aircraft used to transport victims between properties (Teterboro-PBI-USVI route documented in flight logs). The $15M from Haze Trust to Plan D was art auction proceeds being converted into transportation infrastructure for trafficking. BV70 LLC (controlled by Leon Black, per Bloomberg reporting cited in [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf) footnote) contributed an additional $30.5M to the same aircraft entity, meaning Leon Black money and art proceeds were commingled in the aircraft fleet.
 
-**EVIDENCE GAPS:** No direct evidence that Plan D used the $15M specifically for the G550 purchase (the FAA bill of sale shows $1.00 nominal price, suggesting the actual purchase was structured differently). The full scope of BV70 LLC is unclear -- is it solely a Leon Black entity or were others involved?
+**EVIDENCE GAPS:** No direct evidence that Plan D used the $15M specifically for the G550 purchase (the FAA bill of sale shows $1.00 nominal price, suggesting the actual purchase was structured differently). **BV70 ownership now confirmed (DS9):** [EFTA00599517](https://www.justice.gov/epstein/files/DataSet%209/EFTA00599517.pdf) shows "BV70 LLC Member: Leon D. Black, Manager: Debra R. Black, Officers: President: Debra R. Black, Vice President: Leon D. Black, Secretary and Treasurer: Eileen Alexanderson." Complete promissory note chain: BV70 lent $30.5M to Plan D ([EFTA00589279](https://www.justice.gov/epstein/files/DataSet%209/EFTA00589279.pdf)), personally guaranteed by Epstein ([EFTA00583120](https://www.justice.gov/epstein/files/DataSet%209/EFTA00583120.pdf)). The $30.5M note amount matches the $30.5M in art auction proceeds.
 
 ---
 
@@ -256,7 +256,9 @@ Southern Financial LLC served as Epstein's primary investment vehicle. After rec
 
 **PROSECUTORIAL SIGNIFICANCE:** Honeycomb was the single largest external recipient of Epstein entity funds documented in Exhibit B. The $20M in 2016 predates the auction payments, but the 2018-2019 payments ($33M from Southern Trust alone) occurred during the period when auction proceeds were being drained from Haze Trust through Southern Financial and then onward. The $33M post-KYC figure matches POST_KYC_REPEAT_CORRIDORS_v2.csv data showing this as the largest repeat post-breach corridor.
 
-### 6D: Southern Financial LLC --> Coatue Enterprises LLC (Philippe Laffont) (TOTAL: $2,000,000)
+### 6D: Southern Financial LLC --> Coatue Enterprises LLC (Richard Kahn) (TOTAL: $2,000,000)
+
+**CORRECTION (2026-02-12):** GVI Second Amended Complaint ([EFTA00161836](https://www.justice.gov/epstein/files/DataSet%209/EFTA00161836.pdf) p.58) explicitly states: "Coatue Enterprises, LLC (Kahn)" -- this was Richard Kahn's personal shell company, NOT Philippe Laffont's tech hedge fund. The entity "functioned as shell companies and engaged in no activities other than to coordinate the activities of Epstein's Enterprise." Portfolio valuation ([EFTA00599617](https://www.justice.gov/epstein/files/DataSet%209/EFTA00599617.pdf) p.6) lists Coatue Enterprises LLC under "Loans Receivable" at $1.5M alongside personal loans to Epstein employees. Trust instruments name it as beneficially owned by Richard David Kahn and Lisa Kahn. Philippe Laffont's Coatue Management received $0 from Epstein entities in the documented record.
 
 | Date | Amount | From | To | BATES | EFTA |
 |------|--------|------|----|-------|------|
@@ -266,7 +268,7 @@ Southern Financial LLC served as Epstein's primary investment vehicle. After rec
 | 11/20/2018 | $500,000 | Southern Financial LLC | Coatue Enterprises LLC | DB-SDNY-0007748 | [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf) p.3 |
 | **TOTAL** | **$2,000,000** | | | | |
 
-**PROSECUTORIAL SIGNIFICANCE:** Quarterly $500K payments to Philippe Laffont's Coatue suggest a structured investment arrangement. Two of four payments occurred post-KYC breach.
+**PROSECUTORIAL SIGNIFICANCE:** Quarterly $500K payments to Kahn's personal shell were likely compensation/debt servicing for accounting work, not hedge fund investments. This removes Laffont entirely from the transaction chain and reduces the number of external investment fund recipients. Two of four payments occurred post-KYC breach.
 
 ### 6E: Southern Financial LLC --> Joichi Ito / Neoteny (TOTAL: $2,000,001)
 
@@ -282,6 +284,8 @@ Southern Financial LLC served as Epstein's primary investment vehicle. After rec
 | **NET OUTFLOW** | **$1,486,086** | | | | |
 
 **NOTE:** These payments preceded the 2017 auction receipts but demonstrate the downstream distribution pattern. Joichi Ito, then-director of MIT Media Lab, resigned in 2019 when these payments were exposed.
+
+**DS9 CONFIRMATION:** Kyara Investments III LLC Operating Agreement ([EFTA00584696](https://www.justice.gov/epstein/files/DataSet%209/EFTA00584696.pdf)) confirms Joichi Ito as Manager and Southern Financial LLC (Jeffrey Epstein, Manager) as member. Wire details: "subcr to Kyara Investments III, LLC to fund Blockstream Investment" and "subcr to Kyara Investment IV, LLC to fund OH2 Laboratories." OH2 Laboratories was an MIT-connected biotech startup (GPCRQTY synthetic protein variants, drug discovery), with David Levy (Ph.D.) as General Manager and Shuguang Zhang (MIT) on Scientific Advisory Board ([EFTA00586577](https://www.justice.gov/epstein/files/DataSet%209/EFTA00586577.pdf)). Blockstream relationship was personal -- co-founder Austin Hill visited 9 E 71st, attended Montreal comedy shows with Epstein ([EFTA00366248](https://www.justice.gov/epstein/files/DataSet%209/EFTA00366248.pdf), [EFTA00638276](https://www.justice.gov/epstein/files/DataSet%209/EFTA00638276.pdf)).
 
 ### 6F: Blockchain Capital --> The 2017 Caterpillar Trust (TOTAL: $15,000,000 INFLOW)
 
@@ -527,7 +531,7 @@ Starting from $30,510,961 in auction proceeds:
 | --> Valar Fund (Thiel) | $28,800,000 | Venture capital | Partially |
 | --> Honeycomb Partners | $64,000,000 | Investment fund | Partially |
 | --> Boothbay Funds | $38,250,000 | Hedge fund | Pre-auction |
-| --> Coatue Enterprises | $2,000,000 | Tech hedge fund | Partially |
+| --> Coatue Enterprises (Kahn) | $2,000,000 | Kahn personal shell (not hedge fund) | Partially |
 | --> Joichi Ito/Neoteny | $2,000,001 | MIT/VC | Pre-auction |
 | --> Blockchain/Caterpillar | $15,000,000 | Crypto investment | Post-auction |
 | Jeffrey Epstein personal | $7,000,000 | Personal accounts | Yes |
@@ -540,19 +544,27 @@ Starting from $30,510,961 in auction proceeds:
 
 1. **Missing Southern Financial LLC statements:** We can see money entering Southern Financial from Haze Trust, but Southern Financial's own disbursements to external parties are documented only through Exhibit B (which uses Southern Trust Company as the payer for Valar/Honeycomb). The internal pipeline from Southern Financial to Southern Trust Company is not documented in Exhibit D.
 
-2. **Missing art lot identification:** Which specific artworks generated the $30.5M? The Sotheby's Private Client Group (Lily Snyder, [EFTA02323094](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02323094.pdf)) and Leon Black's art collection management ([EFTA02730996](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02730996.pdf) -- Epstein "managed Black's art") suggest these may have been artworks from the Black/Epstein co-managed collection.
+2. **Art lot identification -- PARTIALLY FILLED (DS9):** Sarah Kellen was the active intermediary handling Epstein art consignments to Sotheby's Private Client Group through Lily Snyder ([EFTA00563811](https://www.justice.gov/epstein/files/DataSet%209/EFTA00563811.pdf), [EFTA00556342](https://www.justice.gov/epstein/files/DataSet%209/EFTA00556342.pdf)). Pipeline active from at least 2011-2017. Items discussed include Syrian pearl inlay furniture, bronze mounted desks, lamps, and watercolors. The $30.5M in 2017 auction proceeds likely came through this established Kellen-Snyder channel. Leon Black's art collection management ([EFTA02730996](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02730996.pdf) -- Epstein "managed Black's art") also suggests these may have been from the Black/Epstein co-managed collection.
 
 3. **Missing DBAGNY account detail:** The DBAGNY account offered "higher interest rates" but we have no statements showing interest earned on the $49M+ balances.
 
-4. **Honeycomb Partners identity:** Who controls Honeycomb Partners LP and Honeycomb Ventures I/IV LP? This entity received $64M from Epstein -- the largest single external recipient -- but its beneficial ownership is not established in the documentary record.
+4. **Honeycomb Partners identity -- PARTIAL (DS9):** David Fiszel (previously Tiger Global, then Honeycomb Asset Management) met Epstein on the same day as Peter Thiel, Leon Black, Paul Morris, and Ehud Barak (Feb 4, 2016, [EFTA00329762](https://www.justice.gov/epstein/files/DataSet%209/EFTA00329762.pdf)). Fiszel visited 9 E 71st in April 2019 with "new idea almost ready for prime time" ([EFTA00492527](https://www.justice.gov/epstein/files/DataSet%209/EFTA00492527.pdf)). Honeycomb counsel (Gibson Dunn) contacted SDNY post-arrest about "holding funds for entities linked to Epstein and Richard Kahn" ([EFTA00068100](https://www.justice.gov/epstein/files/DataSet%209/EFTA00068100.pdf)). Beneficial ownership still not definitively confirmed.
 
 5. **February 2019 dissolution motivation:** The mass restructuring 5 months before arrest warrants investigation. Did Epstein have advance knowledge of the investigation? The round-trip transactions suggest deliberate asset repositioning.
 
 6. **HSBC Bermuda connection:** The $58,328 from HSBC Bank Bermuda suggests offshore accounts not captured in the Deutsche Bank records.
 
+7. **Banking relationships far broader than Deutsche Bank (DS9):** July 2017 portfolio valuation ([EFTA00599617](https://www.justice.gov/epstein/files/DataSet%209/EFTA00599617.pdf)) reveals accounts at 7+ institutions: Deutsche Bank, First Bank Puerto Rico, BNP Paribas, Wells Fargo, Morgan Stanley, Merrill Lynch, and Ameritrade. Total cash across all banks: ~$136M.
+
+8. **King Street Capital -- NEW (DS9):** Previously undocumented hedge fund investment. Haze Trust held $3.6M with King Street as of July 2017 ([EFTA00599617](https://www.justice.gov/epstein/files/DataSet%209/EFTA00599617.pdf)). King Street Capital is a distressed debt fund (now part of Citadel).
+
+9. **Apollo stock conflict (DS9):** Epstein held Apollo Global Management stock in Southern Financial LLC's Deutsche Bank account ([EFTA00617222](https://www.justice.gov/epstein/files/DataSet%209/EFTA00617222.pdf) p.4) while simultaneously receiving $158M+ in personal payments from Leon Black (Apollo's founder).
+
+10. **Complete portfolio snapshot July 2017 (DS9):** Total assets ~$456M: Cash $136M, Fixed Income $74M, Equities $74M (including $46.7M Apple stock), Hedge Funds $73M (Boothbay $45.7M, King Street $3.6M), Investments $58M, Aviation/Auto/Boats $27M, Loans Receivable $11.2M (including $4.75M to Indyke via Harlequin Dane LLC and $1.5M to Kahn via Coatue Enterprises LLC). ([EFTA00599617](https://www.justice.gov/epstein/files/DataSet%209/EFTA00599617.pdf))
+
 7. **Tudor Futures Fund:** Paul Tudor Jones's fund sent $13.5M TO Southern Financial (8/4/2014 and 8/8/2014) -- this is investment RETURN money, but the original investment from Southern Financial to Tudor is not documented in the exhibits.
 
-8. **Kyara/Blockstream/OH2:** Wire details reference "Blockstream Investment" and "OH2 Laboratories" -- these cryptocurrency and science investments warrant further investigation.
+8. **Kyara/Blockstream/OH2 -- FILLED (DS9):** Kyara III Operating Agreement confirms Ito-Epstein dual management ([EFTA00584696](https://www.justice.gov/epstein/files/DataSet%209/EFTA00584696.pdf)). OH2 Laboratories identified as MIT biotech startup ([EFTA00586577](https://www.justice.gov/epstein/files/DataSet%209/EFTA00586577.pdf)). Blockstream co-founder Austin Hill had personal relationship with Epstein.
 
 ---
 

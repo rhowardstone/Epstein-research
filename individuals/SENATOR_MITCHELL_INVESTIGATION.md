@@ -43,8 +43,8 @@
 | **Middle East** | Special Envoy for Middle East Peace (2009-2011) under President Obama |
 | **Law Firm** | DLA Piper -- Chairman |
 | **Education** | Bowdoin College '54, Georgetown Law |
-| **Epstein Connection Period** | At least mid-1990s through at least 2013, possibly later |
-| **Assistant** | Ann Ungar (at DLA Piper) |
+| **Epstein Connection Period** | At least mid-1990s through at least September 2015; Epstein name-dropped Mitchell as late as December 2018 |
+| **Assistants** | Ann Ungar (DLA Piper); also Julia Reed, Janice, Neal, Maher Bitar (per Epstein's master contact list, [EFTA00309068](https://www.justice.gov/epstein/files/DataSet%209/EFTA00309068.pdf)) |
 | **Status** | Never charged; resigned from namesake organizations (Feb 2026) |
 
 ---
@@ -218,7 +218,11 @@ The compilation documents 30+ victims across 9 pages. Mitchell appears only in c
 
 5. **Post-Conviction Contact:** This email is from July 2012 -- **four years after Epstein's 2008 Florida conviction** for solicitation of prostitution involving a minor. Mitchell's willingness to maintain social contact post-conviction is significant.
 
-6. **Same Day Activity:** This email was sent the same day as [EFTA01766832](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01766832.pdf) (a Joe Pagano call list at 5:28 PM). Groff was managing multiple high-priority contacts for Epstein simultaneously, suggesting Mitchell was part of regular contact rotation.
+6. **DS9 Dual Production:** This email also appears in DS9 as [EFTA00408507](https://www.justice.gov/epstein/files/DataSet%209/EFTA00408507.pdf), confirming it was produced twice across datasets.
+
+7. **Mitchell Proactively Called (DS9 -- NEW):** The next day, July 25, 2012, [EFTA00408367](https://www.justice.gov/epstein/files/DataSet%209/EFTA00408367.pdf) records: "Senator Mitchell called to let you know he is spending the summer in Maine. He is chairing a conference today and tomorrow but says if you would like to catch up to give him a call this Friday or Saturday on his cell." Mitchell proactively called Groff (not merely returning a call), offered his personal cell for weekend contact, and explicitly invited Epstein to "catch up." This directly contradicts his spokesperson's claim that he "declined or deflected invitations."
+
+8. **Same Day Activity:** This email was sent the same day as [EFTA01766832](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01766832.pdf) (a Joe Pagano call list at 5:28 PM). Groff was managing multiple high-priority contacts for Epstein simultaneously, suggesting Mitchell was part of regular contact rotation.
 
 ---
 
@@ -266,51 +270,77 @@ An FBI document describes a woman alleging that Epstein sent her for **"multiday
 
 **Note:** This specific FBI document was not directly identified in the four databases searched. It may be in documents that were not OCR-processed or in redacted portions that were not recovered. The allegation is documented through press reporting of the DOJ file release.
 
+### FBI Photo Identification Procedure (DS9 -- NEW)
+
+[EFTA00162974](https://www.justice.gov/epstein/files/DataSet%209/EFTA00162974.pdf) (DS9): NBC producer Sarah Fitzpatrick's urgent request to FBI (September 19, 2019) references a victim interview in which: "She says that as part of the interview she told the FBI the names of the men she was directed to have sex with, and was given photos of prominent men in Epstein's orbit to help her identify." The victim identified Mitchell through this **photo identification procedure**, not merely verbal description. The same document contains the claim that FBI Agent Jason Richards told the victim in 2014 that "his head had been cut off above him" and that he was "instructed to stop investigating the Epstein case."
+
+### NTOC Flight Record Tip (DS9 -- NEW)
+
+[EFTA00277082](https://www.justice.gov/epstein/files/DataSet%209/EFTA00277082.pdf) (DS9): A tip states: "Allegedly Maine US Senator George Mitchell is, and he was, according to published flight records, on Epstein's plane." This does not prove the claim, but it documents that the allegation was circulating with a claimed evidentiary basis. The original report's finding that Mitchell does not appear in digitized flight logs remains accurate.
+
 ---
 
 ## 8. SOURCE 6: POST-CONVICTION CONTACT (2010-2018)
 
-Based on reporting from the DOJ file release (Bangor Daily News, Bowdoin Orient, February 2026):
+**UPDATE (DS9 Revisit):** The original report relied primarily on press reporting for most post-conviction contact evidence. DS9 contains the actual source emails -- at least 20 distinct email documents spanning September 2011 through September 2015, demonstrating sustained, active, reciprocal contact between Mitchell and Epstein's office.
 
-### 2010: Phone Call and Yom Kippur Invitation
+### September 2011: Confirmed Meeting + Jes Staley Introduction Attempt
 
-Epstein contacted an associate stating he **"called Mitchell's assistant and left a message on the former Maine senator's cellphone"** urging attendance at a Yom Kippur event.
+[EFTA00428638](https://www.justice.gov/epstein/files/DataSet%209/EFTA00428638.pdf) (Sept 10, 2011): Groff to "Julia, Janice and Maher": "Jeffrey Epstein is in New York this weekend and was wondering if senator Mitchell might be as well. Jeffrey would love to see him tomorrow, Sunday sept 11th."
 
-- This demonstrates Epstein had Mitchell's personal cellphone number
-- The invitation to a religious observance suggests a social, not merely business, relationship
-- This is **two years after** Epstein's 2008 conviction
+[EFTA00428166](https://www.justice.gov/epstein/files/DataSet%209/EFTA00428166.pdf) (Sept 12, 2011): "Senator Mitchell will come more about 4:15...he says he must leave at 10 or 5 minutes to 5:00" -- **confirmed meeting at Epstein's residence**.
 
-A 2010 email also states: **"George Mitchell returned your phone call."**
+[EFTA00427635](https://www.justice.gov/epstein/files/DataSet%209/EFTA00427635.pdf) (Sept 20, 2011): "Senator Mitchell is in London now and not coming back to NY until Saturday. He says he would like to meet Jes at another time...Senator Mitchell sends his best." Epstein was attempting to introduce Mitchell to Barclays CEO Jes Staley. Staley was later named alongside Glenn Dubin in prosecution classifications of individuals who engaged in sexual conduct with Epstein's victims.
 
-- Mitchell was actively returning Epstein's calls post-conviction.
+### ~2010: Yom Kippur Break-Fast Dinner
 
-### February 2013: Lunch with Bill Gates
+[EFTA00298379](https://www.justice.gov/epstein/files/DataSet%209/EFTA00298379.pdf)-[EFTA00298383](https://www.justice.gov/epstein/files/DataSet%209/EFTA00298383.pdf): Complete guest list for Epstein's Yom Kippur break-fast dinner at 9 East 71st Street. Confirmed attendees included Eva & Glenn Dubin, Alan Dershowitz, Leon Black, Jes & Debra Staley, Marvin & Gloria Minsky, Jean Luc Brunel, and others. Mitchell was listed as **declined**.
 
-An associate made a note exploring **Mitchell's availability for lunch with Epstein and Bill Gates.**
+The planning notes reveal Mitchell's strategic value to Epstein: "Je said if senator Mitchell confirms, then invite Larry Summers and Ehud Barak and tell them both that senator Mitchell will be coming." Mitchell was being used as a **social draw** -- Epstein planned to leverage a Mitchell confirmation to attract Summers and Barak.
 
-- This places Mitchell within Epstein's highest-profile network of political and billionaire contacts
-- The Gates-Epstein relationship during this period is extensively documented elsewhere in the files
+### July 2012: Mitchell Proactively Calls + State Department Email
+
+[EFTA00408507](https://www.justice.gov/epstein/files/DataSet%209/EFTA00408507.pdf) (Jul 24, 2012): The State Department email (also in DS11 as [EFTA02522767](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02522767.pdf)).
+
+[EFTA00408367](https://www.justice.gov/epstein/files/DataSet%209/EFTA00408367.pdf) (Jul 25, 2012): "Senator Mitchell called to let you know he is spending the summer in Maine. He is chairing a conference today and tomorrow but says if you would like to catch up to give him a call this Friday or Saturday on his cell." Mitchell proactively called Groff, offered his personal cell for weekend contact, and explicitly invited Epstein to "catch up."
+
+### February-March 2013: Bill Gates Lunch Attempts
+
+[EFTA00395729](https://www.justice.gov/epstein/files/DataSet%209/EFTA00395729.pdf) (Feb 13, 2013): "Senator Mitchell appreciates your kind invitation to possibly have lunch with you and [redacted] on March 1, but he has a once a year meeting in Ft. Myers, FL for the Board of Directors for the Red Sox."
+
+[EFTA00953696](https://www.justice.gov/epstein/files/DataSet%209/EFTA00953696.pdf) (Feb 13, 2013): **Unredacted version** confirms the lunch was with "you and **Bill Gates**."
+
+[EFTA00395024](https://www.justice.gov/epstein/files/DataSet%209/EFTA00395024.pdf) (Feb 23, 2013): Second attempt: "LM for Senator Mitchell asking if he might be available to meet with you and Bill Gate late Wed. Feb. 27th evening."
+
+[EFTA00395031](https://www.justice.gov/epstein/files/DataSet%209/EFTA00395031.pdf) (Feb 23, 2013): Mitchell declines second attempt: "Senator Mitchell has a busy week of traveling... He hopes you are doing well."
+
+[EFTA00395264](https://www.justice.gov/epstein/files/DataSet%209/EFTA00395264.pdf): Calendar entry: "TBD Possible Lunch w/Bill Gates (maybe Senator Mitchell?)" -- March 1, 2013.
 
 ### November 2013: Scheduled Appointment in New York
 
-A schedule sent to Epstein listed **"an appointment with Mitchell at 10:30 a.m. Nov. 6, 2013, in New York,"** followed by what appeared to be Epstein's salon appointment on Manhattan's Upper East Side.
+[EFTA00284786](https://www.justice.gov/epstein/files/DataSet%209/EFTA00284786.pdf): Calendar confirms appointment with Mitchell at 10:30 AM, November 6, 2013 in New York.
 
-- This is a confirmed, scheduled in-person meeting, not merely a phone call
-- **Five years** after Epstein's conviction
+### September 2015: Direct Email Reply (NEW -- Extends Timeline by 2 Years)
 
-### 2018: iMessage from Epstein
+[EFTA00339490](https://www.justice.gov/epstein/files/DataSet%209/EFTA00339490.pdf) (Sept 22, 2015): Epstein directs Groff: "as senator mitchell if he woudl like to have a coffee with terje and ehud this week. or chomsly onver the weekend."
 
-In a 2018 iMessage exchange, Epstein wrote: **"Sen George Mitchell a very close friend when senate majority leader."**
+[EFTA00339499](https://www.justice.gov/epstein/files/DataSet%209/EFTA00339499.pdf) (Sept 22, 2015): Groff to Mitchell: "Jeffrey is asking if you would like to have coffee with Terje Rod Larsen and Ehud Barak next week... or with Noam Chomsky Sat. Oct 3 or 4...Might you be in NY coming up and available?"
 
-- Epstein explicitly claims Mitchell was a "very close friend" during Mitchell's time as Senate Majority Leader (1989-1995)
-- This message was sent approximately **six months before Epstein's final arrest** in July 2019
-- Epstein was still name-dropping Mitchell as late as 2018
+[EFTA00339592](https://www.justice.gov/epstein/files/DataSet%209/EFTA00339592.pdf) (Sept 23, 2015): **Mitchell's direct reply** (From: "Mitchell, George"): "Thanks but I'm traveling for most of the next couple of weeks, in Houston tonight then Aspen for 4 days, then Maine and DC parts of next week. I think I will see Ehud Barak at a conference in Aspen and in NY where I'll be for a 1 day conference where we're both speaking. **Best regards to Jeffrey and to you.**"
+
+[EFTA00339594](https://www.justice.gov/epstein/files/DataSet%209/EFTA00339594.pdf) (Sept 23, 2015): Groff to Mitchell: "Wow! What a schedule! Thank you for letting me know and I will pass along to Jeffrey. Hopefully next time we can put something together."
+
+This is September 2015 -- seven years post-conviction. Mitchell replies directly to Epstein's office, shares his travel schedule, sends "Best regards to Jeffrey," and notes he will independently see Barak. This extends the documented relationship **two years beyond** the original report's latest confirmed contact (Nov 2013).
+
+### December 2018: iMessage from Epstein
+
+[EFTA00508979](https://www.justice.gov/epstein/files/DataSet%209/EFTA00508979.pdf), page 9 (Dec 20, 2018): iMessage chain during government shutdown: Epstein writes "Sen George Mitchell a very close friend when senate majority leader. Said a budget deal is never done earlier than 11 55 pm on the eve of a shutdown." This is the actual source document (device extraction) for the iMessage previously cited through press reporting.
 
 ### Mitchell's Response to Post-Conviction Contact:
 
 Mitchell's spokesperson stated: "Senator Mitchell declined or deflected invitations from Epstein that came afterward."
 
-**Assessment:** The documentary evidence contradicts this claim. A 2010 email states "George Mitchell returned your phone call." A 2013 schedule shows a confirmed appointment. Mitchell may have declined some invitations but demonstrably maintained contact.
+**Assessment:** The documentary evidence comprehensively contradicts this claim. DS9 documents show Mitchell proactively called Groff (July 2012), confirmed in-person meetings (September 2011), sent direct email replies with personal travel schedules (September 2015), expressed interest in meeting Epstein's associates (Staley introduction), and sent "Best regards to Jeffrey" seven years after conviction. Mitchell may have declined some specific invitations (Yom Kippur dinner, Gates lunches) but maintained warm, reciprocal contact throughout.
 
 ---
 
@@ -321,8 +351,9 @@ This investigation identified **two entirely separate individuals named Mitchell
 ### Senator George Mitchell
 - Former Senate Majority Leader
 - Connection: political/social/philanthropic/alleged sexual
-- Documents: [EFTA00022133](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022133.pdf), [EFTA02731420](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731420.pdf), [EFTA02522767](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02522767.pdf), [EFTA00013640](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013640.pdf)
-- No email address in files; contact through assistants (Ann Ungar)
+- Documents: [EFTA00022133](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022133.pdf), [EFTA02731420](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731420.pdf), [EFTA02522767](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02522767.pdf), [EFTA00013640](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013640.pdf), plus 20+ DS9 emails ([EFTA00339490](https://www.justice.gov/epstein/files/DataSet%209/EFTA00339490.pdf)-[EFTA00428663](https://www.justice.gov/epstein/files/DataSet%209/EFTA00428663.pdf))
+- No email address in files; contact through assistants: Ann Ungar (DLA Piper), Julia Reed, Janice, Neal, and Maher Bitar ([EFTA00309068](https://www.justice.gov/epstein/files/DataSet%209/EFTA00309068.pdf))
+- Mitchell's personal cell number in Epstein's master PEOPLE LIST (first name on the list)
 - No Deutsche Bank payment records
 
 ### David J. Mitchell (Mitchell Holdings LLC)
@@ -361,9 +392,13 @@ This investigation identified **two entirely separate individuals named Mitchell
 
 4. **Magazine Profile ([EFTA00013640](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013640.pdf)):** Mitchell acknowledges Epstein "organized a fund-raiser for me once," implying in-person events.
 
+5. **"People to See" Lists (DS9 -- NEW):** [EFTA00314269](https://www.justice.gov/epstein/files/DataSet%209/EFTA00314269.pdf)-[EFTA00314271](https://www.justice.gov/epstein/files/DataSet%209/EFTA00314271.pdf) (September 2011): Master weekly list includes "George Mitchell, Barnaby Marsh, Ehud Barak, Tom Pritzker, Sultan, President of Ivory Coast Ouattara, Boris Nikolic, Bill Richardson, Terje Roed Larsen, Abdullah, Hamad, Woody Allen, Brock Pierce, Jes Staley, Kissinger, Marvin [Minsky], Dr. Axel." Mitchell and Richardson -- the two named Democratic senators from the victim accusation compilation -- appear on the same week's schedule.
+
+6. **Calendar Co-Occurrence (DS9 -- NEW):** Multiple DS9 calendar documents show Mitchell on the same weekly schedules as other named individuals: Richardson and Staley in September 2011 ([EFTA00428025](https://www.justice.gov/epstein/files/DataSet%209/EFTA00428025.pdf)); Barak/Chomsky in September 2015 ([EFTA00339490](https://www.justice.gov/epstein/files/DataSet%209/EFTA00339490.pdf)).
+
 ### Assessment:
 
-The absence of Mitchell from digitized flight logs does not negate the allegations. Epstein operated multiple aircraft (Boeing 727, Gulfstream, Cessna 421, helicopter) and not all passengers were logged on all flights. Additionally, Mitchell may have been transported to Epstein via commercial means rather than private aircraft.
+The absence of Mitchell from digitized flight logs does not negate the allegations. Epstein operated multiple aircraft (Boeing 727, Gulfstream, Cessna 421, helicopter) and not all passengers were logged on all flights. Additionally, Mitchell may have been transported to Epstein via commercial means rather than private aircraft. An NTOC tip ([EFTA00277082](https://www.justice.gov/epstein/files/DataSet%209/EFTA00277082.pdf)) claims Mitchell was "on Epstein's plane" based on "published flight records," though this remains unverified.
 
 ---
 
@@ -399,16 +434,17 @@ Following the unsealing of Giuffre court documents:
 
 | Mitchell Claim | Documentary Evidence |
 |----------------|---------------------|
-| "We have had no further contact" [after Florida prosecution] | 2010 email: "George Mitchell returned your phone call"; 2013 appointment scheduled; Groff calling State Dept for Mitchell (July 2012) |
-| "I never observed or suspected any inappropriate conduct" | Ongoing social contact through 2013+ provides opportunity for observation |
+| "We have had no further contact" [after Florida prosecution] | Sept 2011: confirmed 4:15 meeting at Epstein's ([EFTA00428166](https://www.justice.gov/epstein/files/DataSet%209/EFTA00428166.pdf)); Jul 2012: Mitchell proactively called ([EFTA00408367](https://www.justice.gov/epstein/files/DataSet%209/EFTA00408367.pdf)); Feb 2013: two Gates lunch invitations; Nov 2013: scheduled appointment; Sept 2015: Mitchell's direct email reply with "Best regards to Jeffrey" ([EFTA00339592](https://www.justice.gov/epstein/files/DataSet%209/EFTA00339592.pdf)) |
+| "Declined or deflected invitations" | Mitchell proactively called Groff (Jul 2012), confirmed meeting (Sept 2011), asked to meet Jes Staley "at another time" (Sept 2011), replied directly with travel schedule (Sept 2015). While some specific invitations were declined (Yom Kippur, Gates lunches), the characterization of passive deflection is contradicted by active reciprocation. |
+| "I never observed or suspected any inappropriate conduct" | Ongoing social contact through at least Sept 2015 provides opportunity for observation |
 | "I only learned of his actions when they were reported in the media" | Plausible but not verifiable |
-| "I have never met, spoken with or had any contact with Ms. Giuffre" | Cannot be independently verified from available documents; Giuffre's sworn testimony states otherwise |
+| "I have never met, spoken with or had any contact with Ms. Giuffre" | Cannot be independently verified from available documents; Giuffre's sworn testimony states otherwise; FBI used photo identification procedure with a victim who named Mitchell |
 
 ### February 2026 -- Updated Denial:
 
 Mitchell's spokesperson stated: "Senator Mitchell reiterates unequivocally that he never met, spoke with, or had any contact... with any underage women." He "profoundly regrets ever having known Jeffrey Epstein."
 
-Mitchell's spokesperson also stated he "declined or deflected invitations from Epstein that came afterward" -- contradicted by the returned phone call and scheduled 2013 appointment documented in the files.
+Mitchell's spokesperson also stated he "declined or deflected invitations from Epstein that came afterward" -- contradicted by the confirmed September 2011 meeting, the proactive July 2012 call, and the direct September 2015 email reply with "Best regards to Jeffrey," all documented in DS9 source emails.
 
 ---
 
@@ -420,7 +456,7 @@ Senator George Mitchell **does NOT appear** on the FBI Prominent Names page ([EF
 
 ### NTOC Tips ([EFTA01660651](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660651.pdf), [EFTA01660679](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660679.pdf)):
 
-Mitchell **does NOT appear** in the NTOC tips compilations.
+Mitchell does not appear in the main NTOC tips compilations. However, DS9 contains a separate NTOC tip ([EFTA00277082](https://www.justice.gov/epstein/files/DataSet%209/EFTA00277082.pdf)) claiming Mitchell was "on Epstein's plane" based on "published flight records" (see Source 5 above).
 
 ### Assessment:
 
@@ -470,7 +506,7 @@ Mitchell's reputation as architect of the Good Friday Agreement -- one of the mo
 
 | Date | Event | Source |
 |------|-------|--------|
-| **1989-1995** | Mitchell serves as Senate Majority Leader; Epstein later claims they were "very close" during this period | 2018 iMessage |
+| **1989-1995** | Mitchell serves as Senate Majority Leader; Epstein later claims they were "very close" during this period | [EFTA00508979](https://www.justice.gov/epstein/files/DataSet%209/EFTA00508979.pdf) (2018 iMessage, device extraction) |
 | **Late 1990s** | Epstein "wrote the senator a bunch of checks" for philanthropic projects | [EFTA00013640](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013640.pdf) |
 | **Late 1990s** | Epstein organized a fundraiser for Mitchell | [EFTA00013640](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013640.pdf) (Mitchell's own statement) |
 | **Pre-2003** | Epstein and Mitchell develop social friendship; Mitchell calls Epstein "a friend and a supporter" | [EFTA00013640](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013640.pdf) |
@@ -478,14 +514,20 @@ Mitchell's reputation as architect of the Good Friday Agreement -- one of the mo
 | **2003-2004** | Giuffre alleges Epstein and Maxwell "told her to have sex with" Mitchell | [EFTA00022133](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022133.pdf) |
 | **June 2008** | Epstein pleads guilty in Florida; registers as sex offender | Public record |
 | **2009** | Mitchell appointed Special Envoy for Middle East Peace by President Obama | Public record |
-| **2010** | "George Mitchell returned your phone call" -- post-conviction contact confirmed | DOJ file release, per press reporting |
-| **2010** | Epstein invites Mitchell to Yom Kippur event via assistant | DOJ file release, per press reporting |
+| **~2010** | Mitchell declines Yom Kippur dinner; Epstein plans to use his attendance as draw for Summers and Barak | [EFTA00298379](https://www.justice.gov/epstein/files/DataSet%209/EFTA00298379.pdf) (DS9) |
 | **May 2011** | Mitchell resigns as Special Envoy; returns to DLA Piper | Public record |
-| **Feb 2013** | Note exploring Mitchell's availability for lunch with Epstein and Bill Gates | DOJ file release, per press reporting |
-| **Jul 24, 2012** | Groff calls US State Department looking for Mitchell; told he returned to DLA Piper; obtains Ann Ungar's number | [EFTA02522767](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02522767.pdf) |
-| **Nov 6, 2013** | Scheduled appointment with Mitchell at 10:30 AM in New York | DOJ file release, per press reporting |
+| **Sept 10, 2011** | Groff contacts Julia/Janice/Maher for Mitchell meeting | [EFTA00428638](https://www.justice.gov/epstein/files/DataSet%209/EFTA00428638.pdf) (DS9) |
+| **Sept 12, 2011** | Mitchell CONFIRMED at 4:15 PM meeting at Epstein's residence | [EFTA00428166](https://www.justice.gov/epstein/files/DataSet%209/EFTA00428166.pdf) (DS9) |
+| **Sept 20, 2011** | Mitchell "would like to meet Jes [Staley] at another time" | [EFTA00427635](https://www.justice.gov/epstein/files/DataSet%209/EFTA00427635.pdf) (DS9) |
+| **Jul 24, 2012** | Groff calls US State Department looking for Mitchell | [EFTA02522767](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02522767.pdf) / [EFTA00408507](https://www.justice.gov/epstein/files/DataSet%209/EFTA00408507.pdf) (dual production) |
+| **Jul 25, 2012** | Mitchell proactively calls Groff, offers cell for weekend catch-up | [EFTA00408367](https://www.justice.gov/epstein/files/DataSet%209/EFTA00408367.pdf) (DS9) |
+| **Feb 13, 2013** | Mitchell declines lunch with Epstein + Bill Gates (Red Sox board meeting) | [EFTA00395729](https://www.justice.gov/epstein/files/DataSet%209/EFTA00395729.pdf) / [EFTA00953696](https://www.justice.gov/epstein/files/DataSet%209/EFTA00953696.pdf) (unredacted: "Bill Gates") (DS9) |
+| **Feb 23, 2013** | Second Gates meeting attempt; Mitchell declines (travel) | [EFTA00395024](https://www.justice.gov/epstein/files/DataSet%209/EFTA00395024.pdf) / [EFTA00395031](https://www.justice.gov/epstein/files/DataSet%209/EFTA00395031.pdf) (DS9) |
+| **Nov 6, 2013** | Scheduled appointment with Mitchell at 10:30 AM in New York | [EFTA00284786](https://www.justice.gov/epstein/files/DataSet%209/EFTA00284786.pdf) (DS9 calendar) |
+| **Sept 22, 2015** | Epstein directs invitation: coffee with Barak/Roed Larsen or Chomsky | [EFTA00339490](https://www.justice.gov/epstein/files/DataSet%209/EFTA00339490.pdf) (DS9) |
+| **Sept 23, 2015** | Mitchell's direct email reply: travel schedule, "Best regards to Jeffrey" | [EFTA00339592](https://www.justice.gov/epstein/files/DataSet%209/EFTA00339592.pdf) (DS9) |
 | **Nov 2018** | Mitchell appointed chair of Philly Archdiocese abuse compensation fund | Public record |
-| **2018** | Epstein iMessage: "Sen George Mitchell a very close friend when senate majority leader" | DOJ file release, per press reporting |
+| **Dec 20, 2018** | Epstein iMessage: "Sen George Mitchell a very close friend when senate majority leader" | [EFTA00508979](https://www.justice.gov/epstein/files/DataSet%209/EFTA00508979.pdf) (DS9, device extraction) |
 | **May 2019** | Mitchell steps down from Philly Archdiocese role | Public record |
 | **Jul 2019** | Epstein arrested by SDNY | Public record |
 | **Aug 9, 2019** | Mitchell issues denial: "The allegation contained in the released documents is false" | Press Herald |
@@ -506,10 +548,13 @@ Mitchell's reputation as architect of the Good Friday Agreement -- one of the mo
    - Virginia Giuffre ([EFTA00022133](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022133.pdf)): sworn testimony that Epstein and Maxwell "told her to have sex with" Mitchell
    - Unnamed victim journal ([EFTA02731420](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731420.pdf)): "even old senators like George Mitchell who you think would be good like a grandpa are bad"
 2. **FBI investigative document:** Alleges "multiday trips" in California and Washington, D.C. (2003-2004)
-3. **Confirmed ongoing relationship:** Post-conviction contact through at least 2013, with Epstein claiming "very close friend" as late as 2018
+3. **Confirmed ongoing relationship:** At least 20 DS9 source emails document sustained contact from September 2011 through September 2015, including confirmed meetings, proactive calls from Mitchell, and direct email replies. Epstein claimed "very close friend" as late as December 2018.
 4. **Financial connection:** Epstein paid for Mitchell's philanthropic projects and organized fundraisers
-5. **Operational infrastructure:** Groff (NPA co-conspirator) managed Mitchell contact through State Department channels
-6. **Mitchell's false denial:** Claimed "no further contact" after Florida prosecution, contradicted by 2010-2013 documented contact
+5. **Operational infrastructure:** Groff (NPA co-conspirator) managed Mitchell contact through State Department channels and through 4 separate assistants (Julia Reed, Janice, Neal, Maher Bitar)
+6. **Mitchell's false denial:** Claimed "no further contact" and "declined or deflected invitations," contradicted by confirmed September 2011 meeting, proactive July 2012 call, and direct September 2015 email reply with "Best regards to Jeffrey"
+7. **Jes Staley introduction:** Mitchell expressed interest in meeting Jes Staley through Epstein (Sept 2011); Staley was later classified as having engaged in sexual conduct with Epstein's victims
+8. **FBI photo identification:** Victim identified Mitchell through a photo identification procedure during FBI interview ([EFTA00162974](https://www.justice.gov/epstein/files/DataSet%209/EFTA00162974.pdf))
+9. **Social draw strategy:** Epstein planned to use Mitchell's attendance to attract Summers and Barak to events
 
 **Against prosecution:**
 1. **No flight log evidence:** Mitchell not found in digitized flight logs
@@ -693,19 +738,22 @@ See Section 3 above for the Mitchell-relevant passage. The full 9-page compilati
 
 ## CONCLUSION
 
-Senator George Mitchell's entanglement with Jeffrey Epstein is documented across four distinct evidentiary categories in the DOJ files:
+Senator George Mitchell's entanglement with Jeffrey Epstein is documented across five distinct evidentiary categories in the DOJ files:
 
-1. **Two independent victim statements** naming him as an abuser ([EFTA00022133](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022133.pdf), [EFTA02731420](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731420.pdf))
-2. **Operational infrastructure** connecting Epstein's office to Mitchell through his assistant Ann Ungar and the US State Department ([EFTA02522767](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02522767.pdf))
-3. **Mitchell's own admission** of friendship and financial support ([EFTA00013640](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013640.pdf))
-4. **FBI investigative documentation** of multiday trips with a victim (per press reporting of DOJ release)
+1. **Two independent victim statements** naming him as an abuser ([EFTA00022133](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022133.pdf), [EFTA02731420](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731420.pdf)), with FBI photo identification procedure corroborating the identification ([EFTA00162974](https://www.justice.gov/epstein/files/DataSet%209/EFTA00162974.pdf))
+2. **20+ DS9 source emails** documenting sustained, reciprocal post-conviction contact from September 2011 through September 2015, including confirmed meetings, proactive calls from Mitchell, and direct email replies with "Best regards to Jeffrey"
+3. **Operational infrastructure** connecting Epstein's office to Mitchell through 5 contacts (Ann Ungar, Julia Reed, Janice, Neal, Maher Bitar), the US State Department, and Mitchell's personal cell number on Epstein's master contact list
+4. **Mitchell's own admission** of friendship and financial support ([EFTA00013640](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013640.pdf))
+5. **FBI investigative documentation** of multiday trips with a victim (per press reporting of DOJ release)
 
-Mitchell's 2019 denial that there was "no further contact" after Epstein's Florida prosecution is directly contradicted by documentary evidence of a returned phone call (2010), a scheduled appointment (2013), and Groff calling the State Department on Epstein's behalf (2012).
+Mitchell's 2019 denial that there was "no further contact" after Epstein's Florida prosecution is comprehensively contradicted by DS9 source documents: a confirmed September 2011 meeting at Epstein's residence, a proactive July 2012 call from Mitchell offering weekend contact, two Gates lunch invitations (February 2013), a scheduled November 2013 appointment, and a direct September 2015 email reply sharing his travel schedule and sending "Best regards to Jeffrey." The spokesperson claim that Mitchell "declined or deflected invitations" is partially accurate (he declined the Yom Kippur dinner and Gates lunches) but fundamentally misleading -- the documentary record shows warm, reciprocal engagement, not passive deflection.
 
-The evidence, while not reaching the level of the Leon Black case (4+ victims, $118M+ financial flows, FBI 302s), is comparable in structure to the Bill Richardson case -- two-victim sworn testimony, post-conviction contact, categorical denial partially contradicted by documents, and ultimately no prosecution.
+DS9 also reveals that Epstein used Mitchell as a social draw to attract other targets (planning to leverage a Mitchell confirmation to invite Summers and Barak), attempted to introduce Mitchell to Jes Staley (later named in prosecution classifications), and maintained Mitchell as the first name on his master contact list alongside 50+ other high-value associates.
+
+The evidence, while not reaching the level of the Leon Black case (4+ victims, $118M+ financial flows, FBI 302s), is comparable in structure to the Bill Richardson case -- two-victim sworn testimony, sustained post-conviction contact, categorical denial contradicted by documents, and ultimately no prosecution.
 
 As of February 2026, the institutional consequences have been severe: Mitchell has resigned from his namesake organizations, and international institutions have severed ties. He has never been required to testify under oath about the specific allegations, and at 92 years old, prosecution is effectively impossible.
 
 ---
 
-*Report generated from comprehensive search of 4 databases (primary document text database, Dataset 10 document text database, OCR text extraction database, image catalog database) plus knowledge graph, cross-referenced with existing investigation reports and public source reporting.*
+*Report generated from comprehensive search of 4 databases (primary document text database, Dataset 10 document text database, OCR text extraction database, image catalog database) plus knowledge graph; updated with DS9/DS11 full-text corpus revisit (25+ new EFTA citations identified). Cross-referenced with existing investigation reports and public source reporting.*

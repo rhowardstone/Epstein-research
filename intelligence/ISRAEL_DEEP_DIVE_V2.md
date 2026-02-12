@@ -11,9 +11,9 @@
 
 This report is the definitive analysis of Israeli connections within the 218GB DOJ Epstein document corpus. It consolidates findings from all prior sessions and adds deeper readings of every relevant document. The evidence breaks into six categories:
 
-1. **Ehud Barak** -- 25+ documents establishing a deeply integrated personal and logistical relationship with Epstein spanning 2010-2019, including a staffed apartment in Epstein's trafficking-linked building, a brokered meeting with Steve Bannon, and presence on Epstein's calendar alongside Leon Black, Larry Summers, and Peter Thiel on a single day.
+1. **Ehud Barak** -- 3,756 documents (25+ in original databases; 1,689 in DS9 + 1,076 in DS10 + 978 in DS11 from the full email corpus) establishing a deeply integrated personal and logistical relationship with Epstein spanning 2010-2019, including a staffed apartment in Epstein's trafficking-linked building, a brokered meeting with Steve Bannon, presence on Epstein's calendar alongside Leon Black, Larry Summers, and Peter Thiel on a single day, and extensive Carbyne/Reporty investment correspondence (see below).
 
-2. **Nicole Junkermann** -- 10+ documents across a 10-year relationship (2009-2019), including Epstein brokering her introduction to Leon Black, a January 2019 island trip alongside Steve Bannon and Sultan bin Sulayem, and business correspondence through March 2018.
+2. **Nicole Junkermann** -- 4,182 documents (10+ in original databases; 1,758 in DS9 + 1,198 in DS10 + 1,218 in DS11 from the full email corpus) across an 11+-year relationship (2008-2019, including prison-era contact), including Epstein brokering her introduction to Leon Black, a January 2019 island trip alongside Steve Bannon and Sultan bin Sulayem, business correspondence through March 2018, and Carbyne investment negotiation emails detailing exact financial splits.
 
 3. **The "Intelligence Agencies" Reference** -- A social media post by George B. Tonks captured by the FBI in which a third party states: "If we are collaborating with intelligence agencies they are hardly going to listen to you Maria." This appears in 4 EFTA documents as part of a multi-page collection of social media screenshots, NOT as an FBI investigative finding.
 
@@ -23,15 +23,15 @@ This report is the definitive analysis of Israeli connections within the 218GB D
 
 6. **The Acosta "Intelligence Asset" Admission** -- A Daily Beast article in the FBI files states Acosta told Trump transition interviewers: "I was told Epstein 'belonged to intelligence' and to leave it alone." Under oath, Acosta carefully qualified his denial.
 
-**Critical Negative Findings:** ZERO results in any database for Carbyne, Mega Group, Shin Bet, Unit 8200, LAKAM, Ari Ben-Menashe, or Reporty Homeland Security. These terms -- central to public theories about Epstein-Israeli intelligence connections -- are entirely absent from the FBI's investigative files.
+**Corrected Findings (Full Corpus Expansion, Feb 12, 2026):** The original report's negative findings were based on the redaction and OCR databases. The full email corpus (1,380,937 docs across all 12 datasets) overturns several of these. **Carbyne** now yields 50 documents (25 DS9 + 25 DS11) and **Reporty** yields 324 documents (196 DS9 + 25 DS10 + 103 DS11), including complete investment structures and board reports. **Unit 8200** yields 11 documents and **Shin Bet** yields 23, likely from news articles forwarded within the email corpus. **Mega Group** yields 4 documents (likely false positives from Wikipedia/news). **Ben-Menashe** and **LAKAM** remain confirmed at ZERO across the full 1.38M-document corpus. Additionally, an FBI CHS FD-1023 document ([EFTA00090314](https://www.justice.gov/epstein/files/DataSet%209/EFTA00090314.pdf)) contains a source claim that Epstein "belonged to both U.S. and allied intelligence services" and "trained as a spy under" Barak -- see Part VII below.
 
 ---
 
 # PART I: EHUD BARAK -- COMPLETE DOCUMENT ANALYSIS
 
-## Total Documents: 25+ confirmed across all document collections
+## Total Documents: 3,756 across all document collections (25+ in redaction/OCR databases; 1,689 in DS9 + 1,076 in DS10 + 978 in DS11 from full email corpus)
 
-Ehud Barak -- former Prime Minister of Israel (1999-2001), former Defense Minister (2007-2013), and former Chief of Staff of the IDF -- is the most frequently appearing Israeli figure in the Epstein corpus.
+Ehud Barak -- former Prime Minister of Israel (1999-2001), former Defense Minister (2007-2013), and former Chief of Staff of the IDF -- is the most frequently appearing Israeli figure in the Epstein corpus. The DS9 expansion reveals thousands of calendar entries, schedule pages, and email chains, including Carbyne/Reporty investment correspondence documented in Part VII below.
 
 ## A. Direct Email Communications
 
@@ -656,11 +656,11 @@ Christopher Dilorio's FBI filings connect Epstein to Israeli financial networks:
 
 ## What the Evidence Does NOT Establish:
 
-1. **No document in the FBI files states that Epstein was an intelligence asset** of any country, including Israel. The closest is the Acosta Daily Beast report (secondhand, denied under oath) and the Kohn letters (which explicitly say Epstein was NOT Mossad).
+1. **[CORRECTED] An FBI CHS FD-1023 document does contain intelligence claims.** [EFTA00090314](https://www.justice.gov/epstein/files/DataSet%209/EFTA00090314.pdf) is a 3-page FBI Confidential Human Source reporting document in which a source relays that Dershowitz told Acosta "Epstein belonged to both U.S. and allied intelligence services" and that Epstein "trained as a spy under" Barak. While FD-1023 forms document unverified CHS claims (not FBI conclusions), the original report's statement that "No document in the FBI files states that Epstein was an intelligence asset" was incorrect -- this document exists in the FBI case file. Additionally, an investigative memo ([EFTA00098755](https://www.justice.gov/epstein/files/DataSet%209/EFTA00098755.pdf), page 4) states: "Jeffrey Epstein worked for the United States government as a financial bounty hunter."
 
-2. **No Israeli intelligence service** (Mossad, Shin Bet, Aman, Unit 8200, LAKAM) is referenced in any FBI investigative document. The only Mossad references are in external correspondence (Kohn letters, social media posts).
+2. **[CORRECTED] Israeli intelligence service references exist in the email corpus**, though they appear to originate from news articles and Wikipedia content forwarded within email chains. Unit 8200 yields 11 documents (8 DS9 + 3 DS10); Shin Bet yields 23 documents (12 DS9 + 6 DS10 + 5 DS11). Mossad yields 96 DS9 documents, the most significant being the CHS FD-1023 noted above. These do not appear to represent operational intelligence connections in most cases but the categorical "ZERO" was incorrect. **LAKAM** remains genuinely absent.
 
-3. **Carbyne, Mega Group, and Ben-Menashe** -- central to public theories -- are completely absent from the 218GB corpus.
+3. **[CORRECTED] Carbyne and Reporty are extensively documented in the email corpus.** The original report stated these were "completely absent from the 218GB corpus." The full email corpus reveals 50 Carbyne documents and 324 Reporty documents, including complete investment structures, board reports forwarded by Barak to Epstein, CEO correspondence from Amir Elichai (57 docs), and legal documentation. **Mega Group** yields 4 documents (likely Wikipedia/news false positives). **Ben-Menashe** remains confirmed at ZERO.
 
 4. **The provenance of IDF clothing** on Little Saint James is never explained.
 
@@ -668,24 +668,99 @@ Christopher Dilorio's FBI filings connect Epstein to Israeli financial networks:
 
 6. **MC2's Tel Aviv recruiting operations** are not investigated in any FBI document despite MC2 publicly advertising recruitment of girls ages 13-20.
 
-## The Gap Between Public Narrative and FBI Files:
+## The Gap Between Public Narrative and FBI Files (Revised Assessment):
 
 The public narrative connecting Epstein to Israeli intelligence relies heavily on:
-- Ari Ben-Menashe's claims (ABSENT from FBI files)
-- Carbyne/Reporty connections (ABSENT from FBI files)
-- Mega Group theories (ABSENT from FBI files)
+- Ari Ben-Menashe's claims (ABSENT from FBI files -- confirmed ZERO across 1.38M docs)
+- Carbyne/Reporty connections (**NOW DOCUMENTED**: 374 documents in the email corpus establishing Epstein as an active Carbyne investor alongside Barak and Junkermann)
+- Mega Group theories (4 documents, likely Wikipedia/news references -- no operational connection)
 - Robert Maxwell's Mossad history (NOT referenced in FBI investigative documents)
 
 What the FBI files DO contain is extensive documentation of:
-- Barak's physical integration into Epstein's infrastructure
+- Barak's physical integration into Epstein's infrastructure (3,756 documents total)
+- Epstein's direct Carbyne/Reporty investments with Barak ($500K personal investment, $50M valuation, board-level reporting)
 - Epstein's access to Israeli military facilities
 - IDF items on Epstein's island
 - The blackmail infrastructure (cameras, required debriefs, FBI case file)
-- The Acosta "intelligence" account
+- The Acosta "intelligence" account AND the FBI CHS FD-1023 ([EFTA00090314](https://www.justice.gov/epstein/files/DataSet%209/EFTA00090314.pdf)) containing source claims of intelligence service connections
+- The investigative memo ([EFTA00098755](https://www.justice.gov/epstein/files/DataSet%209/EFTA00098755.pdf)) characterizing Epstein as a "financial bounty hunter" for the U.S. government
 - The Kohn letters stating "certain parties in this mix" ARE intelligence-connected
 - FOIA exemptions for "confidential relationship with a foreign government"
+- Masha Drokova identified by FBI ARMS investigation as "Putin's kiss, former publicist for Jeffrey Epstein" with regular 2017 meetings and Russian technology transfer concerns ([EFTA00129096](https://www.justice.gov/epstein/files/DataSet%209/EFTA00129096.pdf))
 
-The files show the INFRASTRUCTURE of something consistent with an intelligence operation -- but never the explicit CONNECTION to any intelligence service. Whether this gap reflects investigative failure, classification, or the absence of such a connection is the central unresolved question.
+The original report's conclusion that "the infrastructure is consistent with an intelligence operation but no explicit service connection is identified" requires revision. The FBI CHS report explicitly claims Epstein belonged to intelligence services. The Carbyne investment chain demonstrates direct financial connections between Epstein, Barak, and Junkermann in an Israeli emergency-services technology company whose founders had Unit 8200 backgrounds. The "financial bounty hunter" memo characterizes Epstein as a government operative. While none of these documents constitute proof of an intelligence relationship (CHS claims are unverified, memos may be speculative), they represent exactly the kind of explicit claims the original report said did not exist in the files.
+
+---
+
+# PART VII: FULL CORPUS EXPANSION -- CARBYNE/REPORTY, FBI CHS INTELLIGENCE DOCUMENT, AND DROKOVA (ADDED FEB 12, 2026)
+
+*This section documents findings from the full_text_corpus.db (1,380,937 docs across all 12 datasets) that were not available to the original Feb 8 report, which searched only the redaction and OCR databases.*
+
+## A. Carbyne/Reporty Investment Documentation (ZERO to 374 Documents)
+
+The original report's statement that Carbyne and Reporty were "completely absent from the 218GB corpus" has been overturned. The email corpus contains extensive Carbyne/Reporty documentation:
+
+### Financial Structure
+[EFTA01030313](https://www.justice.gov/epstein/files/DataSet%209/EFTA01030313.pdf)/[EFTA01030316](https://www.justice.gov/epstein/files/DataSet%209/EFTA01030316.pdf) (DS9): Junkermann-Epstein negotiation email revealing exact Carbyne financial structure:
+> "Carbyne invested 1.5 m (1m you and 0.5m me) net of fees is 3.9m your share, Ehud carry 1.5 m and my share 2m"
+
+This also discusses: "We invested 1M in carbon [Carbyne] at 8m pre. Total invested by all investors was 6m... valuation was 50m" and references Chinese investment discussions.
+
+### Board Reports Forwarded to Epstein
+[EFTA00631912](https://www.justice.gov/epstein/files/DataSet%209/EFTA00631912.pdf) (DS9): Barak forwarding Reporty/Carbyne monthly investor reports to Epstein: "Hag Same'ach Jeff. Looking forward for our next meeting. Best EB." The attached monthly report from Amir Elichai (Reporty CEO) includes company metrics and strategic updates, establishing Epstein as an active investor receiving board-level information.
+
+[EFTA01013926](https://www.justice.gov/epstein/files/DataSet%209/EFTA01013926.pdf) (DS9): Another Barak forward of Reporty/Carbyne reports to Epstein, confirming a regular reporting pattern.
+
+### Barak Brokering Series B with Epstein
+[EFTA01013264](https://www.justice.gov/epstein/files/DataSet%209/EFTA01013264.pdf) (DS9): Barak to Junkermann regarding Carbyne Series B funding: "I propose we will discuss the issue together with JE." Barak explicitly positioning Epstein as a decision-maker in Carbyne's next funding round.
+
+### Legal Documentation Chain
+[EFTA01034903](https://www.justice.gov/epstein/files/DataSet%209/EFTA01034903.pdf) (DS9): Richard Kahn (HBRK Associates) forwarding Carbyne legal documents from Darren Indyke (Epstein's attorney) to Israeli law firm partner Tomer at fwmk-law.co.il. Epstein's legal infrastructure was directly involved in Carbyne corporate governance.
+
+### Reporty Financial Reports
+[EFTA00614842](https://www.justice.gov/epstein/files/DataSet%209/EFTA00614842.pdf) (DS9): Reporty monthly financial highlights with bank balance details and burn rates.
+[EFTA00798601](https://www.justice.gov/epstein/files/DataSet%209/EFTA00798601.pdf) (DS9): Full Carbyne milestone/annual report (2017-2018).
+[EFTA01035810](https://www.justice.gov/epstein/files/DataSet%209/EFTA01035810.pdf) (DS9): Carbyne Annual Statements 2017 and forecasts.
+
+### Epstein Frustration (Pre-Arrest)
+[EFTA01030113](https://www.justice.gov/epstein/files/DataSet%209/EFTA01030113.pdf) (DS9): Epstein to Junkermann, February 2019 (5 months before arrest): "I have little idea of carbyne results to date."
+
+## B. FBI CHS FD-1023 -- Intelligence Service Claims
+
+[EFTA00090314](https://www.justice.gov/epstein/files/DataSet%209/EFTA00090314.pdf) (DS9): A 3-page FBI Confidential Human Source (CHS) reporting document (FD-1023 format) containing the following source claims:
+
+> "Dershowitz told CHS that if he were young again, he would be holding a stun gun as an Israeli Intelligence (Mossad) agent"
+
+> "CHS remembered Dershowitz tell Alex Acosta that Epstein belonged to both U.S. and allied intelligence services"
+
+> "After these calls, Mossad would then call Dershowitz to debrief"
+
+> "Epstein was close to the former Prime Minister of Israel, Ehud Barak and trained as a spy under him"
+
+Additional claims in the same document include assertions about Leon Black owning "the mercenary firm formerly known as Blackwater, now Constellis," Masha Drokova described as "Putin's main contact in Russian Youth movement," and Chabad/Kushner references.
+
+**Reliability note:** FD-1023 forms document CHS statements for investigation leads. The intelligence claims in this document have not been verified by the FBI -- they represent what a source reported. However, the document's existence in the Epstein case file means the FBI received and preserved these claims as part of the investigation.
+
+## C. Investigative Memo -- "Financial Bounty Hunter"
+
+[EFTA00098755](https://www.justice.gov/epstein/files/DataSet%209/EFTA00098755.pdf) (DS9, page 4): An investigative memo stating: "Jeffrey Epstein worked for the United States government as a financial bounty hunter. He has retained significant political connections with both Israel and the United States."
+
+## D. Masha Drokova -- FBI ARMS Investigation
+
+[EFTA00129096](https://www.justice.gov/epstein/files/DataSet%209/EFTA00129096.pdf) (DS9): FBI document identifying Drokova as "nicknamed 'PUTIN's kiss,' former publicist for JEFFREY EPSTEIN." Part of an FBI ARMS (Automated Record Management System) investigation connected to Day One Ventures (VC firm), Quantum Wave Fund, Runa Capital, Serguei Beloussov, and Russian technology transfer concerns.
+
+DS9 calendar entries reveal regular Drokova meetings with Epstein throughout 2017 (May, July, September, November). A $1,790 Prada purchase was coordinated through Epstein's staff for Drokova.
+
+## E. Expanded Individual Counts
+
+| Name | Original Report Count | Full Corpus Count | Notes |
+|------|----------------------|-------------------|-------|
+| Ehud Barak | 25+ | **3,756** | 1,689 DS9 + 1,076 DS10 + 978 DS11 |
+| Nicole Junkermann | 10+ | **4,182** | 1,758 DS9 + 1,198 DS10 + 1,218 DS11 |
+| HBRK Associates | 3 | **34,909** | 12,336 DS9 + 12,546 DS10 + 10,023 DS11 (email headers) |
+| Nili Priel | 5 | **2,690+** | Includes "priell" spelling variant |
+| Melvyn Kohn | 5 | **47** | 38 DS9 + 9 DS11; FBI cyber analysis ([EFTA00146777](https://www.justice.gov/epstein/files/DataSet%209/EFTA00146777.pdf)) |
+| Benny Shabtai | 3+ | **14+** | Regular calendar entries, Skype calls |
 
 ---
 
@@ -774,20 +849,25 @@ The files show the INFRASTRUCTURE of something consistent with an intelligence o
 
 ---
 
-# APPENDIX D: NEGATIVE SEARCH RESULTS -- CONFIRMED FEBRUARY 8, 2026
+# APPENDIX D: SEARCH RESULTS -- UPDATED FEBRUARY 12, 2026 (FULL CORPUS)
 
-| Search Term | primary text database | DS10 text database | OCR text records | image catalog |
-|-------------|-------------|----------------|--------------|----------------|
-| "Carbyne" | ZERO | ZERO | ZERO | ZERO |
-| "Reporty" | ZERO | ZERO | ZERO | ZERO |
-| "Mega Group" | ZERO | ZERO | ZERO | ZERO |
-| "Ben-Menashe" | ZERO | ZERO | ZERO | ZERO |
-| "Ari Ben" | ZERO | ZERO | ZERO | ZERO |
-| "Shin Bet" / "Shabak" | ZERO | ZERO | ZERO | ZERO |
-| "Unit 8200" | ZERO | ZERO | ZERO | ZERO |
-| "LAKAM" | ZERO | ZERO | ZERO | ZERO |
-| "Wexner" + "Israel" | ZERO | ZERO | ZERO | ZERO |
-| "Acosta" + "intelligence" | ZERO (redactions) | -- | 1 (Daily Beast article) | -- |
+*Original negative search results (Feb 8, 2026) were based on redaction/OCR databases only. The table below reflects the full_text_corpus.db (1,380,937 docs across all 12 datasets).*
+
+| Search Term | Redaction/OCR DBs (Feb 8) | Full Corpus Total (Feb 12) | Distribution | Notes |
+|-------------|--------------------------|---------------------------|--------------|-------|
+| "Carbyne" | ZERO | **50** | 25 DS9 + 25 DS11 | **CORRECTED**: Complete investment structure, board reports, legal docs |
+| "Reporty" | ZERO | **324** | 196 DS9 + 25 DS10 + 103 DS11 | **CORRECTED**: Monthly financials, CEO correspondence |
+| "Amir Elichai" (Carbyne CEO) | ZERO | **57** | 43 DS9 + 14 DS11 | **NEW**: Direct investor correspondence |
+| "Mega Group" | ZERO | **4** | 3 DS9 + 1 DS10 | **CORRECTED**: Likely Wikipedia/news false positives |
+| "Ben-Menashe" | ZERO | **ZERO** | -- | **CONFIRMED ABSENT** |
+| "Ari Ben" | ZERO | **ZERO** | -- | **CONFIRMED ABSENT** |
+| "Shin Bet" / "Shabak" | ZERO | **23** | 12 DS9 + 6 DS10 + 5 DS11 | **CORRECTED**: Likely news articles in email corpus |
+| "Unit 8200" | ZERO | **11** | 8 DS9 + 3 DS10 | **CORRECTED**: Likely news articles in email corpus |
+| "LAKAM" | ZERO | **ZERO** | -- | **CONFIRMED ABSENT** |
+| "Mossad" | 4 | **173** | 96 DS9 + 52 DS10 + 21 DS11 | Includes FBI CHS FD-1023 ([EFTA00090314](https://www.justice.gov/epstein/files/DataSet%209/EFTA00090314.pdf)) |
+| "Masha Drokova" | ZERO | **12+** | DS9 | **NEW**: FBI ARMS investigation, regular 2017 meetings |
+| "Wexner" + "Israel" | ZERO | ZERO | -- | Unchanged |
+| "Acosta" + "intelligence" | ZERO (redactions) | 1 (Daily Beast article) | -- | Unchanged |
 
 ---
 
@@ -808,4 +888,4 @@ This report incorporates, consolidates, and extends findings from:
 
 ---
 
-*Investigation conducted February 8, 2026. All findings derived from publicly released DOJ FOIA documents across four databases totaling 218GB. 100+ EFTA citations. 4 databases queried with 50+ unique search terms.*
+*Investigation conducted February 8, 2026. Revised February 12, 2026 with full_text_corpus.db expansion (1,380,937 docs across all 12 datasets). All findings derived from publicly released DOJ FOIA documents. 130+ EFTA citations. Original 4 databases + full email corpus queried with 70+ unique search terms. Key corrections: Carbyne/Reporty ZERO overturned (374 docs), FBI CHS FD-1023 intelligence claims identified, Unit 8200/Shin Bet categorical ZEROs corrected, Masha Drokova FBI ARMS investigation added.*

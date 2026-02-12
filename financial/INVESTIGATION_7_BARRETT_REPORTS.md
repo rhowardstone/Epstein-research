@@ -46,15 +46,28 @@ Barrett's career arc also reveals a critical fact: he previously served Epstein 
 - [EFTA01465544](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01465544.pdf): "From: 'Barrett, Paul'" -- October 2013
 - [EFTA01951455](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01951455.pdf): Barrett name appears in same document as Jes Staley (then JPM CEO of Investment Banking) -- dated Wed 10/30/2013
 
-**Deutsche Bank Phase (2015-2018):**
+**Deutsche Bank Phase (Oct 2013 - April/May 2017):** **[REVISIT CORRECTION: Barrett left DB by mid-2017, not 2018]**
 - [EFTA01268397](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01268397.pdf): "Paul Barrett / Subject: Transfer of Assets Form" -- likely the account onboarding at DB
 - [EFTA01371649](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01371649.pdf): CRS + UK FATCA form -- regulatory compliance onboarding
 - Multiple documents spanning the [EFTA01369183](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01369183.pdf)-[EFTA01438535](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01438535.pdf) range (2017-2018)
-- [EFTA01381138](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01381138.pdf): "Paul Barrett / Stewart Oldfield / 8/8/2018" -- latest dated reference
+- [EFTA01381138](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01381138.pdf): "Paul Barrett / Stewart Oldfield / 8/8/2018" -- **[REVISIT NOTE: This and later 2018 emails were from Barrett's independent firm Alpha Group Capital LLC, not DB]**
 
-### 1.3 Key Finding: Barrett Followed Epstein from JPM to DB
+**Independent Advisory Phase (Sept 2017 - Aug 2018+):** **[REVISIT -- NEW PHASE]**
+- Barrett established Alpha Group Capital LLC (142 W 57th Street, 11th Floor, NY 10019) funded by Epstein
+- Latest Barrett-Epstein email: [EFTA01007577](https://www.justice.gov/epstein/files/DataSet%209/EFTA01007577.pdf) (Aug 24, 2018): forwarding WheelTug investment opportunity from DB via Alpha Group
+
+### 1.3 Key Finding: Barrett Followed Epstein from JPM to DB -- Then Became an Independent Advisor Funded by Epstein
 
 The NMLS ID# 853441 confirms Barrett was a registered financial professional. His JP Morgan email address appears in records from 2011-2013, and his Deutsche Bank records begin appearing in the [EFTA01268397](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01268397.pdf) range with a "Transfer of Assets Form" -- the precise document type used when a client moves their portfolio between institutions. This demonstrates that Barrett was not simply assigned to Epstein at DB; he was Epstein's **chosen personal banker** who migrated with the account.
+
+**[REVISIT UPDATE -- Corrected Career Timeline and Financial Dependency]:** DS9 full-text evidence fundamentally transforms the understanding of Barrett's role. The corrected timeline is:
+1. **JPM Phase (2010-2013):** Barrett as Managing Director, Global Investment Opportunities Group. Earliest DS9 email: November 4, 2010 ([EFTA00752389](https://www.justice.gov/epstein/files/DataSet%209/EFTA00752389.pdf)).
+2. **Deutsche Bank Phase (Oct 2013 - April/May 2017):** Barrett at Deutsche Bank Private Wealth Management. Barrett **left DB by mid-2017** (not 2018 as originally stated).
+3. **Alpha Group Capital LLC Phase (Sept 2017 - Aug 2018+):** Barrett established his own firm with Epstein's financial backing.
+
+Barrett's April 25, 2017 email to Epstein ([EFTA00710363](https://www.justice.gov/epstein/files/DataSet%209/EFTA00710363.pdf)) reveals the financial arrangement: "Given I need some taxable income we should structure the payment as a $250K annual fee (paid semi annually) with the balance as the forgivable loan paid upfront. This would be repeated over 3 years." His July 27, 2017 email to Darren Indyke ([EFTA00633353](https://www.justice.gov/epstein/files/DataSet%209/EFTA00633353.pdf)) confirms: "The LLC that I will be using for the two loans will be OSBORNE LANE CAPITAL LLC... I set up ALPHA GROUP CAPITAL LLC for the investments business." Barrett's garden leave ended September 17, 2017; all subsequent emails carry the signature "Alpha Group Capital LLC, 142 W 57th Street, 11th Floor, New York, NY 10019."
+
+Most critically, Epstein's 2017 Trust Agreement ([EFTA00098341](https://www.justice.gov/epstein/files/DataSet%209/EFTA00098341.pdf), Section 36) explicitly names Barrett as a death beneficiary, directing trustees to distribute an amount equal to "all financial obligations and liabilities then outstanding" from Barrett and Osborne Lane Capital LLC to Epstein entities including Southern Financial LLC. This provision effectively forgives Barrett's debts upon Epstein's death. Barrett was not merely a banker -- he was an **economic partner with financial obligations to his client**, receiving loans, fees, and death benefits.
 
 ---
 
@@ -139,7 +152,9 @@ The most significant financial product associated with Barrett's management of E
 
 ### 3.3 ALPHAGROUP Connection
 
-The entity **ALPHAGROUP** appears in **35 documents** across the database, frequently co-occurring with Barrett and HCYES references. ALPHAGROUP appears as an email domain/entity associated with the Harvest CYES correspondence. In [EFTA01387883](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01387883.pdf), the redacted text reads: "Paul Barrett / Andrew King / Harvest Collateral Yield Enhanc[ement] / ALPHAGROUP / 2017 12:25 PM" -- suggesting ALPHAGROUP was the counterparty or intermediary for the Harvest strategy.
+The entity **ALPHAGROUP** appears in **35 documents** across the database, frequently co-occurring with Barrett and HCYES references. In [EFTA01387883](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01387883.pdf), the redacted text reads: "Paul Barrett / Andrew King / Harvest Collateral Yield Enhanc[ement] / ALPHAGROUP / 2017 12:25 PM."
+
+**[REVISIT CORRECTION]:** ALPHAGROUP is **not** a counterparty or intermediary for the Harvest strategy. DS9 full-text confirms ALPHAGROUP = **Alpha Group Capital LLC**, Barrett's own independent investment advisory firm, established September 2017 with Epstein's financial backing (loans through Osborne Lane Capital LLC, $250K annual fee). All Barrett emails from approximately October 2017 onward carry the "Alpha Group Capital LLC" signature block. The original characterization of ALPHAGROUP as a "counterparty or intermediary" was incorrect.
 
 ### 3.4 HCYES -- What It Reveals
 
@@ -291,9 +306,11 @@ The data reveals a **two-tier management structure** for the Epstein relationshi
 
 - **Paul Morris** (448 appearances): Listed as the **secondary account officer** on ALL Epstein entities at DB. He appears from the earliest DB records and handles operational matters, account assignments, and internal administration. Morris communicated with Stewart Oldfield and Vahe Stepanian on management matters.
 
-- **Paul Barrett** (55 documents): The **client-facing relationship manager** who handled investment strategy, derivatives trading, weekly reporting, and direct Epstein communication. Barrett worked alongside Stewart Oldfield specifically on investment execution.
+- **Paul Barrett** (55 documents in DS10 redactions; 25+ in DS9 full-text): Originally the **client-facing relationship manager**, Barrett evolved into an **economic partner and paid personal advisor** after leaving DB in mid-2017. He received $250K/year plus forgivable loans through Osborne Lane Capital LLC, was named in Epstein's will, and continued managing Epstein's investments as an independent advisor through Alpha Group Capital LLC. Barrett met Epstein at the 9 East 71st Street townhouse ([EFTA00469810](https://www.justice.gov/epstein/files/DataSet%209/EFTA00469810.pdf)), invited Epstein to his son's Bar Mitzvah ([EFTA00470076](https://www.justice.gov/epstein/files/DataSet%209/EFTA00470076.pdf)), and facilitated joint investment calls between Epstein and Tommy Mottola (music industry mogul) using JPMorgan infrastructure ([EFTA00326452](https://www.justice.gov/epstein/files/DataSet%209/EFTA00326452.pdf)).
 
-This dual structure -- with Morris as the institutional account officer and Barrett as the active portfolio manager -- is consistent with how major banks manage ultra-high-net-worth clients requiring both operational infrastructure and active investment management.
+**[REVISIT UPDATE -- Stepanian Onboarding Role]:** DS9 reveals Vahe Stepanian was not merely "Senior Oversight/CC" but the **architect of the Epstein onboarding at Deutsche Bank**. An October 2013 BSO Exception Request chain ([EFTA00169398](https://www.justice.gov/epstein/files/DataSet%209/EFTA00169398.pdf)) shows Stepanian pushing through compliance exceptions to accommodate Epstein: "we are in the process of onboarding a new client, Jeffrey Epstein, who has already transferred in $120mm+ liquid across his accounts." Exceptions included using DB POA for entity accounts and granting full POA to Epstein's assistant Jeanne Brennan.
+
+**[REVISIT UPDATE -- Zeman as Named Investment Specialist]:** Martin Zeman was not just an FX/derivatives executor but the **named Investment Specialist on the Haze Trust** ($18-20M account) from mid-2018 onward ([EFTA01254310](https://www.justice.gov/epstein/files/DataSet%209/EFTA01254310.pdf)), succeeding Joshua Shoshan ([EFTA01254188](https://www.justice.gov/epstein/files/DataSet%209/EFTA01254188.pdf)). Zeman was actively trading for Epstein as late as February 2019 ([EFTA01029423](https://www.justice.gov/epstein/files/DataSet%209/EFTA01029423.pdf)), just 5 months before arrest.
 
 ---
 
@@ -462,8 +479,10 @@ Barrett's communication network reveals:
 | HCYES was an active derivatives overlay program | HIGH -- 36 documents, external manager, monthly updates | Institutional-grade investment activity |
 | Epstein traded sovereign CDS, FX derivatives, and structured options | HIGH -- specific trade terms recovered | Active speculative/hedging activity |
 | Barrett connected to CEO-level (Jes Staley) | MEDIUM -- reconstructed page, OCR quality | Senior institutional awareness |
-| No explicit compliance red flags in Barrett correspondence | HIGH (absence evidence) | Either verbally communicated or systematically excluded |
-| Weekly reporting spanned at least Feb 2013 - Aug 2018 | MEDIUM-HIGH | ~5.5 years of dedicated weekly oversight |
+| No explicit compliance red flags in Barrett correspondence | HIGH (absence evidence) | **[REVISIT CORRECTION]:** FBI interview of Amanda Kirby ([EFTA00128765](https://www.justice.gov/epstein/files/DataSet%209/EFTA00128765.pdf), 15 pages) reveals DB employees were aware of co-conspirator trust beneficiaries and MC2 transactions but did not flag them |
+| Barrett relationship spanned Nov 2010 - Aug 2018 | HIGH -- earliest DS9 email from Nov 4, 2010 | **~8 years** of dedicated engagement across JPM, DB, and independent phases |
+| Barrett was a financial dependent of Epstein | HIGH -- will provisions, loan structures, fee arrangements | Named in Epstein's will as death beneficiary ([EFTA00098341](https://www.justice.gov/epstein/files/DataSet%209/EFTA00098341.pdf)) |
+| Single AAPL trade generated $22.16M realized gain | HIGH -- [EFTA02550849](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02550849.pdf) | 314,000 shares round-trip across Haze Trust and Southern Financial accounts |
 
 ### 10.5 Investigative Significance
 

@@ -25,8 +25,8 @@ The Bannon-Epstein relationship documented in these files is significant but con
 | "WoW" | 45 (all false positives) | 42 (same false positives) | 0 | 0 |
 | "IGE" (company) | 126 (all false positives) | 73 (all false positives) | 745 (all false positives) | 782 (all false positives) |
 | "Internet Gaming" | **0** | **0** | **0** | **0** |
-| "Internet Gaming Entertainment" | **0** | **0** | **0** | **0** |
-| "gold farming" | **0** | **0** | **0** | **0** |
+| "Internet Gaming Entertainment" | **0** | **0** | **0** | **0** | DS9: 1 (Pierce bio) |
+| "gold farming" | **0** | **0** | **0** | **0** | DS9: 1 (tax article) |
 | "virtual gold" | **0** | **0** | **0** | **0** |
 | "virtual currency" | **0** | **0** | 2 (news clips about Bitcoin) | 2 (same news clips) |
 | "in-game" | **0** | **0** | N/A | N/A |
@@ -203,6 +203,15 @@ Steve Bannon ran IGE (Internet Gaming Entertainment), a Hong Kong-based company 
 
 ### Conclusion
 The Epstein DOJ files contain **absolutely no evidence** linking Epstein to World of Warcraft gold, IGE, or any virtual game currency laundering scheme. The Bannon-Epstein relationship was real but was about political influence and social networking in the 2017-2019 period, with no connection to Bannon's earlier gaming industry ventures. This theory, while creative, finds zero support in the documentary record.
+
+### DS9/DS11 Full-Corpus Confirmation (2026-02-12)
+A full-corpus revisit across DS9 (531,284 pages) and DS11 (331,655 pages) confirmed the negative finding. The only new result: [EFTA00752613](https://www.justice.gov/epstein/files/DataSet%209/EFTA00752613.pdf) (DS9) contains Brock Pierce's biography explicitly listing him as "major stakeholder in Internet Gaming Entertainment, chairman and president of Revenue Apex." This document is Pierce's bio forwarded in connection with his Epstein relationship (September 2011). Related emails: [EFTA00428081](https://www.justice.gov/epstein/files/DataSet%209/EFTA00428081.pdf) (Pierce to Groff: "Re: Jeffrey Epstein") and [EFTA00720224](https://www.justice.gov/epstein/files/DataSet%209/EFTA00720224.pdf) (Groff to Epstein forwarding Pierce's bio). The Pierce-IGE connection exists textually, but relates to Pierce's broader Epstein relationship (extensively documented in other reports -- 20+ emails 2014-2017, $15M Blockchain Capital IV investment via Caterpillar Trust), not to any WoW gold money laundering scheme.
+
+DS9 also contains copies of Bannon-Epstein emails already documented from DS11: [EFTA01030719](https://www.justice.gov/epstein/files/DataSet%209/EFTA01030719.pdf) (Epstein forwarding David Schoen "Privileged and Confidential" email, March 2019) and [EFTA00850125](https://www.justice.gov/epstein/files/DataSet%209/EFTA00850125.pdf) (Bannon to Epstein "Re: peres" -- "always the trains," March 2018). These confirm the political access brokering relationship. No financial/gaming content.
+
+All other DS9/DS11 searches returned zero or false positive results: "IGE" = OCR noise ("intelligence," "diligence"), "World of Warcraft" = 0, "Affinity Media" = 0, "gold farming" = 1 hit (tax policy article about virtual world taxation, [EFTA01131043](https://www.justice.gov/epstein/files/DataSet%209/EFTA01131043.pdf), unrelated to Epstein).
+
+**Classification: MINOR -- CONFIRMING NEGATIVE.** The original report's exhaustive 120+ query negative finding stands with full-corpus confirmation across all 12 datasets.
 
 ---
 

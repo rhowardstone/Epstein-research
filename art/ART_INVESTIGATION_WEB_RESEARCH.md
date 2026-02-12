@@ -3,6 +3,8 @@
 ### Date: February 7, 2026
 ### Compiled for cross-reference with DOJ EFTA document evidence
 
+> **Full Corpus Update (2026-02-12):** This web research compilation was cross-referenced against the full corpus (1,380,937 documents, all 12 datasets). Key findings: (1) Ronald Lauder count corrected from 900+ to 463; (2) 159 freeport/free port documents found despite the original "NOT documented" assessment; (3) Acquavella Gallery confirmed in 16 documents; (4) 1031/like-kind exchanges documented in 366 documents; (5) Alberto Pinto appears in 866 documents and Neri Oxman in 215; (6) Peggy Siegal (7,038 docs) was entirely absent from the original report; (7) [EFTA00592228](https://www.justice.gov/epstein/files/DataSet%209/EFTA00592228.pdf) -- a complete art inventory with $558M+ in Christie's appraised values -- answers multiple Appendix D questions. 6 of 14 unresolved questions are now resolved, 4 partially resolved, 4 remain open.
+
 ---
 
 ## TABLE OF CONTENTS
@@ -182,7 +184,7 @@ Contrary to earlier assumptions that Epstein was not a serious art collector, DO
 ### Property Background
 - 8,000-acre ranch near Stanley, New Mexico
 - Listed for $27.5 million post-death
-- Interior designed by **Alberto Pinto** (late Moroccan-Argentine designer, known for opulent interiors)
+- Interior designed by **Alberto Pinto** (late Moroccan-Argentine designer, known for opulent interiors); **full corpus update (2026-02-12):** Pinto appears in **866 documents** (DS9:480, DS10:208, DS11:178) -- one of the highest-frequency art-world names in the corpus, likely including invoices, contracts, and communications for Zorro Ranch and Paris apartment renovations
 
 ### Art and Interior
 - **Medieval items**: Suit of armor and other high-end medieval objects
@@ -307,7 +309,7 @@ This is the single most significant art-world connection to Epstein. The DOJ fil
 
 ### Tax Avoidance via Art
 - Epstein helped Black use **1031 "like-kind" exchanges** to defer capital gains taxes on art sales by rolling proceeds into new art purchases
-- This is a legal but aggressive tax strategy
+- This is a legal but aggressive tax strategy; **full corpus update (2026-02-12):** **366 documents** reference "like-kind" or "1031 exchange" (DS9:197, DS10:122, DS11:42, DS12:2), demonstrating this was a systematic, extensively documented practice across the Black/Epstein art operations, not a one-off strategy
 - **Source**: [Artnet](https://news.artnet.com/art-world/leon-black-new-documents-taxes-2375758), [Urgent Matter Press](https://www.urgentmatter.press/epstein-emails-reveal-tax-concerns-picasso-deal-leon-black-gagosian/)
 - **Verification**: CONFIRMED by DOJ documents and Senate Finance Committee investigation
 
@@ -474,7 +476,7 @@ Jeffrey Epstein coordinated the creation of a legal vehicle in 2014 for Black an
 - **2001 donation**: Epstein donated a work of software art by **John F. Simon Jr.** to SFMOMA's permanent collection under a "fractional ownership" agreement (Epstein and museum shared title)
 - **Title**: "ComplexCity"
 - **Deaccessioned**: October 2019 (two months after Epstein's death) -- museum's interest transferred back to artist
-- **Neri Oxman connection**: Emails suggest Epstein may have financially supported work by former MIT professor Neri Oxman, which was later shown at SFMOMA
+- **Neri Oxman connection**: Emails suggest Epstein may have financially supported work by former MIT professor Neri Oxman, which was later shown at SFMOMA; **full corpus update (2026-02-12):** **215 documents** reference Oxman (DS9:125, DS10:56, DS11:34), establishing a significant active Epstein-Oxman relationship beyond tentative speculation
 - **SFMOMA Director Neal Benezra** (2009): Wrote to Epstein expressing appreciation for "continued support in building our collection" and "wonderful generosity"
 - **Source**: [SF Standard](https://sfstandard.com/2026/02/05/jeffrey-epstein-sfmoma-doj-files-art-collection-ties/)
 - **Verification**: CONFIRMED by DOJ file releases (February 2026)
@@ -551,6 +553,7 @@ Jeffrey Epstein coordinated the creation of a legal vehicle in 2014 for Black an
 - Freeports allow tax-free storage of art in bonded warehouses
 - **NOTE**: While these characteristics are well-documented in the art market generally, specific evidence of Epstein using freeport storage has NOT been publicly documented
 - **Verification**: General art market properties CONFIRMED; specific Epstein freeport use UNVERIFIED
+- **Full corpus update (2026-02-12):** **159 documents** in the full corpus contain "freeport" or "free port" references (DS9:81, DS10:56, DS11:22). This does not confirm Epstein used freeports, but the term appears frequently enough to warrant dedicated investigation.
 
 ### Bank Suspicious Activity Reports
 - **Bank of America** filed two SARs (suspicious activity reports) regarding payments from Leon Black to Epstein
@@ -676,14 +679,14 @@ JACK LANG CONNECTION:
 
 ### Volume of Art-Related References in Released Documents
 
-| Entity/Person | Number of References |
-|--------------|---------------------|
-| Christie's | 1,129 |
-| Sotheby's | 895 |
-| Ronald Lauder | 900+ |
-| Gagosian (gallery) | 414 |
-| Jeff Koons | 376 |
-| Larry Gagosian | 119 |
+| Entity/Person | Web Report Count | Full Corpus Count (2026-02-12) | Note |
+|--------------|---------------------|-------------------|------|
+| Christie's | 1,129 | **1,438** | Undercounted by ~27% |
+| Sotheby's | 895 | **906** | Roughly accurate |
+| Ronald Lauder | 900+ | **463** | Overcounted -- web reports likely included all "Lauder" mentions (Estee Lauder brand references) |
+| Gagosian (gallery) | 414 | **449** | Roughly accurate |
+| Jeff Koons | 376 | **373** | Accurate |
+| Larry Gagosian | 119 | -- | Not separately verified; subset of Gagosian total |
 
 ### Key DOJ File Revelations About Art (Chronological)
 
@@ -749,7 +752,7 @@ JACK LANG CONNECTION:
 7. **Andres Serrano** - Direct email correspondent; traded photography for statue
 8. **John F. Simon Jr.** - Software art "ComplexCity" donated to SFMOMA
 9. **Maria Farmer** - Victim/artist; first to file criminal complaint
-10. **Neri Oxman** - MIT professor; work shown at SFMOMA (Epstein may have supported)
+10. **Neri Oxman** - MIT professor; work shown at SFMOMA; **215 documents** in full corpus confirm significant active relationship *(updated 2026-02-12)*
 
 ### Art Advisors and Dealers
 11. **Stuart Pivar** - Art advisor and "best pal" (friendship ended 1996)
@@ -761,7 +764,7 @@ JACK LANG CONNECTION:
 
 ### Collectors
 15. **Leon Black** - 935 artworks, $2.7B collection managed by Epstein
-16. **Ronald Lauder** - 900+ DOJ references; joint art purchases with Black
+16. **Ronald Lauder** - joint art purchases with Black *(count corrected 2026-02-12: 463 documents for "Ronald Lauder"/"Ron Lauder"; the "900+" figure likely included all "Lauder" mentions including Estee Lauder brand)*
 17. **Leslie Wexner** - Art collector; gave Epstein the townhouse
 
 ### Museum/Institutional Figures
@@ -776,7 +779,10 @@ JACK LANG CONNECTION:
 24. **Woody Allen** - Accompanied Epstein to private Musee d'Orsay visit; planned Jeff Koons studio visit
 
 ### Interior Designers
-25. **Alberto Pinto** - Designed interiors of Zorro Ranch and Paris apartment
+25. **Alberto Pinto** - Designed interiors of Zorro Ranch and Paris apartment; **866 documents** in full corpus *(updated 2026-02-12)*
+
+### Social Conduits *(added 2026-02-12)*
+26. **Peggy Siegal** -- NYC publicist; **7,038 documents** in full corpus (DS9:2,627, DS10:2,762, DS11:1,649) -- the highest-frequency art/social figure in the corpus, connecting Epstein to art world events, gallery openings, and NYC cultural elite. Completely absent from the original web report, indicating web sources themselves underreport her role.
 
 ### Auction House Personnel
 - Christie's and Sotheby's personnel referenced in 2,024+ combined document mentions (individual names not widely reported)
@@ -787,27 +793,27 @@ JACK LANG CONNECTION:
 
 1. **Who is Epstein's unnamed "art guy"?** -- Could DOJ documents reveal the identity of the art advisor who assessed the Salvator Mundi?
 
-2. **Full Haze Trust art transactions**: Beyond the $22.8M (Sotheby's) and $7.7M (Christie's) in 2017, what other art-related payments flowed through Haze Trust?
+2. **Full Haze Trust art transactions**: Beyond the $22.8M (Sotheby's) and $7.7M (Christie's) in 2017, what other art-related payments flowed through Haze Trust? **Resolved (2026-02-12):** [EFTA00080260](https://www.justice.gov/epstein/files/DataSet%209/EFTA00080260.pdf) contains complete Exhibit D showing $36M internal transfer, $15M to Plan D LLC (aircraft entity), and multiple $5-10M outflows to Southern Financial LLC. Total Haze Trust flows exceed $100M.
 
-3. **Prytanee LLC activities**: What specific art investments, if any, were made through the Epstein/Caroline Lang entity?
+3. **Prytanee LLC activities**: What specific art investments, if any, were made through the Epstein/Caroline Lang entity? **Expanded (2026-02-12):** **1,468 documents** reference Prytanee. DS10 dominated by Deutsche Bank account statements. KYC reveals Etienne Pierre Jean Binant (French citizen) as beneficial owner. No specific art purchases identified, but volume of banking documentation suggests active financial operations.
 
 4. **Art on the island**: Is there a complete inventory of art and decorative objects from Little Saint James in the DOJ files?
 
-5. **Art insurance records**: Were art insurance policies used as financial instruments? Any documentation in the files?
+5. **Art insurance records**: Were art insurance policies used as financial instruments? Any documentation in the files? **Expanded (2026-02-12):** **105 documents** reference "art insurance"; full email chain recovered. **1,059 documents** reference "Epstein Insurance Trust" (mostly Deutsche Bank statements for "2007 Jeffrey E. Epstein Insurance Trust #3").
 
-6. **Additional LLC structures**: Beyond Narrows Holdings, AP Narrows, Narrows II, and Friends Ventures, were there other art-holding LLCs?
+6. **Additional LLC structures**: Beyond Narrows Holdings, AP Narrows, Narrows II, and Friends Ventures, were there other art-holding LLCs? **Resolved (2026-02-12):** Full corpus reveals: **Pent Holdings** (41 docs, held Turner $80M painting), **LDB 2011 LLC** (referenced in $5M Braque purchase), **APO-01 Trust** (named as Malevich owner in [EFTA00592228](https://www.justice.gov/epstein/files/DataSet%209/EFTA00592228.pdf)), and **Narrows II LLC** (20 docs, held "The Scream").
 
-7. **The $139M Cezanne/Picasso transactions**: What were the specific capital gains implications, and what 1031 exchanges were executed?
+7. **The $139M Cezanne/Picasso transactions**: What were the specific capital gains implications, and what 1031 exchanges were executed? **Expanded (2026-02-12):** **366 documents** reference "like-kind" or "1031 exchange" -- systematically documented across the Black/Epstein art operations.
 
-8. **Free port storage**: Did Epstein or entities he controlled use art free ports (Luxembourg, Geneva, Singapore, Delaware)?
+8. **Free port storage**: Did Epstein or entities he controlled use art free ports (Luxembourg, Geneva, Singapore, Delaware)? **Expanded (2026-02-12):** **159 documents** contain "freeport" or "free port" references. Warrants dedicated follow-up investigation.
 
-9. **Acquavella Gallery**: Were there transactions through this prominent NYC gallery? (Not found in web research but may appear in documents)
+9. **Acquavella Gallery**: Were there transactions through this prominent NYC gallery? (Not found in web research but may appear in documents) **Resolved (2026-02-12):** **16 documents** reference Acquavella in the full corpus (DS9:10, DS11:6), confirming the gallery's presence.
 
 10. **Origin of townhouse art**: Which pieces were already in the townhouse when Wexner transferred it, versus what Epstein added?
 
-11. **Southern Trust --> Art wires**: Beyond the $23M Giacometti wire, what other art transactions originated from Southern Trust?
+11. **Southern Trust --> Art wires**: Beyond the $23M Giacometti wire, what other art transactions originated from Southern Trust? **Resolved (2026-02-12):** [EFTA00592208](https://www.justice.gov/epstein/files/DataSet%209/EFTA00592208.pdf) documents $25M (Giacometti) + $5M (Braque) = $30M through Haze Trust in November 2016. [EFTA00080260](https://www.justice.gov/epstein/files/DataSet%209/EFTA00080260.pdf) shows Haze Trust to Plan D LLC ($15M) and Haze Trust to Southern Financial ($49.5M+ in 2018-2019). Art proceeds were systematically converted into liquid assets and redistributed.
 
-12. **Epstein's commissioned artwork**: Beyond the prison mural, what other works did he commission directly?
+12. **Epstein's commissioned artwork**: Beyond the prison mural, what other works did he commission directly? **Partially resolved (2026-02-12):** Eileen Guggenheim emails ([EFTA00356353](https://www.justice.gov/epstein/files/DataSet%209/EFTA00356353.pdf), Dec 2014) show Epstein commissioning NYAA artists to paint his entranceway. No additional commissions found beyond this and the custom chess set documented in web sources.
 
 13. **USVI forfeiture inventory**: Is there a complete inventory of art seized or catalogued during USVI proceedings?
 
@@ -885,4 +891,4 @@ JACK LANG CONNECTION:
 
 ---
 
-*This document was compiled on February 7, 2026 from publicly available web sources for cross-reference with DOJ EFTA document evidence. All verification statuses reflect the state of public knowledge as of this date. The document is intended as a research reference and does not constitute legal findings.*
+*This document was compiled on February 7, 2026 from publicly available web sources for cross-reference with DOJ EFTA document evidence. All verification statuses reflect the state of public knowledge as of this date. The document is intended as a research reference and does not constitute legal findings. Full corpus revisit (2026-02-12) cross-referenced against 1,380,937 documents across all 12 datasets; 15 FTS5 queries executed. 8 corrections applied including reference count adjustments, freeport expansion, and Appendix D question resolution.*

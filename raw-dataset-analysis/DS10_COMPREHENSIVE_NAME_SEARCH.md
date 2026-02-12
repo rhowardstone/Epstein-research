@@ -4,8 +4,12 @@
 
 - **Database**: the Dataset 10 document text database
 - **Total redaction records**: 1,629,776
-- **Records with meaningful hidden text** (>3 chars): 434,721
+- **Records with OCR text layers** (>3 chars): 434,721
 - **Distinct documents scanned**: 209,829
+
+**Methodology note:** The "hidden text" in this report is garbled OCR from invisible text rendering (Text Rendering Mode 3 at 96 DPI), not content concealed under removable redaction boxes. Black rectangles in DS10 PDFs are baked JPEG pixels, not PDF annotation overlays. The OCR text beneath them is an artifact of how scanned PDFs store text layers. These name counts are redaction-layer-only counts and significantly underestimate full-text presence; the full_text_corpus.db contains substantially higher counts for all names. See REDACTION_TEXT_LAYER_ANALYSIS.md for the definitive methodology analysis.
+
+**NTOC caveat:** Many name mentions in this report come from NTOC (National Threat Operations Center) tips -- unverified, unvetted caller reports to tips.fbi.gov. These are raw intake, not FBI investigative conclusions or evidence of alleged conduct.
 
 ---
 
@@ -76,7 +80,7 @@ Only fragmentary matches found: "Obamac" -- appears to be a partial/garbled OCR 
 **Best example** (from [EFTA01652749](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01652749.pdf).pdf, p.1 -- social media screenshot):
 > "George B. Tonks: 'Joe Biden would frequently have hardcore sex at my DC office with my former business Partner Catalina Le storing, who is a member of the very powerful du Pont family.'"
 
-This appears to be captured social media posts/tweets, not law enforcement reporting.
+This is captured social media from George B. Tonks, who was confirmed as a prolific online poster generating a **424-document** social media campaign across the FBI evidence. These are noise, not substantive intelligence. See GIUFFRE_THREATS_AND_4CHAN_ORIGINS.md for the Tonks identification.
 
 ### Bush (3 mentions)
 No relevant Epstein connection. Matches are partial name overlaps (e.g., "Jamaal Bushara" in a KYC remediation email).
@@ -109,7 +113,7 @@ Also appears in social media captures: "Donald J. Trump, Prince Andrew, Alan Der
 Also ([EFTA01660679](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660679.pdf).pdf, p.4): "She references Lisa Marie Presley, the British Royal Family, President Trump and Jeffrey Epstein."
 
 ### Andrew (152 mentions)
-High count due to common first name. Most are not Prince Andrew references; includes "Andrew Cuomo" and various people named Andrew in email headers.
+High count due to common first name. Most are not Prince Andrew references; includes various people named Andrew in email headers. Note: "Andrew Cuomo" references in the corpus are an NTOC tip unrelated to the Prominent Names "Cuomo" entry, which is a victim surname (see Cuomo section below).
 
 ### Queen (7 mentions)
 No relevant royal connection. Matches are geographic references ("QUEENS COUNTY", etc.).
@@ -131,7 +135,9 @@ High count is primarily Bloomberg terminal financial data, not Michael Bloomberg
 **Best example** (from [EFTA01660651](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660651.pdf).pdf, p.4 -- FBI tip):
 > "Caller reported the school was mad at her for not being a Trump person and that the school wanted her to testify and say things against Andrew Cuomo. The FBI and Donald Trump were on the phone during the meeting."
 
-Also from the "Prominent Names" document: "[Someone named] Cuomo stated... [gave] massage and he made... made jokes about..."
+Also from the "Prominent Names" document: "Cuomo stated... [gave] massage and he made... made jokes about..."
+
+**Correction: "Cuomo" on the Prominent Names page is a VICTIM SURNAME, not Governor Andrew Cuomo.** [EFTA02696360](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02696360.pdf) confirms "Tony Cuomo" invited to Epstein's NY house (Jan 2012). The Prominent Names entry reads "Cuomo stated [gave] massage" -- this is victim testimony BY a person surnamed Cuomo about Leon Black's conduct, not an allegation against Andrew Cuomo.
 
 ### Giuliani (2 mentions)
 **Best example**: "Rudy Giuliani" (from [EFTA01659066](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01659066.pdf).pdf, p.30) -- appears in a contact or reference list.

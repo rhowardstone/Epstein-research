@@ -93,8 +93,8 @@ The investigation uncovered **significant art-related activity** hidden in redac
 **Analysis:**
 - **Rothko painting** -- A dedicated email about a Mark Rothko painting. Rothko works routinely sell for $10M-$80M+. This is one of the most significant art finds.
 - **"PALMS PAINTING"** -- likely refers to a painting at one of Epstein's island or Palm Beach properties.
-- **"Hangar Painting"** -- Three separate emails reference a "Hangar Painting," suggesting this was a notable artwork, possibly at Epstein's private airfield/hangar.
-- **"Painting from Brinsley and Julie arrived"** -- Identifies two individuals ("Brinsley and Julie") as painting donors or sellers. "Brinsley" is an unusual first name; Brinsley Matthews or similar art-world figures should be investigated.
+- **"Hangar Painting"** -- Three separate emails reference a "Hangar Painting." **Correction (2026-02-12):** Full corpus search (22 documents, DS9:14, DS10:6, DS11:2) reveals these are Little Saint James construction progress reports. [EFTA00922416](https://www.justice.gov/epstein/files/DataSet%209/EFTA00922416.pdf): "Hangar -- painting continues, floor scheduled for next week, arranging shipping of refurbished ISO tank." This refers to painting the TWA Hangar building during renovation, not a painting artwork. [EFTA01118691](https://www.justice.gov/epstein/files/DataSet%209/EFTA01118691.pdf) contains "TWA Hangar Costs" spreadsheets covering Sep 2011-May 2012.
+- **"Painting from Brinsley and Julie arrived"** -- **Correction (2026-02-12):** Full corpus search (71 documents, DS9:32, DS10:29, DS11:10) identifies these individuals as **Julie Loquidis and Brinsley Burbidge**, former Little Saint James employees. [EFTA00312740](https://www.justice.gov/epstein/files/DataSet%209/EFTA00312740.pdf): Their Feb 2012 letter to Epstein describes opening a photography gallery/studio in Cottage Grove, Oregon. Staff to-do items include "keep eye out for painting from Brinsley & Julie" ([EFTA00419291](https://www.justice.gov/epstein/files/DataSet%209/EFTA00419291.pdf)). A personnel file heading reads "Concerns re Purchasing Practices of Julie and Brinsley" ([EFTA00299879](https://www.justice.gov/epstein/files/DataSet%209/EFTA00299879.pdf)). They were former island staff and photographers, not art-world figures.
 - **Ocean's Bridge** -- This is a company (OceansBridge.com) that creates hand-painted museum-quality reproductions of famous paintings. The email subject "photos of your painting" confirms Epstein commissioned a reproduction painting.
 
 ### 2B. Painting Proposals and Commissions
@@ -158,7 +158,9 @@ The investigation uncovered **significant art-related activity** hidden in redac
 | [EFTA01896183](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01896183.pdf) | 0 | v2, ds10 | `ust tons and tons of bills` |
 | [EFTA01896243](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01896243.pdf) | 0 | v2, ds10 | `Just tons an tons o[f] i[ll]s` |
 
-**Analysis:** CRITICAL FINDING. Four variants of the same email confirm that Epstein maintained an **art insurance policy** that specifically covered **bronze sculptures**. The phrase "just tons and tons of bills" and "there is no separate bill for the bronzes" indicates the bronzes were bundled into a larger art insurance payment, suggesting a substantial art collection. These are likely different redaction captures of the same email chain. The EFTA numbers (01896117-01896243) are close together, confirming they are variants of the same correspondence.
+**Analysis:** Four variants of the same email confirm that Epstein maintained an **art insurance policy** that specifically covered **bronze sculptures**. The phrase "just tons and tons of bills" and "there is no separate bill for the bronzes" indicates the bronzes were bundled into a larger art insurance payment. These are likely different redaction captures of the same email chain.
+
+> **Full corpus update (2026-02-12):** Full corpus search reveals **105 documents** referencing "art insurance" (DS9:77, DS10:20, DS11:8). The complete April 5, 2013 email chain is now recovered: **Melanie Spinella** (Epstein staff) to **Jeffrey Epstein** (jeevacation@gmail.com) confirms bronzes covered under art insurance. Epstein then asks: "eileen said that there are no bronzes" -- contradicting Spinella. Epstein further asks: "are there apprasails, cost value" -- seeking appraisals. The "Eileen" referenced in the no-bronzes claim is **Eileen Alexanderson** (not Guggenheim), who was CC'd when Epstein requested a copy of the insurance policy.
 
 ### 3C. Degas' "Little Dancer, Aged Fourteen"
 
@@ -227,7 +229,9 @@ This document contains concentrated references to major Impressionist artists ac
 | [EFTA01386295](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01386295.pdf) | 0 | v2, ds10 | Same |
 | [EFTA01387134](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01387134.pdf) | 0 | v2, ds10 | Same |
 
-**Analysis:** Four separate documents reference Tracey Emin's 2018 work "Another World" with the copyright notice "the artist Courtesy Tracey Emin Studio." Tracey Emin is a major British contemporary artist. The presence of this image/reference with formal copyright attribution suggests these may be legal or investigative documents that included images of this artwork.
+**Analysis:** Four separate documents reference Tracey Emin's 2018 work "Another World" with the copyright notice "the artist Courtesy Tracey Emin Studio." Tracey Emin is a major British contemporary artist.
+
+> **Full corpus update (2026-02-12):** Expanded to **13 documents** (DS9:6, DS10:5, DS11:2). These are Deutsche Bank Wealth Management invitations to Frieze London/Masters art fairs sent to Epstein's DB accounts. An Intelligence Squared event ticket was also sent to jeevacation@gmail.com (Apr 2019). The documents are marketing materials, not legal or investigative documents.
 
 ### 4G. Koons (Jeff Koons)
 
@@ -237,9 +241,11 @@ This document contains concentrated references to major Impressionist artists ac
 
 **Analysis:** A reference to "Koons" appears in a document at page 51. The fragment is brief but appears in a context separated from other text, suggesting it could be a name in a list, contact list, or art inventory.
 
-### 4H. Artists NOT Found
-The following artists returned **zero results** in both databases:
+### 4H. Artists NOT Found in Redaction Databases
+The following artists returned **zero results** in both redaction databases:
 - Picasso, Warhol, Basquiat, Hirst (Damien), Botero, Monet (only "Monet Banihashem" -- a person's name), Matisse, Chagall, Francis Bacon, Lucian Freud, Gerhard Richter, de Kooning, Pollock (only "pollocks@sec.gov"), Twombly, Klimt, Schiele, Banksy
+
+> **Full corpus update (2026-02-12):** The zero results for these artists were an artifact of searching only redaction text layers. The full corpus contains: Matisse **84 documents**, Rothko **117**, Giacometti **316**, Jeff Koons **373**, Andres Serrano **353**, Andy Warhol **96**, Mondrian **75**, Kirchner **166**, Brancusi **40**, Schwitters **75**. See Report #60 revisit for complete counts.
 
 ---
 
@@ -268,7 +274,9 @@ The following artists returned **zero results** in both databases:
 | [EFTA01934389](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01934389.pdf) | 0 | v2, ds10 | `Begin forwarded message:` |
 | [EFTA02111899](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02111899.pdf) | 0 | v2, ds10 | `Phillips Exhibition - Loan Request` |
 
-**Analysis:** SIGNIFICANT. Two separate documents reference a "Phillips Exhibition - Loan Request" -- this is "[Ric]hard Phillips Exhibition - Loan Request." Richard Phillips is a contemporary American artist known for hyper-realistic portrait paintings. The "Loan Request" format indicates that Epstein was being asked to loan artwork he owned for a Richard Phillips exhibition, confirming Epstein owned Richard Phillips artwork. This is a forwarded message, indicating the request came through an intermediary.
+**Analysis:** Two separate documents reference a "Phillips Exhibition - Loan Request" -- this is "[Ric]hard Phillips Exhibition - Loan Request." Richard Phillips is a contemporary American artist known for hyper-realistic portrait paintings. The "Loan Request" format indicates that Epstein was being asked to loan artwork he owned for a Richard Phillips exhibition, confirming Epstein owned Richard Phillips artwork.
+
+> **Full corpus update (2026-02-12):** Expanded to **8 documents** (DS9:2, DS10:2, DS11:4). The full loan agreement is now visible: **Erin Cluley** at Dallas Contemporary contacted **Lesley Groff** (Epstein staff). The exhibition was "Negation of the Universe," April-August 2014. The intermediary is now identified.
 
 ### 5C. Museum of Modern Art (MoMA)
 
@@ -294,12 +302,16 @@ The following artists returned **zero results** in both databases:
 
 **Analysis:** Eileen Guggenheim, connected to the Guggenheim family, appears repeatedly as a named Epstein associate alongside Trump, Prince Andrew, Dershowitz, Wexner, Glenn & Eva Dubin, Richard Branson, and the Maxwells.
 
+> **Full corpus update (2026-02-12):** Guggenheim expanded from 3 redaction database records to **208 documents** (DS9:90, DS10:88, DS11:30) in the full corpus. The full corpus reveals her role as an FBI witness: [EFTA00269752](https://www.justice.gov/epstein/files/DataSet%209/EFTA00269752.pdf) (FBI 302 interview, Sep 11, 2007) shows Guggenheim was NYAA Chairman, Epstein was board member 1980s-1990s, NYAA students were sent to Zorro Ranch for "art workshop on the human figure," and a victim returned from Epstein's Ohio residence "very upset." Direct correspondence ([EFTA00356353](https://www.justice.gov/epstein/files/DataSet%209/EFTA00356353.pdf), Dec 2014): Guggenheim emails Epstein: "I feel guilty -- I have forgotten to find an Academy artist for you to paint the entranceway of your house." This transforms Guggenheim from a name on a list to a documented FBI witness who continued active contact with Epstein through at least 2014 -- seven years after her FBI interview about his sexual exploitation of minors.
+
 ---
 
 ## CATEGORY 6: ART DEALERS AND LUXURY CONNECTIONS
 
 ### 6A. Gagosian, Acquavella, Pace, Zwirner, Wildenstein, Perrotin, Nahmad, Mugrabi
-**All returned ZERO results** in both databases.
+**All returned ZERO results** in both redaction databases.
+
+> **Full corpus update (2026-02-12):** Gagosian appears in **449 documents** across the full corpus (DS9:243, DS10:78, DS11:128). Acquavella appears in **16 documents** (DS9:10, DS11:6). The zero results in the redaction databases reflect the limited scope of searching only text layers beneath redacted areas; the full text corpus captures substantially more.
 
 ### 6B. Graff
 
@@ -350,7 +362,9 @@ The following artists returned **zero results** in both databases:
 | [EFTA01426028](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01426028.pdf) | 2 | v2 | `Stewart Oldfield / Subject: RE: Epstein Insurance Trust [I]` |
 | [EFTA01432325](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01432325.pdf) | 6 | v2 | `ubject: RE: Epstein Insurance Trust [I]` |
 
-**Analysis:** An "Epstein Insurance Trust" is referenced in multiple emails involving Stewart Oldfield and Daphne Cales. This trust likely held insurance policies covering Epstein's art and other assets.
+**Analysis:** An "Epstein Insurance Trust" is referenced in multiple emails involving Stewart Oldfield and Daphne Cales.
+
+> **Full corpus update (2026-02-12):** Expanded from 6 documents to **1,059 documents**, dominated by Deutsche Bank monthly account statements for "The 2007 Jeffrey E. Epstein Insurance Trust #3" managed by Paul Morris / Stewart Oldfield. DS10 contains 1,039 of these 1,059 documents.
 
 ### 7C. Appraisals
 
@@ -527,16 +541,18 @@ Leon Black, chairman of Apollo Global Management and one of the world's most pro
 
 ## CATEGORY 19: NEGATIVE RESULTS (IMPORTANT ABSENCES)
 
-The following searches returned **ZERO art-relevant results** across both databases:
+The following searches returned **ZERO art-relevant results** across both redaction databases:
 
-| Category | Terms Searched | Result |
-|----------|---------------|--------|
-| Major Galleries | Gagosian, Acquavella, Pace Gallery, Zwirner, Wildenstein, Perrotin, Nahmad, Mugrabi | NONE |
-| Art Storage | Freeport, free port, Geneva Freeport, Luxembourg Freeport, art storage, art inventory | NONE |
-| Art Shipping | Cadogan Tate, Dietl | NONE (Atelier Meriguet found) |
-| Major Artists | Picasso, Warhol, Basquiat, Monet, Matisse, Chagall, Klimt, Schiele, Banksy, Pollock, de Kooning, Twombly, Lucian Freud, Francis Bacon, Botero, Damien Hirst, Gerhard Richter | NONE |
-| Art Terms | Oil on [canvas], watercolor, provenance, mural, art dealer, art advisor, art collection, art purchase, art gallery, Impressionist | NONE (except where noted above) |
-| Financial | Bull sculpture/statue, chandelier | NONE |
+| Category | Terms Searched | Redaction DB Result | Full Corpus Update (2026-02-12) |
+|----------|---------------|--------|-----------------|
+| Major Galleries | Gagosian, Acquavella, Pace Gallery, Zwirner, Wildenstein, Perrotin, Nahmad, Mugrabi | NONE | Gagosian: **449 docs**; Acquavella: **16 docs** |
+| Art Storage | Freeport, free port, Geneva Freeport, Luxembourg Freeport, art storage, art inventory | NONE | Freeport/free port: **159 docs** |
+| Art Shipping | Cadogan Tate, Dietl | NONE (Atelier Meriguet found) | -- |
+| Major Artists | Picasso, Warhol, Basquiat, Monet, Matisse, Chagall, Klimt, Schiele, Banksy, Pollock, de Kooning, Twombly, Lucian Freud, Francis Bacon, Botero, Damien Hirst, Gerhard Richter | NONE | Matisse: **84**; Warhol: **96**; many others now present |
+| Art Terms | Oil on [canvas], watercolor, provenance, mural, art dealer, art advisor, art collection, art purchase, art gallery, Impressionist | NONE (except where noted above) | -- |
+| Financial | Bull sculpture/statue, chandelier | NONE | -- |
+
+> **Note (2026-02-12):** The zero results for major galleries and artists were an artifact of searching only text layers beneath redacted areas. The full text corpus (1,380,937 documents) contains extensive documentation for most of these terms. See Reports #59 and #60 revisits for complete counts.
 
 ---
 
@@ -549,8 +565,8 @@ The following searches returned **ZERO art-relevant results** across both databa
 4. **An invoice for Paris artwork** confirms financial art transactions.
 5. **Richard Phillips artwork was loaned for exhibition** -- confirming ownership.
 6. **Ocean's Bridge commissioned reproductions** of at least one painting.
-7. **Multiple paintings** were at various properties: "Hangar Painting," "PALMS PAINTING."
-8. **Paintings were received as gifts/purchases** from "Brinsley and Julie."
+7. **Multiple paintings** were at various properties: "PALMS PAINTING." *(Note: "Hangar Painting" was corrected 2026-02-12 -- refers to painting the TWA Hangar building, not a painting artwork.)*
+8. **Paintings were received from former island staff** Julie Loquidis and Brinsley Burbidge, photographers from Oregon. *(Identified 2026-02-12.)*
 9. **A sculpture was shipped from New York to Great Island** (USVI).
 10. **Atelier Meriguet** catalogs were requested for the Paris apartment.
 11. **Sotheby's agent Christine Gibbons** corresponded about El Brillo Way.
@@ -562,9 +578,9 @@ The following searches returned **ZERO art-relevant results** across both databa
 - **Christine Gibbons** -- Sotheby's employee, El Brillo Way correspondence
 - **Leon Black** -- Major art collector, extensive Epstein relationship documented
 - **Leslie Wexner** -- Art collector, Epstein's primary patron
-- **Eileen Guggenheim** -- Named Epstein associate
+- **Eileen Guggenheim** -- Named Epstein associate; FBI witness (Sep 2007); NYAA Chairman who continued contact through 2014 *(expanded 2026-02-12)*
 - **Mort Zuckerman** -- Regular social contact
-- **"Brinsley and Julie"** -- Painting donors/sellers
+- **Julie Loquidis and Brinsley Burbidge** -- Former LSJ employees, photographers from Oregon *(identified 2026-02-12)*
 - **"Carol" at Frame Creations** -- Framing service provider
 - **Hela Fox / Catherine McIvern** -- Christie's correspondence participants
 
@@ -572,7 +588,7 @@ The following searches returned **ZERO art-relevant results** across both databa
 1. Obtain full unredacted versions of [EFTA01896117](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01896117.pdf)-01896243 (art insurance emails) to determine the full scope of insured art.
 2. Investigate [EFTA01786553](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01786553.pdf) for details on the Rothko painting (provenance, current location).
 3. Trace the Paris painting shipment ([EFTA02125762](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02125762.pdf)-02126033) to identify the specific work.
-4. Research "Brinsley and Julie" to identify these painting sources.
+4. ~~Research "Brinsley and Julie" to identify these painting sources.~~ *(Resolved 2026-02-12: Julie Loquidis and Brinsley Burbidge, former LSJ staff.)*
 5. Investigate the Richard Phillips Exhibition loan ([EFTA01934389](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01934389.pdf), [EFTA02111899](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02111899.pdf)).
 6. Examine Leon Black's art transactions for any Epstein involvement.
 7. Investigate the Degas "Little Dancer" reference for any connection to art ownership.
@@ -580,4 +596,4 @@ The following searches returned **ZERO art-relevant results** across both databa
 
 ---
 
-*Report generated from 165+ systematic searches across 3,438,718 total redaction records.*
+*Report generated from 165+ systematic searches across 3,438,718 total redaction records. Full corpus revisit (2026-02-12) searched 1,380,937 documents across all 12 datasets; 15 FTS5 queries executed. Two HIGH-severity corrections applied (Hangar Painting misidentified as artwork; Brinsley/Julie mischaracterized as art-world figures) and multiple moderate-to-low expansions integrated.*

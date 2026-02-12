@@ -91,7 +91,7 @@ The following meeting/appointment entries were extracted from the document text 
 | [EFTA02041069](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02041069.pdf) | Alert - 4:30pm Appt w/Sergey Beliakov | Sergey Beliakov |
 | [EFTA02042596](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02042596.pdf) | Alert - 3:45pm Appt w/Carol Ann Ross | Carol Ann Ross |
 | [EFTA02045532](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02045532.pdf) | 9:00am Appt w/Dr. Visco (spine specialist) | Medical |
-| [EFTA02051030](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02051030.pdf) | Alert - 4:00pm Appt w/Maxim Churkin | **Maxim Churkin (Russian diplomat)** |
+| [EFTA02051030](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02051030.pdf) | Alert - 4:00pm Appt w/Maxim Churkin | **Maxim Churkin (son of Vitaly Churkin, Russia's UN Ambassador)** |
 | [EFTA02053873](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02053873.pdf) | Alert - 2:00pm Conference Call w/Bob Crowe Di[...] | Bob Crowe |
 | [EFTA02055619](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02055619.pdf) | Alert - 9:00am Appt w/Dr. Magnani for cavity | Medical |
 | [EFTA02071895](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02071895.pdf) | 9:30-10:40am Appt w/Dr. Speake[r] | Medical |
@@ -324,6 +324,8 @@ Ehud Barak is the **most frequently appearing name** in calendar entries:
 
 **FORENSIC NOTE:** JPMorgan later paid $290 million to settle claims it facilitated Epstein's trafficking. Staley resigned from Barclays over his Epstein connections.
 
+**DS9 UPDATE:** Staley's role was far deeper than a single dinner contact. Trust agreements ([EFTA00082368](https://www.justice.gov/epstein/files/DataSet%209/EFTA00082368.pdf)/[EFTA00082382](https://www.justice.gov/epstein/files/DataSet%209/EFTA00082382.pdf)/[EFTA00082441](https://www.justice.gov/epstein/files/DataSet%209/EFTA00082441.pdf)) name "JES STALEY" as Trustee of "The Jeffrey E. Epstein 2001 Trust Two," "The Jeffrey E. Epstein 2001 Trust One," and "The Jeffrey E. Epstein 2012 Trust" alongside Darren Indyke and Andrew Farkas. Epstein's will ([EFTA00074246](https://www.justice.gov/epstein/files/DataSet%209/EFTA00074246.pdf)) names "JAMES E. STALEY" as Executor. DS9 calendars show multiple additional meetings ([EFTA00292673](https://www.justice.gov/epstein/files/DataSet%209/EFTA00292673.pdf), [EFTA00298204](https://www.justice.gov/epstein/files/DataSet%209/EFTA00298204.pdf), [EFTA00300078](https://www.justice.gov/epstein/files/DataSet%209/EFTA00300078.pdf)) on the same days as meetings with Leon Black and Terje Roed-Larsen. An FBI Guardian complaint ([EFTA00090717](https://www.justice.gov/epstein/files/DataSet%209/EFTA00090717.pdf)) filed October 18, 2021 alleges "Accusations of Rape and human trafficking" against "James 'Jes' Edwards Staley."
+
 ### 5.4 Mort Zuckerman (Media/Real Estate Mogul)
 
 | Calendar Entry | Context |
@@ -540,7 +542,7 @@ DATE                 | MEETINGS/CALENDAR              | FINANCIAL ACTIVITY
 ~Undated            | Staley Dinner                  | JPMorgan accounts
 ~Undated            | 7:00pm DINNER w/Noam &         |
                      |   Valeria Chomsky              |
-~Undated            | 4:00pm Appt w/Maxim Churkin    | (Russian diplomat)
+~Undated            | 4:00pm Appt w/Maxim Churkin    | (son of Vitaly Churkin, Russia's UN Ambassador)
 ~Undated            | 7:00 Dinner w/Mohamed          | (Middle East connection)
 ~Undated            | lunch at 1pm w/Tom Barrack     |
 ~Undated            | 8:30am BREAKFAST w/Andrew       |
@@ -573,16 +575,16 @@ Aug 10, 2019        | DEATH                          |
 The two wire transfers totaling $350,000 to NPA co-conspirators within days of the Miami Herald publication represent the strongest calendar-financial correlation in the dataset. The breakfast with Ehud Barak on the morning of publication suggests Epstein was aware of -- or was being briefed on -- the impending crisis.
 
 ### Finding 2: Leon Black Financial Integration
-Leon D. Black maintained personal bank accounts under the same officers (Litchford/Morris) as Epstein's 17+ shell entities. PLAN D, LLC -- a Black-linked entity -- held hundreds of thousands of dollars at this same institution. Calendar entries show at least 5 documented meetings between Epstein and Black, including visits to Black's home with Karyna Shuliak present. This represents deep financial co-mingling beyond a simple advisory relationship.
+Leon D. Black maintained personal bank accounts under the same officers (Litchford/Morris) as Epstein's 17+ shell entities. PLAN D, LLC -- a Black-linked entity -- held hundreds of thousands of dollars at this same institution. DS10 text layer extractions show at least 5 documented meetings. DS9 Groff calendars ([EFTA00285104](https://www.justice.gov/epstein/files/DataSet%209/EFTA00285104.pdf), [EFTA00285156](https://www.justice.gov/epstein/files/DataSet%209/EFTA00285156.pdf), [EFTA00285259](https://www.justice.gov/epstein/files/DataSet%209/EFTA00285259.pdf), [EFTA00285270](https://www.justice.gov/epstein/files/DataSet%209/EFTA00285270.pdf), [EFTA00285318](https://www.justice.gov/epstein/files/DataSet%209/EFTA00285318.pdf), [EFTA00298204](https://www.justice.gov/epstein/files/DataSet%209/EFTA00298204.pdf), [EFTA00306935](https://www.justice.gov/epstein/files/DataSet%209/EFTA00306935.pdf), [EFTA00307005](https://www.justice.gov/epstein/files/DataSet%209/EFTA00307005.pdf), [EFTA00307539](https://www.justice.gov/epstein/files/DataSet%209/EFTA00307539.pdf)) expand the count to 15-20+ meetings across 2010-2017, many on the same days as meetings with Barak, Churkin, Staley, and others. Deutsche Bank exhibits ([EFTA00080250](https://www.justice.gov/epstein/files/DataSet%209/EFTA00080250.pdf)/[EFTA00080260](https://www.justice.gov/epstein/files/DataSet%209/EFTA00080260.pdf)) document $80M+ flowing from Black entities to Epstein entities, including $22.5M and $8M from BV70 LLC to Plan D, LLC in 2017.
 
 ### Finding 3: Ehud Barak as Most Frequent Calendar Contact
-Barak appears in more calendar entries than any other individual (11+ documented meetings). His breakfast on November 28, 2018 -- the exact day the Miami Herald published -- is the single most significant calendar-financial nexus point.
+Barak appears in more calendar entries than any other individual (11+ documented meetings in DS10). DS9 Groff calendars expand this to 20+ meetings ([EFTA00285196](https://www.justice.gov/epstein/files/DataSet%209/EFTA00285196.pdf), [EFTA00285259](https://www.justice.gov/epstein/files/DataSet%209/EFTA00285259.pdf), [EFTA00285047](https://www.justice.gov/epstein/files/DataSet%209/EFTA00285047.pdf), [EFTA00300067](https://www.justice.gov/epstein/files/DataSet%209/EFTA00300067.pdf), [EFTA00307928](https://www.justice.gov/epstein/files/DataSet%209/EFTA00307928.pdf), [EFTA00314254](https://www.justice.gov/epstein/files/DataSet%209/EFTA00314254.pdf), and others). Most significantly, [EFTA00285196](https://www.justice.gov/epstein/files/DataSet%209/EFTA00285196.pdf) documents a joint lunch on August 29, 2016: "12:30pm LUNCH w/Ehud Barak, Tom Barrack and Vitaly Churkin," placing the former Israeli PM, the future convicted UAE foreign agent, and Russia's UN Ambassador at the same table. A separate dinner invitation ([EFTA00298515](https://www.justice.gov/epstein/files/DataSet%209/EFTA00298515.pdf)) lists guests including Tom Barrack, Arthur Sulzberger, Steve Schwarzman, David Gergen, Len Blavatnik, Jes Staley, Tom Pritzker, Charlie Rose, Larry Summers, Mayor Bloomberg, Ron Perelman, General Wes Clark, Walter Isaacson, and Lloyd Blankfein. His breakfast on November 28, 2018 -- the exact day the Miami Herald published -- remains the single most significant calendar-financial nexus point.
 
 ### Finding 4: The Haze Trust Drawdown
-An $8.9 million drawdown from The Haze Trust between June and August 2018 coincided with AML compliance inquiries about the account and preceded the public scandal by months. This suggests possible advance asset repositioning.
+An $8.9 million drawdown from The Haze Trust between June and August 2018 coincided with AML compliance inquiries about the account and preceded the public scandal by months. DS9 provides the complete transaction ledger ([EFTA00080250](https://www.justice.gov/epstein/files/DataSet%209/EFTA00080250.pdf), [EFTA00104945](https://www.justice.gov/epstein/files/DataSet%209/EFTA00104945.pdf)) confirming November-December 2018 transfers of $2.5M (11/20/2018) and $5M (12/19/2018) from Haze Trust to Southern Financial LLC, precisely bracketing the co-conspirator payment window. The ledger also documents a February 2019 dissolution event exceeding $30M in total transfers. Complete Deutsche Bank account opening documents ([EFTA00165655](https://www.justice.gov/epstein/files/DataSet%209/EFTA00165655.pdf)/[EFTA00165675](https://www.justice.gov/epstein/files/DataSet%209/EFTA00165675.pdf)/[EFTA00166763](https://www.justice.gov/epstein/files/DataSet%209/EFTA00166763.pdf)) confirm the Haze Trust was rated "Moderate 2 High Risk" with Paul Morris as Relationship Manager.
 
-### Finding 5: Tom Barrack-UAE Sheikh Nexus
-Epstein's calendar shows he facilitated meetings between Tom Barrack and a "H.E. Sheikh" (likely Sheikh Abdullah Bin Zayed). Barrack was later indicted for unregistered foreign agent activity for the UAE. Epstein served as a broker in what became a prosecutable foreign influence relationship.
+### Finding 5: Tom Barrack-UAE-Israel-Russia Nexus
+Epstein's calendar shows he facilitated meetings between Tom Barrack and a "H.E. Sheikh" (likely Sheikh Abdullah Bin Zayed). DS9 expands Barrack's documented presence to 10+ meetings/listings ([EFTA00285196](https://www.justice.gov/epstein/files/DataSet%209/EFTA00285196.pdf), [EFTA00285290](https://www.justice.gov/epstein/files/DataSet%209/EFTA00285290.pdf), [EFTA00298379](https://www.justice.gov/epstein/files/DataSet%209/EFTA00298379.pdf), [EFTA00298515](https://www.justice.gov/epstein/files/DataSet%209/EFTA00298515.pdf), [EFTA00317557](https://www.justice.gov/epstein/files/DataSet%209/EFTA00317557.pdf), [EFTA00317799](https://www.justice.gov/epstein/files/DataSet%209/EFTA00317799.pdf), [EFTA00318516](https://www.justice.gov/epstein/files/DataSet%209/EFTA00318516.pdf)). The August 29, 2016 joint lunch with Ehud Barak and Vitaly Churkin ([EFTA00285196](https://www.justice.gov/epstein/files/DataSet%209/EFTA00285196.pdf)) establishes Epstein as a nexus between Israeli, UAE, and Russian state actors at a single meal. Barrack was later convicted for acting as an unregistered UAE foreign agent. A scheduling shorthand ([EFTA00317799](https://www.justice.gov/epstein/files/DataSet%209/EFTA00317799.pdf)) places Barrack in a single October 2016 week alongside Leon Black, Churkin, Peter Thiel, Larry Summers, and Rothschild.
 
 ### Finding 6: Monthly Wire Cadence
 Email subject lines reveal a systematic monthly wire schedule ("Jan 15th wire," "April wire," "May wire," "July wire") suggesting recurring payment obligations -- potentially consulting fees, property maintenance, or entity funding.
@@ -647,5 +649,56 @@ The FBI's own "Prominent Names" document identifies the following individuals wi
 ---
 
 *This report was generated through forensic analysis of the DOJ Epstein files database (primary document text database). All findings are based on text extracted from government document text layers (OCR) and should be verified against original source materials. Dollar amounts extracted from OCR'd financial documents may contain recognition errors. Calendar dates without year context are estimated based on surrounding document metadata.*
+
+---
+
+## APPENDIX C: DS9 REVISIT -- CO-CONSPIRATOR PAYMENT TIMELINE AND SDNY ADMISSION
+
+*(Added 2026-02-12 from DS9/DS11 full corpus search)*
+
+### Complete Co-Conspirator Payment Timeline (Prosecution Exhibit)
+
+[EFTA00092643](https://www.justice.gov/epstein/files/DataSet%209/EFTA00092643.pdf)/[EFTA00105307](https://www.justice.gov/epstein/files/DataSet%209/EFTA00105307.pdf) (DS9) contain the actual SDNY prosecution exhibit "TIMELINE OF PAYMENTS TO (OR ON BEHALF OF) POTENTIAL CO-CONSPIRATORS (PAYMENTS > $10,000)":
+
+| Date | Beneficiary | Amount | Source Account |
+|------|------------|--------|----------------|
+| 12/4/2013 | MC2 Model Management | $25,000 | Jeffrey Epstein, TD Bank |
+| 1/28/2015 | [Redacted] | $50,000 | Butterfly Trust, JP Morgan Chase |
+| 2/6/2015 | [Redacted] | $15,000 | Butterfly Trust, JP Morgan Chase |
+| 3/5/2015 | Coffey Burlington (Alan Dershowitz) | $20,532 | Jeffrey Epstein, Coconut Grove Bank |
+| 3/27/2015 | 301/66 Owners Corp | $189,304 | NES, LLC, Citibank |
+| 4/22/2015 | [Redacted] | $50,000 | Butterfly Trust, JP Morgan Chase |
+| 1/3/2017 | Lesley Groff | $100,000 | Southern Financial |
+| 3/28/2017 | Lawrence P. Visoski | $50,000 | Southern Financial, Bank of America |
+| **11/27/2018** | **Aviloop LLC** | **$45,000** | JEGE, LLC, TD Bank |
+| **11/30/2018** | **Aviloop LLC** | **$100,000** | **Butterfly Trust, TD Bank** |
+| **12/3/2018** | **[Redacted]** | **$250,000** | **Butterfly Trust, Bank of America** |
+| 12/19/2018 | Lawrence P. Visoski | $175,000 | Southern Financial, Bank of America |
+| 12/19/2018 | [Redacted] | $110,000 | [Source unclear] |
+
+This confirms Aviloop LLC (Nadia Marcinkova's company) as the $100K recipient on Nov 30, 2018, and reveals an additional $45K payment to Aviloop just 3 days prior. The Butterfly Trust was the wiring account for both the $100K and $250K co-conspirator payments.
+
+### SDNY Internal Admission
+
+[EFTA00105304](https://www.justice.gov/epstein/files/DataSet%209/EFTA00105304.pdf) (DS9): An AUSA's internal email dated September 15, 2019, states:
+
+> "Our review of financial information has been extensive and robust, but ultimately it hasn't resulted in anything actionable from a charging perspective."
+
+> "We knew, for example, about Epstein's relationship with--and significant payments to--Joichi Ito of MIT and the New York Times Company, as well as other payments to institutions like Harvard and MIT and to a wide variety of individuals (or entities relating to, or apparently for the benefit of, individuals) including Ehud Barak (former Prime Minister of Israel), Bruce Moskowitz (a close friend of President Trump and one of three Mar-A-Lago members who are purportedly running much of the VA from outside the government), Noam Chomsky, Woody Allen, and a handful of other prominent academics and international figures--in addition to payments to more than 25 women who appear to be Eastern European models."
+
+> "There are dozens or hundreds of transactions and relationships of which we're aware that likely would be newsworthy."
+
+This confirms that SDNY was aware of the calendar-financial correlations documented in this report -- payments to Barak, Chomsky, Ito, Eastern European models, and others -- but chose not to pursue financial charges.
+
+### Vitaly Churkin Correction
+
+The original report identified "Maxim Churkin" as a Russian diplomat. DS9 reveals that Maxim is the son of Vitaly Churkin, who was Russia's Ambassador to the United Nations (died February 2017). Epstein met with both father and son. Key DS9 entries include:
+- [EFTA00285196](https://www.justice.gov/epstein/files/DataSet%209/EFTA00285196.pdf): "12:30pm LUNCH w/Ehud Barak, Tom Barrack and Vitaly Churkin" (August 29, 2016)
+- [EFTA00317550](https://www.justice.gov/epstein/files/DataSet%209/EFTA00317550.pdf): "12:30pm LUNCH w/Peter Thiel and Vitaly Churkin" (October 7, 2016)
+- [EFTA00285207](https://www.justice.gov/epstein/files/DataSet%209/EFTA00285207.pdf): "2:30pm Maxim Churkin" followed by "4:00pm Appt w/Vitaly Churkin" (December 2, 2016) -- father and son on the same day
+
+### October 2016 Scheduling Density
+
+DS9 reveals a particularly dense period in October 2016 ([EFTA00317799](https://www.justice.gov/epstein/files/DataSet%209/EFTA00317799.pdf)) where Epstein's shorthand to Lesley Groff scheduled a single week with Leon Black, Vitaly Churkin, Peter Thiel, Larry Summers, Woody Allen, Ariane de Rothschild, Tom Barrack, and others, demonstrating that the calendar-financial correlations in this report were not isolated events but part of a continuous, dense schedule of high-level meetings.
 
 DATA QUALITY NOTE: A data quality audit confirmed that ~98% of 'bad_overlay' records in the redaction database are OCR noise from degraded scans, not text hidden behind removable redactions. Text searches against this corpus remain valid for identifying which documents mention specific terms.

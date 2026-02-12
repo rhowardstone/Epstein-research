@@ -17,9 +17,12 @@ The Haze Trust (Account# N4G024943, RM Code 82289) held approximately **$49.5 mi
 
 The Haze Trust operated as a **Category "D" account** (investment/deposit account) within Jeffrey Epstein's banking relationship at Deutsche Bank (RM Code 82289). It appears to have held the single largest concentration of assets across the Epstein entity network.
 
-**Key Finding:** The Haze Trust had **two distinct sub-accounts or balance categories** tracked in parallel:
-- A **smaller operating balance** consistently showing ~$2,503,667.84 (Category D)
-- A **large portfolio/investment balance** that dropped from ~$49.5M to ~$7.7M (Category D)
+**Key Finding:** **CORRECTION (Revisit -- EFTA00080250, DS9):** The Haze Trust had **three distinct sub-accounts** (not two, as originally identified from OCR fragments):
+- **Haze Trust Brokerage** -- held investment positions; source of $36M internal sweep and $6M/$12.6M later liquidations
+- **Haze Trust Checking** -- operating account; received auction proceeds ($7.7M from Christie's, $22.8M from Sotheby's)
+- **Haze Trust DBAGNY** (Deutsche Bank AG New York branch) -- higher-interest parking account; held the ~$49.5M and was the source of the major drawdown transfers to Southern Financial LLC
+
+The original report's identification of a smaller "operating balance" ($2,503,667.84) and a "large portfolio/investment balance" likely corresponded to the Checking and DBAGNY sub-accounts respectively.
 
 The $41.7M drawdown appears to have been accomplished through a combination of internal transfers to other Epstein entities, outbound wire transfers, and possible securities liquidations -- all occurring during a period when Deutsche Bank's AML Compliance unit was actively investigating the account under **Alert# SAM 1788880**.
 
@@ -95,9 +98,9 @@ THE HAZE TRUST -- BALANCE WATERFALL (June 2018 - February 2019)
 
 $49,460,098.13  [06/21/2018] -- Peak confirmed balance
     |
-    | DROP #1: -$9,000,000.00 (approx.)
-    | Period: Late June 2018
-    | Evidence: Balance falls from $49.46M to $40.46M
+    | DROP #1: -$9,000,000.00 (EXACT -- confirmed by EFTA00080250 Exhibit D)
+    | Period: June 22, 2018
+    | Evidence: Haze Trust DBAGNY → Southern Financial LLC, $9,000,000 (DB-SDNY-0007361)
     v
 $40,460,098.13  [~Late June 2018]
     |
@@ -105,9 +108,9 @@ $40,460,098.13  [~Late June 2018]
     v
 $40,583,100.79  [08/17/2018]
     |
-    | DROP #2: -$5,000,000.00 (approx.)
-    | Period: Late August 2018
-    | Evidence: Balance falls from $40.58M to $35.58M
+    | DROP #2: -$5,000,000.00 (EXACT -- confirmed by EFTA00080250 Exhibit D)
+    | Period: August 20, 2018
+    | Evidence: Haze Trust DBAGNY → Southern Financial LLC, $5,000,000 (DB-SDNY-0007544)
     v
 $35,583,100.79  [08/28/2018]
     |
@@ -645,9 +648,95 @@ All dollar amounts cited are as recovered from OCR of hidden text. Where OCR art
 
 ---
 
+---
+
+## ADDENDUM: DS9 REVISIT FINDINGS (2026-02-12)
+
+### The Rosetta Stone: EFTA00080250 (DS9)
+
+Deutsche Bank's own counsel's master transaction chart -- prepared by Justin Alfano, Director/Associate General Counsel at Deutsche Bank AG, New York Branch -- was sent to DOJ prosecutors on August 12, 2019 (two days after Epstein's death). This 10-page, 5-exhibit document (Exhibits A-E with DB-SDNY Bates numbers for every transaction) provides the definitive source for the Haze Trust drawdown and all major financial flows. It confirms and corrects the OCR-based reconstruction in the original report.
+
+### Exhibit D: Complete Haze Trust Transaction Chain
+
+| Date | From | To | Amount | Bates |
+|------|------|----|--------|-------|
+| 3/10/2017 | Haze Trust Brokerage | Haze Trust Checking | $36,000,000 | DB-SDNY-0006153 |
+| 3/10/2017 | Haze Trust Checking | Haze Trust DBAGNY | $35,999,000 | DB-SDNY-0006153 |
+| 3/27/2017 | Haze Trust DBAGNY | Plan D LLC Checking | $15,000,000 | DB-SDNY-0006168 |
+| 6/19/2017 | Christie's Inc. | Haze Trust Checking | $7,725,000 | DB-SDNY-0006320 |
+| 9/25/2017 | Sotheby's | Haze Trust Checking | $11,536,544 | DB-SDNY-0006565 |
+| 10/24/2017 | Sotheby's | Haze Trust Checking | $11,249,417 | DB-SDNY-0006646 |
+| 6/22/2018 | Haze Trust DBAGNY | Southern Financial LLC | $9,000,000 | DB-SDNY-0007361 |
+| 8/20/2018 | Haze Trust DBAGNY | Southern Financial LLC | $5,000,000 | DB-SDNY-0007544 |
+| 9/17/2018 | Haze Trust DBAGNY | Southern Financial LLC DBAGNY | $5,000,000 | DB-SDNY-0007635 |
+| 9/28/2018 | Haze Trust DBAGNY | Southern Financial LLC | $8,000,000 | DB-SDNY-0007635 |
+| 10/1/2018 | Haze Trust DBAGNY | Southern Trust Company | $10,000,000 | DB-SDNY-0007725 |
+| 10/24/2018 | Haze Trust DBAGNY | Southern Financial LLC | $5,000,000 | DB-SDNY-0007725 |
+| 11/20/2018 | Haze Trust Checking | Southern Financial LLC | $2,500,000 | DB-SDNY-0007798 |
+| 12/13/2018 | HSBC Bank Bermuda | Haze Trust Checking | $58,328 | DB-SDNY-0007888 |
+| 12/19/2018 | Haze Trust DBAGNY | Southern Financial LLC | $5,000,000 | DB-SDNY-0007908 |
+| 1/10/2019 | Haze Trust DBAGNY | Haze Trust Checking | $2,727,941 | DB-SDNY-0007979 |
+| 1/10/2019 | Haze Trust Brokerage | Haze Trust Checking | $6,000,000 | DB-SDNY-0007979 |
+| 2/7/2019 | Haze Trust Checking | Southern Financial LLC | $8,791,283 | DB-SDNY-0008063 |
+| 2/19/2019 | Haze Trust Brokerage | Haze Trust Checking | $12,608,253 | DB-SDNY-0008064 |
+| 2/19/2019 | Southern Financial LLC | Haze Trust Checking | $11,715,364 | DB-SDNY-0008063 |
+| 2/19/2019 | Jeffrey Epstein Checking | Haze Trust Checking | $7,000,000 | DB-SDNY-0008063 |
+| 2/22/2019 | Haze Trust Checking | Jeffrey Epstein Checking | $7,000,000 | DB-SDNY-0008063 |
+| 2/22/2019 | Haze Trust Checking | Southern Financial LLC | $24,564,037 | DB-SDNY-0008063 |
+
+**Key corrections to original report:**
+1. The Haze Trust had **3 sub-accounts** (Brokerage, Checking, DBAGNY), not 2 balance categories
+2. The drawdown went primarily to **Southern Financial LLC** in 6 major tranches ($9M + $5M + $5M + $8M + $5M + $5M = $37M, June-December 2018), plus $10M to Southern Trust Company (10/1/2018)
+3. The Christie's ($7.7M) and Sotheby's ($22.8M) auction proceeds flowed INTO the Haze Trust as inflows, not out
+4. The Feb 2019 "stabilization" was a dissolution event with massive circular flows: $24.56M out to Southern Financial, $11.7M back in, $7M shuffle with Epstein personal checking
+5. **HSBC Bank Bermuda** connection: $58K inflow on 12/13/2018 (offshore connection not in original report)
+6. DB counsel (Footnote [7]): "We have yet to determine how the Haze Trust Brokerage account was initially capitalized" -- even Deutsche Bank did not know the source of the initial $49.5M
+
+### Exhibit A: Leon Black / Rothschild Exact Transactions
+
+The complete Black-to-Epstein payment chain with Bates numbers exceeds $156M+ (higher than the previously estimated $118M). Key entries include:
+- 10/15/2013 through 12/30/2015: Multiple Black Family Partners LP c/o Apollo and personal Black payments totaling ~$93.5M to Southern Trust
+- 7/15/2014: Narrow Holdings LLC c/o Elysium Management: $20,000,000 to Southern Trust
+- 12/17/2015: Edmond de Rothschild (Suisse) SA Geneva: $10,000,000 to Southern Trust
+- 12/21/2015: Benjamin Edmond de Rothschild: $14,999,980 to Southern Trust
+- 3/31/2017 and 4/17/2017: BV70 LLC to Plan D LLC: $22,500,000 + $8,000,000
+- 10/2/2018: Plan D LLC to BV 70th LLC: $10,000,000 (partial round-trip)
+
+**Rothschild total: $24,999,980** ($10M via EdR Suisse SA + $14.999M via Benjamin personally)
+
+### Exhibit E: Gratitude America MMDA
+
+$10M seeded by BV70 LLC (Leon Black), then disbursed to Bruce and Marsha Moskowitz Foundation ($150K), Melanoma Research Alliance Foundation ($225K), Cancer Research Wellness Institute ($50K), NPO Baleto Teatras ($18K, Lithuanian ballet), VSJ Baleto Teatras ($10K), and internal Gratitude America accounts at First Bank of Puerto Rico, Morgan Stanley, and Citibank.
+
+### Exhibit C: Epstein Personal Account -- New Names
+
+New names/entities from Exhibit C not in the original report: Barry Jay Josephson ($200K), Island Global Yachting LTD ($293K), Seed Media Group ($170K), Kellerhals Ferguson Kroblin PLLC ($23M), Sultan Bin Sulayem ($6.2K), NLR Resorts International LLC ($100K across 3 payments), Link Rockenbach P.A. ($3M).
+
+### Estate Probate Inventory (EFTA00076491 / EFTA00076892, DS9)
+
+Probate No. ST-19-PB-80 entity balances:
+- Southern Trust Company, Inc.: $233,611,964
+- Maple Inc: $56,257,200
+- Nautilus Inc: $63,292,637
+- Poplar Inc: $23,392,188
+- Laurel Inc: $13,814,238
+- Cypress Inc: $17,760,284
+
+And the Haze Trust Agreement itself: "dated [March] 9, 1991, between JEFFREY E. EPSTEIN, as Grantor, and JEFFREY E. EPSTEIN, as Trustee"
+
+### DB Counsel Footnotes
+
+- **[1]** Account statement lists "By 70th LLC" instead of "BV70 LLC" -- confirms BV70 = Leon Black entity
+- **[2]** Wire memo: "Southern Financial LLC investment in Kyara Investments LLC" -- Kyara confirmed as Epstein investment vehicle
+- **[3]** Wire memo: "subcr to Kyara Investments III, LLC to fund Blockstream Investment" -- crypto investment confirmed
+- **[4]** Wire memo: "subcr to Kyara Investment IV, LLC to fund OH2 Laboratories" -- biotech investment confirmed
+- **[5]** KYC: Epstein used Now/SuperNow accounts for "personal daily use"
+
+---
+
 *END OF REPORT*
 *Analyst: Forensic Analysis Unit*
-*Date: 2026-02-05*
+*Date: 2026-02-05 (Addendum: 2026-02-12)*
 *Classification: Working Document -- Law Enforcement Sensitive*
 
 DATA QUALITY NOTE: A data quality audit confirmed that ~98% of 'bad_overlay' records in the redaction database are OCR noise from degraded scans, not text hidden behind removable redactions. Text searches against this corpus remain valid for identifying which documents mention specific terms.

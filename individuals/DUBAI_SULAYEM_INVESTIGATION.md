@@ -8,17 +8,17 @@
 
 # EXECUTIVE SUMMARY
 
-Sultan Ahmed bin Sulayem, Chairman and Group CEO of DP World (the world's largest port operator, headquartered in Dubai), maintained a deep, sustained, and multi-faceted relationship with Jeffrey Epstein spanning at least 2009-2019 -- a full decade that continued through Epstein's post-conviction period and up to five months before his July 2019 arrest. The documentary evidence reveals not merely a social connection, but an **operational relationship** involving:
+Sultan Ahmed bin Sulayem, Chairman and Group CEO of DP World (the world's largest port operator, headquartered in Dubai), maintained a deep, sustained, and multi-faceted relationship with Jeffrey Epstein spanning at least 2009-2019 -- a full decade that continued through Epstein's post-conviction period and up to five months before his July 2019 arrest. Over 5,000 documents across all DOJ datasets reference this relationship. The documentary evidence reveals not merely a social connection, but a relationship in which Epstein functioned as a global geopolitical consultant to DP World, advising on port acquisitions across at least seven countries and brokering introductions to heads of state and senior political figures. Key elements include:
 
-1. **Direct port infrastructure involvement** -- Sultan directed DP World Americas SVP Matthew Leech to coordinate with Epstein's USVI lawyer Erika Kellerhals regarding the **Port of St. Croix** ([EFTA02517291](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02517291.pdf))
-2. **Financial payments** -- Epstein paid Sultan $6,200 from his Deutsche Bank account on July 18, 2017 ([EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf))
-3. **Access to the ruler of Dubai** -- Epstein and Sultan discussed sending **Sheikh Mohammed bin Rashid Al Maktoum** (ruler of Dubai) a 23andMe genetic testing kit ([EFTA02644753](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02644753.pdf))
-4. **Island architecture referral** -- Sultan referred a Dubai-based architect (Creative Kingdom, Business Bay, Dubai) to design buildings on Epstein's islands ([EFTA02664965](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02664965.pdf))
-5. **Jan 2019 island meeting** -- Sultan was invited to Epstein's island alongside Steve Bannon, Nicole Junkermann, Eduardo Teodorani, and Jabor Yousuf, just five months before arrest ([EFTA02273951](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02273951.pdf))
-6. **Photographic evidence** -- A CD-R labeled "LSJ XMAS / Sultan" containing photographs from Little St. James island was seized by investigators ([EFTA00005091](https://www.justice.gov/epstein/files/DataSet%203/EFTA00005091.pdf))
-7. **Victim testimony** -- A witness/victim identified "a guy from Dubai -- Sultan" in interview notes ([EFTA00021076](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021076.pdf))
-
-The convergence of the world's largest port operator with Epstein's documented customs/border infrastructure creates an investigative nexus of exceptional significance.
+1. **Port of St. Croix** -- Epstein pitched the port opportunity to Sultan on September 6, 2014 ([EFTA00626038](https://www.justice.gov/epstein/files/DataSet%209/EFTA00626038.pdf)): "I think I could also get us federal funds to help build." Sultan responded: "If we invest I will have a reason to regularly visit you." Sultan then directed DP World Americas SVP Matthew Leech to coordinate with Epstein's USVI attorney Erika Kellerhals ([EFTA02517291](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02517291.pdf)). The port discussion continued through at least June 2016, when Sultan requested to "meet the port authority to look again at the port and the cruise terminal" ([EFTA00631662](https://www.justice.gov/epstein/files/DataSet%209/EFTA00631662.pdf)).
+2. **Global geopolitical consulting** -- Epstein advised DP World on port strategy in Cuba, Venezuela, the UK (London Gateway), Congo, Gabon, Rwanda, Senegal, Chile, and the USVI. He offered Bill Richardson as an intermediary for Cuba/Venezuela ports ([EFTA00776743](https://www.justice.gov/epstein/files/DataSet%209/EFTA00776743.pdf)) and brokered Sultan's meeting with Lord Mandelson at the UK Cabinet Office for the London Gateway port project ([EFTA00769918](https://www.justice.gov/epstein/files/DataSet%209/EFTA00769918.pdf)).
+3. **Financial payments** -- Epstein paid Sultan $6,200 from his Deutsche Bank account on July 18, 2017 ([EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf))
+4. **Access to Dubai's rulers** -- Epstein and Sultan coordinated shipment of **30 DNA ancestry kits** to the Al Maktoum family via Emirates Airlines at JFK ([EFTA00452358](https://www.justice.gov/epstein/files/DataSet%209/EFTA00452358.pdf)). Epstein also had direct contact information for the Crown Prince of Dubai (Sheikh Hamdan bin Mohammed) in his Mac address book ([EFTA00507137](https://www.justice.gov/epstein/files/DataSet%209/EFTA00507137.pdf)).
+5. **Brokered introductions** -- Epstein brokered meetings between Sultan and Ehud Barak ([EFTA00649997](https://www.justice.gov/epstein/files/DataSet%209/EFTA00649997.pdf)), Lord Mandelson, Tom Pritzker ([EFTA00439785](https://www.justice.gov/epstein/files/DataSet%209/EFTA00439785.pdf)), and Joi Ito. In March 2018, Sultan was invited to Epstein's 71st Street residence alongside both Bannon and Barak ([EFTA00856066](https://www.justice.gov/epstein/files/DataSet%209/EFTA00856066.pdf)).
+6. **Island architecture referral** -- Sultan referred a Dubai-based architect (Creative Kingdom, Business Bay, Dubai) to design buildings on Epstein's islands ([EFTA02664965](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02664965.pdf)). The firm progressed to formal USVI permit applications ([EFTA00696090](https://www.justice.gov/epstein/files/DataSet%209/EFTA00696090.pdf)).
+7. **Jan 2019 island meeting** -- Sultan was invited to Epstein's island alongside Steve Bannon, Nicole Junkermann, Eduardo Teodorani, and Jabor Yousef Jassim Al Thani (a member of Qatar's ruling Al Thani family), just five months before arrest ([EFTA02273951](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02273951.pdf))
+8. **Photographic evidence** -- A CD-R labeled "LSJ XMAS / Sultan" containing photographs from Little St. James island was seized by investigators ([EFTA00005091](https://www.justice.gov/epstein/files/DataSet%203/EFTA00005091.pdf))
+9. **Victim testimony** -- A witness/victim identified "a guy from Dubai -- Sultan" in interview notes ([EFTA00021076](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021076.pdf))
 
 ---
 
@@ -47,8 +47,11 @@ The convergence of the world's largest port operator with Epstein's documented c
 | [EFTA02033989](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02033989.pdf) | Jan 26, [year unclear] | "Confirmation of Sultan Ahmed Sulayem for Hall of Fame" -- Anil Wats, Mohammed Sharaf | Redaction v2 |
 | [EFTA01988909](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01988909.pdf) | Date unclear | "Sultan Ahmed Sulayem" -- nomination/journey reference | Redaction v2 |
 | [EFTA02395027](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02395027.pdf) | Aug 29, 2014 | Sultan to Epstein: "Hello my friend... I was in Lebanon yesterday and today in Dubai, traveling tomorrow to Vancouver via Seattle" | OCR |
-| [EFTA02517291](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02517291.pdf) | Sept 30, 2014 | **CRITICAL**: Sultan directs DP World Americas SVP Matthew Leech to contact Erika Kellerhals about the PORT OF ST. CROIX | OCR |
-| [EFTA02644753](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02644753.pdf) | July 15, 2017 | Epstein to Sultan: "should we send sheikh mo a 23 and me kit?" | OCR |
+| [EFTA00626038](https://www.justice.gov/epstein/files/DataSet%209/EFTA00626038.pdf) | Sept 6, 2014 | **PORT GENESIS**: Epstein pitches St. Croix port to Sultan: "I think I could also get us federal funds to help build." Sultan: "If we invest I will have a reason to regularly visit you" | DS9 |
+| [EFTA00693761](https://www.justice.gov/epstein/files/DataSet%209/EFTA00693761.pdf) | Sept 9, 2014 | Full transshipment port chain: Sultan forwards to Leech, Kellerhals provides detailed port specifications for Wilfred "Bombe" Allick Port and Transshipment Center, Krause Lagoon, St. Croix | DS9 |
+| [EFTA02517291](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02517291.pdf) | Sept 30, 2014 | Sultan directs DP World Americas SVP Matthew Leech to contact Erika Kellerhals about the PORT OF ST. CROIX | OCR |
+| [EFTA00631662](https://www.justice.gov/epstein/files/DataSet%209/EFTA00631662.pdf) | June 9, 2016 | Sultan from the air after island visit: wants to "meet the port authority to look again at the port and the cruise terminal" -- confirms port interest ongoing through mid-2016 | DS9 |
+| [EFTA02644753](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02644753.pdf) | July 15, 2017 | Epstein to Sultan: "should we send sheikh mo a 23 and me kit?" (Actually 30 ancestry DNA kits shipped via Emirates at JFK -- see [EFTA00452358](https://www.justice.gov/epstein/files/DataSet%209/EFTA00452358.pdf)) | OCR |
 | [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf) | July 18, 2017 | **FINANCIAL**: Epstein pays Sultan Bin Sulayem $6,200 from Deutsche Bank account (DB-SDNY-0006349) | OCR |
 | [EFTA02664965](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02664965.pdf) | Dec 28-29, 2016 | Epstein tells Dubai architect: "I've gotten your name from sultan suleiman in Dubai. He and I are great friends" | OCR |
 | [EFTA02387631](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02387631.pdf) | Mar 3, 2017 | Eduardo Robles (Creative Kingdom, Dubai) sends "st james" project follow-up | OCR |
@@ -71,17 +74,25 @@ The convergence of the world's largest port operator with Epstein's documented c
 
 ### Phase 3: Deepening Operational Ties (2014)
 - **Aug 29, 2014**: Sultan traveling Lebanon-Dubai-Vancouver, maintaining regular contact.
-- **Sept 30, 2014**: **THE PORT OF ST. CROIX EMAIL** -- Sultan directs Matthew Leech (DP World Americas SVP) to contact Erika Kellerhals (Epstein's USVI attorney) "regarding port of St Croix." Epstein forwards to Kellerhals: "See you Tomorrow at 10."
+- **Sept 6, 2014**: **THE PORT GENESIS EMAIL** ([EFTA00626038](https://www.justice.gov/epstein/files/DataSet%209/EFTA00626038.pdf)) -- Epstein pitches the St. Croix port opportunity to Sultan: "its very intesting, very -- a US port not subject to the Jones act... I think I could also get us federal funds to help build. due to the economicss of the VI, we would also get a us tax break. The governor is very friendly. I am pulling together info for you. they came to me to invest. not knowing about you at all." Sultan responds: "Great that will be helpful If we invest I will have a reason to regularly visit you (:"
+- **Sept 9, 2014**: Sultan forwards to Leech: "Dear Mat, Please go through the info as I was contacted to see if we are interested to manage this small port its very interesting a US port not subject to the jones act." Kellerhals provides detailed port specifications for the Wilfred "Bombe" Allick Port and Transshipment Center in Krause Lagoon, St. Croix ([EFTA00693761](https://www.justice.gov/epstein/files/DataSet%209/EFTA00693761.pdf)).
+- **Sept 30, 2014**: Sultan directs Matthew Leech (DP World Americas SVP) to contact Erika Kellerhals (Epstein's USVI attorney) "regarding port of St Croix." Epstein forwards to Kellerhals: "See you Tomorrow at 10."
 
 ### Phase 4: Active Business Integration (2015-2017)
+- **June 18, 2015**: Epstein brokers introduction between Sultan and Ehud Barak ([EFTA00649997](https://www.justice.gov/epstein/files/DataSet%209/EFTA00649997.pdf)). Sultan requests: "Can you please arrange for me to meet Ehud." Barak responds: "Yes, of course." Epstein emails both simultaneously: "ehud -- sultan. sultan ehud." Same day, Sultan is speaking on a panel alongside Peter Mandelson.
+- **June 9, 2016**: Sultan visits Epstein's island, then from the air writes: "Looking forward to see you may arrange for me to meet the port authority to look again at the port and the cruise terminal" ([EFTA00631662](https://www.justice.gov/epstein/files/DataSet%209/EFTA00631662.pdf)) -- confirming the port discussion was ongoing, not a one-time exchange.
 - **Sept 2015**: Sultan sends Epstein Khaleej Times article about DP World expanding into Russia ([EFTA01802972](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01802972.pdf)).
+- **Nov 29, 2016**: Epstein emails Tom Pritzker and cc's Sultan about dinner at Harvard or the island: "sultan needs to be in canada late thurs. choices: 1. I will fly to have dinner with you in new york. 2. you can come to harvard and have dinner with us there." Pritzker agrees to come to Harvard ([EFTA00439785](https://www.justice.gov/epstein/files/DataSet%209/EFTA00439785.pdf)).
 - **Dec 2016**: Epstein contacts Eduardo Robles of Creative Kingdom (Dubai) saying "I've gotten your name from sultan suleiman [sic] in Dubai. He and I are great friends. I have two islands in the US Virgin Islands and want to build a great home."
-- **Mar 2017**: Robles sends "st james" project materials.
-- **July 15, 2017**: Epstein and Sultan discuss sending Sheikh Mohammed bin Rashid Al Maktoum (ruler of Dubai, father of DP World's patron) a 23andMe kit. Sultan confirms "He has it already."
+- **Jan 20, 2017**: Robles and Thanu Boonyawatana of Creative Kingdom meet Epstein in person at 11:30am -- his 64th birthday. Same-day schedule includes dinner with Woody Allen and Soon-Yi ([EFTA00285348](https://www.justice.gov/epstein/files/DataSet%209/EFTA00285348.pdf)).
+- **May 2, 2017**: Creative Kingdom is actively engaged in formal CZM (Coastal Zone Management) permit applications for Epstein's island development ([EFTA00696090](https://www.justice.gov/epstein/files/DataSet%209/EFTA00696090.pdf)).
+- **May 23, 2017**: **30 DNA ancestry kits** shipped to the Al Maktoum family via Emirates Airlines at JFK ([EFTA00452358](https://www.justice.gov/epstein/files/DataSet%209/EFTA00452358.pdf)). Lesley Groff coordinated: "I rec'd a phone call from the airport asking if we would like our package we want sent to Al Maktoum to go on today's direct flight." Sultan arranges collection by "Mike" -- the Emirates supervisor at JFK -- who "received a message from Mohamad Maktoum to expect a box."
+- **July 15, 2017**: Epstein and Sultan discuss the 23andMe/ancestry kits: "should we send sheikh mo a 23 and me kit?" Sultan confirms "He has it already."
 - **July 18, 2017**: Epstein pays Sultan $6,200 from Deutsche Bank (DB-SDNY-0006349, [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf)).
 
 ### Phase 5: Final Period Before Arrest (2018-2019)
 - **Feb 28, 2018**: Epstein tells Bannon "MBS coming to wash 19th" -- Bannon responds "To have breakfast with Jared."
+- **March 20, 2018**: **Triple summit invitation** -- Staff email to Sultan: "Jeffrey is asking if you could please come see him this Thursday March 22 at 7:30pm at his home: 9 East 71st Street between 5th and Madison. Steve Bannon and Ehud Barak will be at the house as well." Sultan declined due to travel ([EFTA00856066](https://www.justice.gov/epstein/files/DataSet%209/EFTA00856066.pdf)). This is the first direct evidence all three were invited to the same event.
 - **Jan 9, 2019**: Apple Watch sent to Steve Bannon's son Sean.
 - **Jan 14, 2019**: The Island Meeting Email -- Epstein instructs staff to inform: Sultan Bin Sulayem, Eduardo Teodorani, Nicole Junkermann, Jabor Yousuf, Bannon, Moritx, Astrid, and Annas about plans for Paris (Jan 22-31) and island (Feb 2-5). "3BIS want to go to island."
 - **Feb 25, 2019**: Epstein arranges meeting between Bannon and Ehud Barak at his residence.
@@ -94,9 +105,23 @@ The convergence of the world's largest port operator with Epstein's documented c
 
 # SECTION 2: DP WORLD / PORT CONNECTION SIGNIFICANCE
 
-## 2.1 The Port of St. Croix Email ([EFTA02517291](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02517291.pdf))
+## 2.1 The Port of St. Croix -- Full Genesis and Ongoing Discussion
 
-This is the single most operationally significant document in the Dubai-Epstein nexus:
+The full email trail, revealed through DS9 data, shows the port discussion began 24 days earlier than previously documented and continued for at least two years.
+
+### Genesis Email: September 6, 2014 ([EFTA00626038](https://www.justice.gov/epstein/files/DataSet%209/EFTA00626038.pdf))
+
+Epstein pitched the port opportunity directly to Sultan:
+
+> "its very intesting, very -- a US port not subject to the Jones act. strange, there was a giant oil co hovensa that left the island, along with an aluminum smelter, all giant ships. I think I could also get us federal funds to help build. due to the economicss of the VI, we would also get a us tax break. The governor is very friendly. I am pulling together info for you. they came to me to invest. not knowing about you at all."
+
+Sultan responded: **"Great that will be helpful If we invest I will have a reason to regularly visit you (:"**
+
+### Full Transshipment Port Chain: September 9, 2014 ([EFTA00693761](https://www.justice.gov/epstein/files/DataSet%209/EFTA00693761.pdf))
+
+Three days later, Sultan forwarded to Leech: "Dear Mat, Please go through the info as I was contacted to see if we are interested to manage this small port its very interesting a US port not subject to the jones act. There was a giant oil co Hovensa that left the island along with an aluminum smelter. all giant ships used to berth. We also might get us federal funds to help build due to the economicss of the US VI. We would also get a us tax break. The governor is very friendly and very keen to get this port operated." Kellerhals provided detailed port specifications for the Wilfred "Bombe" Allick Port and Transshipment Center in Krause Lagoon, St. Croix.
+
+### Formal Direction: September 30, 2014 ([EFTA02517291](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02517291.pdf))
 
 ```
 From: jeffrey E. <jeevacation@gmail.com>
@@ -132,13 +157,19 @@ Sultan:
 "Dear Mat, Please contact Miss Erika Kellerhals Regarding port of St Croix"
 ```
 
+### Ongoing Interest: June 2016 ([EFTA00631662](https://www.justice.gov/epstein/files/DataSet%209/EFTA00631662.pdf))
+
+After visiting Epstein's island on June 9, 2016, Sultan wrote from the air: "Dear Jeffery I am in the air just left St. John in my route to London... Looking forward to see you may arrange for me to meet the port authority to look again at the port and the cruise terminal." This proves the port discussion was ongoing through at least June 2016 -- 20 months after the genesis email.
+
 ### 2.1.1 Analysis
 
-This email chain shows:
-1. **Sultan bin Sulayem personally directed** DP World Americas' SVP Matthew Leech to contact Epstein's USVI lawyer about the Port of St. Croix
-2. **Leech confirmed compliance** ("will do")
-3. **Anil Wats** was cc'd (DP World executive)
-4. **Epstein forwarded the chain** to Kellerhals, confirming a meeting the next day at 10am
+This email trail shows:
+1. **Epstein originated the port opportunity** by pitching it to Sultan as a tax-advantaged investment
+2. **Sultan bin Sulayem personally directed** DP World Americas' SVP Matthew Leech to contact Epstein's USVI lawyer about the Port of St. Croix
+3. **Leech confirmed compliance** ("will do")
+4. **Anil Wats** was cc'd (DP World executive)
+5. **Epstein forwarded the chain** to Kellerhals, confirming a meeting the next day at 10am
+6. **The discussion continued for at least two years** (September 2014 through June 2016)
 
 ### 2.1.2 Erika Kellerhals Context
 
@@ -174,6 +205,41 @@ Sultan sent Epstein a Khaleej Times article about DP World expanding into Russia
 - DP World was pursuing Russian port concessions during the same period
 - Epstein's network included Russian oligarchs and intelligence connections
 - Bannon (who was at the Jan 2019 island meeting) had his own Russia connections
+
+## 2.4 Epstein as DP World Geopolitical Consultant
+
+DS9 data reveals an aspect of the relationship barely hinted at in the original analysis: Epstein functioned as a strategic geopolitical consultant to Sultan and DP World, advising on port acquisitions across multiple continents.
+
+### Cuba/Venezuela Port Strategy (2009-2010)
+
+**[EFTA00738521](https://www.justice.gov/epstein/files/DataSet%209/EFTA00738521.pdf)** (Aug 13, 2009): Epstein advised Sultan on the Venezuelan port seizure: "Grupo Empresarial de La Industria Portuaria is a cuban corp that is behind the port takeover. they are making a joint venture with chavez to control both countries ports and raise prices. They are your trouble not venezuela. The end game should be, trying to operate all the ports for both countries. IT will take some time. you should personally concentrate on cuba."
+
+**[EFTA00738547](https://www.justice.gov/epstein/files/DataSet%209/EFTA00738547.pdf)** (Aug 14, 2009): Epstein on Chavez psychology: "I would suggest, the meeting with uribe, would depend on its reason. chavez is very emotional, he could decide, like a jealous girl, that he wants to be your partner, instead of uribe."
+
+**[EFTA00773721](https://www.justice.gov/epstein/files/DataSet%209/EFTA00773721.pdf)** (Aug 17, 2009): Sultan relays to Anil Wats, Jamal Majid Bin Thaniah (DP World Vice Chairman), and Epstein: "He spoke to chavez today, he advises that I should travel to cuba in October after chavez speech in the united nations."
+
+**[EFTA00776743](https://www.justice.gov/epstein/files/DataSet%209/EFTA00776743.pdf)** (Nov 28, 2010): Epstein offered Bill Richardson -- who was separately a subject in the Epstein trafficking investigation -- as a business intermediary for DP World: "THe Former Sec of Energy and Us Ambassador to the UN Bill Richardson. Is close to both chavez and castro (raul). He would be happy to work on your behalf re the ports in both cuba and venezuela."
+
+### London Gateway / Lord Mandelson (2009)
+
+Epstein brokered the relationship between DP World and the UK government regarding the London Gateway port project:
+
+- **[EFTA00750590](https://www.justice.gov/epstein/files/DataSet%209/EFTA00750590.pdf)** (July 12, 2009): Epstein to Sultan: "mandelson is in london" -- real-time intelligence sharing about the UK Secretary of State.
+- **[EFTA00741826](https://www.justice.gov/epstein/files/DataSet%209/EFTA00741826.pdf)** (Nov 9, 2009): Epstein to Sultan: "This is his government email -- sultan, send it to his personal email. do not give it to anyone else" regarding Mandelson's contact details.
+- **[EFTA00880531](https://www.justice.gov/epstein/files/DataSet%209/EFTA00880531.pdf)** (Sept 7, 2009): Epstein forwarded Sultan's email directly to Peter Mandelson -- confirming Epstein as the intermediary.
+- **[EFTA00769918](https://www.justice.gov/epstein/files/DataSet%209/EFTA00769918.pdf)**: Sultan's meeting with Lord Mandelson (then UK Secretary of State for Business) at Cabinet Office on September 16, 2009 at 4pm for 45 minutes.
+- **[EFTA00768289](https://www.justice.gov/epstein/files/DataSet%209/EFTA00768289.pdf)** (Nov 5, 2009): Sultan sent Epstein the formal DP World letter to Mandelson about the London Gateway Port project, invoking "the imminent state visit of H.H Sheikh Mohammed bin Rashid al Maktoum."
+- **[EFTA00768606](https://www.justice.gov/epstein/files/DataSet%209/EFTA00768606.pdf)** (Nov 11, 2009): Mandelson's office responded -- and Sultan forwarded the response to Epstein.
+
+### Africa Strategy (2011-2013)
+
+**[EFTA00656580](https://www.justice.gov/epstein/files/DataSet%209/EFTA00656580.pdf)** (April 2011): Epstein proposed an Africa trip: "can we plan a trip, to africa early may. senegal, gabon, mali, benin. marrakash. -paris."
+
+**[EFTA00632171](https://www.justice.gov/epstein/files/DataSet%209/EFTA00632171.pdf)** (May 2013): Sultan to Epstein after his Africa tour: "Had a great and very successful trip to Congo Kinshasa, Gabon, Rwanda. I met president Kabila I discussed port investment which he welcomes. he want to give us investment in mining and oil and gas. I mentioned to him that I have an American fund manager who will visit with me next time he welcomed that very much." Sultan told the President of the DRC that Epstein was "an American fund manager" who would visit alongside him.
+
+### Chile / Panama Canal (2013)
+
+**[EFTA00964765](https://www.justice.gov/epstein/files/DataSet%209/EFTA00964765.pdf)** (July 2013): Sultan forwarded to Epstein the approach from Andronico Luksic Craig ($20B Chilean billionaire, Panama Canal Authority advisory committee member) seeking a meeting. Sultan asked Epstein: "Do you know anything on this guy."
 
 ---
 
@@ -253,15 +319,16 @@ This gathering was planned for **5 months before Epstein's arrest**. The combina
 - **[EFTA01797528](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01797528.pdf)**: "Reminder to call Eduardo Teodorani today"
 - **Strategic value**: European industrial/aristocratic networks, Agnelli/Fiat connections
 
-### Jabor Yousuf (Jabor Y.)
-- Gulf-based associate with Doha/Qatar connections
+### Jabor Yousef Jassim Al Thani (previously listed as "Jabor Yousuf")
+- **Full identity**: Jabor Yousef Jassim Al Thani, Chairman of United Group. A member of Qatar's ruling Al Thani family -- the royal house controlling one of the world's wealthiest states.
+- **[EFTA00283067](https://www.justice.gov/epstein/files/DataSet%209/EFTA00283067.pdf)**: Signed a formal letter to the Head of Air Transport, Civil Aviation Authority, Doha, requesting a landing permit for Epstein's Gulfstream IV (tail N212JE, JEGE LLC) arriving Doha November 6, 2016 -- indicating governmental authority to authorize aircraft movements.
 - **[EFTA00362483](https://www.justice.gov/epstein/files/DataSet%209/EFTA00362483.pdf)**: Listed on Epstein's Sept 2014 schedule alongside "Ehud, Leon, Stone, Maldives"
 - **[EFTA02458806](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02458806.pdf)**: Epstein to Jabor: "karim is in doha" (July 2016)
 - **[EFTA02616241](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02616241.pdf)**: Epstein to Jabor: "he doesnt have his own plane. if you organize transport from scotland hes agreed it will work" (Nov 2018) -- arranging transport for an unnamed individual
 - **[EFTA02105505](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02105505.pdf)/02105527**: "Jabor will come to the [island]" (May 2014)
 - **[EFTA02078348](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02078348.pdf)**: "Reminder get Jabor Y a 'country cl[ub]'" -- arranging membership
 - **[EFTA02664943](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02664943.pdf)**: Epstein emailing Jabor on Christmas Day 2016
-- **Strategic value**: Gulf State connections, particularly Qatar; logistics/transport arrangements
+- **Strategic value**: Qatari royal family connections, governmental authority over airport/landing operations, logistics/transport arrangements
 
 ### Unidentified Attendees
 - **Moritx**: Likely "Moritz" -- no separate documents found; possibly a misspelling
@@ -336,22 +403,32 @@ Epstein: "I don't think they would wear it by choice. All the dubai clothes
 
 This reveals Epstein had purchased Dubai-style clothing and robes for island guests -- suggesting he hosted enough Dubai/Gulf visitors that he procured traditional garments for their comfort.
 
-## 4.5 Sheikh Mohammed bin Rashid Al Maktoum Connection
+## 4.5 Al Maktoum Royal Family Connections
 
-**[EFTA02644753](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02644753.pdf)** (July 15, 2017):
+### 30 DNA Ancestry Kits ([EFTA00452358](https://www.justice.gov/epstein/files/DataSet%209/EFTA00452358.pdf))
+
+The original report documented a single 23andMe kit discussion. DS9 reveals the scale was far greater:
+
+**May 23, 2017**: Lesley Groff email chain: "I rec'd a phone call from the airport asking if we would like our package we want sent to Al Maktoum to go on today's direct flight out to Dubai at 11:20am." Epstein clarified: "did we get the package it is thirty ancestor kits dna." Sultan arranged collection: "Mike will collect it and take it to airport and send it with a cabin crew to Dubai." Mike was identified as "the supervisor at Emirates at JFK airport" who "received a message from Mohamad Maktoum to expect a box."
+
+**July 15, 2017** ([EFTA02644753](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02644753.pdf)):
 ```
 Epstein to Sultan: "should we send sheikh mo a 23 and me kit?"
 Sultan: "He has it already or did they cancel it"
 Epstein: "did you find yours? are you part jewish?"
 ```
 
-"Sheikh Mo" is Sheikh Mohammed bin Rashid Al Maktoum, the ruler of Dubai and Vice President/Prime Minister of the UAE. This exchange reveals:
-1. Epstein had a relationship close enough to Sultan that they casually discussed the ruler of Dubai
-2. Sultan had direct access to Sheikh Mohammed
-3. Epstein was interested in genetic information about Gulf rulers
-4. The 23andMe interest connects to Epstein's broader obsession with genetics/DNA (documented elsewhere in the files)
+"Sheikh Mo" is Sheikh Mohammed bin Rashid Al Maktoum, the ruler of Dubai and Vice President/Prime Minister of the UAE. The 30-kit shipment to the Al Maktoum family connects to Epstein's documented interest in genetics and DNA (eugenics-adjacent research documented in other reports).
 
-## 4.6 Dubai-Based Architecture for Epstein's Islands
+### Crown Prince of Dubai Contact
+
+Forensic extraction from Epstein's Mac (NYC024328) shows a contact entry for "Crown Prince of Dubai Chairman Of The Executive Councel" created March 4, 2018 ([EFTA00507137](https://www.justice.gov/epstein/files/DataSet%209/EFTA00507137.pdf)). A separate device shows "Shaikh Hamdan Bin Mohammed Bin Rashid Al Maktoum" ([EFTA00512555](https://www.justice.gov/epstein/files/DataSet%209/EFTA00512555.pdf)). Staff also had the Crown Prince's cell numbers for both UAE and US ([EFTA00434212](https://www.justice.gov/epstein/files/DataSet%209/EFTA00434212.pdf)). This represents a second tier of Dubai royal access beyond Sultan's relationship with Sheikh Mohammed.
+
+## 4.6 The Joi Ito-Sultan-Dubai Connection (August 2013)
+
+**[EFTA00678475](https://www.justice.gov/epstein/files/DataSet%209/EFTA00678475.pdf)**: Extended Epstein-Joi Ito email chain about Sultan (August 27-29, 2013). Ito reported: "I talked to Sultan's guy that he assigned to me. I guess he's going to stick with me during my trip and take care of me. Sharaf? Do you know him?" Epstein responded: "yes, hes great. funny and trustworthy, sheik mo's right hand. speaks perfect english, educated temple university and a FOODIE" -- describing Mohammed Sharaf, DP World CEO. Epstein characterized Sultan: "sultan has amazing energy, sleeps little." Ito asked: "Assume I should meet him alone and not with my little punk girl sidekick right?" This shows Epstein arranged VIP treatment for MIT Media Lab Director Joi Ito in Dubai through Sultan, connecting the science/tech network with the Dubai port infrastructure network.
+
+## 4.7 Dubai-Based Architecture for Epstein's Islands
 
 **[EFTA02664965](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02664965.pdf)** (Dec 28-29, 2016):
 ```
@@ -570,23 +647,50 @@ SDNY prosecutors discovered Epstein-Bannon text messages on Bannon's seized iPho
 ```
 SULTAN BIN SULAYEM (DP World Chairman/CEO)
     |
-    |--- Jeffrey Epstein (direct 10-year relationship, financial payments)
+    |=== EPSTEIN AS GEOPOLITICAL CONSULTANT ===
+    |       |
+    |       |--- CUBA/VENEZUELA: Advised on Chavez port strategy
+    |       |       |--- Offered Bill Richardson as intermediary (EFTA00776743)
+    |       |       |--- Tracked Chavez psychology and Cuban leverage
+    |       |
+    |       |--- UK/LONDON GATEWAY: Brokered Mandelson meeting at Cabinet Office
+    |       |       |--- Provided Mandelson's personal email
+    |       |       |--- Received copies of DP World-UK govt correspondence
+    |       |
+    |       |--- AFRICA: Congo (Kabila), Gabon, Rwanda, South Africa
+    |       |       |--- Sultan told Kabila "I have an American fund manager"
+    |       |       |--- Epstein planned joint Africa tour
+    |       |
+    |       |--- USVI/ST. CROIX PORT: Genesis Sept 2014, ongoing through June 2016
+    |       |       |--- Sultan: "If we invest I will have a reason to regularly visit you"
+    |       |
+    |       |--- CHILE/PANAMA: Epstein as due diligence on Luksic
+    |       |--- SENEGAL: Political intelligence sharing
+    |       |--- PERU: DP World Callao media monitor shared
+    |
+    |=== BROKERED INTRODUCTIONS ===
+    |       |--- Sultan <---> Ehud Barak (brokered June 2015)
+    |       |--- Sultan <---> Lord Mandelson (brokered Aug-Sept 2009)
+    |       |--- Sultan <---> Tom Pritzker / Harvard dinner (Nov 2016)
+    |       |--- Sultan <---> Joi Ito / Dubai VIP treatment (Aug 2013)
+    |       |--- Triple Summit: Sultan + Bannon + Barak at 71st St (Mar 2018 invited)
+    |
+    |=== DIRECT NETWORK ===
     |       |
     |       |--- Steve Bannon (political intelligence broker)
     |       |       |--- MBS / Saudi Arabia
     |       |       |--- Jared Kushner / Trump admin
-    |       |       |--- Ehud Barak (Israeli PM)
     |       |
     |       |--- Nicole Junkermann (tech investor)
     |       |       |--- Leon Black (Apollo Global)
-    |       |       |--- Tom Barrack (Colony Capital, UAE agent)
+    |       |       |--- Tom Barrack (Colony Capital, convicted UAE agent)
     |       |
     |       |--- Eduardo Teodorani-Fabbri (CNH/Agnelli)
     |       |       |--- European industrial networks
     |       |
-    |       |--- Jabor Yousuf
-    |       |       |--- Qatar/Gulf connections
-    |       |       |--- Transport logistics
+    |       |--- Jabor Yousef Jassim Al Thani (Qatar's ruling family)
+    |       |       |--- Chairman of United Group
+    |       |       |--- Signed govt landing permits for Epstein's G-IV at Doha
     |       |
     |       |--- Daniel Siad (model recruiter)
     |       |       |--- Jean-Luc Brunel (MC2)
@@ -599,17 +703,31 @@ SULTAN BIN SULAYEM (DP World Chairman/CEO)
     |               |--- Port of St. Croix contact
     |               |--- Great St. James land purchases
     |
-    |--- Matthew Leech (DP World Americas SVP)
-    |--- Anil Wats (DP World executive)
-    |--- Mohammed Sharaf (DP World CEO)
-    |--- Mohammed Al Muallem (DP World executive)
+    |=== DP WORLD EXECUTIVES ===
+    |       |--- Matthew Leech (DP World Americas SVP)
+    |       |--- Anil Wats (DP World executive)
+    |       |--- Mohammed Sharaf (DP World CEO) -- "sheik mo's right hand"
+    |       |--- Mohammed Al Muallem (DP World executive)
+    |       |--- Jamal Majid Bin Thaniah (DP World Vice Chairman)
     |
-    |--- Sheikh Mohammed bin Rashid Al Maktoum (Ruler of Dubai)
-    |       |--- 23andMe discussion with Epstein
+    |=== DUBAI/QATAR ROYAL ACCESS ===
+    |       |--- Sheikh Mohammed bin Rashid Al Maktoum (Ruler of Dubai)
+    |       |       |--- 30 DNA ancestry kits shipped via Emirates at JFK
+    |       |       |--- London Gateway letter invoked Sheikh Mo's state visit
+    |       |
+    |       |--- Sheikh Hamdan bin Mohammed (Crown Prince of Dubai)
+    |       |       |--- In Epstein's Mac address book (forensic extraction)
+    |       |       |--- Staff had Crown Prince cell numbers (UAE + US)
+    |       |
+    |       |--- Jabor Al Thani (Qatar ruling family -- see above)
     |
-    |--- Eduardo Robles (Creative Kingdom, Dubai)
-            |--- St. James island architecture project
-            |--- Referred by Sultan
+    |=== PHYSICAL EVIDENCE ===
+            |--- Eduardo Robles (Creative Kingdom, Dubai)
+            |       |--- St. James island architecture -- formal CZM permits filed
+            |       |--- Referred by Sultan
+            |
+            |--- CD-R labeled "LSJ XMAS / Sultan" (seized evidence)
+            |--- Victim testimony: "guy from Dubai -- Sultan"
 ```
 
 ---
@@ -620,6 +738,26 @@ SULTAN BIN SULAYEM (DP World Chairman/CEO)
 |---|---|---|
 | [EFTA00005091](https://www.justice.gov/epstein/files/DataSet%203/EFTA00005091.pdf) | Physical Evidence | CD-R labeled "LSJ XMAS / Sultan" with island photos |
 | [EFTA00006025](https://www.justice.gov/epstein/files/DataSet%204/EFTA00006025.pdf) | Travel Records | Victim flight booking to Dubai from Miami |
+| [EFTA00283067](https://www.justice.gov/epstein/files/DataSet%209/EFTA00283067.pdf) | Landing Permit | Jabor Al Thani signs govt permit for Epstein's G-IV to Doha |
+| [EFTA00317396](https://www.justice.gov/epstein/files/DataSet%209/EFTA00317396.pdf) | Letter | DP World official invitation to Sultan's Hall of Fame dinner |
+| [EFTA00324174](https://www.justice.gov/epstein/files/DataSet%209/EFTA00324174.pdf) | Email | Groff coordinating Sultan's island visit June 2016 |
+| [EFTA00434212](https://www.justice.gov/epstein/files/DataSet%209/EFTA00434212.pdf) | Contact Info | Staff had Crown Prince of Dubai's UAE and US cell numbers |
+| [EFTA00439785](https://www.justice.gov/epstein/files/DataSet%209/EFTA00439785.pdf) | Email | Sultan + Pritzker + Epstein dinner at Harvard (Nov 2016) |
+| [EFTA00452358](https://www.justice.gov/epstein/files/DataSet%209/EFTA00452358.pdf) | Email | **30 DNA ancestry kits** shipped to Al Maktoum via Emirates at JFK |
+| [EFTA00507137](https://www.justice.gov/epstein/files/DataSet%209/EFTA00507137.pdf) | Device Extract | Crown Prince of Dubai in Epstein's Mac address book |
+| [EFTA00626038](https://www.justice.gov/epstein/files/DataSet%209/EFTA00626038.pdf) | Email | **PORT GENESIS**: Epstein pitches St. Croix port to Sultan (Sept 6, 2014) |
+| [EFTA00631662](https://www.justice.gov/epstein/files/DataSet%209/EFTA00631662.pdf) | Email | Sultan wants "to meet the port authority" (June 2016) -- port discussion ongoing |
+| [EFTA00632171](https://www.justice.gov/epstein/files/DataSet%209/EFTA00632171.pdf) | Email | Sultan tells Kabila Epstein is "an American fund manager" |
+| [EFTA00649997](https://www.justice.gov/epstein/files/DataSet%209/EFTA00649997.pdf) | Email | Epstein brokers Sultan-Ehud Barak introduction (June 2015) |
+| [EFTA00678475](https://www.justice.gov/epstein/files/DataSet%209/EFTA00678475.pdf) | Email | Joi Ito-Epstein exchange about Sultan's Dubai (Aug 2013) |
+| [EFTA00693761](https://www.justice.gov/epstein/files/DataSet%209/EFTA00693761.pdf) | Email | Full transshipment port chain: Sultan to Leech, Kellerhals specs |
+| [EFTA00738521](https://www.justice.gov/epstein/files/DataSet%209/EFTA00738521.pdf) | Email | Epstein advises Sultan on Cuba/Venezuela port strategy |
+| [EFTA00741826](https://www.justice.gov/epstein/files/DataSet%209/EFTA00741826.pdf) | Email | Epstein gives Sultan Mandelson's personal email |
+| [EFTA00769918](https://www.justice.gov/epstein/files/DataSet%209/EFTA00769918.pdf) | Email | Sultan's meeting at UK Cabinet Office with Mandelson confirmed |
+| [EFTA00776743](https://www.justice.gov/epstein/files/DataSet%209/EFTA00776743.pdf) | Email | **Epstein offers Bill Richardson** for Cuba/Venezuela ports |
+| [EFTA00856066](https://www.justice.gov/epstein/files/DataSet%209/EFTA00856066.pdf) | Email | **Sultan invited to 71st St with Bannon AND Barak** (Mar 2018) |
+| [EFTA00880531](https://www.justice.gov/epstein/files/DataSet%209/EFTA00880531.pdf) | Email | Epstein forwards Sultan's email to Peter Mandelson |
+| [EFTA00964765](https://www.justice.gov/epstein/files/DataSet%209/EFTA00964765.pdf) | Email | Sultan asks Epstein about Chilean billionaire Luksic |
 | [EFTA00021076](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021076.pdf) | Witness Interview | "guy from Dubai -- Sultan" identified |
 | [EFTA00025553](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025553.pdf) | DOJ Internal | GM photo on Bannon phone flagged |
 | [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf) | Financial Records | $6,200 payment from Epstein to Sultan (DB account) |
@@ -691,29 +829,24 @@ SULTAN BIN SULAYEM (DP World Chairman/CEO)
 
 # CONCLUSION
 
-The Sultan bin Sulayem / DP World connection to Jeffrey Epstein represents one of the most operationally significant relationships uncovered in the DOJ files. It is not a casual social connection but a documented, decade-long operational relationship involving:
+The Sultan bin Sulayem / DP World connection to Jeffrey Epstein, documented across over 5,000 records in the DOJ files, represents one of Epstein's most extensive documented business relationships. It is not a casual social connection but a decade-long arrangement in which Epstein served as a geopolitical consultant to DP World, involving:
 
-1. **Direct port infrastructure discussions** for the territory where Epstein's islands were located
-2. **Financial payments** documented in Deutsche Bank records
-3. **Access to the ruler of Dubai** and the highest levels of UAE power
-4. **Facilitation of island development** through Dubai-based referrals
-5. **Presence at a strategic meeting** just months before arrest, alongside politically connected figures
-6. **Physical photographic evidence** of Sultan at Epstein's island
-7. **Identification by a victim/witness** in testimony
+1. **Port strategy consulting across at least seven countries/regions** -- Cuba, Venezuela, UK (London Gateway), Congo, Gabon, USVI (St. Croix), and Senegal
+2. **The St. Croix port discussion** -- originated by Epstein in September 2014, with detailed specifications provided by his USVI attorney, and ongoing through at least June 2016
+3. **Brokered introductions** to Lord Mandelson (UK Secretary of State), Ehud Barak (former Israeli PM), Tom Pritzker (Hyatt Hotels), and Joi Ito (MIT Media Lab)
+4. **Access to two tiers of Dubai royalty** -- Sheikh Mohammed bin Rashid Al Maktoum (ruler) and Crown Prince Sheikh Hamdan, including 30 DNA ancestry kits shipped to the Al Maktoum family
+5. **Qatar royal connections** via Jabor Al Thani, who held governmental authority to issue landing permits for Epstein's aircraft at Doha
+6. **Financial payments** documented in Deutsche Bank records
+7. **Island architecture facilitated** through Creative Kingdom (Dubai), progressing to formal USVI permit applications
+8. **Physical photographic evidence** of Sultan at Epstein's island
+9. **Identification by a victim/witness** in testimony
+10. **Bill Richardson offered as intermediary** -- connecting a documented trafficking co-conspirator to DP World's Cuba/Venezuela port ambitions
+11. **Introduction of Epstein to heads of state** -- Sultan told President Kabila of the DRC that Epstein was "an American fund manager" who would visit for mining/oil investments
 
-The intersection of DP World (controlling ports and customs infrastructure worldwide), Epstein's documented trafficking network (which required international movement of victims), and the USVI's strategic location as a US territory with unique customs arrangements creates a nexus that warrants the most serious investigative attention.
-
-When combined with:
-- Tom Barrack's conviction as a UAE foreign agent
-- Bannon's role as political intelligence broker
-- Daniel Siad's recruitment operation migrating to Dubai
-- The Emirates airline connection through Amar Siad
-- Epstein's documented CBP/customs issues and records gaps
-
-This network represents a potentially systemic infrastructure connecting Gulf State power, global port operations, political influence, and sex trafficking -- centered on the relationship between Sultan Ahmed bin Sulayem and Jeffrey Epstein.
+When combined with Tom Barrack's conviction as a UAE foreign agent, Bannon's role as political intelligence broker, Daniel Siad's recruitment operation migrating to Dubai, the Emirates airline connection through Amar Siad, and Epstein's documented CBP/customs issues and records gaps, the documentary record describes an intersection of global port operations, political influence networks, and Epstein's other documented activities.
 
 ---
 
 **See also:** [KHANNA_SIX_NAMES_INVESTIGATION.md](/individuals/KHANNA_SIX_NAMES_INVESTIGATION.md) — Sultan bin Sulayem is one of the six names disclosed by Rep. Ro Khanna from the DOJ co-conspirator list. Full-corpus search (519K documents) found **1,379 documents** referencing Sulayem.
 
-*Report compiled from comprehensive search of all DOJ databases (519,548 documents / 993,406 pages). All EFTA numbers verified against source documents.*
+*Report compiled from comprehensive search of all DOJ databases (1,380,937 documents / 2,731,796 pages across 12 datasets). Over 5,000 documents reference Sulayem across the corpus. All EFTA numbers verified against source documents.*

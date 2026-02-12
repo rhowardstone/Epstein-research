@@ -20,6 +20,15 @@ After exhaustive analysis of all hidden text, extracted entities, and reconstruc
 7. **Active KYC compliance breaches** flagged by Deutsche Bank's own compliance teams for Southern Financial LLC
 8. **Evidence of potential witness tampering** via $100K and $250K wire transfers to NPA co-conspirators days after the NPA was published
 
+**REVISIT UPDATES (2026-02-12, DS9/DS11):** The following findings substantially expand this report:
+- **Total documented wealth now precisely quantified:** $319.5M as of June 2013 (EFTA02678941, DS11) and $159M across top 3 entities alone as of October 2015 (EFTA02671293, DS11) -- both significantly exceeding the original estimates
+- **Wexner "seed money" mechanism confirmed** by DOJ psychological assessment: POA-enabled misappropriation of $46M+ (EFTA00105651, DS9)
+- **Leon Black fee structure documented:** Epstein as tax architect claiming $600M in savings, fee dispute letters, $50-60M expected fees (EFTA02475850, DS11)
+- **Paul Barrett identified** as professional portfolio manager who left $1.5M/year JPMorgan career for Epstein (EFTA02619039, DS11)
+- **LGT Bank Liechtenstein** actively pursued as replacement bank in March 2019 with instructions to conceal Epstein's identity (EFTA02638188, DS11)
+- **Alfa Bank (Russia)** wire transfers documented January-February 2019 (EFTA02627228, DS11)
+- **Unanswered Questions #1, #2, #4, and #7 now answered** -- see addendum below
+
 **Central Finding:** These documents contain hundreds of millions in documented asset balances but virtually no trail showing where those assets originated. The absence is itself the most significant forensic finding.
 
 ---
@@ -496,13 +505,24 @@ Epstein's $100K and $250K wires to NPA co-conspirators, days after the NPA was p
 ## XIV. UNANSWERED QUESTIONS
 
 1. What was the specific mechanism by which Wexner's wealth became Epstein's? POA? Gift? Theft?
+   - **DS9 ANSWER (Revisit):** The DOJ itself assessed that Wexner's POA enabled Epstein to misappropriate $46M+ which became "the seed money" for his fortune. Multiple copies of a DOJ psychological assessment state: "Leslie Wexner, Mr. Epstein's sole client at J. Epstein and Company, granted him power of attorney over his affairs. Despite also being identified as Mr. Wexner's mentee, Mr. Epstein was again accused of misappropriating funds -- more than 46 million dollars. These large sums are believed to be the seed money Mr. Epstein used to establish his considerable fortune." (EFTA00105651, EFTA00121398, EFTA00123213, EFTA00040941, EFTA00135591, DS9)
+
 2. What did Leon Black's $158M in reported payments to Epstein actually purchase?
-3. Who is the "E Trust" that wired $100,000 on 04/05/16?
+   - **DS11 ANSWER (Revisit):** Epstein's own emails show he was Black's tax architect, claiming "$600 million in after tax savings." A four-page draft letter (EFTA02475850, DS11) marked "Leon DO NOT SEND" reveals Epstein expected $50-60M in fees. Brad Karp (Chairman of Paul Weiss) arbitrated a fee dispute settling at $20M. An email to Melanie Spinella at Apollo (EFTA02475493, DS11) shows a payment schedule including $10M to Gratitude America and "600 savings 225 million owed. - 50 credit, 175 owed" -- suggesting Black owed $175M based on the $600M in tax savings.
+
+3. Who is the "E Trust" that wired $100,000 on 04/05/16? (UNANSWERED)
+
 4. What was the source of the $9.2M single-period credit with no corresponding debits?
-5. Why did Deutsche Bank accept $300M+ in assets without completed source-of-funds documentation?
-6. What triggered the "HELP TO STOP WIRE FROM LSJE" urgent emails?
+   - **PARTIAL DS11 ANSWER (Revisit):** The June 2013 valuation (EFTA02678941) shows "Jeepers" holding $28M in cash -- large periodic movements between entities were routine. The $9.2M could be an inter-entity transfer from Jeepers or another entity in the constellation.
+
+5. Why did Deutsche Bank accept $300M+ in assets without completed source-of-funds documentation? (UNANSWERED)
+
+6. What triggered the "HELP TO STOP WIRE FROM LSJE" urgent emails? (UNANSWERED)
+
 7. What was the $23M wire that required special documentation?
-8. Why were Epstein's personal accounts and Leon Black's personal accounts managed by the identical pair of DB officers?
+   - **DS11 ANSWER (Revisit):** It was $23.3M in collateral for an oil options trade -- 250K barrels at $93.5 strike, placed through JPMorgan by Paul Barrett: "25pct x 93.5 strike x 1million. So 23.3mm usd collateral." (EFTA02720340/EFTA02720774, DS11)
+
+8. Why were Epstein's personal accounts and Leon Black's personal accounts managed by the identical pair of DB officers? (UNANSWERED -- but Exhibit A from EFTA00080250 now documents the complete $156M+ payment chain)
 
 ---
 
@@ -532,5 +552,49 @@ Epstein's $100K and $250K wires to NPA co-conspirators, days after the NPA was p
 *End of Forensic Accounting Report*
 
 *This analysis is based solely on data from the primary document text database database containing DOJ Epstein files. Additional records not included in this database (e.g., sealed court documents, foreign bank records, IRS filings) may contain information that would alter these findings.*
+
+---
+
+## ADDENDUM: DS9/DS11 REVISIT FINDINGS (2026-02-12)
+
+### Precise Entity Balances (October 31, 2015)
+
+Richard Kahn email (EFTA02671293/EFTA02481016, DS11) provides exact balances: Southern Trust $82,500,000 / Haze Trust $47,375,000 / Southern Financial LLC $29,250,000. Total of top 3 entities alone: $159,125,000. Epstein responded "stc" directing a $20M transfer from Southern Trust to "erika escrow account" (Erika Kellerhals, USVI attorney).
+
+### June 2013 Complete Entity Valuation ($319.5M)
+
+EFTA02678941 (DS11): Comprehensive "JEE and Related Entities" valuation as of 6/30/13 shows total cash of $74,241,740 across 6 entities plus JPMorgan trading accounts ($96.6M across SFL/Haze/STC), marketable securities ($11.5M "Jerry"), partnership investments ($105.3M including Tudor Futures $13.6M, Highbridge Capital $19.1M, Apollo, Bear Stearns ABS), and "Settlements Receivable - DSZ" ($33.5M, unidentified). Reconciliation value: $319,455,302.
+
+### Paul Barrett: The Dedicated Portfolio Manager
+
+EFTA02619039 (DS11): "The only reason I left JPM was that we agreed to a two year deal. I walked away from a great career where I was making $1.5MM a year, left $1.8MM worth of JPM stock on the table." Barrett managed Epstein's fixed-income portfolio at $300K+/year through Alpha Group Capital LLC. The $23M wire (original Unanswered Question #7) was $23.3M collateral for an oil options trade Barrett placed (EFTA02720340). Barrett also secured Twitter IPO allocation (1,500 shares at $26, EFTA02577080) and later offered SpaceX pre-IPO access through Deutsche Bank (EFTA02584733).
+
+### JPM-to-Deutsche Bank Asset Transfer (February 2014)
+
+EFTA02518675 (DS11): "All positions at JPM were finally closed. JPM will wire today the remaining cash balances to Deutche Bank: 1) Southern Financial -- $10,397,100. 2) Southern Trust (Laurie Cameron) -- $911,808 remaining balance." A $50M line of credit existed at JPM as early as 2010 (EFTA02416085).
+
+### LGT Bank Liechtenstein (March 2019)
+
+Four months before arrest, Epstein was actively establishing an offshore banking relationship with LGT Bank Liechtenstein, with explicit instructions to conceal his identity: "tell stewart wed appreciate him saying nothing more that the owner of haze trust has had more than 50 million dollars with us. no more no less no names or details" (EFTA02637930). The contact entity was "Khan Stiftung, Ausstrasse 56, FL-9490 Vaduz, Liechtenstein." Stewart Oldfield refused to provide the reference (EFTA02637471).
+
+### Alfa Bank (Russia) Wire Transfers (January-February 2019)
+
+LSJE LLC wired $700 to Alfa Bank on 1/31/2019 (EFTA02627228). The wire was held up because "intermediary US bank is required for USD wires to Alfa Bank" (EFTA02629196). Despite the small amount, the existence of an Alfa Bank relationship is a previously undocumented international banking connection.
+
+### The $20M "Erika Escrow" Transfer (October-November 2015)
+
+$23M total ($20M + $3M) transferred to Erika Kellerhals's escrow account in late 2015 (EFTA02671293). Purpose unspecified. Given Kellerhals's role as USVI legal counsel, this could relate to Great St. James Island acquisition, trust restructuring, or legal defense reserves.
+
+### Gratitude America: $30K to NYT Reporter
+
+EFTA02640495 (DS11): Epstein directed "$30k from gratitude america" to Landon Thomas Jr. of the New York Times, who covered Epstein and finance. Thomas asked: "What was the name again of the name it will come under?" Using a 501(c)(3) to pay a journalist covering the subject raises journalistic ethics and potentially legal concerns.
+
+### Additional Financial Personnel Identified
+
+DS11 identifies a larger support network than the original report documented: Harry Beller (cash management, JPM liaison), Tazia Smith (DB Key Client Partners), Vahe Stepanian (DB equity), Jeanne Brennan (CPA, payroll), Bella Klein (wire execution), Daphne Wallace (USVI operations), Cecile de Jongh (FTC USVI), Ada Clapp (Black tax advisor), Brad Wechsler (Elysium/Black family office), Richard Joslin, Alan Dlugash/Halperin (tax partner), Andrew Atlas (Morgan Stanley), Ted Serure (JPMorgan), and Vincent Orner (JPM daily MTM).
+
+---
+
+*End of Addendum*
 
 DATA QUALITY NOTE: A data quality audit confirmed that ~98% of 'bad_overlay' records in the redaction database are OCR noise from degraded scans, not text hidden behind removable redactions. Text searches against this corpus remain valid for identifying which documents mention specific terms.

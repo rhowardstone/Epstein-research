@@ -442,6 +442,8 @@ Searches across ALL databases for:
 
 The proffer witness's name is also fully redacted, but their counsel (McGorty, Zelenko, Giffuni at Crowell & Moring) is not redacted.
 
+**[Updated Feb 12, 2026]:** The CBP officer has been identified as **Timothy Routch**, Badge #CAS03223. The proffer sessions (Oct-Nov 2020) involved 2 FBI agents and Crowell & Moring counsel. Routch self-incriminated about his friendship with Epstein. A C-4 investigation was conducted with FBI/HSI. The report correctly notes the proffer was from a cooperating witness (not the officer himself) -- this distinction is preserved. See CBP_CORRUPTION_INVESTIGATION.md for full detail.
+
 ### What Happened After the Proffer?
 
 The documentary trail shows:
@@ -456,7 +458,7 @@ For the CBP officer himself: **No charges, plea, or prosecution documents appear
 
 ### WHAT REMAINS UNRESOLVED
 
-1. **The CBP officer's name remains fully redacted** across all document collections. Badge #CAS03223 and HashID #CZACMME are the only identifiers.
+1. **[RESOLVED Feb 12, 2026]:** The CBP officer has been identified as **Timothy Routch**. Badge #CAS03223 and HashID #CZACMME are confirmed identifiers.
 2. **No charges were brought against the CBP officer** despite his own admissions of personal relationships with Epstein while serving as a CBP Agriculture Specialist at the St. Thomas pre-clearance port.
 3. **The proffer witness was apparently a different person** who knew the CBP officer and had the CBP officer listed as a phone contact. This witness was being prepared for Maxwell trial testimony.
 4. **Whether the proffer witness actually testified at the Maxwell trial** is not documented in these files.
@@ -599,7 +601,7 @@ The previous finding was accurate: the letter was processed as a CCR, forwarded 
 | 2. Austrian Passport / Fortelni | "DONE" | Agent call assignment confirmed; **No outcome recorded**; Austrian Embassy and FBI Legat both engaged; passport was actually USED for travel | VERIFIED (expanded) |
 | 3. Bannon Texts | "DONE" | Texts confirmed; **No separate warrant ever sought**; WBTW warrant was limiting factor; Trump-Maxwell photo explicitly dismissed | VERIFIED (expanded) |
 | 4. ESWW / Dilorio | "DONE" | Dilorio claims documented; specific SEC filing cited; **DOJ never investigated or responded to the claims** | UNVERIFIED |
-| 5. CBP Officer | "DONE" | Badge/hash confirmed; name fully redacted; **extensive proffer trail discovered** (Oct 2020-Aug 2021); witness prepared for Maxwell trial; **no charges against CBP officer** | VERIFIED (expanded) |
+| 5. CBP Officer | "DONE" | Badge/hash confirmed; **officer identified as Timothy Routch** (Feb 12, 2026 update); extensive proffer trail (Oct 2020-Aug 2021); witness prepared for Maxwell trial; C-4 investigation with FBI/HSI; **no charges against CBP officer** | VERIFIED (expanded + identified) |
 | 6. Richard Taus | "DONE" | CCR processing confirmed; **no follow-up**; separate prisoner letter exists but uncaptured; "J. Doe" visitor never investigated | VERIFIED |
 
 ---
@@ -614,7 +616,7 @@ The previous finding was accurate: the letter was processed as a CCR, forwarded 
 
 4. **The ESWW/Apollo/Epstein Financial Trust SEC filing connection was never investigated** despite being handed to DOJ with a specific, verifiable EDGAR filing reference.
 
-5. **A CBP officer who admitted to friendship with Epstein and clearing his aircraft at a pre-clearance port was apparently never charged,** despite extensive proffer sessions with a cooperating witness who knew him.
+5. **CBP officer Timothy Routch, who admitted to friendship with Epstein and clearing his aircraft at a pre-clearance port, was apparently never charged,** despite extensive proffer sessions with a cooperating witness who knew him and a C-4 investigation with FBI/HSI.
 
 6. **Richard Taus's claims about Epstein's death, Maxwell, and a "J. Doe" prison visitor were never investigated,** despite being forwarded to the FBI.
 

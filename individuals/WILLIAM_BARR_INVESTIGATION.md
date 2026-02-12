@@ -20,6 +20,7 @@ The FBI's own internal "Prominent Names" briefing page (page 17/18 of a multi-pa
 | [EFTA01656152](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01656152.pdf) | Prominent Names briefing (earlier variant) |
 | [EFTA01656173](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01656173.pdf) | Prominent Names briefing (variant) |
 | [EFTA01656198](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01656198.pdf) | Prominent Names briefing (variant) |
+| [EFTA00164939](https://www.justice.gov/epstein/files/DataSet%209/EFTA00164939.pdf) | Prominent Names briefing (DS9 copy, confirmed same content) |
 
 ### 1.2 Reconstructed Text from [EFTA01660622](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660622.pdf), Page 17
 
@@ -106,6 +107,14 @@ Multiple documents detail the role of Kirkland & Ellis in the original Epstein n
 
 - **[EFTA00013989](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013989.pdf)** (Kirkland & Ellis letter): A June 19, 2008 letter from Kirkland & Ellis to prosecutors on behalf of Epstein, arguing against prosecution and invoking Brady requirements.
 
+**[NEW -- DS9 K&E Documents]:**
+- **[EFTA00067343](https://www.justice.gov/epstein/files/DataSet%209/EFTA00067343.pdf)** (DS9): 10-page Kirkland & Ellis "Response to Letter by FAUSA" -- K&E's point-by-point rebuttal of SDFL claims, accusing prosecutors of "inconsistencies, false and misleading characterizations and outright falsehoods."
+- **[EFTA00067353](https://www.justice.gov/epstein/files/DataSet%209/EFTA00067353.pdf)** (DS9): K&E "SUMMARY OF MISCONDUCT ISSUES" -- detailed allegations of prosecutorial misconduct, including that prosecutors "misrepresented the number of alleged victims."
+- **[EFTA00066350](https://www.justice.gov/epstein/files/DataSet%209/EFTA00066350.pdf)** (DS9): "EPSTEIN BOX INVENTORY" listing physical evidence boxes including "Data Demonstratives Kirkland & Ellis LLP -- 6 bound copies" and extensive Lefkowitz correspondence with Sloman and Acosta spanning September-December 2007.
+- **[EFTA00065022](https://www.justice.gov/epstein/files/DataSet%209/EFTA00065022.pdf)** (DS9): SDNY News Clips noting Robert Khuzami (former SDNY prosecutor) took positions "as general counsel for Deutsche Bank and as a partner at Kirkland & Ellis" -- another SDNY official with K&E ties.
+
+These K&E defense documents demonstrate the aggressive legal strategy employed by the same firm Barr joined the following year (2009).
+
 ### 3.3 The Split Recusal -- Analysis
 
 Barr's decision to recuse only from the retrospective review of the Florida deal, but NOT from the active prosecution or oversight of the Epstein case, meant that:
@@ -114,6 +123,20 @@ Barr's decision to recuse only from the retrospective review of the Florida deal
 2. Barr maintained oversight of the Bureau of Prisons where Epstein was held
 3. Barr personally oversaw the death investigation after August 10, 2019
 4. Barr was NOT recused from any matter where the NTOC tip alleging his presence at Epstein's during abuses would be relevant
+
+### 3.5 Death Investigation Recusal Deliberation -- [EFTA00078028](https://www.justice.gov/epstein/files/DataSet%209/EFTA00078028.pdf) (DS9)
+
+**[NEW -- DS9 FINDING]:** On August 12, 2019 -- just two days after Epstein's death -- SDNY internally debated whether to recuse from the criminal investigation of the MCC and its guards. The SDNY Deputy asked the IG whether SDNY "should be recused from the criminal investigation of the MCC and its guards relating to Epstein's suicide." The IG said "he saw no basis for our recusal." The ODAG Associate Deputy Counsel said "he saw no basis for our recusal because any possible conflict was too speculative." When asked if the OAG (Barr's office) should be consulted, ODAG said "that was unnecessary because the question would ultimately be brought back to him."
+
+This shows the non-recusal decision for the death investigation was made at the IG/ODAG level, without consulting the Attorney General's office directly. While this aligned with Barr's broader non-recusal posture, it means Barr himself was not personally consulted on this specific question.
+
+### 3.6 SDFL Recusal Evidence Transfer -- [EFTA00074673](https://www.justice.gov/epstein/files/DataSet%209/EFTA00074673.pdf) (DS9)
+
+**[NEW -- DS9 FINDING]:** In April 2019, SDFL's Criminal Chief confirmed "we are recused" from Epstein matters. Critically, "Miami FBI has expressed a reluctance to send any 6e materials to the SDNY FBI without a 6e letter." This reveals bureaucratic obstacles created by SDFL's recusal that impeded evidence transfer to SDNY -- a practical consequence of the fractured recusal architecture.
+
+### 3.7 ODAG Coordination -- [EFTA00080472](https://www.justice.gov/epstein/files/DataSet%209/EFTA00080472.pdf) (DS9)
+
+**[NEW -- DS9 FINDING]:** An ODAG official stated "my only real role related to recusal issues and consequences," confirming that recusal management was a significant DOJ coordination burden through at least July-August 2020 (Maxwell prosecution phase).
 
 ### 3.4 Additional Recusal Context -- [EFTA00028149](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028149.pdf)
 
@@ -210,19 +233,36 @@ The FBI death investigation was opened under case number **90A-NY-3151227**, cla
 **Suicide Watch Concerns ([EFTA00035544](https://www.justice.gov/epstein/files/DataSet%208/EFTA00035544.pdf)):**
 Internal MCC emails from July 24, 2019 reveal staff discussion about Epstein being allowed to attend legal visits in regular clothes while on suicide watch, and debate about whether he truly needed to be on watch. One email notes "the huge scar on Epstein's neck" and "a ton of ambiguity surrounding the incident."
 
-### 5.4 The "Perfect Storm of Screw-ups"
+### 5.4 The OIG Report -- PUBLISHED JUNE 2023 (CORRECTION)
+
+**[EFTA00039025](https://www.justice.gov/epstein/files/DataSet%209/EFTA00039025.pdf) (DS9): Complete DOJ OIG Report, Case #23-085**
+
+**[CORRECTION]:** The original version of this report stated that "neither the FBI nor the OIG ever issued a public final report on Epstein's death." This was based on the Tucker Carlson segment from January 2023. However, the DOJ OIG published its report in June 2023 -- approximately five months after the Carlson segment. The complete report (125+ pages) was located in DS9.
+
+Key findings from the OIG report:
+- Epstein's death was ruled suicide by the Medical Examiner, with injuries "consistent with suicide by hanging" and "no evidence of defensive wounds"
+- Available video from one functioning camera showed NO ONE entering Epstein's tier between 10:40 PM on August 9 and 6:30 AM on August 10
+- DVR System #2 failed on July 29, 2019 (discovered August 8) -- the L Tier camera was live-streaming but NOT recording
+- Guards Noel and Thomas falsified count slips and round sheets; neither conducted any rounds or counts during their overnight shift
+- Thomas admitted he was "dozing off from here and there"
+- Noel heard Thomas say "Breathe, Epstein, breathe" and "We're going to be in so much [trouble]" upon discovering Epstein
+- A sign was posted in the SHU: "MANDATORY ROUNDS MUST BE CONDUCTED EVERY 30 MINUTES ON EPSTEIN #76318-054 AS PER GOD!!!!"
+- Epstein's cellmate was transferred out on August 9 with no replacement assigned, despite an explicit written requirement for a cellmate
+- Epstein made an unmonitored phone call on an unsecured line on August 9
+- Guards Noel and Thomas were charged November 19, 2019; entered deferred prosecution agreements May 25, 2021
+
+The OIG report was published more than 2.5 years after Barr left office (January 2021), so the criticism that no report was issued DURING Barr's tenure remains valid. The OPR report on the 2006-2008 investigation was completed under Barr (November 2020) -- see below.
+
+**OPR Report -- [EFTA00039867](https://www.justice.gov/epstein/files/DataSet%209/EFTA00039867.pdf) / [EFTA00039868](https://www.justice.gov/epstein/files/DataSet%209/EFTA00039868.pdf) (DS9):**
+The OPR final report on the Acosta/SDFL investigation was transmitted to SDNY on November 12, 2020 and released publicly. OPR concluded: "OPR did not find that Department attorneys engaged in professional misconduct" but "former U.S. Attorney Acosta exercised poor judgment." This was completed under Barr's tenure.
+
+### 5.5 The "Perfect Storm of Screw-ups"
 
 **Tucker Carlson Segment -- January 25, 2023 ([EFTA00035791](https://www.justice.gov/epstein/files/DataSet%208/EFTA00035791.pdf)):**
 
-This document contains a detailed critique of Barr's handling of the death investigation:
+This document contains a critique of Barr's handling. **[NOTE: Carlson's claim that no OIG report had been issued was accurate at the time of broadcast (January 2023) but became outdated when the OIG published its report in June 2023.]**
 
-> "Tucker Carlson: So you would think as the Attorney General his first concern would be finding out what actually happened but instead his first concern was worried that the public might jump to unapproved conclusions about what happened."
-
-> "3.5 years after Jeffrey Epstein died, no one has gotten to the bottom of what happened that day and there has been no accountability for it. The only people ever punished for the grotesque malfeasance surrounding Epstein's death were two low-level guards who fell asleep on duty that night. Both pleaded guilty to falsifying government records. But last year, with no real explanation, an Obama-appointed judge dropped all charges against both of them."
-
-> "Not the FBI nor the Justice Department's Office of Inspector General has ever issued a report, explaining how Jeffrey Epstein died... not a word."
-
-Carlson also raised questions about:
+Carlson raised questions about:
 - Whether cells on Epstein's tier were locked the entire night
 - Who moved Epstein's body
 - Who re-dressed Epstein's corpse and intubated it
@@ -278,7 +318,7 @@ William Barr's involvement in the Epstein matter presents **multiple layers of c
 | **Subject of NTOC abuse allegation** | A named tipster alleged Barr was "present during abuses" at Epstein's residence |
 | **Alleged encounter with victim** | Barr allegedly met a victim at a "model event" at Epstein's and expressed interest in seeing her again |
 | **Oversaw death investigation** | Despite these conflicts, Barr personally oversaw the death investigation (90A-NY-3151227) |
-| **No final report issued** | Neither the FBI nor OIG ever issued a final report on Epstein's death under Barr's tenure |
+| **No final report during Barr's tenure** | The OIG published its report in June 2023 ([EFTA00039025](https://www.justice.gov/epstein/files/DataSet%209/EFTA00039025.pdf)), more than 2 years after Barr left office. No report was issued while Barr served as AG. |
 
 ### 8.1 What Barr Recused From vs. What He Didn't
 
@@ -302,9 +342,9 @@ William Barr's involvement in the Epstein matter presents **multiple layers of c
 
 4. **Dalton School records**: The grand jury subpoena to Dalton School was met with a response that records "could not be located." Whether subsequent attempts were made to obtain these records is not documented.
 
-5. **Death investigation final report**: As noted by Tucker Carlson in January 2023 ([EFTA00035791](https://www.justice.gov/epstein/files/DataSet%208/EFTA00035791.pdf)), neither the FBI nor the OIG ever issued a public final report on Epstein's death, despite Barr's repeated promises of accountability and transparency.
+5. **Death investigation final report**: ~~As noted by Tucker Carlson in January 2023, neither the FBI nor the OIG ever issued a public final report on Epstein's death.~~ **[CORRECTED]:** The DOJ OIG published its report in June 2023 ([EFTA00039025](https://www.justice.gov/epstein/files/DataSet%209/EFTA00039025.pdf), 125+ pages). However, this was published more than 2.5 years after Barr left office. No report was issued during Barr's tenure. The OIG report confirmed suicide as cause of death, documented video showing no entry to Epstein's tier between 10:40 PM and 6:30 AM, and detailed catastrophic institutional failures.
 
-6. **Video evidence**: The SITREP ([EFTA00147294](https://www.justice.gov/epstein/files/DataSet%209/EFTA00147294.pdf)) confirmed that some video of the hallway leading to Epstein's cell "does still exist on the system" -- but the final disposition and analysis of this video has never been publicly documented.
+6. **Video evidence**: The SITREP ([EFTA00147294](https://www.justice.gov/epstein/files/DataSet%209/EFTA00147294.pdf)) confirmed that some video of the hallway leading to Epstein's cell "does still exist on the system." **[UPDATE]:** The OIG report ([EFTA00039025](https://www.justice.gov/epstein/files/DataSet%209/EFTA00039025.pdf)) analyzed this video and determined no one entered Epstein's tier between 10:40 PM and 6:30 AM. However, DVR System #2 had failed on July 29, meaning one camera was live-streaming but not recording.
 
 7. **The unmonitored phone call**: Epstein made a 20-minute call on an "unsecured and unmonitored line" to Karyna Shuliak on the evening before his death. The contents of this call have not been disclosed.
 
@@ -351,6 +391,29 @@ William Barr's involvement in the Epstein matter presents **multiple layers of c
 
 ---
 
+## SECTION 11: "EVAN BARR" -- NAME DISAMBIGUATION (DS9/DS11 FINDING)
+
+**[NEW -- DS9/DS11 FINDING]:** The full-corpus revisit revealed a previously unidentified individual named **Evan T. Barr**, a partner at Fried Frank Harris Shriver & Jacobson and former federal prosecutor in New York, who had a direct professional relationship with Epstein. This is a DIFFERENT person from William Barr (AG).
+
+**Key evidence:**
+- [EFTA00432333](https://www.justice.gov/epstein/files/DataSet%209/EFTA00432333.pdf) (DS9): Epstein to Groff: "Reach out to Evan Barr thurs good or fri breakfast" (June 14, 2011)
+- [EFTA00432384](https://www.justice.gov/epstein/files/DataSet%209/EFTA00432384.pdf) (DS9): Groff to Evan Barr: "Jeffrey is in NY and wondering if you might have time to come see him this Thursday..or possibly breakfast this Friday?"
+- [EFTA00432254](https://www.justice.gov/epstein/files/DataSet%209/EFTA00432254.pdf) (DS9): Groff to Epstein: "YOU are to call Evan at his office 3:45-4:00 today" (June 20, 2011)
+- [EFTA00304706](https://www.justice.gov/epstein/files/DataSet%209/EFTA00304706.pdf) (DS9): Calendar entry: "4:00-6:00 Appt w/Evan Barr and Darren" on the SAME DAY as "7:30 DINNER WITH BILL GATES AND BORIS NIKOLIC" and "Peter Mandelson arrives today and will stay at the house"
+- [EFTA02348373](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02348373.pdf) (DS11): Ruemmler to Epstein (January 24, 2015): "Ask him about Evan Barr" in response to Epstein saying "your boy comin to breakfast"
+- [EFTA00077287](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077287.pdf) (DS9): "The Prince and the Proffer" article by Evan T. Barr in the New York Law Journal (May 6, 2020), analyzing SDNY's public statements about Prince Andrew's non-cooperation. Disclosure: "He worked on a matter for Epstein years ago while employed at another law firm."
+- [EFTA00078332](https://www.justice.gov/epstein/files/DataSet%209/EFTA00078332.pdf) (DS9): SDNY U.S. Attorney Geoffrey Berman circulated quotes from the Evan Barr article internally
+
+At least four distinct "Barr" individuals appear in the Epstein files:
+1. **William P. Barr**: Attorney General (subject of this report)
+2. **Evan T. Barr**: Fried Frank partner, former federal prosecutor, direct attorney-client relationship with Epstein (2011-2015+)
+3. **Danielle Barr**: Director at The Rug Company, sold rugs to Epstein (2012-2013)
+4. **Philippe Barr**: Paris social contact who recommended nightclubs to Epstein (2011)
+
+The Evan Barr finding is relevant because it adds another attorney with DOJ experience to Epstein's network and future researchers should distinguish the two Barrs.
+
+---
+
 ## CONCLUSION
 
 The Epstein FBI files reveal that William Barr occupied a uniquely conflicted position in the Epstein matter. He was simultaneously:
@@ -359,12 +422,46 @@ The Epstein FBI files reveal that William Barr occupied a uniquely conflicted po
 2. **The Attorney General** with direct oversight over the prosecution, the Bureau of Prisons where Epstein was held, and the death investigation
 3. **A person with pre-existing personal and professional connections** to Epstein through his father's hiring of Epstein at Dalton and his former law firm's representation of Epstein
 
-Despite these conflicts, Barr chose to recuse only from the narrow retrospective review of the 2008 Florida deal, maintaining full authority over all other Epstein-related matters. Under his oversight, Epstein died in federal custody under circumstances that have never been fully explained. No final investigative report on Epstein's death was ever published by either the FBI or the Office of Inspector General. The two guards who falsified records had their charges dropped. The NTOC tip naming Barr appears to have generated no documented follow-up investigation.
+Despite these conflicts, Barr chose to recuse only from the narrow retrospective review of the 2008 Florida deal, maintaining full authority over all other Epstein-related matters. Under his oversight, Epstein died in federal custody under circumstances documented in the June 2023 OIG report ([EFTA00039025](https://www.justice.gov/epstein/files/DataSet%209/EFTA00039025.pdf)) as resulting from catastrophic institutional failures including guard record falsification, DVR system failure, cellmate removal, and an unmonitored phone call. No investigative report on Epstein's death was published during Barr's tenure (the OIG report came more than 2.5 years after he left office). The two guards who falsified records had their charges dropped. The NTOC tip naming Barr appears to have generated no documented follow-up investigation. The decision not to recuse SDNY from the death investigation was made at the IG/ODAG level on August 12, 2019, without consulting the Attorney General's office directly ([EFTA00078028](https://www.justice.gov/epstein/files/DataSet%209/EFTA00078028.pdf)).
 
 The Prominent Names briefing's inclusion of the Barr allegation alongside other named individuals (Trump, Weinstein, Clinton, Prince Andrew, Dershowitz, Lutnick, Dubin, Staley, Black, Wexner) demonstrates that the FBI considered the tip credible enough to include in a formal internal summary document. The fact that this allegation existed while Barr exercised authority over the Epstein investigation represents one of the most significant unresolved conflicts of interest in the entire case.
 
 ---
 
-*Investigation compiled from: primary document text database, OCR text extraction database, and image catalog database*
-*Total documents analyzed: 55+ containing direct Barr/AG references in Epstein context*
-*Date of compilation: February 6, 2026*
+### Documents Added by DS9/DS11 Revisit
+
+| EFTA Number | Type | Key Content |
+|---|---|---|
+| **[EFTA00039025](https://www.justice.gov/epstein/files/DataSet%209/EFTA00039025.pdf)** | OIG Report (June 2023) | Complete 125+ page investigation of Epstein's death at MCC -- suicide confirmed, video analysis, guard falsification, DVR failure |
+| **[EFTA00039867](https://www.justice.gov/epstein/files/DataSet%209/EFTA00039867.pdf)** | OPR Report transmittal | OPR final report on Acosta/SDFL transmitted Nov 2020 (under Barr's tenure) |
+| **[EFTA00039868](https://www.justice.gov/epstein/files/DataSet%209/EFTA00039868.pdf)** | OPR press release | "Acosta exercised poor judgment" but no professional misconduct found |
+| **[EFTA00078028](https://www.justice.gov/epstein/files/DataSet%209/EFTA00078028.pdf)** | SDNY internal email | Death investigation recusal deliberation -- IG/ODAG cleared SDNY without consulting AG's office |
+| **[EFTA00074673](https://www.justice.gov/epstein/files/DataSet%209/EFTA00074673.pdf)** | SDFL internal email | SDFL recusal evidence transfer obstacles (April 2019) |
+| **[EFTA00080472](https://www.justice.gov/epstein/files/DataSet%209/EFTA00080472.pdf)** | ODAG-SDNY email | ODAG coordination on recusal and document transfer |
+| **[EFTA00164939](https://www.justice.gov/epstein/files/DataSet%209/EFTA00164939.pdf)** | FBI Prominent Names | DS9 copy of briefing page (5th known version) |
+| **[EFTA00165290](https://www.justice.gov/epstein/files/DataSet%209/EFTA00165290.pdf)** | DOJ internal email | Full text of Barr's official statement on Epstein death |
+| **[EFTA00161043](https://www.justice.gov/epstein/files/DataSet%209/EFTA00161043.pdf)** | FBI Director's Brief | FBI internal distribution of Barr's "appalled" statement |
+| **[EFTA00067343](https://www.justice.gov/epstein/files/DataSet%209/EFTA00067343.pdf)** | K&E 10-page rebuttal | Aggressive NPA defense strategy (same firm Barr joined 2009) |
+| **[EFTA00067353](https://www.justice.gov/epstein/files/DataSet%209/EFTA00067353.pdf)** | K&E misconduct summary | K&E accused prosecutors of fabricating victim counts |
+| **[EFTA00077287](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077287.pdf)** | Evan Barr article | "The Prince and the Proffer" (NYLJ May 2020) -- disclosed Epstein representation |
+| **[EFTA00304706](https://www.justice.gov/epstein/files/DataSet%209/EFTA00304706.pdf)** | Epstein calendar | Evan Barr + Darren Indyke same day as Gates/Mandelson |
+| **[EFTA02348373](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02348373.pdf)** | Ruemmler email | "Ask him about Evan Barr" (January 2015) |
+
+---
+
+## REVISIT INTEGRATION (2026-02-12)
+
+**Classification: MODERATE**
+
+Full-corpus revisit against DS9 and DS11 integrated above. Key changes:
+
+1. **OIG Report Correction:** The OIG DID publish its report in June 2023 ([EFTA00039025](https://www.justice.gov/epstein/files/DataSet%209/EFTA00039025.pdf)), correcting this report's prior statement. The report confirmed suicide, documented video evidence, and detailed institutional failures. Published 2.5+ years after Barr left office.
+2. **Recusal Architecture Nuanced:** The non-recusal from the death investigation was decided at IG/ODAG level on August 12, 2019 without consulting the AG's office directly ([EFTA00078028](https://www.justice.gov/epstein/files/DataSet%209/EFTA00078028.pdf)).
+3. **Evan Barr Disambiguation:** A distinct individual (Fried Frank partner, former federal prosecutor) had a direct attorney-client relationship with Epstein (2011-2015+). NOT William Barr (AG).
+4. **K&E Documents Expanded:** DS9 contains the most extensive K&E defense filings from the NPA negotiation period, including 10-page rebuttal and prosecutorial misconduct allegations.
+5. **OPR Report Confirmed:** Completed under Barr's tenure (November 2020), finding Acosta exercised "poor judgment" but no professional misconduct.
+6. **Prominent Names -- 5th Copy:** DS9 version ([EFTA00164939](https://www.justice.gov/epstein/files/DataSet%209/EFTA00164939.pdf)) confirms the same Barr allegations in a different document package.
+
+*Investigation compiled from: primary document text database, OCR text extraction database, image catalog database, and full_text_corpus.db (DS9 + DS11)*
+*Total documents analyzed: 85+ containing direct Barr/AG references in Epstein context*
+*Date of compilation: February 6, 2026 | Revisit integrated: February 12, 2026*

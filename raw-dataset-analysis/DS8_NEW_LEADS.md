@@ -6,6 +6,8 @@
 **Total DS8 Records:** 136,255 redactions across 6,512 unique documents
 **Records with Hidden Text (>15 chars):** 39,999 recovered text fragments
 
+**Data Source Note:** Per REDACTION_TEXT_LAYER_ANALYSIS, the "hidden text" in DS8 includes garbled OCR from scanned documents. However, DS8 has a higher proportion of genuine digital documents (emails) than DS10, so the OCR artifact rate is lower and more content is reliably extracted. The identified content has been verified against independent sources in subsequent investigations.
+
 ---
 
 ## TABLE OF CONTENTS
@@ -61,7 +63,7 @@
 The Maxwell prosecution memo reveals the identity of the co-conspirator subject:
 > "We are in plea negotiations with counsel for [redacted], another Epstein co-conspirator, who scheduled hundreds of sexual massages with minors for Epstein but was also a victim of his sexual abuse, may plead to an obstruction of justice-related count."
 
-**INVESTIGATIVE NOTE:** This individual "scheduled hundreds of sexual massages with minors" and was simultaneously a victim. The Section 1512 charge (obstruction) suggests witness tampering or evidence destruction. The involvement of Susan Necheles (who later represented Maxwell) as defense counsel for this person is notable.
+The individual who "scheduled hundreds of sexual massages with minors" and was simultaneously a victim has been likely identified as Sarah Kellen (later Kellen Vickers), based on plea draft language and findings in subsequent investigations. Kellen Vickers plea drafts found in [EFTA00089268](https://www.justice.gov/epstein/files/DataSet%209/EFTA00089268.pdf) reference "hundreds of appointments," "dozens of minors," and "2-3/day." The Section 1512 charge (obstruction) suggests witness tampering or evidence destruction. The involvement of Susan Necheles (who later represented Maxwell at trial) as defense counsel for this individual is notable.
 
 ---
 
@@ -193,7 +195,7 @@ parratts@sec.gov, sollazzor@sec.gov
 > "Records obtained by the Government from Institution-1 appear to show that just two days later, on or about November 30, 2018, the defendant wired $100,000 from a trust account he controlled to an individual named as a possible co-conspirator in the NPA."
 > "The same records appear to show that just three days after that, on or about December 3, 2018, the defendant wired $250,000 from the same trust account to another [cut off]"
 
-**INVESTIGATIVE NOTE:** $350,000 in wire transfers to possible NPA co-conspirators within days of the NPA/conviction events. This appears to be evidence of witness tampering or co-conspirator payments.
+Subsequent investigation identified the $100,000 recipient: the wire went to Aviloop LLC, a company belonging to Nadia Marcinkova ([EFTA00020685](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020685.pdf)), just 2 days after the Miami Herald "Perversion of Justice" series began publishing. The $250,000 wire to a second individual from the same Butterfly Trust account remains redacted. These payments have been characterized by prosecutors as potential witness tampering.
 
 ### C. Financial Exhibits ([EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf))
 - **Page 3:** "4/20/2017 -- Southern Trust Company, Inc. -- Valar Globaal Fund III LP -- $3,000,000 -- DB-SDNY-0006240"
@@ -474,7 +476,7 @@ Key findings from recovered text:
 - **Page 22:** "Epstein's lawyers were discussing with the prosecutors a disposition that would make it difficult for a judge to know what was really happening"
 - **Page 22:** "Epstein and government lawyers were using private, home e-mail addresses to conduct some of their discussions -- and noted that no emails sent to or from any home e-mail addresses of prosecutors has ever been produced"
 
-**INVESTIGATIVE NOTE:** The use of personal email by prosecutors to communicate with Epstein's defense team about the NPA is a significant finding regarding potential misconduct.
+**NOTE:** This allegation about personal email use comes from the CVRA brief (a victim attorney filing), not from independent DOJ records. It was alleged but has not been confirmed or denied by any other document in the corpus.
 
 ---
 
@@ -500,7 +502,7 @@ Key findings from recovered text:
 
 ## 12. CAMBRIDGE ANALYTICA / NIGEL OAKES CONNECTION
 
-### [EFTA00037679](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037679.pdf) -- CRITICAL NEW LEAD
+### [EFTA00037679](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037679.pdf) -- UNVERIFIED TIP
 
 **Subject Line:** "FW: Cambridge Analytica / Trump / Royal Family / Epstein/Maxwell"
 
@@ -508,14 +510,7 @@ Key findings from recovered text:
 > "certain whether Nigel Oakes is on the Lolita Express flight log"
 > "stick together and Nigel Oakes could easily know Jeffrey Epstein [through] business"
 
-**INVESTIGATIVE NOTE:** Nigel Oakes is the founder of SCL Group, the parent company of Cambridge Analytica. This document suggests an investigative thread connecting:
-- Cambridge Analytica
-- Nigel Oakes personally
-- The Trump campaign
-- The British Royal Family
-- Epstein/Maxwell network
-
-The reference to checking "Lolita Express flight logs" for Oakes suggests this was an active investigative lead. The SCL Group had extensive ties to British military intelligence and political operations worldwide.
+**NOTE:** Nigel Oakes is the founder of SCL Group, the parent company of Cambridge Analytica (Alexander Nix ran Cambridge Analytica itself, the SCL subsidiary). This document is a forwarded FBI tip/email, not an established investigative finding. Corpus-wide search for "Oakes" returns primarily this document and OCR noise, with no independent corroboration of an Oakes-Epstein connection. The reference to checking "Lolita Express flight logs" for Oakes suggests someone submitted this as a lead; there is no evidence the lead was confirmed. The SCL Group had ties to British military intelligence and political operations, but no documents in the corpus establish a substantive Oakes-Epstein link.
 
 ---
 
@@ -655,6 +650,21 @@ Multiple documents ([EFTA00020865](https://www.justice.gov/epstein/files/DataSet
 10. **Epstein Defense Bad Faith Evidence:** 24-page letter (Feb 2007) and 23-page letter (July 2007) containing false statements about Epstein's knowledge of victims' ages.
 
 ---
+
+### Lead Pursuit Status (as of 2026-02-12 Revisit)
+
+| Thread | Status |
+|--------|--------|
+| Section 1512 plea negotiations | Fully pursued — co-conspirator likely identified as Sarah Kellen Vickers |
+| Named persons (all) | Fully pursued — dedicated investigation reports for each |
+| Prince Andrew interview thread | Fully pursued — 3 victims + eyewitness + MLA records documented |
+| Financial leads / entity structures | Fully pursued — forensic accounting series ($755M+ total flows) |
+| Angara Trust / Maxwell entities | Fully pursued — complete Maxwell financial picture |
+| Victim information / abuse patterns | Fully pursued — victim census, trafficking routes documented |
+| Evidence / device inventory | Fully pursued — 85 GB responsive, CSAM found 2023 |
+| MCC detention / DVR failures | Fully pursued — complete DVR timeline, OIG report located |
+| NPA / CVRA legal threads | Fully pursued — OPR Executive Summary found, 93 victims confirmed |
+| Cambridge Analytica / Nigel Oakes | Unverified tip — no independent corroboration found |
 
 *Report compiled from 39,999 recovered text fragments across 6,512 unique documents in Dataset 8.*
 *Database: primary document text database*

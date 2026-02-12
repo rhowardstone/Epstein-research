@@ -12,7 +12,7 @@
 
 # EXECUTIVE SUMMARY
 
-This Phase I analysis systematically maps what IS and what IS NOT present across the Epstein investigation file corpus totaling 376,571 distinct EFTA-numbered documents spanning 3.4 million redaction records. The findings are alarming not for what the files contain, but for what they demonstrably omit.
+This Phase I analysis systematically maps what IS and what IS NOT present across the Epstein investigation file corpus totaling 376,571 distinct EFTA-numbered documents spanning 3.4 million redaction records. **[Database scope note: This report was generated against the v2 redaction database (1.8M records), OCR database (38,955 records), and knowledge graph (524 entities). The subsequent completion of full_text_corpus.db (1,380,937 docs, 2,731,796 pages across all 12 datasets) has overturned several "ZERO" findings below; see Revisit Corrections Log at end of report.]**
 
 **Key Finding: Only 13.8% of the EFTA number space is populated.** The range spans [EFTA00000001](https://www.justice.gov/epstein/files/DataSet%201/EFTA00000001.pdf) to [EFTA02731783](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731783.pdf), yet only 376,571 distinct documents exist. This means 2,355,212 document slots -- 86.2% of the numbering range -- contain nothing. The single largest gap spans 1,223,759 consecutive missing EFTA numbers (from [EFTA00039023](https://www.justice.gov/epstein/files/DataSet%208/EFTA00039023.pdf) to [EFTA01262782](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01262782.pdf)).
 
@@ -22,7 +22,7 @@ This Phase I analysis systematically maps what IS and what IS NOT present across
 1. ZERO FD-302 interview reports found in the text corpus (only 10-12 in OCR, compared to the hundreds expected for a case of this magnitude)
 2. ZERO FinCEN investigation documentation despite $755M+ in traced financial flows
 3. ZERO Deripaska/Russian oligarch documentation despite documented Mandelson-Epstein-"Oleg" Moscow connection
-4. ZERO Mega Group, Carbyne, Unit 8200, Shin Bet, or GCHQ references despite extensive intelligence nexus indicators
+4. ~~ZERO Mega Group, Carbyne, Unit 8200, Shin Bet, or GCHQ references~~ **[OVERTURNED]** Full corpus: Carbyne 50+ docs, Reporty 324 docs, Unit 8200 11 docs, Shin Bet 23 docs, Mega Group 4 docs
 5. Only 2 immunity agreement references in the entire 3.4M-record corpus
 6. SECRET//NOFORN classified material confirmed to exist ([EFTA02730468](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02730468.pdf)) but systematically excluded from the released files
 7. Only 10 FD-302 FBI interview reports identifiable across 38,955 OCR records -- for a 30-year investigation with 200+ victims
@@ -52,7 +52,7 @@ From 107,422 extracted entities across the v2 database:
 
 ## A.2 Knowledge Graph vs. Extracted Entities
 
-The knowledge graph contains only 524 entities (489 persons, 12 shell companies, 9 organizations, 7 properties, 4 aircraft, 3 locations) with 2,096 relationships. For a 30-year criminal enterprise spanning multiple countries, this is extraordinarily thin.
+The knowledge graph contains only 524 entities (489 persons, 12 shell companies, 9 organizations, 7 properties, 4 aircraft, 3 locations) with 2,096 relationships. For a 30-year criminal enterprise spanning multiple countries, this is extraordinarily thin. **[Note: persons_registry.json has since expanded to 1,536 persons, 203 with aliases, 237 with descriptions. Many of the "unmapped" high-frequency names below have been identified through subsequent investigations.]**
 
 **High-Frequency Names in Redactions NOT Adequately Mapped in Knowledge Graph:**
 
@@ -175,7 +175,7 @@ The knowledge graph contains only 524 entities (489 persons, 12 shell companies,
 | April 2019 | 3 | 25 |
 | May 2019 | 4 | 60 |
 
-**Assessment:** The blackout period has ZERO full-month-name references in recovered redaction text. This is the period when:
+**Assessment:** The blackout period has ZERO full-month-name references in recovered redaction text. **[CORRECTION: While technically accurate for the v2 redaction database, the full corpus (DS9) shows continuous daily email activity from jeevacation@gmail.com throughout Nov 2018-Feb 2019, including correspondence with Summers, Barak, Ruemmler, Church, Bannon proxy contacts, and Mitchell. The "blackout" was an artifact of the DS11 PLIST extraction methodology, not actual email silence. The encrypted communications hypothesis built on this gap is therefore unfounded.]** This is the period when:
 - The Miami Herald published its "Perversion of Justice" series (November 28, 2018)
 - Epstein wired $100,000 to a co-conspirator (November 30, 2018 -- 2 days after Herald publication)
 - Epstein wired $250,000 to another co-conspirator (December 2018)
@@ -196,7 +196,7 @@ For a case involving 200+ victims, $755M+ in traced flows, 70+ seized devices, a
 | Document Type | Found (distinct EFTAs) | Expected for Case of This Scale | Gap |
 |--------------|----------------------|-------------------------------|-----|
 | Grand Jury Transcripts | ~408 (OCR mentions) | 400+ | Roughly adequate (but many are ABOUT grand juries, not transcripts themselves) |
-| FD-302 Interview Reports | **10** (OCR) | **500-1,000+** | **MASSIVE GAP: ~99% missing** |
+| FD-302 Interview Reports | **10** (OCR) | **500-1,000+** | **Significant gap** (DS9 contains substantially more FD-302s including FBI CID summary EFTA00038617 and Visoski proffer EFTA00159712, but the count remains low for 200+ victims) |
 | Search Warrants | 303 (OCR) | 50-100 | Adequate on paper |
 | Subpoenas | 661 (OCR) | 200-500 | Adequate on paper |
 | Proffer Sessions | 46 (v2) / 258 (OCR) | 50-100 | Roughly adequate |
@@ -507,14 +507,14 @@ Regardless of cause, 1.2 million potential document numbers with no content is t
 | foreign government | 0 | 23 | Present in FOIA exemptions |
 | foreign agent / FARA | 0 | 24 | Minimal |
 | espionage | 0 | 3 | Near-absent |
-| Mega Group | 0 | 0 | **COMPLETELY ABSENT** |
-| Carbyne | 0 | 0 | **COMPLETELY ABSENT** |
-| Unit 8200 | 0 | 0 | **COMPLETELY ABSENT** |
-| Shin Bet | 0 | 0 | **COMPLETELY ABSENT** |
-| GCHQ | 0 | 0 | **COMPLETELY ABSENT** |
-| Five Eyes | 0 | 0 | **COMPLETELY ABSENT** |
+| Mega Group | 0 | 0 | **[OVERTURNED: 4 docs in full corpus]** |
+| Carbyne | 0 | 0 | **[OVERTURNED: 50+ docs in full corpus]** |
+| Unit 8200 | 0 | 0 | **[OVERTURNED: 11 docs in full corpus]** |
+| Shin Bet | 0 | 0 | **[OVERTURNED: 23 docs in full corpus]** |
+| GCHQ | 0 | 0 | COMPLETELY ABSENT (confirmed in full corpus) |
+| Five Eyes | 0 | 0 | COMPLETELY ABSENT (confirmed in full corpus) |
 
-**Critical Assessment:** Despite documented Epstein connections to Ehud Barak (former Israeli PM/Defense Minister), the presence of SECRET//NOFORN classified material, and the FBI's own FOIA declaration referencing "confidential relationship with a foreign government" exemptions, there is ZERO mention of Mega Group, Carbyne, Unit 8200, Shin Bet, GCHQ, or Five Eyes intelligence cooperation in the entire corpus. The intelligence dimension has been systematically excised.
+**Critical Assessment [REVISED]:** The original v2/OCR databases did not cover the full-text email content in DS9. The full corpus reveals Carbyne 50+ docs, Reporty 324 docs, Unit 8200 11 docs, Shin Bet 23 docs, and Mega Group 4 docs. A complete Carbyne/Reporty investment structure is documented ($500K invested by Epstein, Barak $1.5M carry, $50M valuation). Additionally, FBI CHS FD-1023 ([EFTA00090314](https://www.justice.gov/epstein/files/DataSet%209/EFTA00090314.pdf)) contains an unverified confidential source claim that Epstein "belonged to both U.S. and allied intelligence services." The intelligence material was NOT excised -- it appears in DS9 email corpus. The gap was in the extraction methodology, not the release. However, some excision may still apply to classified material (SECRET//NOFORN), and GCHQ/Five Eyes remain absent.
 
 ## F.7 Encrypted Communications
 
@@ -530,7 +530,7 @@ Regardless of cause, 1.2 million potential document numbers with no content is t
 | burner phone | 0 | 3 | Referenced |
 | prepaid phone | 4 | 36 | Referenced |
 
-**Assessment:** The files acknowledge the existence of encrypted communications platforms but contain no substantive analysis of their content. For the 99-day blackout period when email communication ceased but financial activity continued, the encrypted communication channels represent the most likely method Epstein used. The absence of any decryption results, lawful intercept records, or content analysis of these platforms is a significant investigative gap.
+**Assessment:** The files acknowledge the existence of encrypted communications platforms but contain no substantive analysis of their content. **[CORRECTION: The "99-day blackout" (Nov 2018 - Feb 2019) has been disproved by DS9, which shows continuous daily jeevacation@gmail.com email activity throughout this period. The gap was a DS11 PLIST extraction artifact, not actual email silence. The encrypted communications hypothesis built on this blackout is therefore unfounded, though the absence of decryption results and lawful intercept records remains a valid gap.]**
 
 ---
 
@@ -845,17 +845,17 @@ survivor: v2:39 | ocr:125
 | Ghislaine Maxwell | 228 | 228+ | Extensive | Co-defendant |
 | Leon Black | 466 (combined variants) | 300+ | 100+ | Heavily documented |
 | Bill Clinton | 0 extracted | 12 | Moderate | **Underrepresented** |
-| Bill Gates | 0 extracted | 1 | Minimal | **SEVERELY underrepresented** |
+| Bill Gates | 0 extracted | 1 | Minimal | **[EXPANDED in full corpus]** Gates references across multiple datasets including "Bill Gates will be here on monday night" (EFTA02532935), Gates Foundation "due diligence" (EFTA02546928), bgC3 negotiation (EFTA02730265) |
 | Prince Andrew | 28 | 34 | Moderate | Documented |
 | Donald Trump | 54 | 54 | Moderate | Documented |
 | Dershowitz | 9 | 17 | Present | Documented |
-| Ehud Barak | 39 | 56 | Present | Documented |
+| Ehud Barak | 39 | 56 | Present | **[EXPANDED: 3,756 docs in full corpus]** Direct emails 2013-2016, apartment at 301 E 66th, week-long island stay, Bannon meeting brokered |
 | Summers | 34 | 41 | Present | Documented |
 | Les Wexner | 5 | 5 | 20 | **Underrepresented** |
 | Brunel | 5 | 22 | Present | Documented |
 | Pritzker | 7 | 8 | Minimal | **Underrepresented** |
 | Richardson | 17 | 41 | Present | Documented |
-| Thiel | 1 | 4 | Minimal | **SEVERELY underrepresented** |
+| Thiel | 1 | 4 | Minimal | **[EXPANDED in full corpus]** Valar Fund investments totaling $28.8M documented, lunch with Bill Burns (future CIA Director) arranged by Bob Kerrey |
 | Reid Hoffman | 7 | 10 | Minimal | **Underrepresented** |
 | Noam Chomsky | 3 | 2 | Minimal | Minimal |
 | Marvin Minsky | 13 | 10 | Present | Documented (victim journal) |
@@ -880,3 +880,23 @@ The gap analysis is inherently limited by what can be measured. The absence of e
 *Query Count: 200+*
 *Databases: 4*
 *Total Records Analyzed: 3,516,628*
+
+---
+
+## REVISIT CORRECTIONS LOG (February 12, 2026)
+
+Corrections integrated from revisit against full_text_corpus.db (1,380,937 docs, 2,731,796 pages, all 12 datasets):
+
+1. **Executive summary (line 15):** Document count scope note added. The original 376,571 figure was from the v2 redaction analysis database only. Full corpus contains 1,380,937 documents. DS9 alone has 531,284.
+2. **Intelligence "ZERO" findings (Section F.6, lines 510-517):** Overturned. Carbyne 50+, Reporty 324, Unit 8200 11, Shin Bet 23, Mega Group 4 documents in full corpus. Complete Carbyne investment structure found. FBI CHS FD-1023 contains intelligence service claim. The intelligence material was in DS9 all along -- the gap was in extraction methodology, not the release.
+3. **"Systematically excised" conclusion (line 517):** Partially overturned and revised. GCHQ and Five Eyes remain absent.
+4. **99-day blackout (Section B.2, lines 164-184):** Disproved. DS9 shows continuous daily email activity throughout Nov 2018-Feb 2019. The gap was a DS11 PLIST extraction artifact. The encrypted communications hypothesis built on the blackout is unfounded.
+5. **Knowledge graph scope (line 55):** Note added that persons_registry.json has expanded to 1,536 persons with 203 aliases.
+6. **Appendix I -- Bill Gates (line 848):** Expanded in full corpus with multiple dataset references.
+7. **Appendix I -- Ehud Barak (line 852):** Expanded from 56 v2 hits to 3,756 documents in full corpus.
+8. **Appendix I -- Thiel (line 858):** Expanded with $28.8M Valar Fund investments documented.
+9. **FD-302 gap (line 199):** Revised from "99% missing" to "significant gap" -- DS9 contains substantially more FD-302s, though count remains low for 200+ victims.
+10. **Encrypted communications assessment (Section F.7):** Revised to note blackout disproved.
+11. **Items confirmed:** 1.2M EFTA numbering gap, Bear Stearns near-absence, Wexner period underrepresentation, immunity agreement gap, FinCEN/IRS investigation gaps, sealed/classified document inventory, evidence destruction indicators -- all remain valid.
+
+*Cross-referenced with revisits #48, #52, #54, #55, #56.*

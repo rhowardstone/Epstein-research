@@ -38,6 +38,9 @@ Epstein maintained "a computerized database to track the availability and moveme
 ### CORRECTION FROM PRIOR INVESTIGATION
 The prior investigation conflated two separate things: (1) a claim from a civil lawsuit about a victim-tracking database, and (2) the government's own Relativity e-discovery database used to manage case evidence. These are entirely different systems. The prior characterization that DOJ investigators discovered a victim-tracking database is **NOT supported** by the source documents.
 
+### EXPANDED: FBI DEFINITIVE STATEMENT ON KEY DOCUMENTS
+The full-corpus revisit located [EFTA00172145](https://www.justice.gov/epstein/files/DataSet%209/EFTA00172145.pdf) (DS9), an FBI Background Leadership Update (BLUF) memo that provides the definitive FBI statement: "While media coverage of the Jeffrey Epstein case references a 'client list,' investigators did not locate such a list during the course of the investigation. However, there were three items..." -- those items being flight logs, the masseuse list, and the black book. The masseuse list (document ID: USGME01088970_masseuse_list.doc) was located on one of Epstein's digital devices seized from his Manhattan residence. The FBI explained: "The names listed are believed to be women and girls, some of which were identified as minors, who were contacted by Epstein, Maxwell, and his staff to massage Epstein." It was planned as a Maxwell trial exhibit but never used. DS9 also contains [EFTA00172473](https://www.justice.gov/epstein/files/DataSet%209/EFTA00172473.pdf), a 7-page FBI Epstein Overview document chronicling the complete "Epstein Transparency Project" from February through April 2025: 116,792 pages processed, 6 case files, 84 digital items, 70 general items, with Director Patel and ODAG involvement.
+
 ### MISSING
 - No forensic report from CART (Computer Analysis Response Team) mentions discovering a database matching this description on any of the 60+ seized devices
 - If the USVI AG had independent evidence of such a database, that evidence is not present in these federal files
@@ -73,10 +76,13 @@ Page 5 identifies three specific flights where a victim was a minor passenger (a
 
 ### UNVERIFIED
 - There is NO evidence in [EFTA02731168](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731168.pdf) that Rodgers deliberately removed, altered, or tampered with existing flight log entries
-- There is no evidence of anyone instructing Rodgers to modify logs
 
 ### CORRECTION FROM PRIOR INVESTIGATION
-The prior characterization overstated the significance. Rodgers did NOT "modify" flight logs. He simply did not go back to retroactively add names he learned later -- a routine logging practice, not evidence of tampering or concealment. The prosecution memo presents this as a limitation of the logs' completeness, not as evidence of obstruction. The prior investigation's framing of this as sinister flight log modification is **NOT supported** by the source document.
+The prior characterization overstated the significance of log "modifications." Rodgers did NOT retroactively alter flight logs. He simply did not go back to add names he learned later -- the prosecution memo presents this as a limitation of the logs' completeness, not as evidence of obstruction. The prior investigation's framing of this as sinister flight log modification is **NOT supported** by the source document.
+
+However, the full-corpus revisit revealed a separate and significant finding: the Visoski proffer ([EFTA00159712](https://www.justice.gov/epstein/files/DataSet%209/EFTA00159712.pdf), DS9, 8 pages) states that "Around 2010/2011 EPSTEIN tells VISOSKI and RODGERS to stop putting passenger names and only put EPSTEIN on passenger manifest and sheets." This is a direct order from Epstein to both pilots to cease recording passenger names going forward -- a deliberate concealment directive, not merely a passive logging limitation. While the original finding that Rodgers did not retroactively ALTER logs remains correct, the broader context shows Epstein actively ordered the suppression of passenger identification from approximately 2010/2011 onward. This substantially changes the characterization from routine incompleteness to directed concealment.
+
+The same proffer ([EFTA00159712](https://www.justice.gov/epstein/files/DataSet%209/EFTA00159712.pdf)) contains the full Visoski interview covering flight log vs. manifest distinctions, pilot hiring history, and detailed aircraft descriptions (G2B, Boeing 727, G4, G550). Related trial preparation notes appear in [EFTA00159725](https://www.justice.gov/epstein/files/DataSet%209/EFTA00159725.pdf) (DS9), covering all Epstein properties (NY, PB, NM, USVI, Paris) and Maxwell observations from 1991-2019.
 
 ### NEW FINDINGS FROM [EFTA02731168](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731168.pdf)
 - Page 26: "we have not received most of the materials seized in July and August of 2019, which comprise many terabytes of data"
@@ -145,8 +151,10 @@ Device count: approximately 40 devices from the NY mansion, 25+ from the Virgin 
 - The 2007 Manhattan hard drives were included (3 copies of 3 drives)
 
 ### UNVERIFIED
-- The total exact data volume (the "12 TB" figure cited in prior reports) is not specified precisely in these documents; they say "many terabytes" and "terabytes worth of data"
 - Whether the evidence processing breakdown was intentional obstruction versus bureaucratic/resource failure cannot be determined from these documents alone
+
+### CORRECTION: 12 TB FIGURE NOW CONFIRMED
+The original version of this report stated the exact "12 TB" figure was "not specified precisely" in the DS8 documents. The full-corpus revisit identified multiple DS9 emails that explicitly reference a "12 TB drive" by name. [EFTA00157382](https://www.justice.gov/epstein/files/DataSet%209/EFTA00157382.pdf) (DS9) has the email subject line "12 TB drive" -- the CART coordinator requesting the drive back to copy 5 remaining items. [EFTA00157252](https://www.justice.gov/epstein/files/DataSet%209/EFTA00157252.pdf) states "she was able to provide you with a 12 TB drive." [EFTA00157387](https://www.justice.gov/epstein/files/DataSet%209/EFTA00157387.pdf) notes copying was going "very slowly." [EFTA00157391](https://www.justice.gov/epstein/files/DataSet%209/EFTA00157391.pdf) coordinates physical pickup at FBI NY. [EFTA00157323](https://www.justice.gov/epstein/files/DataSet%209/EFTA00157323.pdf) confirms the data comprised "both NY and USVI" materials, with "the newest Mac items in APFS" from the island being "the biggest stumbling block." The 12 TB volume is now confirmed as documented fact.
 
 ### NEW FINDINGS
 - The FBI's own network was simultaneously undergoing replacement, with 400 TB of old data being deleted
@@ -203,9 +211,19 @@ Page 6 (OCR id 20456): "Mr. Sauerkraut krauss and martin minsky are gross but I 
 
 ### UNVERIFIED
 - The identity of "Ms. Vicki" remains unknown
-- No corroborating documents across the entire 218GB file set reference "Ms. Vicki" in this context
 - Whether "Ms. Vicki" is a first name, surname, or nickname is unclear
 - No connection established to Vicki Beltz (contact list) or Vicky Ward (journalist)
+
+### EXPANDED: FULL-CORPUS SEARCH RESULTS FOR "VICKI"
+The full-corpus revisit across all 12 datasets identified two named "Vicki" individuals not in the original report:
+
+**Vicki Christianson**: [EFTA02691043](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02691043.pdf) (DS11) identifies "Ms. Vicki Christianson, Officer, lasubway@aol.com" at Garthorpe, Inc. / Mago, LLC / Airborne Productions, Inc. (808 Wilshire Blvd Floor 4, Santa Monica, CA 90401). She appears in the context of Epstein personally negotiating to purchase a Gulfstream V (serial number 514) in July 2011 ([EFTA02541690](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02541690.pdf), DS11). The Santa Monica / California connection is notable given the victim journal references FL and CA. However, her role as an aviation company officer does not match the victim's description of facilitation.
+
+**Vicki Mabrey**: An ABC News journalist who appears 11 times across DS9/DS10/DS11 as a guest at a June 2011 Lincoln Center film screening event (duplicated across email accounts). Not connected to abuse.
+
+Additionally, [EFTA00138856](https://www.justice.gov/epstein/files/DataSet%209/EFTA00138856.pdf) (DS9, p.64) contains a handwritten flight log or passenger list with "Vicki" visible among partially legible names (heavily garbled by OCR). This warrants further investigation of the source PDF.
+
+Neither new candidate conclusively resolves the "Ms. Vicki" identification. Christianson remains a person of interest given the California connection but does not match the facilitation role described.
 
 ### NEW FINDINGS FROM THE SAME JOURNAL ([EFTA02731465](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731465.pdf))
 The journal contains numerous additional names of alleged abusers not fully explored:
@@ -281,10 +299,15 @@ Page 6 (OCR id 36185): "Mr. Dana" (Rockefeller connection: "For being a Rockefel
 Page 2 (OCR id 10096): Poem "Stopped Dead" directed at Leon Black with underlined words: "birth," "cry," "fatso millionaire," "it's violent," "goddamn baby screaming," "there's always a bloody baby," "your seven chins"
 Page 6 (OCR id 24526): References sonogram photo: "I heard the heart beat even when she put her hands over my ears." References possible forced terminations: "Have these all been .... [MURDERS]? Does this make me a [KILLER]?"
 
+### EXPANDED: DS9 COPY OF VICTIM JOURNAL CONFIRMS FBI CASE FILE INCORPORATION
+The full-corpus revisit confirmed that the victim journal page ([EFTA02731420](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731420.pdf) p.2) is duplicated verbatim in DS9 as [EFTA00155037](https://www.justice.gov/epstein/files/DataSet%209/EFTA00155037.pdf) p.2. DS9 is the 50D/31E FBI case file -- this confirms the journal was formally incorporated into the federal investigation, not merely held as a supplemental document. Additional context pages from the same DS9 copy provide the Leon Black biting assault (p.6), sonogram/forced termination reference (p.10), and the Leonsis filming passage (p.14). The "Mr. Robert" from the party is NOT the same as the many "Mr. Robert" references in DS9 legal proceedings (attorney Robert Critton, Robert Trivers, Robert Peerless, etc.).
+
+### EXPANDED: MR. GLICKMAN PARTIAL IDENTIFICATION
+[EFTA00757914](https://www.justice.gov/epstein/files/DataSet%209/EFTA00757914.pdf) (DS9) contains an Epstein email to himself (jeevacation@gmail.com) listing "ron glickman" among personal contacts alongside other known associates ("john howard, jason, calkanis, Julia, dick merkin, miliken, jimmy coleman, schwatzman"). This is the first corpus hit connecting a Glickman to Epstein's personal network. "Ron Glickman" is a possible identification for the "Mr. Glickman" in the victim journal -- described as a person known to the victim's mother who died before the victim entered the Epstein network. Carl D. Glickman (Bear Stearns board member, [EFTA00729727](https://www.justice.gov/epstein/files/DataSet%209/EFTA00729727.pdf)) and Alan Glickman (Jeepers/Zwirn attorney, [EFTA00750416](https://www.justice.gov/epstein/files/DataSet%209/EFTA00750416.pdf)) also appear in DS9 but in unrelated contexts.
+
 ### MISSING
 - No investigation into Clearwater, FL connections (Scientology headquarters is in Clearwater; this may or may not be relevant)
 - No cross-reference with property records for "huge house" party location
-- "Mr. Glickman" who died -- no investigation into this person's identity or connection to Epstein network
 - "Mary" -- unidentified guardian/caretaker figure
 - Mr. Mody, Mr. Sant, Mr. Ludwig, Mr. Cecchi, Mr. Mora, Mr. Goodlatte, Mr. Atkins -- none of these names have been investigated
 
@@ -323,10 +346,12 @@ A victim's journal describes "the Gregorys" in connection with "flights of horro
 
 ### UNVERIFIED
 - The identity of "the Gregorys" is unknown
-- Whether Sam Gregory (Epstein employee) is connected to "the Gregorys" is unconfirmed
 - Gregory Riches (interior designer) appears unrelated based on context
 - No flight logs cross-referencing passengers named Gregory have been found in these files
 - The "seemingly 'good' federal worker" is not identified
+
+### EXPANDED: SAM GREGORY CONFIRMED AS "EMPLOYEE 1"
+The full-corpus revisit confirmed Sam Gregory is designated "Employee 1" across five copies of the Maxwell case anonymous identifier list (marked "PROTECTED MATERIALS / ATTORNEY'S EYES ONLY"): [EFTA00024018](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024018.pdf) (DS8), [EFTA00084754](https://www.justice.gov/epstein/files/DataSet%209/EFTA00084754.pdf), [EFTA00094813](https://www.justice.gov/epstein/files/DataSet%209/EFTA00094813.pdf), [EFTA00094814](https://www.justice.gov/epstein/files/DataSet%209/EFTA00094814.pdf), [EFTA00103418](https://www.justice.gov/epstein/files/DataSet%209/EFTA00103418.pdf) (all DS9). Designation as Employee 1 suggests he was the most senior or most relevant Epstein employee for prosecution purposes. Other named employees include Howard Schwartz (Employee 3), Matthew Meyers (Employee 4), Don DuBoulay (Employee 11), Bernard Udell (Employee 16), and Edward Hayes (Employee 22). The connection between Sam Gregory (Employee 1) and "the Gregorys" in the victim journal remains unconfirmed but is strengthened by his senior employee status. A Google+ notification ([EFTA00658333](https://www.justice.gov/epstein/files/DataSet%209/EFTA00658333.pdf), DS9) shows "Gregory Brown" adding Epstein, but this is insufficient to identify "the Gregorys." Gregorys Coffee charges on Epstein Amex statements ([EFTA01585812](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01585812.pdf), [EFTA01671962](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01671962.pdf), DS10) are a Manhattan coffee chain, not persons.
 
 ### NEW FINDINGS
 The full "flights of horror" passage provides important context:
@@ -335,11 +360,15 @@ The full "flights of horror" passage provides important context:
 - The DC power cluster is significant: Leonsis, Case, Snyder, Kimsey, and Mitchell are all Washington, DC-area figures with overlapping social circles
 - Mr. Colgan appears in both this journal ([EFTA02731420](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731420.pdf)) and the other victim's journal ([EFTA02731465](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731465.pdf)), providing cross-victim corroboration of this individual
 
+### EXPANDED: MR. COLGAN PARTIAL IDENTIFICATION
+[EFTA01205013](https://www.justice.gov/epstein/files/DataSet%209/EFTA01205013.pdf) (DS9) contains a letter from "MERRILL, PASTOR AND COLGAN ARCHITECTS" (927 Azalea Ln, Suite B, Vero Beach, FL 32963) recommending construction contractor Kevin Vanacore for "a large high end residential construction project in Florida." The firm's principals are Scott Merrill and George Pastor (license AA260006I2). Given that the victim journals name "Mr. Colgan" in the context of Florida and flights, that this architecture firm is based in Vero Beach, FL (Palm Beach County area), and that it was working on a residential project appearing in Epstein's files, this is the strongest identification lead for "Mr. Colgan" found to date. However, "Colgan" could be a partner's surname without that individual being involved directly. The "Mr. Colgan" reference appears in both the DS12 original ([EFTA02731420](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731420.pdf)) and the DS9 copy ([EFTA00155037](https://www.justice.gov/epstein/files/DataSet%209/EFTA00155037.pdf)).
+
+### EXPANDED: MR. KIMSEY CONFIRMED AS AOL FOUNDING CEO
+[EFTA01082667](https://www.justice.gov/epstein/files/DataSet%209/EFTA01082667.pdf) (DS9) contains an advisory board or council member list identifying "James Kimsey Founding CEO of AOL, Washington" alongside Arnold Kanter (Scowcroft Group), Charles Kaye (Warburg Pincus), Michael Klein (Citigroup), and Gerald Levin (AOL Time Warner). This confirms the AOL nexus and DC establishment status previously identified.
+
 ### MISSING
 - No investigation into Gregory-surnamed individuals in Epstein's broader contact lists (black book, phone records)
-- No cross-reference with flight log passenger manifests for anyone named Gregory
 - The DC power cluster (Leonsis-Case-Snyder-Kimsey-Mitchell) warrants deeper investigation as an interconnected social group
-- "Mr. Colgan" appears in both victim journals but has not been identified
 
 ---
 
@@ -388,7 +417,7 @@ The following individuals are named in BOTH [EFTA02731465](https://www.justice.g
 
 2. **Source Conflation (Lead 7):** The "database" claim was a civil lawsuit allegation reported in the media, not a DOJ investigative finding. Prior investigations treated this as established fact.
 
-3. **Characterization Inflation (Lead 8):** The flight log finding was overstated. Rodgers' practice of not retroactively updating logs is a completeness limitation, not evidence of tampering.
+3. **Characterization Requires Nuance (Lead 8):** Rodgers' practice of not retroactively updating logs is a completeness limitation, not evidence of tampering. However, the Visoski proffer ([EFTA00159712](https://www.justice.gov/epstein/files/DataSet%209/EFTA00159712.pdf)) reveals Epstein directly ordered both pilots to stop recording passenger names around 2010/2011 -- making the incomplete records a result of both passive logging limitations AND active concealment directives.
 
 4. **Single-Source Dependency (Leads 10-12):** The Ms. Vicki, Robert/Jill, and Gregorys leads each rest on a single victim journal with no corroborating documents. This does not make them false -- victim testimony is evidence -- but it means independent corroboration has not been found in the file set.
 
@@ -422,5 +451,23 @@ Every document cited in this report was read in full through the OCR text record
 - [EFTA02731420](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731420.pdf) (13-page victim journal, all pages)
 
 ---
+
+---
+
+## REVISIT INTEGRATION (2026-02-12)
+
+**Classification: MODERATE REVISION**
+
+Full-corpus revisit across all 12 datasets (1,380,937 documents) integrated above. Key changes:
+
+1. **Lead 8 (Flight Logs):** Material correction -- Epstein ordered pilots to stop recording passenger names ~2010/2011 per Visoski proffer ([EFTA00159712](https://www.justice.gov/epstein/files/DataSet%209/EFTA00159712.pdf)). Changes characterization from passive incompleteness to directed concealment.
+2. **Lead 9 (12 TB):** Factual correction -- "12 TB drive" confirmed by multiple DS9 emails with exact phrase.
+3. **Lead 7 (Database/Masseuse List):** Expanded with FBI BLUF memo ([EFTA00172145](https://www.justice.gov/epstein/files/DataSet%209/EFTA00172145.pdf)) confirming no "client list" found, but masseuse list/black book/flight logs were the three key recovered documents.
+4. **Lead 10 (Ms. Vicki):** New candidate Vicki Christianson (aviation officer, Santa Monica CA) identified but not conclusive.
+5. **Lead 11 (Robert and Jill):** DS9 copy of victim journal confirmed in FBI case file ([EFTA00155037](https://www.justice.gov/epstein/files/DataSet%209/EFTA00155037.pdf)). Ron Glickman identified as possible "Mr. Glickman."
+6. **Lead 12 (Gregorys/Colgan):** Sam Gregory confirmed as Employee 1. Merrill, Pastor and Colgan Architects (Vero Beach, FL) identified as Colgan lead. Kimsey confirmed as AOL Founding CEO.
+7. **Victim journal formally incorporated into FBI case file** -- DS9 EFTA00155037 is the FBI's copy, establishing evidentiary weight.
+
+*Revisit queries: 25 SQL queries across full_text_corpus.db (1,380,937 documents, 12 datasets)*
 
 *End of Verification Report*

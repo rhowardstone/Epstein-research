@@ -142,11 +142,22 @@ TEMPORAL CONVERGENCE:
 
 In a 21-day window (March 10-31, 2017), Plan D LLC received $37.5M from two sources: $15M from Haze Trust and $22.5M from BV70 LLC. Both flows were described as relating to "art transactions." Plan D was Epstein's art acquisition vehicle.
 
-**EVIDENCE GAPS:**
-- Identity of the "art transaction" for which the loans were made
-- Whether Plan D used these funds to acquire art for Black, Epstein, or both
+**DS9 PRIMARY SOURCE DOCUMENTS (Revisit, 2026-02-12):**
+
+The following primary-source loan documents were located in DS9, transforming Chain 2 from a summary-level reconstruction into a verified documentary record:
+
+- [EFTA00583036](https://www.justice.gov/epstein/files/DataSet%209/EFTA00583036.pdf) (pp.0-1): **Amendment #1 to Promissory Note**, Plan D, LLC to BV70 LLC. Dated March 31, 2017, principal $22,500,000. BV70 LLC address confirmed: c/o Elysium Management LLC, 445 Park Avenue, Suite 1401. Plan D, LLC address: 6100 Red Hook Quarter, B3, St. Thomas, USVI.
+- [EFTA00585854](https://www.justice.gov/epstein/files/DataSet%209/EFTA00585854.pdf) (pp.0-3): **Demand Promissory Note**, $8,000,000 from Plan D, LLC to BV70 LLC (April 2017). Addresses for notices: BV70 at Elysium Management; Plan D at 6100 Red Hook Quarter.
+- [EFTA00589279](https://www.justice.gov/epstein/files/DataSet%209/EFTA00589279.pdf) (pp.0-3): **Amended and Restated Demand Promissory Note**, $30,500,000. Dated April 14, 2017, combining both loans into a single instrument: "Plan D, LLC... unconditionally promises to pay... BV70 LLC... $30,500,000."
+- [EFTA00583120](https://www.justice.gov/epstein/files/DataSet%209/EFTA00583120.pdf) (pp.0-1): **Personal Guaranty of Jeffrey Epstein** for the BV70-Plan D loan (March 30, 2017). "This is to confirm... the agreement of the undersigned, Jeffrey Epstein, a U.S. Virgin Islands resident... with BV70 LLC." Epstein personally guaranteed the $22.5M loan, waiving presentment and demand of payment.
+- [EFTA00594105](https://www.justice.gov/epstein/files/DataSet%209/EFTA00594105.pdf) (pp.0-1): **Second Personal Guaranty of Jeffrey Epstein** for the $8M BV70-Plan D loan (April 17, 2017). Identical structure to first guaranty. Both guaranties confirm Epstein's personal exposure to Black's money.
+
+These documents establish that the $30.5M in loans were formally documented, that Epstein personally guaranteed repayment, and that both entities' addresses were precisely as described in the Dechert report.
+
+**EVIDENCE GAPS (Updated):**
 - How $36M entered Haze Trust Brokerage on 3/10/2017 (source unknown)
 - No documentation of what happened to the $20.5M Epstein never repaid
+- The "art transaction" purpose is described in the Dechert report but the specific artwork remains unidentified
 
 ---
 
@@ -291,11 +302,23 @@ This is the single largest documented individual Black->Epstein payment ($20M) a
 
 The use of an art entity (Narrow Holdings) to pay an Epstein entity (Southern Trust) demonstrates that the art advisory function and the fee payment function were STRUCTURALLY UNIFIED. Black's art collection and Epstein's advisory fees shared the same entity pipelines.
 
-**EVIDENCE GAPS:**
-- Full ownership structure of Narrow Holdings LLC / Narrows II LLC
-- Whether Narrow Holdings was used for the $120M Munch "The Scream" purchase
-- Whether the $20M payment was for art services or was a fee payment
-- Bank of America $440M credit line -- was it secured by art in Narrows Holdings?
+**DS9 PRIMARY SOURCE DOCUMENTS (Revisit, 2026-02-12):**
+
+DS9 contains the complete underlying entity agreements and art partnership documents for the Narrow Holdings complex:
+
+- [EFTA00600680](https://www.justice.gov/epstein/files/DataSet%209/EFTA00600680.pdf) (pp.6-21): **Complete LLC Agreement of Narrow Holdings II LLC**. Dated July 25, 2012, formed under Delaware LLC Act. Initial Member: Leon D. Black, 100% ownership. Mailing Address: Black Family Partners, c/o Apollo Management, 9 W 57th Street. This is the entity that held "The Scream" ($135M).
+- [EFTA01084294](https://www.justice.gov/epstein/files/DataSet%209/EFTA01084294.pdf): Art inventory document: "NARROWS II: MUNCH, EDVARD: Th Scream: $135,000,000." Confirms Narrows II LLC held The Scream, valued at $135M (appreciated from $120M purchase price).
+- [EFTA00585177](https://www.justice.gov/epstein/files/DataSet%209/EFTA00585177.pdf) (pp.0-3): **Complete AP Narrows LP Limited Partnership Agreement**. Formed by certificate of limited partnership filed December 24, 2014. This is the "art partnership" referenced in the Dechert Report that Epstein helped form.
+- [EFTA00583213](https://www.justice.gov/epstein/files/DataSet%209/EFTA00583213.pdf): **Art Entity Term Sheet** for AP Narrows LP (Feb 17, 2016). Class A General Partner: Narrows Holdings LLC (Leon Black as Managing Member). Governance includes authority to make art investments and lend partnership art.
+- [EFTA00582785](https://www.justice.gov/epstein/files/DataSet%209/EFTA00582785.pdf): **Memo from Ada Clapp to Jeffrey Epstein AND Bradley Wechsler** (March 17, 2015). Subject: "AP Narrows LP -- Open Decision Points." Decisions Leon needed to make about which works of art to contribute. Epstein was a direct participant in art partnership structuring decisions.
+- [EFTA00287386](https://www.justice.gov/epstein/files/DataSet%209/EFTA00287386.pdf) (pp.0-3): **AP Narrows LP Timeline of Action Steps** (May 15, 2015). Week-by-week plan for contributing art and financial assets: "$100MM -- LDB/Holdings; $100MM -- LDB (books); $200MM -- APOI/APO2." This document was sent directly to Epstein by Ada Clapp ([EFTA00347615](https://www.justice.gov/epstein/files/DataSet%209/EFTA00347615.pdf)).
+
+**CORRECTION -- Bank of America Art Credit Line:**
+- The original report stated the BoA credit line was "$440M." Per [EFTA00299513](https://www.justice.gov/epstein/files/DataSet%209/EFTA00299513.pdf) (Leon Black estate plan, June 30, 2016), the actual figure was **$695,000,000** ("Loan payable-Bank of America (Art): $695,000,000"). This line was secured by Narrow Holdings artwork, per [EFTA00605904](https://www.justice.gov/epstein/files/DataSet%209/EFTA00605904.pdf): "Bank of America $484,000,000 -- Art Purchases -- Art Collections held through Narrow Holdings, LLC" (growing to $695M by 2016).
+
+**EVIDENCE GAPS (Updated):**
+- Whether the $20M payment was for art services or was a fee payment (partially addressed by AP Narrows documents showing Epstein's direct role in structuring)
+- Full details of the BoA collateral roster (partially addressed by [EFTA00592903](https://www.justice.gov/epstein/files/DataSet%209/EFTA00592903.pdf) and [EFTA01146273](https://www.justice.gov/epstein/files/DataSet%209/EFTA01146273.pdf))
 
 ---
 
@@ -359,11 +382,22 @@ Per [EFTA01381149](https://www.justice.gov/epstein/files/DataSet%2010/EFTA013811
 
 **TOTAL RM CODE 82289 BALANCE: ~$49M+**
 
-**EVIDENCE GAPS:**
+**DS9 FINDINGS (Revisit, 2026-02-12):**
+
+DS9 calendar documents provide direct evidence that Paul Morris met with Epstein at Apollo on the same afternoons as Black Family meetings:
+
+- [EFTA00285117](https://www.justice.gov/epstein/files/DataSet%209/EFTA00285117.pdf) (p.4): "3:00pm Appt w/Paul Morris at Apollo" followed by "3:15-3:30pm Meeting at Apollo w Brad Wechsler, Alan Halperin & Leon" and "3:30-4:00pm Brad Wechsler & Leon Black." The Deutsche Bank relationship manager met with Epstein at Apollo immediately before the Black Family meeting at the same location.
+- [EFTA00285067](https://www.justice.gov/epstein/files/DataSet%209/EFTA00285067.pdf) (p.3): Jan 23, 2015: "12:30pm LUNCH w/Leon Black and Brad Wechsler" followed by "1:30pm Appt w/Chip Packard and Paul Morris." Paul Morris meetings scheduled on the same day as Black/Wechsler lunches.
+- [EFTA00128765](https://www.justice.gov/epstein/files/DataSet%209/EFTA00128765.pdf) (p.1): **FBI 302 interview of Amanda Kirby** (Aug 10, 2021). Kirby worked on Paul Morris's team after Morris joined Deutsche Bank. "Kirby left Janco's and Crivan's team to work Paul Morris when Morris joined DB." Confirms Morris's team structure.
+- [EFTA00128837](https://www.justice.gov/epstein/files/DataSet%209/EFTA00128837.pdf): Paul Morris email (Jan 5, 2015) dismissing Prince Andrew stories as routine: "the stories about Prince Andrew have been popping up in the press for years. I will post the team if there is anything that has changed." No KYC action taken despite ongoing press coverage.
+- [EFTA00128826](https://www.justice.gov/epstein/files/DataSet%209/EFTA00128826.pdf): Internal DB email (Feb 25, 2014): "Plan D LLC is owned by our client Jeffrey Epstein. Jeffrey Epstein is worth roughly $[?] and currently has about $230MM here at the bank and we are expecting at least another $100MM from him within the next few months." "I would ask that this go through because he is a very important client."
+
+These findings strengthen the original report's claim of "shared account officers" by documenting that Morris was physically present at Apollo for meetings alongside Black Family meetings on the same afternoons.
+
+**EVIDENCE GAPS (Updated):**
 - Full compliance records for Litchford and Morris
 - Whether they flagged the unusual payment pattern from Black
-- Internal Deutsche Bank communications about the Black->Epstein flow
-- Stewart Oldfield's full involvement beyond the $23M wire
+- Internal Deutsche Bank communications about the Black->Epstein flow (partially addressed by Morris's dismissal of Prince Andrew concerns)
 
 ---
 
@@ -385,7 +419,7 @@ Per [EFTA01381149](https://www.justice.gov/epstein/files/DataSet%2010/EFTA013811
 
 1. **Formation of art partnership** -- Epstein helped Black structure an entity for holding art (likely Narrow Holdings LLC or a related entity)
 2. **Contested Picasso sculpture ownership** -- Epstein advised on a disputed Picasso ownership claim
-3. **Art loans** -- Epstein managed Black's $2.7B art collection loan arrangements (including the $440M Bank of America credit line)
+3. **Art loans** -- Epstein managed Black's $2.7B art collection loan arrangements (including the $695M Bank of America credit line, per DS9 estate plan [EFTA00299513](https://www.justice.gov/epstein/files/DataSet%209/EFTA00299513.pdf); previously reported as $440M)
 4. **Like-kind exchanges (IRC Section 1031)** -- Epstein arranged tax-advantaged art swaps, including the documented Rothko-to-Picasso exchange ($46M->$48M via Gagosian)
 5. **NY State tax advisory opinion** -- Epstein sought a formal advisory opinion on art taxation
 
@@ -410,11 +444,26 @@ Dechert's own report -- commissioned by Apollo's Conflicts Committee to DEFEND B
 
 The advisory fees were not merely for "tax advice" -- they were the PRICE OF ADMISSION to Epstein's full-service financial infrastructure, which included art brokerage, entity structuring, banking relationships, and tax optimization. The art function was inseparable from the money-laundering function because they used the same entities, the same accounts, and the same people.
 
-**EVIDENCE GAPS:**
-- Epstein's actual role in each specific art transaction
-- Whether Epstein received commissions or kickbacks from auction houses
-- Whether art was used as collateral for loans that funded trafficking
-- Full details of the "art partnership" Epstein helped Black form
+**DS9 PRIMARY SOURCE DOCUMENTS (Revisit, 2026-02-12):**
+
+DS9 provides the actual invoices, email chains, and internal documents underlying the Dechert admissions:
+
+- [EFTA00592810](https://www.justice.gov/epstein/files/DataSet%209/EFTA00592810.pdf): **Gagosian Invoice -- Rothko-to-Picasso Exchange**. "Black Family 1997 Trust... January 4, 2013." Picasso "Mateu Fernandez de Soto" purchase price: $48,000,000. LESS: Trade-in credit for Rothko "Untitled" (1961): $46,000,000. Balance: $2,177,500. "The transfer of Pablo Picasso... shall serve as full satisfaction of Gagosian Gallery loan."
+- [EFTA00593868](https://www.justice.gov/epstein/files/DataSet%209/EFTA00593868.pdf): **Reverse Exchange Transaction Index** -- complete document set for the Rothko-Picasso exchange confirming this was structured as an IRC 1031 like-kind exchange.
+- [EFTA00646622](https://www.justice.gov/epstein/files/DataSet%209/EFTA00646622.pdf): Epstein to Eileen Alexanderson (Dec 3, 2012): "ask withers and gagosian if they can find an accomodator to take the rothko in the meantime to p[reserve like-kind exchange status]." Epstein was directing the Rothko exchange logistics.
+- [EFTA00611521](https://www.justice.gov/epstein/files/DataSet%209/EFTA00611521.pdf) (pp.0-1): **Heather Gray memo to Leon Black**: Picasso "Buste de femme (Marie Therese)" purchase price: $115,000,000. Installment schedule totaling $86,250,000 before final payment.
+- [EFTA00622832](https://www.justice.gov/epstein/files/DataSet%209/EFTA00622832.pdf): Heather Gray memo to Leon Black **CC: Jeffrey Epstein** (April 29, 2015) regarding the $115M Picasso transaction legal correspondence. Epstein was copied on the purchase negotiations.
+- [EFTA00939374](https://www.justice.gov/epstein/files/DataSet%209/EFTA00939374.pdf): Eileen Alexanderson to Epstein (July 10, 2012): "Leon mentioned that you recommended he put the new Munch into a Delaware LLC to provide more flexibility in the future." Epstein recommended the entity structure for The Scream ($120M purchase).
+- [EFTA00939376](https://www.justice.gov/epstein/files/DataSet%209/EFTA00939376.pdf): Epstein's reply: "i would do nothing until all the issues are known... i would definilty not add the munch to any existing entitiy." Epstein was directing entity structuring for the most expensive artwork purchase at that time.
+- [EFTA00592228](https://www.justice.gov/epstein/files/DataSet%209/EFTA00592228.pdf) (pp.0-46): **"ALL ART - 3/19/17" -- Complete Black art collection inventory**. 46+ pages listing every artwork by owner entity. Notable entries: Turner "Seascape: Folkestone" $80M, Cezanne "Le Chateau Noir" $50M, Mondrian "Composition C" $40M. This was in Epstein's files, proving complete visibility into Black's collection.
+- [EFTA00299513](https://www.justice.gov/epstein/files/DataSet%209/EFTA00299513.pdf) (pp.1-16): **Complete Black estate plan** (June 30, 2016). Art, Bronzes and Rare Books: **$2,225,335,875**. Gross Estate: $3,837,952,896. BoA art credit line: $695M. Executors: Debra Black, Barry Cohen, Richard Ressler.
+- [EFTA00670036](https://www.justice.gov/epstein/files/DataSet%209/EFTA00670036.pdf): Heather Gray to Epstein: Gagosian payments to Maya Picasso totaling **$86.25M** through Narrow Holdings. Gagosian took a 6.5% commission on Picasso sculpture purchases.
+- [EFTA00370268](https://www.justice.gov/epstein/files/DataSet%209/EFTA00370268.pdf)-370276: **Email chain showing Epstein directed the J. BLACK Trust creation**. Darren Indyke drafting the trust agreement at Epstein's direction, $2M initial funding, co-trusteed by Melanie Spinella (Epstein's assistant at Black's office).
+
+**EVIDENCE GAPS (Updated):**
+- Whether Epstein received commissions or kickbacks from auction houses (Gagosian's 6.5% commission documented but no evidence of pass-through to Epstein)
+- Whether art was used as collateral for loans that funded trafficking (BoA art credit line of $695M confirmed but no trafficking nexus established)
+- The art partnership formation is now fully documented through AP Narrows LP primary source agreements
 
 ---
 
@@ -898,9 +947,15 @@ The art collection -- worth over $1 billion per Senate Finance Committee confirm
 
 ---
 
+**DS9/DS11 REVISIT NOTE -- DECHERT LLP PRE-EXISTING RELATIONSHIP (2026-02-12):**
+
+[EFTA02429104](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02429104.pdf) (DS11): Email from Earl Nemser (Dechert LLP) to Epstein (Feb 23, 2010), Subject: "SH" -- asking for a colleague's email address. "I forgot to tell you that Farenzio Ceirina (sp?) said hello and that he was a good friend of yours." This confirms that Dechert lawyers had a pre-existing personal relationship with Epstein before Dechert was hired to investigate the Black-Epstein relationship in 2020-2021. The firm that was supposed to independently assess the relationship already had social connections to the subject of the investigation.
+
+---
+
 **END OF TRANSACTION CHAIN ANALYSIS**
 
-**Total EFTA documents cited:** 85+
+**Total EFTA documents cited:** 120+
 **Total financial transactions documented:** 65+
 **Total dollar flows traced:** $500M+
 **Databases queried:** 3 (primary document text database, Dataset 10 document text database, OCR text extraction database)

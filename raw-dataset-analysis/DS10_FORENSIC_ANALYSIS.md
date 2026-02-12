@@ -9,6 +9,8 @@
 **Analysis Date:** 2026-02-05
 **Analyst:** Independent Forensic Researcher
 
+**Data Source Note:** Per REDACTION_TEXT_LAYER_ANALYSIS (Report #93), the "hidden text" in DS10 is predominantly garbled OCR from an invisible Tr=3 text rendering layer placed over scanned document images, not content deliberately concealed beneath PDF redaction annotations. The black boxes visible in these PDFs are baked JPEG pixels, not PDF overlay objects. While the recovery mechanism is OCR-based, the identified content (emails, names, dates, financial figures) is real and has been verified against independent sources throughout subsequent investigations.
+
 ---
 
 ## 1. DEUTSCHE BANK COMPLIANCE FAILURE MAP
@@ -29,20 +31,18 @@ Over 90 unique @db.com email addresses were found through corpus analysis across
 **Key Individuals and Roles:**
 - **Tazia Smith** (tazia.smith@db.com) -- Appears in 9 distinct EFTA documents, primarily in [EFTA01458839](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01458839.pdf). Most frequent DB contact in the files.
 - **Bradley Gillin** (adley.gillin@db.com) -- Appears in EFTAs 01403282, 01418258, 01418337, 01435379, 01435423, 01435391. Active in Epstein account management. A recovered email subject line references "Paul Barrett / Epstein week of 12/11/17 [C]" ([EFTA01414264](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01414264.pdf)), indicating regular weekly reporting on the Epstein account.
-- **Paul Barrett** -- The most prominent DB banker. Appears 61 times across 55 distinct documents. Subject lines reveal: "Paul Barrett / Epstein week of 11/20 [C]" ([EFTA01413919](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01413919.pdf)), "Paul Barrett / Epstein week of 12/11/17 [C]" ([EFTA01414264](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01414264.pdf), [EFTA01433602](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01433602.pdf)). Barrett was managing Epstein's trading activities including FX trades, derivatives, and "Harvest Collateral Yield Enhancement Strategy" ([EFTA01388936](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01388936.pdf)).
+- **Paul Barrett** -- An external financial portfolio manager at Alpha Group Capital (Barrett's firm), not a Deutsche Bank employee. Appears 61 times across 55 distinct documents. Subject lines reveal: "Paul Barrett / Epstein week of 11/20 [C]" ([EFTA01413919](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01413919.pdf)), "Paul Barrett / Epstein week of 12/11/17 [C]" ([EFTA01414264](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01414264.pdf), [EFTA01433602](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01433602.pdf)). These "Epstein week" emails are Barrett's external portfolio management reports sent TO Deutsche Bank, not internal DB reporting. Barrett was managing Epstein's trading activities including FX trades, derivatives, and "Harvest Collateral Yield Enhancement Strategy" ([EFTA01388936](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01388936.pdf)).
 - **Martin Zeman** (in.zeman@db.com / rnartin.zeman@db.com) -- Appears frequently alongside Barrett in trade communications.
-- **Stewart Oldfield** -- Another key account manager, 425 appearances across 324 documents.
+- **Stewart Oldfield** -- A key DB account manager. Initially counted at 425 appearances across 324 documents in the redaction-only search, but full text corpus analysis shows Oldfield in 9,602 documents, making him one of the most heavily represented DB personnel in the Epstein files.
 
 ### 1.2 AML/KYC Compliance Unit (CRITICAL)
-
-**Significance: EXPLOSIVE**
 
 The email **pwmus.amlkyc@db.com** -- Deutsche Bank's Anti-Money Laundering/Know Your Customer unit -- appears in **[EFTA01299281](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01299281.pdf)**. The context: `<pwmus.amlkyc@db.com` was found in document text layers. This is the internal compliance address that was supposed to flag suspicious activity.
 
 Additional AML/KYC compliance communications recovered:
 - [EFTA01355649](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01355649.pdf): "PWMUS AMLKYC 05/29/2013 11:43 AM" -- AML/KYC activity dated May 2013
 - [EFTA01360449](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01360449.pdf): "MMUS AMLKYC: 11/19/2014 09:38 AM" -- AML/KYC activity dated November 2014
-- [EFTA01357853](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01357853.pdf): AML Compliance inquiry regarding **THE HAZE TRUST** -- `Vahe Stepanian; Amlcompliance Inq Regarding THE HAZE TRUST`
+- [EFTA01357853](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01357853.pdf): AML Compliance inquiry regarding **THE HAZE TRUST** -- `Vahe Stepanian; Amlcompliance Inq Regarding THE HAZE TRUST`. Note: Stepanian was a PWM (Private Wealth Management) banker — he appears in this AML inquiry as the relationship banker being inquired about, not as the compliance officer conducting the inquiry.
 - [EFTA01369002](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01369002.pdf): AML Compliance inquiry for "THE HAZE TRUST, Account# N4G024943"
 - [EFTA01433580](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01433580.pdf): "Amlcompliance es@db.com, Rob Wang... Regarding Account... 2018 [I]" -- AML inquiry in 2018
 
@@ -59,7 +59,7 @@ Key DB compliance personnel involved in KYC Breach escalation:
 - **Nina Tona** / **Martin Zeman** -- Senior oversight
 - **Alka Gopala** / **Pankaj-A Chopra** -- NCAOTC Derivatives involvement
 
-Subject lines recovered: "RE: KYC Breach_SOUTHFINANMD_Southern Financial" -- This confirms DB identified a KYC breach related to Epstein's Southern Financial entity and tracked it through multiple escalation levels. Despite this, the bank continued servicing the account.
+Subject lines recovered: "RE: KYC Breach_SOUTHFINANMD_Southern Financial" -- This confirms DB identified a KYC breach related to Epstein's Southern Financial entity and tracked it through multiple escalation levels. Despite this, the bank continued servicing the account. Subsequent forensic accounting work confirmed that after the KYC breach was documented (beginning April 16, 2018, per [EFTA01406955](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01406955.pdf)), 50 additional transactions totaling $189M continued flowing through Epstein accounts. Internal emails corroborate the breakdown: [EFTA01362456](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01362456.pdf) contains the admission "kyc is not happening," and [EFTA01414241](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01414241.pdf) shows an "URGENT - THIRD REQUEST!!!!!" AML escalation that was effectively ignored.
 
 ### 1.4 Deutsche Bank Account Values
 
@@ -135,7 +135,7 @@ Recipients identified in wire transfers include:
 - **Zorro Development Corp** ([EFTA01482283](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01482283.pdf))
 - **Kraus Manning Inc** ([EFTA01483316](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01483316.pdf))
 
-**Significance: NOTABLE** -- The geographic spread (Puerto Rico, USVI, Miami, international) and the velocity of wire transfers confirm a sophisticated money movement operation designed to obscure the origin and destination of funds.
+The geographic spread (Puerto Rico, USVI, Miami, international) and the velocity of wire transfers are consistent with a sophisticated money movement operation. Subsequent forensic accounting work (forensic_workbench.db) documented total flows across all Epstein entities exceeding $755M across 186 normalized transactions.
 
 ---
 
@@ -283,7 +283,7 @@ GRATITUDE AMERICA LTD - [Bankers listed]
 SOUTHERN TRUST   - [Bankers listed]
 ```
 
-**Paul Morris** (452 appearances, 412 documents) and **Stewart Oldfield** (425 appearances, 324 documents) were the primary operators of the shell company network.
+**Paul Morris** (452 appearances, 412 documents) and **Stewart Oldfield** (9,602 documents in full text corpus; initially undercounted at 425 appearances in the redaction-only search) were the primary Deutsche Bank officers managing the shell company network. Notably, [EFTA01359500](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01359500.pdf) confirmed that the same two bankers (Litchford/Morris) managed both Epstein's entities AND Leon Black's accounts, as well as those of Christopher Boies and Todd Wanek.
 
 ### 5.3 Financial Architecture
 
@@ -326,7 +326,7 @@ The NPA (Non-Prosecution Agreement) was effectively in place from 2008. The Nove
 - **November 30, 2018** -- Epstein wires **$100,000** to an individual from a trust account
 - **December 3, 2018** -- Epstein wires **$250,000** to another individual from the same trust account
 
-The proximity of these payments to the exposure of the NPA deal is circumstantially significant. The individuals receiving these payments were not identified in the extracted entities but were characterized in the original prosecution memo as potentially being co-conspirators.
+The proximity of these payments to the exposure of the NPA deal is circumstantially significant. Subsequent investigation identified the $100,000 recipient: the wire went to Aviloop LLC, a company belonging to Nadia Marcinkova ([EFTA00020685](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020685.pdf)), just 2 days after the Miami Herald series began. This has been characterized as potential witness tampering. The $250,000 recipient was characterized in the prosecution memo as another potential co-conspirator but has not been publicly identified.
 
 **Previously Reported:** These specific wire transfers were cited in SDNY's bail opposition. However, the correlation with the Miami Herald publication timeline has received less attention.
 
@@ -372,7 +372,7 @@ After filtering out known Epstein associates, legal personnel, DB bankers, and g
 
 **Leon Botstein** (54 appearances, 52 documents): President of Bard College. 54 appearances suggest significant correspondence with Epstein's circle.
 
-**Karyna Shuliak** (91 appearances, 90 documents): Epstein's last girlfriend, appears across 90 documents -- far more than publicly known.
+**Karyna Shuliak** (91 appearances, 90 documents): Epstein's last girlfriend, appears across 90 documents. Subsequently confirmed as a Butterfly Trust beneficiary ([EFTA01282297](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01282297.pdf)) alongside Ghislaine Maxwell.
 
 **Annette Siegal** (67 appearances, 28 documents): Not widely reported.
 
@@ -394,8 +394,6 @@ After filtering out known Epstein associates, legal personnel, DB bankers, and g
 Multiple anonymous tips were received and documented. Interview dates suggest tips were followed up, at least procedurally.
 
 ### 8.2 Epstein Death Investigation ([EFTA01656152](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01656152.pdf))
-
-**Significance: EXPLOSIVE**
 
 This document is an FBI investigative summary containing extraordinary detail about Epstein's death at MCC:
 
@@ -424,7 +422,7 @@ This document is an FBI investigative summary containing extraordinary detail ab
 
 Multiple documents ([EFTA00029742](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029742.pdf), [EFTA00032378](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032378.pdf), [EFTA00017788](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017788.pdf)) show DOJ internal communications about "MCC New York (Procedural Review)" in January 2020, and visits to MCC in August 2019 shortly after Epstein's death.
 
-**Previously Reported:** The camera failures and guard misconduct were widely reported. However, the specific detail that DVR2 failed on 7/29/2019 (12 days before death), that BOP knew about camera failures the day before death, and the "5 times head count not conducted" provide granularity not previously in public reporting with this precision.
+**Previously Reported:** The camera failures and guard misconduct were widely reported. The specific detail that DVR2 failed on 7/29/2019 (12 days before death), that BOP knew about camera failures the day before death, and the "5 times head count not conducted" add precision to the known record. Additional finding from [EFTA01649190](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01649190.pdf): replacement DVR drives were obtained but never installed before Epstein's death on 8/10/2019.
 
 ---
 
@@ -481,9 +479,7 @@ Criminal Record: YES
 
 ### 10.1 The PROMINENT NAMES Document ([EFTA01656152](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01656152.pdf))
 
-**Significance: EXPLOSIVE**
-
-[EFTA01656152](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01656152.pdf) contains an FBI document titled **"PROMINENT NAMES"** -- an internal FBI compilation of allegations against high-profile individuals connected to Epstein. The document was found through corpus analysis and includes:
+[EFTA01656152](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01656152.pdf) contains an FBI document titled **"PROMINENT NAMES"** — an internal FBI compilation of allegations against high-profile individuals connected to Epstein. These allegations are drawn primarily from NTOC (National Threat Operations Center) tip submissions, not from FBI investigative conclusions. Inclusion on this list does not constitute an FBI finding of wrongdoing. The document was found through corpus analysis and includes:
 
 #### Full Recovered Content of PROMINENT NAMES Section:
 
@@ -552,9 +548,7 @@ This document appears across **4 variants**: [EFTA01656152](https://www.justice.
 
 The document references "Numerous anonymous NTOC's were received with allegations against prominent individuals." NTOC is the FBI's **National Threat Operations Center**, which processes tips submitted via tips.fbi.gov. The existence of multiple anonymous NTOC filings against prominent names suggests a pattern of reporting that the FBI compiled but -- based on the outcome -- did not fully pursue.
 
-**Previously Reported:** Barr's potential conflict of interest due to his father (Donald Barr) hiring Epstein at Dalton School, and his law firm (Kirkland & Ellis) representing Epstein, have been widely reported. However, the specific FBI PROMINENT NAMES document containing victim allegations placing Barr physically at Epstein's during abuses, paired with Black, has NOT been widely reported in mainstream media. This represents potentially the most explosive finding in this analysis.
-
-**Significance: EXPLOSIVE**
+**Previously Reported:** Barr's potential conflict of interest due to his father (Donald Barr) hiring Epstein at Dalton School, and his law firm (Kirkland & Ellis) representing Epstein, have been widely reported. The specific FBI PROMINENT NAMES document containing these NTOC tip allegations placing Barr at Epstein's during abuses, paired with Black, has received less mainstream media attention. However, it is important to note that NTOC tips are unverified caller reports — they are not FBI investigative findings. Subsequent investigation (WILLIAM_BARR_INVESTIGATION.md) documented Barr's Kirkland & Ellis conflict, his split recusal, and his oversight of the death investigation in fuller context. That investigation found 55+ relevant documents but no corroborating evidence beyond the NTOC tip itself for the allegation of Barr's physical presence during abuses.
 
 ---
 
@@ -567,7 +561,7 @@ Multiple documents reference FinCEN (Financial Crimes Enforcement Network) recor
 - [EFTA00032293](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032293.pdf): "RE: Epstein (FinCEN records)" -- August 2019 chain
 - [EFTA01372477](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01372477.pdf): "Overseas Investments and Enterprise... FinCEN form"
 
-This confirms federal investigators were pulling FinCEN records on Epstein's financial activity during the 2019 investigation.
+This confirms federal investigators were pulling FinCEN records on Epstein's financial activity during the 2019 investigation. A 25-entity SAR (Suspicious Activity Report) was subsequently documented in the DEUTSCHE_BANK_INVESTIGATION, covering Epstein's full shell company network under RM CODE 82289.
 
 ### 11.2 DOJ Personnel Emails Recovered
 
@@ -606,8 +600,8 @@ JPMorgan appears in multiple contexts ([EFTA00030702](https://www.justice.gov/ep
 
 | Finding | Significance | Previously Reported? |
 |---|---|---|
-| Barr in FBI PROMINENT NAMES doc w/ abuse allegations | **EXPLOSIVE** | Partially (conflict known; specific FBI doc NOT reported) |
-| DVR2 failure 12 days before death + BOP knew day before | **EXPLOSIVE** | Partially (camera failure known; specific timeline NOT) |
+| Barr in FBI PROMINENT NAMES doc w/ NTOC tip allegations | **SIGNIFICANT** | Partially (conflict known; specific FBI doc less reported; tip is unverified) |
+| DVR2 failure 12 days before death + BOP knew day before | **SIGNIFICANT** | Partially (camera failure known; specific timeline adds precision) |
 | DB KYC Breach chain for Southern Financial | **SIGNIFICANT** | Not specifically |
 | DB AML inquiry on HAZE TRUST | **SIGNIFICANT** | Not specifically |
 | Weekly "Epstein" reporting by Paul Barrett at DB | **SIGNIFICANT** | Not specifically |

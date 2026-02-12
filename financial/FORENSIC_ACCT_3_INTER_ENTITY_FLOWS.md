@@ -11,12 +11,12 @@
 
 ## EXECUTIVE SUMMARY
 
-Analysis of text extracted from the DOJ Epstein files reveals a sophisticated multi-entity financial architecture maintained at Deutsche Bank under a single Relationship Manager code (RM 82289). At least **18 entities** operated as an interconnected fund pool, managed by bankers Jj Litchford (primary) and Paul Morris (secondary), with day-to-day operations handled by Stewart Oldfield and Bradley Gillin. The entire structure was organized under the umbrella designation "SOUTHERN FINANCIAL RELATIONSHIP" -- meaning Deutsche Bank treated all sub-entities as a single client relationship.
+Analysis of text extracted from the DOJ Epstein files reveals a sophisticated multi-entity financial architecture maintained at Deutsche Bank under a single Relationship Manager code (RM 82289). At least **19 entities** operated as an interconnected fund pool (the original count of 18 has been revised upward with the identification of **Jeepers, Inc.** as a significant entity in the DS11 revisit), managed by bankers Jj Litchford (primary) and Paul Morris (secondary), with day-to-day operations handled by Stewart Oldfield and Bradley Gillin. The entire structure was organized under the umbrella designation "SOUTHERN FINANCIAL RELATIONSHIP" -- meaning Deutsche Bank treated all sub-entities as a single client relationship.
 
 **Key findings:**
-- Total consolidated assets exceeded **$110 million** across all entities at peak
-- THE HAZE TRUST alone held **$49.5 million** at peak (Account N4G024943)
-- SOUTHERN TRUST COMPANY, INC. held **$45.15 million** at peak (09/30/16)
+- Total consolidated assets exceeded **$110 million** across all entities at peak. **CORRECTION (Revisit):** DS11 email from Richard Kahn (EFTA02671293) shows the top 3 entities alone held **$159,125,000** as of October 2015 (Southern Trust $82.5M + Haze Trust $47.375M + Southern Financial $29.25M). A June 2013 master valuation (EFTA02678941) shows total portfolio of **$319,455,302** including partnerships and investments. The original $110M estimate was based on incomplete DB balance reports and significantly understated actual holdings.
+- THE HAZE TRUST alone held **$49.5 million** at peak in its DBAGNY sub-account (Account N4G024943), plus investment positions in a separate Brokerage sub-account
+- SOUTHERN TRUST COMPANY, INC. held **$82.5 million** at peak (10/31/2015 per EFTA02671293). The original report identified only $45.15M (09/30/16), which was 11 months later and reflected intervening disbursements
 - Inter-entity DDA-to-DDA fund transfers occurred via account 739110438 (Epstein personal) to at least three subsidiary accounts
 - Book transfers moved funds between entities without external wire activity
 - A derivatives overlay ("Harvest Collateral Yield Enhancement Strategy") operated through the structure
@@ -858,7 +858,62 @@ This wind-down preceded Epstein's July 2019 arrest by approximately 6-12 months,
 
 ---
 
-*This report is based solely on data extracted from the document text layers in the DOJ Epstein document production. OCR quality varies; some figures may contain minor transcription artifacts. All balances should be verified against original bank records where available.*
+---
+
+## ADDENDUM: DS9/DS11 REVISIT FINDINGS (2026-02-12)
+
+### Jeepers, Inc. -- The 19th Entity (Glenn Dubin Conduit)
+
+DS11 reveals Jeepers, Inc. as a significant entity with $22-28M in assets and a direct financial connection to Glenn Dubin. Under an "Assignment of Economic Interest Agreement dated August 1, 2011," Dubin assigned his Fortress Value Recovery Fund interest to Jeepers (an Epstein entity). Kahn managed ongoing distributions: "per agreement all money goes to [Dubin] until he receives back the 4,375,302 he just sent to jeepers thereafter jeepers keeps 100% of all distributions" (EFTA02359292). EFTA00165822 (DS9) confirms JEEPERSINC alongside other Epstein entities on Deutsche Bank trading authorization with account N4G024935.
+
+### Multi-Bank Architecture (5+ Banks)
+
+EFTA02711200 (DS11) reveals the entity network operated across at least 5 banks: Deutsche Bank (majority), First Bank (Puerto Rico), UBS, BNP Paribas, and Wells Fargo. Southern Trust held $70.8M at Deutsche Bank and $828K at First Bank. Jeepers held $22.7M at Deutsche Bank. The original report focused exclusively on Deutsche Bank.
+
+### Haze Trust: Giacometti Sculpture ($18-27.5M)
+
+DS11 reveals the Haze Trust also held a Giacometti sculpture ("Figure moyenne II") with a Christie's auction estimate of $18-25M (EFTA02654666) and a guarantee offer of $20M (EFTA02389513). A Braque and the Giacometti were purchased for $30M total but estimated at only $19-22M at resale, generating a $7-10M non-deductible personal loss (EFTA02654984). Leon Black personally advised on Paris storage at Chenue warehouse (EFTA02350093). His art advisor Heather Gray (Elysium Management) managed the sales.
+
+### Caterpillar Trust: 2-Year GRAT
+
+DS11 and DS9 reveal the Caterpillar Trust was a 2-year grantor retained annuity trust (GRAT) established January 3, 2017, with Lesley Groff and Daphne Wallace as trustees. Groff asked: "What is the Caterpillar Trust for?" Klein replied: "Asset that we should sell and need a bank account to park money" (EFTA02238206). At closure (March 2019), $2.16M was moved to a new Butterfly Trust account at Morgan Stanley (EFTA02636559). Trust instrument (EFTA01255393) confirms termination clause directing balance to The 2013 Butterfly Trust.
+
+### LSJE LLC: Personal Spending Vehicle
+
+DS11 reveals LSJE was heavily used for personal purchases directed by Karyna Shuliak: Chinese furniture ($4,850 + $15,300, Heshan Ruihui), Balinese art (Miroku/Nikini Art Indonesia), Swiss finishing school tuition (Institut Villa Pierrefeu, 34,510 CHF), rattan furniture for St. Thomas, a pool for the USVI property, and a wire that bounced through Alfa Bank Russia (EFTA02629919).
+
+### Ariane de Rothschild: Contingent Fee to Southern Trust
+
+EFTA02493823 (DS11): Epstein negotiated a contingent fee with Ariane de Rothschild: "ariane pays southern trust (my co). based on final settlement with DOJ. payment between 150-200 -- 5 million, 100-150. 10 million, under 100 25 million." Kathy Ruemmler (former Obama White House Counsel) provided legal advice on the structure. The reference to "rothschild baer" and a "liquidity event" suggests Epstein was advising on restructuring of the Edmond de Rothschild Group.
+
+### Aviloop LLC: Nadia Marcinkova Financial Support
+
+DS11 documents regular Aviloop wires from JEE personal accounts, a $50K furnished apartment (EFTA02726121), income classification discussions ($43,876 since February 2018), and consideration for involvement in a Gulfstream IV sale (EFTA02617189, November 2018).
+
+### Payroll Analysis: 116+ Employees, $9.5M/Year
+
+EFTA02397369 (DS11): "JEE 2010 Payroll & Benefits Analysis" shows 12 entities employing 116+ people at $9.5M total. Island Grounds Inc. was the largest (69 employees, $2.8M). DKI PLLC (Darren K. Indyke) paid 2 employees $1.66M (averaging $832K each).
+
+### Summary Table: Revised vs. Original Estimates
+
+| Finding | Original Report | DS9/DS11 Revised |
+|---------|----------------|------------------|
+| Peak consolidated assets | ~$113M | $159M+ (Oct 2015); total portfolio $319M (Jun 2013) |
+| Number of entities | 18 | 19+ (Jeepers Inc. added) |
+| Southern Trust peak | $45.15M (Sep 2016) | $82.5M (Oct 2015) |
+| Banking architecture | Deutsche Bank only | 5+ banks (DB, First Bank, UBS, BNP Paribas, Wells Fargo) |
+| Haze Trust assets | Financial only | Financial + Giacometti ($18-27.5M) + Braque |
+| Caterpillar Trust purpose | Unknown | 2-year GRAT; assets to Butterfly Trust at Morgan Stanley |
+| LSJE LLC purpose | Operating entity | Personal spending vehicle for Karyna Shuliak |
+| Replacement bank | Not discussed | LGT Bank Liechtenstein cultivated March 2019 |
+| Total payroll | Not quantified | $9.5M/year across 116+ employees in 12 entities |
+| Gratitude America | Charitable entity | Tax vehicle + $30K payment to NYT reporter Landon Thomas Jr. |
+| Jeepers/Dubin | Not profiled | $4.375M backstop + ongoing distributions from Fortress |
+| Ariane de Rothschild | Not mentioned | Contingent $5-25M fee to Southern Trust |
+
+---
+
+*This report is based solely on data extracted from the document text layers in the DOJ Epstein document production, supplemented by DS9/DS11 revisit findings (2026-02-12). OCR quality varies; some figures may contain minor transcription artifacts. All balances should be verified against original bank records where available.*
 
 DATA QUALITY NOTE: A data quality audit confirmed that ~98% of 'bad_overlay' records in the redaction database are OCR noise from degraded scans, not text hidden behind removable redactions. Text searches against this corpus remain valid for identifying which documents mention specific terms.
 

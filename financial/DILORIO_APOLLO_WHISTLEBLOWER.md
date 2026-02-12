@@ -15,7 +15,7 @@ Dilorio's complaints allege a web of interconnected financial fraud centered on:
 4. **Michael Milken's network** of "proteges" running Apollo, including Leon Black, Joshua Harris, and Marc Rowan
 5. **Whistleblower intimidation** through 11-12 anonymous threatening phone calls
 
-The Epstein files database contains **16 distinct documents** (EFTA numbers) related to Dilorio, spanning from April 2019 through at least April 2020, with some documents extending to 2021.
+The Epstein files database contains **117+ distinct documents** (EFTA numbers) related to Dilorio -- 16 in DS8 (identified in the original investigation) and **101 additional documents in DS9** identified via the full corpus search. The complaints span from April 2019 through at least **August 2021**, with post-2020 documents expanding allegations to RIOT Blockchain, Archegos/Hwang, DFC/Kodak/Kushner, and PHUN/Trump/Parscale mobile app technology.
 
 ---
 
@@ -85,6 +85,16 @@ Dilorio's central claim is that ESWW was a money laundering shell company connec
 - The SEC's own litigation reference: https://www.sec.gov/litigation/complaints/comp17673.htm
 - ESWW was de-registered in 2015 and "frozen in time"
 - ESW Group board included Mark Yung, Co-Founder of OCV Management, formerly of Orchard Capital Corp
+
+**DS9 Full Corpus Verification (2026-02-12):** Dilorio's ESWW claim is now **independently verified** by primary source documents in the corpus:
+
+- **[EFTA00586106](https://www.justice.gov/epstein/files/DataSet%209/EFTA00586106.pdf)**: The actual November 2012 **Purchase and Sale Agreement** between Financial Trust Company, Inc. (Epstein's USVI entity, 6100 Red Hook Quarter, B3, St. Thomas) and Black Family Partners (Leon Black) for **13,350,205 shares of ESWW common stock**, plus AP SHL Investors LLC interest and AP Technology Partners LLC interest, for a total purchase price of **$18,000,000** ($7.79M for ESWW shares, $3.5M for AP SHL, $6.71M for AP Tech).
+- **[EFTA00585846](https://www.justice.gov/epstein/files/DataSet%209/EFTA00585846.pdf)**: Irrevocable Stock Power for 13,198,711 shares of ESWW common stock from Financial Trust Company (TIN 66-0567418).
+- **[EFTA00585853](https://www.justice.gov/epstein/files/DataSet%209/EFTA00585853.pdf)**: FTC letter to JP Morgan directing transfer of 151,494 ESWW shares.
+- **[EFTA00593329](https://www.justice.gov/epstein/files/DataSet%209/EFTA00593329.pdf)**: AP SHL Investors LLC **K-1 tax filing (2012)**: Financial Trust Company listed as **Partner 4** (EIN 66-0567418, St. Thomas, VI 00802). This is IRS documentary proof that FTC was a partner in an Apollo-related investment entity.
+- **[EFTA00585848](https://www.justice.gov/epstein/files/DataSet%209/EFTA00585848.pdf)**: Exhibit E: Consent of Managing Member of AP Technology Partners LLC for the FTC-to-BFP transfer.
+- **[EFTA00616992](https://www.justice.gov/epstein/files/DataSet%209/EFTA00616992.pdf)**: Black Family Group Entity Look-Thru showing ESWW valued at $2,075,700 + convertible note at $2,941,093 on Black's books as of April 2014.
+- **[EFTA00299927](https://www.justice.gov/epstein/files/DataSet%209/EFTA00299927.pdf)**: Epstein's master file cabinet inventory listing "PURCHASE & SALE BY BLACK FAMILY PARTNERS, LP FROM FINANCIAL TRUST COMPANY, INC." as a dedicated file section.
 
 ### Epstein's Financial Trust Company
 
@@ -405,6 +415,48 @@ Beyond Dilorio's complaints, the database contains independent corroboration of 
 **[EFTA02731486](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731486.pdf):**
 > "Subject: RE: Epstein/Maxwell/Leon Black/Additional Subject" (multiple versions)
 
+### Marc Rowan -- Direct Epstein Relationship (DS9/DS11 Expansion)
+
+DS9 and DS11 reveal that Marc Rowan had an active, substantive relationship with Epstein -- not merely a peripheral mention in Dilorio's allegations. DS11 contains **15+ documents** of direct Rowan-Epstein correspondence:
+
+- **[EFTA02335969](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02335969.pdf)**: Rowan to Epstein discussing Apollo TRA (Tax Receivable Agreement) valuations
+- **[EFTA02340186](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02340186.pdf)**: Epstein asking Rowan about "worksheet calculation for the tra number on the balance sheet"
+- **[EFTA02450093](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02450093.pdf)**: Brad Wechsler (Elysium Management/Black's family office) instructing staff to CC "Jeffrey Epstein" on Apollo historical 8865 filings: "for Jeffrey its also get the benefit of his substantive expertise"
+- **[EFTA02452433](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02452433.pdf)**: Epstein to Rowan: "Happy to explain my thinking on the 8865 issue"
+- **[EFTA02466137](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02466137.pdf)**: Rowan forwards an Edmond de Rothschild cooperation email to Epstein, discussing Financial Credit Fund 3, Capital Efficient Investing for insurance companies, and European Financials Equity Vehicle
+- **[EFTA02361689](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02361689.pdf)**: Perry Shwachman (Sidley Austin) to Rowan AND Epstein about "potential new USVI insurance regulations"
+- **[EFTA02405147](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02405147.pdf)**: "Leon has asked Barry Cohen and Marc Rowan to call you re Donor Advised Funds"
+- **[EFTA02374581](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02374581.pdf)**: Epstein to Rowan: "I know Nick Ribis for a long time... you should not rely on my introduction to mean anything more than that"
+
+DS9 scheduling documents: [EFTA00331035](https://www.justice.gov/epstein/files/DataSet%209/EFTA00331035.pdf) confirms a January 14, 2016 meeting at Epstein's home where "Marc and his partner, Imran [Siddiqui], will come see Jeffrey today at 3:45pm... Ariane de Rothschild and Cynthia Tobiano will be here as well." [EFTA00331476](https://www.justice.gov/epstein/files/DataSet%209/EFTA00331476.pdf) shows Epstein was interested in buying Rowan's G450 plane for $18.95M.
+
+This confirms Rowan was a direct participant in the Epstein financial network, involved in Apollo TRA valuations, 8865 tax filings, USVI insurance regulation discussions, Rothschild business development, and regular meetings at Epstein's home.
+
+### Deutsche Bank Transaction Exhibits (DS9 Expansion)
+
+[EFTA00080260](https://www.justice.gov/epstein/files/DataSet%209/EFTA00080260.pdf) (Exhibit A, Deutsche Bank production) provides the complete wire transfer records documenting **$98M+** flowing from Black/Apollo entities to Epstein's Southern Trust Company between October 2013 and April 2017:
+
+| Date | Payer | Amount |
+|------|-------|--------|
+| 10/15/2013 | Leon and Debra Black | $8,500,000 |
+| 12/18/2013 | Black Family Partners c/o Apollo | $10,000,000 |
+| 4/25/2014 | Leon and Debra Black | $5,000,000 |
+| 4/25/2014 | BFP c/o Apollo | $5,000,000 |
+| 4/29/2014 | Leon and Debra Black | $15,000,000 |
+| 7/15/2014 | Narrow Holdings LLC c/o Elysium | $20,000,000 |
+| 10/16/2014 | Leon and Debra Black | $7,000,000 |
+| 10/16/2014 | BFP c/o Apollo | $13,000,000 |
+| 10/22/2014 | Leon and Debra Black c/o Apollo | $2,000,000 |
+| 10/22/2014 | BFP c/o Apollo | $3,000,000 |
+| 10/13/2015 | Leon and Debra Black c/o Apollo | $5,000,000 |
+| 10/13/2015 | BFP c/o Apollo | $5,000,000 |
+| 12/30/2015 | Leon and Debra Black c/o Apollo | $10,000,000 |
+| (Additional wires through Apr 2017) | | |
+
+Also documented: $10M from Edmond de Rothschild (Suisse) SA Geneva (12/17/2015) and $14.99M from Benjamin Edmond de Rothschild (12/21/2015). BV70 LLC wires to Plan D, LLC total $30.5M (3/31/2017 and 4/17/2017).
+
+[EFTA00285298](https://www.justice.gov/epstein/files/DataSet%209/EFTA00285298.pdf): Epstein's fee dispute letter to Black reveals Epstein claimed to have saved Black "$600 million -- after tax" and expected $50-60M in fees. He discusses "Athene, Montauk Rothschild" as proposed transactions and criticizes Brad Wechsler (Elysium Management) as incompetent.
+
 ### Victim Testimony Mentioning "Black"
 
 **[EFTA01656152](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01656152.pdf), [EFTA01656173](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01656173.pdf), [EFTA01656198](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01656198.pdf), [EFTA01660622](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660622.pdf) (Prominent Names document, page 17):**
@@ -482,7 +534,7 @@ This concern about Apollo's insurance operations through Athene has since been v
 
 ### What Cannot Be Independently Verified from These Files Alone
 
-1. The specific claim that Epstein's Financial Trust Company filed SEC documents regarding ESWW (would require checking the actual EDGAR filing)
+1. ~~The specific claim that Epstein's Financial Trust Company filed SEC documents regarding ESWW~~ **VERIFIED**: DS9 contains the actual Purchase and Sale Agreement ([EFTA00586106](https://www.justice.gov/epstein/files/DataSet%209/EFTA00586106.pdf)), K-1 tax filings ([EFTA00593329](https://www.justice.gov/epstein/files/DataSet%209/EFTA00593329.pdf)), Irrevocable Stock Power ([EFTA00585846](https://www.justice.gov/epstein/files/DataSet%209/EFTA00585846.pdf)), and file cabinet inventory ([EFTA00299927](https://www.justice.gov/epstein/files/DataSet%209/EFTA00299927.pdf)) documenting the $18M FTC-to-BFP ESWW transaction
 2. The threatening phone calls (Dilorio's account only; no corroborating recordings or phone records in the database)
 3. The specific allegation of a quid pro quo between the SEC dropping the Apollo probe and the Kushner loan
 4. Whether Dilorio's Knight Capital TCR (covered action 2015-016) actually contained the information he claims
@@ -540,6 +592,7 @@ A search for "Kasowitz" across all three databases returned no results. While pu
 
 ---
 
-*Report generated: 2026-02-06*
-*Database sources: primary document text database, OCR text extraction database, Dataset 10 document text database*
-*Total EFTA documents analyzed: 16 Dilorio-specific + corroborating Leon Black/Epstein documents*
+*Report generated: 2026-02-06 | Updated 2026-02-12 with DS9/DS11 full corpus findings (1,380,937 documents)*
+*Database sources: primary document text database, OCR text extraction database, Dataset 10 document text database, full_text_corpus.db*
+*Total EFTA documents analyzed: 117+ Dilorio-specific (16 DS8 + 101 DS9) + corroborating Leon Black/Epstein documents*
+*Key updates: ESWW independently verified ($18M Purchase and Sale Agreement), Dilorio corpus 6x larger than reported, Marc Rowan direct relationship documented (15+ DS11 docs), Deutsche Bank exhibits ($98M+ Black-to-Epstein)*

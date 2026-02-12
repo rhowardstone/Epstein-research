@@ -231,9 +231,11 @@ A victim stated Epstein sent money "because he felt guilty for the trouble the a
 
 **What was not done:** These payments to NPA co-conspirators -- $350,000 within five days of the Herald series -- were identified but never charged as witness tampering or obstruction.
 
-## 3.4 The 99-Day Email Blackout
+## 3.4 The 99-Day PLIST Metadata Gap
 
-From November 14, 2018 through February 21, 2019, Apple Mail PLIST metadata from Epstein's devices shows a complete gap. During this same period:
+From November 14, 2018 through February 21, 2019, Apple Mail PLIST metadata extracted from DS11 shows a gap in Epstein's device export records. However, DS9 full-text search reveals continuous daily email activity from Epstein's jeevacation@gmail.com account throughout this period, including correspondence with Summers, Barak, Ruemmler, Church, and others. The PLIST gap is an extraction artifact from the DS11 dataset methodology, not evidence of actual email silence.
+
+During this same period, Epstein remained operationally active:
 
 - Epstein flew at least 8 documented flights on N212JE **([EFTA00037585](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037585.pdf)-00037620)**
 - He wrote continuous checks from his personal account **([EFTA01670642](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01670642.pdf))**
@@ -243,9 +245,7 @@ From November 14, 2018 through February 21, 2019, Apple Mail PLIST metadata from
 - The FBI formally opened its investigation on December 6, 2018 **([EFTA01660622](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660622.pdf))**
 - SDNY was building its case: "Yes. As of today. On the d/l for now." **([EFTA00018653](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018653.pdf))**
 
-The blackout coincides precisely with the period when Epstein had the strongest motive to destroy evidence, given his documented prior pattern of evidence destruction. **([EFTA02731082](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731082.pdf))**
-
-**What was not done:** No forensic analysis of the email gap was conducted. No determination was made as to whether emails were deleted, devices wiped, or alternative channels (Signal, WhatsApp, PGP, Telegram, ProtonMail -- all referenced in the corpus **([EFTA00035482](https://www.justice.gov/epstein/files/DataSet%208/EFTA00035482.pdf), [EFTA01660663](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660663.pdf))**) were substituted.
+**What was not done:** No one cross-referenced the DS11 PLIST metadata against the DS9 email corpus to resolve the apparent discrepancy between the metadata gap and the actual email traffic. The encrypted communications channels referenced in the corpus (Signal, WhatsApp, PGP, Telegram, ProtonMail **([EFTA00035482](https://www.justice.gov/epstein/files/DataSet%208/EFTA00035482.pdf), [EFTA01660663](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660663.pdf))**) remain unexamined, but the premise that Epstein went silent during this period is not supported by the full corpus.
 
 ---
 
@@ -568,7 +568,7 @@ A victim testified under oath that she was "ordered to" have sex with Richardson
 A victim used the term "lent out" to describe being directed by Maxwell or Epstein to have sexual contact with Glenn Dubin. **([EFTA02731082](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731082.pdf))** 54 documents reference the Dubins in the database. **No investigation or charges were ever pursued.**
 
 ### Others
-The FBI Prominent Names briefing **([EFTA01660622](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660622.pdf))** contained allegations against additional individuals, none of whom were ever investigated, subpoenaed, or charged. The NTOC tips system received 288+ tips. **([EFTA01660651](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660651.pdf), [EFTA01660679](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660679.pdf))** At least 15 individuals named in victim testimony escaped any form of criminal accountability.
+The FBI Prominent Names briefing **([EFTA01660622](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660622.pdf))** contained allegations against additional individuals, most of whom were never investigated, subpoenaed, or charged. The NTOC tips system received 291 total tips (52 anonymous), of which only 27 of 239 followed-up tips resulted in secondary contact. **([EFTA01660651](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660651.pdf), [EFTA01660679](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660679.pdf), [EFTA00164939](https://www.justice.gov/epstein/files/DataSet%209/EFTA00164939.pdf))** At least 12 individuals named in victim testimony escaped criminal accountability. Three -- the Alexander brothers (Alon, Oren, and Tal) -- are now on trial at SDNY (January 2026) for sex trafficking of 60+ women, though their charges arose from a separate investigation.
 
 ## 6.4 AG Barr's Selective Recusal
 
@@ -646,7 +646,7 @@ This chapter catalogues every significant investigative step that should have be
 
 11. **NYCO27913 -- Missing from Disc** -- Listed as provided 7/23 but physically absent from delivered disc. **([EFTA00020213](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020213.pdf))**
 
-12. **The 99-Day Email Blackout** (Nov 14, 2018 - Feb 21, 2019) -- No forensic analysis of the gap in Apple Mail PLIST metadata.
+12. **The 99-Day PLIST Metadata Gap** (Nov 14, 2018 - Feb 21, 2019) -- A gap in Apple Mail PLIST metadata from DS11 was not cross-referenced against the DS9 email corpus, which contains continuous daily email activity throughout this period. The gap is an extraction artifact, not actual email silence.
 
 ## 7.2 People Who Were Never Charged
 
@@ -666,7 +666,7 @@ This chapter catalogues every significant investigative step that should have be
 | BOP employees (death) | False certifications, false statements | OIG investigation | SDNY declined **([EFTA00035812](https://www.justice.gov/epstein/files/DataSet%208/EFTA00035812.pdf))** |
 | Guards (Thomas/Noel) | Failed to conduct rounds; falsified records | Charged; DPA offered | Charges dismissed **([EFTA00025231](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025231.pdf))** |
 | Darren Indyke | Told witness "not to talk to police" | None | Never investigated **([EFTA02731082](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731082.pdf))** |
-| CBP Officer | Self-incriminated: "Everyone knew I was friends with Epstein" | FBI proffer sessions | Outcome unknown **([EFTA00031495](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031495.pdf))** |
+| CBP Officer (Badge #CAS03223) | Self-incriminated: "Everyone knew I was friends with Epstein"; Agriculture specialist at STT; DS9 contains unredacted identification | FBI proffer sessions Oct-Nov 2020 | Outcome unknown **([EFTA00031495](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031495.pdf))** |
 
 ## 7.3 Investigations That Were Never Opened or Were Prematurely Closed
 
@@ -724,7 +724,7 @@ The Jeffrey Epstein case represents not a single failure but a cascading series 
 
 At every step, the trajectory was the same: narrow the investigation, limit the exposure, close the case. Not a single person in Epstein's orbit, other than Maxwell, was ever held criminally accountable. Not a single institutional actor -- not the prosecutors who concealed the NPA, not the guards who failed to conduct rounds, not the officials who oversaw the DVR disaster -- faced meaningful consequences.
 
-The evidence handling failures alone are staggering: an unsearched 2005 computer, VHS surveillance tapes never played, 71,000 zero-byte files never explained, server drives lost to physical failure, six machines never exported, CSAM missed for years, text messages classified as "not responsive," and a 99-day email blackout never investigated. Each of these failures, taken individually, might be explained by resource constraints, technical limitations, or procedural requirements. Taken together, they describe an institution that systematically failed to look at the evidence it possessed.
+The evidence handling failures alone are staggering: an unsearched 2005 computer, VHS surveillance tapes never played, 71,000 zero-byte files never explained, server drives lost to physical failure, six machines never exported, CSAM missed for years, text messages classified as "not responsive," and a PLIST metadata gap never cross-referenced against the actual email corpus. Each of these failures, taken individually, might be explained by resource constraints, technical limitations, or procedural requirements. Taken together, they describe an institution that systematically failed to look at the evidence it possessed.
 
 This is the story of how the United States Department of Justice, across two decades, four administrations, and multiple offices, proved incapable of dismantling a sex trafficking operation that it knew about, had evidence about, and chose, at every critical juncture, not to fully investigate.
 
@@ -869,7 +869,7 @@ The question is not whether there were failures. The question is whether the fai
 | 12/3/2018 | $250K wire to redacted individual | WITNESS TAMPERING NOT CHARGED |
 | 12/6/2018 | FBI NY formally opens investigation | -- |
 | Late 2018 | Tip: Epstein with young girl on Palm Beach bike paths | TIP IGNORED |
-| 11/14/2018-2/21/2019 | 99-day email blackout on Epstein's devices | GAP NEVER INVESTIGATED |
+| 11/14/2018-2/21/2019 | 99-day PLIST metadata gap (DS11 extraction artifact; DS9 shows continuous email activity) | CROSS-REFERENCE NOT PERFORMED |
 | 1/6/2019 | Indyke flies with Epstein (in-person, no records) | OBSTRUCTION NOT INVESTIGATED |
 | 2/21/2019 | Judge Marra: Government violated CVRA | CVRA VIOLATION CONFIRMED |
 | 5/15/2019 | SDNY sends Epstein update to ODAG: "close hold" | -- |

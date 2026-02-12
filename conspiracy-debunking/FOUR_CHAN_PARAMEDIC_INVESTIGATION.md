@@ -34,11 +34,23 @@ All emails bear SDNY confidential bates stamps (SDNY_00010223, SDNY_00011231), c
 
 ### B. What the 4chan Posts Contained
 
-While the actual content of the 4chan posts (bates SDNY_00006978-00006979) remains classified as "Protected Materials" in the discovery index, Lytvynenko's email establishes:
+DS9 documents now make the actual post content visible. Lytvynenko's second email ([EFTA00040963](https://www.justice.gov/epstein/files/DataSet%209/EFTA00040963.pdf), dated August 12, 2019) pastes the full text of post No.222520442:
 
-1. Posts appeared on 4chan **45 minutes before** ABC News broke the story
-2. The information was specific enough that a reporter suspected it came from **a paramedic** who responded to the call
-3. The posts contained details that could be verified against actual events
+> "worked asystole arrest for 40 minutes, als intubated in the field/epi/2 liters NS infused. Telemetry advised bicarb and D50 in field. Pt transported to Lower Manhattan ER and worked for 20 minutes and called. Hospital administrator was alerted, preparing statements"
+
+Lytvynenko specified: "The first post was made at 8:15 AM and the subsequent posts described in detail the first responders' actions. The first news report about Epstein's death was at roughly 9 AM." The 45-minute gap refers to the time between the first 4chan post (8:15 AM) and the first media reports (~9 AM), not the 11:12 AM press release.
+
+The 4chan Report #2093 ([EFTA00129268](https://www.justice.gov/epstein/files/DataSet%209/EFTA00129268.pdf), DS9) reveals there were **two distinct posters from two different IP addresses**:
+
+**Poster 1 (IP: 107.77.223.177) -- 3 posts:**
+- /pol/222518349 at 08:16:36 EDT -- Thread-starting post
+- /pol/222518664 at 08:21:58 EDT -- Follow-up
+- /pol/222520442 at 08:47:56 EDT -- Detailed paramedic medical post
+
+**Poster 2 (IP: 172.58.139.162) -- 1 post:**
+- /pol/222520257 at 08:44:55 EDT -- A conspiracy post claiming MCC guard status, describing a "trip van," a "guy in a green dress military outfit," and "they switched him out." This post was attempted-deleted at 09:46:22 EDT but 4chan retained the content.
+
+Both IPs are T-Mobile CGNAT (Carrier-Grade NAT) ranges, meaning both posters were using T-Mobile mobile devices. The paramedic poster used medical terminology consistent with EMS training; the conspiracy poster used corrections terminology ("0415 count," "trip van," "single man cell").
 
 ### C. The Discovery Trail -- US v. Noel and Thomas (19 Cr. 830)
 
@@ -57,7 +69,9 @@ Verizon telephone records      | SDNY_00007104-SDNY_00007108 | Protected Materia
 **[EFTA00027732](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027732.pdf)** (duplicate discovery index, same content):
 Same table listing "Materials returned from 4Chan" at SDNY_00006978-SDNY_00006979.
 
-**CRITICAL OBSERVATION**: The 4chan materials (2 pages) sit immediately BEFORE Apple Inc. subscriber records and phone company records (AT&T, Comcast, Sprint, Verizon) in the evidence sequence. This suggests the government subpoenaed records from these providers in an attempt to identify the poster -- the Apple subscriber records at SDNY_00006980-00006984 (5 pages) may represent the results of that trace attempt.
+**CRITICAL OBSERVATION**: The 4chan materials (2 pages) sit immediately BEFORE Apple Inc. subscriber records and phone company records (AT&T, Comcast, Sprint, Verizon) in the evidence sequence.
+
+**DS9 UPDATE -- Full Subpoena Chain Recovered:** [EFTA00123462](https://www.justice.gov/epstein/files/DataSet%209/EFTA00123462.pdf) (DS9) is the actual Grand Jury subpoena to 4chan Community Support LLC, dated August 13, 2019, signed by Geoffrey Berman, listing 4 specific post numbers (222520442, 222518349, 222520257, 222518664). 4chan responded the next day with Report #2093 ([EFTA00129268](https://www.justice.gov/epstein/files/DataSet%209/EFTA00129268.pdf)) revealing the two IPs. The FBI subpoena tracking log ([EFTA00133182](https://www.justice.gov/epstein/files/DataSet%209/EFTA00133182.pdf)) confirms T-Mobile and AT&T were separately subpoenaed for "IP addresses from 4chan" on August 14, 2019. The IPs (107.77.x.x and 172.58.x.x) are T-Mobile CGNAT ranges shared among thousands of mobile subscribers, explaining the "dynamic IP" dead end.
 
 ### D. The Defense Attorney's Demand for the 4chan Author
 
@@ -89,8 +103,10 @@ The SDNY responded to Request No. 30 with this critical admission:
 This reveals:
 1. The government **investigated** the 4chan post -- they obtained records
 2. They traced the IP address associated with the post
-3. The poster used a **dynamic IP** (meaning the IP address changed, typical of consumer ISPs, VPNs, or Tor)
+3. The poster used a **dynamic IP** (specifically T-Mobile CGNAT ranges making individual identification impossible without T-Mobile's internal NAT logs)
 4. The investigation hit a dead end -- **the author was never identified**
+
+**DS9 UPDATE -- BOP Suppression and AUSA Deprioritization:** [EFTA00056410](https://www.justice.gov/epstein/files/DataSet%209/EFTA00056410.pdf) (DS9) documents that BOP official Justin B. Long emailed "Do not reply to the reporter" at 7:19 PM on August 10, 2019, within hours of receiving Lytvynenko's forwarded email. Separately, [EFTA00129264](https://www.justice.gov/epstein/files/DataSet%209/EFTA00129264.pdf) reveals an AUSA emailed on August 19, 2019: "Don't worry about the 4chan records or the subpoenas related to IP information" -- suggesting the government deprioritized the 4chan investigation within 9 days.
 
 The government's response to other requests was notably obstructive -- claiming they were "not in possession" of the After Action Report (#27), that the Suicide Reconstruction Report was not in "final version" (#28), and that surveillance camera records were outside their obligation (#23).
 
@@ -210,6 +226,10 @@ Same admission from Noel.
 
 Conditions included: admitting guilt, cooperating with OIG, 100 hours community service.
 
+**DS9 UPDATE -- Noel's EMT Certification:** [EFTA00089486](https://www.justice.gov/epstein/files/DataSet%209/EFTA00089486.pdf) (DS9) reveals that Noel obtained New York State Emergency Medical Technician certification in 2013, adding context to the paramedic angle of the investigation. She also applied for SSA Claims Specialist and Contact Tracer positions while under indictment.
+
+**DS9 UPDATE -- Shuliak Phone Records:** The FBI subpoena tracking log ([EFTA00133182](https://www.justice.gov/epstein/files/DataSet%209/EFTA00133182.pdf)) identifies "Katrina Shuliac" (likely misspelling of Karyna Shuliak, Epstein's girlfriend) as being subpoenaed via AT&T on August 11, 2019 -- the day after the death -- as part of the death investigation.
+
 ### C. Nolle Prosequi -- Case Dismissed
 
 **[EFTA00009791](https://www.justice.gov/epstein/files/DataSet%208/EFTA00009791.pdf)** (Nolle Prosequi filed 01/03/2022):
@@ -261,15 +281,22 @@ An FBI tip submitted through the online portal on August 24, 2020 from North Por
 
 This is the tip that led to the FBI evidence item "Screenshots of Epstein's alleged employee's confession on YouTube and 4chan." The tipster used an iPhone running iOS 12.4.8.
 
-### C. Jean Francois Gariepy -- The YouTuber Connection
+### C. Jean Francois Gariepy -- Funded Associate
 
 **[EFTA02730741](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02730741.pdf)** (page 129, FBI case serial index):
 
 > **"(U) NTOC2019-MC3 189dec01 Possible Connection between YouTuber, Jean Francois Gariepy,"**
 
-This NTOC (National Threat Operations Center) tip, timestamped **07/08/2019** (the day AFTER Epstein's arrest), reports a "possible connection" between YouTuber Jean Francois Gariepy and the Epstein case. Gariepy is a Canadian YouTuber known for far-right content. The tip was processed the same day as over a dozen other NTOC tips that flooded in after Epstein's arrest.
+This NTOC tip, timestamped **07/08/2019**, reports a "possible connection" between YouTuber Jean Francois Gariepy and the Epstein case.
 
-The redacted version (**[EFTA02730486](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02730486.pdf)**, page 141) shows the same entry with Gariepy's name replaced by {REDACTED}: "NTOC2019-MC3 189dec01 Possible Connection between YouTuber, {REDACTED},"
+**DS9 CORRECTION:** Gariepy was not merely the subject of an anonymous tip -- he had a direct, funded relationship with Epstein spanning November 2013 to October 2014. DS9 contains 7+ email exchanges:
+- [EFTA00675528](https://www.justice.gov/epstein/files/DataSet%209/EFTA00675528.pdf): Initial outreach for NEURO.tv webseries seeking $25,000 funding
+- [EFTA00685143](https://www.justice.gov/epstein/files/DataSet%209/EFTA00685143.pdf): Payment chain -- Richard Kahn (Epstein accountant) forwarded to Epstein "please advise." Epstein replied: "Let's start at 25k." Check payable to "NEURO.tv Inc." at Durham, NC
+- [EFTA00675880](https://www.justice.gov/epstein/files/DataSet%209/EFTA00675880.pdf): Gariepy noted "Mr. Kahn has expressed some worries about NEURO.tv not being a 501(c)3"
+- [EFTA00684739](https://www.justice.gov/epstein/files/DataSet%209/EFTA00684739.pdf): "NEURO.tv Season 1 begins" (February 2014)
+- [EFTA00642599](https://www.justice.gov/epstein/files/DataSet%209/EFTA00642599.pdf): Gariepy pitched Season 2 and a book company "The Moral Signal," listing 2 Nobel laureates as guests (October 2014)
+
+Gariepy was a Duke University postdoctoral researcher soliciting science patronage -- consistent with Epstein's broader science network (Brockman, Church, Lloyd). His later far-right media career postdates the Epstein funding relationship.
 
 ### D. FBI Case File Index -- "4chan8 PNG" and "Kid Q PNG"
 
@@ -362,12 +389,8 @@ On the evening of Epstein's death -- approximately 15 hours after the body was f
 
 ## PART VIII: UNANSWERED QUESTIONS
 
-### 1. The Anonymous 4chan Poster
-The government confirmed the poster used a dynamic IP and could not be identified. Key questions remain:
-- Did the government subpoena 4chan for IP logs?
-- Were the Apple Inc. subscriber records (SDNY_00006980-00006984) related to the 4chan trace?
-- Was the poster a paramedic, correctional officer, EMS responder, hospital staff, or someone else?
-- The 4chan posts were 2 pages when bates-stamped -- what exactly did they contain?
+### 1. The Anonymous 4chan Posters -- PARTIALLY RESOLVED
+DS9 resolved several questions: the government did subpoena 4chan (Grand Jury subpoena [EFTA00123462](https://www.justice.gov/epstein/files/DataSet%209/EFTA00123462.pdf), dated 8/13/2019). There were two posters from two different T-Mobile IPs: Poster 1 (107.77.223.177) wrote 3 posts with medical terminology; Poster 2 (172.58.139.162) wrote a conspiracy post claiming guard status. T-Mobile and AT&T were subpoenaed for the IPs but the CGNAT architecture prevented identification. The AUSA deprioritized the investigation within 9 days. The actual post content is now visible. Remaining question: the identities of both posters remain unknown.
 
 ### 2. The Employee Confession
 The FBI collected "Screenshots of Epstein's alleged employee's confession on YouTube and 4chan" as a separate evidence item from the paramedic leak 4chan post. The YouTube video (ID: rD_3415Iatc) was flagged by a tipster in North Port, Florida. Was this person ever identified or interviewed?
@@ -381,8 +404,8 @@ A "Screen shot of Imgur capture of the comment made by [REDACTED]" was collected
 ### 5. The kidsquest.com Investigation
 Both the website and screenshots from kidsquest.com were collected as FBI evidence. What was the connection to the Epstein case?
 
-### 6. Jean Francois Gariepy
-The NTOC tip about a "Possible Connection between YouTuber, Jean Francois Gariepy" was logged the day after Epstein's arrest. What was the alleged connection? Was this investigated further?
+### 6. Jean Francois Gariepy -- RESOLVED
+DS9 reveals Gariepy had a direct funded relationship with Epstein: 7+ emails spanning November 2013-October 2014, Epstein committed $25K for NEURO.tv, and Richard Kahn processed the payment. Gariepy was a Duke University neuroscience postdoc, not merely the subject of an anonymous tip.
 
 ### 7. The David McPhee Quora Page
 A screenshot of "David McPhee's Quora page" was collected. What claims did McPhee make on Quora?
@@ -438,6 +461,10 @@ Noel's attorney specifically asked "Who is the author of the 4Chan message produ
 6. **The paramedic response timeline creates a narrow window** for the leak. EMS/paramedics arrived at 6:56 AM, Epstein was transported at 7:10 AM, and pronounced dead at 7:36 AM. The press release did not go out until 11:12 AM. Anyone in the response chain had approximately 4+ hours of exclusive knowledge before media reporting.
 
 7. **The investigation into the leak source appears to have been closed** without resolution, joining the broader pattern of unresolved investigative threads in the Epstein case files.
+
+8. **DS9 reveals two distinct posters**, not one. The paramedic poster (Poster 1) and the conspiracy poster (Poster 2) were different individuals posting from different T-Mobile mobile devices. The deleted conspiracy post claiming "they switched him out" went viral on Facebook by August 11, 2019 (per NTOC Serial 242, [EFTA01249740](https://www.justice.gov/epstein/files/DataSet%209/EFTA01249740.pdf)).
+
+9. **BOP suppression and prosecutorial deprioritization** are documented: Justin B. Long's "Do not reply to the reporter" order within hours, and an AUSA's "Don't worry about the 4chan records" email within 9 days.
 
 ---
 

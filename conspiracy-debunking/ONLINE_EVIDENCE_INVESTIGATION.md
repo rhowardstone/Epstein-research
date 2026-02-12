@@ -77,9 +77,9 @@ The following items are listed sequentially on this single FBI case serial page:
 
 ### Analysis
 
-1. **FBI Actively Collected Reddit Evidence:** The FBI took a screenshot of at least one specific Reddit post made by the user r/maxwellhill and entered it into the official case file as evidence.
+1. **FBI Received Reddit Evidence via Public Tip:** The FBI received **4 screenshots** of Reddit posts from a named public tipster via tips.fbi.gov on July 21, 2020. The full 6-page FBI intake form ([EFTA01245108](https://www.justice.gov/epstein/files/DataSet%209/EFTA01245108.pdf), Serial 469) identifies the tipster and includes detailed tip text about u/Maxwellhill's 14,993,132 Karma, moderator status, and posting gaps. The specific posts screenshotted included content where the maxwellhill account discussed age of consent laws and child sexual abuse. This was a **public tip, not a proactive FBI collection**.
 
-2. **The Username Was Treated as Sensitive Information:** In the publicly released version ([EFTA02730486](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02730486.pdf)), the username "r/maxwellhill" was redacted. The FBI treated this Reddit username as identifying information requiring protection under FOIA exemptions -- the same treatment given to victim names, addresses, and phone numbers. This is significant: if the account were merely a random internet conspiracy theory, there would be no reason to redact the username.
+2. **The Username Was Treated as Sensitive Information:** In the publicly released version ([EFTA02730486](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02730486.pdf)), the username "r/maxwellhill" was redacted. The FBI treated this Reddit username as identifying information requiring protection under FOIA exemptions. Note: this redaction follows standard FOIA/protective order procedures applied to all identifying information in tips, including tipster names, IP addresses, and phone numbers. The redaction does not by itself indicate FBI validation of the theory that the account belonged to Maxwell.
 
 3. **Classification Level:** The item is marked `(U)` -- Unclassified -- meaning the content itself was not classified, but the association with the username was redacted for privacy/law enforcement purposes.
 
@@ -136,7 +136,10 @@ The FBI collected 4chan materials in two entirely separate contexts:
 In **[EFTA00023768](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023768.pdf)** (June 5, 2020 letter from Foy & Seplowitz LLC, counsel for guard Tova Noel), Item #30 specifically asks:
 > **"Who is the author of the 4Chan message produced as bates number SDNY_00006978?"**
 
-The government's response ([EFTA00023756](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023756.pdf), page 6) to the related after-action report request stated they were "not in possession" of certain reports. There is no evidence in the released files that the 4chan author was ever identified.
+The government's response ([EFTA00023756](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023756.pdf), page 6) to the related after-action report request stated they were "not in possession" of certain reports.
+
+**Grand Jury Subpoena to 4chan (DS9 Discovery):**
+DS9 reveals a document not previously in the report's index: [EFTA00123462](https://www.justice.gov/epstein/files/DataSet%209/EFTA00123462.pdf) -- a **Grand Jury subpoena to 4chan Community Support LLC** dated August 13, 2019 (3 days after Epstein's death), signed by Geoffrey S. Berman (SDNY). Directed to: Custodian of Records, 4chan Community Support LLC, 5042 Wilshire Blvd #34441, Los Angeles, CA 90036. The subpoena requested IP logs, subscriber information, and session data for **four specific post numbers: 222520442, 222518349, 222520257, 222518664**. Issued under 18 U.S.C. sections 371, 1001, 1519 (conspiracy, false statements, evidence destruction), Reference No. 2019R01059. This proves the government actively sought to identify the 4chan poster through legal process. Additionally, the discovery production list ([EFTA00094815](https://www.justice.gov/epstein/files/DataSet%209/EFTA00094815.pdf)) confirms: "Materials returned from 4Chan SDNY_00006978-SDNY_00006979" -- confirming 4chan responded and the posts were formally entered as evidence.
 
 ### Thread B: "Employee Confession" on 4chan and YouTube (Post-Maxwell Arrest)
 
@@ -166,15 +169,15 @@ The filename "4chan8.PNG" suggests this was one of multiple screenshots (possibl
 
 The FBI took a screenshot of a specific Quora page belonging to someone named "David McPhee." The name was treated as requiring redaction in the public release.
 
-**Who is David McPhee?** No additional context about McPhee was found in the 1.8 million redaction records or 38,000 OCR records. The Quora page was collected alongside:
-- The r/maxwellhill Reddit screenshot
+**Who is David McPhee?** The complete FBI intake form ([EFTA01245026](https://www.justice.gov/epstein/files/DataSet%209/EFTA01245026.pdf), Serial 443, 3 pages, dated July 11, 2020) reveals McPhee was reported as a **psychologist associated with Ghislaine Maxwell** who allegedly **hypnotized the tipster when they were young**. The tipster was introduced to McPhee by Maxwell. The violation was categorized as "Public Corruption, White Collar Crime, Civil Rights" and the crime described as "Crooked Psychologist, associate with Ghislaine Maxwell." The tipster reported personal losses resulting from the relationship.
+
+This is not a random internet post or conspiracy theory -- it is a direct abuse allegation against a Maxwell-associated professional. The Quora page was collected alongside:
+- The r/maxwellhill Reddit screenshots
 - The employee confession screenshots
 - The kidsquest.com evidence
 - The Imgur comment screenshot
 
-This grouping suggests all these items were collected as part of the same investigative thread -- likely open-source intelligence (OSINT) related to tips or leads that came in via public channels after Epstein's arrest/death or Maxwell's arrest.
-
-**Possible Context:** David McPhee may have been a Quora user who posted information, theories, or claims about Epstein/Maxwell that the FBI deemed worthy of preservation as evidence. The fact that the FBI specifically screenshotted the page and entered it into the case file suggests the content was potentially relevant to the investigation.
+All of these items were submitted via tips.fbi.gov as part of the post-arrest public tip flow, not proactively collected by the FBI.
 
 ---
 
@@ -196,15 +199,9 @@ This grouping suggests all these items were collected as part of the same invest
 
 ### Analysis
 
-The FBI collected both the website itself and screenshots from www.kidsquest.com. The website URL was redacted in the public release, treated the same way as victim names and sensitive identifying information.
+The FBI collected both the website itself and screenshots from www.kidsquest.com. The website URL was redacted in the public release.
 
-**Key Observations:**
-1. The website name "kidsquest" containing the word "kids" in an Epstein investigation context warranted FBI evidence collection
-2. Multiple screenshots were taken (at least 2-4 based on the case serial entries), suggesting the FBI documented multiple pages or sections of the site
-3. No analytical context explaining WHY this website was evidence was found in the released materials
-4. The redaction of the URL in the public release suggests ongoing investigative sensitivity or privacy concerns
-
-**Note:** A "KidsQuest" children's museum exists in Bellevue, Washington, and there have historically been various websites using this name. Without the actual screenshots, the specific nature of the FBI's interest cannot be determined from the database records alone.
+**Resolved:** The actual FBI-preserved screenshot ([EFTA01245021](https://www.justice.gov/epstein/files/DataSet%209/EFTA01245021.pdf)) shows kidsquest.com/parties/ -- a page for "Kids Quest" birthday party bookings: "ULTIMATE BIRTHDAY HEADQUARTERS," "Any celebration is a cinch at Kids Quest or Cyber Quest!" This is a **children's entertainment venue**, not a suspicious website. The screenshot was submitted as part of the same NTOC tip batch as the other online evidence items, via tips.fbi.gov. It was a public tip submission, not a proactive FBI collection.
 
 ---
 
@@ -257,7 +254,9 @@ This anonymous tip reported someone possessing videos, submitted as an E-TIP aro
 
 The FBI captured a screenshot from Imgur (an image-hosting platform often used alongside Reddit) that preserved a comment made by a specific individual. The commenter's name was redacted.
 
-**Significance:** Imgur was commonly used to host images linked in Reddit posts. The proximity of this evidence item to the r/maxwellhill Reddit screenshot on the evidence index suggests a possible connection -- the Imgur capture may have been related to a Reddit post or thread about Epstein/Maxwell, potentially even from the r/maxwellhill account or discussion about it.
+**Identity Resolved:** The complete FBI intake form ([EFTA01245011](https://www.justice.gov/epstein/files/DataSet%209/EFTA01245011.pdf), Serial 422, 3 pages, dated July 7, 2020) and the actual preserved screenshot ([EFTA01245014](https://www.justice.gov/epstein/files/DataSet%209/EFTA01245014.pdf)) reveal this is **unrelated to r/maxwellhill**. The Imgur post (imgur.com/a/OM7Id5T) shows a user named "cyantist" stating: "I used to be kinda sad that I wasn't ever 'cool' enough to get invited to some parties... but now, I'm super thankful that I've never accidentally had a photo of me taken with Ghislaine. She was at the **Kleiner holiday party in 2011**, but I had no desire to meet her much less have a photo taken with her. **We knew about her supplying underage girls for sex**, but I guess that was fine with the 'cool' people who managed the tightly controlled guest list." A reply from another user asked: "Wait what? Everyone in the room knew she was a child sex trafficker... and no one in the room objected to her presence?"
+
+This documents an allegation that attendees at a Kleiner Perkins (venture capital firm) holiday party in 2011 knew about Maxwell's activities and did nothing. The FBI appended a Domain Awareness caveat: "this information was determined to be of no current lead value and did not provide a basis to investigate further."
 
 ---
 
@@ -581,14 +580,29 @@ As Brady material, the government disclosed inmate statements about the night of
 
 3. **The FBI used social media as an investigative tool.** The Bradford NH intelligence email ([EFTA00037706](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037706.pdf)) explicitly states that "a social media post" was one of the foundational leads that helped trace Maxwell through her network of shell companies to her hiding location.
 
-4. **The 4chan death leak remains unresolved** in the released materials. Someone posted details of Epstein's death 45 minutes before mainstream media reported it. The posts were preserved as evidence, defense counsel demanded the author's identity, and the government's response is not visible in the released files.
+4. **The 4chan death leak was actively investigated via Grand Jury subpoena.** [EFTA00123462](https://www.justice.gov/epstein/files/DataSet%209/EFTA00123462.pdf) reveals SDNY issued a Grand Jury subpoena to 4chan Community Support LLC on August 13, 2019, requesting IP/subscriber data for four specific post numbers. Despite this legal process, the ultimate identification of the poster is not documented in the released files.
 
 5. **The FBI collected evidence from at least 10 online platforms:** Reddit, Quora, YouTube, 4chan, Imgur, Twitter, MySpace, kidsquest.com, OnlyFans (screenshots of Tonks' posts), and Instagram (Tonks/HouseInHabit campaign).
 
-6. **Hundreds of NTOC tips were processed** through tips.fbi.gov, with sequential numbering indicating at least 288+ individual tip submissions across 2019-2020.
+6. **327+ NTOC documents** exist in DS9 alone, with tips spanning July 2019 through at least February 2023 -- four years of continuous tip flow, far exceeding the original estimate of 288+.
 
 7. **The redaction pattern is revealing.** The FBI treated the r/maxwellhill username, David McPhee's name, the kidsquest.com URL, and the Manchester-by-the-Sea address as sensitive information requiring redaction -- the same level of protection given to victim names and phone numbers.
 
 ---
 
 *Report generated from cross-database forensic analysis of 1.8M redaction records, 38K OCR records, and 20K image analysis records across 5 databases.*
+
+---
+
+## REVISIT CORRECTIONS LOG (February 12, 2026)
+
+Corrections integrated from revisit against full_text_corpus.db (1,380,937 docs, all 12 datasets):
+
+1. **r/maxwellhill (Part 2):** FBI received 4 screenshots from a named public tipster via tips.fbi.gov, not proactively collected. Full 6-page intake form identified ([EFTA01245108](https://www.justice.gov/epstein/files/DataSet%209/EFTA01245108.pdf)). Redaction follows standard FOIA procedures, not necessarily validation of the theory.
+2. **David McPhee (Part 4):** Identity resolved -- reported as a psychologist associated with Maxwell who allegedly hypnotized the tipster when young. Abuse allegation, not internet theorizing ([EFTA01245026](https://www.justice.gov/epstein/files/DataSet%209/EFTA01245026.pdf)).
+3. **Imgur capture (Part 7):** Unrelated to r/maxwellhill. Documents an allegation that Kleiner Perkins holiday party attendees in 2011 knew Maxwell "supplying underage girls for sex" ([EFTA01245014](https://www.justice.gov/epstein/files/DataSet%209/EFTA01245014.pdf)).
+4. **kidsquest.com (Part 5):** Actual screenshot shows a children's birthday party entertainment venue, not a suspicious website ([EFTA01245021](https://www.justice.gov/epstein/files/DataSet%209/EFTA01245021.pdf)).
+5. **4chan (Part 3):** Grand Jury subpoena to 4chan Community Support LLC discovered ([EFTA00123462](https://www.justice.gov/epstein/files/DataSet%209/EFTA00123462.pdf)), proving active legal process to identify the poster.
+6. **NTOC tips (Conclusions):** Expanded from 288+ to 327+ DS9 documents, tips spanning 2019-2023.
+7. **New discovery -- Jean-Francois Gariepy / NEURO.tv:** 26 DS9 documents reveal Epstein funded Gariepy's neuroscience web series ($25K+ starting Nov 2013, [EFTA00685143](https://www.justice.gov/epstein/files/DataSet%209/EFTA00685143.pdf)). Gariepy later became a far-right YouTube personality. This Epstein-funded online content creator was not in the original report.
+8. **Borgerson/Manchester-by-the-Sea:** Expanded from 7 DS8 documents to 140+ DS9 documents, including complete cellphone tracking warrant ([EFTA00073438](https://www.justice.gov/epstein/files/DataSet%209/EFTA00073438.pdf)), FBI surveillance decisions, and Montpelier Trust forensic accounting.

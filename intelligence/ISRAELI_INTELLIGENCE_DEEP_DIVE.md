@@ -18,6 +18,8 @@ This investigation systematically searched 218GB of DOJ documents across four da
 6. **Wexner's attorney proffer** reveals Epstein stole "several hundred million dollars" and held power of attorney -- the financial genesis of Epstein's empire came from a co-founder of the Mega Group
 7. **ZERO results** for Carbyne, Mega Group, Shin Bet, Aman, Unit 8200, or LAKAM in any database
 
+> **[REVISIT UPDATE — Full Corpus Expansion]** Searching the complete 1.38M-document corpus (all 12 datasets) substantially expands several findings above. 301 E 66th Street now appears in **1,439 documents** (up from 4 in DS8 alone). **Ossa Properties LLC**, the corporate entity controlling 301 E 66th, appears in **784 documents** and was not mentioned in V1. **Paula Heil Fisher** (163 documents), absent from V1, bridges Epstein's personal life to the Israeli tech ecosystem through direct contact with Yehuda Zisapel. Blackmail references expand from 12 to **355 documents**. Additionally, an FBI CHS FD-1023 ([EFTA00090314](https://www.justice.gov/epstein/files/DataSet%209/EFTA00090314.pdf)) states Epstein "belonged to both U.S. and allied intelligence services" — discovered in the V2 revisit (Report #52). The V1 ZERO findings for Carbyne, Reporty, Mega Group, Unit 8200, and Shin Bet are all overturned by the V2 full-corpus search (see Part X corrections). Only Ben-Menashe and LAKAM remain at zero across the full corpus. A comprehensive V2 report exists at `ISRAEL_DEEP_DIVE_V2.md`.
+
 ---
 
 # PART I: EHUD BARAK -- THE 301 EAST 66TH STREET NEXUS
@@ -79,6 +81,8 @@ This means the former Prime Minister and Defense Minister of Israel maintained a
 - MC2 models were provided apartments (confirmed by bookkeeper deposition)
 - Epstein's corporate entities were registered (HBRK Associates, Suite 10F)
 - Epstein's girlfriend Karyna Shuliak resided (Apt 10F / 8H)
+
+> **[REVISIT UPDATE — 301 E 66th Street Full Corpus]** The full 1.38M-document corpus reveals **1,439 documents** referencing 301 E 66th Street (630 DS9, 647 DS10, 158 DS11), a 360x expansion from the 4 documents in DS8 alone. **Ossa Properties LLC** — the corporate entity controlling 301 E 66th — appears in **784 documents** (355 DS9, 291 DS10, 135 DS11), comparable in corpus frequency to Southern Trust or Haze Trust. This was not mentioned in V1 but is among the most frequently referenced Epstein entities in the full corpus. The building's centrality to operations is now documented at massive scale.
 
 ## B. The Full Ehud Barak Document Registry
 
@@ -197,6 +201,15 @@ An August 2014 email from Paula Heil Fisher to Epstein:
 
 She links to the profile of **Yehuda Zisapel**, Chairman of RAD Group -- one of Israel's most prominent technology entrepreneurs who co-founded RAD Data Communications and dozens of other Israeli tech companies. Fisher was offering to broker an Epstein-Zisapel connection.
 
+> **[REVISIT UPDATE — Paula Heil Fisher Full Corpus]** Fisher was absent from V1's main analysis despite appearing in the corpus. The full corpus reveals **163 documents** across DS9-DS11 (55 DS9, 60 DS10, 48 DS11). Key findings:
+> - **Calendar entries** show regular meetings, including April 2013 appearances alongside Leon Black on the same day
+> - **DS9 calendar**: December 2014 performance invitation — "Jeffity says he WILL attend" (intimate nickname)
+> - **Vanity Fair article (DS9/DS10)**: Identifies Fisher as Epstein's "long-term girlfriend" and "former Bear Stearns associate"
+> - **[EFTA00995217](https://www.justice.gov/epstein/files/DataSet%209/EFTA00995217.pdf)** and **[EFTA02588573](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02588573.pdf)** / **[EFTA02717864](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02717864.pdf)**: All copies of the same email where Fisher discusses meeting Zisapel in Israel — the only Zisapel reference in the corpus and the direct Fisher-Zisapel-Epstein bridge
+> - **Yehuda Zisapel**: 4 documents total, all copies of the Fisher-Zisapel email. No independent Zisapel-Epstein correspondence. The connection runs through Fisher, not direct Epstein-Zisapel contact.
+>
+> Fisher's Bear Stearns background (same firm where Epstein began his career) and direct contact with Zisapel (RAD Group co-founder, Israeli tech pioneer) establish a previously undocumented bridge between Epstein's personal life and the Israeli technology connections.
+
 ---
 
 # PART IV: THE "INTELLIGENCE ASSET" QUESTION
@@ -282,6 +295,8 @@ This was circulated internally at SDNY on December 1, 2019.
 
 [EFTA02731226](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731226.pdf): The Maxwell prosecution memo references a victim who "stated that Epstein had cameras in his clocks and that the FBI was surveilling Epstein's residence from across the street."
 
+> **[REVISIT UPDATE — Blackmail Documentary Base]** The full corpus reveals **355 documents** containing "blackmail" references (DS8: 12, DS9: 211, DS10: 95, DS11: 37), a 30x expansion from the 12 documents available when V1 was written. While many are news articles and legal filings referencing the general blackmail theory, DS9 includes prosecution documents, victim statements, and FBI case materials not available at V1. The volume establishes that blackmail was a pervasive theme across the investigative record. Additionally, "intelligence asset" references expand from 1 to **22 documents** (DS7: 1, DS9: 15, DS10: 6). The key intelligence-related document remains [EFTA00030182](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030182.pdf) ("I was told Epstein 'belonged to intelligence' and to leave it alone"). The V2 revisit (#52) identified the far more significant [EFTA00090314](https://www.justice.gov/epstein/files/DataSet%209/EFTA00090314.pdf) (FBI CHS FD-1023 stating Epstein "belonged to both U.S. and allied intelligence services").
+
 ---
 
 # PART VI: THE MELVYN KOHN CORRESPONDENCE -- MOSSAD, ARMS DEALERS, AND CHINESE AGENTS
@@ -320,6 +335,10 @@ He also mentions Mark Epstein's Israeli contacts:
 4. Mark Epstein's response asking about a Knesset member suggests his own Israeli political connections
 5. The entire exchange was forwarded to SDNY by Mark Epstein's attorney
 
+> **[REVISIT UPDATE — Kohn Cyber Analysis + Humpty Dumpty Institute]** The full corpus adds one new Kohn document: **[EFTA00146777](https://www.justice.gov/epstein/files/DataSet%209/EFTA00146777.pdf)** (DS9) — a cyber analysis of Kohn's emails performed by **T&M Protection Resources**, a private security firm. This is significant: Epstein had private security analyze the communications of the man who wrote to SDNY claiming "certain parties in this mix who ARE" working for foreign intelligence. This suggests either (a) Kohn's claims were taken seriously enough to investigate his communications, or (b) the analysis was conducted to assess how much Kohn knew and who he had communicated with — consistent with counter-intelligence behavior or threat assessment.
+>
+> The **Humpty Dumpty Institute** expands from 2 to **17 documents**. DS9 reveals the organization's actual work: **[EFTA00616319](https://www.justice.gov/epstein/files/DataSet%209/EFTA00616319.pdf)** and **[EFTA01204254](https://www.justice.gov/epstein/files/DataSet%209/EFTA01204254.pdf)** are Congressional delegation agendas to **Azerbaijan**, establishing HDI as a real organization running Congressional trips to strategic countries. Azerbaijan is a strategic energy corridor, and Congressional delegations there involve intelligence-sensitive briefings. Kohn's mention of this organization alongside his intelligence claims now has documentary corroboration of the Institute's Congressional travel role.
+
 ---
 
 # PART VII: THE DILORIO/SCHLAFF ISRAELI FINANCIAL THREAD
@@ -342,6 +361,8 @@ And references Israeli-connected financial fraud:
 > "Stetson: Honig side kick. Therapix now SciSpare. Still Israel... 20 Raul Wallenberg Street, Tower A, **Tel Aviv 6971916, Israel**."
 
 **Martin Schlaff** is an Austrian-Israeli billionaire who has been investigated for corruption in connection with Israeli politics, particularly payments to Ariel Sharon's son. Dilorio's materials allege Schlaff's Alpha Capital Anstalt (Liechtenstein) was connected to money laundering networks that intersected with Epstein's financial operations.
+
+> **[REVISIT UPDATE — Schlaff/Dilorio Expansion]** The full corpus expands Martin Schlaff references from 5 to **105 documents** (DS8: 5, DS9: 100). All 100 DS9 documents are Dilorio whistleblower filings — repetitive SEC complaint copies mentioning Schlaff in the context of Apollo/Kushner/Epstein Financial Trust. No new independent Schlaff-Epstein correspondence found. Dilorio references expand from 16 to **118 documents** (DS8: 16, DS9: 101, DS10: 1), confirming the massive Dilorio whistleblower filing presence in DS9. Northstar references expand from 1 to **65 documents** (DS8: 1, DS9: 28, DS10: 26, DS11: 10), though many may reference Northstar entities unrelated to the Epstein network.
 
 ---
 
@@ -389,27 +410,31 @@ This more sensitive report (classified LAW ENFORCEMENT SENSITIVE) covers Roderic
 
 # PART X: NEGATIVE FINDINGS -- WHAT WAS NOT FOUND
 
-The following searches returned ZERO results across all document collections:
+The following searches returned ZERO results across the original 4 databases (OCR, primary text, DS10 text, image catalog). **[REVISIT CORRECTION]** The full-corpus search against all 12 datasets (1.38M documents) overturns several of these ZERO findings, as noted in the rightmost column:
 
-| Search Term | Databases Searched | Result |
-|-------------|-------------------|--------|
-| "Carbyne" | All 4 | **ZERO** |
-| "Mega Group" | All 4 | **ZERO** |
-| "Shin Bet" / "Shabak" | All 4 | **ZERO** |
-| "Aman" (as intelligence service) | All 4 | **ZERO** (only "Aman" as a name) |
-| "Unit 8200" | All 4 | **ZERO** |
-| "LAKAM" | All 4 | **ZERO** |
-| "Mossad" (as substantive reference) | All 4 | **3 unique documents** -- all external correspondence, none from FBI investigation itself |
-| Brunel + Israel/Tel Aviv | All 4 | **ZERO** |
-| MC2 + Tel Aviv | All 4 | **ZERO** |
-| Israel + blackmail + intelligence | All 4 | **ZERO** |
-| Carbyne + any term | All 4 | **ZERO** |
+| Search Term | V1 Result (4 DBs) | V2 Full Corpus Result | Notes |
+|-------------|-------------------|----------------------|-------|
+| "Carbyne" | **ZERO** | ~~ZERO~~ **50 documents** (DS9:34, DS10:12, DS11:4) | Mostly news articles but establishes Carbyne visibility in corpus |
+| "Reporty" | Not searched in V1 | **324 documents** (DS9:12, DS10:312) | Reporty Homeland Security referenced extensively in DS10 legal filings |
+| "Mega Group" | **ZERO** | ~~ZERO~~ **4 documents** (DS9:2, DS10:2) | Includes 1 direct mention in Kohn context, others in media |
+| "Shin Bet" / "Shabak" | **ZERO** | ~~ZERO~~ **23 documents** (DS9:6, DS10:7, DS11:10) | All media/legal references |
+| "Aman" (as intelligence service) | **ZERO** (only as name) | Unchanged | |
+| "Unit 8200" | **ZERO** | ~~ZERO~~ **11 documents** (DS9:2, DS10:2, DS11:7) | All media articles referencing Israeli intelligence |
+| "LAKAM" | **ZERO** | Still **ZERO** | Confirmed across 1.38M documents |
+| "Ben-Menashe" | **ZERO** | Still **ZERO** | Confirmed across 1.38M documents |
+| "Mossad" (as substantive reference) | **3 documents** | Expanded | All external correspondence, none from FBI investigation itself |
+| Brunel + Israel/Tel Aviv | **ZERO** | Unchanged | |
+| MC2 + Tel Aviv | **ZERO** | Unchanged | |
+| Israel + blackmail + intelligence | **ZERO** | Unchanged | |
 
-**Significance of Negative Findings:**
-- The complete absence of Carbyne from FBI files is notable given public reporting of Ehud Barak's chairmanship and Nicole Junkermann's investment
-- The absence of Mega Group is striking given Wexner's co-founding role and the group's documented focus on Israel advocacy
-- No Israeli intelligence service is referenced in any FBI investigative document (only in external correspondence)
-- MC2's documented Tel Aviv recruiting operations are NOT referenced in the FBI files despite the agency's investigation of MC2
+> **[REVISIT UPDATE — FBI CHS Intelligence Reporting]** The V2 revisit (#52) identified **[EFTA00090314](https://www.justice.gov/epstein/files/DataSet%209/EFTA00090314.pdf)** (DS9): an FBI CHS FD-1023 reporting that Epstein "belonged to both U.S. and allied intelligence services." This was not available when V1 was written and represents the most direct intelligence-connection statement in the corpus. Additionally, an FBI ARMS entry identifies **Masha Drokova** as "PUTIN's kiss, former publicist for Epstein." The Barak document count expands from ~25 to **3,756 documents** and Junkermann from ~10 to **4,182 documents** across the full corpus.
+
+**Revised Significance of Negative Findings:**
+- ~~The complete absence of Carbyne from FBI files is notable~~ Carbyne now appears in 50 documents, mostly news articles; Reporty Homeland Security appears in 324
+- ~~The absence of Mega Group is striking~~ Mega Group now appears in 4 documents, though references are limited to media and Kohn context
+- Israeli intelligence services (Shin Bet, Unit 8200) now appear in media/legal references within the corpus, though none in FBI investigative documents directly
+- MC2's documented Tel Aviv recruiting operations are still NOT referenced in the FBI files despite the agency's investigation of MC2
+- Only **Ben-Menashe and LAKAM** remain at true zero across the full 1.38M-document corpus
 
 ---
 
@@ -468,14 +493,26 @@ INTELLIGENCE ANGLES
 |    +--- "Epstein required Jane Doe #3 to describe the events... so he could
 |         potentially blackmail them"
 |
-301 E 66TH STREET NEXUS
+301 E 66TH STREET NEXUS [REVISIT: 1,439 documents in full corpus]
 |
++--- OSSA PROPERTIES LLC (corporate entity, 784 documents in full corpus)
 +--- EHUD BARAK apartment (cleaned by Epstein staff)
 +--- MC2 MODEL HOUSING (FBI searched, 2000+ records)
 +--- VICTIM HOUSING (multiple victims placed there by Epstein)
 +--- GUEST APARTMENT 2G ("guest arriving on Friday")
 +--- NINE EAST 71ST STREET CORP / HBRK ASSOCIATES (Suite 10F)
 +--- KARYNA SHULIAK residence (Suite 10F / 8H)
+|
+FISHER-ZISAPEL BRIDGE [REVISIT: New finding]
+|
++--- PAULA HEIL FISHER (163 documents, "long-term girlfriend," Bear Stearns)
+|    +--- Calendar presence alongside Leon Black (Apr 2013)
+|    +--- "Jeffity says he WILL attend" (intimate nickname)
+|    +--- Direct contact with Yehuda Zisapel in Israel
+|    +--- Only pathway to Israeli tech ecosystem in corpus
+|
++--- FBI CHS FD-1023 (EFTA00090314) [REVISIT: V2 discovery]
+     +--- "Epstein belonged to both U.S. and allied intelligence services"
 ```
 
 ---
@@ -498,17 +535,19 @@ INTELLIGENCE ANGLES
 
 ## What Remains Missing:
 
-1. **No direct evidence of Israeli intelligence direction** of Epstein appears in these FBI files. The Mossad references are exclusively in external correspondence (Kohn letters, social media posts, news articles).
+1. **No direct evidence of Israeli intelligence direction** of Epstein appears in these FBI files. The Mossad references are exclusively in external correspondence (Kohn letters, social media posts, news articles). However, the FBI CHS FD-1023 ([EFTA00090314](https://www.justice.gov/epstein/files/DataSet%209/EFTA00090314.pdf)) states Epstein "belonged to both U.S. and allied intelligence services" — the most direct intelligence-connection statement in the corpus, identified in the V2 revisit.
 
-2. **Carbyne is completely absent** from the FBI investigation files, despite being the most concrete publicly-reported link between Barak's intelligence connections and Epstein's network.
+2. ~~**Carbyne is completely absent**~~ **[REVISIT CORRECTION]** Carbyne now appears in **50 documents** across the full corpus (DS9:34, DS10:12, DS11:4), mostly news articles. Reporty Homeland Security appears in **324 documents**. These are primarily media references, not FBI investigative documents, but the complete absence claimed in V1 is overturned.
 
-3. **The Mega Group is completely absent**, suggesting either deliberate omission, classification, or investigative blindspot.
+3. ~~**The Mega Group is completely absent**~~ **[REVISIT CORRECTION]** Mega Group now appears in **4 documents** (DS9:2, DS10:2), though references are limited to media and Kohn letter context. The near-absence remains notable given Wexner's co-founding role.
 
 4. **MC2's Tel Aviv operations** are not investigated in any document found in these databases, despite MC2 publicly advertising recruitment of girls ages 13-20.
 
 5. **The IDF clothing provenance** is never explained -- whose items were they, and how did they end up on Epstein's island?
 
 6. **The classified/redacted portions** of these files may contain the most relevant intelligence connections. The FOIA exemption memo ([EFTA00015219](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015219.pdf)) explicitly states information about "confidential relationship with a foreign government" was withheld.
+
+7. **[REVISIT UPDATE]** Epstein had private security firm T&M Protection Resources conduct a **cyber analysis of Melvyn Kohn's emails** ([EFTA00146777](https://www.justice.gov/epstein/files/DataSet%209/EFTA00146777.pdf)) — the man who claimed "certain parties in this mix who ARE" working for foreign intelligence. Whether this was counter-intelligence behavior or threat assessment remains unresolved.
 
 ---
 
@@ -577,8 +616,15 @@ INTELLIGENCE ANGLES
 | [EFTA02730477](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02730477.pdf) | Jan 2022 | FBI TIR (LES) -- Roderic Hamilton | OCR |
 | [EFTA02731082](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731082.pdf) | 2019 | SDNY prosecution memo -- Wexner proffer, Groff, Brunel | OCR |
 
-**Total unique documents analyzed: 55+**
-**Databases searched: 4**
+| [EFTA00090314](https://www.justice.gov/epstein/files/DataSet%209/EFTA00090314.pdf) | N/A | FBI CHS FD-1023: "Epstein belonged to both U.S. and allied intelligence services" | DS9 (V2 revisit) |
+| [EFTA00146777](https://www.justice.gov/epstein/files/DataSet%209/EFTA00146777.pdf) | N/A | T&M Protection Resources cyber analysis of Melvyn Kohn's emails | DS9 (revisit) |
+| [EFTA00616319](https://www.justice.gov/epstein/files/DataSet%209/EFTA00616319.pdf) | N/A | Humpty Dumpty Institute Congressional delegation agenda to Azerbaijan | DS9 (revisit) |
+| [EFTA01204254](https://www.justice.gov/epstein/files/DataSet%209/EFTA01204254.pdf) | N/A | Humpty Dumpty Institute additional Azerbaijan delegation document | DS9 (revisit) |
+| [EFTA00995217](https://www.justice.gov/epstein/files/DataSet%209/EFTA00995217.pdf) | N/A | Paula Heil Fisher email about meeting Yehuda Zisapel in Israel | DS9 (revisit) |
+| [EFTA02717864](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02717864.pdf) | N/A | Fisher-Zisapel Israel meeting email (copy) | DS11 (revisit) |
+
+**Total unique documents analyzed: 60+**
+**Databases searched: 4 (V1) + full corpus 1.38M documents across all 12 datasets (revisit)**
 
 ---
 
@@ -615,4 +661,4 @@ This report incorporates and extends findings from:
 
 ---
 
-*Investigation conducted February 6, 2026. All findings derived from publicly released DOJ FOIA documents.*
+*Investigation conducted February 6, 2026. Revisit updates integrated February 12, 2026 from full_text_corpus.db (1,380,937 docs across all 12 datasets). All findings derived from publicly released DOJ FOIA documents. A comprehensive V2 report superseding this V1 exists at `ISRAEL_DEEP_DIVE_V2.md`.*

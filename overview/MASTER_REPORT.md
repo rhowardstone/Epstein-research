@@ -236,7 +236,7 @@ Epstein's personal DDA account (739110438) served as the central clearing hub fo
 - **LSJE LLC:** Emergency **"HELP TO STOP WIRE"** order involving Richard Kahn
 - **2017 Caterpillar Trust:** Returned funds triggered compliance concern
 - **Harvest Collateral Yield Enhancement Strategy:** A derivatives overlay operating through harvestvolmgt.com
-- **Prytanee LLC:** Appears in July 2018 balance reports -- a previously unknown entity
+- **Prytanee LLC:** Appears in July 2018 balance reports. KYC principal identified as **Etienne Pierre Jean Binant** (French citizen), not Jack Lang as previously speculated. Caroline Lang was only the social introducer. $700K estate valuation (50% interest)
 
 ### 5.3 Structural Assessment
 
@@ -279,15 +279,16 @@ AML alerts on the Haze Trust reached the **"URGENT - THIRD REQUEST!!!!!"** level
 | Post-arrest 2019 | SAR finally filed covering 25 subjects |
 | January 2023 | Deutsche Bank pays $75M settlement to victims |
 
-### 6.4 Paul Barrett: The Banker Who Followed Epstein
+### 6.4 Paul Barrett: Economic Partner, Not Merely a Banker
 
-**Paul Barrett** appears 61 times across 55 documents. He managed Epstein's accounts at **both JP Morgan and Deutsche Bank**, following the client when JPM terminated the relationship in 2013.
+**Paul Barrett** appears 61 times across 55 documents. He managed Epstein's accounts at JP Morgan through approximately 2013 and then at Deutsche Bank. However, DS9 evidence reveals Barrett **left Deutsche Bank by mid-2017** and founded **Alpha Group Capital LLC** with Epstein funding ($250K/yr + forgivable loans). Barrett was named as a beneficiary in Epstein's will. His relationship with Epstein was therefore that of an economic partner, not merely an institutional banker who followed a client.
 
-- Weekly **"Epstein week of [date]"** reports for 5.5 years
+- Weekly **"Epstein week of [date]"** reports for 5.5 years at Deutsche Bank
 - Managed derivatives, FX trades, $10M Brazilian sovereign CDS
 - NMLS ID# 853441
 - 6-8 DB personnel copied on weekly reports
-- **Zero compliance flags raised** during his entire tenure
+- **Zero compliance flags raised** during his institutional tenure
+- Post-DB: founded Alpha Group Capital LLC with direct Epstein financial backing
 
 **[Full details: [INVESTIGATION_2_DB_KYC_BREACH.md](/financial/INVESTIGATION_2_DB_KYC_BREACH.md), INVESTIGATION_7_BARRETT_REPORTS.md]**
 
@@ -318,10 +319,12 @@ Kahn had **complete visibility** into the entire financial architecture. He was 
 
 ### 7.3 Paul Barrett
 
-- Deutsche Bank private banker who managed Epstein's accounts at both JPM (pre-2013) and DB (2013-2019)
-- Wrote weekly status reports on Epstein's portfolio
+- Managed Epstein's accounts at JPM (pre-2013) and DB (2013 to mid-2017)
+- Left Deutsche Bank by mid-2017 and founded **Alpha Group Capital LLC** with Epstein funding ($250K/yr + forgivable loans)
+- Named as a beneficiary in Epstein's will
+- Wrote weekly status reports on Epstein's portfolio while at Deutsche Bank
 - Managed complex derivatives trading including "Harvest Collateral Yield Enhancement Strategy"
-- Never raised a compliance flag in 13+ years of managing accounts where the source of $500M+ in funds was undocumented
+- Never raised a compliance flag during his institutional tenure managing accounts where the source of $500M+ in funds was undocumented
 
 **[Full details: [FORENSIC_ACCT_4_JABWCPA_INSTITUTION1.md](/financial/FORENSIC_ACCT_4_JABWCPA_INSTITUTION1.md), [INVESTIGATION_7_BARRETT_REPORTS.md](/financial/INVESTIGATION_7_BARRETT_REPORTS.md), INVESTIGATION_8_UNEXPLORED_NAMES.md]**
 
@@ -342,7 +345,7 @@ Four variants of an FBI internal briefing document titled **"PROMINENT NAMES"** 
 | Variant | EFTA | Key Features |
 |---------|------|-------------|
 | V1 | [EFTA01656152](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01656152.pdf) | Earliest; no date annotations |
-| V2 | [EFTA01656173](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01656173.pdf) | Adds "Cuomo stated" detail; Simon Andriesz name |
+| V2 | [EFTA01656173](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01656173.pdf) | Adds "Cuomo stated" detail (note: "Cuomo" is a **victim surname** -- [EFTA02696360](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02696360.pdf) confirms "Tony Cuomo" invited to Epstein's house Jan 2012 -- not Governor Andrew Cuomo); Simon Andriesz name |
 | V3 | [EFTA01656198](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01656198.pdf) | Adds "(referred)" next to Jes Staley and Les Wexner |
 | V4 | [EFTA01660622](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660622.pdf) | Most complete; marked UNCLASSIFIED; date ranges; victim identifiers (Lafine, Bjorlin); removes "(referred)" notations; adds Steve Scully witness |
 
@@ -730,7 +733,7 @@ Across 1,808,915 redactions from all 12 DOJ datasets, the following claims popul
 | Occult practices | Zero references |
 | Human sacrifice | Zero references |
 | Adrenochrome | Zero references |
-| Mossad/MI6/CIA direct involvement | Only in George Tonks' social media posts collected by FBI, not in FBI investigative documents |
+| Mossad/MI6/CIA direct involvement | George Tonks' social media posts collected by FBI; additionally, FBI CHS FD-1023 ([EFTA00090314](https://www.justice.gov/epstein/files/DataSet%209/EFTA00090314.pdf)) contains an unverified confidential human source claim that Epstein "belonged to both U.S. and allied intelligence services" and "trained as a spy under" Barak. The CHS claim is unverified but the document exists in the FBI case file |
 | Netanyahu/Bibi connection | Zero references |
 | Underground torture chambers | Hidden structures documented but no torture references |
 
@@ -753,7 +756,7 @@ This is the most significant finding of the entire analysis. The documents do no
 | Deutsche Bank KYC breach declared April 2018 | Accounts serviced 8-10 more months |
 | $46.96M Haze Trust drawdown during active AML inquiry | No account freeze |
 | $350K wired to NPA co-conspirators after Herald exposure | No obstruction charges |
-| Paul Barrett managed accounts at JPM and DB for 13+ years | Zero compliance flags |
+| Paul Barrett managed accounts at JPM and DB, then left DB mid-2017 to found Alpha Group Capital LLC with Epstein funding | Zero compliance flags while at banks; became economic partner |
 | Fontanillas knew of "inappropriate conduct with underage girls" | No prosecution (826 appearances) |
 | Barry Josephson discussed "casting girls," received $335K | No prosecution |
 | Maxwell SSN anomalies (CT prefix, "Military Record: YES") | Never investigated |
@@ -783,7 +786,7 @@ The original report (Section 8) documented only four names from the FBI's intern
 | Les Wexner | 1 victim statement - "earned his money from having homosexual [sex with] Wexner" | **(referred)** |
 | Alan Dershowitz | 1 statement - massage on plane ("not a minor") | Not referred |
 | Bill Clinton | 1 statement - "invited to an orgy but did not attend" ("not a victim") | Not referred |
-| Howard Lutnick | 1 NTOC - Epstein sold Lutnick home for $10, later sold for millions; money laundering/Ponzi allegations | Not referred |
+| Howard Lutnick | 1 NTOC tip (financial allegations); DS9 reveals **20+ documents** showing active social relationship (2011-2013) including calendar appointments, Lutnick family visit to Little St. James Island by boat (Dec 2012), document sharing, and placement on same call list as Leon Black/Nikolic/Staley/Brockman | Not referred |
 | William Barr/Leon Black | Joint entry - "Barr and Black were present during abuses" | Not referred, no recusal |
 
 **Note:** Howard Lutnick is currently U.S. Secretary of Commerce (2025-present).
@@ -829,16 +832,16 @@ From [EFTA01660622](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660
 - Multiple proffer sessions
 - Contact records with Florida victims
 
-### 22.7 Bitcoin and Cryptocurrency Connections
+### 22.7 Bitcoin, Cryptocurrency, and Carbyne/Reporty Investment
 
-An entirely unexplored financial dimension of Epstein's operations:
+A financial dimension of Epstein's operations that extends beyond Bitcoin to documented technology investments. DS9 contains 50+ Carbyne and 324 Reporty documents showing Epstein invested $500K in Carbyne/Reporty (a surveillance technology company co-founded by Ehud Barak), with Barak holding a $1.5M carry at a $50M valuation. Board reports were forwarded to Epstein. Additional cryptocurrency references:
 
 - **[EFTA01734786](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01734786.pdf):** "Bitcoin Specialization - October 2015 LedgerX - Confidential"
 - **[EFTA02070051](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02070051.pdf):** "would you and the Bitcoin group" -- Epstein had a "Bitcoin group"
 - **[EFTA02069096](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02069096.pdf):** "Bitcoins for Mongolia" project
 - Multiple connections to Blockchain Capital (blockchaincapital.com)
 
-These references indicate Epstein was involved in cryptocurrency as early as 2015, including what appears to be a specialized team ("the Bitcoin group"), connections to a regulated Bitcoin derivatives exchange (LedgerX), and an international cryptocurrency project involving Mongolia. None of this was explored in any known investigation.
+These references indicate Epstein was involved in cryptocurrency as early as 2015, including what appears to be a specialized team ("the Bitcoin group"), connections to a regulated Bitcoin derivatives exchange (LedgerX), and an international cryptocurrency project involving Mongolia.
 
 ### 22.8 "34 Victims, Only 3 Contacted by FBI"
 
@@ -929,7 +932,7 @@ Full deep extraction of all 10,594 DS8 PDFs recovered **32,384 additional hidden
 
 | Dataset | Material | Status |
 |---------|----------|--------|
-| Dataset 9 | 109 PDFs scanned — 0 redactions (properly redacted) | Complete |
+| Dataset 9 | 109 PDFs scanned for annotation-style redactions — 0 found (text properly removed, not overlaid). DS9 contains **531,284 documents** with full text including the email corpus, calendars, and FBI investigative documents | Complete |
 | Dataset 8 | 419 MCC surveillance videos cataloged and frame-extracted | Complete |
 | Dataset 8 | 136,255 redactions extracted, 95,263 with text | **Complete** |
 | Dataset 8 | 4 completely block-redacted CSV files (2.55 MB) | Cannot be bypassed |
@@ -1204,7 +1207,7 @@ A comprehensive content survey of all **10,594 PDFs** in Dataset 8 yielded the f
 
 ### DS9 Scan Results
 
-Dataset 9 was scanned for redactions: **0 annotation-style redactions found** (properly redacted — text removed, not overlaid). DS9 contains:
+Dataset 9 was scanned for annotation-style redactions: **0 found** (text properly removed, not overlaid). However, DS9 is the largest dataset with **531,284 documents** containing full text. The "109 PDFs/0 redactions" description referred only to annotation-style overlays. DS9 contains the complete email corpus, calendars, trust instruments, corporate documents, and FBI investigative records. Key DS9 content includes:
 - **[EFTA00039025](https://www.justice.gov/epstein/files/DataSet%209/EFTA00039025.pdf)** (128 pages): Complete OIG Report 23-085 (June 2023) — MCC death investigation
 - MCC SHU check sheets from night of death (08/10/2019)
 - BOP count sheets and inmate rosters
@@ -1223,3 +1226,19 @@ Dataset 9 was scanned for redactions: **0 annotation-style redactions found** (p
 *This report was generated through forensic analysis of publicly released DOJ documents. All findings are derived from text extracted from PDF text layers (OCR), supplemented by direct PDF rendering and verification of key documents. Only 12 specific PLIST documents had genuinely failed redaction overlays; the remainder of the corpus represents OCR-extracted text from scanned document pages. No classified or non-public documents were accessed. The source material is available at the DOJ's public release portal.*
 
 *Total analysis: 1,808,942 redactions across 519,438 PDFs from 12 datasets (~218GB). 28 detailed sub-reports totaling approximately 800KB of documented findings. Last updated: February 6, 2026 (Section 23: Deep Document Investigation added).*
+
+---
+
+## REVISIT CORRECTIONS LOG (February 12, 2026)
+
+The following corrections were integrated from a revisit cross-referencing 78 prior report revisits against the full_text_corpus.db (1,380,937 docs, all 12 datasets):
+
+1. **Section 5.2 (Prytanee LLC):** KYC principal identified as Etienne Pierre Jean Binant (French citizen), not Jack Lang. Caroline Lang was only the social introducer. (Report #11 revisit)
+2. **Sections 6.4/7.3 (Paul Barrett):** Barrett left Deutsche Bank by mid-2017 and founded Alpha Group Capital LLC with Epstein funding ($250K/yr + forgivable loans). He was a beneficiary of Epstein's will -- an economic partner, not merely a banker. (Report #15 revisit)
+3. **Section 20 (Intelligence claims):** FBI CHS FD-1023 ([EFTA00090314](https://www.justice.gov/epstein/files/DataSet%209/EFTA00090314.pdf)) contains an unverified CHS claim that Epstein "belonged to both U.S. and allied intelligence services." The document exists in the FBI case file though the claim is unverified. (Report #52 revisit)
+4. **Section 22.7 (Bitcoin/crypto):** Carbyne/Reporty investment documented: 50 Carbyne + 324 Reporty docs in DS9. Epstein invested $500K, Barak had $1.5M carry, $50M valuation. (Report #52 revisit)
+5. **Section 22.14b (DS9 scope):** DS9 contains 531,284 documents with full text. The "109 PDFs/0 redactions" described only annotation-style redactions. DS9 is the largest dataset. (Report #48 revisit)
+6. **Section 8.2 (Cuomo):** "Cuomo" on the Prominent Names page is a victim surname, not Governor Andrew Cuomo. [EFTA02696360](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02696360.pdf) confirms "Tony Cuomo" invited to Epstein's house (Jan 2012). (Session 8 finding)
+7. **Section 22.1 (Lutnick):** DS9 reveals 20+ documents showing active social relationship (2011-2013) including Lutnick family visit to Little St. James Island (Dec 2012). (Report #21 revisit)
+8. **Section 21 (Barrett non-investigation):** Corrected to reflect Barrett's departure from DB mid-2017 and status as economic partner. (Report #15 revisit)
+9. **Section 22.16 footnote:** Coatue Enterprises LLC ($2M) was Richard Kahn's personal shell company per GVI complaint [EFTA00161836](https://www.justice.gov/epstein/files/DataSet%209/EFTA00161836.pdf), not Philippe Laffont's tech hedge fund. (Report #9 revisit)

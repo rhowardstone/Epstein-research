@@ -143,7 +143,7 @@ Deutsche Bank's relationship with Epstein was organized under a single relations
 **Insurance/Professional:** Epstein Insurance Trust, Stewart Oldfield (PWM SPG), Daphne Cales, Darren K. Indyke PLLC
 **Investment Recipients:** Honeycomb Partners LP ($64M), Boothbay Fund ($38.25M), Valar Global Fund ($28.8M), Tudor Futures Fund ($13.5M), Blockchain Capital IV, Coatue Enterprises, Neoteny 3 LP
 **Maxwell-Related:** Butterfly Trust, Angara Trust (Maxwell as grantor)
-**Art/Culture:** Prytanee LLC (Jack Lang, $197K), Gratitude America Ltd (Lithuanian ballet)
+**Art/Culture:** Prytanee LLC (managed by Etienne Binant; indirect Jack Lang connection through daughter Caroline, $197K), Gratitude America Ltd (Lithuanian ballet)
 **Crypto:** The 2017 Caterpillar Trust ($15M Blockchain Capital)
 **Third-Party Clients (Same Officers):** Leon D. Black (multiple accounts), Christopher A. Boies, Todd & Karen Wanek JTWRO, Dominique Leimer
 
@@ -168,7 +168,7 @@ The shell entity network was not random -- each entity served a specific operati
 | **Air Ghislaine Inc** | Helicopter -- renamed Shmitka Air Inc in 2010 (post-Maxwell separation) | Sikorsky S-76C-2 |
 | **Financial Trust Company Inc** | USVI entity -- $212M assets, JP Morgan account, Indyke authorized contact | $18.3M "transfer to Maxwell" (1999) |
 | **BV70 LLC** | Black-controlled entity -- $50.5M in Epstein accounts | $30.5M to Plan D, $10M to Gratitude America |
-| **Prytanee LLC** | Art investment with Jack Lang's daughter Caroline | $1.4M deposited, $197K remaining |
+| **Prytanee LLC** | Art investment managed by Etienne Binant; indirect Jack Lang connection through daughter Caroline | $1.4M deposited, $197K remaining |
 | **Gratitude America Ltd** | Lithuanian ballet + cancer research -- Shuliak connection | BV70/Black $10M funding |
 | **The 2017 Caterpillar Trust** | Crypto investment vehicle | $15M Blockchain Capital (Feb 2018) |
 | **Epstein Insurance Trust** | Art insurance | Covered bronzes across properties |
@@ -357,9 +357,9 @@ The Black payment was described as "in connection with an art transaction" ([EFT
 
 $1M to Neoteny 3 LP, $1M+ direct to Ito across multiple payments (2014-2015). Ito arranged a US Treasury call to include Epstein ([EFTA02589077](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02589077.pdf)), attended dinner at Epstein's with Woody Allen, Tom Pritzker, and Ed Boyden ([EFTA02377042](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02377042.pdf)), and was invited alongside Reid Hoffman to Columbus Day weekend at Epstein's property ([EFTA02575363](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02575363.pdf)). Ito resigned from MIT Media Lab when payments were exposed. ([EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf))
 
-**Coatue Enterprises / Philippe Laffont ($2M)**
+**Coatue Enterprises ($2M)**
 
-Four quarterly $500K payments (2017-2018). Two of four payments occurred post-KYC breach. ([EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf))
+**CORRECTION (Revisit #9):** The Coatue contact was Richard Kahn (Epstein's accountant at HBRK Associates), not Philippe Laffont personally. Laffont is Coatue's founder, but the Epstein relationship ran through Kahn. Additionally, Epstein's trust instruments reference "Coatue Enterprises, LLC" in connection with Kahn's beneficial interests. Four quarterly $500K payments (2017-2018). Two of four payments occurred post-KYC breach. ([EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf))
 
 **Gratitude America, Ltd -- Lithuanian Ballet and Cancer Research**
 
@@ -398,7 +398,7 @@ The period immediately following the Miami Herald publication represents the mos
 | Dec 3, 2018 | Payment to another NPA co-conspirator | $250,000 | [EFTA00028785](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028785.pdf) |
 | Dec 2018 | Additional emergency disbursements | Multiple | [EFTA00028785](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028785.pdf) |
 
-The government characterized the Aviloop and co-conspirator payments as potential witness tampering -- emergency disbursements to co-conspirators timed precisely to the publication that reignited public scrutiny of the Epstein case. The Butterfly Trust -- from which the Aviloop wire originated -- listed both Ghislaine Maxwell AND Karyna Shuliak as beneficiaries ([EFTA01282297](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01282297.pdf)), demonstrating that co-conspirator payments and romantic partner benefits flowed from the same entity. During this same critical window, the 99-day PLIST email blackout was in effect, meaning there is no electronic communication trail documenting who directed these emergency payments, what instructions were given, or whether additional payments were made through channels not captured in the Deutsche Bank productions.
+The government characterized the Aviloop and co-conspirator payments as potential witness tampering -- emergency disbursements to co-conspirators timed precisely to the publication that reignited public scrutiny of the Epstein case. The Butterfly Trust -- from which the Aviloop wire originated -- listed both Ghislaine Maxwell AND Karyna Shuliak as beneficiaries ([EFTA01282297](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01282297.pdf)), demonstrating that co-conspirator payments and romantic partner benefits flowed from the same entity. **CORRECTION (Revisit #48):** The original report stated a "99-day PLIST email blackout" was in effect during this window. DS9 has established this was incorrect -- the jeevacation@gmail.com account was continuously active throughout this period, and DS9 contains conference calls (e.g., Ruemmler/Wolff/Indyke on December 3) and direct Epstein emails. Electronic communication trails DO exist for this period through DS9 grand jury subpoena returns. The PLIST gap was a methodological artifact of DS11 metadata extraction, not a cessation of communications.
 
 ### KYC Breach and Post-Breach Flows
 
@@ -416,19 +416,19 @@ The documented timeline of compliance failure at Deutsche Bank:
 
 Deutsche Bank ultimately paid $150 million in penalties to the New York Department of Financial Services for these failures. The same officers who approved Epstein transactions (Stewart Oldfield, Paul Morris, Jj Litchford) managed the accounts of Epstein's largest financial patron Leon Black and other VIP clients including the Wanek Trust of 2000 (Ashley Furniture CEO Todd Wanek) under the "Third Lake Capital Relationship" ([EFTA01477330](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01477330.pdf)). Individual criminal attribution to specific bankers remains an open question -- the forensic workbench analysis established strong institutional knowledge + control failure + suspicious transaction handling, but the evidence falls short of individual criminal attribution without additional transaction metadata and testimony.
 
-### The 99-Day Email Blackout (November 14, 2018 -- February 21, 2019)
+### The 99-Day PLIST Gap (November 14, 2018 -- February 21, 2019)
 
-PLIST timestamp analysis of 420 emails with parseable Apple Mail metadata identified a 99-day blackout period from November 14, 2018, through February 21, 2019. This window covers:
+PLIST timestamp analysis of 420 emails with parseable Apple Mail metadata identified a 99-day gap in PLIST-recovered metadata from November 14, 2018, through February 21, 2019. This window covers:
 
-| Event | Date | Email Activity |
-|-------|------|----------------|
-| Miami Herald "Perversion of Justice" series begins | Nov 28, 2018 | ZERO emails |
-| $100K wire to Marcinkova/Aviloop (witness tampering) | Nov 30, 2018 | ZERO emails |
-| $250K wire to another co-conspirator | Dec 3, 2018 | ZERO emails |
-| Emergency financial restructuring period | Dec-Jan 2019 | ZERO emails |
-| $31.5M dissolution event | Feb 19-22, 2019 | 2 emails (household only) |
+| Event | Date | PLIST Email Activity |
+|-------|------|----------------------|
+| Miami Herald "Perversion of Justice" series begins | Nov 28, 2018 | ZERO PLIST-recovered emails |
+| $100K wire to Marcinkova/Aviloop (witness tampering) | Nov 30, 2018 | ZERO PLIST-recovered emails |
+| $250K wire to another co-conspirator | Dec 3, 2018 | ZERO PLIST-recovered emails |
+| Emergency financial restructuring period | Dec-Jan 2019 | ZERO PLIST-recovered emails |
+| $31.5M dissolution event | Feb 19-22, 2019 | 2 PLIST-recovered emails (household only) |
 
-The blackout represents either: (a) evidence destruction of the jeevacation@gmail.com account during this period; (b) a switch to an alternative communication channel; or (c) physical separation from the Apple Mail-configured device. The timing is extraordinary -- the most critical financial and legal crisis period in the operation's history corresponds to a complete cessation of documented electronic communication through the primary email account.
+**CORRECTION (Revisit #48):** The gap was originally described as a "blackout" implying zero email activity during this period. DS9 analysis has established that the jeevacation@gmail.com account was in fact continuously active throughout this entire period. Epstein emailed Summers, Barak, Ruemmler, Church, Groff, and others daily. Conference calls were documented (e.g., Ruemmler/Wolff/Indyke on December 3). The gap was an artifact of the DS11 PLIST extraction methodology, which only captured Apple Mail metadata from a specific device or backup -- not the totality of the jeevacation@gmail.com account. DS9 contains the same emails recovered through other channels (e.g., grand jury subpoena returns from Google). The PLIST gap therefore reflects device-specific metadata loss, not a communication cessation.
 
 For comparison, the monthly average email volume during the active period was approximately 5.5 emails per PLIST-recovered document, with August 2014 (the Tudor $13.5M transfer month) peaking at 23 emails -- 4.2 times the monthly average.
 
@@ -702,7 +702,7 @@ CDs labeled "Zorro" and "LSJ" (Little Saint James) were among items seized from 
 
 The AT&T records corroborate the weekly cycling pattern documented in flight logs: regular communication clusters at NYC-area cell sites, followed by Palm Beach-area sites, followed by USVI-area sites -- consistent with the Teterboro-PBI-USVI route. Communication intensity spiked during periods of known financial activity, paralleling the PLIST email-to-transaction correlation findings.
 
-The records also document communication patterns during the 99-day email blackout period (November 2018 - February 2019). While the jeevacation@gmail.com account went silent, telephone communications may have continued -- suggesting the blackout was specific to the email channel rather than a complete communication cessation.
+The records also document communication patterns during the November 2018 - February 2019 period. **CORRECTION (Revisit #48):** The jeevacation@gmail.com account did not go silent during this period -- DS9 documents show continuous daily email activity. The earlier characterization of a "99-day email blackout" was an artifact of the DS11 PLIST extraction methodology. The AT&T telephone records provide an additional communication channel for this period, complementing (rather than replacing) the email activity now confirmed through DS9.
 
 ## K. The Science and Technology Network
 
@@ -853,7 +853,7 @@ This cycling pattern was enabled by the CBP officer at St. Thomas who cleared Ep
 
 ### Pilot Retroactive Log Modification
 
-Co-pilot David Rodgers confirmed under oath that he went "back to add in that passenger's name on prior flight logs" ([EFTA02731168](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731168.pdf) p.7). This retroactive modification of flight records means the existing passenger manifests are incomplete and potentially sanitized. The names visible on the logs represent a floor, not a ceiling, of who actually flew on Epstein's aircraft.
+**CORRECTION (Revisit #41):** [EFTA02731168](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731168.pdf) p.7 actually states that co-pilot David Rodgers would "NOT go back to add in that passenger's name on prior flight logs." Prosecutors cited this testimony to explain why flight records are incomplete -- passengers who boarded without being logged at the time were never retroactively added. This reflects negligent record-keeping, not deliberate sanitization. The names visible on the logs still represent a floor, not a ceiling, of who actually flew on Epstein's aircraft, but the incompleteness stems from lax practices rather than post-hoc tampering.
 
 ### International Routes Documented
 
@@ -1640,7 +1640,7 @@ These reports demonstrate that the FBI maintained active intelligence-gathering 
 
 ## N. Critical Negative Findings
 
-- ZERO results for Carbyne (Barak's company) across all document collections
+- **CORRECTION (Revisit #52):** The original finding of "ZERO results for Carbyne" is incorrect. DS9 contains 374 documents referencing Carbyne/Reporty, including records of direct Epstein investment in the Israeli tech-intelligence company. Additionally, FBI CHS FD-1023 ([EFTA00090314](https://www.justice.gov/epstein/files/DataSet%209/EFTA00090314.pdf)) explicitly states "Epstein belonged to both U.S. and allied intelligence services" and "trained as a spy under" Barak. A separate investigative memo ([EFTA00098755](https://www.justice.gov/epstein/files/DataSet%209/EFTA00098755.pdf)) describes Epstein as a "financial bounty hunter" for the U.S. government. While CHS reports are unverified, their existence in the FBI case file is forensically significant
 - ZERO results for Mega Group (Wexner co-founded) across all document collections
 - ZERO results for Shin Bet, Aman, Unit 8200, or LAKAM (Israeli intelligence agencies)
 - ZERO results for MC2 + Tel Aviv recruiting records
@@ -1648,7 +1648,7 @@ These reports demonstrate that the FBI maintained active intelligence-gathering 
 - ZERO results for Deripaska despite the likely identification of "Oleg" in Mandelson's Moscow email
 - ZERO results for Soros-Epstein substantive connection (one LedgerX pitch deck, one Swedish museum)
 - ZERO results for Bezos-Epstein direct connection (only 2004 Indian Summer dinner via Brockman)
-- ZERO results for Musk-Epstein
+- ~~ZERO results for Musk-Epstein~~ **CORRECTION (Revisit #54):** 1,038 documents and 15+ direct email exchanges found in DS9/DS10/DS11
 - ZERO results for Kevin Spacey-Epstein
 - The systematic absence of Israeli intelligence agency references across 1.8M+ records is itself forensically significant -- it suggests either that such records were never created, never seized, or were removed from the corpus before release
 
@@ -1857,9 +1857,9 @@ Key documented transactions in Black's collection:
 
 Black refused to answer the Senate Finance Committee's questions about like-kind exchanges and art sales involving Epstein ([EFTA02731023](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731023.pdf)). He "helped start an art gallery" for a woman he "allegedly had a relationship with" at 237 Lafayette Street, dissolved September 2018 ([EFTA02731697](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731697.pdf)).
 
-## C. Prytanee LLC / Jack Lang
+## C. Prytanee LLC / Caroline Lang
 
-Joint Epstein/Caroline Lang (daughter of former French Culture Minister Jack Lang) entity for "art investment" with $1.4M deposited. Confirmed on Deutsche Bank balance sheet at RM CODE 82289 with $197,214 remaining ([EFTA01415196](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01415196.pdf)). Lang resigned from Arab World Institute in February 2026 after the DOJ file release; French criminal investigation opened. France 24 reported Lang was "summoned over Epstein links." Al Jazeera reported France would investigate the former culture minister.
+**CORRECTION (Revisit #11):** Prytanee LLC was managed by Etienne Binant, not Jack Lang directly. The connection to Jack Lang is indirect, through his daughter Caroline Lang's involvement in the entity. Joint Epstein/Caroline Lang "art investment" entity with $1.4M deposited. Confirmed on Deutsche Bank balance sheet at RM CODE 82289 with $197,214 remaining ([EFTA01415196](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01415196.pdf)). Lang resigned from Arab World Institute in February 2026 after the DOJ file release; French criminal investigation opened. France 24 reported Lang was "summoned over Epstein links." Al Jazeera reported France would investigate the former culture minister.
 
 ## D. Friends Ventures LLC / Black-Lauder
 
@@ -2102,7 +2102,7 @@ Lesley Groff = heaviest PLIST presence (40+ documents), confirming her role as p
 | Emergency Wires (Dec 2018) | **0 emails** | **TOTAL BLACKOUT** |
 | $31.5M Dissolution (Feb 2019) | 2 emails (household only) | **MINIMAL** |
 
-The 99-day email blackout (November 14, 2018 through February 21, 2019) covers the most critical financial crisis period -- when the Miami Herald story broke, emergency wires were sent to co-conspirators, and the $31.5M dissolution occurred. This represents either evidence destruction, a communication channel switch, or device separation.
+The 99-day PLIST gap (November 14, 2018 through February 21, 2019) covers the most critical financial crisis period -- when the Miami Herald story broke, emergency wires were sent to co-conspirators, and the $31.5M dissolution occurred. **CORRECTION (Revisit #48):** DS9 has established that Epstein's email was continuously active throughout this period. The gap was specific to the PLIST metadata extraction from DS11, not a real communication cessation.
 
 Key financial correspondents identified through PLIST analysis:
 - **Richard Kahn** (HBRK Associates, 575 Lexington Ave): 7 emails -- trust operations, Christie's art, Maybach exchange, trustee changes
@@ -2615,14 +2615,14 @@ The following searches returned zero results across ALL six databases -- absence
 
 | Term | Expected Presence | Significance of Absence |
 |------|-------------------|------------------------|
-| Carbyne (Barak's company) | Israeli tech, Barak connection | No corporate records despite Barak apartment |
+| ~~Carbyne (Barak's company)~~ | ~~Israeli tech, Barak connection~~ | **CORRECTION (Revisit #52):** 374 Carbyne/Reporty documents found in DS9, including direct Epstein investment records. This entry was incorrect. |
 | Mega Group | Wexner co-founded | No reference to major Wexner organization |
 | Unit 8200 / Shin Bet / Aman / LAKAM | Israeli intelligence | Zero intelligence agency names in 3.4M records |
 | MC2 + Tel Aviv | Foreign office of MC2 | Zero records from office recruiting ages 13-20 |
 | Deripaska | Mandelson "Oleg" reference | Likely suppression of Russian oligarch name |
 | Soros + Epstein | Public allegations | One LedgerX pitch deck only |
 | Bezos + Epstein | Public allegations | One 2004 dinner only (via Brockman) |
-| Musk + Epstein | Public allegations | Zero results |
+| ~~Musk + Epstein~~ | ~~Public allegations~~ | **CORRECTION (Revisit #54):** 1,038 documents and 15+ direct email exchanges found in DS9/DS10/DS11. This entry was incorrect. |
 | Spacey + Epstein | Public allegations | Zero results |
 
 ---
@@ -2695,7 +2695,7 @@ Search Pattern 3: Temporal Analysis
 - Extract date-stamped records for a target period
 - Map events against known timeline
 - Identify gaps, clusters, and anomalies
-- Example: 99-day PLIST email blackout identification
+- Example: 99-day PLIST metadata gap identification (later corrected by DS9 -- gap was methodology-specific, not a real blackout)
 
 Search Pattern 4: Financial Chain Tracing
 - Start from a known Bates-stamped transaction
@@ -2887,7 +2887,7 @@ The documentary evidence establishes, with varying degrees of certainty, the fol
 **Established Beyond Reasonable Doubt:**
 1. Jeffrey Epstein operated a sex trafficking enterprise spanning multiple countries and decades
 2. Ghislaine Maxwell was his primary co-conspirator (convicted December 2021)
-3. At minimum 60-80 individual victims were identified; the actual number is likely 200+
+3. At minimum 93 individual victims were identified per FBI's own count ([EFTA00161426](https://www.justice.gov/epstein/files/DataSet%209/EFTA00161426.pdf), Revisit #56); the actual number is likely 200+
 4. $755 million in documented financial flows passed through 95+ shell entities at a single bank
 5. Deutsche Bank continued processing Epstein transactions after documenting its own compliance failures
 6. The same bankers (Litchford and Morris) simultaneously managed Epstein and his largest patron (Leon Black)
@@ -2902,9 +2902,9 @@ The documentary evidence establishes, with varying degrees of certainty, the fol
 3. Epstein operated a surveillance/blackmail apparatus using camera-in-clock systems and recording equipment
 4. The 2007 NPA was engineered to protect Dershowitz himself while he negotiated it
 5. A CBP officer facilitated customs bypass at St. Thomas for 7+ years
-6. Epstein had connections to foreign intelligence services (documented but uninvestigated)
+6. Epstein had connections to foreign intelligence services (documented but uninvestigated). **UPDATE (Revisit #52):** FBI CHS FD-1023 ([EFTA00090314](https://www.justice.gov/epstein/files/DataSet%209/EFTA00090314.pdf)) explicitly claims Epstein "belonged to" U.S. and allied intelligence services. An investigative memo ([EFTA00098755](https://www.justice.gov/epstein/files/DataSet%209/EFTA00098755.pdf)) characterizes him as a "financial bounty hunter" for the U.S. government. DS9 also contains 374 Carbyne/Reporty documents showing direct Epstein investment in an Israeli tech-intelligence company. CHS reports are unverified, but their presence in the FBI case file elevates this finding
 7. The February 2019 $31.5M dissolution event was pre-arrest asset repositioning
-8. The 99-day email blackout corresponds to evidence destruction or communication channel switching
+8. ~~The 99-day email blackout corresponds to evidence destruction or communication channel switching~~ **REMOVED (Revisit #48):** DS9 documents establish that the jeevacation@gmail.com account was continuously active throughout this period. The 99-day gap was an artifact of DS11 PLIST extraction methodology, not a real blackout. Epstein operated with full confidence during this period, hosting Barak on the island, claiming involvement in Treasury Secretary selection, and distributing Apple Watches to Bannon
 
 **Strongly Suggested but Not Conclusively Proven:**
 1. The Austrian passport under a false name was used for intelligence-related travel
@@ -2919,10 +2919,10 @@ The documentary evidence establishes, with varying degrees of certainty, the fol
 This investigation found NO evidence supporting the following claims that circulate publicly:
 - George Soros had any substantive connection to Epstein (one LedgerX pitch deck, one Swedish museum)
 - Jeff Bezos had any direct connection to Epstein (only a 2004 dinner via Brockman)
-- Elon Musk had any connection to Epstein (zero results across all document collections)
+- **CORRECTION (Revisit #54):** Elon Musk had no connection to Epstein -- this claim is incorrect. DS9/DS10/DS11 contain 1,038 documents and 15+ direct email exchanges (2012-2015), including Musk asking about "the wildest party on your island," Epstein offering helicopter transport, holiday socializing in BVI/St. Barths across multiple years, and Epstein brokering Sultan bin Sulayem's business proposal to Musk. The original "zero results" finding was an artifact of incomplete database searches that did not cover DS9/DS11
 - Kevin Spacey had any connection (zero results)
 - Andrew Cuomo was implicated -- "Cuomo" on the Prominent Names page refers to a VICTIM surname, not the Governor ([EFTA02696360](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02696360.pdf))
-- Howard Lutnick was involved in sexual abuse -- the single NTOC tip alleged a $10 house purchase, not sexual conduct, and the source was identified as a disgruntled employee
+- Howard Lutnick was involved in sexual abuse -- the single NTOC tip alleged a $10 house purchase, not sexual conduct, and the source was identified as a disgruntled employee. **UPDATE (Revisit #21):** While no sexual abuse allegations exist, the characterization of the Lutnick connection as a "single NTOC tip" is materially incomplete. DS9 reveals 20+ documents showing an active 2011-2013 social relationship: calendar appointments, the Lutnick family visiting Little St. James Island by boat (December 2012), contact exchanges, and placement on the same call list as Leon Black and Jes Staley. The evidence does not establish sexual misconduct but documents a deeper relationship than "single NTOC tip" implies
 - The "Pizzagate" conspiracy theory has any evidentiary basis in these files -- while the FBI collected 4chan materials and "Kid Q" PNG files as evidence of online threats ([EFTA00027732](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027732.pdf)), these were cataloged as threats against victims and investigators, not as corroboration of conspiracy theories
 - Epstein's death was a homicide -- while multiple anomalies are documented (DVR failure, guard sleeping, cellmate removed, will timing, replacement drives not installed), the autopsy finding remains suicide by hanging, and the documentary evidence does not establish a murder conspiracy, despite Michael Baden's public statement that the injuries were "more consistent with homicidal strangulation"
 - Any single foreign intelligence service "ran" Epstein -- the evidence shows connections to multiple countries (Israel, Saudi Arabia, Russia) without establishing a controlling relationship with any one service

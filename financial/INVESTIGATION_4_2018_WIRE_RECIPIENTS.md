@@ -137,7 +137,7 @@ This establishes that Epstein and his associates had a documented history of obs
 
 ### A. "Institution-1" and Trust Accounts
 
-The bail memo refers to "Institution-1" three times (pages 3, 4, and 10). The financial records in the database reveal Epstein maintained accounts at multiple institutions, with the following trust structures identified:
+The bail memo refers to "Institution-1" three times (pages 3, 4, and 10). DS9 confirms that **Institution-1 is Deutsche Bank**, as established by the NYDFS Consent Order ([EFTA00151495](https://www.justice.gov/epstein/files/DataSet%209/EFTA00151495.pdf)) and the co-conspirator payment exhibit account numbers matching Deutsche Bank accounts documented in KYC files. The financial records in the database reveal Epstein maintained accounts at multiple institutions, with the following trust structures identified:
 
 **[EFTA01381149](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01381149.pdf) (Bank Account Balance Report, dated 08/17/18 -- two months before the wires):**
 
@@ -157,7 +157,7 @@ The bail memo refers to "Institution-1" three times (pages 3, 4, and 10). The fi
 | HBRK ASSOCIATES, INC | D | $149,498.33 |
 | NES LLC | D | $264,466.13 |
 
-**The Haze Trust** held over **$40 million** as of August 2018 and is the most likely candidate for the "trust account he controlled" referenced in the bail memo.
+**The Haze Trust** held over **$40 million** as of August 2018 and was initially considered the most likely candidate for the "trust account he controlled" referenced in the bail memo. However, DS9 contains the definitive government exhibit ([EFTA00092643](https://www.justice.gov/epstein/files/DataSet%209/EFTA00092643.pdf) / [EFTA00105307](https://www.justice.gov/epstein/files/DataSet%209/EFTA00105307.pdf)) confirming that both obstruction wires originated from the **Butterfly Trust** (Deutsche Bank account 44130552), not the Haze Trust. The Butterfly Trust balance shown above ($323,679) reflects a snapshot date before the relevant payments were funded.
 
 ### B. The Full Epstein Account Network ([EFTA01359500](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01359500.pdf))
 
@@ -363,7 +363,7 @@ The email traffic shows immediate response:
 
 1. **Timing is devastating.** The $100,000 wire occurred exactly two days after the Miami Herald's "Perversion of Justice" series renewed public scrutiny of the Epstein case. The $250,000 wire followed three days later. Both occurred before the FBI formally opened its new investigation on December 6, 2018. This is consistent with urgent payments designed to secure silence or continued cooperation from co-conspirators who might face renewed legal exposure.
 
-2. **Source is telling.** Both wires originated from a single "trust account he controlled" -- part of the complex web of entities (Haze Trust, Butterfly Trust, Southern Trust Company, Gratitude America, etc.) that Epstein used to manage and obscure his financial dealings, managed through Darren Indyke's law practice.
+2. **Source is telling.** Both wires originated from the **Butterfly Trust** (Deutsche Bank account 44130552) -- a trust that the NYDFS Consent Order ([EFTA00151495](https://www.justice.gov/epstein/files/DataSet%209/EFTA00151495.pdf), paragraph 29) confirms "included, among others, CO-CONSPIRATORS 1-3" as beneficiaries. Deutsche Bank knew at onboarding that the Butterfly Trust had co-conspirator beneficiaries, yet failed to flag the Nov 30 and Dec 3 wires.
 
 3. **Recipients are specifically identified as NPA co-conspirators.** The government did not say the recipients were associates, friends, or business partners. They were "individual[s] named as a possible co-conspirator in the NPA." This precise legal language means the recipients were among those who received immunity protection under the 2007 agreement -- individuals who could potentially be charged if the NPA were reopened.
 
@@ -373,15 +373,19 @@ The email traffic shows immediate response:
 
 6. **The text was deliberately hidden.** The fact that this passage was concealed behind a "bad_overlay" redaction in the bail memorandum -- meaning it was covered by a graphic element rather than properly redacted -- suggests an intent to keep this information from public view. The confidence score of 0.99 indicates near-certainty that this text was present and intentionally obscured.
 
-### B. Probable Identity of Recipients
+### B. Identity of Recipients -- Resolved and Unresolved
 
-While the recovered text does not name the recipients, the cross-referencing analysis narrows the field:
+**$100,000 recipient (Nov 30, 2018): CONFIRMED -- Aviloop LLC (Nadia Marcinkova)**
 
-- The recipients were **named co-conspirators in the 2007 NPA**, which protected "potential co-conspirators of Epstein, including but not limited to [REDACTED]"
-- The known NPA co-conspirators include: **Ghislaine Maxwell, Nadia Marcinkova, Sarah Kellen, Lesley Groff**, and **Adriana Ross**
-- The trust account beneficiary described in [EFTA01360504](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01360504.pdf) was female ("She will also never have her own personal account")
-- Lesley Groff and Ghislaine Maxwell both had extensive documented financial dependence on Epstein and his entities
-- Maxwell operated through ELLMAX, which was created with Darren Indyke's help and maintained accounts at the same institution
+DS9 contains the government's own prosecution exhibit ([EFTA00092643](https://www.justice.gov/epstein/files/DataSet%209/EFTA00092643.pdf) / [EFTA00105307](https://www.justice.gov/epstein/files/DataSet%209/EFTA00105307.pdf)), titled "EXHIBIT: TIMELINE OF PAYMENTS TO (OR ON BEHALF OF) POTENTIAL CO-CONSPIRATORS (PAYMENTS > $10,000)" (Grand Jury material, Rule 6(e)). This 4-page exhibit confirms:
+- **$100,000** on **Nov 30, 2018** to **Aviloop LLC** at **TD Bank**, from **Butterfly Trust** (account 44130552)
+- **$45,000** on **Nov 27, 2018** to **Aviloop LLC** at **TD Bank**, from **JEGE LLC** (account 42953475) -- a previously unknown wire, one day BEFORE the Miami Herald publication
+
+Aviloop LLC = Nadia Marcinkova is confirmed definitively by [EFTA00921756](https://www.justice.gov/epstein/files/DataSet%209/EFTA00921756.pdf) (Epstein to Kahn: "please wire nadia 50k, either to aviloop or to where directed by her") and [EFTA00678472](https://www.justice.gov/epstein/files/DataSet%209/EFTA00678472.pdf) (Marcinkova advising Epstein on wire labeling: "100 can be sent in two parts - one billed as commission for buyer representation in the purchase of the G-IV... another wire for pilot services for Hyperion air"). Marcinkova received $145,000 within 4 days.
+
+**$250,000 recipient (Dec 3, 2018): STILL UNIDENTIFIED**
+
+The $250,000 wire went to a **redacted beneficiary** at **Bank of America** from **Butterfly Trust** (same account 44130552). The name is redacted in both copies of the government exhibit. Analysis of the co-conspirator profile in footnote 3 of the exhibit -- female, on flight logs, Butterfly Trust beneficiary 2011-2014, resided at the model-housing address (301 E 66th), opened accounts in multiple names -- is consistent with Sarah Kellen or another inner-circle facilitator. Not Marcinkova (separate TD Bank entry), not Groff (Bankwell/E*Trade), and probably not Maxwell (different account infrastructure).
 
 ### C. Why This Matters
 
@@ -430,20 +434,54 @@ The government used these wire transfers as a cornerstone of its obstruction arg
 
 ---
 
-## XI. RECOMMENDATIONS FOR FURTHER INVESTIGATION
+## XI. RECOMMENDATIONS FOR FURTHER INVESTIGATION -- STATUS
 
-1. **Identify the specific trust account.** Cross-reference the Haze Trust and Butterfly Trust transaction records for November 30 and December 3, 2018 debits matching $100,000 and $250,000.
+1. **Identify the specific trust account.** RESOLVED: **Butterfly Trust** (account 44130552) confirmed by government exhibit [EFTA00092643](https://www.justice.gov/epstein/files/DataSet%209/EFTA00092643.pdf).
 
-2. **Trace the recipients.** The bank statement records ([EFTA01527665](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01527665.pdf) and surrounding) for November-December 2018 should contain Fedwire debit entries with beneficiary names matching the two co-conspirators.
+2. **Trace the recipients.** PARTIALLY RESOLVED: $100K recipient = Aviloop LLC (Nadia Marcinkova) at TD Bank. $250K recipient remains redacted (Bank of America).
 
-3. **Examine [EFTA01360504](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01360504.pdf) further.** The female trust account beneficiary document may identify one of the wire recipients.
+3. **Examine [EFTA01360504](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01360504.pdf) further.** Remains relevant -- the female trust beneficiary profile matches the $250K recipient's co-conspirator profile described in footnote 3 of the government exhibit.
 
 4. **Analyze the $1,000,000 entry.** [EFTA01527665](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01527665.pdf) page 10 shows a "$1,000,000.00" entry in the November 2018 statement that warrants investigation.
 
-5. **Recover the truncated text.** The bail memo text on page 10 cuts off at "the defendant wired $250,000 from the same trust account to another" -- recovering what follows "another" would likely identify or further describe the second recipient.
+5. **Recover the truncated text.** SUPERSEDED by discovery of the complete government exhibit in DS9, which provides the full tabular record.
 
-6. **Cross-reference with Maxwell indictment.** Ghislaine Maxwell was arrested on July 2, 2020, and charged with conspiracy. Whether these 2018 wire transfers were cited in her case would be highly relevant.
+6. **Cross-reference with Maxwell indictment.** The government exhibit ([EFTA00092643](https://www.justice.gov/epstein/files/DataSet%209/EFTA00092643.pdf)) includes a footnote that Darren Indyke paid Maxwell's defense firm **Haddon, Morgan and Foreman P.C.** three times ($6,422 on 10/5/2017, $7,756 on 6/14/2018, $3,795 on 6/19/2018 -- total ~$17,973), adding a legal fee channel to the co-conspirator financial infrastructure.
+
+7. **NEW: Identify the $250K Bank of America recipient.** This remains the single most important open question. The co-conspirator profile (female, flight logs, Butterfly Trust beneficiary 2011-2014, model-housing address, multiple bank names) narrows the field but does not conclusively identify the recipient.
+
+8. **NEW: Investigate "Miss [REDACTED]" UK payments.** Two payments in 2019 to "Miss [REDACTED]" at Barclays Bank (UK) from LSJE LLC: GBP 12,841 (1/14/2019) and GBP 19,395 (4/30/2019). The "Miss" honorific and Barclays suggest a young, unmarried woman in the UK.
 
 ---
 
-*Investigation Line 4 Complete. All findings derived from hidden text, extracted entities, and reconstructed pages in primary document text database. No external sources consulted.*
+## XII. DS9 REVISIT: COMPLETE CO-CONSPIRATOR PAYMENT TIMELINE (2026-02-12)
+
+The government exhibit [EFTA00092643](https://www.justice.gov/epstein/files/DataSet%209/EFTA00092643.pdf) / [EFTA00105307](https://www.justice.gov/epstein/files/DataSet%209/EFTA00105307.pdf) provides a 4-page, 50+ entry timeline of payments to potential co-conspirators from December 2013 through April 2019. The two originally investigated wires ($100K and $250K) were not isolated incidents but part of a continuous 6-year pattern that included:
+
+- **MC2 Model Management**: $25K (12/4/2013), $29.4K (12/10/2013), $25K (1/21/2014)
+- **Larry Visoski** (pilot): $225K (12/11/2013), $50K (3/28/2017), $150K (1/12/2018), $175K (12/19/2018), $57K (1/16/2019)
+- **Lesley Groff**: $100K (1/3/2017), $100K (12/19/2017)
+- **Coffey Burlington (Alan Dershowitz legal fees)**: $20.5K (3/5/2015), $10K (5/7/2015)
+- **301/66 Owners Corp** (model housing): $182K (4/10/2014), $50K (5/2/2014), $62.7K (1/23/2015), $189.3K (3/27/2015), $210.6K (1/27/2017), $229.8K (2/15/2019)
+- **Aviloop LLC**: $45K (11/27/2018 -- one day before Miami Herald), $100K (11/30/2018)
+- **[REDACTED]**: $250K (12/3/2018) at Bank of America
+- **Miss [REDACTED]**: GBP 12.8K (1/14/2019), GBP 19.4K (4/30/2019) at Barclays Bank UK
+- **Multiple redacted recipients**: $14K-$110K from Butterfly Trust, Jeffrey Epstein personal, and Southern Financial accounts
+
+The NYDFS Consent Order ([EFTA00151495](https://www.justice.gov/epstein/files/DataSet%209/EFTA00151495.pdf)) independently confirms: Deutsche Bank processed "at least 18 wires in the amount of $10,000 or more" to co-conspirators; the Butterfly Trust had "CO-CONSPIRATORS 1-3" as beneficiaries; and DB's transaction monitor normalized suspicious payments, noting "[Once] this type of activity is normal for this client it is not deemed suspicious." ATTORNEY-1 (Indyke) "withdrew $100,000.00 in cash... more than $800,000 in cash from Mr. Epstein's personal accounts" over four years and "inquired into how often he could withdraw cash... without triggering an alert."
+
+SDNY prosecutors were reading the Miami Herald on the same day as the $100K wire: [EFTA00040217](https://www.justice.gov/epstein/files/DataSet%209/EFTA00040217.pdf) (Nov 30, 2018 at 1:28 AM, subject: "Epstein," body: "FYI, from the Miami Herald article...").
+
+### Key DS9 Documents
+| EFTA | Description |
+|------|-------------|
+| [EFTA00092643](https://www.justice.gov/epstein/files/DataSet%209/EFTA00092643.pdf) | Government co-conspirator payment timeline exhibit (Grand Jury material, 4 pages) |
+| [EFTA00105307](https://www.justice.gov/epstein/files/DataSet%209/EFTA00105307.pdf) | Same exhibit with account numbers filled in |
+| [EFTA00151495](https://www.justice.gov/epstein/files/DataSet%209/EFTA00151495.pdf) | NYDFS $150M Consent Order (37 pages) |
+| [EFTA00921756](https://www.justice.gov/epstein/files/DataSet%209/EFTA00921756.pdf) | "please wire nadia 50k, either to aviloop" -- definitively confirms Aviloop = Marcinkova |
+| [EFTA00678472](https://www.justice.gov/epstein/files/DataSet%209/EFTA00678472.pdf) | Marcinkova advising on wire labeling structure -- evidence of co-conspirator financial coordination |
+| [EFTA00040217](https://www.justice.gov/epstein/files/DataSet%209/EFTA00040217.pdf) | SDNY prosecutors sharing Miami Herald on same day as $100K wire |
+
+---
+
+*Investigation Line 4 Complete. Original findings derived from hidden text, extracted entities, and reconstructed pages in primary document text database. DS9 revisit (2026-02-12) added government exhibits, recipient identification, and complete co-conspirator payment timeline.*

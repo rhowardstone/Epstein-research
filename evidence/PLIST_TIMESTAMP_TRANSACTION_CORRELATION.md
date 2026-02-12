@@ -10,13 +10,13 @@
 
 ## Executive Summary
 
-420 emails with parseable Apple Mail PLIST timestamps were extracted from the OCR text records, spanning **September 1, 2009 through April 9, 2019**. Cross-referencing these timestamps with critical financial transaction dates reveals:
+420 emails with parseable Apple Mail PLIST timestamps were extracted from the DS11 OCR text records, spanning **September 1, 2009 through April 9, 2019**. DS9 contains an additional **571 documents** with PLIST `date-received` fields and **614 with full PLIST XML blocks**, representing the raw email source files from which the DS11 OCR data was derived. Cross-referencing these timestamps with critical financial transaction dates reveals:
 
-1. **The Aug 2014 spike (23 emails) directly overlaps the $13.5M Tudor Futures transfer** -- the single highest-activity month in 2014
-2. **Dec 2016-Jan 2017 spike (39 emails in 2 weeks) coincides with the $30.5M Sotheby's/Christie's to Haze Trust period** -- includes a JE-to-Leon Black email about liquidating trusts and "sensitive accounts"
-3. **Nov 2017 spike (18 emails) contains direct financial communications** -- JE to David Mitchell about "cascade" payments and to Richard Kahn about trustee changes and "account statements"
-4. **A 99-day email gap (Nov 14, 2018 - Feb 21, 2019) spans the Miami Herald publication, Marcinkova payment, emergency wires, AND dissolution event** -- the most critical financial period has ZERO emails in the PLIST collection
-5. **The email collection effectively ends Nov 14, 2018** with only 6 straggler emails in 2019 -- suggesting either device seizure, account change, or deliberate communication shutdown
+1. **The Aug 2014 spike (23 emails) directly overlaps the $13.5M Tudor Futures transfer** -- the single highest-activity month in 2014. DS9 Exhibit B ([EFTA00080260](https://www.justice.gov/epstein/files/DataSet%209/EFTA00080260.pdf)) clarifies the transfer occurred in two tranches: $12,826,541 on Aug 4, 2014 and $673,459 on Aug 8, 2014 (not Aug 15 as originally cited).
+2. **Dec 2016-Jan 2017 spike (39 emails in 2 weeks) coincides with the $30.5M Sotheby's/Christie's to Haze Trust period** -- includes a JE-to-Leon Black email about liquidating trusts and "sensitive accounts." DS9 also contains a second Leon Black liquidation email ([EFTA01057105](https://www.justice.gov/epstein/files/DataSet%209/EFTA01057105.pdf), Jan 12, 2017) referencing IRS Form 8865 and "fire castrucci."
+3. **Nov 2017 spike (18 emails) contains direct financial communications** -- JE to David Mitchell about "cascade" payments and to Richard Kahn about trustee changes and "account statements." **Correction:** "cascade" refers to Crescendo Real Estate Partners Ltd. (a Guernsey lender in Mitchell's Life Hotel deal), not to cascading fund transfers (see Section III correction below). Separately, "Cascade Investments LLC" is Bill Gates's private holding company ([EFTA00628797](https://www.justice.gov/epstein/files/DataSet%209/EFTA00628797.pdf)).
+4. **A gap in the DS11 PLIST-timestamped subset (Nov 14, 2018 - Feb 21, 2019) does not reflect a gap in actual email activity.** DS9 contains 40+ emails from jeevacation@gmail.com during this period, including conversations with Larry Summers, Ehud Barak, Richard Kahn, Nicole Junkermann, John Brockman, and Noam Chomsky. The gap reflects a device/export discontinuity in the DS11 Apple Mail export, not a communication shutdown. See Section F correction below.
+5. **The email collection in the DS11 PLIST subset effectively ends Nov 14, 2018** with only 6 straggler emails in 2019 -- this reflects the Apple Mail device or export stopping its sync around mid-November 2018, while the underlying jeevacation@gmail.com account remained fully active via other means (likely web or another device)
 
 ---
 
@@ -58,8 +58,10 @@
 
 ### A. $13.5M Tudor Futures to Southern Financial (Aug 2014)
 
-**Window: +/- 14 days of Aug 15, 2014**
+**Window: +/- 14 days of Aug 4-8, 2014 (two-tranche transfer)**
 **Emails found: 21** -- This is the densest cluster relative to a specific transaction date.
+
+> **Correction (2026-02-12):** DS9 Exhibit B ([EFTA00080260](https://www.justice.gov/epstein/files/DataSet%209/EFTA00080260.pdf)) shows the Tudor transfer was executed in two tranches: **$12,826,541 on Aug 4, 2014** and **$673,459 on Aug 8, 2014**, totaling $13,500,000. Monthly portfolio valuations ([EFTA01194336](https://www.justice.gov/epstein/files/DataSet%209/EFTA01194336.pdf)) confirm Tudor Futures went from $13,501,622 to $0 between July 31 and August 31, 2014. The Aug 15 date originally cited was the date of the "tomorw?" email, not the transfer itself.
 
 | Days | Date | EFTA | Content |
 |------|------|------|---------|
@@ -82,7 +84,7 @@
 | +14 | Aug 29 | [EFTA02518917](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02518917.pdf) | (metadata only) |
 | +14 | Aug 29 | [EFTA02518924](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02518924.pdf) | (metadata only) |
 
-**Key Finding:** On the exact day of the $13.5M Tudor Futures transfer (Aug 15, 2014), JE sent a one-word email to someone identified as "President" asking "tomorw ?" -- suggesting a next-day meeting or action. Two days later, he emailed Erika Kellerhals about avoiding "funny press" around someone named "Stacy." The Aug 24 email to COLOM connects to Olivier Colom of Edmond de Rothschild (France), whose disclaimer appears in the same document set.
+**Key Finding:** On Aug 15, 2014 (approximately one week after the two-tranche Tudor Futures transfer of Aug 4/8, 2014), JE sent a one-word email to someone identified as "President" asking "tomorw ?" -- suggesting a next-day meeting or action. Two days later, he emailed Erika Kellerhals about avoiding "funny press" around someone named "Stacy." The Aug 24 email to COLOM connects to Olivier Colom of Edmond de Rothschild (France), whose disclaimer appears in the same document set.
 
 ### B. $30.5M Sotheby's/Christie's to Haze Trust (2017)
 
@@ -123,6 +125,8 @@
 **Related Rothschild correspondence found elsewhere:**
 - **[EFTA02502971](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02502971.pdf)** (Apr 19, 2015): "Ariane de Rothschild" (signed as "Ade Rothschid") to JE -- discusses personal matters, mentions "michael Douglas's house in Palma de Mallorca is for sale at Sothebys" and states "this is my new email address that nobody can access"
 - **[EFTA02518347](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02518347.pdf)**: Olivier Colom (Edmond de Rothschild France employee disclaimer) in correspondence with JE (Jul 27, 2014)
+
+> **Revisit addition (2026-02-12):** DS9 contains the full Rothschild email thread (7+ messages over Apr 19-22, 2015) showing Epstein was actively advising Ariane de Rothschild on her separation/divorce from Benjamin de Rothschild, discussing "board vote, custodianship, regulators" ([EFTA00858979](https://www.justice.gov/epstein/files/DataSet%209/EFTA00858979.pdf)). Epstein was not merely receiving a secret communication channel -- he was providing strategic advice on corporate governance and marital separation to the wife of the man whose bank sent $25M to Epstein's Southern Trust eight months later.
 
 ### D. Haze Trust "Great Drain" -- $48.3M to Southern Financial (Jun-Jul 2018)
 
@@ -171,20 +175,24 @@
 
 ### F. $100K Aviloop/Marcinkova + Miami Herald + Emergency Wires + Dissolution (Nov 2018 - Feb 2019)
 
-**THE CRITICAL GAP: Nov 14, 2018 through Feb 21, 2019 -- 99 DAYS WITH ZERO EMAILS**
+**DS11 PLIST GAP: Nov 14, 2018 through Feb 21, 2019 -- 99 days with zero DS11 PLIST-timestamped emails**
 
-This is the most significant finding. The period encompassing:
-- Nov 28, 2018: Miami Herald "Perversion of Justice" published
-- Nov 30, 2018: $100K wire to Aviloop (Marcinkova)
-- Dec 2018: Multiple emergency wires
-- Feb 2019: $31.5M dissolution event
+> **Correction (2026-02-12):** This section originally characterized the gap as the "most significant finding" and proposed four explanations (channel switch, device wipe, evidence destruction, device separation). **The 99-day gap does not exist in DS9.** DS9 contains 40+ emails from jeevacation@gmail.com during this period, demonstrating continuous email activity. The gap is an artifact of the DS11 PLIST extraction methodology -- the Apple Mail export that produced the DS11 PLIST metadata stopped updating around mid-November 2018, while the underlying email account remained fully active via other means (likely web or another device).
+>
+> Key DS9 emails during the supposed gap:
+> - **Nov 14-15, 2018**: 15+ emails including architect travel, Apple Watch orders, Joscha Bach island trip
+> - **Dec 17, 2018**: Barak to Epstein: "you should make clear that i dont work for mossad :)" / Epstein: "unfortunately, not" ([EFTA01013272](https://www.justice.gov/epstein/files/DataSet%209/EFTA01013272.pdf))
+> - **Dec 21-26, 2018**: Summers-Epstein exchange: "Want to discuss the Donald...Curious re Dersh" ([EFTA01009424](https://www.justice.gov/epstein/files/DataSet%209/EFTA01009424.pdf)); Moscow flight rescheduling ([EFTA00488235](https://www.justice.gov/epstein/files/DataSet%209/EFTA00488235.pdf)); fund transfers ([EFTA01010835](https://www.justice.gov/epstein/files/DataSet%209/EFTA01010835.pdf))
+> - **Jan 2-9, 2019**: Kahn to Epstein re Honeycomb Partners, Scott Link invoices, Boothbay fund returns ([EFTA01009628](https://www.justice.gov/epstein/files/DataSet%209/EFTA01009628.pdf), [EFTA01009503](https://www.justice.gov/epstein/files/DataSet%209/EFTA01009503.pdf), [EFTA01009065](https://www.justice.gov/epstein/files/DataSet%209/EFTA01009065.pdf))
+>
+> The correct explanation is simpler than the four originally proposed: the Apple Mail device or export stopped syncing/updating after approximately Nov 14, 2018, while Epstein continued using jeevacation@gmail.com via web or other clients. The original Section F interpretation should be disregarded.
 
-...contains **ZERO Apple Mail PLIST emails**.
+The DS11 PLIST subset shows the following gap pattern:
 
-The last email before the gap: **Nov 14, 2018 ([EFTA02616241](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02616241.pdf))**
-The first email after the gap: **Feb 21, 2019 ([EFTA02633608](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02633608.pdf))** -- "George is here, thank you" from Carluz & Arline Toylo
+The last DS11 PLIST email before the gap: **Nov 14, 2018 ([EFTA02616241](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02616241.pdf))**
+The first DS11 PLIST email after the gap: **Feb 21, 2019 ([EFTA02633608](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02633608.pdf))** -- "George is here, thank you" from Carluz & Arline Toylo
 
-The 6 emails that appear in 2019 (Feb 21 - Apr 9) are sparse:
+The 6 DS11 PLIST emails that appear in 2019 (Feb 21 - Apr 9) are sparse:
 | Date | EFTA | Content |
 |------|------|---------|
 | Feb 21 | [EFTA02633608](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02633608.pdf) | "George is here, thank you" -- household staff |
@@ -192,13 +200,9 @@ The 6 emails that appear in 2019 (Feb 21 - Apr 9) are sparse:
 | Mar 1 | [EFTA02633143](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02633143.pdf) | JE to David Mitchell -- Martha Stewart cannabis article |
 | Mar 1 | [EFTA02633134](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02633134.pdf) | Quantum Vision Construction LLC correspondence |
 | Mar 2 | [EFTA02633147](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02633147.pdf) | (metadata only) |
-| Apr 9 | [EFTA02633606](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02633606.pdf) | (metadata only) -- **LAST EMAIL IN COLLECTION** |
+| Apr 9 | [EFTA02633606](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02633606.pdf) | (metadata only) -- **LAST EMAIL IN DS11 PLIST SUBSET** |
 
-**Interpretation:** The complete absence of PLIST emails during the most critical financial crisis period (Nov-Dec 2018, Feb 2019) strongly suggests:
-1. Epstein switched communication channels (encrypted messaging, burner phones, in-person)
-2. The Apple Mail account/device was deliberately wiped or abandoned
-3. Email evidence from this period was destroyed before seizure
-4. The device was physically separated from the email account
+These 6 emails likely represent emails that were coincidentally present in the DS11 export through a different mechanism (e.g., forwarded chains that re-appeared in the Apple Mail client), not a resumption of the Apple Mail sync.
 
 ---
 
@@ -220,7 +224,11 @@ November 2017 (18 emails, 3.3x average) contains the most explicitly financial o
 1. To Mitchell: Instructions about **"cascade" authorizing payments** and finding someone to "hold" something
 2. To Kahn: **Trustee replacement**, potential **lawsuit**, need for **account statements** delivery, conflict of interest concerns
 
-The term "cascade" in a payment context may refer to cascading fund transfers -- a structure where money flows through multiple entities sequentially, consistent with the multi-entity financial architecture (Haze Trust -> Southern Financial -> etc.).
+~~The term "cascade" in a payment context may refer to cascading fund transfers -- a structure where money flows through multiple entities sequentially, consistent with the multi-entity financial architecture (Haze Trust -> Southern Financial -> etc.).~~
+
+> **Correction (2026-02-12):** This interpretation is incorrect. DS9 reveals "cascade" in the Mitchell emails refers to **Crescendo Real Estate Partners Ltd.**, a Guernsey-based lender in Mitchell's Life Hotel real estate deal. Mitchell's reply ([EFTA00960874](https://www.justice.gov/epstein/files/DataSet%209/EFTA00960874.pdf)) explicitly states "all the crescendo money went to DB" and discusses the lender's control over funds as a condition for a preferred equity position. The payments being "audited" are construction payables for Mitchell's Life Hotel project.
+>
+> Separately, DS9 identifies two other distinct "Cascade" entities: (1) **Cascade Investments LLC** = Bill Gates's private holding company, confirmed by Boris Nikolic ([EFTA00628797](https://www.justice.gov/epstein/files/DataSet%209/EFTA00628797.pdf)); and (2) **"Loan Cascade"** in Leon Black financial documents ([EFTA00716362](https://www.justice.gov/epstein/files/DataSet%209/EFTA00716362.pdf): "BFP can give notice by May 31 to withdraw $25mm from Loan Cascade"), a named investment vehicle within the Black Family Partners structure. None of these meanings support the "cascading fund transfer" interpretation.
 
 ---
 
@@ -239,9 +247,11 @@ The term "cascade" in a payment context may refer to cascading fund transfers --
 - **Role:** Real estate/property operations, payment processing
 
 ### Leon Black
-- 1 email in PLIST collection (but highly significant)
+- 1 email in DS11 PLIST collection (but highly significant); DS9 contains a second liquidation directive
 - Topic: Trust liquidation, "sensitive accounts," gift tax verification
 - **Role:** Apollo Global Management founder; trust relationship with Epstein
+
+> **Revisit addition (2026-02-12):** DS9 contains [EFTA01057105](https://www.justice.gov/epstein/files/DataSet%209/EFTA01057105.pdf) (Jan 12, 2017) -- a second, more detailed liquidation directive: "lets begin, preparation.- taking steps.. 1 liquidate trust 2, liquidate artspace regan. talk to me about phaidon. fire castrucci.. 3 prepare financials. recall DB is a bene...talk to me .4. re 8865 issues.. you are no more than 25% done. now comes the real work." The IRS Form 8865 reference (Return of U.S. Persons With Respect to Certain Foreign Partnerships) indicates Epstein was directing Black's tax compliance and partnership restructuring.
 
 ### Larry Visoski
 - 7 emails in PLIST collection
@@ -295,7 +305,7 @@ The term "cascade" in a payment context may refer to cascading fund transfers --
 |-----------|------|---------------------------|
 | Sep 6, 2016 - Dec 19, 2016 | **104 days** | Pre-Sotheby's/Haze Trust setup period |
 | Feb 11, 2017 - Jun 22, 2017 | **131 days** | Post-Sotheby's transaction completion |
-| **Nov 14, 2018 - Feb 21, 2019** | **99 days** | **Miami Herald, Marcinkova payment, emergency wires, dissolution** |
+| **Nov 14, 2018 - Feb 21, 2019** | **99 days** | **DS11 PLIST subset gap only; DS9 shows continuous email activity** |
 | Aug 6, 2018 - Oct 5, 2018 | **60 days** | Unknown -- pre-Herald investigation period |
 
 The 131-day gap (Feb-Jun 2017) after the Sotheby's/Haze Trust cluster is notable: after 39 emails in the Dec 2016-Jan 2017 period, activity drops to a single email in February and then nothing until June.
@@ -312,9 +322,9 @@ $25M Rothschild (Dec 2015)           1 email           WEAK - but flight to Marr
 $30.5M Sotheby's/Haze (Jan 2017)    39 emails/2 weeks STRONG - Leon Black trust email -10d
 KYC Breach (Apr 16, 2018)            8 emails          MODERATE - lawyer/accountant intro -5d
 Haze Drain Start (Jun 2018)          12 emails          MODERATE - Kahn/Christie's, Maybach
-$100K Aviloop (Nov 30, 2018)         0 emails          **TOTAL BLACKOUT**
-Emergency Wires (Dec 2018)           0 emails          **TOTAL BLACKOUT**
-$31.5M Dissolution (Feb 2019)        2 emails          MINIMAL - household only
+$100K Aviloop (Nov 30, 2018)         0 DS11 PLIST      DS9: 40+ emails active (gap is DS11 artifact)
+Emergency Wires (Dec 2018)           0 DS11 PLIST      DS9: Barak, Summers, Kahn correspondence
+$31.5M Dissolution (Feb 2019)        2 DS11 PLIST      DS9: continuous activity through Jan 2019
 Arrest (Jul 6, 2019)                 0 emails          Collection ends Apr 9, 2019
 ```
 
@@ -344,15 +354,23 @@ Arrest (Jul 6, 2019)                 0 emails          Collection ends Apr 9, 20
 ### 2. The Leon Black "Sensitive Accounts" Email is a Smoking Gun
 Sent Dec 21, 2016 -- just days before the $30.5M Sotheby's/Haze Trust period -- Epstein instructs Leon Black to liquidate a trust while expressing frustration that someone named Wechsler has been telling others about "sensitive accounts." This directly connects Epstein's email activity to trust restructuring concurrent with major art-transaction financial flows.
 
-### 3. The Nov 7, 2017 "Cascade" Payment Email Suggests Structured Transfers
-Epstein's instruction to David Mitchell about "cascade" authorizing "payments" and finding someone to "hold" an unspecified asset, on the same day he discusses trustee replacements and settlement strategy with Richard Kahn, reveals a coordinated financial operations day.
+### 3. ~~The Nov 7, 2017 "Cascade" Payment Email Suggests Structured Transfers~~ (Corrected)
+~~Epstein's instruction to David Mitchell about "cascade" authorizing "payments" and finding someone to "hold" an unspecified asset, on the same day he discusses trustee replacements and settlement strategy with Richard Kahn, reveals a coordinated financial operations day.~~
 
-### 4. The Nov 2018 - Feb 2019 Blackout is Forensically Significant
-The total absence of PLIST emails during the most critical financial crisis period -- when the Miami Herald story broke, emergency wires were sent, and the $31.5M dissolution occurred -- represents either evidence destruction, a communication channel switch, or device separation. This 99-day gap demands investigation into alternative communication records.
+> **Correction (2026-02-12):** "Cascade" in the Mitchell emails refers to Crescendo Real Estate Partners Ltd. (a Guernsey lender), not a structured transfer mechanism. The Nov 7, 2017 email thread concerns construction payables for Mitchell's Life Hotel project, not illicit cascading transfers. The simultaneous Kahn email about trustees and lawsuits remains significant as evidence of a coordinated financial operations day, but the "cascade" = "structured transfers" interpretation is withdrawn.
+
+### 4. ~~The Nov 2018 - Feb 2019 Blackout is Forensically Significant~~ (Withdrawn)
+~~The total absence of PLIST emails during the most critical financial crisis period -- when the Miami Herald story broke, emergency wires were sent, and the $31.5M dissolution occurred -- represents either evidence destruction, a communication channel switch, or device separation. This 99-day gap demands investigation into alternative communication records.~~
+
+> **Correction (2026-02-12):** DS9 demonstrates that jeevacation@gmail.com was continuously active throughout this period. Epstein was corresponding with Larry Summers, Ehud Barak, Richard Kahn, Nicole Junkermann, John Brockman, Noam Chomsky, and construction staff during the supposed blackout. The gap exists only in the DS11 PLIST-timestamped subset and reflects a device/export discontinuity, not a communication shutdown. The four proposed explanations (channel switch, device wipe, evidence destruction, device separation) are not supported by the DS9 evidence. This conclusion is withdrawn.
 
 ### 5. Ariane de Rothschild's "Secure Email" is Notable
 Her April 2015 email states "this is my new email address that nobody can access" -- indicating conscious efforts to create untraceable communication channels within Epstein's network, months before the $25M Rothschild-to-Southern Trust transfer.
 
 ---
 
-*Generated from 420 PLIST-timestamped emails in the DOJ EFTA document collection. 4 additional records contained date-received fields but timestamps could not be parsed due to OCR artifacts.*
+*Generated from 420 PLIST-timestamped emails in the DS11 OCR subset. 4 additional records contained date-received fields but timestamps could not be parsed due to OCR artifacts. DS9 contains 571+ additional documents with PLIST date-received fields and 614 with full PLIST XML blocks.*
+
+---
+
+**REVISIT INTEGRATION (2026-02-12):** Seven corrections integrated from full corpus review (1,380,937 documents across all 12 datasets). Three corrections are classified as major: (1) The "99-day email blackout" does not exist in DS9 -- continuous email activity from jeevacation@gmail.com is documented throughout the supposed gap period; (2) The "cascade" interpretation as structured transfers is incorrect -- it refers to Crescendo Real Estate Partners Ltd.; (3) The claim that Epstein "switched communication channels" or that "evidence was destroyed" during Nov-Feb is unsupported by DS9 evidence. Two corrections are moderate: (4) Tudor transfer date corrected from Aug 15 to two tranches on Aug 4/8, 2014; (5) A second Leon Black liquidation email identified ([EFTA01057105](https://www.justice.gov/epstein/files/DataSet%209/EFTA01057105.pdf)). The PLIST email corpus is approximately 50% larger in DS9 than the 420 reported from DS11 OCR extraction. What remains valid: the Leon Black "sensitive accounts" email, the Rothschild correspondence, the Sotheby's/Haze Trust transaction correlation, the email-to-transaction spike methodology, and the identification of key financial correspondents. Cross-referenced with revisits #44, #45.

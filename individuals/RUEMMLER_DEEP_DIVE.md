@@ -5,9 +5,9 @@
 
 ## EXECUTIVE SUMMARY
 
-Kathryn Ruemmler served as White House Counsel to President Barack Obama from June 2011 to May 2014. After leaving the White House, she joined Latham & Watkins as a partner and was later appointed Goldman Sachs General Counsel in 2020. The FBI files reveal a sustained, intimate personal relationship between Ruemmler and Jeffrey Epstein spanning at minimum from **September 2014 through January 2018** -- beginning approximately five months after she left the White House and continuing for over three years well after Epstein's 2008 sex offense conviction was public knowledge. One additional document dates to **May 2019**, just two months before Epstein's final arrest.
+Kathryn Ruemmler served as White House Counsel to President Barack Obama from June 2011 to May 2014. After leaving the White House, she joined Latham & Watkins as a partner and was later appointed Goldman Sachs General Counsel in 2020. The FBI files reveal a sustained, intimate personal relationship between Ruemmler and Jeffrey Epstein spanning at minimum from **July 2014 through at least January 2019** -- beginning approximately two months after she left the White House and continuing for over four years well after Epstein's 2008 sex offense conviction was public knowledge. One additional document dates to **May 2019**, just two months before Epstein's final arrest. An Epstein iMessage from January 9, 2019 ([EFTA00509013](https://www.justice.gov/epstein/files/DataSet%209/EFTA00509013.pdf)) confirms he planned "kathy for breakfast tomorrow," placing the relationship as active after the Miami Herald's November 2018 "Perversion of Justice" series.
 
-The documents total **at least 19 unique records** across the FBI databases, revealing a relationship that was simultaneously personal, quasi-legal/advisory, and deeply intertwined with Epstein's social and political networks. The correspondence shows Epstein was advising Ruemmler on a major job offer, that Ruemmler was providing Epstein with political intelligence, that Epstein offered her use of his Paris apartment and staff, and that Epstein explicitly recognized the risk her association with him posed to her reputation as a "role model for women" and to the Obama and Clinton political legacies.
+The documents total **over 100 unique records** across the FBI databases (DS9 and DS11 together contain at minimum 80+ unique EFTA documents referencing Ruemmler by name, plus trust documents, financial records, gift documentation, and calendar entries), revealing a relationship that was simultaneously personal, quasi-legal/advisory, fiduciary, and deeply intertwined with Epstein's social and political networks. The most significant finding from the full corpus revisit is that **Ruemmler was a named Trustee on the Jeffrey E. Epstein 2018 Trust** ([EFTA00099449](https://www.justice.gov/epstein/files/DataSet%209/EFTA00099449.pdf)), alongside Darren K. Indyke and Richard D. Kahn -- a formal fiduciary relationship, not merely a social connection. The correspondence shows Epstein was advising Ruemmler on a major job offer, that Ruemmler was providing Epstein with political intelligence, that Epstein offered her use of his Paris apartment and staff, and that Epstein explicitly recognized the risk her association with him posed to her reputation as a "role model for women" and to the Obama and Clinton political legacies.
 
 ---
 
@@ -69,7 +69,7 @@ This is one of the most significant exchanges. Epstein told Ruemmler she was "de
 3. Ruemmler was interested enough to ask "told by whom?" -- seeking Epstein's intelligence source
 4. The **Ruth Marcus** reference is to Ruth Marcus, a Washington Post columnist. Ruemmler called her piece "unhelpful," suggesting Marcus had written something critical, possibly about Ruemmler or about the position in question
 
-**Timing context:** September 2014 was approximately five months after Ruemmler left the White House. She was transitioning to private sector opportunities. This exchange strongly suggests Epstein was acting as an intermediary or intelligence source regarding a major job offer -- potentially Ruemmler's move to **Latham & Watkins** (where she became a partner) or another high-profile position. The mention of "money" as a potential obstacle, combined with the reference to an "unhelpful" Washington Post piece, suggests this involved a corporate or firm position where compensation and public profile were both factors.
+**Timing context:** September 2014 was approximately four months after Ruemmler left the White House. DS9 reveals that on September 26-27, 2014 -- just four days before this "first choice" exchange -- Epstein forwarded a New York Times article about Ruemmler as a candidate for **U.S. Attorney General** to at least four contacts: Jes Staley ([EFTA00997717](https://www.justice.gov/epstein/files/DataSet%209/EFTA00997717.pdf)), Ariane de Rothschild ([EFTA00997716](https://www.justice.gov/epstein/files/DataSet%209/EFTA00997716.pdf)), Peter Thiel ([EFTA00997718](https://www.justice.gov/epstein/files/DataSet%209/EFTA00997718.pdf)), and Jabor Yousuf ([EFTA00997715](https://www.justice.gov/epstein/files/DataSet%209/EFTA00997715.pdf)). Staley responded: "I saw that" ([EFTA00665341](https://www.justice.gov/epstein/files/DataSet%209/EFTA00665341.pdf)). This strongly suggests the "first choice" conversation concerned the AG nomination, not a private sector position. "Money etc." would refer to the pay cut from private practice. Had Ruemmler been nominated for AG, Epstein would have had a personal friend as the nation's top law enforcement officer -- the same office that had granted him the NPA.
 
 ---
 
@@ -83,14 +83,7 @@ This is one of the most significant exchanges. Epstein told Ruemmler she was "de
 > **Epstein:** "i have no first hand knowledge ive never met, his father 30 years ago knew a problem was in the future"
 
 **Analysis:**
-Ruemmler and Epstein were discussing someone named "Benjamin" whose behavior exceeded Ruemmler's expectations (she admitted Epstein's characterization was not an exaggeration). Epstein claimed no "first hand knowledge" but said "his father 30 years ago knew a problem was in the future."
-
-The identity of "Benjamin" remains unclear from the available documents. The construction "his father 30 years ago knew a problem was in the future" suggests:
-- Benjamin is someone whose father Epstein knew approximately 30 years before (i.e., circa 1985)
-- The father foresaw that Benjamin would be problematic
-- Ruemmler had recently encountered Benjamin and found him worse than expected
-
-This could refer to a colleague, a legal adversary, or someone in Epstein's social circle. The casual, gossipy tone reinforces the personal nature of the relationship.
+Ruemmler and Epstein were discussing **Benjamin de Rothschild** -- this is now confirmed by cross-referencing with the Rothschild investigation file. In March 2014 emails ([EFTA02395020](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02395020.pdf)), Ariane told Epstein: "CAN't Call as B[enjamin] majorly f***ed up at the House. The girls are afraid." Epstein's response -- "He is in a deeply sliding curve and nothing seems to stop him" -- combined with the reference to Benjamin's father ("his father 30 years ago knew a problem was in the future"), points to Edmond Adolphe de Rothschild (1926-1997), confirming Epstein's relationship with the Rothschild family dated back to approximately 1985. The joint calendar entry "Appt w/Kathy & Ariane" ([EFTA02075023](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02075023.pdf)) confirms Ruemmler and Ariane de Rothschild met jointly with Epstein -- likely the meeting where Ruemmler observed Benjamin's behavior firsthand. Ruemmler at Latham & Watkins subsequently represented Edmond de Rothschild (Suisse) SA in its DOJ Non-Prosecution Agreement ([EFTA00590334](https://www.justice.gov/epstein/files/DataSet%209/EFTA00590334.pdf)), in which the bank paid $45,245,000 -- confirming Epstein connected Ruemmler with the Rothschild family as a client.
 
 ---
 
@@ -247,9 +240,9 @@ Epstein was coaching Ruemmler about someone he described as "your nigerian" who 
 - In a position to select or appoint Ruemmler ("its your to lose")
 - Male ("he could never explain turning you down")
 
-**Identification:** The phrase "your Nigerian" combined with the context of a decision-maker who could not "explain turning you down" and was "predisposed to empower women" strongly suggests this was a **Goldman Sachs executive** or board member of Nigerian descent. The most likely candidate is **Adebayo Ogunlesi**, the Nigerian-American chairman of Global Infrastructure Partners who sits on the Goldman Sachs Board of Directors. Ogunlesi was a key Goldman Sachs figure.
+**Identification:** The phrase "your Nigerian" combined with the context of a decision-maker who could not "explain turning you down" and was "predisposed to empower women" strongly suggests **Adebayo Ogunlesi**, the Nigerian-American chairman of Global Infrastructure Partners who sits on the Goldman Sachs Board of Directors. This identification is now near-certain: DS11 reveals Epstein was actively discussing Ogunlesi by name with David Stern (former NBA Commissioner) on **October 31, 2017** ([EFTA02572098](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02572098.pdf)) -- just four days before the "your Nigerian is a lefty" email to Ruemmler on November 4, 2017. Stern responded simply "No" ([EFTA02572553](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02572553.pdf)), suggesting Epstein had asked whether Stern knew Ogunlesi.
 
-Alternatively, given the timing (November 2017) and Ruemmler's later appointment as **Goldman Sachs General Counsel** (announced in 2020), this could relate to an earlier stage of that hiring process or a different high-level corporate position.
+Given the timing (November 2017) and Ruemmler's later appointment as **Goldman Sachs General Counsel** (announced in 2020), this exchange appears to relate to an early stage of that hiring process or a related high-level corporate position.
 
 Epstein's coaching language reveals:
 - He had intelligence about this decision-maker's preferences and politics
@@ -389,11 +382,11 @@ Based on available evidence, the most likely identification is **Adebayo Ogunles
 
 The timeline (November 2017) precedes Ruemmler's Goldman Sachs appointment (2020) by three years, suggesting either an early-stage discussion or a different position entirely.
 
-### 4. "DEFINITELY HIS FIRST CHOICE" -- Context
+### 4. "DEFINITELY HIS FIRST CHOICE" -- AG Nomination Context
 
-The September 30, 2014 exchange ([EFTA02517295](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02517295.pdf)) shows Epstein reporting that someone was Ruemmler's "first choice" for an unidentified position, but wasn't "sure you can be convinced" due to "money etc." Combined with the Ruth Marcus "unhelpful piece" at the Washington Post, this likely relates to Ruemmler's post-White House career transition. She joined Latham & Watkins as a partner in 2014 -- this exchange may relate to that firm or another offer.
+The September 30, 2014 exchange ([EFTA02517295](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02517295.pdf)) almost certainly concerned the **U.S. Attorney General** position. On September 26-27, 2014 -- four days before this exchange -- Epstein forwarded a NYT article about Ruemmler as an AG candidate to Staley, Rothschild, Thiel, and Jabor Yousuf ([EFTA00997715](https://www.justice.gov/epstein/files/DataSet%209/EFTA00997715.pdf)-18). "Money etc." would refer to the pay cut from private practice. "ves said he was very happy" is the source's feedback. The identity of "ves" is unclear.
 
-Epstein's role as intelligence intermediary is clear: he received information from an unnamed source ("im told") and passed it to Ruemmler. "ves said he was very happy" is the source's feedback. The identity of "ves" is unclear -- possibly a first name or abbreviation.
+Epstein was actively promoting Ruemmler's candidacy within his network. Had Ruemmler been nominated for AG, Epstein would have had a personal friend and (later) trust beneficiary as the nation's top law enforcement officer -- the same office that had granted him the NPA.
 
 ### 5. "BENJAMIN" -- Partial Identification
 
@@ -423,7 +416,10 @@ The document [EFTA02066243](https://www.justice.gov/epstein/files/DataSet%2010/E
 | June 2011 | Ruemmler becomes Obama White House Counsel | Highest-ranking legal position in the White House |
 | 2008 | Epstein convicted of Florida sex offense | State conviction; registered sex offender |
 | May 2014 | Ruemmler leaves White House | Transition to private sector |
+| Jul 11, 2014 | Earliest known meeting ([EFTA00284924](https://www.justice.gov/epstein/files/DataSet%209/EFTA00284924.pdf) calendar) | Lunch w/Kathy Ruemmler -- just 2 months after leaving WH |
+| Jul 30, 2014 | Eva Dubin invitation ([EFTA00693988](https://www.justice.gov/epstein/files/DataSet%209/EFTA00693988.pdf)) | Dubin names "Kathryn Ruemmler and Melinda Gates" as invitees |
 | Sept 5, 2014 | First known email ([EFTA02589109](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02589109.pdf)) | Relationship documented within ~4 months of leaving WH |
+| Sept 26-27, 2014 | Epstein forwards AG article ([EFTA00997715](https://www.justice.gov/epstein/files/DataSet%209/EFTA00997715.pdf)-18) | Ruemmler as AG candidate sent to Staley, Rothschild, Thiel, Jabor |
 | Sept 15, 2014 | Scheduled for Jagland/Nobel dinner | Access to Nobel Committee chair via Epstein |
 | Sept 22, 2014 | Listed alongside Summers, Thiel as Epstein visitor | Inner circle status confirmed |
 | Sept 30, 2014 | "First choice" / Ruth Marcus exchange | Epstein acting as career intelligence source |
@@ -438,7 +434,15 @@ The document [EFTA02066243](https://www.justice.gov/epstein/files/DataSet%2010/E
 | Nov 4, 2017 | "Your Nigerian" coaching | Epstein actively advising on career opportunities |
 | Nov 2017 | St. James Park photo | Ruemmler sharing travel photos (London) |
 | Nov 28, 2017 | Russia doping article shared | News sharing pattern |
-| Jan 28, 2018 | "awake? chat?" | Last known direct email |
+| Jan 28, 2018 | "awake? chat?" | Last known direct email in DS11 |
+| May 8, 2018 | Epstein 2018 Trust signed ([EFTA00099449](https://www.justice.gov/epstein/files/DataSet%209/EFTA00099449.pdf)) | Ruemmler named Trustee alongside Indyke and Kahn |
+| May 4, 2018 | "More Wigdor" / Ernst & Young MeToo crisis | Ruemmler discussing sexual misconduct defense work with Epstein |
+| Oct 2018 | First Amendment to 2018 Trust ([EFTA00099447](https://www.justice.gov/epstein/files/DataSet%209/EFTA00099447.pdf)) | Ruemmler still Trustee; Shuliak distributions added |
+| Oct 22-23, 2018 | Wigdor resolution -- "well below walk away" | Ruemmler at Wigdor offices until after 6 PM |
+| Nov 23, 2018 | Apple Watch Hermes gift ordered | $1,399 watch, same week as Miami Herald series |
+| Jan 3, 2019 | Ruemmler receives Apple Watch: "Love it" | Post-Miami Herald relationship continues |
+| Jan 9, 2019 | Epstein iMessage: "kathy for breakfast tomorrow" ([EFTA00509013](https://www.justice.gov/epstein/files/DataSet%209/EFTA00509013.pdf)) | Latest known planned meeting; post-Miami Herald |
+| Jan 18, 2019 | 2019 Trust signed -- Ruemmler REMOVED as Trustee | Only Indyke and Kahn remain |
 | May 21, 2019 | "Re: Jeffrey Epstein" email | Active discussion about Epstein 2 months before arrest |
 | July 6, 2019 | Epstein arrested | |
 | 2020 | Ruemmler appointed Goldman Sachs General Counsel | |
@@ -447,8 +451,8 @@ The document [EFTA02066243](https://www.justice.gov/epstein/files/DataSet%2010/E
 
 ## KEY FINDINGS AND IMPLICATIONS
 
-### 1. Duration and Depth
-The documented relationship spans **at minimum 4.5 years** (September 2014 to May 2019), with the direct email correspondence covering September 2014 to January 2018. This was not a casual acquaintance but a sustained, intimate personal and professional relationship.
+### 1. Duration, Depth, and Fiduciary Duty
+The documented relationship spans **at minimum 5 years** (July 2014 to May 2019), with direct email correspondence, calendar entries, and trust documents covering July 2014 through January 2019. This was not a casual acquaintance but a sustained, intimate personal, professional, and **fiduciary** relationship. Ruemmler served as a named Trustee on Epstein's 2018 Trust (May-October 2018 at minimum), with legal authority over his assets.
 
 ### 2. Ruemmler as Active Participant
 The documents show Ruemmler was not merely a passive recipient of Epstein's overreach. She:
@@ -476,6 +480,59 @@ Ruemmler received concrete material benefits including free use of Epstein's Par
 
 ### 6. Intelligence Channel
 Epstein used Ruemmler as a source for Washington legal and political intelligence (Mueller investigation, sealed indictments), while she used him as a source for career intelligence (job offers, hiring decisions). This bilateral intelligence exchange was the core utility of the relationship for both parties.
+
+---
+
+## DS9/DS11 EXPANDED FINDINGS (Full-Text Corpus Revisit)
+
+### Trustee of the Jeffrey E. Epstein 2018 Trust
+
+Ruemmler was a **named Trustee** on the Jeffrey E. Epstein 2018 Trust, alongside Darren K. Indyke and Richard D. Kahn:
+
+- **[EFTA00099449](https://www.justice.gov/epstein/files/DataSet%209/EFTA00099449.pdf) (DS9):** Trust agreement: "DARREN K. INDYKE, RICHARD D. KAHN, and KATHERYN H. RUEMMLER, as Trustees" -- dated May 8, 2018. Signature page bears notarized "Kathryn H. Ruemmler, Trustee."
+- **[EFTA00099447](https://www.justice.gov/epstein/files/DataSet%209/EFTA00099447.pdf) (DS9):** First Amendment to 2018 Trust (October 2018): Ruemmler still listed as Trustee. This amendment added provisions for Karyna Shuliak's distributions.
+- The 2019 Trust (dated January 18, 2019) lists only Indyke and Kahn as trustees. Ruemmler was removed between October 2018 and January 2019 -- coinciding with the Miami Herald's November 28, 2018 "Perversion of Justice" series.
+
+This is a formal fiduciary duty, not merely a social connection. Ruemmler was legally empowered to manage Epstein's assets during this period.
+
+### 20+ Calendar Entries: Relationship Began July 2014
+
+The DS9 Lesley Groff calendar corpus reveals at least 20 previously undocumented in-person meetings, extending the documented relationship start date from September 2014 to **July 11, 2014** ([EFTA00284924](https://www.justice.gov/epstein/files/DataSet%209/EFTA00284924.pdf): "1:00pm Lunch w/Kathy Ruemmler") -- just two months after she left the White House. Key entries include:
+
+- **Jul 11, 2014:** 10:15am Leon Black, 1:00pm Kathy Ruemmler (same day)
+- **Aug 19, 2014:** "12:00pm Lunch w/Kathy Ruemmler (MM) Sushi, Avocado Rolls"
+- **Jan 21, 2015:** "8:00pm Appt w/Kathy Ruemmler (snacks)"
+- **Jul 19-21, 2015:** "Kathy Ruemmler & Ariane de Rothschild along w/Setvine? Hamad? Cynthia? Henri? Summers? Shabaz?" -- full DOJ strategy team meeting
+- **Sep 28, 2015:** "8 for dinner . ehud, nilli terje mongolian pres. peter attia. kathy ruemmler. mongolian fm." -- dinner with the President of Mongolia, Ehud Barak, and Terje Rod-Larsen
+- **Oct 13, 2015:** 11:00am Ruemmler, 2:00pm Leon Black, 4:30pm Ruemmler (two meetings same day, bracketing Black)
+- **Jan 14, 2016:** "Kathy Ruemmler is on the 1pm shuttle from DC to NY tomorrow...she will come straight from LGA to the house for around 3:30 meeting with Ariane, Cynthia, Marc"
+- **Feb 13, 2016:** Mandarin Oriental spa booking: "Ruemmler Kathy, Saturday, February 13, 2016, 01:30 PM, Therapeutic - 80 Minutes" ([EFTA00283634](https://www.justice.gov/epstein/files/DataSet%209/EFTA00283634.pdf))
+- **Apr 9, 2018:** Ruemmler to Groff: "I am going to come by and see Jeffrey this afternoon. Would 4 pm be a good time?" ([EFTA00471886](https://www.justice.gov/epstein/files/DataSet%209/EFTA00471886.pdf))
+
+### Wigdor Law / MeToo Defense Cases
+
+DS11 contains the complete Wigdor Law case exchange (May and October 2018), confirming Ruemmler was actively handling sexual misconduct defense cases while discussing them with Epstein:
+
+- **[EFTA02449539](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02449539.pdf) (May 4, 2018):** Ruemmler: "Effort to go off the grid totally thwarted by another Me too crisis -- this one for Ernst & Young." Epstein: "besides casucci. another wigdor!"
+- **[EFTA02449716](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02449716.pdf):** Ruemmler: "Of course, I get brought in AFTER Casucci debacle." Epstein: "your new calling."
+- **[EFTA02620106](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02620106.pdf) (Oct 22-23, 2018):** Ruemmler: "Resolved it for a price well below the client's walk away so they are thrilled." Epstein: "cool, how did the wigdor end up?" Ruemmler: "No because I was at Wigdor until after 6 pm. Meeting him tomorrow. Google looks like 11/1."
+
+### Apple Watch Hermes Gift (November-December 2018)
+
+DS9 and DS11 document Epstein's mass Apple Watch gifting operation in November-December 2018:
+
+- **[EFTA00285604](https://www.justice.gov/epstein/files/DataSet%209/EFTA00285604.pdf) / [EFTA02262535](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02262535.pdf):** Ruemmler selected the most expensive option: a $1,399 Apple Watch Hermes ("40 mm, stainless Hermes with bleu indigo swift leather double tour").
+- **[EFTA02264159](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02264159.pdf):** Richard Kahn to Groff: "funny how the girls are the big $$ Hermes spenders plus James (1/2 girl) and Kathy.." Groff: "I knew Kathy would want Hermes."
+- The watch was billed to HBRK Associates (Epstein's entity) and shipped to Ruemmler's new NYC apartment. She confirmed receipt January 3, 2019: "Yes!!! I got it yesterday. Love it."
+- This gift was sent November 23, 2018 -- the same week as the Miami Herald "Perversion of Justice" series (November 28, 2018).
+
+### Ruemmler's Financial Records in FBI Possession
+
+**[EFTA00810614](https://www.justice.gov/epstein/files/DataSet%209/EFTA00810614.pdf) (DS9):** A complete Merrill Lynch portfolio review for "Kathryn Ruemmler" dated February 4, 2019, totaling $4,414,396 across four accounts. Its presence in the EFTA corpus confirms investigators were examining her finances.
+
+### Ruemmler as Latham & Watkins Attorney on Rothschild NPA
+
+**[EFTA00590334](https://www.justice.gov/epstein/files/DataSet%209/EFTA00590334.pdf) (DS9):** DOJ Tax Division letter addressed to "Kathryn Ruemmler, Christopher Clark, Latham & Watkins LLP" regarding Edmond de Rothschild (Suisse) SA Non-Prosecution Agreement, December 10, 2015. Signature block: "KATHRYN RUEMMLER, Latham & Watkins LLP." This confirms Ruemmler, introduced to the Rothschilds by Epstein, was the named attorney who approved the $45.245M penalty NPA.
 
 ---
 
@@ -514,7 +571,8 @@ Epstein used Ruemmler as a source for Washington legal and political intelligenc
 28. [EFTA02196090](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02196090.pdf) -- Reference
 29. [EFTA02197184](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02197184.pdf) -- Reference
 
-**Total unique documents: 29**
+**Total unique documents (original report): 29**
+**Total unique documents (with DS9/DS11 revisit): 100+**
 
 ---
 

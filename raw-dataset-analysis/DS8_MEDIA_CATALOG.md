@@ -29,7 +29,7 @@ Dataset 8 (VOL00008) contains **11,034 files** across three directories:
 | 1-10 min | 1 | Short clip |
 | Under 1 min | 5 | Brief recordings |
 
-**ALL 419 VIDEOS ARE MCC (Metropolitan Correctional Center) JAIL SURVEILLANCE RECORDINGS** from the period of Epstein's detention, covering **July 6, 2019 (arrest) through August 11, 2019 (day after death)**. Frame extraction confirms on-screen camera IDs and timestamps from the MCC 9 South Special Housing Unit.
+**ALL 419 VIDEOS ARE MCC (Metropolitan Correctional Center) JAIL SURVEILLANCE RECORDINGS** from the period of Epstein's detention, covering **July 6, 2019 (arrest) through August 11, 2019 (day after death)**. Frame extraction confirms on-screen camera IDs and timestamps from the MCC 9 South Special Housing Unit. All 417 of the 352x240 videos are silent surveillance recordings (no audio stream).
 
 ### Camera Positions Identified (from on-screen overlays)
 
@@ -84,10 +84,12 @@ Dataset 8 (VOL00008) contains **11,034 files** across three directories:
 
 | EFTA | Format | Size | Description |
 |------|--------|------|-------------|
-| [EFTA00014716](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014716.pdf) | M4A | 477KB | Audio recording |
-| [EFTA00015920](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015920.pdf) | M4A | 307KB | Audio recording |
-| [EFTA00021326](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021326.pdf) | M4A | 421KB | Audio recording |
-| [EFTA00028983](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028983.pdf) | MP3 | 879KB | Audio recording |
+| [EFTA00014716](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014716.pdf) | M4A | 477KB | Audio recording (transcribed in transcripts.db) |
+| [EFTA00015920](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015920.pdf) | M4A | 307KB | Audio recording (transcribed in transcripts.db) |
+| [EFTA00021326](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021326.pdf) | M4A | 421KB | Audio recording (transcribed in transcripts.db) |
+| [EFTA00028983](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028983.pdf) | MP3 | 879KB | Audio recording (transcribed in transcripts.db) |
+
+All 4 audio files have been GPU-transcribed (faster-whisper large-v3) and are searchable in transcripts.db (1,530 entries total across all datasets, 375 with speech, 92,153 total words).
 
 ---
 
@@ -199,7 +201,7 @@ Carrier identification for phone numbers:
 ### [EFTA00016338](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016338.pdf)-16341.csv — FULLY REDACTED (2.55 MB total)
 Four CSV files containing **nothing but Unicode block characters** (redaction blocks). Every single cell in all four files is completely redacted. Combined size: 2.55 MB of pure redaction.
 
-These are the most aggressively redacted files in the entire 218GB release. Whatever data was in these spreadsheets was considered so sensitive that the DOJ replaced every cell with block characters rather than using standard PDF overlay redaction.
+The corresponding PDF files in the IMAGES directory are "Native Placeholder / No Images Produced" pages. The actual CSV natives in the NATIVES directory contain block characters — every cell replaced with Unicode blocks. Column structure is preserved but content is 100% redacted. Whatever data was in these spreadsheets was considered sensitive enough that the DOJ replaced every cell with block characters.
 
 ---
 
@@ -219,10 +221,10 @@ The DOJ publicly released 412.5 hours of the very surveillance footage that was 
 The seized device inventory (UniFi CloudKey, UniFi Video server, UniFi server, Panasonic PBX, "Kitchen Mac 4TB") documents the surveillance infrastructure from Epstein's **properties** — a separate system from the MCC jail cameras.
 
 ### The Four Completely Redacted CSVs
-[EFTA00016338](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016338.pdf)-16341 represent 2.55 MB of data where every cell was replaced with block characters. This is unique in the entire dataset — no other files use this redaction method. The CSV format suggests these were **structured data** (database exports, financial records, contact lists, or transaction logs) considered too sensitive for any partial disclosure.
+[EFTA00016338](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016338.pdf)-16341 represent 2.55 MB of native CSV data where every cell was replaced with Unicode block characters. The corresponding PDF files in the IMAGES directory are "Native Placeholder / No Images Produced" pages. Column structure is preserved but all content is fully redacted. The CSV format indicates these were **structured data** (database exports, financial records, contact lists, or transaction logs) considered too sensitive for any partial disclosure.
 
-### Device Seizure = Evidence of the Blackmail Operation
-The seized device inventory documents the physical infrastructure of the surveillance/blackmail operation:
+### Device Seizure = Surveillance Infrastructure Documentation
+The seized device inventory (confirmed and expanded in DEVICE_FORENSICS_COMPLETE.md: complete processing timeline, 85 GB responsive material, CSAM found in 2023 during estate settlement) documents the physical infrastructure of the surveillance system:
 - Multiple UniFi surveillance components
 - A PBX phone system (records calls)
 - Dozens of storage devices (desktops, servers, thumb drives, SD cards)

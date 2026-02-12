@@ -40,7 +40,7 @@
 
 ### UNVERIFIED
 1. **Results for the other 8 devices are not documented in the released files.** Only 2 of 10 devices have documented outcomes ("negative").
-2. **Whether any devices returned POSITIVE results is unknown.** The two documented results were negative, but there is no summary report covering all 10 devices.
+2. ~~**Whether any devices returned POSITIVE results is unknown.**~~ **UPDATE (2026-02-12):** FBI CID summary ([EFTA00038617](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038617.pdf), approved 7/17/2024) confirms a "small number of CSAM images found on one of Epstein's devices" and "NO bedroom cameras found." CAIR review system documented in [EFTA00037676](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037676.pdf). Separately, 14 devices yielded "highly confidential responsive material" (nude/semi-nude content, [EFTA00020974](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020974.pdf)). However, the fundamental gap stands: only 2 of 10 assigned devices have documented review outcomes in the released files, and the Oct 2020 review protocol has no results document.
 3. **No final summary or report of the complete review has been found.**
 
 ### MISSING
@@ -194,7 +194,7 @@ Badge #CAS03223, HashID #CZACMME, CBP Agriculture Specialist at St. Thomas USVI.
 9. **Freddy Caraballo** had a separate proffer session (re Epstein) -- confirmed by calendar acceptance in [EFTA00031680](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031680.pdf), dated August 30, 2019.
 
 ### UNVERIFIED
-1. **The officer's actual name.** It is consistently redacted across all documents. The CBP memo ([EFTA00031495](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031495.pdf)) uses "Mr. ____" and "CBPAS ____" with redaction blocks throughout.
+1. ~~**The officer's actual name.**~~ **UPDATE (2026-02-12):** The officer has been identified as Timothy ("Tim"/"Bill") Routch, Badge #CAS03223, through DS9 documents including [EFTA00149603](https://www.justice.gov/epstein/files/DataSet%209/EFTA00149603.pdf)/08, which contain the unredacted name. Self-incriminated: "Everyone knew I was friends with Jeffery Epstein." FBI proffer sessions Oct-Nov 2020 with Crowell & Moring counsel. C-4 investigation with FBI/HSI. Transferred to North Charleston, SC.
 2. **The results of the proffer sessions.** No 302 or proffer memo documenting what the CBP officer actually said is in the released files.
 3. **Whether the officer was ever charged.**
 4. **Whether the complaints to DOJ and Charleston Sheriff led to any formal investigation.**
@@ -202,7 +202,7 @@ Badge #CAS03223, HashID #CZACMME, CBP Agriculture Specialist at St. Thomas USVI.
 
 ### MISSING
 1. **FBI 302 or proffer session notes** from either the October 7 or November 12, 2020 sessions.
-2. **The officer's name** -- thoroughly redacted in all documents.
+2. ~~**The officer's name**~~ **Now identified** (see above). The name remains redacted in DS8 documents but is visible in DS9.
 3. **Any charging document, plea agreement, or declination memo.**
 4. **The CBP internal affairs investigation outcome.**
 5. **Results of the "Freddy Caraballo Proffer (re Epstein)."**
@@ -265,7 +265,7 @@ FBI Special Agent Richard Taus, incarcerated at Clinton Correctional, wrote to A
 ## CROSS-CUTTING OBSERVATIONS
 
 ### Patterns of Non-Follow-Up
-Across all 6 leads, a consistent pattern emerges: **initial documentation exists, but follow-through documentation is systematically absent.**
+Across all 6 leads, a consistent pattern emerges: initial documentation exists, but follow-through documentation is systematically absent. **UPDATE (2026-02-12):** Subsequent revisit analysis across the full corpus has confirmed and strengthened this finding. The pattern extends beyond these 6 leads to include: Richardson denials never challenged, Leon Black investigation closed despite 4+ victims, Alexander brothers NTOC tip sat for years without follow-up, and flight log incompleteness never explained.
 
 | Lead | Initial Action Documented | Follow-Up Documented |
 |------|--------------------------|---------------------|

@@ -55,7 +55,7 @@ Got job at hair salon as receptionist
 Sis left
 
 - met [healer] thru mutual friend of sis & I
-- Native American Spiritual healer
+- Native American Spiritual healer [**IDENTIFIED via typed FD-302 and investigation memo as Joseph "Gypsy" Alvarez** -- see Revisit Addendum below]
 - let me stay w/ him
   Malibu to Beverly Hills
 
@@ -71,7 +71,7 @@ have 3 kids
 9, 4, Two
 ```
 
-**KEY FACTS:** Victim grew up in Santa Cruz Mountains, CA. Unstable home life. Attended 4 different high schools across 2 years but did not finish. Moved to LA at 16 on her own. Got job as hair salon receptionist. Lived with sister initially. Met a Native American spiritual healer through mutual friend. At time of interview (2019), works as bartender with 3 children ages 9, 4, and 2.
+**KEY FACTS:** Victim grew up in Santa Cruz Mountains, CA. Unstable home life. Attended 4 different high schools across 2 years but did not finish. Moved to LA at 16 on her own. Got job as hair salon receptionist. Lived with sister initially. Met a Native American spiritual healer through mutual friend -- identified via typed FD-302 ([EFTA01245662](https://www.justice.gov/epstein/files/DataSet%209/EFTA01245662.pdf)) as **"Gypsy"** and via investigation memo ([EFTA00098755](https://www.justice.gov/epstein/files/DataSet%209/EFTA00098755.pdf)) as **Joseph "Gypsy" Alvarez**, explicitly listed in Epstein's "Inner Circle -- Part II" with the annotation **"Provides girls for Epstein."** At time of interview (2019), works as bartender with 3 children ages 9, 4, and 2.
 
 ---
 
@@ -202,9 +202,9 @@ Ghislaine, [REDACTED]
 When I traveled, we were a fam[ily]
 
 Several diff [staff]:
-NY - [REDACTED]
+NY - [REDACTED] [**typed FD-302 identifies: "JOJO worked in New York"**]
 FL - diff housekeepers
-VI - [REDACTED]
+VI - [REDACTED] [**typed FD-302 identifies: "MILES and KATHY worked in the Virgin Islands"** -- confirmed as the Alexanders from South Africa per [EFTA00098755](https://www.justice.gov/epstein/files/DataSet%209/EFTA00098755.pdf)]
 Paris - chef cooked the best eggs
 ```
 
@@ -334,7 +334,7 @@ JE in VI on his boat
 I took photo
 
 Photo 3
-JE from Italy friend of his
+JE from Italy friend of his [**IDENTIFIED via typed FD-302 as MANUELLA LNU** (Last Name Unknown), "from Italy and was a friend of EPSTEIN's"]
 I took photo - tarmac VI
 
 Photo 4
@@ -394,7 +394,7 @@ Photo 9
 12. "taken at Disney World by me"
 ```
 
-**KEY FACTS:** Extensive travel documented photographically: Paris (multiple), USVI (helicopter, boat), Ecuador, Disney World. Jean-Luc Brunel took some of the photos -- confirming his presence on trips. Ecuador travel is notable and rarely mentioned in Epstein materials.
+**KEY FACTS:** Extensive travel documented photographically: Paris (multiple), USVI (helicopter, boat), Ecuador, Disney World. Jean-Luc Brunel took some of the photos -- confirming his presence on trips. Ecuador travel is notable and rarely mentioned in Epstein materials. **UPDATED (typed FD-302, [EFTA01245662](https://www.justice.gov/epstein/files/DataSet%209/EFTA01245662.pdf) p.7):** The Ecuador photo shows four identified individuals: "MAXWELL (in the blue shirt), [victim] (in the green pants), EPSTEIN, and BRUNEL (in the pink top). This photo was taken in Ecuador." This is one of the few photographs placing all three principals (Epstein, Maxwell, Brunel) in the same frame with a victim at an international location.
 
 ---
 
@@ -489,7 +489,7 @@ Gave letter that I was residing w/ him
 
 Paid for my school
 Sometimes gave me cash
-[He] gave me gold ring from Egypt, 400 BC
+[He] gave me gold ring from Egypt, 600 B.C.
 Left it in NY when I left
 
 He took me shopping
@@ -497,7 +497,7 @@ HE WAS VERY CONTROLLING ABOUT WHAT WE WEAR[wore]
 He was buying so he picked
 ```
 
-**KEY FACTS:** Epstein gave victim a phone. She flew on Gulfstream and a larger plane. He set up bank account, credit card, had banker help. Provided letter stating she resided with him. Gave her an ancient Egyptian gold ring (400 BC). **"He was very controlling about what we wear -- he was buying so he picked."** Classic control/grooming: financial dependence, clothing control, isolation.
+**KEY FACTS:** Epstein gave victim a phone. She flew on Gulfstream and a larger plane. He set up bank account, credit card, had banker help. Provided letter stating she resided with him. Gave her an ancient Egyptian gold ring (600 B.C.). **"He was very controlling about what we wear -- he was buying so he picked."** Classic control/grooming: financial dependence, clothing control, isolation.
 
 ---
 
@@ -514,6 +514,7 @@ I trusted him a lot and believed a lot of what he said
 IT WAS ALL MIND CONTROL
 
 He asked me a very random question if I thought it was wrong for a [older man to be with a young girl]
+[**CORRECTION from typed FD-302 ([EFTA01245662](https://www.justice.gov/epstein/files/DataSet%209/EFTA01245662.pdf) p.5):** Epstein actually asked the victim "if she thought it was wrong for a man to put women's faces on children's bodies to masturbate to them" -- a description of morphed CSAM, substantially different from the handwriting interpretation above.]
 
 I said I think that's wrong
 
@@ -527,7 +528,7 @@ Vegas is close
 - **"Idea to build harem" -- Epstein openly discussed building a harem**
 - Spain trip was connected to this "harem" plan
 - Victim states: **"It was all mind control"**
-- Epstein tested victim by asking if she thought it was wrong (for an older man with a young girl) -- she said yes, it was wrong
+- Epstein tested victim by asking if she thought it was wrong (handwritten notes suggest: "for an older man with a young girl"; **typed FD-302 correction:** Epstein asked whether she thought it was wrong "for a man to put women's faces on children's bodies to masturbate to them" -- a description of morphed CSAM) -- she said yes, it was wrong
 - References to Phoenix and Vegas -- possibly additional locations or contacts
 
 ---
@@ -608,7 +609,9 @@ Pages 18 through 30 contain the actual scanned photographs that the victim broug
 | **Ghislaine Maxwell (GM)** | "Very intimidating, very cold," understood as his "partner," relationship "more business" |
 | **Jean-Luc Brunel** | "One of JE's best friends," owns/works for modeling agency, "very eccentric, small, colorful," "traveled w/ us," took photos |
 | **Naomi Campbell** | Named as visitor to the island |
-| **[REDACTED - Sister]** | Introduced victim to Epstein, worked in his NY office, traveled with victim initially |
+| **Joseph "Gypsy" Alvarez** | Native American spiritual healer, California. Introduced victim (through sister) to Epstein. Listed in [EFTA00098755](https://www.justice.gov/epstein/files/DataSet%209/EFTA00098755.pdf) as Epstein "Inner Circle -- Part II": **"Provides girls for Epstein."** FBI/SDNY and Maxwell defense (BGS Ltd) both sought him in 2020-2021 ([EFTA01250066](https://www.justice.gov/epstein/files/DataSet%209/EFTA01250066.pdf)). |
+| **Manuella LNU** | Italian woman, friend of Epstein; identified via typed FD-302. Confirmed as real contact in [EFTA00766010](https://www.justice.gov/epstein/files/DataSet%209/EFTA00766010.pdf) (2010 call) and [EFTA02412777](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02412777.pdf) (2009 office visit). |
+| **[REDACTED - Sister]** | Introduced victim to Epstein, worked in his NY office, traveled with victim initially. **Typed FD-302 clarifies sister was present during the first assault.** |
 | **[REDACTED - "Best Friend"]** | Sweet, quiet woman understood to be Epstein's girlfriend; victim tried to confide about assaults but she "didn't relate" |
 | **[REDACTED - Blonde Woman]** | Short blonde hair, brown eyes, 5+ years older; contact with victim "more than 1x before I was 18" |
 | **[REDACTED - touched victim]** | "Touched me during both" -- someone besides Epstein sexually assaulted the victim |
@@ -759,7 +762,7 @@ The [EFTA00004070](https://www.justice.gov/epstein/files/DataSet%203/EFTA0000407
 - **Mind control** -- Interview victim uses the phrase "mind control"; the journal victims describe systematic psychological manipulation
 - **Clothing control** -- Interview victim says "very controlling about what we wear"; consistent with the modeling/Victoria's Secret pipeline
 - **Robin Hood event** -- Photo places victim at Robin Hood Foundation gala; Epstein's calendar shows Robin Hood connections through Eva Dubin ([EFTA02081975](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02081975.pdf))
-- **Ecuador travel** -- Unique to this victim; not corroborated in other victim accounts but consistent with Epstein's extensive international travel
+- **Ecuador travel** -- Confirmed in typed FD-302 with four identified individuals in photo: Maxwell, Epstein, Brunel, and the victim
 
 ---
 
@@ -789,9 +792,9 @@ No other documents in the [EFTA00004065](https://www.justice.gov/epstein/files/D
 12. **Additional assailant(s)** -- "[REDACTED] touched me during both" -- someone besides Epstein sexually assaulted the victim
 
 ### Unique Elements of This Testimony
-- **Ecuador travel** -- not documented in other victim accounts
+- **Ecuador travel** -- confirmed in typed FD-302: photo placing Maxwell, Epstein, Brunel, and victim together at international location
 - **Robin Hood Foundation gala attendance** -- victim brought to high-profile NYC charity event
-- **Egypt ring (400 BC)** -- Epstein gave victim an ancient artifact
+- **Egypt ring (600 B.C.)** -- Epstein gave victim an ancient artifact
 - **Eating disorder development** -- direct psychological consequence documented
 - **"Chef who cooked the best eggs" in Paris** -- distinctive household detail
 - **UCLA sweatshirt photo** -- possible university connection
@@ -799,7 +802,57 @@ No other documents in the [EFTA00004065](https://www.justice.gov/epstein/files/D
 
 ---
 
+---
+
+## REVISIT ADDENDUM (2026-02-12): TYPED FD-302 AND NEW EVIDENCE
+
+### Typed FD-302 Discovery: [EFTA01245662](https://www.justice.gov/epstein/files/DataSet%209/EFTA01245662.pdf)
+
+The full-text corpus search of DS9 identified [EFTA01245662](https://www.justice.gov/epstein/files/DataSet%209/EFTA01245662.pdf) (DS9, 8 pages) as the formal, agent-prepared typed FBI FD-302 transcription of the same January 31, 2019 interview documented by the handwritten notes in [EFTA00004070](https://www.justice.gov/epstein/files/DataSet%203/EFTA00004070.pdf). It is filed under case number 31E-NY-3027571 and bears an alternative reference EFTA00057943. This typed version provides corrections and clarifications to the original report's handwriting reconstructions.
+
+### Corrections from Typed FD-302
+
+| # | Item | Original Report | Typed FD-302 Correction | Source |
+|---|------|----------------|------------------------|--------|
+| 1 | Gold Ring Date | "600 B.C." | Confirmed: "a gold ring from Egypt that was from 600 B.C." | [EFTA01245662](https://www.justice.gov/epstein/files/DataSet%209/EFTA01245662.pdf) p.5 |
+| 2 | Healer Identity | "Native American Spiritual healer" (unnamed) | **Joseph "Gypsy" Alvarez** -- named as "GYPSY" in FD-302, listed in [EFTA00098755](https://www.justice.gov/epstein/files/DataSet%209/EFTA00098755.pdf) as "Provides girls for Epstein" | [EFTA01245662](https://www.justice.gov/epstein/files/DataSet%209/EFTA01245662.pdf) p.1, [EFTA00098755](https://www.justice.gov/epstein/files/DataSet%209/EFTA00098755.pdf) p.2 |
+| 3 | Ecuador Photo | Minimal detail | Photo shows Maxwell, victim, Epstein, and Brunel together with described clothing | [EFTA01245662](https://www.justice.gov/epstein/files/DataSet%209/EFTA01245662.pdf) p.7 |
+| 4 | Italy Friend | "JE from Italy friend of his" | Named as **MANUELLA LNU** (Last Name Unknown) | [EFTA01245662](https://www.justice.gov/epstein/files/DataSet%209/EFTA01245662.pdf) p.6 |
+| 5 | First Assault | Reconstructed as massage escalation | Sister was present during first assault; both sisters massaged Epstein; assault was more explicit than handwriting suggested | [EFTA01245662](https://www.justice.gov/epstein/files/DataSet%209/EFTA01245662.pdf) p.1 |
+| 6 | Staff Names | Redacted | "JOJO worked in New York, MILES and KATHY worked in the Virgin Islands," chef in Paris | [EFTA01245662](https://www.justice.gov/epstein/files/DataSet%209/EFTA01245662.pdf) p.2 |
+| 7 | Bank Account | Not specified | "on 66th and 2nd" -- near Epstein's Upper East Side properties | [EFTA01245662](https://www.justice.gov/epstein/files/DataSet%209/EFTA01245662.pdf) p.5 |
+| 8 | Epstein's Question | "wrong for an older man to be with a young girl" | "wrong for a man to put women's faces on children's bodies to masturbate to them" -- description of morphed CSAM | [EFTA01245662](https://www.justice.gov/epstein/files/DataSet%209/EFTA01245662.pdf) p.5 |
+
+### Allred/Wang SDNY Scheduling Correspondence: [EFTA00040390](https://www.justice.gov/epstein/files/DataSet%209/EFTA00040390.pdf)
+
+DS9 counterpart of [EFTA00013253](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013253.pdf). 6-page email chain (Aug-Nov 2020) containing victim scheduling with additional detail. Mariann Wang writes regarding photographs found in Epstein's possession: "Re the photograph info especially, we don't want to convey the info to our clients until we understand the scope/clarifications." This indicates SDNY may have found photos of these victims in seized evidence.
+
+### Naomi Campbell Corroboration Chain
+
+Three independent sources now confirm Campbell's presence in Epstein's orbit: (1) this victim (island), (2) pilot Larry Visoski confirming Campbell on the aircraft alongside Brunel ([EFTA00159483](https://www.justice.gov/epstein/files/DataSet%209/EFTA00159483.pdf)), and (3) a separate victim (DOB 4/7/1986, met Epstein via David Blaine) placing Campbell at an Epstein dinner in New York ([EFTA00153851](https://www.justice.gov/epstein/files/DataSet%209/EFTA00153851.pdf)). Calendar entries show continued Epstein-Campbell contact through at least 2015.
+
+### Joseph "Gypsy" Alvarez -- Identified Procurer
+
+Text messages ([EFTA01250066](https://www.justice.gov/epstein/files/DataSet%209/EFTA01250066.pdf), DS9, 7 pages, Jul 2020-Apr 2021) show both FBI/SDNY and Maxwell's UK-based defense investigators (BGS Ltd, "managed by very senior ex Scotland Yard detectives") attempted to contact Alvarez. He is listed in [EFTA00098755](https://www.justice.gov/epstein/files/DataSet%209/EFTA00098755.pdf) alongside Maxwell, Groff, and Visoski in the loyalty tier expected to "remain loyal to JE during any criminal investigation."
+
+### New EFTA Documents from Revisit
+
+| EFTA | DS | Pages | Description |
+|------|-----|-------|-------------|
+| [EFTA01245662](https://www.justice.gov/epstein/files/DataSet%209/EFTA01245662.pdf) | 9 | 8 | Typed FBI FD-302 of same victim interview |
+| [EFTA00040390](https://www.justice.gov/epstein/files/DataSet%209/EFTA00040390.pdf) | 9 | 6 | Allred/Wang SDNY scheduling, references photographs found |
+| [EFTA00098755](https://www.justice.gov/epstein/files/DataSet%209/EFTA00098755.pdf) | 9 | 5 | Investigation memo: "Inner Circle" -- Alvarez "Provides girls for Epstein" |
+| [EFTA01250066](https://www.justice.gov/epstein/files/DataSet%209/EFTA01250066.pdf) | 9 | 7 | Alvarez text messages (prosecution + defense outreach) |
+| [EFTA00153851](https://www.justice.gov/epstein/files/DataSet%209/EFTA00153851.pdf) | 9 | 5 | Separate victim FBI 302: Naomi Campbell at Epstein dinner |
+| [EFTA00159483](https://www.justice.gov/epstein/files/DataSet%209/EFTA00159483.pdf) | 9 | -- | Visoski deposition: Campbell on plane with Brunel |
+| [EFTA00073492](https://www.justice.gov/epstein/files/DataSet%209/EFTA00073492.pdf) | 9 | 1 | FBI 302 of Jean-Luc Brunel telephone interview (7/23/2019) |
+| [EFTA00766010](https://www.justice.gov/epstein/files/DataSet%209/EFTA00766010.pdf) | 9 | 1 | "Manuella called" -- confirms Manuella as real Epstein contact |
+| [EFTA02412777](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02412777.pdf) | 11 | 1 | "Manuella stopped by the office" (2009) |
+
+---
+
 *Report compiled from: primary document text database, OCR text extraction database, image catalog database*
+*Revised 2026-02-12 with full-text corpus revisit: 16 systematic FTS5 queries across DS9/DS11, 10 corrections identified, 11 new EFTA documents cataloged*
 *[EFTA00004070](https://www.justice.gov/epstein/files/DataSet%203/EFTA00004070.pdf): 30 pages total (FBI evidence receipt + 15 pages handwritten notes + 14 pages photographs)*
 *Interview date: January 31, 2019*
 *FBI Case: 31E-NY-3027571*

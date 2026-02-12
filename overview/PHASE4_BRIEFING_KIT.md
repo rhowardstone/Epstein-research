@@ -12,7 +12,7 @@
 
 # EPSTEIN FILES: WHAT CONGRESS NEEDS TO KNOW
 
-## PAGE 1: FIVE MOST EXPLOSIVE FINDINGS
+## PAGE 1: FIVE KEY FINDINGS
 
 ### 1. Leon Black: The Biggest Undiscovered Story (816 Connections)
 
@@ -28,11 +28,13 @@ When Palm Beach Police executed a search warrant at 358 El Brillo Way in October
 
 ### 4. The Alexander Brothers: FBI Tip to Trial with Zero Follow-Up
 
-FBI tips ([EFTA01660651](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660651.pdf), [EFTA01660679](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660679.pdf)) describe three brothers -- Allen, Oren, and Tal -- who were present at Epstein's New York parties. A victim reported: "two twin brothers, Allen and Oren, lured caller and her friend upstairs but they escaped back downstairs. Oren raped her best friend and a third brother, Tal, raped a 14 year old girl named Katie." These brothers are now on trial in separate proceedings, but the Epstein files show zero documented follow-up on the original FBI tips. The connection between the Alexander brothers and the Epstein network was known to federal law enforcement years before their current prosecution.
+FBI tips ([EFTA01660651](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660651.pdf), [EFTA01660679](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660679.pdf)) describe three brothers -- Allen, Oren, and Tal -- who were present at Epstein's New York parties. A victim reported: "two twin brothers, Allen and Oren, lured caller and her friend upstairs but they escaped back downstairs. Oren raped her best friend and a third brother, Tal, raped a 14 year old girl named Katie." These brothers are now on trial at SDNY (January 2026) for sex trafficking 60+ women; their mistrial motion after the Epstein files release was denied by Judge Caproni. The FBI did annotate the original tip as "possibly identifiable as Alexander brothers" but delayed action for years. The connection between the Alexander brothers and the Epstein network was known to federal law enforcement years before their current prosecution.
 
-### 5. The Shell Company Labyrinth: $85 Million Through 16+ Entities
+### 5. The Shell Company Labyrinth: $755 Million Through 95+ Entities
 
-Financial records extracted from banking document text layers reveal at least 16 shell entities controlled by Epstein, including Southern Trust Company ($45M+), Gratitude America ($2M+), Zorro Management, Plan D LLC, Hyperion Air, JEGE LLC, The Haze Trust ($2.5M), Butterfly Trust, Neptune LLC, NES LLC, HBRK Associates, Southern Financial LLC, and Jeepers Inc. Jeepers Inc. is directly linked to Glen Dubin. Total identified account balances exceed $85 million at any given snapshot. The full scope of money flowing through these entities has never been mapped by any investigating body.
+Financial records extracted from banking document text layers and the full forensic workbench reveal at least 95 shell entities controlled by Epstein, including Southern Trust Company ($45M+), Gratitude America ($2M+), Zorro Management, Plan D LLC, Hyperion Air, JEGE LLC, The Haze Trust ($2.5M), Butterfly Trust, Neptune LLC, NES LLC, HBRK Associates, Southern Financial LLC, and Jeepers Inc. Jeepers Inc. is directly linked to Glen Dubin. Total cumulative documented financial flows exceed $755 million across these entities. The initial $85 million figure represented a single point-in-time balance snapshot; cumulative flows are an order of magnitude larger. The full scope of money flowing through these entities has never been mapped by any investigating body.
+
+> **Revisit note (2026-02-12):** Entity count updated from 16+ to 95+ and financial figure from $85M (single snapshot) to $755M+ (cumulative flows) based on forensic_workbench.db analysis across all 12 datasets.
 
 ---
 
@@ -98,8 +100,12 @@ JEFFREY EPSTEIN (Central Node)
   |--[traveled: 18]----- CELINA MIDELFART --> Social --> Unknown --> 1990s
   |--[traveled: 16]----- JEAN-LUC BRUNEL --> MC2 Models --> Recruitment --> 1980s-2019
   |--[associated: 14]--- EHUD BARAK --> Israeli PM/Carbyne --> Political/Tech --> 2013-2017+
+  |                      ** Full corpus: 3,756 docs. Carbyne 50+ docs, Reporty 324+ docs.
+  |                      ** Continuous relationship through Feb 2019, island stay, apt at 301 E 66th,
+  |                      ** "i dont work for mossad :)" message. See ISRAEL_DEEP_DIVE_V2.md.
   |--[associated: 13]--- HOWARD LUTNICK --> Cantor Fitzgerald --> Finance --> Unknown
   |--[associated: 12]--- ELON MUSK --> Tesla/SpaceX --> Tech/Social --> Unknown
+  |                      ** Full corpus: 1,038 docs.
   |--[associated: 11]--- MARVIN MINSKY --> MIT/AI Pioneer --> Academic --> Deceased
   |--[associated: 10]--- ALFREDO RODRIGUEZ --> Butler/Employee --> Staff --> 2004-2005
   |--[associated: 10]--- FBI --> Law Enforcement --> Investigation --> 2005-2019
@@ -236,7 +242,7 @@ JEFFREY EPSTEIN
 - **TARGET:** Ehud Barak; Carbyne 911 (now Carbyne Ltd.); Nili Priell Barak
 - **WHAT TO DEMAND:** All communications with Epstein (2010-2019); all records of payments from Epstein or Epstein entities to Barak or Barak-affiliated entities; all records of Epstein's involvement with Carbyne; testimony regarding the nature and frequency of meetings documented in the calendar records
 - **LEGAL BASIS:** Senate Foreign Relations Committee (foreign intelligence nexus); Senate Judiciary Committee
-- **WHY NOW:** The files document 18+ meetings between Barak and Epstein spanning multiple years. Barak was former Prime Minister and Defense Minister of Israel. The intelligence implications of a former head of state maintaining a documented relationship with a sex trafficker are a national security concern.
+- **WHY NOW:** The full corpus documents 3,756+ records involving Barak spanning 2013 through February 2019, including a week-long island stay, an apartment at 301 E 66th Street (same building as MC2 and trafficking victims), and direct emails. An FBI CHS FD-1023 ([EFTA00090314](https://www.justice.gov/epstein/files/DataSet%209/EFTA00090314.pdf)) states that "Epstein belonged to both U.S. and allied intelligence services" and "trained as a spy under" Barak. Additionally, Carbyne (50+ docs) and Reporty (324+ docs) are now documented in the corpus, showing a complete investment structure. Barak was former Prime Minister and Defense Minister of Israel. The intelligence implications of a former head of state maintaining a documented relationship with a sex trafficker are a national security concern.
 - **WHAT IT WOULD REVEAL:** Whether Epstein had intelligence connections through Barak; the purpose of frequent meetings; whether Israeli intelligence services were aware of or involved in the relationship.
 
 ## Subpoena #8: MIT MEDIA LAB / MIT ADMINISTRATION
@@ -260,7 +266,7 @@ JEFFREY EPSTEIN
 - **TARGET:** U.S. Attorney's Office, Southern District of New York; Manhattan District Attorney's Office
 - **WHAT TO DEMAND:** The complete Leon Black investigation file; all "HT Subject Referrals"; all communications between SDNY and DANY regarding "additional subjects"; the decision memo for declining prosecution of Leon Black and any other identified subjects; the complete "sealed exhibits" referenced in [EFTA01657085](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01657085.pdf); all victim impact statements that were sealed
 - **LEGAL BASIS:** Senate Judiciary Committee; House Judiciary Committee (DOJ oversight)
-- **WHY NOW:** The recovered documents show prosecutors had sufficient evidence that DANY "do not doubt her allegations against JE and LB." The decision not to prosecute Leon Black and potentially other "additional subjects" requires explanation. The existence of "HT Subject Referrals" that produced no charges is itself a matter requiring congressional oversight.
+- **WHY NOW:** The recovered documents show prosecutors had sufficient evidence that DANY "do not doubt her allegations against JE and LB." The victim count has been expanded to 93 individually identified victims (up from 36+), and the complete OPR Executive Summary ([EFTA00095558](https://www.justice.gov/epstein/files/DataSet%209/EFTA00095558.pdf)) and Operation Leap Year grand jury transcripts have been identified. The decision not to prosecute Leon Black and potentially other "additional subjects" requires explanation. The existence of "HT Subject Referrals" that produced no charges is itself a matter requiring congressional oversight.
 - **WHAT IT WOULD REVEAL:** Why identified human trafficking subjects were not charged; the full scope of the investigation; whether political considerations influenced prosecution decisions.
 
 ---
@@ -276,10 +282,10 @@ The committee should subpoena the SDNY/DANY Leon Black file and hold a classifie
 The DOJ Inspector General should investigate the progressive DVR failure at MCC (system failure 7/29, hard drive failure 8/8, death 8/10). The files show 5 missed head counts and documentation of approximately 150 cameras, yet critical footage was unavailable. The IG should determine whether this was negligence or interference.
 
 **3. Hold Classified Briefing on the Ehud Barak Connection**
-The Senate Intelligence Committee and Senate Foreign Relations Committee should receive a classified briefing on the 18+ documented meetings between a former Israeli Prime Minister and a convicted sex trafficker. The intelligence implications -- including potential compromise of U.S. national security information -- require assessment.
+The Senate Intelligence Committee and Senate Foreign Relations Committee should receive a classified briefing on the 3,756+ documents linking a former Israeli Prime Minister to a convicted sex trafficker, including continuous correspondence through February 2019, a week-long island stay, and an apartment at 301 E 66th Street in the same building as MC2 and trafficking victims. An FBI CHS FD-1023 ([EFTA00090314](https://www.justice.gov/epstein/files/DataSet%209/EFTA00090314.pdf)) states that "Epstein belonged to both U.S. and allied intelligence services" and "trained as a spy under" Barak. The intelligence implications -- including potential compromise of U.S. national security information -- require assessment.
 
 **4. Request GAO Audit of Epstein-Linked Shell Company Finances**
-The Government Accountability Office should trace all money flows through the 16+ identified shell entities. Total identifiable balances exceeded $85 million, yet no comprehensive forensic accounting has been performed. The GAO should specifically examine Southern Trust Company ($45M+), Gratitude America, and the Butterfly Trust.
+The Government Accountability Office should trace all money flows through the 95+ identified shell entities. Total cumulative documented flows exceed $755 million, yet no comprehensive forensic accounting has been performed. The GAO should specifically examine Southern Trust Company ($45M+), Gratitude America, the Butterfly Trust, and Southern Financial LLC (through which the $13.5M Tudor transfer and $28.8M Valar/Thiel flows passed).
 
 **5. Demand Reading Room Access for Staff**
 Members of the Judiciary Committee should demand that designated staff with appropriate clearances be given unrestricted access to the EFTA reading room, specifically including: [EFTA01719203](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01719203.pdf) (most redacted document), [EFTA01310387](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01310387.pdf) (7,988 redactions), and the EFTA02731xxx series (Leon Black investigation).
@@ -430,3 +436,7 @@ All EFTA numbers cited can be verified against the original documents in the con
 *Prepared through systematic computational analysis of 3.4 million text records extracted from document text layers across four databases. All findings are drawn directly from text within government-released documents. This analysis does not constitute legal advice or formal allegations. Text extracted from document layers may contain OCR errors. All citations should be verified against original documents before use in official proceedings.*
 
 **DATA QUALITY NOTE:** The document text database contains 1.8 million text records extracted from PDF text layers near redaction zones. A data quality audit (DATA_QUALITY_AUDIT.md) confirmed that ~98% of 'bad_overlay' records are OCR noise from degraded scans, not text hidden behind removable redactions. Only 12 documents had genuinely failed redaction overlays exposing PLIST metadata. The text searches against this corpus are valid for identifying which documents mention specific terms, but the results should not be characterized as 'recovered hidden text.'
+
+---
+
+**REVISIT INTEGRATION (2026-02-12):** This briefing kit was reviewed against the full text corpus (1,380,937 documents across all 12 datasets). Nine corrections were integrated: (1) financial figure updated from $85M snapshot to $755M+ cumulative flows through 95+ entities; (2) Barak document count expanded from 18+ meetings to 3,756+ documents with Carbyne/Reporty coverage added; (3) Musk expanded from weight 12 to 1,038 documents; (4) Alexander brothers updated to reflect January 2026 SDNY trial and FBI annotation; (5) CBP officer identified as Badge #CAS03223 per [EFTA00149603](https://www.justice.gov/epstein/files/DataSet%209/EFTA00149603.pdf); (6) victim count expanded to 93 from 36+; (7) OPR Executive Summary and Operation Leap Year grand jury transcripts identified; (8) intelligence connection documented via FBI CHS FD-1023 ([EFTA00090314](https://www.justice.gov/epstein/files/DataSet%209/EFTA00090314.pdf)); (9) DVR replacement drives confirmed obtained but never installed per [EFTA01649190](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01649190.pdf). Core recommendations remain sound and are strengthened by subsequent findings. Cross-referenced with revisits #34, #52, #54, #56, #57.

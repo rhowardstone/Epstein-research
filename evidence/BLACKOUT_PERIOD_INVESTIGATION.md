@@ -9,21 +9,23 @@
 
 ## EXECUTIVE SUMMARY
 
-The 99-day gap in Apple Mail PLIST email metadata (November 14, 2018 through February 21, 2019) coincides with the most consequential period in the entire Epstein case. This investigation found:
+**[CORRECTED 2026-02-12]:** The original central thesis of this report -- that the 99-day gap in Apple Mail PLIST email metadata (November 14, 2018 through February 21, 2019) represented a genuine communication blackout -- has been **disproved** by the full text corpus. DS9 contains continuous, prolific jeevacation@gmail.com email activity throughout the entire alleged blackout period, including daily emails with associates such as Larry Summers, Ehud Barak, Kathy Ruemmler, George Church, and others. The "blackout" was an artifact of DS11 PLIST extraction methodology, not actual communication silence. See the Full Corpus Revisit Integration section at the end of this report for complete documentation.
+
+The following findings from the original investigation remain valid:
 
 1. **EXTENSIVE government communications exist during this period** -- The DOJ/SDNY was furiously opening an investigation, coordinating with FBI, traveling to Florida, and building the case. These emails are NOT from Epstein's systems but from government actors.
 
-2. **Epstein continued FLYING during the blackout** -- TECS/CBP flight records document at least 8 private jet flights on N212JE during the blackout period, including a flight on the very day the Herald published (Nov 28, 2018).
+2. **Epstein continued FLYING during the blackout** -- TECS/CBP flight records document at least 8 private jet flights on N212JE during the blackout period, including a flight on the very day the Herald published (Nov 28, 2018). Groff calendar entries in DS9 confirm even more extensive travel than TECS records alone indicated.
 
 3. **Epstein was actively PAYING people** -- Continuous check-writing from a personal account throughout Nov-Feb, plus critical wire transfers ($100K to Aviloop LLC on 11/30/2018, $250K on 12/3/2018) from the Butterfly Trust.
 
-4. **A victim had ONGOING INTERACTIONS with Epstein during Dec 2018-July 2019** -- Epstein was still luring victims to NYC, Paris, Florida, and the Virgin Islands during the blackout.
+4. **A victim had ONGOING INTERACTIONS with Epstein during Dec 2018-July 2019** -- Epstein was still luring victims to NYC, Paris, Florida, and the Virgin Islands during this period.
 
 5. **Evidence of prior destruction patterns** -- Documents reveal Epstein directed removal of computers from Palm Beach residence before a police search, directed shredding of directories, and his lawyer told an associate not to talk to police.
 
-6. **Encrypted communication tools were in the Epstein orbit** -- References to PGP, Signal, WhatsApp, Telegram found in the corpus. One entity used ProtonMail (Swiss-hosted) with explicit claims of Swiss legal jurisdiction.
+6. **Encrypted communication tools were registered to Epstein personally** -- DS9 reveals Epstein had Signal, Confide, WhatsApp, and Telegram accounts all registered to the same phone number (212-533-3739), documented in sex offender registry filings ([EFTA00168380](https://www.justice.gov/epstein/files/DataSet%209/EFTA00168380.pdf)).
 
-7. **The FBI NY office opened its investigation on December 6, 2018** -- just 8 days after the Herald published, making the email blackout during exactly this period deeply suspicious.
+7. **The FBI NY office opened its investigation on December 6, 2018** -- just 8 days after the Herald published. However, Epstein continued operating openly with apparent impunity throughout this period, not "going dark" as the original report concluded.
 
 ---
 
@@ -226,7 +228,7 @@ US Customs and Border Protection records document the following flights on Epste
 The FBI compiled a complete flight calendar showing Epstein's movements:
 
 - **November 2018:** Outbound TEB --> France; Outbound France --> TEB; Outbound KBCT --> TIST; Outbound TIST --> TEB
-- **December 2018:** Outbound TIST --> PBI (only one recorded flight -- **sharply reduced travel**)
+- **December 2018:** Outbound TIST --> PBI (only one recorded TECS flight; **however, DS9 calendar entries show extensive Dec 2018 activity**: Bedford trip Dec 2, PB Dec 5, LSJ Dec 10, PB Dec 14, NY Dec 17, PB Dec 21, continuous through Dec 31. Travel was not reduced.)
 - **January 2019:** [Calendar shows dates but no specific flights marked -- appears blank or with minimal activity]
 - **February 2019:** Outbound TIST --> PBI; Outbound TIST --> Dom Rep; Outbound Dom Rep --> PBI
 
@@ -380,7 +382,7 @@ This privileged Attorney Work Product document reveals the full scope of Epstein
 
 **[EFTA00035482](https://www.justice.gov/epstein/files/DataSet%208/EFTA00035482.pdf)** -- Reference to encrypted communication tools:
 - "**PGP | Signal | WhatsApp | Telegram**"
-- This document lists the four major encrypted communication platforms, suggesting awareness of or use of these tools within the Epstein network
+- **[CORRECTED]:** This is not merely awareness. DS9 reveals Epstein personally registered Signal, Confide, WhatsApp, and Telegram accounts to the same phone number (212-533-3739), as documented in sex offender registry filings ([EFTA00168380](https://www.justice.gov/epstein/files/DataSet%209/EFTA00168380.pdf), [EFTA00521417](https://www.justice.gov/epstein/files/DataSet%209/EFTA00521417.pdf))
 
 **[EFTA01828946](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01828946.pdf)** -- Email:
 - Subject: "**Get WhatsApp M[essages]**"
@@ -529,32 +531,21 @@ During the Nov 14, 2018 - Feb 21, 2019 window, the corpus contains:
 
 ### What is MISSING
 
-The gap is specifically in **Apple Mail PLIST metadata** -- the email system metadata from Epstein's personal devices. This means:
+**[CORRECTED 2026-02-12]:** The gap is specifically in **Apple Mail PLIST metadata** from DS11 -- not in the actual email record. DS9 contains the full email content for this period. The PLIST gap is a technical artifact of how DS11 data was extracted, not evidence of deletion, wiping, or channel-switching. The emails exist in their original form in DS9.
 
-1. **Epstein's personal emails during this period are not represented** in the PLIST metadata
-2. This could indicate:
-   - Emails were deleted from the devices
-   - The email application was not in use (switched to alternative channels)
-   - The devices were wiped or replaced
-   - The PLIST files were tampered with
-   - A different device/account was being used
+### Assessment
 
-### Assessment: Was This Deliberate?
+**[CORRECTED 2026-02-12]:** The original assessment that the PLIST gap represented deliberate operational security is no longer supported. The evidence that remains valid:
 
-The evidence strongly suggests consciousness of guilt and deliberate operational security measures:
-
-1. **Timing:** The blackout begins precisely when the Herald series was generating massive public attention and the SDNY was opening its investigation
-2. **Financial activity proves Epstein was active:** The continuous check-writing and wire transfers prove Epstein was conducting business throughout this period
-3. **Flight records prove Epstein was traveling:** Eight documented flights show he was not incapacitated
-4. **Victim testimony proves ongoing criminal conduct:** A victim had "subsequent interactions with Epstein... in December 2018-July 2019"
-5. **Prior pattern of evidence destruction:** The documented history of removing computers before searches, shredding directories, and lawyer-directed silence establishes a clear pattern
-6. **Encrypted tool awareness:** References to PGP, Signal, WhatsApp, Telegram, and ProtonMail show these tools were known within the network
-7. **The Moscow ticket:** Purchasing a ticket for someone to fly from Russia to NYC on the same day the Herald published suggests urgent, reactive communications -- yet these communications leave no trace in the PLIST data
-8. **Post-Herald payments:** $350,000 in wire transfers within 5 days of the Herald publication, to associates who could become witnesses, suggests active witness management
+1. **Post-Herald payments remain suspicious:** The $100K and $250K wires within days of the Herald publication are explicitly cited in the government's detention memo as evidence of witness tampering
+2. **Victim testimony proves ongoing criminal conduct:** A victim had "subsequent interactions with Epstein... in December 2018-July 2019"
+3. **Prior pattern of evidence destruction:** The documented history of removing computers, shredding directories, and lawyer-directed silence remains valid
+4. **Encrypted tools were directly used by Epstein:** Signal, Confide, WhatsApp, and Telegram were all registered to his phone number (212-533-3739)
+5. **Epstein operated with apparent confidence:** Rather than suggesting operational security, the DS9 emails show Epstein operating normally -- hosting foreign leaders, claiming political influence, and continuing travel and social activities without behavioral disruption
 
 ### The Indyke Flight (Jan 6, 2019)
 
-Darren Indyke -- Epstein's personal lawyer and the person documented as telling a witness "not to talk to police" -- flew with Epstein on January 6, 2019. This in-person meeting, rather than an email or phone call, is consistent with a deliberate effort to avoid creating records of their communications during a sensitive period.
+**[RECONTEXTUALIZED]:** Darren Indyke flew with Epstein on January 6, 2019. The DS9 calendar shows this flight coincided with Ehud Barak's week-long island visit (Jan 6-12 per [EFTA00486718](https://www.justice.gov/epstein/files/DataSet%209/EFTA00486718.pdf): "Nili and Ehud to arrive early morning and stay for a week"). The meeting likely concerned multiple matters, not necessarily avoidance of creating records.
 
 ---
 
@@ -646,38 +637,64 @@ Multiple Epstein entities were documented as "voluntarily dissolved" -- consiste
 
 ## CONCLUSIONS
 
-### 1. The Blackout Was Not a Technical Glitch
+### 1. The "Blackout" Was a Technical Artifact, Not a Communication Silence
 
-The 99-day gap in Apple Mail PLIST metadata occurs during a period when:
-- Epstein was demonstrably active (flying, paying, meeting his lawyer)
-- He was under increasing legal threat (Herald series, SDNY investigation, FBI case opening)
-- He had a documented history of destroying evidence before searches
-- His lawyer had previously instructed witnesses not to talk to police
-- Encrypted communication tools (Signal, WhatsApp, PGP, Telegram, ProtonMail) were known within his network
+**[CORRECTED 2026-02-12]:** The 99-day gap in Apple Mail PLIST metadata was an artifact of the DS11 PLIST extraction methodology. DS9 contains continuous daily jeevacation@gmail.com email activity throughout the entire period. Epstein emailed prolifically from Nov 14, 2018 through Feb 21, 2019, maintaining contact with Summers, Barak, Ruemmler, Church, Groff, Kahn, Indyke, and many others. There was no communication blackout.
 
-### 2. Alternative Channels Were Almost Certainly Used
+### 2. Alternative Channels Were Used, But Not as a Replacement
 
-The combination of:
-- Active travel and financial activity
-- Zero email metadata
-- References to encrypted platforms in the corpus
-- An in-person meeting with his lawyer (Indyke flight Jan 6)
-- The Moscow ticket purchase on the day of the Herald publication
+**[CORRECTED]:** While Epstein did have registered Signal, Confide, WhatsApp, and Telegram accounts (confirmed by sex offender registry filings), the premise that these replaced email during this period is unsupported because email was never interrupted. Epstein used both email and encrypted channels as part of his normal communication pattern.
 
-...suggests Epstein deliberately shifted to communication channels that would not leave traces in his Apple Mail PLIST files.
+### 3. The Post-Herald Wire Transfers Remain Suspicious
 
-### 3. The Financial Activity Reveals Panic
-
-The $100K wire to Aviloop LLC two days after the Herald, the $250K wire three days later, and a victim's statement that Epstein sent money "because he felt guilty for the trouble the articles caused" demonstrate that Epstein was actively managing his exposure -- paying associates who could become witnesses.
+The $100K wire to Aviloop LLC two days after the Herald, the $250K wire three days later, and a victim's statement that Epstein sent money "because he felt guilty for the trouble the articles caused" remain the strongest evidence of witness tampering during this period. The government's own detention memo ([EFTA00039383](https://www.justice.gov/epstein/files/DataSet%209/EFTA00039383.pdf)) explicitly cited these payments as evidence of witness tampering. However, the broader characterization of "panic" is not supported by his emails, which show no behavioral disruption after the Herald series.
 
 ### 4. Ongoing Criminal Conduct
 
-A victim had "subsequent interactions with Epstein... in December 2018-July 2019" including sexual abuse in Florida and the Virgin Islands. Epstein asked this victim "to meet with a young (18/19) girl for coffee in Russia." The sex trafficking operation continued through the blackout and beyond.
+A victim had "subsequent interactions with Epstein... in December 2018-July 2019" including sexual abuse in Florida and the Virgin Islands. Epstein asked this victim "to meet with a young (18/19) girl for coffee in Russia." The sex trafficking operation continued through this period and beyond.
 
-### 5. The SDNY Was Building Its Case in Real-Time
+### 5. Epstein Operated with Apparent Impunity
 
-The government communications prove that prosecutors and FBI agents were working intensively on the Epstein case during every week of the blackout period. The irony is that while the government was secretly building its case ("on the d/l for now"), Epstein appears to have been aware enough of the threat to go dark on his regular email channels -- while continuing his criminal activity through other means.
+**[CORRECTED]:** Rather than "going dark," the DS9 evidence reveals Epstein continued operating with full confidence during the period when SDNY was secretly building its case. While prosecutors were writing "on the d/l for now," Epstein was hosting Ehud Barak for a week on his island (Jan 6-12), claiming to be consulted on Treasury Secretary replacements (Dec 25 to Summers), planning Davos attendance (Dec 26), distributing Apple Watches to Bannon and others, holding strategy calls with Ruemmler (Dec 3), coordinating Moscow travel, and brokering a Barak-Qatar meeting (Dec 18).
 
 ---
 
-*This investigation was conducted by exhaustive systematic search across 3.5 million+ records in four databases. All EFTA numbers reference specific documents in the Epstein DOJ file corpus.*
+## FULL CORPUS REVISIT INTEGRATION (2026-02-12)
+
+*Classification: Central thesis disproved. The following corrections are based on revisit against full_text_corpus.db (1,380,937 documents, 2,731,796 pages, all 12 datasets).*
+
+### The Blackout Is Disproved
+
+DS9 contains continuous daily jeevacation@gmail.com email activity throughout Nov 14, 2018 - Feb 21, 2019. Over 5,188 distinct documents reference jeevacation with dates during this period. Key documented emails during the alleged blackout:
+
+- **Dec 1-3, 2018:** Bedford trip with George Church, Seth Lloyd, Martin Nowak; conference call with Ruemmler/Wolff/Indyke ([EFTA00486083](https://www.justice.gov/epstein/files/DataSet%209/EFTA00486083.pdf))
+- **Dec 17, 2018:** Barak to Epstein: "i dont work for mossad :)" ([EFTA01013272](https://www.justice.gov/epstein/files/DataSet%209/EFTA01013272.pdf))
+- **Dec 21, 2018:** Summers: "Want to discuss the Donald at some point. Curious re Dersh" ([EFTA01010387](https://www.justice.gov/epstein/files/DataSet%209/EFTA01010387.pdf))
+- **Dec 25, 2018:** Epstein to Summers: "being asked for 3 names to replace mnuchin" ([EFTA01010526](https://www.justice.gov/epstein/files/DataSet%209/EFTA01010526.pdf))
+- **Jan 2, 2019:** Groff sends full January calendar ([EFTA00486718](https://www.justice.gov/epstein/files/DataSet%209/EFTA00486718.pdf))
+- **Jan 4, 2019:** "book ticket on tues from stt to moscow" ([EFTA00486438](https://www.justice.gov/epstein/files/DataSet%209/EFTA00486438.pdf))
+- **Jan 8, 2019:** "woody dinner thurs" ([EFTA00486207](https://www.justice.gov/epstein/files/DataSet%209/EFTA00486207.pdf))
+- **Jan 22, 2019:** "Steve Bannon ssid hd never got his Apple Watch" ([EFTA00489561](https://www.justice.gov/epstein/files/DataSet%209/EFTA00489561.pdf))
+- **Feb 10-14, 2019:** Continuous operational emails about architect visits, David Mitchell meetings, travel
+
+### Barak-Epstein-Qatar Connection (Dec 2018)
+
+[EFTA01013138](https://www.justice.gov/epstein/files/DataSet%209/EFTA01013138.pdf)-42: Epstein brokered a meeting between Ehud Barak and Jabor Al Thani (Qatari official linked to HH HBJ). The chain spans Nov 22 to Dec 18, 2018, with the London meeting on Dec 20. Calendar confirms Barak visited Epstein's island Jan 6-12, 2019.
+
+### Evidence Destruction -- DS9 Additions
+
+- **MCC Post-Death Shredding:** [EFTA00068331](https://www.justice.gov/epstein/files/DataSet%209/EFTA00068331.pdf) (corrections officer reports BOP After-Actions team "shredding huge amounts of paperwork"), corroborated by [EFTA00078396](https://www.justice.gov/epstein/files/DataSet%209/EFTA00078396.pdf) ("they are shredding everything")
+- **Palm Beach Shredded Paper:** [EFTA00082615](https://www.justice.gov/epstein/files/DataSet%209/EFTA00082615.pdf): FBI evidence item literally labeled "SHREDDED PAPER"
+- **Obstruction Research:** [EFTA00089106](https://www.justice.gov/epstein/files/DataSet%209/EFTA00089106.pdf): AUSA researched 18 U.S.C. Section 1519 (obstruction) 2 days after Epstein's death
+
+### Expanded Aviloop / Wire Transfer Documentation
+
+DS9 confirms and expands the post-Herald wire transfers per [EFTA00092643](https://www.justice.gov/epstein/files/DataSet%209/EFTA00092643.pdf): 11/27/2018 Aviloop $45K from JEGE LLC; 11/30/2018 Aviloop $100K from Butterfly Trust; 12/3/2018 $250K from Butterfly Trust; 12/19/2018 Lawrence Visoski $175K from Southern Financial. Government detention memo ([EFTA00039383](https://www.justice.gov/epstein/files/DataSet%209/EFTA00039383.pdf)) explicitly cited these as witness tampering evidence.
+
+### Google Grand Jury Subpoena
+
+[EFTA00170256](https://www.justice.gov/epstein/files/DataSet%209/EFTA00170256.pdf): Government subpoenaed Google for jeevacation@gmail.com records via grand jury subpoena dated December 19, 2018 -- less than 3 weeks after opening the investigation. [EFTA00101112](https://www.justice.gov/epstein/files/DataSet%209/EFTA00101112.pdf): Search terms report showed 750,965 document hits for "jeevacation*" across Epstein's devices.
+
+---
+
+*This investigation was conducted by exhaustive systematic search across 3.5 million+ records in four databases, subsequently revisited against the full text corpus (1,380,937 docs). All EFTA numbers reference specific documents in the Epstein DOJ file corpus.*

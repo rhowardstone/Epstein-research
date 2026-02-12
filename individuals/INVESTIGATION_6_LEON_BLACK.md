@@ -11,15 +11,18 @@
 
 Leon D. Black, co-founder and former chairman of Apollo Global Management, is one of the most extensively documented subjects in the Epstein files outside of Epstein himself. The database reveals:
 
-1. **47 distinct EFTA documents** containing "Leon Black" in hidden text
+1. **47 distinct EFTA documents** containing "Leon Black" in hidden text (DS10/DS12 redaction records); DS9 full-text corpus adds **3,934 documents** mentioning Leon Black
 2. A formal **NTOC (National Threat Operations Center) filing** naming both William Barr and Leon Black as present during abuses
-3. Multiple victim allegations including **rape, sex trafficking, forced oral sex, and threats**
+3. Multiple victim allegations including **rape, sex trafficking, forced oral sex, and threats** -- DS9 full-text expands victim count from approximately two to **at least four** with distinct FBI 302s or ADA notes
 4. Active FBI investigation spanning **August 2021 through at least July 2024** (3+ years)
 5. Coordination between **FBI New York Field Office**, **Wigdor LLP** (victim's attorneys), **USANYS (US Attorney Southern District of New York)**, and **DANY (District Attorney of New York)**
 6. A critical finding that **"DANY do not doubt her allegations against JE and LB"** (Jeffrey Epstein and Leon Black)
-7. **Financial records** showing Black and Epstein shared the same banking officers at a private bank
+7. **Financial records** showing Black and Epstein shared the same banking officers at a private bank; DS9 transaction exhibits document **$118.5M+ in Black-to-Epstein wire transfers** (2013-2017)
 8. A direct victim message to Black stating: **"You sexually harassed me, sex trafficked me, raped me"**
 9. Classified as an **"Additional HT [Human Trafficking] Subject Referral"** -- meaning the FBI treated Black as a human trafficking subject
+10. **[REVISIT]** SDNY de facto declined to investigate Black independently (January 2022), documented in the complete DANY/SDNY/FBI correspondence chain ([EFTA00156644](https://www.justice.gov/epstein/files/DataSet%209/EFTA00156644.pdf))
+11. **[REVISIT]** A third recruiter network identified: "Mary Small/Combs" operating from Vienna Youth Inc. gymnastics/dance studio in Northern Virginia, who recruited a victim at age 17 into the Maxwell/Epstein/Black network
+12. **[REVISIT]** NEXT MODEL MANAGEMENT connection: Epstein placed victims as interns through "FAITH" (owner of NEXT, ex-Wilhelmina Models), introduced at least one to Black in late 2006-2007
 
 ---
 
@@ -217,6 +220,8 @@ A critical bank records document reveals that Leon D. Black and Jeffrey Epstein 
 
 **Analysis:** Black appears **twice** in this banking relationship table alongside multiple Epstein-controlled entities (JEGE Inc, Neptune LLC, Hyperion Air LLC, Southern Trust Company, Plan D LLC). The shared banking officer (Jj Litchford / Paul Morris) serviced both Black and Epstein's personal and corporate accounts, suggesting an intertwined financial relationship managed through the same banking team.
 
+**[REVISIT UPDATE -- $118.5M+ in Documented Transactions]:** DS9 contains complete SDNY Transaction Exhibits ([EFTA00080260](https://www.justice.gov/epstein/files/DataSet%209/EFTA00080260.pdf), 8+ pages) documenting every Leon Black wire to Southern Trust (2013-2017). Selected entries: $8.5M (10/15/2013, Leon and Debra Black), $10M (12/18/2013, Black Family Partners c/o Apollo), $15M (4/29/2014, Leon and Debra Black), $20M (7/15/2014, Narrow Holdings LLC do Elysium), and $22.5M (3/31/2017, BV70 LLC to Plan D). The exhibits also document Edmond de Rothschild (Suisse) SA wires: $10M (12/17/2015) and $14,999,980 (Benjamin Edmond de Rothschild, 12/21/2015) to Southern Trust. Total Black-to-Epstein documented flows exceed $118.5M.
+
 ### 6.2 -- Apollo/Epstein/Kushner Connection ([EFTA00009904](https://www.justice.gov/epstein/files/DataSet%208/EFTA00009904.pdf), [EFTA00010305](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010305.pdf), [EFTA00010710](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010710.pdf), [EFTA00010724](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010724.pdf), [EFTA00010750](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010750.pdf), [EFTA00010767](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010767.pdf), [EFTA00010786](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010786.pdf))
 
 Multiple documents contain email chains with the subject line:
@@ -293,6 +298,14 @@ And:
 
 **Analysis:** "JE" = Jeffrey Epstein. "LB" = Leon Black. "JC" = the victim's initials. The Manhattan DA's office conducted its own interviews and records review and concluded the victim's allegations against both Epstein and Black were **credible**. This is an extraordinary finding -- a prosecutorial office affirming that it does not doubt allegations of sex trafficking and rape against a specific named billionaire.
 
+**[REVISIT UPDATE -- Complete DANY Memo and SDNY Declination]:** The full-text corpus in DS9 contains the complete, unredacted version of this entire correspondence chain ([EFTA00156644](https://www.justice.gov/epstein/files/DataSet%209/EFTA00156644.pdf), 10 pages). Some original reconstructions from the garbled DS12 fragments require correction -- for example, "[At the foo]t of stairs" was actually "Mary dragged her up flight of stairs by her hair" (a different event). The complete document reveals:
+
+- A previously unknown **third recruiter network**: "Mary Small/Combs" (aliases: Mary Petit, Mary Fleming), partner "Eddie Small (Edward Charles Small)," operating from **Vienna Youth Inc.** gymnastics/dance studio in Northern Virginia. Mary recruited the victim at age 17, around 2001-2002, and introduced her to Ghislaine Maxwell. Phone from CLEAR: 703-362-1500; Address: 4386 Catlett Road, Midland VA.
+- Victim described a 2001 assault by Black as distinctly violent: "Black was very violent, tore clothes off," "She needed medical attention, bleeding," "LB left her money on the table before he left the room," "JE took the money because she didn't want anything to do with it."
+- "Mary would treat her badly if JE reported to Mary/Eddie that she wasn't good," "One time Mary dragged her up flight of stairs by her hair," "Mary would receive expensive luxury gifts (Tiffany earrings etc.) after the trips with JE."
+- Pages 4-9 contain the full SDNY-DANY-FBI correspondence chain from October 2021 through July 2023. On January 21, 2022, the SDNY AUSA responded: "If you are still pursuing an investigation encompassing both victims, we are not likely to open another investigation." This constitutes a de facto declination by SDNY.
+- On February 28, 2023: "We have a new CW who has come forward and alleged sexual abuse by Leon Black. This CW was trafficked by Maxwell and Epstein."
+
 ---
 
 ## SECTION 9: THE HT (HUMAN TRAFFICKING) SUBJECT REFERRAL
@@ -354,6 +367,8 @@ The absence of a "(referred)" annotation for Black in the PROMINENT NAMES docume
 
 There is **no document in the database** indicating the Black investigation was closed, declined for prosecution, or otherwise resolved. The most recent activity (July 2024) shows continued engagement.
 
+**[REVISIT UPDATE -- SDNY Declination Documented]:** While no formal closure document exists, [EFTA00156644](https://www.justice.gov/epstein/files/DataSet%209/EFTA00156644.pdf) (page 6, January 21, 2022) contains the SDNY AUSA's response to DANY: "If you are still pursuing an investigation encompassing both victims, we are not likely to open another investigation." This is a de facto declination -- SDNY explicitly informed DANY it would not independently investigate Black. The FBI Case Initiation Summary ([EFTA00154692](https://www.justice.gov/epstein/files/DataSet%209/EFTA00154692.pdf), 6 pages) documents the origin of the DANY investigation, describing Black-Staley-Epstein directed assault patterns in which a victim was sent for a "massage" that escalated to assault.
+
 ---
 
 ## SECTION 11: CROSS-REFERENCE WITH WILLIAM BARR
@@ -412,13 +427,21 @@ The pairing of Barr (a two-time Attorney General) with Black in the same NTOC fi
 ### 13.1 -- The Evidence Is Extensive and Multi-Source
 
 The allegations against Leon Black are not from a single anonymous tip. They derive from:
-- At least **two identified victims** in the PROMINENT NAMES documents
+- At least **four identified victims** with FBI 302s or ADA notes (expanded from two in original analysis; see revisit update below)
 - A **direct victim communication** (the NDA/rape message)
 - An **NTOC filing** naming him alongside William Barr
 - **Photographs** placing him with Epstein, taken by Maxwell
-- **Banking records** showing shared financial infrastructure
-- **Calendar entries** showing regular meetings and visits
+- **Banking records** showing shared financial infrastructure, including **$118.5M+ in documented wire transfers** from Black entities to Southern Trust/Epstein (2013-2017)
+- **25+ calendar entries** showing regular meetings, including breakfast with all three Apollo co-founders (Marc Rowan, Leon Black, Josh Harris) on October 22, 2013
 - **DANY independent assessment** finding the allegations credible
+- **Complete FBI 302 interviews** in DS9 documenting specific acts of violence, immigration coercion, NDAs under duress, and payments
+- **NEXT Model Management** connection: Epstein placed victims through "FAITH" (owner of NEXT, ex-Wilhelmina Models, known since 1985) and introduced them to Black
+
+**[REVISIT UPDATE -- Victim Count Expanded to At Least Four]:** DS9 full-text reveals at least 4 distinct victims:
+- **Victim A** ([EFTA00087968](https://www.justice.gov/epstein/files/DataSet%209/EFTA00087968.pdf), FBI 302, April 2020): Met Black in 2008 while modeling; states "BLACK ran a sex trafficking ring"; $10M transfer to Epstein; immigration coercion; NDA fall 2015; met Maxwell and Prince Andrew.
+- **Victim B** ([EFTA00096366](https://www.justice.gov/epstein/files/DataSet%209/EFTA00096366.pdf), ADA notes, September 2020): Raped in Manhattan, Hamptons, and Westchester 2010-2014; received $1M; retains phone with correspondence.
+- **Victim C** ([EFTA01246236](https://www.justice.gov/epstein/files/DataSet%209/EFTA01246236.pdf), FBI 302, May 2021, 8 pages): Met Black 2008; biting violence; $2.6M transfers; drugged and raped July 2014; "Glen Dubin's brother took [victim] out. Mark Zuckerman took her out"; Weinstein "walks into the shower"; "BLACK said he was paying JEFFREY EPSTEIN and HARVEY WEINSTEIN to take care of [victim]"; introduced to Prince Andrew.
+- **Victim D** (DANY call memo, June 2023): Recruited at 17 via gymnastics coach "Mary Small"; violent 2001 assault requiring medical attention.
 
 ### 13.2 -- The FBI Treated This Seriously
 

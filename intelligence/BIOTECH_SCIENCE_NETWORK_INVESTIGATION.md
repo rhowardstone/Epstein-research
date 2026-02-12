@@ -29,17 +29,18 @@ This investigation systematically searched the complete Epstein DOJ file corpus 
 ## SECTION 1: PREVIOUSLY UNMAPPED INDIVIDUALS
 
 ### 1.1 LEON PESHKIN (Harvard - Anti-Aging/Longevity Research)
-**Status: NEW FINDING - Not Previously Documented**
+**Status: NEW FINDING - 122 documents across full corpus (55 DS9 / 38 DS10 / 29 DS11)**
 - **[EFTA02571042](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02571042.pdf)** (OCR): Email chain between Epstein and Leon Peshkin, June 21, 2018
 - Subject: "your crazy scientist friend in the news" - linking to STAT News anti-aging researcher article
 - Epstein's response: "sorry about dad... great article... not sure why anti age is a good thing... a complex system i believe as part of an ecology. would be dangerous to the system"
 - Peshkin responds: "I also want to understand what is aging... noone knows."
 - Peshkin: "I want to give people more time to play, and to dye healthy, once ready."
 - **Context**: Peshkin is a Harvard systems biology researcher focused on aging, regeneration, and longevity. This email proves direct intellectual engagement on anti-aging research with Epstein, just 13 months before Epstein's arrest.
-- **Significance**: Adds to the network of Harvard scientists with active post-conviction Epstein contact. Peshkin's work on biological aging directly intersects with Epstein's documented transhumanist interests.
+- **UPDATED (DS9/DS11 full corpus):** Relationship began July 2016 via Misha Gromov recommendation ([EFTA00322701](https://www.justice.gov/epstein/files/DataSet%209/EFTA00322701.pdf): Groff to Gromov: "is Leon Peshkin available?"). Gromov described Peshkin as "departed from AI and converged to embryology, proteomic and fast single cell sequencing. Besides he is the man of Genome in a Bottle" ([EFTA00319216](https://www.justice.gov/epstein/files/DataSet%209/EFTA00319216.pdf)). Peshkin attended the September 2016 gathering at Nowak's Institute with Krauss, Barak, Ito, and Bach ([EFTA00318013](https://www.justice.gov/epstein/files/DataSet%209/EFTA00318013.pdf): "a memorable occasion, I got to have an argument about existence of God with Ehud Barak and Lawrence Krauss").
+- **Significance**: Adds to the network of Harvard scientists with active post-conviction Epstein contact. Peshkin's work on biological aging directly intersects with Epstein's documented transhumanist interests. Relationship spans July 2016 through June 2018.
 
 ### 1.2 JOSCHA BACH (AI/Cognitive Architecture Researcher)
-**Status: NEW FINDING - 10+ Documents**
+**Status: NEW FINDING - 3,934 documents across full corpus (1,777 DS9 / 952 DS10 / 1,205 DS11)**
 - **[EFTA02570976](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02570976.pdf)/83** (OCR): Full email chain June 18, 2013
   - Epstein to Joi Ito: "Joi, joscha is developing interesting A.I. Is there someone who could show him around the media lab"
   - Ito arranges meeting: "Ryan, can you try to make this happen?"
@@ -54,9 +55,10 @@ This investigation systematically searched the complete Epstein DOJ file corpus 
 - **[EFTA01956118](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01956118.pdf)**: Bach with Varounny Ch. and Kevin Slavin
 - **[EFTA01954022](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01954022.pdf)**: "Dear Ben and Joscha" email
 - **Significance**: Demonstrates Epstein as active broker of AI researchers into MIT Media Lab. Bach's work on cognitive architectures, artificial general intelligence, and computational consciousness directly connects to Epstein's transhumanist interests. Epstein FUNDED Bach's travel (Berlin to Calgary).
+- **UPDATED (DS9/DS11 full corpus):** Bach stayed in Epstein's apartment 11B ([EFTA00285124](https://www.justice.gov/epstein/files/DataSet%209/EFTA00285124.pdf): "Joscha Bach in NY and to stay in apt 11B"). Participated in regular conference calls with Ito and Slavin ([EFTA00284793](https://www.justice.gov/epstein/files/DataSet%209/EFTA00284793.pdf)). Integrated into the Nowak/Chomsky/Church dinner circuit ([EFTA00285104](https://www.justice.gov/epstein/files/DataSet%209/EFTA00285104.pdf): "Dinner w/Martin Nowak, Noam Chomsky, Joscha Bach, George Church & Jeffrey").
 
 ### 1.3 BARNABY MARSH (John Templeton Foundation)
-**Status: NEW FINDING - 7+ Documents, Critical Financial Connection**
+**Status: NEW FINDING - 2,795 documents across full corpus (833 DS9 / 900 DS10 / 1,062 DS11)**
 - **[EFTA02099965](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02099965.pdf)**: Email from bmarsh@templeton.org - Barnaby Marsh's Templeton Foundation email
 - **[EFTA02099965](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02099965.pdf)**: Subject: "Meeting Monday 4/21 9AM"
 - **[EFTA02108058](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02108058.pdf)**: Marsh CC'd with Martin Nowak, Kevin Slavin, Danielle Nadeau on email "To: Epstein Jeffrey"
@@ -73,6 +75,7 @@ This investigation systematically searched the complete Epstein DOJ file corpus 
   3. Epstein used Marsh to try to arrange a meeting with **James Simons** (Renaissance Technologies, $28B net worth), one of the most important mathematicians/hedge fund managers in the world.
   4. The Templeton Foundation connection is particularly significant because Templeton funds research into "big questions" including consciousness, free will, and human flourishing -- directly overlapping with Epstein's stated transhumanist interests.
   5. Epstein was in Paris communicating with Marsh in May 2016 and planning NYC meetings in January 2017 -- all post-conviction.
+  6. **UPDATED (DS9/DS11 full corpus):** Marsh appears in "7:00am SKYPE w/Barnaby Marsh" entries across dozens of Epstein calendar entries (2014-2016+). Marsh compiled a 60+-name "92nd St Y potential list" for Epstein ([EFTA02343458](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02343458.pdf), December 2014) including Musk, Thiel, Brin, Kurzweil, Dalai Lama, Church, Venter, Diamandis, and multiple Nobel laureates. Epstein responded: "we will have to go through each one of these names and people videos etc." Marsh was actively working as Epstein's science talent scout. He also flew with Epstein to Bedford for Harvard trips.
 
 ### 1.4 LISA RANDALL (Harvard Theoretical Physicist)
 **Status: PARTIALLY KNOWN - Now 8+ Documents with New Detail**
@@ -216,8 +219,32 @@ This confirms Epstein used these science events as networking vehicles and place
 - **[EFTA01660679](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660679.pdf)** p.5: NTOC tip (unverified): "[He] measured the children's vulva and vaginas by entering a finger and rated the children on tightness. The guests were elder men and included Elon Musk. Don jr. Trump, Ivanka Trump, and Eric Trump were there."
 - **NOTE**: NTOC tips are unvetted public complaints. The FBI documents categorize this particular tip alongside other tips deemed not credible. This should be evaluated as an unverified allegation.
 
-### 3.3 Assessment
-The VERIFIED evidence shows: (1) Musk's email in Epstein's contact records; (2) SpaceX hosting an Epstein-organized event; (3) Deutsche Bank offering Epstein SpaceX stock access. The verified evidence establishes a connection but does not document the nature or depth of any personal relationship.
+### 3.3 DS9/DS11 Full-Text Corpus: Complete Musk-Epstein Email Archive (15+ Direct Exchanges)
+
+**UPDATED (full-text corpus revisit, 2026-02-12):** DS9/DS11 contain 688+ documents mentioning Musk across 1,038 total corpus hits (415 DS9 / 348 DS10 / 273 DS11). The full corpus reveals a **multi-year personal relationship** documented in 15+ direct email exchanges spanning September 2012 through September 2014, with third-party references through August 2015.
+
+**Chronological Email Timeline:**
+
+| Date | EFTA | Content |
+|------|------|---------|
+| Sep 25, 2012 | [EFTA02364818](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02364818.pdf) | Epstein: "IF you find some time, come vist me on my island" -- Musk: "Sounds good, will try to make it" |
+| Oct 11, 2012 | [EFTA02341154](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02341154.pdf) | Musk on plans; Epstein: "come to island in nov? you won't suffer"; Musk: "Late Nov is a possibility. Between now and then, I have to complete the Dragon mission, get Tesla to cash flow positive and help execute the SolarCity IPO" |
+| Oct 19, 2012 | [EFTA02353595](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02353595.pdf) | Musk: "The world needs more romance. I will be in NY around mid Nov..." -- Epstein: "will see your brother and his new romance" |
+| Nov 25, 2012 | [EFTA02364941](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02364941.pdf) | Epstein: "how many people will you be for the heli to island" -- Musk: "Probably just Talulah and me. What day/night will be the wildest party on your island?" |
+| Dec 28, 2012 | [EFTA02350267](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02350267.pdf) | Musk: "Do you want to join us (and some others) for drinks on the 30th around 10 or 11?" -- Epstein: "I will be in st barth tomorrow, how do I find you?" |
+| Jan 4, 2013 | [EFTA02362483](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02362483.pdf) | Musk: "Anyplace here that you like to have lunch?" -- Epstein: "I will land at 12, anytime after great, look forward" |
+| Feb 21, 2013 | [EFTA02357372](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02357372.pdf) | Epstein: "I can either come with assistants (four) or alone. They might enjoy the facility" -- Musk: "Up to you" |
+| Mar 21, 2013 | [EFTA02350529](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02350529.pdf) | Epstein: "things getting better?" -- Musk: "Better, yes. Workload, no." |
+| Dec 14, 2013 | [EFTA02343149](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02343149.pdf) | Musk: "Will be in the BVI/St Bart's area over the holidays. Is there a good time to visit?" |
+| Dec 14, 2013 | [EFTA02343260](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02343260.pdf) | Epstein: "I will send heli for you" |
+| Jan 6, 2014 | [EFTA02356830](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02356830.pdf) | Epstein: "sorry it didn't work out... how was your trip?" -- Musk: "Great" |
+| Sep 2, 2014 | [EFTA02356756](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02356756.pdf) | Epstein: "spoke to reid hoffman yesterday, are you planning to do st barth again for xmas?" -- Musk: "Don't know" |
+| Aug 8, 2015 | [EFTA02361722](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02361722.pdf) | Sultan bin Sulayem to Epstein, subject "Elon Musk": "Did you have your dinner with Elon Musk? and did you explain to him my proposal? what was his reactions?" |
+
+This documented relationship includes: repeated vacation socializing in BVI/St. Barths (Christmas 2012 and 2013); Epstein offering helicopter transport to his island; Musk asking about "the wildest party on your island"; Epstein offering to bring "assistants (four)" who "might enjoy the facility"; Epstein serving as intermediary between Musk and Sultan bin Sulayem (DP World chairman); and the relationship spanning at least September 2012 through August 2015, all post-conviction.
+
+### 3.4 Assessment
+The VERIFIED evidence now includes: (1) Musk's email in Epstein's contact records; (2) SpaceX hosting an Epstein-organized event; (3) Deutsche Bank offering Epstein SpaceX stock access; and (4) **15+ direct email exchanges (2012-2015) revealing an extensive personal relationship involving holiday socializing, helicopter transport offers, and Epstein as business intermediary.** The original assessment that "the verified evidence establishes a connection but does not document the nature or depth of any personal relationship" is superseded by this corpus evidence.
 
 ---
 
@@ -227,6 +254,7 @@ The VERIFIED evidence shows: (1) Musk's email in Epstein's contact records; (2) 
 - **[EFTA02139717](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02139717.pdf)** (redactions): Peter Diamandis and Connie Fox in Epstein document, dated Wednesday, May 01, 2013 12:55 PM. Context: NYTimes Bestseller "Abundance - the Future..."
 - **[EFTA02435081](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02435081.pdf)** (OCR): Epstein to Lisa Randall (Nov 30, 2009): "who is organizing.. is it diamandis?" -- regarding what appears to be a science/tech event
 - **Significance**: Diamandis founded the XPRIZE, Singularity University, and Human Longevity Inc. (with Craig Venter). His documented connection to Epstein intersects transhumanism, longevity research, and tech entrepreneurship. The May 2013 date is post-conviction.
+- **UPDATED (DS9/DS11 full corpus, 271 total documents):** Complete June 2014 scheduling chain ([EFTA00368190](https://www.justice.gov/epstein/files/DataSet%209/EFTA00368190.pdf)-[EFTA00368287](https://www.justice.gov/epstein/files/DataSet%209/EFTA00368287.pdf)) shows Diamandis emailing directly: "my only option would be to see Jeffrey between 1:30-2:30pm; or 2-3pm. How far is his home from the Empire Hotel where I'm staying?" Groff confirmed: "Peter Diamandis will come see you on Monday June 9th from 2-3pm." Same day: "7:30pm DINNER w/Peter Thiel and Ehud Barak." This transforms Diamandis from a name in 1 document to a fully documented in-person meeting at Epstein's 71st Street townhouse.
 
 ---
 
@@ -487,9 +515,9 @@ The following search terms returned **ZERO relevant results** across all documen
 | Search Term | Significance |
 |------------|-------------|
 | Bryan Johnson | Kernel founder, longevity |
-| Ray Kurzweil | Google AI, Singularity |
+| Ray Kurzweil | Google AI, Singularity [**PARTIAL UPDATE:** appears on Barnaby Marsh's 92nd St Y talent list ([EFTA02343458](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02343458.pdf)) as "FUTURIST" -- was a target of Epstein's network even if no direct communication was captured] |
 | Aubrey de Grey | SENS Foundation, anti-aging |
-| Craig Venter | Human Genome Project |
+| Craig Venter | Human Genome Project [**PARTIAL UPDATE:** appears on Marsh's 92nd St Y list as "GENETICS PIONEER" -- was a target of the network] |
 | David Sabatini | MIT Biology (later fired for misconduct) |
 | Charles Lieber | Harvard Chemistry (arrested for China ties) |
 | Esther Dyson | Tech investor, futurist |
@@ -566,7 +594,7 @@ Leon Peshkin -> Boston (email exchange) -> Jun 2018
 | Danny Hillis | Ongoing | Multiple documents |
 | Lawrence Krauss | Feb 2018 | Damage control coaching |
 | Kevin Slavin | 2013+ | MIT cluster |
-| Elon Musk | Contact record | Email in database |
+| Elon Musk | Sep 2012-Aug 2015 | 15+ direct emails; holiday socializing BVI/St. Barths; helicopter/island offers; Epstein as Sultan bin Sulayem intermediary |
 | Poul Garrett | Oct 2017 | SpaceX stock offering |
 
 ---
@@ -611,10 +639,16 @@ The documents show Epstein was not merely a donor or dinner host. He was:
 ### 15.3 The Templeton Foundation Connection Is Potentially the Most Significant New Finding
 Barnaby Marsh's role as a Templeton Foundation officer who was simultaneously a regular in Epstein's science circle represents a potential funding pipeline that has not been investigated. The Templeton Foundation awards over $200M annually in science grants. Whether any Templeton funding decisions were influenced by the Marsh-Epstein relationship requires further investigation.
 
-### 15.4 The SpaceX/Musk Connection Requires Further Investigation
-The confirmed evidence (email contact, SpaceX hosting, DB stock offering) establishes a connection, but the nature and extent remain partially documented. The NTOC tip mentioning Musk is unverified.
+### 15.4 The Musk-Epstein Relationship Is Now Extensively Documented
+**UPDATED (full-text corpus revisit):** The original assessment that "the nature and extent remain partially documented" is superseded. DS11 contains 15+ direct email exchanges (2012-2015) revealing an extensive personal relationship including holiday socializing in BVI/St. Barths, helicopter transport offers to Epstein's island, Musk asking about "the wildest party on your island," and Epstein serving as business intermediary between Musk and Sultan bin Sulayem. See Section 3.3 above for the complete email timeline. The NTOC tip mentioning Musk remains unverified and is separate from this documented correspondence.
 
-### 15.5 The AI/Cognitive Science Pipeline Was Real But Academic
+### 15.5 Previously Undocumented Figure: Misha Gromov (Abel Prize Mathematician)
+**NEW (full-text corpus revisit):** Misha Gromov (Mikhail Gromov, Abel Prize 2009) appears in 1,627 documents (920 DS9 + 707 DS11) but was not mentioned in the original report. He flew on Epstein's aircraft ([EFTA00285128](https://www.justice.gov/epstein/files/DataSet%209/EFTA00285128.pdf): "JE to fly Misha Gromov with him"), was picked up from his apartment for trips to Harvard ([EFTA00293613](https://www.justice.gov/epstein/files/DataSet%209/EFTA00293613.pdf): "8:45am Jojo to pick up Misha Gromov from his apartment... Misha Gromov to fly with Jeffrey"), and recruited Leon Peshkin into the network. A December 5, 2015 gathering at Nowak's Institute included Chomsky, Gromov, Hillis, Nowak, and Church simultaneously.
+
+### 15.6 DS9 Calendar Documents Reveal Full Operational Cadence
+**NEW (full-text corpus revisit):** DS9 daily calendars reveal the precise operational patterns of the science network. A typical Harvard trip: fly Boston morning, meet Nowak at 1 Brattle Square, lunch with Church, dinner with Chomsky/Bach cluster, return same day. Science meetings were interleaved with Leon Black, Jes Staley, Brad Wechsler, and other financial/legal contacts in the same day/week. Calendar entries show: Barnaby Marsh at 7am SKYPE calls, Joscha Bach in apartment 11B, George Church lunches at Harvard Medical School, Chomsky dinners, Hillis visits, and Diamandis at Epstein's home.
+
+### 15.7 The AI/Cognitive Science Pipeline Was Real But Academic
 Epstein's AI interests manifested through academic researchers (Bach's cognitive architectures, Slavin's algorithms, Liebermann's MIT group) rather than commercial AI companies. No evidence of OpenAI, DeepMind, or commercial AI investment was found.
 
 ---
@@ -705,8 +739,9 @@ Total records searched: ~297,647 (147,451 + 116,434 + 33,762)
 | 72 | biotech | 6+ | 6+ | 10+ | 3 relevant |
 | 73 | vaccine | 1 | 1 | 5+ | Mostly news/COVID |
 | 74 | genetic | 3 | 3 | 8+ | 4 relevant |
-| 75 | Elon Musk | 3+ | - | 2 | 1 direct + tips |
+| 75 | Elon Musk | 3+ (orig); 1,038 (full corpus) | - | 2 | 15+ direct emails + contact + tips |
 
 ---
 
-*Investigation conducted using systematic database forensics across 218GB DOJ release. All EFTA numbers reference specific documents in the release. This report documents findings from database searches only and does not include analysis of original PDF documents.*
+*Investigation conducted using systematic database forensics across 218GB DOJ release. All EFTA numbers reference specific documents in the release.*
+*Revised 2026-02-12 with full-text corpus revisit (1.38M documents, DS9/DS11). Every individual shows expansion factors of 30x-720x. Key new additions: Musk 15+ email archive, Gromov (1,627 docs), Marsh 92nd St Y targeting list, Bach apartment stays, Diamandis full scheduling chain, Peshkin recruitment via Gromov.*

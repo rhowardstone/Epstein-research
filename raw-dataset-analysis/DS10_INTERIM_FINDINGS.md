@@ -1,5 +1,7 @@
 # Dataset 10 - Interim Redaction Analysis Findings
 
+> **Note:** This is a historical interim snapshot generated at ~15% scan completion. It has been fully superseded by DS10_COMPLETE_FINDINGS.md, which documents the complete scan results. All findings below (trust beneficiary names, victim interview transcripts, plea deal negotiations, financial records) are documented more completely in the final report. Additionally, per REDACTION_TEXT_LAYER_ANALYSIS (Report #93), the "hidden text" referenced throughout this report is predominantly garbled OCR from an invisible Tr=3 text rendering layer placed over scanned images — not content deliberately concealed beneath PDF redaction annotations. While the identified content is real and has been verified, the data provenance is OCR extraction, not redaction-defeat.
+
 **Generated:** 2026-02-05 (scan in progress)
 **Status:** ~15% scanned (77K of 503,154 PDFs), scan ETA ~1 hour
 **Database:** Dataset 10 document text database

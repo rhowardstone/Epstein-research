@@ -14,11 +14,11 @@ The DOJ Epstein files reveal a deep, multi-year, multi-dimensional relationship 
 
 Key findings from the databases:
 
-1. **Ariane de Rothschild deliberately created an untraceable email channel** to communicate with Epstein (April 2015, [EFTA02502971](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02502971.pdf)).
+1. **Ariane de Rothschild used a personal email channel** (aderfam.ch domain) to communicate with Epstein from at least **June 2013** through December 2018 -- with three distinct prefixes (`ader@`, `perso@`, and `adr@`). The April 2015 email ([EFTA02502971](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02502971.pdf)) announced a new address within the domain, not the creation of the channel itself. The earliest known aderfam.ch email is [EFTA00657588](https://www.justice.gov/epstein/files/DataSet%209/EFTA00657588.pdf) (DS9, June 19, 2013).
 2. **$24,999,980 flowed from Rothschild entities to Epstein's Southern Trust Company** in December 2015 -- split across two wires ($10M from Edmond de Rothschild (Suisse) SA Geneva on 12/17/2015, and $14,999,980 from Benjamin Edmond de Rothschild personally on 12/21/2015).
 3. **The wire coincided exactly** with the DOJ Swiss Bank Program settlement on December 18, 2015, where Edmond de Rothschild (Suisse) paid $45M in penalties for helping US clients hide undeclared assets.
 4. **Epstein introduced Kathy Ruemmler** (former Obama White House Counsel) to the Rothschilds, and she helped negotiate the DOJ non-prosecution agreement while simultaneously maintaining close personal ties to Epstein.
-5. **Epstein served as intermediary** between Ariane de Rothschild and Ehud Barak (former Israeli PM), channeling investments into Israeli cyberweapons/surveillance startups (Carbyne/Reporty).
+5. **Epstein served as intermediary** between Ariane de Rothschild and Ehud Barak (former Israeli PM), channeling investments into Israeli cyberweapons/surveillance startups (Carbyne/Reporty). DS9 now contains the complete Reporty Homeland Security corporate articles ([EFTA00583654](https://www.justice.gov/epstein/files/DataSet%209/EFTA00583654.pdf)), Series A term sheets ([EFTA00585234](https://www.justice.gov/epstein/files/DataSet%209/EFTA00585234.pdf)), and bridge financing agreements ([EFTA00583689](https://www.justice.gov/epstein/files/DataSet%209/EFTA00583689.pdf)), confirming Barak's entity invested $1.5M for 25%+ ownership.
 6. **Deutsche Bank processed all wire transfers** and maintained an extensive internal email thread titled "Rothschild [C]" and "Rothschild - Being shown an offer!" tracking the account activity.
 7. **Olivier Colom**, an Edmond de Rothschild executive, was in close personal contact with Epstein and served as a network conduit to European political figures including Bruno Le Maire and Nicolas Sarkozy.
 
@@ -82,11 +82,11 @@ Key findings from the databases:
 
 ### Significance Analysis
 
-1. **Deliberate OPSEC:** The CEO of a major Swiss bank explicitly told a convicted sex offender that she had created an email address "that nobody can access." The domain confirmed elsewhere is **aderfam.ch** -- a personal/family domain, not an Edmond de Rothschild corporate address.
+1. **Deliberate OPSEC:** The CEO of a major Swiss bank explicitly told a convicted sex offender that she had created an email address "that nobody can access." The domain confirmed elsewhere is **aderfam.ch** -- a personal/family domain, not an Edmond de Rothschild corporate address. DS9 reveals the aderfam.ch channel was operational from **at least June 2013** ([EFTA00657588](https://www.justice.gov/epstein/files/DataSet%209/EFTA00657588.pdf), a bounce-back email containing Epstein's letter: "shared with me 30 years ago has acted as a compass for my business life") -- nearly two years earlier than the April 2015 email that announced a new address within the domain. Three distinct prefixes were used: `ader@aderfam.ch`, `perso@aderfam.ch` (from at least January 2018), and `adr@aderfam.ch`. The full corpus contains **176+ aderfam.ch emails** spanning June 2013 through December 2018 ([EFTA02311949](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02311949.pdf)).
 
 2. **Timing:** April 2015 -- exactly 5 months before the October 5, 2015 signing of the $25M consulting agreement, and 8 months before the December 2015 wire transfers of $25M from Rothschild entities to Epstein's Southern Trust.
 
-3. **"Ade Rothschild-2":** The sender name indicates this was her SECOND email account set up specifically for Epstein correspondence -- further confirming compartmentalization of the communication channel.
+3. **"Ade Rothschild-2":** The sender name indicates this was her SECOND email account set up specifically for Epstein correspondence -- further confirming compartmentalization of the communication channel. The earlier `ader@aderfam.ch` account was the primary address used from 2013 onward.
 
 4. **Content Reveals Intimate Relationship:** Ariane discusses:
    - Her husband Benjamin's erratic behavior ("keep his attitude. Unsustainable")
@@ -125,13 +125,16 @@ This DOJ prosecution exhibit documents all wire transfers through Epstein's Deut
 
 ### The Consulting Agreement (October 5, 2015)
 
-Per publicly reported documents and web sources:
+The complete 6-page "Letter of Agreement" is now available at [EFTA00310331](https://www.justice.gov/epstein/files/DataSet%209/EFTA00310331.pdf) (DS9):
 
-- **Parties:** Southern Trust Company, Inc. (Epstein, President) and Edmond de Rothschild Holding S.A. (Ariane de Rothschild, representative)
-- **Scope:** "Risk analysis" and "the application and use of certain algorithms" -- collectively "Specified Matters"
-- **Fee:** $25,000,000
-- **Payment trigger:** Within three days after the Rothschild Group completed its payment to US authorities
-- **Additional terms:** Reimbursement of all travel and out-of-pocket expenses
+- **Parties:** Southern Trust Company, Inc. (Epstein, President) and Edmond de Rothschild Holding S.A. (Ariane de Rothschild, representative). Ariane signed both personally AND as representative of EdR Holding SA.
+- **Scope:** "Risk analysis and estate planning matters" plus "algorithms" -- collectively "Specified Matters"
+- **Tiered Fee Structure (Section 2(b)):**
+  - **$10,000,000** if DOJ penalty was between $75M and $150M
+  - **$25,000,000** if DOJ penalty was $75M or less
+- **Payment trigger:** Within 30 days of final DOJ settlement
+- **Additional terms:** Reimbursement of all travel and out-of-pocket expenses; full indemnification of Epstein/STC; explicit disclaimer that the agreement did NOT constitute investment advice; USVI governing law, USVI courts
+- **Outcome:** The actual DOJ penalty was $45M -- well under the $75M threshold -- triggering the maximum $25M fee. This tiered structure directly incentivized Epstein to minimize the DOJ penalty, aligning his interests with the Rothschild bank's and creating a conflict with Ruemmler's role as the DOJ-facing negotiator.
 
 ### The DOJ Settlement Connection (December 18, 2015)
 
@@ -412,6 +415,7 @@ Southern Trust Company ($25M, Dec 2015)
 - Former French diplomat, part of Nicolas Sarkozy's circle
 - Moved to Edmond de Rothschild private bank
 - In close personal contact with Epstein from at least 2013
+- DS9/DS11 expanded the Colom documentation from 3 documents to **329 unique documents** (173 in DS9, 156 in DS11), revealing Colom as a deeply embedded member of Epstein's network
 
 ### Key Communications
 
@@ -498,7 +502,40 @@ Some funds flow to Israeli cyberweapons ventures (Carbyne/Reporty via Barak)
 
 ---
 
-## 11. DATABASE SOURCE INDEX
+## 11. DS9/DS11 EXPANDED FINDINGS (Full-Text Corpus Revisit)
+
+### 11.1 Epstein as De Facto Chief Strategist
+
+DS9 and DS11 reveal Epstein functioning as de facto chief strategist for the Edmond de Rothschild Group, far beyond the "risk analysis and algorithms" framing of the consulting agreement:
+
+- **CEO Hiring** ([EFTA02341138](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02341138.pdf), April 2017): Epstein emailed Ariane a detailed corporate strategy memo advising on bringing in "boris plus 2 or 3" and targeting "jan 1" as a start date. "Boris" = Boris Collardi, former CEO of Julius Baer, who joined EdR in late 2017. DS9 confirms extensive direct Epstein-Collardi communication ([EFTA00450404](https://www.justice.gov/epstein/files/DataSet%209/EFTA00450404.pdf), [EFTA00636001](https://www.justice.gov/epstein/files/DataSet%209/EFTA00636001.pdf)). Collardi became CEO of EdR Group in 2019.
+- **Compliance Restructuring** ([EFTA02337209](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02337209.pdf), April 2016): Ariane described a compliance crisis at EdR Luxembourg. Epstein advised: "the structure having compliance report to the ceo is one of the major issues. since he was dirty, core problem." He instructed Ariane that "SLOW, all decisions should be run by kathy" -- confirming Ruemmler's role extended into ongoing bank governance.
+- **Merger Strategy**: Epstein advised against a near-term merger ("I cant get a current merger to work") and instead proposed a "2020 transaction" timeline.
+- **Family Estate Planning**: Epstein instructed: "re-do family documents... wills, trusts."
+- **Internal Politics**: Epstein advised Ariane to "castrate nadine" -- referring to Nadine de Rothschild (Benjamin's mother, Baroness), meaning to marginalize her influence.
+
+### 11.2 Rothschild Family Financial Records in Epstein's Possession
+
+- **[EFTA00593274](https://www.justice.gov/epstein/files/DataSet%209/EFTA00593274.pdf) (DS9):** Edmond de Rothschild (Suisse) SA Consolidated Cash Flow Statement at June 30, 2014 -- the bank's actual consolidated financial statements were in Epstein's files, indicating access far beyond a consulting relationship.
+- **[EFTA00611779](https://www.justice.gov/epstein/files/DataSet%209/EFTA00611779.pdf) (DS9):** A detailed Rothschild family personal cash flow spreadsheet covering 2015, with columns for homes (Pregny, Bretagne, Paris, Mozambique, Cameroon), foundations (agriculture, wine, vineyards, Lafite), investments, and an aviation budget totaling $4M (Gulfstream, Airbus, BBJ, helicopter). This document could only be in Epstein's possession if he was actively managing the family's personal finances.
+- **[EFTA00310337](https://www.justice.gov/epstein/files/DataSet%209/EFTA00310337.pdf) (DS9):** Furniture invoice billed to "Baronne Benjamin de Rothschild c/o Marie Therese de Brignac, Chateau de Pregny" -- EUR 155,332.80 for Paola Lenti furniture, referencing "Mr. Epstein Jeff," confirming Epstein procured furnishings on the Rothschilds' behalf.
+- **[EFTA00595998](https://www.justice.gov/epstein/files/DataSet%209/EFTA00595998.pdf) (DS9):** 40+ pages of auction invoices to "Baron/Baronne Benjamin de Rothschild" from Sotheby's, Christie's, Phillips, Piasa, Artcurial, Pierre Berge, and Tajan for Nov-Dec 2014 Paris auctions.
+
+### 11.3 DNA Kits to Chateau de Pregny
+
+**[EFTA00447582](https://www.justice.gov/epstein/files/DataSet%209/EFTA00447582.pdf) (DS9, March 17, 2017):** Epstein staff email: "we should have received 4 DNA Kits yesterday from Amazon (23 and Me kits) Jeffrey wants them Fed Ex'd to [Ariane] in Geneva... Chateau de Pregny: is the home address." In the context of Epstein's documented eugenics interests, this is notable.
+
+### 11.4 Noemie de Rothschild Direct Contact
+
+**[EFTA00707542](https://www.justice.gov/epstein/files/DataSet%209/EFTA00707542.pdf) (DS9, May 5, 2015):** Noemie de Rothschild emailed Epstein directly: "Thought you would like it :) Noemie" -- the first document showing a Rothschild daughter communicating directly with Epstein. The original report mentioned Noemie only as discussed by Ariane.
+
+### 11.5 July 2015 DOJ Strategy Team
+
+Calendar entries [EFTA00304497](https://www.justice.gov/epstein/files/DataSet%209/EFTA00304497.pdf) / [EFTA00345338](https://www.justice.gov/epstein/files/DataSet%209/EFTA00345338.pdf) (DS9) reveal the team assembled for the DOJ settlement (July 19-21, 2015): "Kathy Ruemmler & Ariane de Rothschild along w/Setvine? Hamad? Cynthia? Henri? Summers? Shabaz?" Identified participants include Ruemmler, Ariane, Cynthia Tobiano (EdR executive), Henri Ader (Ariane's lawyer), and Larry Summers. This meeting occurred 2.5 months before the consulting agreement was signed and 5 months before the DOJ settlement and $25M wire.
+
+---
+
+## 12. DATABASE SOURCE INDEX
 
 ### Documents by Database
 
@@ -533,7 +570,7 @@ Some funds flow to Israeli cyberweapons ventures (Carbyne/Reporty via Barak)
 
 ---
 
-## 12. WEB RESEARCH SOURCES
+## 13. WEB RESEARCH SOURCES
 
 ### Benjamin de Rothschild Death
 - [Wikipedia: Benjamin de Rothschild](https://en.wikipedia.org/wiki/Benjamin_de_Rothschild)

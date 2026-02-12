@@ -285,6 +285,11 @@ These individuals worked directly for Jeffrey Epstein in his residences, on his 
 
 **FLAG: Court documents explicitly state the Fontanillas had knowledge of inappropriate conduct with underage girls. Their 826 appearances make them among the most frequently mentioned individuals in the files.**
 
+**[REVISIT UPDATE -- 9,893 Documents, FBI Documentation, Dedicated LLC]:** DS9/DS11 full-text reveals **9,893 distinct EFTA documents** (vs. 826 redaction hits). Key new findings:
+- **FBI CID Intelligence Report** ([EFTA00129048](https://www.justice.gov/epstein/files/DataSet%209/EFTA00129048.pdf), page 3): "A photo, provided by Jun-Lyn Fontanilla in 2010, shows her and her husband Jojo standing with Jeffrey Epstein. Fontanilla indicated she and Jojo worked as Epstein's housekeepers." Contractors on the property were "sworn to secrecy about property details."
+- **"Lyn & Jojo, LLC"** ([EFTA00082267](https://www.justice.gov/epstein/files/DataSet%209/EFTA00082267.pdf)): Epstein created a dedicated corporate entity named after them, held through Darren Indyke as nominee. Trust amendment directs transfer of entire membership interest to Luciano A. Fontanilla Jr. and Rosalyn Fontanilla.
+- **Escalating trust bequests:** Early trust: $1M; 2014 amendment: $2M plus Lyn & Jojo LLC membership; Final trust: **$3M** to Luciano A. Fontanilla Jr. ([EFTA00099303](https://www.justice.gov/epstein/files/DataSet%209/EFTA00099303.pdf)). Loans to both Luciano and Rosalyn explicitly forgiven across all trust versions.
+
 ---
 
 ### 12. Brice Gordon (and Karen Gordon)
@@ -319,6 +324,35 @@ These individuals worked directly for Jeffrey Epstein in his residences, on his 
 **Assessment:** HIGH PRIORITY. Brice and Karen Gordon managed Epstein's most sensitive properties -- the New Mexico ranch and Little Saint James island. Their disappearance after Epstein's death is deeply concerning. As island managers, they would have been eyewitnesses to virtually everything that occurred on the island. Their grant of power of attorney from Epstein in 2011 indicates a high level of trust. The "(S)" notation next to Gordon's name in one document may indicate a legal status or designation that warrants further investigation.
 
 **FLAG: Brice and Karen Gordon have disappeared. As island managers with power of attorney, they are potentially the most important missing witnesses in the entire Epstein case. Their New Zealand Defence Force background adds another layer of complexity.**
+
+**[REVISIT UPDATE -- 7,428 Documents, FBI Interview, Employment Details]:** DS9/DS11 full-text corpus reveals **7,428 distinct EFTA documents** mentioning Brice Gordon (vs. 60 redaction hits in original). Key new findings:
+- **FBI FD-302 Interview** ([EFTA00269597](https://www.justice.gov/epstein/files/DataSet%209/EFTA00269597.pdf), DS9): Transmission memo dated 02/15/2007 confirms Gordon was formally interviewed by the FBI at 49 Zorro Ranch Road, Stanley, NM on 02/08/2007 in case 31E-MM-108062 (JEFFREY EPSTEIN; GHISLAINE N. MAXWELL -- WSTA-CHILD PROSTITUTION). After the interview, "Santa Fe RA considers this lead covered."
+- **Employment start date:** April 15, 2003, confirmed by Lee McKenzie Consulting vacation records ([EFTA00305481](https://www.justice.gov/epstein/files/DataSet%209/EFTA00305481.pdf)). Vacation: 6 weeks/year plus 12 statutory holidays.
+- **Trust bequest:** $200,000 conditional on 2 years of post-death service ([EFTA00082267](https://www.justice.gov/epstein/files/DataSet%209/EFTA00082267.pdf)). His disappearance likely forfeited this bequest.
+- **Active through July 2018:** DS11 emails show Gordon managing Great St. James island development with architects John Heah (Thames Wharf) and French firm 3BIS as late as May-July 2018 -- one year before Epstein's arrest, not merely post-death.
+- Email signatures: "Brice Gordon / The Saint James Group / USVI," personal email: bgordon@nysgmail.com, also bgordon.lsj@gmail.com; Zorro Ranch email: zdc.rt41@gmail.com (Zorro Development Corp).
+
+---
+
+### [REVISIT] Bella Klein -- Reclassified from Household Staff to Senior Financial Operative
+
+**[REVISIT UPDATE]:** Bella Klein was mentioned in the original report only in passing (subpoena lists, contact lists). DS9/DS11 full-text reveals **11,810 distinct EFTA documents** -- establishing her as one of the most documented individuals in the corpus.
+- **FBI SAR Investigation Subject** ([EFTA00128664](https://www.justice.gov/epstein/files/DataSet%209/EFTA00128664.pdf), July 2021): Klein flagged alongside Erika Kellerhals and IGO Company by the SAR Review Team (USAO USVI, IRS, DEA, DHS OIG).
+- **Russia wire transfer contact** ([EFTA00128809](https://www.justice.gov/epstein/files/DataSet%209/EFTA00128809.pdf)): Designated contact for a **13.7 million Russian ruble wire** to AO Raiffeisenbank, Moscow (March 27, 2015).
+- **FBI Maxwell associate identification** ([EFTA00150926](https://www.justice.gov/epstein/files/DataSet%209/EFTA00150926.pdf), December 2019): Identified as "Bella Kline" in list of individuals associated with Maxwell.
+- **Trust bequests:** $500K (2014 trust) escalating to **$3M** (final trust).
+- **Political donor:** $2,600 to USVI Congresswoman Stacey Plaskett in 2014.
+- **Credit limit authority:** Signed Colonial Bank letters adjusting credit limits for other staff ([EFTA00186431](https://www.justice.gov/epstein/files/DataSet%209/EFTA00186431.pdf)).
+- Klein was not "household staff" but a senior financial operative: signatory on 10+ entity bank accounts, wire authorization contact, and subject of post-mortem financial investigation.
+
+### [REVISIT] Valdson Contrin -- Victim Transport Evidence
+
+**[REVISIT UPDATE]:** Valdson Contrin (also "Cotrin," "Collin") was briefly mentioned in the original report's staff distribution lists. DS9/DS11 full-text reveals **4,347 distinct EFTA documents** and critical new evidence:
+- **Direct victim transport** ([EFTA00145606](https://www.justice.gov/epstein/files/DataSet%209/EFTA00145606.pdf), page 3): A victim statement places Valdson on a Continental Airlines flight 1884, **December 30, 2006**, Newark to St. Thomas, traveling alongside the victim to 301 E. 66th Street and then to Little Saint James. The victim states: "This confirms that I was housed in one of Epstein's residences, where most rape survivors were housed."
+- **Credit card with 100% cash advance access** ([EFTA00186431](https://www.justice.gov/epstein/files/DataSet%209/EFTA00186431.pdf)): Multiple Colonial Bank/NES LLC faxes show Epstein set up Valdson with corporate cards from December 2001, with cash advance access at 100% of card limit -- highly unusual for household staff.
+- **Trust bequest:** **$5M** ([EFTA00099303](https://www.justice.gov/epstein/files/DataSet%209/EFTA00099303.pdf)) -- the highest bequest to any non-Visoski staff member, exceeding the $3M given to Klein, Fontanilla, and Dela Cruz.
+- Contact records confirm his base in Paris/France.
+- His categorization requires reassessment from "household staff" to potential co-conspirator given the victim transport evidence.
 
 ---
 
@@ -428,6 +462,13 @@ These individuals worked directly for Jeffrey Epstein in his residences, on his 
 **Assessment:** HIGH PRIORITY. Barry Josephson's relationship with Epstein goes far beyond casual acquaintance. The financial dependency ($120K loan + $215K tax assistance), the exchanges about young women and "casting girls," and the sustained correspondence through 2018 paint a picture of a close associate who actively participated in Epstein's recruitment patterns. The real estate escrow reference in the files may indicate additional financial entanglement. His relatively low appearance count (10) belies the significance of the content.
 
 **FLAG: Josephson's emails about "casting girls" and finding "actresses" for Epstein's jet are among the most explicit evidence of recruitment facilitation by a Hollywood figure in the files.**
+
+**[REVISIT UPDATE -- 1,013 Documents, 100x Expansion]:** DS9/DS11 full-text reveals **1,013 distinct EFTA documents** (vs. 10 redaction hits). Key new findings:
+- **Katherine Langford Google search** ([EFTA02643545](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02643545.pdf), July 8, 2017): Josephson emailed Epstein a Google search link for Katherine Langford, then a 20-year-old Australian actress newly famous for Netflix's "13 Reasons Why." Sending a convicted sex offender a link to look at a young actress is consistent with the previously documented "casting girls" pattern.
+- **"Katherine Khaut" assistant candidate** ([EFTA02537492](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02537492.pdf) / [EFTA00436660](https://www.justice.gov/epstein/files/DataSet%209/EFTA00436660.pdf), March 2011): Josephson sent a young woman named Katherine Khaut as an "Assistant Candidate" to Epstein. Staff email: "Barry Josephson's girl" -- Epstein's immediate response: "ask her to come today."
+- **Woody Allen/Soon-Yi dinner circle:** Repeated dinners at 9 East 71st Street with Woody Allen and Soon-Yi (October 2016, March 2017). Epstein said "no" when asked if Soon-Yi could have Josephson's contact info ([EFTA00317504](https://www.justice.gov/epstein/files/DataSet%209/EFTA00317504.pdf)).
+- **Calendar appointments:** 7+ years of systematic scheduling (2011-2018), including same-day appointments with Leon Black, Thorbjorn Jagland (Nobel Committee chair), and John Brockman.
+- The relationship was far more deeply embedded than the original 10-hit count suggested.
 
 ---
 
@@ -559,7 +600,13 @@ The Tonks documents are NOT typical Epstein file records. They are **screenshots
 
 **Assessment:** JABWCPA@GMAIL.COM is almost certainly the personal email of Epstein's CPA -- the individual referred to as "ACCOUNTANT-1" in regulatory documents. This person received every financial report Deutsche Bank generated for Epstein's accounts, including FX rates, valuations, and transaction summaries. The "JAB" initials could help identify this individual. Given the DFS enforcement action noted that ACCOUNTANT-1 played a role in the account opening process and communications with the bank, identifying this individual by name would be significant.
 
-**FLAG: Identifying the person behind JABWCPA@GMAIL.COM should be a priority. This individual received all financial reporting for Epstein's Deutsche Bank accounts and is likely the "ACCOUNTANT-1" referenced in regulatory proceedings. The initials "JAB" combined with CPA licensing records could enable identification.**
+**[REVISIT UPDATE -- IDENTITY FULLY CONFIRMED]:** DS11 emails definitively resolve this identity. JABWCPA@GMAIL.COM is **Jeanne Anne Brennan Wiebracht** (maiden/hyphenated: Brennan-Wiebracht). The initials "JAB" = **J**eanne **A**nne **B**rennan. Confirmation sources:
+- [EFTA02349173](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02349173.pdf) (DS11): Email from "Jeanne" using jabwcpa@gmail.com
+- [EFTA02353230](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02353230.pdf) (DS11): Full name "Jeanne Brennan Wiebracht" using jabwcpa@gmail.com
+- [EFTA00165940](https://www.justice.gov/epstein/files/DataSet%209/EFTA00165940.pdf) (DS9): Driver's license: "BRENNAN-WIEBRACHT, JEAN ANNE"
+- [EFTA00168946](https://www.justice.gov/epstein/files/DataSet%209/EFTA00168946.pdf) (DS9): DB KYC record listing occupation as "Novice," USVI resident
+
+Her role was far more extensive than "CPA receiving reports." She was a **signatory on 10+ Epstein entity bank accounts** at Colonial Bank/JPMorgan ([EFTA00065864](https://www.justice.gov/epstein/files/DataSet%209/EFTA00065864.pdf)), including IGO Company LLC, Lafayette Contractors LLC, Southern Trust Company Inc, Freedom Air Petroleum LLC, and Thomas World Air LLC (this account was frozen). She held **full Power of Attorney over Deutsche Bank accounts** ([EFTA00169398](https://www.justice.gov/epstein/files/DataSet%209/EFTA00169398.pdf)), and processed monthly staff salary authorizations directly with Epstein. She was a central financial gatekeeper in the Epstein organization.
 
 ---
 

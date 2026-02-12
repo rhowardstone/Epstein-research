@@ -2,11 +2,17 @@
 
 ## Comprehensive Document-by-Document Analysis of Recovered Hidden Text
 
-This report extracts and organizes all recoverable hidden text from redacted
-portions of key documents in the DS10 (Docket Sheet 10) collection from the
-Epstein/Maxwell case files. Text was recovered by examining content beneath
-redaction rectangles in the original PDFs. Entries with less than 30% alphabetic
-characters have been filtered out as likely OCR/rendering artifacts.
+This report extracts and organizes all recoverable text from key documents in
+the DS10 (Docket Sheet 10) collection from the Epstein/Maxwell case files.
+
+**Data Source Note:** Per REDACTION_TEXT_LAYER_ANALYSIS (Report #93), the text
+recovered here comes from an invisible OCR rendering layer (Tr=3) placed over
+scanned document images, not from content deliberately concealed beneath PDF
+redaction annotations. The black boxes visible in these PDFs are baked JPEG
+pixels in the scanned images, not PDF overlay objects. The recovered text content
+is real and has been verified against independent sources, but the extraction
+mechanism is OCR-based. Entries with less than 30% alphabetic characters have
+been filtered out as likely OCR/rendering artifacts.
 
 ---
 
@@ -348,14 +354,21 @@ allegations against prominent individuals.
 ED 
 [EFTA01660639](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660639.pdf)`
 
+**Clarifications on Prominent Names (Page 17):**
+
+- The "Cuomo" reference in the Leon Black section ("Cuomo stated [gave] massage") refers to a victim surnamed Cuomo providing testimony, not to Andrew Cuomo as a subject. This was confirmed by [EFTA02696360](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02696360.pdf), which identifies "Tony Cuomo" as the relevant individual.
+- The Prominent Names entries are drawn primarily from NTOC tip submissions. Inclusion in this FBI compilation does not constitute an FBI investigative finding of wrongdoing.
+- The Barr/Black entry is an unverified NTOC caller report. Subsequent investigation (WILLIAM_BARR_INVESTIGATION.md) found no corroborating evidence beyond the tip itself for the allegation of Barr's physical presence during abuses.
+- The Lutnick entry is sourced from a single NTOC tip filed by Simon Andriesz (identified as a disgruntled former employee). No sexual allegations were made; only financial claims. Subsequent investigation (LUTNICK_DUBIN_INVESTIGATION.md) found the claims unverified.
+
 **Page 20:**
 
 - `U
 QUE
 U`
-- `ED 
-ONS? 
-ED 
+- `ED
+ONS?
+ED
 [EFTA01660642](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660642.pdf)`
 
 ---
@@ -365,6 +378,8 @@ ED
 **Document Type:** FBI National Threat Operations Center (NTOC) tip compilation.
 Contains tips and leads received by the FBI related to the Epstein case,
 including informant reports and referrals from other agencies.
+
+**Important caveat:** All NTOC tips are unverified caller reports submitted to the FBI hotline (tips.fbi.gov). They are not FBI investigative findings or conclusions. Individual tips range in credibility from corroborated allegations (e.g., the Alexander brothers tip, confirmed by their subsequent SDNY prosecution) to reports deemed not credible after investigation. Inclusion here reflects what the FBI compiled, not what the FBI verified.
 
 **Pages with redactions containing hidden text:** 5 (pages 0 through 4)
 
@@ -742,6 +757,8 @@ g
 
 **Document Type:** Second FBI/NTOC tip compilation document. Additional tips,
 leads, and informant information gathered during the investigation.
+
+**Important caveat:** Same as Section 2 — all NTOC tips are unverified caller reports, not FBI investigative findings.
 
 **Pages with redactions containing hidden text:** 6 (pages 0 through 5)
 

@@ -65,6 +65,7 @@ All findings derive from text extracted from document text layers in DOJ-produce
   - **Maturity date:** 20-Mar-2020
   - **Deal rate:** 100, Spread: 205 bps
   - **Market Value:** $491,941
+- DS9 provides the complete email record for this trade: **[EFTA00654057](https://www.justice.gov/epstein/files/DataSet%209/EFTA00654057.pdf)** contains the full email header confirming **Daniel Sabba** as the sender, with subject line "Trade Recap - 01/13/2014 - DB Sells $10mm FEDERATIVE REPUBLIC OF BRAZIL 20-Mar-2020 CDS @ 205 with SOUTHERN FINANCIAL LLC (live)" -- executed through DB London Branch. Follow-up at **[EFTA00699505](https://www.justice.gov/epstein/files/DataSet%209/EFTA00699505.pdf)** shows active position management: "With Petrobras downgrade, this closed at 228 / 232 on Friday. When you entered, it was 201 / 205. This is a pnl of approximately $120k."
 - This document reveals that DB was actively executing **complex credit derivatives** through an Epstein-controlled entity, with maturities extending to 2020, well beyond any reasonable compliance horizon.
 
 #### January 20, 2015 -- Valuation Statement
@@ -485,6 +486,46 @@ From [EFTA01381246](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01381
 | [EFTA01454985](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01454985.pdf)-01477330 | Valuation statements, relationship records | ~50 |
 
 **Total KYC breach-related documents identified: ~375+ unique EFTA numbers**
+
+---
+
+## APPENDIX D: DS9/DS11 REVISIT FINDINGS (2026-02-12)
+
+DS9 full-text search reveals substantial new evidence supplementing the DS10-based analysis above. The following corrections and additions apply:
+
+### Correction 1: Derivatives Termination Timeline
+DS9 reveals ([EFTA00169436](https://www.justice.gov/epstein/files/DataSet%209/EFTA00169436.pdf)) that the ISDA Master Agreement and GMRA contracts for Southern Financial LLC (PLM 640310/739190) and Southern Trust Company Inc (PLM 640330/752070) were being **terminated in November 2016** -- approximately 17 months before the April 2018 KYC breach. The derivatives book was wound down before the KYC breach, while deposit accounts and other activity continued.
+
+### Correction 2: Revenue Estimate
+The civil complaint against Deutsche Bank ([EFTA00161958](https://www.justice.gov/epstein/files/DataSet%209/EFTA00161958.pdf), 163 pages) states that "Deutsche Bank estimated that it would earn between $2,000,000 to $4,000,000 annually" from the Epstein relationship.
+
+### Correction 3: Total Assets Under Management
+The original report estimated ~$53M based on single-date balance snapshots. DS9 provides ([EFTA00165748](https://www.justice.gov/epstein/files/DataSet%209/EFTA00165748.pdf)) the total figure: **$220,000,000** in "Total Assets within Bank" for the "Southern Financial Relationship" as of April 8, 2014. An internal email ([EFTA00128826](https://www.justice.gov/epstein/files/DataSet%209/EFTA00128826.pdf)) states: "Jeffrey Epstein is worth roughly $[1]B and currently has about $230MM here at the bank and we are expecting at least another $100MM from him within the next few months... he is a very important client."
+
+### Addition 1: FBI Witness Interviews
+- **[EFTA00128765](https://www.justice.gov/epstein/files/DataSet%209/EFTA00128765.pdf)** (15 pages): FBI FD-302 interview of **Amanda Kirby** (8/10/2021), Paul Morris's relationship coordinator. Kirby "felt uncomfortable from day one of EPSTEIN being onboarded as a client," described Morris as "insecure and a back-handed manipulator," confirmed KYC for Epstein was "high risk" and that she identified a trust beneficiary as a co-conspirator but the account was opened anyway.
+- **[EFTA00128968](https://www.justice.gov/epstein/files/DataSet%209/EFTA00128968.pdf)** (5 pages): FBI FD-302 interview of **Cherie Quigley** (10/10/2019), AML monitoring officer using the PRIME system. Quigley admitted: "Looking back, maybe a SAR should have been filed on EPSTEIN."
+
+### Addition 2: Paul Morris -- Prince Andrew Dismissal
+**[EFTA00128837](https://www.justice.gov/epstein/files/DataSet%209/EFTA00128837.pdf)**: Morris email to Troy Williams (Jan 5, 2015): "Troy the stories about Prince Andrew have been popping up in the press for years. I will post the team if there is anything that has changed." Morris was actively dismissing reputational risk concerns.
+
+### Addition 3: 13.7 Million Ruble Wire to Moscow
+**[EFTA00128809](https://www.justice.gov/epstein/files/DataSet%209/EFTA00128809.pdf)**: Wire memo from Darren Indyke to Amanda Kirby instructing a wire of 13,700,000 rubles to AO Raiffeisenbank, Moscow, Russia from an Epstein account. "Please call Bella Klein if you have any questions."
+
+### Addition 4: Key New Personnel
+| Person | EFTA | Role |
+|--------|------|------|
+| Armen Brash | [EFTA00128804](https://www.justice.gov/epstein/files/DataSet%209/EFTA00128804.pdf) | KYC compliance -- discussed escalation with Patrick Harris |
+| Monifa Crawford, JD | [EFTA00128810](https://www.justice.gov/epstein/files/DataSet%209/EFTA00128810.pdf) | AML Compliance Officer, DB Securities Inc., Jacksonville FL |
+| Cherie Quigley | [EFTA00128968](https://www.justice.gov/epstein/files/DataSet%209/EFTA00128968.pdf) | AML monitoring, PRIME system operator |
+| Troy-D Williams | [EFTA00128837](https://www.justice.gov/epstein/files/DataSet%209/EFTA00128837.pdf) | DB compliance, flagged Prince Andrew press to Morris |
+| Roddy Moore | [EFTA00169436](https://www.justice.gov/epstein/files/DataSet%209/EFTA00169436.pdf) | Business Risk Management, derivatives termination |
+
+### Addition 5: NYDFS Consent Order
+**[EFTA00151495](https://www.justice.gov/epstein/files/DataSet%209/EFTA00151495.pdf)** (37 pages): The complete $150M NYDFS Consent Order, signed by Linda A. Lacewell (Superintendent) and DB Global Head of Litigation Joe Salama. DB agreed not to claim a tax deduction on the penalty and to provide "Full and Complete Cooperation."
+
+### Addition 6: Civil RICO Allegations
+**[EFTA00161958](https://www.justice.gov/epstein/files/DataSet%209/EFTA00161958.pdf)** (163 pages): Civil complaint names Charles Packard, Patrick Harris, Paul Morris, and Jan Ford as participants in an "association-in-fact" enterprise that facilitated Epstein's sex trafficking. "Packard and Morris did not make any contemporaneous record of their meeting with Epstein. The reason they did not make a record of Epstein's denials was that any such record would have been utterly implausible."
 
 ---
 

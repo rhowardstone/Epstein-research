@@ -64,6 +64,16 @@
 | **Jane Doe** | S.D. Fla., Case No. 9:XX-CV-XXXXX | [EFTA00023624](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023624.pdf) (p.6) |
 | **Jane Doe** (SDNY civil complaint) | v. Indyke/Kahn (Estate executors) + Maxwell | [EFTA00019101](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019101.pdf) |
 
+**DS9 Additions:**
+| Designation | Case Context | Document Reference |
+|---|---|---|
+| **Jane Doe #3** | Doe No. 3 v. Epstein, 9:08cv80232 | [EFTA00067542](https://www.justice.gov/epstein/files/DataSet%209/EFTA00067542.pdf) |
+| **Jane Doe #4** | File folder with "meta-analysis of all phone, travel, and grand jury data"; amended complaint filed 9/22/2008 | [EFTA00065065](https://www.justice.gov/epstein/files/DataSet%209/EFTA00065065.pdf), [EFTA00067542](https://www.justice.gov/epstein/files/DataSet%209/EFTA00067542.pdf) |
+| **Jane Doe #5** | Affidavit of service filed 7/21/2008 | [EFTA00067542](https://www.justice.gov/epstein/files/DataSet%209/EFTA00067542.pdf) |
+| **Jane Doe #6** | File folder with "meta-analysis of all phone, travel, and grand jury data" | [EFTA00065065](https://www.justice.gov/epstein/files/DataSet%209/EFTA00065065.pdf) |
+
+This brings the total confirmed Jane Doe designations to at least **10** (#1, #2, #3, #4, #5, #6, #7, #12, #13, #43).
+
 ### 2B. Minor Victim Designations in Criminal Proceedings
 | Designation | Key Facts | Document Reference |
 |---|---|---|
@@ -128,11 +138,72 @@ This is a handwritten journal/scrapbook by a victim that contains fragmented ent
 - Referenced in victim requests: prosecutors had list of names ([EFTA00021007](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021007.pdf), [EFTA00024796](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024796.pdf))
 - Computers and paper directories with names/phone numbers of "masseuses" were collected around time of Florida investigation ([EFTA02731200](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731200.pdf) p.10)
 
+> **[UPDATE — 2026-02-12]** DS9 contains emails with the actual document file **"USGME01088970_(masseuse_list).doc"** as an attachment ([EFTA00089863](https://www.justice.gov/epstein/files/DataSet%209/EFTA00089863.pdf), [EFTA00098034](https://www.justice.gov/epstein/files/DataSet%209/EFTA00098034.pdf)). The FBI Transparency Project timeline confirms "Black book, flight logs, masseuse list" were delivered to DOJ on 2/18/2025 ([EFTA00172473](https://www.justice.gov/epstein/files/DataSet%209/EFTA00172473.pdf)).
+
 ### 4B. Abuse Description (Standard Prosecution Language)
 From multiple Maxwell indictment documents and prosecution memos:
 > "Minor victims were subjected to sexual abuse that included, among other things, the touching of victims' breasts or genitals, placing a sex toy such as a vibrator on a victim's genitals, directing a victim to touch herself while he masturbated, and directing a victim to touch Epstein's genitals. MAXWELL... [victims] were groomed or abused at Epstein's residences in New York, Florida, and New Mexico, [and] MAXWELL's residence in London, England."
 
 This language appears in: [EFTA00017726](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017726.pdf), [EFTA00019314](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019314.pdf), [EFTA00019537](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019537.pdf), [EFTA00019543](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019543.pdf), [EFTA00019546](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019546.pdf), [EFTA00021826](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021826.pdf), [EFTA00021829](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021829.pdf), [EFTA00024516](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024516.pdf), [EFTA00024523](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024523.pdf), [EFTA00024539](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024539.pdf), [EFTA00024553](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024553.pdf)
+
+### 4B-1. Scheduling Quantification (DS9)
+
+Sarah Kellen Vickers plea drafts ([EFTA00089268](https://www.justice.gov/epstein/files/DataSet%209/EFTA00089268.pdf), [EFTA00079591](https://www.justice.gov/epstein/files/DataSet%209/EFTA00079591.pdf)) provide the first quantification of the scheduling operation:
+
+| Metric | Value | Source |
+|---|---|---|
+| Total massage appointments | **Hundreds** | EFTA00089268/00079591 |
+| Frequency | **2-3 per day** | EFTA00089268/00079591 |
+| Duration of scheduling operation | **~3 years** (2002-2005) | EFTA00089268/00079591 |
+| Minors scheduled | **Dozens** | EFTA00089268/00079591 |
+| Age range of minor victims | **14-17 years old** | EFTA00089268/00079591 |
+
+At 2-3 massages per day over approximately 3 years (~1,095 days), this yields an estimated 2,190-3,285 total massage appointments. Lesley Groff's calendars independently corroborate "hundreds of appointments and flights with women in their teens or 20s" extending to the 2010-2018 period ([EFTA00144273](https://www.justice.gov/epstein/files/DataSet%209/EFTA00144273.pdf)).
+
+The Kellen plea documents also reveal the prosecution treated Kellen as both victim and perpetrator. SDNY drafted two plea options: one neutral ("personal assistant") and one characterizing Kellen as a trafficking victim ("Epstein began sexually abusing her... included at least one instance in which Epstein forcibly raped [her]... controlled various aspects of [her] life, including her diet, her clothing, her hair, and her sleep").
+
+### 4B-2. EVCP Detailed Claim (DS9)
+
+[EFTA00068552](https://www.justice.gov/epstein/files/DataSet%209/EFTA00068552.pdf) contains a 6-page Epstein Victims' Compensation Program claim submission (Panish Shea & Boyle LLP, August 28, 2020):
+- Victim was **13 years old** when she first met Epstein and Maxwell at a summer camp in 1994
+- **Sexually abused more than 200 times** between ages 14 and 18 across Palm Beach, New York, New Mexico, and Los Angeles
+- Maxwell "also personally abused [victim] on numerous occasions"
+- Claim demanded $50 million against the Estate and $25 million against Maxwell
+- Employee declarations corroborate: Alessi testified picking victim up from school, remembers her at Epstein's house from mid-to-late 1990s
+- Flight logs from 1996-1997 contain victim's name as passenger
+- The 1994 start date pushes the documented victimization timeline back earlier than most identified victims
+
+### 4B-3. FBI Evidence Box Inventory (DS9)
+
+[EFTA00066350](https://www.justice.gov/epstein/files/DataSet%209/EFTA00066350.pdf)-66359 documents a **19+ box physical evidence inventory** containing:
+
+| Box | Key Contents |
+|---|---|
+| 1 | "Redwell with different files for each Jane Doe v. Epstein case" |
+| 7 | 10+ individual testimony folders (2/6/07-5/22/07 Grand Jury testimony) |
+| 9 | "White binder with Victim information," "Witness/Victim Names Contact List," "Flight Manifests," "Summary of Sexual Activity" |
+| 10 | "Handwritten list of victims," Privilege Logs |
+| 15 | Interview recordings (CDs, cassette tapes, VHS): multiple victim/witness interviews |
+| 16 | "Victim List (file folder) -- includes 7/10/2008 Final Notification of Identified Victims" |
+
+Box 9's "Summary of Sexual Activity" and Box 16's "7/10/2008 Final Notification of Identified Victims" have not been disclosed in the digital corpus.
+
+### 4B-4. FBI Epstein Transparency Project (DS9)
+
+[EFTA00172473](https://www.justice.gov/epstein/files/DataSet%209/EFTA00172473.pdf)-00172480 is the internal FBI operational summary of the Epstein file release:
+- **116,792 total pages** processed across 6 case files
+- **"Victims lists (multiple)"** delivered to DOJ on 3/18/2025
+- "Black book, flight logs, masseuse list" delivered 2/18/2025
+- Active investigation into "unauthorized destruction" of evidence
+- 84 digital items, 70 general items delivered to DOJ on 2/28/2025
+
+### 4B-5. SDNY Victim List Management (DS9)
+
+SDNY maintained formal victim notification lists as Excel files:
+- [EFTA00068047](https://www.justice.gov/epstein/files/DataSet%209/EFTA00068047.pdf): "US_v._Epstein_Victim_List.xlsx" created July 11, 2019
+- [EFTA00084946](https://www.justice.gov/epstein/files/DataSet%209/EFTA00084946.pdf): Updated version noting 2 victims without contact info and 1 who opted out of notifications
+- [EFTA00085273](https://www.justice.gov/epstein/files/DataSet%209/EFTA00085273.pdf): SDNY cross-referencing its list against the South Florida victim list
+- [EFTA00071704](https://www.justice.gov/epstein/files/DataSet%209/EFTA00071704.pdf): Post-arrest additions: "None of these women are on the list of victims. Can I add them all?" / "Yes"
 
 ### 4C. Geographic Scope of Victimization
 | Location | Evidence | References |
@@ -187,10 +258,15 @@ This language appears in: [EFTA00017726](https://www.justice.gov/epstein/files/D
 | **SDNY "dozens of victims"** | 24+ | Unknown | [EFTA00029813](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029813.pdf) press release |
 | **USVI "hundreds" trafficked** | 100+ | Hundreds | [EFTA00016836](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016836.pdf) AG lawsuit |
 | **Named Minor Victims (Maxwell trial)** | 5 | 5 | Minor Victim-1 through 5 |
-| **Jane Doe civil designations** | 7+ | 43+ | Jane Doe 1 through Jane Doe 43 |
+| **Jane Doe civil designations** | 10+ | 43+ | Jane Doe 1-7, 12, 13, 43 confirmed; DS9 adds #3-#6 |
 | **"Many dozens" interviewed by SDNY** | 24+ | 50-100+ | [EFTA02731200](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731200.pdf) p.8: "none of the many dozens of victims we have interviewed" |
 | **Masseuse list names** | Unknown | Dozens to hundreds | [EFTA00038620](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038620.pdf) (list from seized device) |
 | **Victim journal named abusers** | 1 victim (journal author) | Multiple victims implied ("the other girls") | [EFTA02731420](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731420.pdf) |
+| **Scheduling operation (DS9)** | Hundreds of appointments, dozens of minors | 2,190-3,285 estimated total (2-3/day over ~3 years) | [EFTA00089268](https://www.justice.gov/epstein/files/DataSet%209/EFTA00089268.pdf) (Kellen plea) |
+| **Calendar appointments 2010-2018 (DS9)** | Hundreds | Hundreds of appointments with women in teens/20s | [EFTA00144273](https://www.justice.gov/epstein/files/DataSet%209/EFTA00144273.pdf) (Groff calendars) |
+| **EVCP individual claim (DS9)** | 200+ assaults, 1 victim | Ages 14-18, 4 locations, 1994-2002 | [EFTA00068552](https://www.justice.gov/epstein/files/DataSet%209/EFTA00068552.pdf) |
+| **Co-conspirators who were also victims (DS9)** | At least 1 (Kellen) | "Forcibly raped," controlled diet/clothing/hair/sleep | [EFTA00089268](https://www.justice.gov/epstein/files/DataSet%209/EFTA00089268.pdf) |
+| **Physical evidence boxes (DS9)** | 19+ boxes | Victim lists, interview recordings, "Summary of Sexual Activity" | [EFTA00066350](https://www.justice.gov/epstein/files/DataSet%209/EFTA00066350.pdf)-66359 |
 
 ### Aggregate Assessment
 The documentary record supports the following victim count ranges:
@@ -208,12 +284,14 @@ The documentary record supports the following victim count ranges:
 
 - **Realistic total estimate**: Given the 20+ year duration, multiple locations, recruitment pyramid, and the USVI's "hundreds" characterization, the actual number of victims likely exceeds **100** and may approach or exceed **200**.
 
+> **[UPDATE — 2026-02-12]** DS9 evidence strengthens the upper range of these estimates. The "hundreds of appointments" documented across two distinct periods (2002-2005 via Kellen plea drafts, 2010-2018 via Groff calendars) indicates the abuse was more extensive than the original "60-80" minimum suggested. SDNY victim notification lists were actively expanded post-arrest ([EFTA00071704](https://www.justice.gov/epstein/files/DataSet%209/EFTA00071704.pdf): "Can I add them all?"). The existence of multiple victim lists delivered to DOJ on 3/18/2025, 19+ boxes of physical evidence containing undisclosed victim files, and the Kellen plea quantification ("dozens of minors" scheduled for "hundreds of appointments" at a rate of "2-3 per day") support a realistic total that likely exceeds 200.
+
 ---
 
 ## KEY EVIDENTIARY GAPS
 
-1. **Masseuse list contents**: The actual names on the list recovered from Epstein's devices have not been fully disclosed in the available documents.
-2. **EVCP claim count**: The total number of claims filed with the Epstein Victims' Compensation Program is not stated in the available record.
+1. **Masseuse list contents**: The actual document file ("USGME01088970_(masseuse_list).doc") has been located as an email attachment in DS9 ([EFTA00089863](https://www.justice.gov/epstein/files/DataSet%209/EFTA00089863.pdf)), and the FBI Transparency Project delivered it to DOJ on 2/18/2025. However, the names on the list remain redacted in the publicly available documents.
+2. **EVCP claim count**: The total number of claims filed with the Epstein Victims' Compensation Program is not stated in the available record. DS9 contains one detailed individual claim ([EFTA00068552](https://www.justice.gov/epstein/files/DataSet%209/EFTA00068552.pdf), 200+ assaults, $75M combined demand), and multiple court filings show Maxwell's defense attempted to subpoena all EVCP claims (quashed by Judge Nathan).
 3. **USVI database**: The "computerized list of underage girls" referenced in the GVI complaint has not been detailed in the available documents.
 4. **International victims**: The UK-based victim reference ([EFTA00095305](https://www.justice.gov/epstein/files/DataSet%209/EFTA00095305.pdf)) and Paris flight records suggest victims outside the US who may not appear in domestic counts.
 5. **Post-NPA victims (2008-2019)**: The USVI allegation of abuse "as recently as 2018" implies victims from the decade after the Florida NPA who were never part of the original investigation.

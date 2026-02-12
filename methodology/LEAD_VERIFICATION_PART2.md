@@ -86,6 +86,8 @@ And a notable detail:
 ## WHAT WAS PREVIOUSLY CLAIMED
 [EFTA02731168](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731168.pdf) p.7: Rodgers confirmed going "back to add in that passenger's name on prior flight logs."
 
+**[CORRECTION STATUS -- Feb 12, 2026]: This lead contains a correction that has been propagated through all subsequent reports. The flight log modification claim was INVERTED in earlier analysis -- the actual document states that Rodgers would NOT go back to add names, explaining incomplete records rather than alleging tampering. This correction is one of the most significant in the investigation.**
+
 ## WHAT THE ACTUAL DOCUMENTS SAY
 
 ### Source Document: [EFTA02731168](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731168.pdf) -- Maxwell Prosecution Memorandum (April 10, 2020)
@@ -141,6 +143,8 @@ Searching across all document collections for "flight log" + "altered/changed/mo
 
 ## WHAT WAS PREVIOUSLY CLAIMED
 [EFTA00032104](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032104.pdf) says "terabytes worth of data... gotten past encryption on multiple devices." [EFTA00037551](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037551.pdf) describes 60+ devices.
+
+**[Updated Feb 12, 2026]:** Device forensics revisit (#50) confirmed 60+ seized devices, encryption broken, terabytes of data, CART processing dysfunction. FBI CID summary ([EFTA00038617](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038617.pdf)) confirms CSAM found. "Highly confidential responsive material" (nude/semi-nude images/videos) identified from 14 devices ([EFTA00020974](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020974.pdf)). 6 machines were still unexported as of October 2020.
 
 ## WHAT THE ACTUAL DOCUMENTS SAY
 
@@ -322,18 +326,20 @@ The journal reference to "Ms. Vicki" suggests:
 
 **Vicki Beltz** ([EFTA02135013](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02135013.pdf)) is the only "Vicki" appearing anywhere in Epstein's recovered communications, but there is insufficient context to determine if she is the same person.
 
+**[Updated Feb 12, 2026]:** Subsequent investigation (CBP_RUEMMLER_REMAINING_LEADS, revisit #58) identified Vicki Beltz as a **stone contractor** for Epstein's properties, not a facilitator. The Beltz match is now classified as a false lead. "Ms. Vicki" the female facilitator described in victim journals remains unidentified -- ZERO hits across all databases for the facilitator described in FL and CA.
+
 ## WHAT REMAINS UNRESOLVED
 1. The identity of "Ms. Vicki" remains **completely unknown** from available database records
 2. Her specific role (recruitment, scheduling, transport, or other facilitation) in FL and CA is not described
 3. Whether she was investigated or interviewed by law enforcement is unknown
-4. The "Vicki Beltz" in the contact list cannot be confirmed or excluded as the same person
+4. The "Vicki Beltz" in the contact list has been **identified as a stone contractor** for Epstein's properties (Feb 12, 2026 update) -- this is a false lead, not the same person
 5. The journal entries were marked "CONFIDENTIAL FOR ATTORNEY'S EYES ONLY" -- they appear to have been produced in litigation, not entered as trial exhibits
 
 ## CONFIDENCE LEVEL: UNVERIFIED
 - Ms. Vicki exists as a named individual in the victim journal -- VERIFIED (as a journal claim)
 - She operated as a facilitator in FL and CA -- VERIFIED (as a journal claim only)
 - Her identity in the broader evidentiary record -- UNVERIFIED (effectively zero corroboration across 3.4M+ records)
-- The single "Vicki Beltz" hit is the only possible lead but is entirely unconfirmed
+- The "Vicki Beltz" hit has been identified as a stone contractor (false lead per Feb 12, 2026 update)
 
 ---
 
@@ -518,12 +524,12 @@ This means the Maxwell prosecution (indictment June 2020, trial November 2021) w
 | Lead | Claim | Status | Confidence |
 |------|-------|--------|------------|
 | 7 | Computerized victim tracking database | Source is USVI civil lawsuit allegation, not FBI forensic finding; masseuse list confirmed as real artifact from seized device but entirely redacted | PARTIALLY VERIFIED |
-| 8 | Flight logs retroactively modified | CONTRADICTED -- the actual document says Rodgers did NOT go back to add names; prosecutors cited this as a limitation, not tampering | CONTRADICTED |
-| 9 | 12 TB of raw device data with broken encryption | VERIFIED with extensive detail -- 65+ devices, terabytes of data, encryption broken, massive processing failures documented | VERIFIED |
-| 10 | Ms. Vicki as unidentified facilitator | Named in journal; zero corroboration in 3.4M+ records; one "Vicki Beltz" in contact list is sole possible lead | UNVERIFIED |
+| 8 | Flight logs retroactively modified | **CONTRADICTED** -- the actual document says Rodgers did NOT go back to add names; prosecutors cited this as a limitation, not tampering. **This correction has been propagated through all subsequent reports.** | CONTRADICTED |
+| 9 | 12 TB of raw device data with broken encryption | VERIFIED with extensive detail -- 60+ devices, terabytes of data, encryption broken, massive processing failures documented. **Feb 12, 2026 update:** CSAM confirmed, "highly confidential responsive material" from 14 devices, 6 machines unexported as of Oct 2020. | VERIFIED (expanded) |
+| 10 | Ms. Vicki as unidentified facilitator | Named in journal; zero corroboration in 3.4M+ records; "Vicki Beltz" identified as stone contractor (**false lead** per Feb 12, 2026 update). Ms. Vicki remains unidentified. | UNVERIFIED |
 | 11 | Mr. Robert and Jill as entry point to Maxwell | Named in journal as hosts of party where Maxwell recruited victim; zero corroboration elsewhere | UNVERIFIED |
 | 12 | The Gregorys as unnamed couple | Named in journal alongside DC power figures in context of flights; zero identification possible from available records | UNVERIFIED |
 
 ---
 
-*Report generated from analysis of: primary document text database (1.8M records), Dataset 10 document text database (1.6M records), OCR text extraction database (38,955 records), image catalog database (30,762 images). All EFTA document numbers cited are from original DOJ production files.*
+*Report generated from analysis of: primary document text database (1.8M records), Dataset 10 document text database (1.6M records), OCR text extraction database (38,955 records), image catalog database (30,762 images). Updated February 12, 2026 with corrections from revisit #98: flight log inversion confirmed as propagated, Ms. Vicki Beltz identified as false lead, device data scope expanded, victim database distinction confirmed. All EFTA document numbers cited are from original DOJ production files.*

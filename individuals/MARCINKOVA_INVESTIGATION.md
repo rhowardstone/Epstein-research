@@ -9,7 +9,9 @@
 
 ## EXECUTIVE SUMMARY
 
-Nadia Marcinkova (now Nadia Marcinko) is one of the most significant and anomalous figures in the Epstein FBI files. Despite being identified as both a victim and a co-conspirator who "scheduled hundreds of sexual massages with minors for Epstein," her full name ("Marcinkova" or "Marcinko") returns **ZERO results** across 1.8 million redaction records and 38,955 OCR records. She appears only by first name ("Nadia") in a handful of redacted documents, through her company name "Aviloop LLC" in financial records, and extensively in flight logs through the knowledge graph. This near-total absence from the documentary record -- for someone documented on **124 flights** with Epstein -- represents either systematic redaction of her identity or deliberate exclusion from the files, both of which are investigatively significant.
+Nadia Marcinkova (now Nadia Marcinko) is one of the most significant and anomalous figures in the Epstein FBI files. Despite being identified as both a victim and a co-conspirator who "scheduled hundreds of sexual massages with minors for Epstein," her full name ("Marcinkova" or "Marcinko") returns **ZERO results** across 1.8 million redaction records and 38,955 OCR records. She appears only by first name ("Nadia") in a handful of redacted documents, through her company name "Aviloop LLC" in financial records, and extensively in flight logs through the knowledge graph.
+
+**UPDATE (2026-02-12):** Full-text corpus revisit substantially revises this finding. DS9 alone contains **133 documents** with "Marcinkova" by full surname, **19 documents** with "Marcinko," and **61 documents** with "Aviloop." DS11 adds 1 document with "Marcinkova," 6 with "Marcinko," and 18 with "Aviloop." The total new document count exceeds **200 unique documents** across DS9/DS11. Marcinkova's name was not absent from the FBI files -- it appears extensively in court filings, NPA drafts, prosecution memos, civil litigation exhibits, news articles, FBI intelligence reports, and direct email correspondence. The correct characterization is that her name was systematically redacted in *internal FBI materials* (DS8/DS10/DS12) but remained visible in court records and publicly-filed documents comprising much of DS9. See the "DS9/DS11 Evidence" section below for additional findings including: FBI certification as a trafficking victim (I-914), a $10M trust annuity, the full NPA text with immigration waiver, an FBI intelligence dossier, an aircraft brokerage agreement, and extensive email correspondence revealing Aviloop as a visa-fraud vehicle.
 
 The investigation reveals:
 - Marcinkova was on **124 documented flights** with Epstein (Sept 2003 - Jan 2006), more than almost any other individual
@@ -23,32 +25,23 @@ The investigation reveals:
 
 ## SECTION 1: THE ANOMALY -- SYSTEMATIC NAME REDACTION
 
-### 1.1 Zero Full-Name Results
+### 1.1 Zero Full-Name Results in Redaction Databases
 
-Search across all five databases for "Marcinkova" and "Marcinko" returned:
+Search across all five redaction/OCR databases for "Marcinkova" and "Marcinko" returned:
 - **primary document text database:** 0 results for full surname
 - **OCR text extraction database:** 0 results for full surname
 - **image catalog database:** 0 results for full surname
 - **Dataset 10 document text database:** 0 results for full surname
 
-The ONLY instance of her surname appearing in any database is a garbled redaction extraction from her identity document:
+The ONLY instance of her surname appearing in any redaction database is a garbled extraction from her identity document:
 
 > **[EFTA01525405](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01525405.pdf), Page 0 (Hidden Text):** `ffl illMIEffi ardv d. iLfi NADIA LIAlbCINKOVA`
 
-This is clearly a corrupted OCR reading of "NADIA MARCINKOVA" from behind a redaction layer. The document is NOT in the OCR text records at all, meaning it was fully redacted in the public release.
+This is clearly a corrupted OCR reading of "NADIA MARCINKOVA" from behind a redaction layer.
 
-### 1.2 Significance
+### 1.2 Significance -- Revised (2026-02-12)
 
-For comparison, other Epstein associates appear frequently:
-- Ghislaine Maxwell appears thousands of times across the databases
-- Sarah Kellen appears in multiple documents
-- Jeffrey Epstein appears in virtually every file
-
-The fact that someone who was on 124 flights with Epstein, described by prosecutors as scheduling "hundreds of sexual massages with minors," and who received $100,000 from Epstein's trust just days after the Miami Herald expose -- has her full name systematically absent from 1.8 million records -- is extraordinary. This pattern is consistent with either:
-
-1. **Systematic redaction** of her name across all released documents (she was protected under the NPA and may have been treated as a cooperating witness)
-2. **Deliberate omission** of documents containing her name from the released file set
-3. **Both** -- documents that do exist were heavily redacted, and many documents were withheld entirely
+**Original assessment:** The zero-result finding was interpreted as "systematic identity suppression" across all FBI files. **Revised assessment:** The zero results were an artifact of searching only redaction-extraction databases (which capture hidden text behind redactions in internal FBI materials). The full-text corpus (DS9/DS11) contains **200+ documents** with Marcinkova's name in court filings, NPA drafts, civil litigation, news articles, and FBI intelligence reports. The suppression was selective -- her name was systematically redacted in internal FBI materials (DS8/DS10/DS12 redaction layers) but remained visible in court records and publicly-filed documents included in DS9. This represents a pattern of internal protection rather than total erasure.
 
 ---
 
@@ -114,7 +107,7 @@ Aviloop LLC was Marcinkova's aviation-related company. It appears in **18+ docum
 | [EFTA01656524](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01656524.pdf) | **SAR (Suspicious Activity Report)** -- Aviloop is "Subject 1 of 25" |
 | [EFTA00020685](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020685.pdf) | **Wire transfer records** -- $100,000 to Aviloop LLC |
 
-### 3.2 The $100,000 Wire Transfer (Critical Finding)
+### 3.2 Wire Transfers to Aviloop LLC (Critical Finding)
 
 **Document: [EFTA00020685](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020685.pdf)** -- SDNY production follow-up requesting wire transfer details from the Butterfly Trust Account at Deutsche Bank.
 
@@ -125,10 +118,13 @@ The OCR text reveals the following wire transfers from Epstein's **Butterfly Tru
 | 01/28/2015 | [Redacted] | $50,000 | JPMorgan | 49 999921 |
 | 04/22/2015 | [Redacted] | $50,000 | JPMorgan | 49 999921 |
 | 09/24/2015 | [Redacted] | $23,625.44 | JPMorgan | 99 999991 |
-| **11/30/2018** | **Aviloop LLC** | **$100,000** | **TD Bank** | **011400071** |
+| **11/27/2018** | **Aviloop LLC** | **$45,000** | **TD Bank** | **JEGE LLC acct 42953475** |
+| **11/30/2018** | **Aviloop LLC** | **$100,000** | **TD Bank** | **Butterfly Trust acct 44130552** |
 | **12/03/2018** | [Redacted] | **$250,000** | **Bank of America** | **026009593** |
 
-**Timeline significance:** The Miami Herald's "Perversion of Justice" series began publishing on **November 28, 2018**. The $100,000 wire to Aviloop LLC occurred just **two days later** on November 30, 2018. The $250,000 wire to another individual followed on December 3, 2018.
+**UPDATE (2026-02-12):** DS9 wire transfer summaries ([EFTA00092643](https://www.justice.gov/epstein/files/DataSet%209/EFTA00092643.pdf)/[EFTA00105307](https://www.justice.gov/epstein/files/DataSet%209/EFTA00105307.pdf)) reveal an additional $45,000 wire from JEGE LLC to Aviloop on 11/27/2018 -- **one day BEFORE the Miami Herald series began.** Total Aviloop payments in late November 2018: **$145,000** (not $100,000 as originally reported).
+
+**Timeline significance:** The Miami Herald's "Perversion of Justice" series began publishing on **November 28, 2018**. The $45,000 wire preceded the series by one day; the $100,000 wire followed two days later. The $250,000 wire to another individual followed on December 3, 2018. DS9 email correspondence ([EFTA01015397](https://www.justice.gov/epstein/files/DataSet%209/EFTA01015397.pdf)) shows the $43,876 wire was discussed on November 26, 2018 (two days before the Herald series), with the label "I think it's Aviloop income" -- a deliberate disguise as business revenue.
 
 This is exactly the payment pattern described in the Government's detention memorandum (see Section 4 below).
 
@@ -459,14 +455,14 @@ The document notes:
 
 ## SECTION 11: KEY FINDINGS AND CONCLUSIONS
 
-### Finding 1: Systematic Identity Suppression
-Marcinkova's full name is absent from 1.8 million redaction records and 38,955 OCR records. This is a statistically extraordinary absence for someone on 124 flights with the subject of the investigation and actively described in prosecution memos. The suppression extends to her identity document, emails, and financial records, all of which appear only in redaction analysis (behind redactions) and are absent from the public-facing OCR text records.
+### Finding 1: Selective Identity Redaction (Revised 2026-02-12)
+Marcinkova's full name is absent from 1.8 million redaction records and 38,955 OCR records in the internal FBI databases (DS8/DS10/DS12). However, the full-text corpus contains 200+ documents with her name in court filings, NPA drafts, civil litigation, and FBI intelligence reports (DS9/DS11). The original characterization of "systematic identity suppression" was accurate for the redaction databases but overstated for the file collection as a whole. The correct characterization is that her name was selectively redacted in internal FBI materials while remaining visible in publicly-filed court documents.
 
 ### Finding 2: Dual Victim/Co-Conspirator Status Confirmed
 The knowledge graph and prosecution documents confirm Marcinkova's dual status as both a victim of Epstein's abuse (corroborated by multiple victim testimonies) and an active co-conspirator who "scheduled hundreds of sexual massages with minors." This unique status likely explains both her NPA protection and the systematic redaction of her identity.
 
-### Finding 3: Epstein Paid Marcinkova to Maintain Silence
-The $100,000 wire transfer from the Butterfly Trust to Aviloop LLC on November 30, 2018 -- two days after the Miami Herald expose -- was characterized by prosecutors as a suspicious payment to a potential witness. Combined with regular financial flows from the "Money Trust" through Marcinkova's TD Bank account, this demonstrates an ongoing financial relationship that persisted long after the 2007 NPA.
+### Finding 3: Epstein Paid Marcinkova to Maintain Silence (Updated 2026-02-12)
+DS9 reveals the total Aviloop payments in late November 2018 were **$145,000** (not $100,000): $45,000 from JEGE LLC on 11/27/2018 and $100,000 from Butterfly Trust on 11/30/2018. Email correspondence shows the payments were deliberately labeled as "Aviloop income" for visa purposes. Combined with regular financial flows from the "Money Trust" through Marcinkova's TD Bank account, this demonstrates an ongoing financial relationship that persisted long after the 2007 NPA.
 
 ### Finding 4: NPA Explicitly Protected Marcinkova from Prosecution
 Government filings confirm Marcinkova was "named as a potential co-conspirator -- and for whom Epstein obtained protection in -- the NPA." Despite scheduling "hundreds of sexual massages with minors," she received immunity from federal prosecution under the controversial 2007 agreement.
@@ -479,6 +475,54 @@ Marcinkova's 124 flights with Epstein included shared flights with Prince Andrew
 
 ### Finding 7: Aviation Entity Integration
 Aviloop LLC was treated by financial institutions as part of the Epstein entity network, appearing in a SAR alongside 24 other Epstein-controlled companies and trusts. This suggests Marcinkova's ostensibly independent business was functionally part of Epstein's financial structure.
+
+---
+
+## SECTION 12: DS9/DS11 EVIDENCE (Added 2026-02-12)
+
+The following findings are from a full-text corpus revisit. They substantially expand the evidentiary record from approximately 30 EFTA documents to over 230.
+
+### 12.1 FBI I-914 Trafficking Victim Certification ([EFTA00156551](https://www.justice.gov/epstein/files/DataSet%209/EFTA00156551.pdf))
+
+The FBI formally certified Marcinkova as a "victim of a severe form of trafficking in persons" for T-visa purposes. Investigation dates: 12/06/2018 - 06/28/2022. Statutes cited: 18 USC 371 (conspiracy), 1591(a),(b) (sex trafficking), 1623 (perjury/false declarations), 2423(a) (transportation of minors), NYPL 130.55 (sexual abuse third degree). The victimization description: "Applicant was recruited, harbored, and obtained by Jeffrey Epstein and others for purposes of a coercive sexual relationship." She cooperated with the investigation.
+
+### 12.2 $10 Million Trust Annuity ([EFTA00098341](https://www.justice.gov/epstein/files/DataSet%209/EFTA00098341.pdf))
+
+Epstein's January 2019 Trust (six months before arrest) names Marcinkova as recipient of a $10,000,000 annuity -- the second-highest individual bequest after a $100M+$20M beneficiary. This makes her one of the top 4 individual beneficiaries of Epstein's estate.
+
+### 12.3 Full NPA Text with Immigration Waiver ([EFTA00176610](https://www.justice.gov/epstein/files/DataSet%209/EFTA00176610.pdf))
+
+Multiple versions of the NPA name "Sarah Kellen, Adriana Ross, Lesley Groff, and Nadia Marcinkova" as protected co-conspirators. The NPA explicitly states the government "will not request, initiate, or in any way encourage immigration authorities to institute immigration proceedings against Ross or Marcinkova." Ross and Marcinkova were the only two individuals singled out for immigration protection.
+
+### 12.4 FBI Tactical Intelligence Report ([EFTA00261437](https://www.justice.gov/epstein/files/DataSet%209/EFTA00261437.pdf))
+
+Complete intelligence dossier: Slovak citizenship, 4 Alien Flight School Program applications (2012-2017), 4 visa applications (2011-2019), Aviloop LLC (DUNS 96-834-7414, 1 employee, $97,000 annual sales). The address "Stanley, NM 87506" (2004-2009) is near Zorro Ranch, confirming Marcinkova lived at or near Epstein's New Mexico property. Most recent visa application: March 26, 2019 -- four months before Epstein's arrest.
+
+### 12.5 Aircraft Brokerage Agreement ([EFTA00797507](https://www.justice.gov/epstein/files/DataSet%209/EFTA00797507.pdf))
+
+Aviloop LLC was formally engaged as broker to sell JEGE LLC's Gulfstream G-IV (N120JE) for $3,100,000 with a $100,000 broker fee, effective August 1, 2018.
+
+### 12.6 JPMorgan and TD Bank Accounts
+
+Aviloop LLC had a JPMorgan Chase business checking account (JPM-SDNY-00054770) produced alongside all Epstein/Maxwell accounts in the grand jury subpoena response ([EFTA00096342](https://www.justice.gov/epstein/files/DataSet%209/EFTA00096342.pdf)). SDNY formally requested TD Bank preserve both Butterfly Trust and Aviloop LLC accounts in October 2019 ([EFTA00097221](https://www.justice.gov/epstein/files/DataSet%209/EFTA00097221.pdf)). PayPal/Venmo records were also subpoenaed for "Marcinko" alongside Maxwell in September 2019 ([EFTA00151227](https://www.justice.gov/epstein/files/DataSet%209/EFTA00151227.pdf)).
+
+### 12.7 Aviloop as Visa Fraud Vehicle
+
+Multiple emails (2011-2018) demonstrate Aviloop's primary purpose was to provide the appearance of legitimate income for Marcinkova's visa applications:
+
+- "It is less important how it is billed than the fact it shows up asap in Aviloop account, so I can take further steps to divide it between the accounts to satisfy all visa requirements" ([EFTA00678472](https://www.justice.gov/epstein/files/DataSet%209/EFTA00678472.pdf), Aug 2013)
+- Epstein: "Do you want me to send aviloop money, booked as what" ([EFTA00966117](https://www.justice.gov/epstein/files/DataSet%209/EFTA00966117.pdf), Aug 2013)
+- "Aviloop. As payment for services, to show income for the visa" ([EFTA00966384](https://www.justice.gov/epstein/files/DataSet%209/EFTA00966384.pdf), Aug 2013)
+- "Most of the money wired in 2011 was used for Aviloop and my visa" ([EFTA00877198](https://www.justice.gov/epstein/files/DataSet%209/EFTA00877198.pdf), Jun 2012)
+- "I think it's Aviloop income" -- wire labeling 2 days before Herald ([EFTA01015397](https://www.justice.gov/epstein/files/DataSet%209/EFTA01015397.pdf), Nov 2018)
+
+### 12.8 Victim Testimony ([EFTA00083816](https://www.justice.gov/epstein/files/DataSet%209/EFTA00083816.pdf))
+
+Laura Newman's December 2020 FBI interview identifies "NADIA MARCINKO (the NADIA she spoke about earlier), SARAH KELLEN, LESLIE, BELLA" by name. Newman described her as "tall blonde... his main NADIA." Multiple victims in civil RICO filings ([EFTA00222648](https://www.justice.gov/epstein/files/DataSet%209/EFTA00222648.pdf)) were "made to perform sex acts on Nadia Marcinkova in Epstein's presence."
+
+### 12.9 Target Letter Evasion ([EFTA00081180](https://www.justice.gov/epstein/files/DataSet%209/EFTA00081180.pdf))
+
+Court filings describe Epstein redirecting his aircraft from Teterboro to USVI to prevent FBI agents from serving Marcinkova with a target letter, confirming she was a target (not merely a witness) of the FBI investigation.
 
 ---
 

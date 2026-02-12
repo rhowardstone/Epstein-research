@@ -15,7 +15,7 @@ This report verifies key claims from our redaction analysis by going back to ori
 
 **Full Document Contents (2 pages)**:
 
-This is an NYPD Firearms Licenses and Permits record executed 10/8/2019 by NYPDFINESTSYRNE941477. Key data points:
+This is an NYPD Firearms Licenses and Permits record executed 10/8/2019 by Detective Paul W. Byrne (Tax# 941477, NYPD Child Exploitation and Human Trafficking Task Force). The operator code "NYPDFINESTSYRNE941477" is an OCR garble of "BYRNE941477." Byrne also received the Maxwell arrest warrant ([EFTA00080380](https://www.justice.gov/epstein/files/DataSet%208/EFTA00080380.pdf)). Key data points:
 
 - **Name**: GHISLAINE N MAXWELL
 - **Application Type**: RESIDENCE PREMISES
@@ -51,7 +51,7 @@ This is an NYPD Firearms Licenses and Permits record executed 10/8/2019 by NYPDF
 
 **SSN Cross-Reference Search**:
 - Searched the ENTIRE database for `133784883` or `133-78-4883`
-- **Result**: The SSN appears ONLY in [EFTA01653379](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01653379.pdf) (the firearms application). It does not appear in any other document in the database, including the comprehensive [EFTA00038329](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038329.pdf) alias/background report (which redacts its SSN fields).
+- **Result**: The SSN appears in [EFTA01653379](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01653379.pdf) (the firearms application) and was subsequently confirmed on an Experian credit report ([EFTA00152321](https://www.justice.gov/epstein/files/DataSet%2010/EFTA00152321.pdf)), which shows the SSN was issued between 1990 and 1993 and lists the employer as "J EPSTEIN AND COMPNY." The comprehensive [EFTA00038329](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038329.pdf) alias/background report redacts its SSN fields.
 
 ---
 
@@ -131,6 +131,8 @@ This is a complete email chain between prosecutors (Kathleen E. Cassidy, USANYS;
 8. **Nov 9, 2020**: Final scheduling for a Wednesday call.
 
 **Analysis**: This confirms active Section 1512 (witness tampering) negotiations between the Maxwell prosecution team and her defense attorneys Susan Necheles and others. The prosecution was exploring whether a resolution was possible involving a factual admission related to witness tampering/obstruction charges. They explicitly noted this was NOT a formal plea offer. The legal discussion about Section 1510 vs. 1512(b)(3) suggests the defense was trying to argue for the higher-burden statute.
+
+**Subsequent identification**: Plea language in [EFTA00089268](https://www.justice.gov/epstein/files/DataSet%208/EFTA00089268.pdf) describes the co-conspirator as having "scheduled hundreds of sexual massages with minors," which matches the role attributed to Sarah Kellen Vickers in other case documents. Kellen Vickers is the most likely Section 1512 co-conspirator referenced in these negotiations.
 
 ---
 
@@ -357,7 +359,7 @@ This is a commercial background investigation report (likely LexisNexis or simil
 9. MAX, G
 10-19. Various additional spellings
 
-**Key Finding - BORGERSON alias**: The alias "BORGERSON, GHISLAINE" appears in Experian credit records, confirming Maxwell used Scott Borgerson's surname on credit accounts. Borgerson is separately identified in the neighbor listings for her Boston address (Manchester, MA 01944).
+**Key Finding - BORGERSON alias**: The alias "BORGERSON, GHISLAINE" appears in Experian credit records, confirming Maxwell used Scott Borgerson's surname on credit accounts. Borgerson is separately identified in the neighbor listings for her Boston address (Manchester, MA 01944). The Experian credit report ([EFTA00152321](https://www.justice.gov/epstein/files/DataSet%2010/EFTA00152321.pdf)) also confirmed SSN 133-78-4883, issued 1990-1993, employer "J EPSTEIN AND COMPNY." DS11 mail cover records and DS9 contain 140+ Borgerson-related documents, including a cellphone tracking warrant ([EFTA00073438](https://www.justice.gov/epstein/files/DataSet%208/EFTA00073438.pdf)).
 
 **24 Known Addresses** spanning:
 - Boston, MA 02114 (2018-2019, with Scott Borgerson at same address block)
@@ -438,36 +440,24 @@ The four "placeholder" files were likely Excel spreadsheets, CSV files, or other
 
 **CLAIM**: Maxwell's 2006 NYPD firearms application shows "Criminal Record: YES."
 
-**VERIFIED: YES - but with a significant contradiction**
+**VERIFIED: YES -- RESOLVED as self-reported error**
 
 The NYPD firearms application ([EFTA01653379](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01653379.pdf)) from February 21, 2006 clearly shows:
 - **Criminal Record: YES**
 - **Military Record: YES**
 - **Status: APPROVED**
 
-**Contradiction with December 2019 Background Report ([EFTA00038329](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038329.pdf))**:
+**Resolution via FBI Tactical Intelligence Report ([EFTA00174138](https://www.justice.gov/epstein/files/DataSet%2010/EFTA00174138.pdf))**:
 
-The professional background investigation report generated 12/05/2019 shows:
+A 10-page FBI Tactical Intelligence Report ran Maxwell through both the FBI's National Crime Information Center (NCIC) and NYPD databases. Both returned **no criminal record** for Maxwell. The December 2019 commercial background investigation report ([EFTA00038329](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038329.pdf)) also shows:
 - **Criminal Record: No**
 - **Arrest Record: No**
 
-**Analysis of the discrepancy**:
+**Conclusion**: The "Criminal Record: YES" on the 2006 firearms application was a self-reported error or data entry mistake, not an actual criminal history. Three independent checks (FBI NCIC, NYPD database, commercial background report) all found no criminal record.
 
-1. **The firearms application was SELF-REPORTED**: The NYPD firearms application fields for "Criminal Record" and "Military Record" are filled in by the applicant or from information the applicant provides. These may reflect self-reported information that could include arrests, traffic offenses, or other matters that might not appear in a commercial background check.
+**Remaining anomaly -- "Military Record: YES"**: Maxwell (born in France, 1961, holding UK/France/US citizenships) has no publicly known military service. French national service for women was abolished in 1970. No subsequent investigation has identified any Maxwell military service. This entry remains unexplained, and may reflect the same pattern of inaccurate self-reporting seen with the criminal record field.
 
-2. **The background report uses commercial databases**: The December 2019 report pulls from credit bureaus, public records, and commercial databases. If Maxwell's "criminal record" as of 2006 was a minor matter (dismissed charge, sealed record, foreign matter, or traffic-level offense), it may not appear in commercial databases.
-
-3. **The application was APPROVED despite "Criminal Record: YES"**: NYPD approved the firearms license, which suggests whatever the "criminal record" was, it was not disqualifying under New York law. Under NYC firearms licensing rules, certain misdemeanors or dismissed charges would not automatically disqualify an applicant.
-
-4. **"Military Record: YES" is also notable**: Maxwell (born in France, 1961) has no publicly known military service. This could refer to:
-   - British military service (her father Robert Maxwell had connections to British intelligence)
-   - French national service
-   - A misunderstanding of the question
-   - An intentional misrepresentation
-
-5. **No other document in the database explains what criminal record Maxwell had as of 2006**. The database was searched for "Maxwell criminal," "Maxwell arrest," "Maxwell convict," and "Maxwell prior record" -- no results explain a pre-2006 criminal history.
-
-6. **The firearms license was later CANCELLED on 2009-11-16** because she "MOVED TO FLA." The gun (Glock 19, 9mm) was transferred via West Side Range.
+**The firearms license was CANCELLED on 2009-11-16** because she "MOVED TO FLA." The gun (Glock 19, 9mm) was transferred via West Side Range.
 
 ---
 
@@ -475,16 +465,16 @@ The professional background investigation report generated 12/05/2019 shows:
 
 | # | Claim | Verified? | Notes |
 |---|-------|-----------|-------|
-| 1 | Maxwell SSN 133-78-4883 on firearms app | YES | SSN appears only in this one document |
+| 1 | Maxwell SSN 133-78-4883 on firearms app | YES | SSN confirmed in firearms app and Experian credit report ([EFTA00152321](https://www.justice.gov/epstein/files/DataSet%2010/EFTA00152321.pdf)), issued 1990-1993, employer "J EPSTEIN AND COMPNY" |
 | 2 | Angara Trust irrevocable trust | YES | 32-page UBS document, established 09/15/2016 |
-| 3 | Section 1512 negotiations | YES | Full email chain Sept-Nov 2020, preliminary statement of facts discussed |
-| 4 | Boeing 727 flight logs | YES | N908JE owned by JEGE Inc., manifest from PBI to JFK dated 1/12/2004 |
+| 3 | Section 1512 negotiations | YES | Full email chain Sept-Nov 2020; co-conspirator likely identified as Kellen Vickers per plea language in [EFTA00089268](https://www.justice.gov/epstein/files/DataSet%208/EFTA00089268.pdf) |
+| 4 | Boeing 727 flight logs | YES | N908JE owned by JEGE Inc., manifest from PBI to JFK dated 1/12/2004. Complete fleet timeline documented separately |
 | 5 | Sexually suggestive photographs of underage girls | YES (nuanced) | Exact phrase is "sexually suggestive photographs of fully- or partially-nude females" + "appear to be of underage girls" |
-| 6 | BOP suicide watch email 7/30/2019 | YES | Epstein #76318-054 taken off both suicide watch and psych observation, sent to 71 staff |
+| 6 | BOP suicide watch email 7/30/2019 | YES | Epstein #76318-054 taken off both suicide watch and psych observation, sent to 71 staff. Full OIG report found at [EFTA00039025](https://www.justice.gov/epstein/files/DataSet%208/EFTA00039025.pdf) (125+ pages) |
 | 7 | El Brillo Way search warrant | PARTIAL | 2-page excerpt (Narrative #14) of larger report, not full report |
-| 8 | Borgerson/Maxwell alias list | YES | 43-page professional background report with 19 aliases including "BORGERSON, GHISLAINE" |
+| 8 | Borgerson/Maxwell alias list | YES | 43-page background report with 19 aliases including "BORGERSON, GHISLAINE." Confirmed by Experian credit report and 140+ DS9 Borgerson documents. Cellphone tracking warrant at [EFTA00073438](https://www.justice.gov/epstein/files/DataSet%208/EFTA00073438.pdf) |
 | 9 | EFTA16338-16341 cross-references | CLARIFIED | These are "Native Placeholder / No Images Produced" files, not redacted content; no cross-references found |
-| 10 | Criminal Record: YES on firearms app | YES (unexplained) | Self-reported; contradicts Dec 2019 commercial background check showing "Criminal Record: No" |
+| 10 | Criminal Record: YES on firearms app | RESOLVED | Self-reported error. FBI NCIC + NYPD databases both returned no criminal record ([EFTA00174138](https://www.justice.gov/epstein/files/DataSet%2010/EFTA00174138.pdf)). "Military Record: YES" remains unexplained |
 
 ---
 
