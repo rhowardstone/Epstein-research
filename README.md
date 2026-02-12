@@ -3,7 +3,7 @@
 
 ### About This Repository
 
-This repository contains 100+ forensic analysis reports derived from the U.S. Department of Justice's release of Jeffrey Epstein investigation files -- 218GB across 12 datasets, comprising 519,438+ PDFs. The analysis involved systematic review of 3.4M+ document text records, OCR-extracted text, 21,859 cataloged images, and cross-referenced entity relationships (524 entities, 2,096 connections).
+This repository contains 100+ forensic analysis reports derived from the U.S. Department of Justice's release of Jeffrey Epstein investigation files -- 194.5 GB across 12 datasets, comprising 1,380,937 PDFs (2,731,785 pages, 3.18 billion characters of text), plus 3,234 media files. The analysis involved full-text extraction and FTS5 indexing of every page, 2,587,102 redaction records, 1,530 audio/video transcripts, a 1,536-person entity registry, and cross-referenced entity relationships (524 entities, 2,096 connections).
 
 Every factual claim in these reports traces back to specific EFTA document numbers (Epstein Files Task Force Archive). Click any linked EFTA number to attempt to view the original PDF on justice.gov.
 
@@ -147,10 +147,11 @@ See the [EFTA Dataset Mapping](#efta-number-to-dataset-mapping) table at the bot
 | [ART_INVESTIGATION_REDACTIONS](art/ART_INVESTIGATION_REDACTIONS.md) | Sub-report: 165 queries across 3.4M redaction records for art-related content. |
 | [ART_INVESTIGATION_WEB_RESEARCH](art/ART_INVESTIGATION_WEB_RESEARCH.md) | Sub-report: 40+ web sources, 16 sections of open-source intelligence on Epstein art connections. |
 
-### Methodology & Data Quality (10 reports)
+### Methodology & Data Quality (11 reports)
 
 | Report | Description |
 |--------|-------------|
+| [CORPUS_INVENTORY](methodology/CORPUS_INVENTORY.md) | **Complete evidence chain:** 1,380,937 PDFs, 2,731,785 pages, 194.5 GB across 12 datasets. Per-dataset accounting, derived databases, media inventory, processing pipeline, verification instructions. Start here to understand the source material. |
 | [DATA_QUALITY_AUDIT](methodology/DATA_QUALITY_AUDIT.md) | Audit of "bad_overlay" redaction records -- confirmed ~98% are OCR noise from degraded scans. |
 | [EVIDENCE_RELIABILITY_AUDIT](methodology/EVIDENCE_RELIABILITY_AUDIT.md) | Impact assessment: how "bad_overlay" OCR noise affects investigation report reliability. |
 | [REDACTION_ASYMMETRY_ANALYSIS](methodology/REDACTION_ASYMMETRY_ANALYSIS.md) | 179,139 redactions analyzed: victim names properly redacted, powerful associates frequently recoverable under bad overlays. |
@@ -217,17 +218,17 @@ Use this table to determine which DOJ dataset contains a given EFTA number, or t
 
 ## Methodology
 
-All analysis was performed against four primary document collections built from the raw PDF corpus:
+All analysis was performed locally against databases derived from the raw PDF corpus. No documents were uploaded to cloud services or third-party APIs.
 
-| Collection | Records | Contents |
-|------------|---------|----------|
-| Primary document text | 1,808,942 | Text extracted from document text layers, document summaries, reconstructed pages, extracted entities |
-| Dataset 10 document text | 1,629,776 | Dataset 10 specific text extraction |
-| OCR-extracted text | 38,955 | Full-page OCR text from scanned documents |
-| Image catalog | 21,859 | Cataloged images with descriptions |
-| Entity relationships | 524 entities, 2,096 connections | Cross-referenced entities and their relationships |
+| Database | Size | Records | Contents |
+|----------|------|---------|----------|
+| full_text_corpus.db | 6.08 GB | 1,380,937 docs / 2,731,785 pages | Full text of every page of every document (PyMuPDF extraction + invisible OCR text layers) |
+| redaction_analysis_v2.db | 0.95 GB | 2,587,102 redactions / 638,416 docs | Spatial redaction analysis with text at each redaction's coordinates |
+| transcripts.db | 2.5 MB | 1,530 entries (375 with speech) | GPU-transcribed audio/video (faster-whisper large-v3 on A100) |
+| persons_registry.json | — | 1,536 persons | Unified entity registry from 3 sources |
+| knowledge_graph.db | — | 524 entities / 2,096 connections | Cross-referenced entity relationships |
 
-For methodology details, data quality assessment, and reliability audits, see the [Methodology & Data Quality](#methodology--data-quality-10-reports) section above.
+For the complete evidence chain -- what data exists, where it came from, and how to verify any finding -- see [CORPUS_INVENTORY](methodology/CORPUS_INVENTORY.md). For methodology details, data quality assessment, and reliability audits, see the [Methodology & Data Quality](#methodology--data-quality-11-reports) section above.
 
 Processed data collection: https://github.com/rhowardstone/Epstein-research-data
 
