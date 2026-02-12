@@ -114,7 +114,7 @@ The knowledge graph contains only 524 entities (489 persons, 12 shell companies,
 | "Proffer" | 101 | 2 | 514 | Proffer sessions documented |
 | "NPA" | 77 | -- | 573 | Non-prosecution agreement heavily discussed |
 
-**Critical Gap:** Only 7 "unindicted" references across 3.4M+ records. For a conspiracy involving 30+ named individuals and 200+ victims, the near-absence of unindicted co-conspirator designations suggests the government systematically avoided formally designating co-conspirators -- consistent with the NPA's extraordinary breadth of protection.
+**Critical Gap:** Only 7 "unindicted" references across 3.4M+ records. For a conspiracy involving 30+ named individuals and 200+ victims, the near-absence of unindicted co-conspirator designations is notable. This could reflect the NPA's broad co-conspirator immunity clause (making formal designation unnecessary), the scope of this production (which may exclude sealed filings where such designations appear), or a prosecutorial choice not to designate co-conspirators.
 
 ---
 
@@ -183,7 +183,7 @@ The knowledge graph contains only 524 entities (489 persons, 12 shell companies,
 - Epstein flew 8+ flights documented by FAA
 - Evidence destruction was suspected
 
-The email silence during this period, combined with known financial activity, strongly suggests Epstein switched to encrypted communications (Signal, WhatsApp, ProtonMail, Telegram all found referenced in the files) or that records from this period were specifically excluded.
+**[NOTE: The above "email silence" observation from the v2/DS10 databases has been overturned. DS9 shows continuous daily email activity from jeevacation@gmail.com throughout this entire period. The encrypted communications hypothesis built on the gap is therefore unfounded. References to Signal, WhatsApp, ProtonMail, and Telegram exist elsewhere in the corpus, but the 99-day gap was a DS11 PLIST extraction artifact, not actual communication silence.]**
 
 ---
 
@@ -246,7 +246,7 @@ For a case involving 200+ victims, $755M+ in traced flows, 70+ seized devices, a
 | tax fraud | 0 | 6 | Near-absent |
 | structuring | 0 | 10 | Near-absent |
 
-**Assessment:** While SARs were filed (2,217 OCR mentions), the absence of formal IRS Criminal Investigation, SEC Enforcement, and FinCEN investigation documentation is inconsistent with a $755M+ financial crime case involving 95+ shell entities across multiple jurisdictions. Either these agencies were never brought in (institutional failure) or their work product was excluded from the release (deliberate gap).
+**Assessment:** While SARs were filed (2,217 OCR mentions), the absence of formal IRS Criminal Investigation, SEC Enforcement, and FinCEN investigation documentation is inconsistent with a $755M+ financial crime case involving 95+ shell entities across multiple jurisdictions. Possible explanations include: (a) these agencies were never engaged in the case, (b) their work product was handled through separate classified or inter-agency channels, or (c) their documentation was excluded from this DOJ production.
 
 ---
 
@@ -310,7 +310,7 @@ A multi-page FBI document classified UNCLASSIFIED//FOUO spans at least 21 pages 
 Additionally, the FBI declared that pages were "sealed pursuant to United States Court order and thus unavailable for release through the FOIA."
 
 ### Attorney-Client Privilege Claims
-705 OCR documents invoke attorney-client privilege. This is notable because privilege belongs to the client (Epstein/Maxwell), not to their attorneys. Post-death, privilege should be waived for the estate unless the estate actively asserts it. The volume suggests the estate's attorneys actively intervened to suppress documents.
+705 OCR documents invoke attorney-client privilege. This is notable because privilege belongs to the client (Epstein/Maxwell), not to their attorneys. Post-death, privilege should be waived for the estate unless the estate actively asserts it. The volume indicates the estate's attorneys asserted privilege broadly to withhold documents from the release.
 
 ---
 
@@ -568,7 +568,7 @@ Regardless of cause, 1.2 million potential document numbers with no content is t
 
 14. **Wexner/L Brands Period (1982-1995):** Fewer than 100 combined records for the 13-year period when Epstein obtained control of Wexner's finances and the 71st Street mansion. Where is the documentation of this transfer of wealth?
 
-15. **99-Day Blackout Communications:** The November 2018 - February 2019 period has zero email records in redacted text but documented financial activity. Were encrypted communications (Signal, WhatsApp, ProtonMail) ever lawfully intercepted? Was a Title III wiretap ever obtained?
+15. **99-Day PLIST Metadata Gap:** **[UPDATE: The Nov 2018-Feb 2019 "blackout" has been disproved — DS9 shows continuous daily email activity throughout this period. The gap was a DS11 PLIST extraction artifact.]** The underlying question remains: Were encrypted communications (Signal, WhatsApp, ProtonMail — all referenced in the corpus) ever lawfully intercepted? Was a Title III wiretap ever obtained?
 
 16. **Goldman Sachs Investigation:** Only 9 v2 references for the bank where Kathryn Ruemmler (Epstein's close contact and former Obama White House Counsel) became General Counsel. Was Goldman's relationship with Epstein ever investigated?
 
@@ -579,7 +579,7 @@ Regardless of cause, 1.2 million potential document numbers with no content is t
 
 19. **CSAM Found in 2023:** Child sexual abuse material was found during 2023 estate settlement -- missed in the initial 2019-2021 evidence processing. How was this missed? Were all devices re-examined?
 
-20. **Mega Gap in Intelligence Reporting:** Zero mentions of Mega Group, Carbyne, Unit 8200, Shin Bet, GCHQ, or Five Eyes across 3.4M+ records despite extensive Israeli intelligence indicators (Barak, military base tours, classified exemptions). Was this dimension deliberately excluded?
+20. **Intelligence Reporting Gap:** **[PARTIALLY OVERTURNED: Full corpus found Carbyne 50+, Reporty 324, Unit 8200 11, Shin Bet 23, Mega Group 4 documents — mostly in DS9 news articles/emails. GCHQ and Five Eyes remain absent.]** Despite the classified exemptions and intelligence indicators documented above, no formal intelligence investigation reports appear in the production. Was intelligence material excluded from this release, and if so, under what authority?
 
 ---
 
@@ -871,7 +871,7 @@ survivor: v2:39 | ocr:125
 
 This analysis queried 4 databases totaling 3,477,673 redaction records and 38,955 OCR records using 200+ distinct systematic searches. Searches were conducted across all document collections for each term to ensure comprehensive coverage. The V2 database contains both the DS10 dataset (1,629,776 records) and the DS1-9/11-12 datasets (179,139 records). Some terms may produce false positives (e.g., "CIA" appearing in abbreviations, "MIT" in non-university contexts, year numbers appearing in non-date contexts). Where possible, length filters (>20 or >30 characters) were applied to reduce noise.
 
-The gap analysis is inherently limited by what can be measured. The absence of evidence is not evidence of absence in every case -- some documents may exist in classified channels, sealed court files, or ongoing investigation records that legitimately cannot be released. However, the scale and pattern of the gaps identified -- particularly the 1.2 million missing EFTA numbers, the near-total absence of FD-302 interview reports, the zero FinCEN investigation documentation, and the systematic exclusion of intelligence-related material -- collectively suggest a release that was engineered to appear comprehensive while withholding the most consequential material.
+The gap analysis is inherently limited by what can be measured. The absence of evidence is not evidence of absence in every case -- some documents may exist in classified channels, sealed court files, or ongoing investigation records that legitimately cannot be released. However, the scale and pattern of the gaps identified -- particularly the 1.2 million missing EFTA numbers, the near-total absence of FD-302 interview reports, the zero FinCEN investigation documentation, and the systematic exclusion of intelligence-related material -- collectively raise questions about the completeness of this production. Some gaps may reflect legitimate classification, legal privilege, or the scope of the DOJ's production obligations; others — particularly the near-total absence of FD-302 interview reports and the zero FinCEN investigation documentation — are harder to explain and warrant congressional inquiry.
 
 **END OF PHASE I REPORT**
 

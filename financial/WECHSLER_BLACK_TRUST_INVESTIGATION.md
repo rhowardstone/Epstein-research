@@ -14,7 +14,7 @@ On December 21, 2016, at 4:11 PM, Jeffrey Epstein sent the following email from 
 
 > "lets liquidate the J BLACK trust. the reason is that judy has passed. .2 deal with wechsler telling at least joe, and probably others that there are 'sensitive accounts' why he would do that is beyond me. .3. we should mock up this years gift tax to verify. all in order."
 
-This email is explosive for three independent reasons:
+This email is significant for three independent reasons:
 
 1. **Epstein is directing the liquidation of a trust named for the Black family** -- demonstrating operational control over Black's financial structures
 2. **"Wechsler" -- identified as Brad Wechsler, Managing Partner of Elysium Management (Black's Family Office) -- is revealing the existence of "sensitive accounts" to others**, and Epstein is alarmed about it

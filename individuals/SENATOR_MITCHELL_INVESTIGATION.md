@@ -266,7 +266,7 @@ An FBI document describes a woman alleging that Epstein sent her for **"multiday
 
 3. **2003-2004 Timeframe:** This predates Epstein's 2005 Palm Beach investigation and 2008 plea deal. Mitchell would have been approximately 70-71 years old.
 
-4. **FBI Documentation:** This allegation was documented in FBI investigative files, meaning it was considered credible enough to be recorded during the investigation.
+4. **FBI Documentation:** This allegation was documented in FBI investigative files. Note that the FBI records all allegations received during an investigation; inclusion in the files does not itself indicate a credibility assessment.
 
 **Note:** This specific FBI document was not directly identified in the four databases searched. It may be in documents that were not OCR-processed or in redacted portions that were not recovered. The allegation is documented through press reporting of the DOJ file release.
 
@@ -290,7 +290,7 @@ An FBI document describes a woman alleging that Epstein sent her for **"multiday
 
 [EFTA00428166](https://www.justice.gov/epstein/files/DataSet%209/EFTA00428166.pdf) (Sept 12, 2011): "Senator Mitchell will come more about 4:15...he says he must leave at 10 or 5 minutes to 5:00" -- **confirmed meeting at Epstein's residence**.
 
-[EFTA00427635](https://www.justice.gov/epstein/files/DataSet%209/EFTA00427635.pdf) (Sept 20, 2011): "Senator Mitchell is in London now and not coming back to NY until Saturday. He says he would like to meet Jes at another time...Senator Mitchell sends his best." Epstein was attempting to introduce Mitchell to Barclays CEO Jes Staley. Staley was later named alongside Glenn Dubin in prosecution classifications of individuals who engaged in sexual conduct with Epstein's victims.
+[EFTA00427635](https://www.justice.gov/epstein/files/DataSet%209/EFTA00427635.pdf) (Sept 20, 2011): "Senator Mitchell is in London now and not coming back to NY until Saturday. He says he would like to meet Jes at another time...Senator Mitchell sends his best." Epstein was attempting to introduce Mitchell to Barclays CEO Jes Staley. Staley was later listed alongside Glenn Dubin in an internal prosecution planning document ([EFTA00098755](https://www.justice.gov/epstein/files/DataSet%209/EFTA00098755.pdf)) under "Individuals Who Have Engaged in Massages with Epstein Girls."
 
 ### ~2010: Yom Kippur Break-Fast Dinner
 
@@ -478,7 +478,7 @@ In November 2018, George Mitchell was appointed as chairman of the oversight com
 - He stepped down citing "new work commitments at his law firm, DLA Piper"
 - In August 2019, Giuffre's allegations against Mitchell were unsealed
 
-**The irony:** The man handpicked to oversee the Catholic Church's major reparations effort for sexual abuse victims was himself accused of sexual abuse in the Epstein case. His role required evaluating the credibility and suffering of abuse victims while he was, according to at least two victims, an abuser himself.
+**The juxtaposition:** The person selected to oversee the Catholic Church's major reparations effort for sexual abuse victims was himself accused of sexual abuse by at least two individuals in the Epstein case. His role required evaluating the credibility and suffering of abuse victims while he was, according to those accusers, himself an abuser. Mitchell has denied all such allegations.
 
 ---
 
@@ -551,7 +551,7 @@ Mitchell's reputation as architect of the Good Friday Agreement -- one of the mo
 3. **Confirmed ongoing relationship:** At least 20 DS9 source emails document sustained contact from September 2011 through September 2015, including confirmed meetings, proactive calls from Mitchell, and direct email replies. Epstein claimed "very close friend" as late as December 2018.
 4. **Financial connection:** Epstein paid for Mitchell's philanthropic projects and organized fundraisers
 5. **Operational infrastructure:** Groff (NPA co-conspirator) managed Mitchell contact through State Department channels and through 4 separate assistants (Julia Reed, Janice, Neal, Maher Bitar)
-6. **Mitchell's false denial:** Claimed "no further contact" and "declined or deflected invitations," contradicted by confirmed September 2011 meeting, proactive July 2012 call, and direct September 2015 email reply with "Best regards to Jeffrey"
+6. **Mitchell's denial contradicted by documents:** Claimed "no further contact" and "declined or deflected invitations," contradicted by confirmed September 2011 meeting, proactive July 2012 call, and direct September 2015 email reply with "Best regards to Jeffrey"
 7. **Jes Staley introduction:** Mitchell expressed interest in meeting Jes Staley through Epstein (Sept 2011); Staley was later classified as having engaged in sexual conduct with Epstein's victims
 8. **FBI photo identification:** Victim identified Mitchell through a photo identification procedure during FBI interview ([EFTA00162974](https://www.justice.gov/epstein/files/DataSet%209/EFTA00162974.pdf))
 9. **Social draw strategy:** Epstein planned to use Mitchell's attendance to attract Summers and Barak to events
@@ -575,12 +575,11 @@ Mitchell fits the documented pattern of Epstein's "lending out" of victims to po
 
 ### Why Mitchell Was Never Charged:
 
-1. **NPA umbrella:** The 2008 Non-Prosecution Agreement's co-conspirator provision may have provided implicit cover
-2. **Political stature:** Mitchell's status as a former Senate Majority Leader and peace negotiator created institutional reluctance
+1. **Statute of limitations and evidentiary challenges:** The 2003-2004 timeframe of the alleged conduct would have presented significant legal obstacles by the time SDNY could have acted
+2. **Institutional factors:** Mitchell's status as a former Senate Majority Leader and peace negotiator may have been a factor, though no documentary evidence of reluctance based on his stature was found in the files
 3. **SDNY prioritization:** SDNY focused on Epstein and Maxwell, not named associates
-4. **Statute of limitations:** 2003-2004 conduct would have been extremely challenging to prosecute by 2019
-5. **Victim credibility attacks:** Giuffre's allegations against multiple individuals created a "too many names" defense strategy
-6. **Mitchell's death:** Mitchell is now 92 years old; prosecution prospects diminished further with time
+4. **Victim credibility challenges:** Giuffre's allegations against multiple individuals created potential defense arguments
+5. **Age:** Mitchell is now 92 years old; prosecution prospects diminished further with time
 
 ### Comparison to Richardson:
 

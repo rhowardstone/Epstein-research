@@ -148,10 +148,10 @@ Deutsche Bank eventually filed a Suspicious Activity Report naming **25 subjects
 **Across 1,808,915 redactions from 519,438 documents spanning all 12 DOJ datasets, no legitimate source for Epstein's $500M+ in wealth can be identified.**
 
 Despite Epstein's public claim of being a "money manager for billionaires":
-- **Zero management fees** appear in any financial transaction record
-- **Zero advisory fees** appear in any financial transaction record
-- **Zero client payments** appear in any financial transaction record
-- **Zero consulting income** appears in any financial transaction record
+- **No documented management fees** appear in recovered financial transaction records
+- **No documented advisory fees** appear in recovered financial transaction records
+- **No documented client payments** appear in recovered financial transaction records
+- **No documented consulting income** appears in recovered financial transaction records
 
 The only documented income is **investment returns** ($8-15M/year) from fixed-income instruments -- coupon payments on sovereign and corporate bonds. But this income only explains returns on capital that was already there. It does not explain how the capital was accumulated.
 
@@ -164,7 +164,7 @@ The only named source of Epstein's wealth in the FBI's own documents is **Leslie
 
 ### 3.3 What This Means
 
-A man held over $500 million at a single bank, claimed to be a financial manager, and across half a million documents released by the DOJ, not one document shows a fee, a client payment, or any legitimate business income explaining the wealth. The money materialized from somewhere the DOJ either couldn't or wouldn't document.
+A man held over $500 million at a single bank, claimed to be a financial manager, and across half a million documents released by the DOJ, no document shows a fee, a client payment, or any legitimate business income explaining the wealth. The source of the capital accumulation is not documented in the available DOJ production.
 
 **[Full details: FORENSIC_ACCT_2_MONEY_SOURCES.md]**
 
@@ -240,7 +240,7 @@ Epstein's personal DDA account (739110438) served as the central clearing hub fo
 
 ### 5.3 Structural Assessment
 
-This architecture is consistent with **textbook money laundering layering**: one central hub account, money flowing through 18+ entities with no apparent independent business purpose, automatic sweeps, and offshore wire infrastructure. Deutsche Bank's own RM code (82289) treating all entities as one relationship is the clearest evidence that the bank knew these weren't independent businesses.
+This architecture is consistent with **textbook financial layering**: one central hub account, money flowing through 18+ entities with no apparent independent business purpose, automatic sweeps, and offshore wire infrastructure. Deutsche Bank's own RM code (82289) treating all entities as one relationship is the clearest evidence that the bank knew these weren't independent businesses.
 
 **[Full details: FORENSIC_ACCT_3_INTER_ENTITY_FLOWS.md]**
 
@@ -364,7 +364,7 @@ Based on reconstruction across all four variants, the following individuals are 
 | **Prince Andrew** | Referenced in NTOC tips and investigation timeline |
 | **Ehud Barak** | 21+ calendar entries but NOT on PROMINENT NAMES page |
 
-**Critical observation:** Staley and Wexner were "(referred)" for investigation. Barr and Black were not. The individual who oversaw the DOJ during Epstein's arrest, detention, death, and the Maxwell prosecution was on this page as an alleged abuser and was never referred.
+**Critical observation:** Staley and Wexner were "(referred)" for investigation. Barr and Black were not. Barr was named in an unverified NTOC tip as "present during abuses" — the same Barr who oversaw the DOJ during Epstein's arrest, detention, death, and the Maxwell prosecution. The tip was never investigated or referred, and no recusal from the active prosecution occurred.
 
 **[Full details: [INVESTIGATION_1_BARR_NTOC.md](/individuals/INVESTIGATION_1_BARR_NTOC.md), INVESTIGATION_6_LEON_BLACK.md]**
 
@@ -390,10 +390,10 @@ From the PROMINENT NAMES document (all four variants):
 
 ### 9.3 What the Files Show
 
-- Barr appears on the FBI's own PROMINENT NAMES document as an accused abuser
+- Barr is named in an unverified NTOC tip on the FBI's own PROMINENT NAMES document as "present during abuses" at a "model event"
 - **No referral annotation** exists next to his name (unlike Staley and Wexner)
-- **No recusal documentation** was found anywhere in the database
-- The AG who oversaw the Epstein and Maxwell cases was himself named in an FBI tip as "present during abuses"
+- **No recusal documentation** from the active prosecution was found anywhere in the database (Barr did recuse from the retrospective NPA review due to Kirkland & Ellis ties)
+- The AG who oversaw the Epstein and Maxwell cases was himself the subject of an unverified FBI tip
 - FBI case 90A-NY-31512 (Epstein death investigation) was closed 12/5/2022 with no finding of foul play
 
 **[Full details: INVESTIGATION_1_BARR_NTOC.md]**
@@ -489,7 +489,7 @@ A calendar entry records: **"Drive to Leon Blacks house with Karyna"** (Karyna S
 
 These are tip line reports. They represent unverified allegations from callers to the FBI. Some callers were assessed as not credible (Allegation C, with psychiatric evaluation history). Others were never contacted at all. The FBI's own disposition notes show that the majority of these tips received **minimal or no follow-up**: "no contact made," "voicemail left, no response," "phone number was bad."
 
-The credibility of individual tips varies. What is documented is the pattern of FBI response: tips involving the most powerful names received the least follow-up.
+The credibility of individual tips varies. What is documented is the pattern of FBI response: the majority of tips — regardless of the individuals named — received minimal or no follow-up.
 
 **[Full details: INVESTIGATION_1_BARR_NTOC.md]**
 
@@ -654,7 +654,7 @@ These are confirmed structures on Epstein's island properties, maintained by his
 
 **Brice Gordon** and **Karen Gordon** served as island property managers with **New Zealand Defence Force** backgrounds. They appear in **826+ documents**, managing everything from construction to staffing to supply logistics.
 
-Both **disappeared** after Epstein's death in August 2019. No indication the FBI pursued them as witnesses.
+Both left their positions after Epstein's death in August 2019 and their subsequent whereabouts are not documented. No indication the FBI pursued them as witnesses.
 
 ---
 
@@ -692,7 +692,7 @@ President of Bard College. Planned an island visit and hosted Epstein events wit
 
 ### 18.4 Brice and Karen Gordon
 
-Island property managers with NZ Defence Force backgrounds. Disappeared post-death. Not pursued as witnesses.
+Island property managers with NZ Defence Force backgrounds. Left positions after Epstein's death; subsequent whereabouts not documented. Not pursued as witnesses.
 
 ### 18.5 Eight Deutsche Bank Employees
 
@@ -751,7 +751,7 @@ This is the most significant finding of the entire analysis. The documents do no
 | NTOC tip: woman vanished, remains found | "victim identified is deceased" -- closed |
 | NTOC tip: human trafficking auction | "Phone number was bad" -- closed |
 | NTOC tip: ex-girlfriend's daughter murdered | "Voicemail left, no response" -- closed |
-| William Barr on PROMINENT NAMES as abuser | Zero referral, zero investigation, no recusal |
+| William Barr named in unverified NTOC tip as "present during abuses" | No referral, no investigation of tip, recused only from NPA review |
 | Leon Black: DANY found victim credible, 3yr FBI investigation | No charges filed |
 | Deutsche Bank KYC breach declared April 2018 | Accounts serviced 8-10 more months |
 | $46.96M Haze Trust drawdown during active AML inquiry | No account freeze |
@@ -763,7 +763,7 @@ This is the most significant finding of the entire analysis. The documents do no
 | $500M+ in wealth with zero documented legitimate source | Not explained in any charging document |
 | $228M gap in estate accounting | Not publicly accounted for |
 
-The pattern is not "we didn't know." The pattern is **"we knew, we documented it, and we chose who to prosecute and who to protect."**
+The pattern is not "we didn't know." The pattern is **"we knew, we documented it, and the vast majority of named individuals were never charged."**
 
 ---
 
@@ -981,7 +981,7 @@ This FBI document confirms the following technical facts about MCC surveillance 
 - FBI FAVU (Forensic Audio, Video and Image Analysis Unit) was extracting video; C-19 maintaining **24/7 presence** at MCC
 - NiceVision contractor arrived **08/12** (2 days after death) to replace what was described as an "antiquated" system
 
-The fact that the DVR failure on July 29 coincides precisely with the removal of suicide watch (also July 29, per Section 22.2) remains one of the most significant temporal correlations in the entire investigation.
+The DVR failure on July 29 coincides with the removal of suicide watch (also July 29, per Section 22.2) — a temporal correlation that has been widely noted but for which no causal connection has been established in the available documents.
 
 **[EFTA00027104](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027104.pdf): MCC Interviews Update (August 12-13, 2019)**
 
@@ -993,7 +993,7 @@ FBI interviews of MCC staff in the 48-72 hours after Epstein's death revealed:
 - Epstein made a phone call claiming to call his mother but was overheard making **"small talk with male individual"** -- the call was placed on an **unrecorded legal line**, bypassing standard monitoring
 - **2 officers who discovered Epstein's body refused to speak with FBI** -- one answered the phone, then claimed he was not himself, and hung up
 
-This document establishes that the failures were not limited to the two officers (Thomas and Noel) who were ultimately charged. At minimum, 9 staff members were aware of and complicit in the lapse of security protocols on the night of Epstein's death.
+This document establishes that the failures were not limited to the two officers (Thomas and Noel) who were ultimately charged. At minimum, 9 staff members were aware that Epstein had no cellmate and failed to address the lapse in security protocols on the night of his death.
 
 **[EFTA00032148](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032148.pdf): BOP Email (July 30, 2019)**
 
@@ -1042,7 +1042,7 @@ A **5-page** document detailing SDNY's work with the **US Embassy Paris** on Jea
 - A meeting at the Embassy **"went well"** -- substance heavily redacted
 - Context: Brunel was arrested in Paris on **December 16, 2020**; he was found dead in his cell on **February 19, 2022**
 
-Brunel is the second key figure in the Epstein network to die in custody. His death, like Epstein's, occurred under circumstances that remain disputed. The MLAT request confirms SDNY was actively pursuing evidence through French legal channels.
+Brunel is the second key figure in the Epstein network to die in custody before trial. The MLAT request confirms SDNY was actively pursuing evidence through French legal channels.
 
 ### 23.4 Cell-Site Simulator Warrant ([EFTA00018663](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018663.pdf))
 

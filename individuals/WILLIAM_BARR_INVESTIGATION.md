@@ -44,14 +44,14 @@ The Barr allegation contains **two distinct components**:
 
 **Component A -- The NTOC Tip (Abuse Allegation):** A named individual (identity redacted) filed a formal NTOC tip stating that both William Barr and Leon Black "were present during abuses." This is a direct allegation of presence during criminal conduct. The fact that the FBI briefing pairs Barr with Leon Black is significant because Black himself is the subject of separate, more detailed abuse allegations on the same page (Leon Black section), including allegations of forced massage and oral sex, and threats against victims.
 
-**Component B -- The Model Event Encounter:** The same or a related individual stated she was at Epstein's residence for a "model event" and encountered Barr there. Barr allegedly told her he "wanted to see her next time he came." Additionally, at a separate point in time, Epstein asked this individual whether she had "ever met Barr" -- suggesting Epstein was aware of or facilitating contact between Barr and this individual.
+**Component B -- The Model Event Encounter:** The same or a related individual stated she was at Epstein's residence for a "model event" and encountered Barr there. Barr allegedly told her he "wanted to see her next time he came." Additionally, at a separate point in time, Epstein asked this individual whether she had "ever met Barr." The meaning of this exchange is ambiguous — it could indicate anything from social networking to more concerning intent — but it places Barr in Epstein's social orbit per the tipster's account.
 
 ### 1.4 Significance
 
 - The allegation is **internally sourced** -- it appears in the FBI's own briefing materials prepared by agents for case review, not in media reports or public filings.
 - The NTOC tip was filed by a **named individual** (not anonymous), which the FBI distinguishes from the "numerous anonymous NTOC's" noted at the bottom of the page.
 - The "model event" detail is consistent with known Epstein patterns of using modeling events as recruitment opportunities, including through Jean-Luc Brunel's MC2 Model Management (see [EFTA01728258](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01728258.pdf)).
-- The fact that Epstein asked the victim if she had "ever met Barr" suggests Epstein viewed Barr as someone he could connect victims with -- a pattern consistent with his known trafficking methodology.
+- Epstein asking the victim if she had "ever met Barr" places Barr within Epstein's social awareness, though the significance of this exchange is ambiguous.
 
 ### 1.5 Cross-Referencing the NTOC Tip Victim
 
@@ -424,7 +424,7 @@ The Epstein FBI files reveal that William Barr occupied a uniquely conflicted po
 
 Despite these conflicts, Barr chose to recuse only from the narrow retrospective review of the 2008 Florida deal, maintaining full authority over all other Epstein-related matters. Under his oversight, Epstein died in federal custody under circumstances documented in the June 2023 OIG report ([EFTA00039025](https://www.justice.gov/epstein/files/DataSet%209/EFTA00039025.pdf)) as resulting from catastrophic institutional failures including guard record falsification, DVR system failure, cellmate removal, and an unmonitored phone call. No investigative report on Epstein's death was published during Barr's tenure (the OIG report came more than 2.5 years after he left office). The two guards who falsified records had their charges dropped. The NTOC tip naming Barr appears to have generated no documented follow-up investigation. The decision not to recuse SDNY from the death investigation was made at the IG/ODAG level on August 12, 2019, without consulting the Attorney General's office directly ([EFTA00078028](https://www.justice.gov/epstein/files/DataSet%209/EFTA00078028.pdf)).
 
-The Prominent Names briefing's inclusion of the Barr allegation alongside other named individuals (Trump, Weinstein, Clinton, Prince Andrew, Dershowitz, Lutnick, Dubin, Staley, Black, Wexner) demonstrates that the FBI considered the tip credible enough to include in a formal internal summary document. The fact that this allegation existed while Barr exercised authority over the Epstein investigation represents one of the most significant unresolved conflicts of interest in the entire case.
+The Prominent Names briefing included the Barr allegation alongside other named individuals (Trump, Weinstein, Clinton, Prince Andrew, Dershowitz, Lutnick, Dubin, Staley, Black, Wexner). The briefing appears to catalogue all tips received about prominent individuals — including the "numerous anonymous NTOC's" noted at the bottom — rather than making credibility assessments. The allegation's inclusion in a briefing document does not by itself establish its validity. However, the existence of the tip while Barr exercised authority over the Epstein investigation raises conflict-of-interest questions that compound the already-documented conflicts through Dalton and Kirkland & Ellis.
 
 ---
 

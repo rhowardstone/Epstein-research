@@ -50,7 +50,7 @@ Each official's name was searched as an exact quoted phrase in the FTS5 full-tex
 > Epstein described her as 'fun' in email to Kathy Ruemmler (2017). Gates Foundation committee list. Suggests social familiarity, likely through Ruemmler.
 
 **Lisa Monaco** (Former Deputy AG (Biden)) — Strength: WEAK - Epstein seeking information about her, no evidence of direct contact
-> Epstein asked Bannon about her: 'have you come across lisa monaco yet. obama counter terrorism girl?' Shows Epstein tracking government officials.
+> Epstein asked Bannon about her: 'have you come across lisa monaco yet. obama counter terrorism girl?' Shows Epstein asking about government officials in conversations with contacts.
 
 ### Investigation/Prosecution Connections
 
@@ -377,7 +377,7 @@ Sample documents: [EFTA01656921](https://www.justice.gov/epstein/files/DataSet%2
 **Documents:** 1183 | **Category:** INVESTIGATION
 *Previously investigated in dedicated report*
 
-As US Attorney for the Southern District of Florida, Acosta was the architect of the controversial 2007-2008 Non-Prosecution Agreement (NPA) with Epstein. His name appears on the NPA itself, on victim notification letters, on deferred prosecution agreements, and throughout DOJ internal review documents evaluating whether the NPA contradicted criminal enforcement policy. This is the single most significant investigative/prosecutorial connection in the entire corpus.
+As US Attorney for the Southern District of Florida, Acosta was the architect of the controversial 2007-2008 Non-Prosecution Agreement (NPA) with Epstein. His name appears on the NPA itself, on victim notification letters, on deferred prosecution agreements, and throughout DOJ internal review documents evaluating whether the NPA contradicted criminal enforcement policy. Acosta's prosecutorial role in the Epstein case is extensively documented in the corpus.
 
 - **INVESTIGATION**: Signed the Non-Prosecution Agreement (EFTA00233878); authored victim notification letters (EFTA00210202); signed deferred prosecution agreement (EFTA00296592); DOJ internal policy review of his decisions (EFTA00289782); court filings under his authority (EFTA00215719); correspondence with defense counsel (EFTA00213048); letters to FBI agents (EFTA00183087)
 
@@ -451,9 +451,9 @@ Sample documents: [EFTA00056410](https://www.justice.gov/epstein/files/DataSet%2
 **Documents:** 169 | **Category:** MIXED
 *Previously investigated in dedicated report*
 
-Mixed mentions. Direct connections include: (1) Epstein received invitation to Kushner's NY Observer 25th Anniversary party (EFTA00394771), (2) Kushner and Ivanka Trump appear on event seating charts (EFTA02010533), (3) Kushner's family real estate business received $180M loan from a firm whose SEC investigation was dropped (EFTA00010786). Majority of mentions are political news about White House activities, pandemic response, and Trump administration.
+Mixed mentions. Direct connections include: (1) Epstein received invitation to Kushner's NY Observer 25th Anniversary party (EFTA00394771), (2) Kushner and Ivanka Trump appear on event seating charts (EFTA02010533), (3) Kushner's family real estate business is referenced in a document alongside an SEC investigation context (EFTA00010786) — the nature of any connection requires further verification. Majority of mentions are political news about White House activities, pandemic response, and Trump administration.
 
-- **DIRECT**: NY Observer 25th Anniversary invitation sent to Epstein (EFTA00394771) - Kushner as publisher invited Epstein; event seating lists with Kushner/Ivanka (EFTA02010533); $180M loan from firm after SEC dropped investigation (EFTA00010786); Milken pardon support (EFTA00983180)
+- **DIRECT**: NY Observer 25th Anniversary invitation sent to Epstein (EFTA00394771) - Kushner as publisher invited Epstein; event seating lists with Kushner/Ivanka (EFTA02010533); referenced alongside SEC investigation context (EFTA00010786); Milken pardon support (EFTA00983180)
 - **NEWS**: White House pandemic response (EFTA01658289, EFTA01658385); Turkey relations (EFTA01658942); White House activities (EFTA00316512)
 - **POLITICAL**: DFC/SEC conspiracy theory posts (EFTA00072134, EFTA00071966, EFTA00083075, EFTA00071284) - repetitive posts about DFC being run by 'Kushner's college roommate'
 
@@ -562,15 +562,15 @@ Sample documents: [EFTA01901849](https://www.justice.gov/epstein/files/DataSet%2
 **Role:** Former Deputy AG
 **Documents:** 54 | **Category:** MIXED
 
-KEY FINDING: Epstein mentions Lisa Monaco by name in a 2018 email to Steve Bannon, asking 'have you come across lisa monaco yet. obama counter terrorism girl?' (EFTA00877050, EFTA02522146). This suggests Epstein was actively interested in Monaco and sought intelligence about her through Bannon. Other mentions are news about her as Deputy AG overseeing ransomware task force, crime reduction, and cybersecurity policy. She also appears in Obama's tight inner circle during Iran negotiations (EFTA01950584).
+KEY FINDING: Epstein mentions Lisa Monaco by name in a 2018 email to Steve Bannon, asking 'have you come across lisa monaco yet. obama counter terrorism girl?' (EFTA00877050, EFTA02522146). This shows Epstein asked Bannon about Monaco, indicating interest in government officials in his social network. Other mentions are news about her as Deputy AG overseeing ransomware task force, crime reduction, and cybersecurity policy. She also appears in Obama's tight inner circle during Iran negotiations (EFTA01950584).
 
-- **DIRECT**: Epstein asked Bannon about Monaco in email: 'have you come across lisa monaco yet. obama counter terrorism girl?' (EFTA00877050, EFTA02522146) - shows Epstein actively tracking/interested in her
+- **DIRECT**: Epstein asked Bannon about Monaco in email: 'have you come across lisa monaco yet. obama counter terrorism girl?' (EFTA00877050, EFTA02522146) - shows Epstein asking about her
 - **NEWS**: Deputy AG ransomware/cybersecurity policy (EFTA01659188, EFTA00149800, EFTA00135911); crime reduction (EFTA00160235); DOJ No. 2 profile (EFTA00135867)
 - **POLITICAL**: Obama inner circle during Iran negotiations with Sullivan (EFTA01950584)
 
 Sample documents: [EFTA00877050](https://www.justice.gov/epstein/files/DataSet%209/EFTA00877050.pdf), [EFTA02522146](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02522146.pdf), [EFTA01950584](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01950584.pdf), [EFTA01659188](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01659188.pdf)
 
-*Note: The Epstein-Bannon email asking about Monaco is notable - it shows Epstein was actively gathering intelligence about government officials through his contacts, even after his 2008 conviction.*
+*Note: The Epstein-Bannon email asking about Monaco is notable - it shows Epstein asking about government officials in his conversations with contacts, even after his 2008 conviction.*
 
 ### Mike Pompeo
 **Role:** Former Sec. State/CIA

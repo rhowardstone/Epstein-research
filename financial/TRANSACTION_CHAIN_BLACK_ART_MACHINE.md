@@ -12,7 +12,7 @@
 
 ---
 
-## EXECUTIVE SUMMARY: THE ART MACHINE AS MONEY LAUNDERING INFRASTRUCTURE
+## EXECUTIVE SUMMARY: THE ART ADVISORY INFRASTRUCTURE AND ITS FINANCIAL OVERLAP
 
 Between 2012 and 2017, Leon Black paid Jeffrey Epstein $158 million in "advisory fees" through the same entity infrastructure -- Southern Trust Company, Inc. -- that simultaneously:
 
@@ -21,7 +21,7 @@ Between 2012 and 2017, Leon Black paid Jeffrey Epstein $158 million in "advisory
 3. Operated through Deutsche Bank accounts managed by the SAME relationship officers (Jj Litchford/Paul Morris) who managed Leon Black's personal accounts
 4. Passed funds through to trafficking-adjacent entities (Haze Trust, Southern Financial LLC, Plan D LLC)
 
-The prosecutorial theory is not that Black "knowingly funded trafficking." The theory is that Black's money was INSEPARABLE from the trafficking money because it flowed through identical accounts, was managed by the same people, and funded the same entity structures that simultaneously enabled Epstein's criminal enterprise. Black's art advisory relationship gave Epstein the financial infrastructure -- the entity structures, the banking relationships, the cash flows -- that made the trafficking machine possible.
+The prosecutorial theory is not that Black "knowingly funded trafficking." The theory is that Black's money was forensically indistinguishable from other funds in these accounts because it flowed through identical accounts, was managed by the same people, and funded the same entity structures that the government alleges simultaneously enabled Epstein's criminal enterprise. Under this theory, Black's art advisory relationship provided Epstein with the financial infrastructure — the entity structures, the banking relationships, the cash flows — that sustained the broader operation.
 
 ---
 
@@ -85,7 +85,7 @@ The prosecutorial theory is not that Black "knowingly funded trafficking." The t
 **DESTINATION:** Southern Trust Company, Inc. (Epstein entity), Plan D LLC (Epstein entity), Gratitude America Ltd. (Epstein-affiliated charity)
 
 **PROSECUTORIAL SIGNIFICANCE:**
-The payment channel used FIVE different source entities to obscure the true flow:
+The payment channel used five different source entities:
 1. "Leon and Debra Black" (personal)
 2. "Black Family Partners, LP c/o Apollo Management" (family partnership)
 3. "Leon and Debra Black c/o Apollo Management" (hybrid personal/corporate)
@@ -222,7 +222,7 @@ The auction proceeds were immediately swept into the DBAGNY account, which then 
 **TOTAL HAZE TRUST -> SOUTHERN FINANCIAL/SOUTHERN TRUST OUTFLOWS (2018-2019): $91,583,261**
 
 **PROSECUTORIAL SIGNIFICANCE:**
-The Haze Trust was a MIXING VESSEL. Art auction proceeds from Sotheby's and Christie's ($30.5M) were deposited into the same accounts that then distributed $91.6M to Southern Financial LLC and Southern Trust Company -- the same entities that received Black's $158M+ in "advisory fees." The art proceeds and Black's money were commingled in these accounts, making them forensically indistinguishable. Southern Financial LLC simultaneously:
+The Haze Trust functioned as a commingling point. Art auction proceeds from Sotheby's and Christie's ($30.5M) were deposited into the same accounts that then distributed $91.6M to Southern Financial LLC and Southern Trust Company — the same entities that received Black's $158M+ in "advisory fees." The art proceeds and Black's money were commingled in these accounts, making them forensically indistinguishable. Southern Financial LLC simultaneously:
 - Held Epstein's 263,257 shares of Apollo stock ([EFTA02730996](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02730996.pdf), p.22)
 - Made payments to Coatue Enterprises LLC ($2M), Joichi Ito ($1M+), Boothbay funds ($38.25M)
 - Funded Honeycomb Partners LP (related to Epstein victim infrastructure)
@@ -261,7 +261,7 @@ The Haze Trust was a MIXING VESSEL. Art auction proceeds from Sotheby's and Chri
 - Christopher Allen Kroblin served as estate co-executor counsel ([EFTA00018905](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018905.pdf))
 
 **PROSECUTORIAL SIGNIFICANCE:**
-The $23M wire to Kellerhals is documented in the DB-SDNY transaction record as originating from Epstein's accounts at the SAME Deutsche Bank relationship managed by the same bankers who processed Black's money. The wire occurred on 11/13/2015 -- one month after Black wired $10M (via Black Family Partners) and $5M (via Leon and Debra Black c/o Apollo) on 10/13/2015. The timing suggests Black's October 2015 payments partially funded the November $23M wire.
+The $23M wire to Kellerhals is documented in the DB-SDNY transaction record as originating from Epstein's accounts at the SAME Deutsche Bank relationship managed by the same bankers who processed Black's money. The wire occurred on 11/13/2015 -- one month after Black wired $10M (via Black Family Partners) and $5M (via Leon and Debra Black c/o Apollo) on 10/13/2015. The temporal proximity means Black's October 2015 payments and the November $23M wire both drew from the same Deutsche Bank account infrastructure, though a direct causal link between the two is not established.
 
 Kellerhals managed Epstein's USVI real property -- including Great St. James Island, the second island purchased for $5M in January 2016 ([EFTA00014367](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014367.pdf)). Great St. James was central to Epstein's trafficking infrastructure. This wire may relate to art storage, island development, or both.
 
@@ -323,7 +323,7 @@ DS9 contains the complete underlying entity agreements and art partnership docum
 ---
 
 ## CHAIN 6: THE DEUTSCHE BANK ACCOUNT INFRASTRUCTURE -- SHARED OFFICERS
-### Same Bankers Managing Black's Money and Epstein's Trafficking Accounts
+### Same Bankers Managing Black's Money and Epstein's Entity Accounts
 
 **SOURCE:** Deutsche Bank Internal Records
 **EFTA:** [EFTA01359500](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01359500.pdf) (Account Officer Roster)
@@ -442,7 +442,7 @@ Dechert's own report -- commissioned by Apollo's Conflicts Committee to DEFEND B
 - Rothko-to-Picasso exchange ($46M->$48M)
 - Cezanne watercolors + Picasso ($139M combined)
 
-The advisory fees were not merely for "tax advice" -- they were the PRICE OF ADMISSION to Epstein's full-service financial infrastructure, which included art brokerage, entity structuring, banking relationships, and tax optimization. The art function was inseparable from the money-laundering function because they used the same entities, the same accounts, and the same people.
+The advisory fees were not merely for "tax advice" -- they were the PRICE OF ADMISSION to Epstein's full-service financial infrastructure, which included art brokerage, entity structuring, banking relationships, and tax optimization. The art function was structurally intertwined with the broader financial operation because they used the same entities, the same accounts, and the same people.
 
 **DS9 PRIMARY SOURCE DOCUMENTS (Revisit, 2026-02-12):**
 
@@ -499,10 +499,11 @@ The Committee documented ([EFTA02731023](https://www.justice.gov/epstein/files/D
 - Committee characterized payments as potentially constituting "taxable gifts" rather than service compensation
 
 **PROSECUTORIAL SIGNIFICANCE:**
-Black's refusal to answer the Senate Finance Committee's art-related questions is devastating for any defense narrative. If the art advisory relationship was legitimate and above-board, there would be no reason to refuse answering questions about which artworks were involved, what like-kind exchanges were executed, and what art sales Epstein brokered. The refusal suggests that detailed answers would reveal:
-1. The art transactions were not bona fide advisory services but rather a mechanism for transferring wealth to Epstein
-2. Like-kind exchanges may have been structured to benefit Epstein at Black's expense (or both at the IRS's expense)
-3. Art sales may have generated proceeds that flowed into Epstein entities used for trafficking infrastructure
+Black's refusal to answer the Senate Finance Committee's art-related questions is notable. The Committee documented persistent non-cooperation across multiple rounds of inquiry. There may be legitimate legal reasons for declining to answer congressional questions (legal privilege, Fifth Amendment concerns, strategic considerations), but the refusal leaves the art advisory relationship's specifics undocumented from Black's side. A prosecutor could argue that Black's refusal to disclose:
+1. Which artworks Epstein brokered
+2. What like-kind exchanges were executed
+3. What art sales Epstein managed
+is consistent with concern that detailed answers would reveal the full scope of financial intertwining between the art advisory function and Epstein's broader entity infrastructure.
 
 ---
 
@@ -535,14 +536,14 @@ From the Haze Trust, money flowed to entities that were SIMULTANEOUSLY involved 
 - Sotheby's -> Haze Trust Checking: $22,785,961 (2017 combined)
 - Haze Trust DBAGNY -> Plan D LLC: $15,000,000 (3/27/2017) -- "art transaction" entity
 
-**Trafficking Infrastructure:**
+**Downstream Investments (same entity infrastructure):**
 - Haze Trust DBAGNY -> Southern Financial LLC: $49,500,000 (2018-2019)
-- Southern Financial LLC -> Coatue Enterprises LLC: $2,000,000 (potential layering)
+- Southern Financial LLC -> Coatue Enterprises LLC: $2,000,000
 - Southern Trust Company -> Honeycomb Partners LP: $53,000,000 (investment vehicle)
 - Southern Trust Company -> Valar Globaal Fund III LP: $22,500,000 (Peter Thiel fund)
 
 **Victim Payment Infrastructure (same RM CODE 82289 accounts):**
-Per [EFTA01381149](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01381149.pdf): BUTTERFLY TRUST balance $323,679.36 -- Butterfly Trust beneficiaries included Ghislaine Maxwell AND Karyna Shuliak ([EFTA01282297](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01282297.pdf))
+Per [EFTA01381149](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01381149.pdf): BUTTERFLY TRUST balance $323,679.36 -- Butterfly Trust beneficiaries were Shuliak and Indyke (as of late 2014; Maxwell had been a beneficiary but was removed in the same instrument that added Shuliak, per [EFTA01282297](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01282297.pdf))
 Per [EFTA01381149](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01381149.pdf): GRATITUDE AMERICA, LTD balance $2,075,025.07 -- funded by BV70 LLC (Black entity)
 Per [EFTA01381149](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01381149.pdf): ZORRO MANAGEMENT, LLC balance $424,475.56 -- managed Zorro Ranch in New Mexico
 
@@ -552,7 +553,7 @@ The Haze Trust is the CONVERGENCE POINT where art money and trafficking money be
 - Southern Financial (Apollo stock holdings, hedge fund investments, Ito payments)
 - Southern Trust (which received $168M from Black)
 
-The Butterfly Trust -- which funded Ghislaine Maxwell -- was under the SAME RM CODE (82289) and managed by the SAME Deutsche Bank officers (Litchford/Morris). Every dollar in this ecosystem was fungible. Black's art advisory fees funded the same pool that funded Maxwell's trust.
+The Butterfly Trust was under the SAME RM CODE (82289) and managed by the SAME Deutsche Bank officers (Litchford/Morris). Every dollar in this ecosystem was fungible. Maxwell was a Butterfly Trust beneficiary until late 2014 when she was removed and replaced by Shuliak and Indyke ([EFTA01282297](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01282297.pdf)).
 
 ---
 
@@ -616,13 +617,13 @@ Per [EFTA02731660](https://www.justice.gov/epstein/files/DataSet%2012/EFTA027316
 The SAME infrastructure that processed Black's art advisory fees was the infrastructure that enabled his access to trafficking victims. The flow was:
 1. Black pays $158M+ to Southern Trust Company
 2. Southern Trust operates under RM CODE 82289 at Deutsche Bank
-3. Same RM CODE includes Butterfly Trust (Maxwell's trust), Zorro Management (NM ranch), and all Epstein operating entities
+3. Same RM CODE includes Butterfly Trust (Epstein's trust; Maxwell was a beneficiary until late 2014), Zorro Management (NM ranch), and all Epstein operating entities
 4. Same Deutsche Bank officers (Litchford/Morris) see all money flowing in both directions
 5. Victims are driven to "Leon Black's house" by Epstein staff
 6. Victims describe being paid ("LB left her money on the table") through Epstein's cash infrastructure
 7. Black settles with USVI for $62.5M -- without admission of wrongdoing
 
-The art machine did not merely share infrastructure with the trafficking machine. The art machine WAS the trafficking machine. The entity structures created to manage Black's art collection, execute like-kind exchanges, and process advisory fees were the SAME structures that funded victim payments, maintained trafficking properties, and enabled the "lending out" of victims to high-value clients like Black.
+Under this theory, the entity structures created to manage Black's art collection, execute like-kind exchanges, and process advisory fees were the same structures that funded victim payments, maintained properties where trafficking allegedly occurred, and enabled what victims describe as the "lending out" of victims to clients including Black. The art advisory function and the alleged criminal activity shared infrastructure to a degree that would make them forensically inseparable.
 
 ---
 
@@ -684,7 +685,7 @@ TOTAL:      $38,250,000
 ```
 
 **PROSECUTORIAL SIGNIFICANCE:**
-After receiving $168M from Black, Southern Trust Company distributed $53M to Honeycomb Partners and $28.8M to Valar (Peter Thiel's fund). Southern Financial distributed $38.25M to Boothbay funds. These investments totaling $120M were made with COMMINGLED funds -- Black's advisory fees mixed with art auction proceeds, Rothschild payments, and other Epstein income streams. The investments created a veneer of legitimate financial activity around what was, at its core, a money laundering operation that simultaneously funded trafficking infrastructure.
+After receiving $168M from Black, Southern Trust Company distributed $53M to Honeycomb Partners and $28.8M to Valar (Peter Thiel's fund). Southern Financial distributed $38.25M to Boothbay funds. These investments totaling $120M were made with commingled funds -- Black's advisory fees mixed with art auction proceeds, Rothschild payments, and other Epstein income streams. The investments were made through the same entity infrastructure that received funds from multiple sources, making it forensically difficult to trace any individual client's money to specific downstream uses. Whether this commingling constituted financial layering in violation of law has not been adjudicated.
 
 ---
 
@@ -752,7 +753,7 @@ TOTAL:      $72,855,320
 The Miami Herald "Perversion of Justice" series began November 28, 2018. Money CONTINUED flowing through these accounts even as the world learned about Epstein's crimes.
 
 **PROSECUTORIAL SIGNIFICANCE:**
-Deutsche Bank KNEW its KYC controls on Epstein accounts had failed. Internal emails document this explicitly: "kyc is not happening" ([EFTA01362456](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01362456.pdf)). Yet $189M continued flowing through these accounts post-breach. The art auction proceeds from 2017 ($30.5M) that had been swept into the Haze Trust were now being distributed through the same failed-compliance pipeline. Deutsche Bank's failure to shut down these accounts after the KYC breach made it complicit in the continued operation of Epstein's financial infrastructure.
+Deutsche Bank KNEW its KYC controls on Epstein accounts had failed. Internal emails document this explicitly: "kyc is not happening" ([EFTA01362456](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01362456.pdf)). Yet $189M continued flowing through these accounts post-breach. The art auction proceeds from 2017 ($30.5M) that had been swept into the Haze Trust were now being distributed through the same failed-compliance pipeline. Deutsche Bank's failure to shut down these accounts after the KYC breach allowed Epstein's financial infrastructure to continue operating. (Deutsche Bank was fined $150M by NY DFS in 2020 for compliance failures related to Epstein accounts.)
 
 ---
 
@@ -790,13 +791,13 @@ Despite:
 - Medical records corroborating sexual assault ([EFTA02731662](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731662.pdf): "2011 record notes she has [injuries] from sexual assault")
 - Multiple FBI 302 interviews documenting the conduct
 - DANY's independent investigation reaching the same conclusions
-- $62.5M settlement with USVI (acknowledging something occurred)
+- $62.5M settlement with USVI (without admission of wrongdoing)
 - Senate Finance Committee documenting $158M in suspicious payments
 
 **PROSECUTORIAL SIGNIFICANCE:**
-The failure to prosecute Black for trafficking-related charges is the culmination of the art machine's success. By structuring his relationship with Epstein through layers of legitimate-appearing advisory services (art management, tax planning, estate planning), Black created plausible deniability for payments that funded the trafficking infrastructure. The $158M could always be characterized as "advisory fees" because Epstein genuinely did provide tax and art advice -- even as the same infrastructure enabled sexual violence against trafficking victims.
+No criminal charges were filed against Black despite the documented victim accounts and financial evidence. Under the prosecutorial theory, the legitimate art advisory relationship provided a framework in which the $158M in payments could be characterized as "advisory fees" — a characterization supported by the fact that Epstein did provide documented tax and art advisory services, even as the same entity infrastructure was allegedly used to facilitate the conduct described by victims.
 
-Brad Edwards -- the attorney who represented dozens of Epstein's victims -- being retained BY Leon Black in October 2024 represents the final inversion: the victims' champion becomes the perpetrator's defender.
+Brad Edwards -- the attorney who represented dozens of Epstein's victims -- was retained by Leon Black in October 2024. Black has not been charged with any crime.
 
 ---
 
@@ -902,11 +903,11 @@ Per [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA0002701
 
 ---
 
-## APPENDIX E: THE PROSECUTORIAL THEORY -- WHY THE ART MACHINE IS THE TRAFFICKING MACHINE
+## APPENDIX E: THE PROSECUTORIAL THEORY -- STRUCTURAL OVERLAP BETWEEN ART ADVISORY AND ALLEGED CRIMINAL INFRASTRUCTURE
 
 ### Structural Identity
 
-The art machine and the trafficking machine were not merely "connected." They were STRUCTURALLY IDENTICAL:
+Under this prosecutorial theory, the art advisory operation and the alleged criminal infrastructure were not merely "connected" — they shared the same structural components:
 
 1. **Same entities:** Southern Trust Company received both Black's art advisory fees and served as Epstein's primary operating account for all purposes
 2. **Same bank accounts:** RM CODE 82289 at Deutsche Bank encompassed ALL Epstein entities -- from art-related Haze Trust to trafficking-related Butterfly Trust
@@ -932,7 +933,7 @@ These inflows funded:
 - Legal defense and victim settlement infrastructure
 - Investment portfolio providing ongoing returns
 
-Without the art advisory income from Black and the art auction proceeds flowing through the Haze Trust, the financial model COLLAPSES. The art machine provided approximately 50% of documented inflows during its peak years.
+The art advisory income from Black and the art auction proceeds flowing through the Haze Trust constituted approximately 50% of documented inflows during peak years. This prosecutorial theory holds that these inflows were a necessary component of the financial model's viability.
 
 ### What a Prosecution Would Need
 
@@ -943,7 +944,7 @@ To prove the art machine funded trafficking, a prosecution would need to establi
 3. **Benefit:** Black received benefits from the trafficking (access to victims) through the same infrastructure that processed his art advisory payments -- ESTABLISHED through 4+ victim testimonies
 4. **Continuity:** The payments continued even after warning signs -- ESTABLISHED through the fee dispute (2016-2018) that STILL resulted in an $8M payment in April 2017
 
-The art collection -- worth over $1 billion per Senate Finance Committee confirmation -- was not merely a legitimate business activity that happened to intersect with trafficking. It was the ECONOMIC ENGINE that made the trafficking machine financially viable. Every Munch, every Picasso, every Giacometti purchased through Epstein's entity infrastructure was another brick in the wall of the financial fortress that protected Epstein's criminal enterprise.
+Under this theory, the art collection — worth over $1 billion per Senate Finance Committee confirmation — was not merely a legitimate business activity that happened to intersect with alleged criminal conduct. The prosecutorial argument is that every major art transaction executed through Epstein's entity infrastructure contributed to the financial viability of the operation as a whole. Whether Black knew or should have known that his advisory fees funded criminal activity has not been adjudicated; no criminal charges have been filed against him.
 
 ---
 

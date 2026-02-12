@@ -13,10 +13,10 @@ This investigation systematically searched 218GB of DOJ documents across four da
 1. **Ehud Barak** (former Israeli PM and Defense Minister) maintained an apartment in Epstein's building at 301 E. 66th St -- the same building where MC2 models were housed and the FBI conducted a DAS search generating 2,000+ records
 2. **Epstein toured Israeli military bases** during Passover 2008, while facing criminal charges, with "Friends of Israel" chairman Benny Shabtai
 3. **IDF clothing** (sweatshirt, T-shirt with Hebrew text, white military dress uniform with medals) was found on Little Saint James island
-4. **Alexander Acosta** was asked at a press conference whether Epstein was "an intelligence asset" -- his non-denial was later walked back under oath
+4. **Alexander Acosta** was asked at a press conference whether Epstein was "an intelligence asset" — in his OPR interview he explicitly denied it ("the answer is no, and no") but referenced classified information in the same exchange ([EFTA00009116](https://www.justice.gov/epstein/files/DataSet%207/EFTA00009116.pdf), pages 404-405)
 5. **Victim testimony** explicitly states Epstein required victims to describe sexual encounters with powerful men "so that he could potentially blackmail them"
 6. **Wexner's attorney proffer** reveals Epstein stole "several hundred million dollars" and held power of attorney -- the financial genesis of Epstein's empire came from a co-founder of the Mega Group
-7. **ZERO results** for Carbyne, Mega Group, Shin Bet, Aman, Unit 8200, or LAKAM in any database
+7. ~~**ZERO results** for Carbyne, Mega Group, Shin Bet, Aman, Unit 8200, or LAKAM~~ **OVERTURNED** — Full corpus: Carbyne 50, Reporty 324, Unit 8200 11, Shin Bet 23, Mega Group 4 docs. Only Ben-Menashe, Aman, and LAKAM remain at zero. See V2 report and Part X corrections below.
 
 > **[REVISIT UPDATE — Full Corpus Expansion]** Searching the complete 1.38M-document corpus (all 12 datasets) substantially expands several findings above. 301 E 66th Street now appears in **1,439 documents** (up from 4 in DS8 alone). **Ossa Properties LLC**, the corporate entity controlling 301 E 66th, appears in **784 documents** and was not mentioned in V1. **Paula Heil Fisher** (163 documents), absent from V1, bridges Epstein's personal life to the Israeli tech ecosystem through direct contact with Yehuda Zisapel. Blackmail references expand from 12 to **355 documents**. Additionally, an FBI CHS FD-1023 ([EFTA00090314](https://www.justice.gov/epstein/files/DataSet%209/EFTA00090314.pdf)) states Epstein "belonged to both U.S. and allied intelligence services" — discovered in the V2 revisit (Report #52). The V1 ZERO findings for Carbyne, Reporty, Mega Group, Unit 8200, and Shin Bet are all overturned by the V2 full-corpus search (see Part X corrections). Only Ben-Menashe and LAKAM remain at zero across the full corpus. A comprehensive V2 report exists at `ISRAEL_DEEP_DIVE_V2.md`.
 
@@ -214,7 +214,7 @@ She links to the profile of **Yehuda Zisapel**, Chairman of RAD Group -- one of 
 
 # PART IV: THE "INTELLIGENCE ASSET" QUESTION
 
-## A. Acosta's Non-Denial Under Oath ([EFTA00009116](https://www.justice.gov/epstein/files/DataSet%207/EFTA00009116.pdf))
+## A. Acosta's OPR Interview on Intelligence Asset Question ([EFTA00009116](https://www.justice.gov/epstein/files/DataSet%207/EFTA00009116.pdf))
 
 The Acosta deposition (pp. 404-405) contains the most direct examination of the intelligence question in the FBI files:
 
@@ -230,11 +230,11 @@ The Acosta deposition (pp. 404-405) contains the most direct examination of the 
 >
 > A: "There are also media reports that this was because of cooperation in some financial matters. I don't know where that may have come from."
 
-**Analysis:** Acosta's denial is qualified in several notable ways:
-- He says he is "not aware" rather than definitively denying it
-- He acknowledges he cannot discuss classified information
+**Analysis:** Acosta explicitly denied the intelligence asset claim — twice saying "the answer is no, and no." However, the exchange contains noteworthy elements:
+- He initially says he is "not aware" and "not to my recollection" before giving a definitive denial
+- He references classified information he cannot publicly discuss, though he then explicitly denies both claims
 - He specifically addresses two separate theories: (1) intelligence asset, (2) financial cooperation
-- He denies both but frames his denial carefully around what he was "made aware of" and his "recollection"
+- He denies both, and the full exchange — when read in its entirety — is an explicit denial, not a "non-denial"
 
 ## B. FOIA Exemption for Foreign Government Relations ([EFTA00015219](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015219.pdf))
 

@@ -134,7 +134,7 @@ Chin (now 2nd Circuit, 7 documents) presided over a 1996 civil case: *USA v. Eps
 
 | Official | Role | Docs | Context |
 |----------|------|------|---------|
-| **Alan Dershowitz** | Epstein defense attorney; Harvard Law | 1,360 | DIRECT — negotiated NPA including his own immunity clause; accused of sexual abuse by victims |
+| **Alan Dershowitz** | Epstein defense attorney; Harvard Law | 1,360 | DIRECT — negotiated NPA whose co-conspirator immunity clause later shielded him; accused of sexual abuse by victims |
 | **Audrey Strauss** | Acting U.S. Attorney, SDNY | 606 | INVESTIGATION — charged Maxwell; name on hundreds of filings |
 | **Barry Krischer** | Palm Beach County State Attorney | 214 | INVESTIGATION — original prosecutor accused of leniency; Police Chief Reiter feuded with him publicly |
 | **Geoffrey Berman** | U.S. Attorney, SDNY | 208 | INVESTIGATION — brought 2019 charges; visited MCC after death; later fired by AG Barr |
@@ -147,10 +147,10 @@ Chin (now 2nd Circuit, 7 documents) presided over a 1996 civil case: *USA v. Eps
 Alan Dershowitz holds a unique position as both Epstein's defense attorney AND an accused individual. His 1,360 documents include:
 - **Defense work**: Negotiated the 2007 NPA that included an unprecedented clause granting immunity to "potential co-conspirators" — which he himself was named as in victim testimony
 - **Accusations**: Named by Virginia Giuffre as having sexually abused her on Epstein's island; Dershowitz has vigorously denied all allegations
-- **Self-immunity**: The NPA language shielding Dershowitz was crafted while Dershowitz was part of the defense team — a conflict of interest that drew sharp criticism from the court
+- **Dual role**: Dershowitz was part of the defense team that negotiated the NPA, which included a co-conspirator immunity clause from which he personally benefited when later accused — a potential conflict of interest noted in subsequent litigation
 
 ### Krischer: The Prosecution That Wasn't
-Barry Krischer drew the most criticism of any legal official in the corpus. Police Chief Michael Reiter was *"so angry with State Attorney Barry Krischer's handling of the case that he wrote a memo suggesting he disqualify himself."* One document states: *"Unfortunately, the local prosecutor in this case was... named Barry Krischer. When Krischer found out the target was Epstein, a big Democratic donor, he refused to prosecute."* The grand jury under Krischer returned only a single count of solicitation of prostitution, despite police presenting evidence of dozens of underage victims.
+Barry Krischer drew extensive criticism in the corpus. Police Chief Michael Reiter was *"so angry with State Attorney Barry Krischer's handling of the case that he wrote a memo suggesting he disqualify himself."* One document states: *"Unfortunately, the local prosecutor in this case was... named Barry Krischer. When Krischer found out the target was Epstein, a big Democratic donor, he refused to prosecute."* The grand jury under Krischer returned only a single count of solicitation of prostitution, despite police presenting evidence of dozens of underage victims.
 
 ---
 

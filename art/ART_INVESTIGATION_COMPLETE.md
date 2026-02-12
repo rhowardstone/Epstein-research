@@ -82,7 +82,7 @@
 55. [Alberto Pinto — Interior Designer](#55-alberto-pinto)
 
 ### PART VI: INSTITUTIONAL CONNECTIONS
-56. [New York Academy of Art — Grooming Pipeline](#56-nyaa)
+56. [New York Academy of Art — Recruitment Pattern](#56-nyaa)
 57. [Museum of Modern Art (MoMA)](#57-moma)
 58. [SFMOMA — Epstein Donation and Deaccession](#58-sfmoma-institution)
 59. [Metropolitan Museum of Art](#59-met)
@@ -753,7 +753,7 @@ A chain of 4-5 emails about shipping a framed painting from Paris. The valuation
 - October 2016: Serrano emailed Epstein about Trump's "grab them by the pussy" comment
 - **Source:** [Artnet](https://news.artnet.com/art-world/epstein-files-andres-serrano-2713719)
 
-**Full corpus expansion (353 documents):** The full text corpus reveals Serrano was far more deeply embedded in the Epstein-Black network than the original web-source analysis indicated:
+**Full corpus expansion (353 documents):** The full text corpus reveals Serrano had far more extensive contacts within the Epstein-Black network than the original web-source analysis indicated:
 - [EFTA00284996](https://www.justice.gov/epstein/files/DataSet%209/EFTA00284996.pdf): Calendar shows "12:30pm Appt w/Andres Serrano" followed by "1:00pm LUNCH w/Leon Black" -- same-day scheduling
 - [EFTA00285541](https://www.justice.gov/epstein/files/DataSet%209/EFTA00285541.pdf): "Reminder: Portrait by Andres Serrano this Month!" (July 2018)
 - [EFTA00305095](https://www.justice.gov/epstein/files/DataSet%209/EFTA00305095.pdf): "6:00 Appt w/Andres Serrano" (July 2018)
@@ -1192,7 +1192,7 @@ February 2017: "going to artist studios [is] much more appropriate" — suggesti
 
 > "Over the course of the next several months, Epstein and Maxwell attempted to **groom and mentor 13-year-old Jane Doe**."
 
-### NYAA Pipeline
+### NYAA Recruitment Pattern
 Eileen Guggenheim served as intermediary connecting young female art students to Epstein. Maria Farmer case demonstrates the pattern: art show → painting sale → studio space → isolation → assault.
 
 ---
@@ -1207,7 +1207,7 @@ Art displayed prominently in rooms where abuse occurred:
 
 ---
 
-## 66. Money Laundering
+## 66. Money Laundering Investigation
 
 - 2007: Federal prosecutors opened financial-crimes investigation including potential money laundering charges
 - A prosecutor wrote Epstein should be charged with money laundering and operating an unlicensed money transmitting business

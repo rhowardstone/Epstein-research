@@ -14,13 +14,13 @@
 
 ## PAGE 1: FIVE KEY FINDINGS
 
-### 1. Leon Black: The Biggest Undiscovered Story (816 Connections)
+### 1. Leon Black: Most-Documented Associate (816 Connections)
 
-Leon Black, founder of Apollo Global Management, has the single highest connection weight to Jeffrey Epstein in the entire database -- 816, more than double the next person. Over 100 documents in the highest-sensitivity EFTA range concern a federal investigation into Black. Recovered text messages from a victim read: "Leon. You sexually harassed me, sex trafficked me, raped me, and eventually blacklisted me. I don't know for how much longer it will take me, on my own, to process the pain you caused to me and my family." The Manhattan DA explicitly stated in recovered documents that "DANY do not doubt her allegations against JE and LB." Federal prosecutors classified Black as an "HT Subject Referral" -- Human Trafficking subject. Despite this, Black has never been charged and remains one of the most powerful figures in American finance.
+Leon Black, founder of Apollo Global Management, has the single highest connection weight to Jeffrey Epstein in the entire database -- 816, more than double the next person. Over 100 documents in the highest-sensitivity EFTA range concern a federal investigation into Black. Recovered text messages from a victim read: "Leon. You sexually harassed me, sex trafficked me, raped me, and eventually blacklisted me. I don't know for how much longer it will take me, on my own, to process the pain you caused to me and my family." The Manhattan DA stated in recovered documents that "DANY do not doubt her allegations against JE and LB" — though the same memo notes "They have not found any independent corroboration" ([EFTA02731737](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731737.pdf)). Federal prosecutors classified Black as an "HT Subject Referral" — Human Trafficking subject. No charges have been filed.
 
 ### 2. The Camera Contradiction: MCC Surveillance System Failure
 
-The files contain a direct contradiction about surveillance at the Metropolitan Correctional Center. On one hand, prosecutors stated cameras captured relevant footage. On the other hand, internal MCC documentation shows: (a) approximately 150 cameras total, (b) DVR2 suffered a "system failure" on July 29, 2019, meaning it "was not recording," and (c) two hard drives in DVR2 failed on August 8, 2019 -- two days before Epstein's death on August 10. The documents further show that inmate head count was not conducted 5 times during the relevant period, and that CO Michael Thomas was the officer working. These failures have never been adequately explained to Congress.
+The files contain a direct contradiction about surveillance at the Metropolitan Correctional Center. On one hand, prosecutors stated cameras captured relevant footage. On the other hand, internal MCC documentation shows: (a) approximately 150 cameras total, (b) DVR2 suffered a "system failure" on July 29, 2019, meaning it "was not recording," and (c) two hard drives in DVR2 failed on August 8, 2019 -- two days before Epstein's death on August 10. The documents further show that inmate head count was not conducted 5 times during the relevant period, and that CO Michael Thomas was the officer working. These failures have not been fully explained to Congress.
 
 ### 3. The 2005 Computer That Was Never Searched
 
@@ -66,7 +66,7 @@ Financial records extracted from banking document text layers and the full foren
 
 ### The Single Most Important Sealed Document
 
-**The Leon Black Human Trafficking Investigation File.** Documents [EFTA02731473](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731473.pdf) through [EFTA02731783](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731783.pdf) contain approximately 50+ documents detailing what appears to be a complete federal investigation into Leon Black for human trafficking in connection with Jeffrey Epstein. The Manhattan DA stated they "do not doubt" the allegations. A victim's recovered text message directly accuses Black of sex trafficking, rape, and forced NDA signing. This investigation appears to have been closed without charges. The complete file should be unsealed and reviewed by the Judiciary Committee.
+**The Leon Black Human Trafficking Investigation File.** Documents [EFTA02731473](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731473.pdf) through [EFTA02731783](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731783.pdf) contain approximately 50+ documents detailing what appears to be a complete federal investigation into Leon Black for human trafficking in connection with Jeffrey Epstein. The Manhattan DA stated they "do not doubt" the allegations, while also noting a lack of independent corroboration ([EFTA02731737](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731737.pdf)). A victim's recovered text message directly accuses Black of sex trafficking, rape, and forced NDA signing. This investigation appears to have been closed without charges. The complete file should be unsealed and reviewed by the Judiciary Committee.
 
 ---
 
@@ -194,15 +194,15 @@ JEFFREY EPSTEIN
 - **TARGET:** Leon Black personally; Apollo Global Management; Dechert LLP (Black's counsel)
 - **WHAT TO DEMAND:** All internal communications between Black and Epstein (2010-2019); all payments from Black/Apollo entities to Epstein or Epstein-linked entities; the complete NDA referenced by the victim in [EFTA02731576](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731576.pdf); all records of Black's "review" by the Apollo Board (referenced in [EFTA00025507](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025507.pdf)); all communications with SDNY/DANY prosecutors regarding the Leon Black investigation
 - **LEGAL BASIS:** Senate Judiciary Committee, 28 U.S.C. Section 1365 (civil enforcement of subpoenas); also Senate Commerce Committee (financial fraud nexus)
-- **WHY NOW:** The recovered documents show DANY stated they "do not doubt" the victim's allegations. Black's current status as one of America's wealthiest individuals (net worth ~$12B) means he has resources to delay indefinitely absent congressional pressure. The victim's text message explicitly states she was "forced to sign under duress."
-- **WHAT IT WOULD REVEAL:** The full scope of Black's financial relationship with Epstein ($158M+ reported), the human trafficking referral basis, and why charges were never filed despite DANY's stated belief in the victim.
+- **WHY NOW:** The recovered documents show DANY stated they "do not doubt" the victim's allegations (while also noting a lack of independent corroboration). The victim's text message explicitly states she was "forced to sign under duress."
+- **WHAT IT WOULD REVEAL:** The full scope of Black's financial relationship with Epstein ($158M+ reported), the human trafficking referral basis, and why charges were never filed.
 
 ## Subpoena #2: BUREAU OF PRISONS / MCC NEW YORK
 
 - **TARGET:** Bureau of Prisons; MCC New York warden (2019); BOP Director; DVR maintenance contractor
 - **WHAT TO DEMAND:** Complete DVR maintenance and failure logs for July-August 2019; all work orders for DVR systems in the 12 months prior to Epstein's death; all staff assignments and overtime records for Special Housing Unit July 25-August 10, 2019; the complete "suicide reconstruction report" (referenced in [EFTA00020450](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020450.pdf), 00023013); all internal communications about removing Epstein from suicide watch
 - **LEGAL BASIS:** Senate Judiciary Committee oversight authority; House Oversight Committee (federal facilities)
-- **WHY NOW:** The camera failure at the precise time of Epstein's death remains the single most suspicious aspect of the case. The documents reveal DVR2 failed on 7/29 and hard drives failed on 8/8 -- a progressive failure suggesting either equipment neglect or tampering. Five missed head counts suggest systemic breakdown.
+- **WHY NOW:** The camera failure near the time of Epstein's death remains unexplained. The documents reveal DVR2 failed on 7/29 and hard drives failed on 8/8 — a sequence that could reflect aging infrastructure, deferred maintenance, or other causes that warrant investigation. Five missed head counts suggest systemic breakdown.
 - **WHAT IT WOULD REVEAL:** Whether the camera failure was mechanical, negligent, or intentional; whether BOP knew of and failed to remedy recording gaps; who authorized Epstein's removal from suicide watch.
 
 ## Subpoena #3: DEUTSCHE BANK
@@ -219,7 +219,7 @@ JEFFREY EPSTEIN
 - **WHAT TO DEMAND:** All FD-302 interview summaries for the Epstein investigation (2006-2019); all tip follow-up documentation from SDNY hotline (particularly tips re: Alexander brothers, murder allegations, burial allegations); the complete evidence log for 7 discs of "consensually monitored phone calls" ([EFTA02730741](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02730741.pdf)); all MySpace and social media forensic results referenced in evidence logs; all records regarding "Roderic Hamilton" ([EFTA02730477](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02730477.pdf))
 - **LEGAL BASIS:** Senate Judiciary Committee; House Judiciary Committee
 - **WHY NOW:** The files reveal FBI tips that described murders, burials, and the Alexander brothers -- none of which received documented follow-up. The 7 discs of monitored phone calls have never been disclosed to any investigating body. The Hamilton connection is entirely unexplored.
-- **WHAT IT WOULD REVEAL:** Whether the FBI suppressed tips; the content of monitored phone calls; the full scope of the Hamilton connection; whether the Alexander brothers tip was deliberately ignored.
+- **WHAT IT WOULD REVEAL:** Why tips received zero documented follow-up; the content of monitored phone calls; the full scope of the Hamilton connection; whether the Alexander brothers tip was investigated through channels not reflected in these files.
 
 ## Subpoena #5: JPMORGAN CHASE
 
@@ -234,7 +234,7 @@ JEFFREY EPSTEIN
 - **TARGET:** Les Wexner personally; L Brands (now Bath & Body Works); Victoria's Secret (now independent)
 - **WHAT TO DEMAND:** All records of the power of attorney granted to Epstein; the complete accounting of the $46M charitable donation; all records regarding the transfer of the East 71st Street mansion; all internal communications between Wexner, Ed Razek, and Epstein; all records of the decision "not to sue Wexner" referenced in [EFTA01682081](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01682081.pdf)
 - **LEGAL BASIS:** Senate Commerce Committee; Senate Judiciary Committee
-- **WHY NOW:** The recovered document showing Razek and Epstein welcoming visitors with "young women" at the mansion establishes a direct Victoria's Secret-to-Epstein recruitment pipeline. The power of attorney gave Epstein sweeping control over Wexner's finances. The full scope has never been examined under oath.
+- **WHY NOW:** The recovered document showing Razek and Epstein welcoming visitors with "young women" at the mansion documents a nexus between Victoria's Secret/L Brands executives and Epstein's residence. The power of attorney gave Epstein sweeping control over Wexner's finances. The full scope has never been examined under oath.
 - **WHAT IT WOULD REVEAL:** The true nature of the Wexner-Epstein financial relationship; whether Victoria's Secret was used as a recruitment mechanism; who decided not to sue and why.
 
 ## Subpoena #7: EHUD BARAK
@@ -242,8 +242,8 @@ JEFFREY EPSTEIN
 - **TARGET:** Ehud Barak; Carbyne 911 (now Carbyne Ltd.); Nili Priell Barak
 - **WHAT TO DEMAND:** All communications with Epstein (2010-2019); all records of payments from Epstein or Epstein entities to Barak or Barak-affiliated entities; all records of Epstein's involvement with Carbyne; testimony regarding the nature and frequency of meetings documented in the calendar records
 - **LEGAL BASIS:** Senate Foreign Relations Committee (foreign intelligence nexus); Senate Judiciary Committee
-- **WHY NOW:** The full corpus documents 3,756+ records involving Barak spanning 2013 through February 2019, including a week-long island stay, an apartment at 301 E 66th Street (same building as MC2 and trafficking victims), and direct emails. An FBI CHS FD-1023 ([EFTA00090314](https://www.justice.gov/epstein/files/DataSet%209/EFTA00090314.pdf)) states that "Epstein belonged to both U.S. and allied intelligence services" and "trained as a spy under" Barak. Additionally, Carbyne (50+ docs) and Reporty (324+ docs) are now documented in the corpus, showing a complete investment structure. Barak was former Prime Minister and Defense Minister of Israel. The intelligence implications of a former head of state maintaining a documented relationship with a sex trafficker are a national security concern.
-- **WHAT IT WOULD REVEAL:** Whether Epstein had intelligence connections through Barak; the purpose of frequent meetings; whether Israeli intelligence services were aware of or involved in the relationship.
+- **WHY NOW:** The full corpus documents 3,756+ records involving Barak spanning 2013 through February 2019, including a week-long island stay, an apartment at 301 E 66th Street (same building as MC2 and trafficking victims), and direct emails. An FBI CHS FD-1023 ([EFTA00090314](https://www.justice.gov/epstein/files/DataSet%209/EFTA00090314.pdf)) contains an *unverified confidential human source report* claiming "Epstein belonged to both U.S. and allied intelligence services" and "trained as a spy under" Barak — CHS reports are raw intelligence, not established facts. Additionally, Carbyne (50+ docs) and Reporty (324+ docs) are now documented in the corpus, showing a complete investment structure. Barak was former Prime Minister and Defense Minister of Israel.
+- **WHAT IT WOULD REVEAL:** The nature and purpose of frequent meetings; whether Israeli intelligence services were aware of or involved in the relationship; whether the CHS intelligence claim has any basis.
 
 ## Subpoena #8: MIT MEDIA LAB / MIT ADMINISTRATION
 
@@ -266,7 +266,7 @@ JEFFREY EPSTEIN
 - **TARGET:** U.S. Attorney's Office, Southern District of New York; Manhattan District Attorney's Office
 - **WHAT TO DEMAND:** The complete Leon Black investigation file; all "HT Subject Referrals"; all communications between SDNY and DANY regarding "additional subjects"; the decision memo for declining prosecution of Leon Black and any other identified subjects; the complete "sealed exhibits" referenced in [EFTA01657085](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01657085.pdf); all victim impact statements that were sealed
 - **LEGAL BASIS:** Senate Judiciary Committee; House Judiciary Committee (DOJ oversight)
-- **WHY NOW:** The recovered documents show prosecutors had sufficient evidence that DANY "do not doubt her allegations against JE and LB." The victim count has been expanded to 93 individually identified victims (up from 36+), and the complete OPR Executive Summary ([EFTA00095558](https://www.justice.gov/epstein/files/DataSet%209/EFTA00095558.pdf)) and Operation Leap Year grand jury transcripts have been identified. The decision not to prosecute Leon Black and potentially other "additional subjects" requires explanation. The existence of "HT Subject Referrals" that produced no charges is itself a matter requiring congressional oversight.
+- **WHY NOW:** The recovered documents show DANY "do not doubt her allegations against JE and LB" while also noting a lack of independent corroboration. The victim count has been expanded to 93 individually identified victims (up from 36+), and the complete OPR Executive Summary ([EFTA00095558](https://www.justice.gov/epstein/files/DataSet%209/EFTA00095558.pdf)) and Operation Leap Year grand jury transcripts have been identified. The decision not to prosecute Leon Black and potentially other "additional subjects" requires explanation. The existence of "HT Subject Referrals" that produced no charges is itself a matter requiring congressional oversight.
 - **WHAT IT WOULD REVEAL:** Why identified human trafficking subjects were not charged; the full scope of the investigation; whether political considerations influenced prosecution decisions.
 
 ---
@@ -279,10 +279,10 @@ JEFFREY EPSTEIN
 The committee should subpoena the SDNY/DANY Leon Black file and hold a classified hearing on why an "HT Subject Referral" (Human Trafficking) produced no charges despite the DA's office stating they "do not doubt" the victim's allegations. This is the single most consequential action available.
 
 **2. Request IG Investigation of BOP Camera Failures**
-The DOJ Inspector General should investigate the progressive DVR failure at MCC (system failure 7/29, hard drive failure 8/8, death 8/10). The files show 5 missed head counts and documentation of approximately 150 cameras, yet critical footage was unavailable. The IG should determine whether this was negligence or interference.
+The DOJ Inspector General should investigate the progressive DVR failure at MCC (system failure 7/29, hard drive failure 8/8, death 8/10). The files show 5 missed head counts and documentation of approximately 150 cameras, yet critical footage was unavailable. The IG should determine the cause of these failures.
 
 **3. Hold Classified Briefing on the Ehud Barak Connection**
-The Senate Intelligence Committee and Senate Foreign Relations Committee should receive a classified briefing on the 3,756+ documents linking a former Israeli Prime Minister to a convicted sex trafficker, including continuous correspondence through February 2019, a week-long island stay, and an apartment at 301 E 66th Street in the same building as MC2 and trafficking victims. An FBI CHS FD-1023 ([EFTA00090314](https://www.justice.gov/epstein/files/DataSet%209/EFTA00090314.pdf)) states that "Epstein belonged to both U.S. and allied intelligence services" and "trained as a spy under" Barak. The intelligence implications -- including potential compromise of U.S. national security information -- require assessment.
+The Senate Intelligence Committee and Senate Foreign Relations Committee should receive a classified briefing on the 3,756+ documents linking a former Israeli Prime Minister to a convicted sex trafficker, including continuous correspondence through February 2019, a week-long island stay, and an apartment at 301 E 66th Street in the same building as MC2 and trafficking victims. An FBI CHS FD-1023 ([EFTA00090314](https://www.justice.gov/epstein/files/DataSet%209/EFTA00090314.pdf)) contains an *unverified confidential human source claim* that "Epstein belonged to both U.S. and allied intelligence services" and "trained as a spy under" Barak. CHS reports are raw intelligence, not established facts, but the claim warrants assessment given the documented relationship.
 
 **4. Request GAO Audit of Epstein-Linked Shell Company Finances**
 The Government Accountability Office should trace all money flows through the 95+ identified shell entities. Total cumulative documented flows exceed $755 million, yet no comprehensive forensic accounting has been performed. The GAO should specifically examine Southern Trust Company ($45M+), Gratitude America, the Butterfly Trust, and Southern Financial LLC (through which the $13.5M Tudor transfer and $28.8M Valar/Thiel flows passed).
@@ -293,10 +293,10 @@ Members of the Judiciary Committee should demand that designated staff with appr
 ## IG/OIG Referrals (6-8)
 
 **6. DOJ OIG: Investigate FBI Tip Handling**
-The FBI received tips describing the Alexander brothers' involvement in rapes at Epstein parties, allegations of murder and burial at facilities, and specific named individuals. The files show zero documented follow-up. The OIG should investigate whether these tips were suppressed, lost, or deliberately ignored.
+The FBI received NTOC tips (unverified caller reports) describing the Alexander brothers' involvement in rapes at Epstein parties, allegations of murder and burial at facilities, and specific named individuals. The files show zero documented follow-up. The OIG should investigate why these tips received no documented follow-up action.
 
 **7. SEC OIG: Investigate Shell Company Oversight**
-The SEC should investigate whether any of Epstein's 16+ shell companies were used for securities fraud, money laundering, or other financial crimes. The existence of entities like "GSR Mortgage Loan Trust 2005-5F" and "Financial Strategy Group, Ltd." suggests potential securities implications.
+The SEC should investigate whether any of Epstein's 16+ shell companies were used for securities fraud, money laundering, or other financial crimes. The scope and structure of these entities warrants regulatory review.
 
 **8. Treasury OIG: Investigate SAR Filing Compliance**
 The Treasury Department's Financial Crimes Enforcement Network (FinCEN) should audit all SARs that should have been filed by Deutsche Bank and JPMorgan regarding Epstein accounts. Deutsche Bank paid $150M for compliance failures, but the scope of unreported suspicious activity has never been determined.

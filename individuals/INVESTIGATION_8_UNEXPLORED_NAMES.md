@@ -316,14 +316,14 @@ These individuals worked directly for Jeffrey Epstein in his residences, on his 
 - A 2011 EPA permit listed Brice Gordon as "island manager" for Little St. James
 - In 2011, Epstein granted Brice Gordon limited power of attorney for New Mexico affairs
 - In a 2016 email, Gordon described LSJ as his and Karen's "new home"
-- **CRITICAL: After Epstein's death (August 2019) and Maxwell's arrest (July 2020), the Gordons vanished completely**
-- No confirmed address in the US or New Zealand
+- **After Epstein's death (August 2019) and Maxwell's arrest (July 2020), the Gordons are no longer publicly traceable**
+- No confirmed current address in the US or New Zealand
 - No social media presence
 - Locals speculate they relocated to New Zealand
 
-**Assessment:** HIGH PRIORITY. Brice and Karen Gordon managed Epstein's most sensitive properties -- the New Mexico ranch and Little Saint James island. Their disappearance after Epstein's death is deeply concerning. As island managers, they would have been eyewitnesses to virtually everything that occurred on the island. Their grant of power of attorney from Epstein in 2011 indicates a high level of trust. The "(S)" notation next to Gordon's name in one document may indicate a legal status or designation that warrants further investigation.
+**Assessment:** Brice and Karen Gordon managed two of Epstein's key properties -- the New Mexico ranch and Little Saint James island. As island managers, they would have had direct knowledge of activities on the island. Their grant of power of attorney from Epstein in 2011 indicates a high level of trust. The "(S)" notation next to Gordon's name in one document may indicate a legal status or designation. Their current whereabouts are unknown.
 
-**FLAG: Brice and Karen Gordon have disappeared. As island managers with power of attorney, they are potentially the most important missing witnesses in the entire Epstein case. Their New Zealand Defence Force background adds another layer of complexity.**
+**FLAG: Brice and Karen Gordon are no longer publicly traceable. As island managers with power of attorney, they would be significant potential witnesses. The FBI interview in 2007 ([EFTA00269597](https://www.justice.gov/epstein/files/DataSet%209/EFTA00269597.pdf)) confirms they were known to investigators.**
 
 **[REVISIT UPDATE -- 7,428 Documents, FBI Interview, Employment Details]:** DS9/DS11 full-text corpus reveals **7,428 distinct EFTA documents** mentioning Brice Gordon (vs. 60 redaction hits in original). Key new findings:
 - **FBI FD-302 Interview** ([EFTA00269597](https://www.justice.gov/epstein/files/DataSet%209/EFTA00269597.pdf), DS9): Transmission memo dated 02/15/2007 confirms Gordon was formally interviewed by the FBI at 49 Zorro Ranch Road, Stanley, NM on 02/08/2007 in case 31E-MM-108062 (JEFFREY EPSTEIN; GHISLAINE N. MAXWELL -- WSTA-CHILD PROSTITUTION). After the interview, "Santa Fe RA considers this lead covered."
@@ -352,7 +352,7 @@ These individuals worked directly for Jeffrey Epstein in his residences, on his 
 - **Credit card with 100% cash advance access** ([EFTA00186431](https://www.justice.gov/epstein/files/DataSet%209/EFTA00186431.pdf)): Multiple Colonial Bank/NES LLC faxes show Epstein set up Valdson with corporate cards from December 2001, with cash advance access at 100% of card limit -- highly unusual for household staff.
 - **Trust bequest:** **$5M** ([EFTA00099303](https://www.justice.gov/epstein/files/DataSet%209/EFTA00099303.pdf)) -- the highest bequest to any non-Visoski staff member, exceeding the $3M given to Klein, Fontanilla, and Dela Cruz.
 - Contact records confirm his base in Paris/France.
-- His categorization requires reassessment from "household staff" to potential co-conspirator given the victim transport evidence.
+- His categorization requires reassessment from "household staff" given the documented presence on the same flight as a victim traveling to Epstein's properties. Whether he had knowledge of the trafficking activity is not established in the released documents.
 
 ---
 
@@ -388,9 +388,9 @@ These individuals worked directly for Jeffrey Epstein in his residences, on his 
 - 2018 emails show Botstein's assistant arranging repayment for a $56,000 Patek Philippe watch
 - Botstein maintains the relationship was strictly about securing donations
 
-**Assessment:** Leon Botstein maintained a years-long personal relationship with Jeffrey Epstein that extended well beyond simple donor cultivation. The facts that (a) Botstein planned to visit Epstein's island, (b) hosted Epstein with five "girls" at Bard, (c) accepted a $56,000 luxury watch, and (d) received $150,000 personally paint a picture of a much closer relationship than publicly acknowledged. His 80 appearances in the files, spanning 2012-2018, demonstrate sustained engagement with Epstein even years after Epstein's 2008 conviction.
+**Assessment:** Leon Botstein maintained a years-long personal relationship with Jeffrey Epstein spanning at least 2012-2018 — years after Epstein's 2008 conviction. Public reporting indicates he (a) planned to visit Epstein's island, (b) hosted Epstein with five "girls" at Bard, (c) accepted a $56,000 luxury watch, and (d) received $150,000 personally. The 80 appearances in the database files confirm sustained scheduling and correspondence. Note: the island visit and "five girls" claims come from public reporting, not directly from the database records audited here.
 
-**FLAG: Botstein's planned visit to Little Saint James and hosting of Epstein with five "girls" at Bard College warrant further investigation.**
+**FLAG: Botstein's documented relationship with Epstein warrants further scrutiny given the public reporting about planned island visits and Epstein's visits to Bard with young women.**
 
 ---
 
@@ -459,12 +459,12 @@ These individuals worked directly for Jeffrey Epstein in his residences, on his 
 - The Google Alert on Josephson's name suggests Epstein was monitoring his public profile
 - Claimed "I knew nothing about him" despite evidence of close friendship through at least 2018
 
-**Assessment:** HIGH PRIORITY. Barry Josephson's relationship with Epstein goes far beyond casual acquaintance. The financial dependency ($120K loan + $215K tax assistance), the exchanges about young women and "casting girls," and the sustained correspondence through 2018 paint a picture of a close associate who actively participated in Epstein's recruitment patterns. The real estate escrow reference in the files may indicate additional financial entanglement. His relatively low appearance count (10) belies the significance of the content.
+**Assessment:** Barry Josephson's relationship with Epstein extended well beyond casual acquaintance. The documented financial flows ($120K loan + $215K tax assistance), the exchanges about young women and "casting girls," and the sustained correspondence through 2018 indicate a sustained personal relationship. The real estate escrow reference in the files may indicate additional financial entanglement. His relatively low appearance count (10) belies the significance of the documented content.
 
-**FLAG: Josephson's emails about "casting girls" and finding "actresses" for Epstein's jet are among the most explicit evidence of recruitment facilitation by a Hollywood figure in the files.**
+**FLAG: Josephson's documented exchanges about "casting girls" and finding "actresses" for Epstein's jet warrant scrutiny given Epstein's documented history. Whether these exchanges represent innocent industry conversation or something more is not established in the released documents.**
 
 **[REVISIT UPDATE -- 1,013 Documents, 100x Expansion]:** DS9/DS11 full-text reveals **1,013 distinct EFTA documents** (vs. 10 redaction hits). Key new findings:
-- **Katherine Langford Google search** ([EFTA02643545](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02643545.pdf), July 8, 2017): Josephson emailed Epstein a Google search link for Katherine Langford, then a 20-year-old Australian actress newly famous for Netflix's "13 Reasons Why." Sending a convicted sex offender a link to look at a young actress is consistent with the previously documented "casting girls" pattern.
+- **Katherine Langford Google search** ([EFTA02643545](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02643545.pdf), July 8, 2017): Josephson emailed Epstein a Google search link for Katherine Langford, then a 20-year-old Australian actress newly famous for Netflix's "13 Reasons Why." The context of sending a link about a young actress to a convicted sex offender is notable given the previously documented "casting girls" exchanges, though it could also be routine entertainment industry conversation.
 - **"Katherine Khaut" assistant candidate** ([EFTA02537492](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02537492.pdf) / [EFTA00436660](https://www.justice.gov/epstein/files/DataSet%209/EFTA00436660.pdf), March 2011): Josephson sent a young woman named Katherine Khaut as an "Assistant Candidate" to Epstein. Staff email: "Barry Josephson's girl" -- Epstein's immediate response: "ask her to come today."
 - **Woody Allen/Soon-Yi dinner circle:** Repeated dinners at 9 East 71st Street with Woody Allen and Soon-Yi (October 2016, March 2017). Epstein said "no" when asked if Soon-Yi could have Josephson's contact info ([EFTA00317504](https://www.justice.gov/epstein/files/DataSet%209/EFTA00317504.pdf)).
 - **Calendar appointments:** 7+ years of systematic scheduling (2011-2018), including same-day appointments with Leon Black, Thorbjorn Jagland (Nobel Committee chair), and John Brockman.
@@ -639,9 +639,9 @@ Her role was far more extensive than "CPA receiving reports." She was a **signat
 
 ### Highest Priority (CRITICAL)
 
-1. **Brice and Karen Gordon** -- Locate these individuals. As island managers who vanished post-Epstein's death, they are potentially the most important missing witnesses. New Zealand authorities should be contacted. Their NZ Defence Force backgrounds should be investigated.
+1. **Brice and Karen Gordon** -- As island managers who are no longer publicly traceable, they would be significant witnesses to island activities. The 2007 FBI interview ([EFTA00269597](https://www.justice.gov/epstein/files/DataSet%209/EFTA00269597.pdf)) confirms they were already known to investigators.
 
-2. **Barry Josephson** -- The emails about "casting girls" and finding "actresses" for Epstein's jet constitute potential evidence of recruitment facilitation. The $335,000 in financial assistance from Epstein creates a pattern of financial leverage. The 2018 correspondence contradicts his claims of ignorance.
+2. **Barry Josephson** -- The documented emails about "casting girls" and finding "actresses" for Epstein's jet warrant further scrutiny. The $335,000 in financial assistance from Epstein documents a significant financial relationship. The 2018 correspondence contradicts his public claims of ignorance about Epstein's activities.
 
 3. **Janusz Banasiak** -- The document at [EFTA01333133](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01333133.pdf) page 73 connecting him to $200 victim payments and instructions to maintain silence should be preserved and cross-referenced. His cooperation agreement and testimony transcripts should be fully analyzed.
 

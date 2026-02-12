@@ -83,7 +83,7 @@
 
 ### 7. Dilorio SEC Whistleblower (16 documents)
 - Filed 3 months BEFORE Epstein's arrest (April 2019)
-- ESWW (Environmental Solutions Worldwide) as Epstein-Apollo money laundering nexus
+- ESWW (Environmental Solutions Worldwide) as Epstein-Apollo financial nexus
 - **Epstein's Financial Trust Company** appears in same SEC filing as Leon Black/Apollo entities
 - Alleges SEC dropped Apollo investigation after Kushner Jr./Joshua Harris White House meeting
 - 11-12 threatening anonymous phone calls as intimidation
@@ -189,16 +189,16 @@
 ## SESSION 9 CONTINUED FINDINGS (Post-Summary)
 
 ### 12. Prosecution Failures Analysis ([PROSECUTION_FAILURES_ANALYSIS.md](/institutional/PROSECUTION_FAILURES_ANALYSIS.md) - 35KB)
-- **Architecture of Impunity**: NPA co-conspirator immunity clause was not in original draft, expanded during negotiations by Dershowitz/Kirkland & Ellis
+- **Architecture of Impunity**: NPA co-conspirator immunity clause was not in original draft, expanded during negotiations by the Kirkland & Ellis defense team
 - **Acosta deposition** ([EFTA00009016](https://www.justice.gov/epstein/files/DataSet%207/EFTA00009016.pdf)): "I did not recall focusing on the coconspirator provision"
-- **Dershowitz conflict**: Negotiated NPA immunity covering himself while being named as abuser by multiple victims
-- **Acosta threatened** ([EFTA00009116](https://www.justice.gov/epstein/files/DataSet%207/EFTA00009116.pdf)): "I might be personally embarrassed" - Dershowitz threatened book chapter on prosecutorial overreach
+- **Dershowitz and the co-conspirator immunity timeline**: Dershowitz was part of the defense team that negotiated the NPA. Allegations against him emerged publicly in 2014 — years after the 2007-2008 NPA. Whether the blanket immunity was designed to protect any specific individual cannot be established from available documents.
+- **Defense team pressure** ([EFTA00009116](https://www.justice.gov/epstein/files/DataSet%207/EFTA00009116.pdf)): Acosta stated "the book reference was that I might be personally embarrassed" — the defense team raised the threat of a book chapter on prosecutorial overreach (specific team member not identified in transcript)
 - **CVRA violations**: NPA deliberately concealed from victims; Judge Marra found government "chose to conceal the existence"
 - **Prince Andrew**: MLAT request filed April 2020, Andrew systematically refused cooperation, never charged
 - **Leon Black**: 4+ victims, FBI 302s, $62.5M USVI settlement - SDNY CRU "doesn't intend to open anything separate"
 - **Jes Staley**: Rape allegation flagged by SDNY prosecutor, coordinated FCA investigation, no charges anywhere
 - **Bill Richardson**: "So, so frustrating" - SDNY frustration over counsel obstruction, never subpoenaed
-- **Dershowitz**: Never investigated despite multiple victims naming him and negotiating own immunity
+- **Dershowitz**: Never investigated despite multiple victims naming him (beginning in 2014); was part of the defense team that negotiated the NPA with its co-conspirator immunity clause
 - **Dubins**: Victim used term "lent out," Eva Dubin complicit, no investigation
 - **Kellen/Marcinkova**: "Hundreds of sexual massages with minors" - plea negotiations collapsed, no charges
 - **Brunel**: Died in French prison Feb 2022 before trial (pattern: both seriously prosecuted individuals died pre-trial)
@@ -249,7 +249,7 @@
 ---
 
 ### 16. Ruemmler Deep Intelligence Findings
-- **[EFTA02575359](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02575359.pdf)** (Oct 29, 2017): Epstein to Ruemmler: "why would they file a sealed indictment? if it is true" - **sent the day before Manafort indictment unsealed** (Oct 30, 2017). Shows Epstein receiving advance Mueller investigation intelligence through former Obama WH Counsel.
+- **[EFTA02575359](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02575359.pdf)** (Oct 29, 2017): Epstein to Ruemmler: "why would they file a sealed indictment? if it is true" - **sent the day before Manafort indictment unsealed** (Oct 30, 2017). The timing suggests Epstein may have been aware of the sealed indictment before it was publicly unsealed, though the source of his information is not established by this email (he appears to be asking Ruemmler about it, not receiving confirmation).
 - **[EFTA02570921](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02570921.pdf)** (Nov 4, 2017): Epstein to Ruemmler: "your Nigerian is a lefty. predisposed to empower women. minorities etc.. its yours to lose" - coaching on corporate placement, treating racial identity as strategic lever
 - **[EFTA02513986](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02513986.pdf)** (Jan 12, 2015): Ruemmler: "had assumed you were exaggerating a bit about Benjamin. Wrong assumption." Epstein: "I have no first hand knowledge I've never met, his father 30 years ago knew a problem was in the future" - re **Benjamin de Rothschild** who sent $25M to Southern Trust 11 months later
 - **[EFTA02575358](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02575358.pdf)** (Oct 30, 2017): Adjacent document shows **model scouting** on same day: "met through the manager at models, Skyped today - seems very nice. Will pass to the candidates list - we can meet her in Paris during the next trip. Will look for more photos" - **active model recruiting October 2017**, 9 years post-conviction
@@ -283,7 +283,7 @@
 - **Narrow Holdings LLC "do Elysium"** sent $20M to Southern Trust (July 2014) - this is Black money flowing through the Elysium structure
 - Combined with direct Black Family Partners/Apollo payments (~$98M), total documented Black→Epstein flows exceed **$118M** through Deutsche Bank
 
-### 21. Art Market Money Laundering Vector
+### 21. Art Market Financial Vector
 - **Sotheby's**: TWO payments totaling **$22.8M** to Haze Trust (Sept-Oct 2017)
 - **Christie's**: **$7.7M** to Haze Trust (June 2017)
 - **Total art auction proceeds**: **$30.5M** flowing into Haze Trust in 2017 alone
@@ -329,7 +329,7 @@
 | [EFTA01426081](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01426081.pdf) | LSJE stop-wire attempted after processing |
 | [EFTA01406955](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01406955.pdf) | KYC breach for SOUTHFINANMD documented chain |
 | [EFTA00009016](https://www.justice.gov/epstein/files/DataSet%207/EFTA00009016.pdf) | Acosta deposition - NPA negotiations, co-conspirator immunity |
-| [EFTA00009116](https://www.justice.gov/epstein/files/DataSet%207/EFTA00009116.pdf) | Acosta OPR interview - Dershowitz threat, Main Justice review |
+| [EFTA00009116](https://www.justice.gov/epstein/files/DataSet%207/EFTA00009116.pdf) | Acosta OPR interview - defense team threat, Main Justice review |
 | [EFTA00010507](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010507.pdf) | Judge Marra CVRA ruling - NPA concealment from victims |
 | [EFTA00013209](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013209.pdf) | DAG meeting - co-conspirator plea negotiations "hundreds of sexual massages" |
 | [EFTA00022062](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022062.pdf) | MLAT request for Prince Andrew |
@@ -603,9 +603,9 @@ Complete entity census compiled across all document collections. Key categories:
 - When the Florida investigation began, Epstein told Wexner "he was being blackmailed"
 - The Wexners withdrew the POA and privately settled rather than prosecuting — allowing Epstein's financial empire to remain intact
 
-### 53. Acosta "Intelligence Asset" Non-Denial
-- **[EFTA00009116](https://www.justice.gov/epstein/files/DataSet%207/EFTA00009116.pdf)**: Under oath, Acosta denied knowing Epstein was an intelligence asset but qualified: "there are questions that I may be asked publicly that I don't think it's right for me to comment as to what classified information I may or may not know"
-- This is a non-denial that invokes classified information
+### 53. Acosta OPR Interview: Intelligence Asset Question
+- **[EFTA00009116](https://www.justice.gov/epstein/files/DataSet%207/EFTA00009116.pdf)** (pages 404-405): Under oath, Acosta was asked about Epstein being "an intelligence asset." He said "I'm not aware of it" and "Not to my recollection," then stated: "there are questions that I may be asked publicly, that I don't think it's right for me to comment as to what classified information I may or may not know, because that's not the kind of stuff you'd go into, **but the answer is no, and no.**" He repeated: "**No, and no.**"
+- Acosta explicitly denied the intelligence asset claim twice, though his reference to classified information in the same exchange has been noted
 
 ### 54. The Melvyn Kohn Letters (CRITICAL)
 - **[EFTA00037218](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037218.pdf)/37239**: Self-described former military intelligence operative wrote to Mark Epstein: "neither you nor he are Mossad, or even working knowingly for any foreign intel agency" but "**there is the presence of certain parties in this mix who are**"
@@ -620,7 +620,7 @@ Complete entity census compiled across all document collections. Key categories:
 
 ### 56. FOIA Intelligence Exemption
 - **[EFTA00015219](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015219.pdf)**: FOIA exemption memo explicitly states information about "confidential relationship with a foreign government" was withheld
-- This confirms the existence of classified intelligence-related material about Epstein that was actively suppressed
+- This confirms the existence of classified intelligence-related material about Epstein that was withheld under FOIA exemptions
 
 ### 57. Israel-Related Search Findings (Updated)
 - **DS9 corpus overturns prior "ZERO" findings from redaction/OCR databases**: Carbyne (50 docs), Reporty (324 docs), Unit 8200 (11 docs), Shin Bet (23 docs), Mega Group (4 docs) all found in full_text_corpus.db. Epstein invested $500K in Carbyne; Barak had $1.5M carry at $50M valuation. The prior "ZERO" results were an artifact of searching only redaction/OCR databases, not the DS9 email corpus.
@@ -628,7 +628,7 @@ Complete entity census compiled across all document collections. Key categories:
 - **MC2 + Tel Aviv recruiting**: ZERO direct results in available databases (MC2's documented ages 13-20 requirement confirmed from actual website)
 - No explicit foreign intelligence service connection established despite infrastructure consistent with such operations
 - "Mossad" appears only in external correspondence, never in FBI investigative documents
-- The systematic absence of Israeli intelligence agency references across 1.8M+ records is itself significant
+- Israeli intelligence agency references are largely absent from the 1.8M+ redaction/OCR records, though DS9 full-text corpus does contain Carbyne/Reporty/Unit 8200/Shin Bet references (mostly in news articles)
 
 ### 58. CBP Officer Investigation Expanded
 - **[EFTA00031495](https://www.justice.gov/epstein/files/DataSet%208/EFTA00031495.pdf)**: Internal CBP "FOR OFFICIAL USE ONLY" memorandum (August 30, 2019)
@@ -662,10 +662,10 @@ Complete entity census compiled across all document collections. Key categories:
 - **"Mr. Robert and Jill"**: A couple who hosted a "party at this huge house" where victim was recruited, with a "British lady from Clearwater" present
 - **"Ms. Vicki"**: Female facilitator in FL and CA, identity remains unknown
 
-### 62. Camera-in-Clock System Confirmed (CONTRADICTS FBI CID SUMMARY)
-- **[EFTA02731226](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731226.pdf)** (Maxwell prosecution memo): Explicitly states "Epstein had cameras in his clock"
-- **[EFTA00029761](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029761.pdf)** (2003 Palm Beach police report): Documents Epstein purchasing cameras, concealing them in clocks, and monitoring footage on his computer hard drive
-- **This directly contradicts** the FBI CID summary's claim that "searches did not reveal any cameras in any of the bedrooms or massage rooms"
+### 62. Camera-in-Clock References — Two Independent Sources
+- **[EFTA02731226](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731226.pdf)** (Maxwell prosecution memo): States "Epstein had cameras in his clock"
+- **[EFTA00029761](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029761.pdf)** (2003 Palm Beach police burglary report): Documents Epstein purchasing cameras, concealing them in clocks, and monitoring footage on his computer hard drive — the camera in that instance was set up to catch a thief, but established Epstein's familiarity with concealed camera systems
+- **Note**: The FBI CID summary ([EFTA00038617](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038617.pdf)) states "searches did not reveal any cameras in any of the bedrooms or massage rooms" — this specifically addresses bedroom/massage room placement. The 2003 report involved an anti-burglary camera, while the Maxwell prosecution memo does not specify the location of the camera-in-clock it references
 
 ### 63. Maxell T-160 Surveillance VHS Tapes — Never Digitized
 - **[EFTA00007741](https://www.justice.gov/epstein/files/DataSet%204/EFTA00007741.pdf)/7984/7987/7990**: Professional surveillance VHS tapes labeled "Ideal for use in Time Lapse Recording" seized from Epstein properties
@@ -682,7 +682,7 @@ Complete entity census compiled across all document collections. Key categories:
 ### 65. Boies/Pottinger Video Extortion Scheme
 - **[EFTA00032751](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032751.pdf)**: Attorneys David Boies and Stan Pottinger planned to use Epstein's "illicit videos" to obtain "multi-million-dollar settlements from the wealthy men"
 - Described as "conspiracy to commit extortion"
-- Proves the existence of compromising video material — attorneys attempted to monetize it
+- Attorneys believed compromising video material existed and planned to monetize it — the document confirms their intent to use alleged videos, though the existence of the videos themselves is attested by the attorneys' claims, not independently verified in these files
 
 ### 66. Larry Summers — 30+ Documents, Dense Trail
 - 30+ documents showing extensive direct correspondence with Epstein
@@ -713,7 +713,7 @@ Complete entity census compiled across all document collections. Key categories:
 - **[EFTA00014493](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014493.pdf)**: Safe contents inventory: 48 stones (1-2.38 carats), 1 large ring, $70K+ cash
 - **[EFTA00021578](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021578.pdf)**: GIA diamond grading reports from year 2000
 - "Blue diamond" email chain across 4 documents
-- Diamonds = portable, untraceable wealth storage
+- 48 loose diamonds in safe alongside foreign currency and Austrian passport
 
 ### 71. AG Barr's Split Recusal
 - **[EFTA00028149](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028149.pdf)**: Southern District of Florida was "ordered recused by the DOJ" from Epstein criminal matters
@@ -899,12 +899,12 @@ Complete entity census compiled across all document collections. Key categories:
   17. **Epstein touring Israeli military bases while under Florida indictment (2008)**
   18. **Melvyn Kohn letters: "certain parties in this mix" ARE working for foreign intelligence**
   19. **FOIA exemption confirming withheld material on "confidential relationship with a foreign government"**
-  20. **Camera-in-clock system documented (2003) — contradicts FBI CID "no cameras" claim**
+  20. **Camera-in-clock: 2003 police report documents anti-burglary spy camera in clock; Maxwell prosecution memo separately references "cameras in his clock" — FBI CID said no cameras found "in bedrooms or massage rooms"**
   21. **Time-lapse surveillance VHS tapes seized but NEVER SCANNED**
   22. **MCC DVR replacement drives obtained but never installed (death night)**
   23. **Larry Summers: 30+ documents, one of densest trails, named in victim trafficking testimony**
   24. **CSAM found again in 2023 during estate settlement — missed in initial processing**
-  25. **Boies/Pottinger admitted existence of Epstein's "illicit videos" — conspiracy to commit extortion**
+  25. **Boies/Pottinger planned to use Epstein's alleged "illicit videos" for settlements — characterized as conspiracy to commit extortion**
   26. **$30.5M in auction proceeds from Sotheby's/Christie's to Haze Trust in 2017 alone**
   27. **Leon Black $2.7B art collection managed by Epstein — 935 works, $440M BofA credit line, contested Picasso**
   28. **Art consultant John Kendall Rowlands witnessed "presence of young girls" while sourcing art for Epstein**

@@ -6,7 +6,7 @@
 
 ## EXECUTIVE SUMMARY
 
-The Epstein forensic database reveals a systematic pattern of prosecution failures spanning nearly two decades (2006-2024). Despite overwhelming evidence of a multi-state, international sex trafficking operation involving dozens of identifiable co-conspirators and abusers, only two individuals -- Jeffrey Epstein (2008 state plea; 2019 federal indictment, died pre-trial) and Ghislaine Maxwell (convicted 2021, sentenced to 20 years; Supreme Court certiorari petition filed 4/10/2025, DOJ opposed 7/22/2025; DOJ interviewed Maxwell 7/24-25/2025) -- were ever criminally charged. Every other named individual escaped criminal prosecution through a combination of: (1) the unprecedented 2007 Non-Prosecution Agreement that granted blanket immunity to unnamed co-conspirators; (2) deliberate prosecutorial decisions to narrow investigations; (3) political and institutional barriers; (4) witness non-cooperation by powerful subjects; and (5) jurisdictional complications. The result is one of the most comprehensive prosecution failures in modern American criminal justice.
+The Epstein forensic database reveals a systematic pattern of prosecution failures spanning nearly two decades (2006-2024). Despite overwhelming evidence of a multi-state, international sex trafficking operation involving dozens of identifiable co-conspirators and abusers, only two individuals -- Jeffrey Epstein (2008 state plea; 2019 federal indictment, died pre-trial) and Ghislaine Maxwell (convicted 2021, sentenced to 20 years; Supreme Court certiorari petition filed 4/10/2025, DOJ opposed 7/22/2025; DOJ interviewed Maxwell 7/24-25/2025) -- were ever criminally charged. Every other named individual escaped criminal prosecution through a combination of: (1) the unprecedented 2007 Non-Prosecution Agreement that granted blanket immunity to unnamed co-conspirators; (2) deliberate prosecutorial decisions to narrow investigations; (3) political and institutional barriers; (4) witness non-cooperation by powerful subjects; and (5) jurisdictional complications. The result is a striking pattern of prosecution failures that raises serious questions about the functioning of the criminal justice system.
 
 ---
 
@@ -102,7 +102,7 @@ The NPA was deliberately concealed from victims in violation of the Crime Victim
 
 - **[EFTA00022201](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022201.pdf) (July 31, 2020):** Andrew's lawyers demanded: (1) evidence not be used for any purpose other than Maxwell proceedings; (2) his statements not be used against him.
 
-**Prosecution decision:** Andrew was never charged. He settled Virginia Giuffre's civil lawsuit. The MLAT process was never completed. Despite evidence of "sexual conduct involving one of Epstein's victims," prosecutors determined they had "not gathered evidence that he has committed any crime under U.S. law" -- a formulation that suggests insufficient investigation rather than insufficient evidence.
+**Prosecution decision:** Andrew was never charged. He settled Virginia Giuffre's civil lawsuit. The MLAT process was never completed. Despite evidence of "sexual conduct involving one of Epstein's victims," prosecutors determined they had "not gathered evidence that he has committed any crime under U.S. law" -- a formulation that could reflect either the limits of evidence gathered or the scope of the investigation conducted.
 
 ### 2.2 LEON BLACK -- $62.5M Settlement, Zero Charges
 
@@ -122,7 +122,7 @@ The NPA was deliberately concealed from victims in violation of the Crime Victim
 
 - **[EFTA02731721](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731721.pdf) (March 2024):** A victim's attorney described a victim who "was told Leon Black is VIP because he is a special friend of Jeffrey's -- and told this to make sure she did what she was supposed to do."
 
-**Prosecution decision:** Despite at least 4 victims, FBI interviews, a $62.5M civil settlement (suggestive of liability), and active DANY investigation, SDNY's Civil Rights Unit declined to open a separate investigation. No federal charges were ever filed.
+**Prosecution decision:** Despite at least 4 victims, FBI interviews, a $62.5M civil settlement (without admission of wrongdoing), and active DANY investigation, SDNY's Civil Rights Unit declined to open a separate investigation. No federal charges were ever filed.
 
 ### 2.3 JES STALEY -- Rape Allegation, International Coordination, No Charges
 
@@ -172,15 +172,15 @@ The NPA was deliberately concealed from victims in violation of the Crime Victim
 
 - **[EFTA00021553](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021553.pdf) (January 2, 2015, court filing, Page 4):** "One such powerful individual that Epstein forced then-minor Jane Doe #3 to have sexual relations with was former Harvard Law Professor Alan Dershowitz... Epstein required Jane Doe #3 to have sexual relations with Dershowitz on numerous occasions while she was a minor, not only in Florida but also on private planes, in New York, New Mexico, and the U.S. Virgin Islands."
 
-- **[EFTA00021553](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021553.pdf) (Page 4, continued):** "Dershowitz would later play a significant role in negotiating the NPA on Epstein's behalf. Indeed, Dershowitz helped negotiate an agreement that provided immunity from prosecution" -- immunity that covered himself.
+- **[EFTA00021553](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021553.pdf) (Page 4, continued):** "Dershowitz would later play a significant role in negotiating the NPA on Epstein's behalf. Indeed, Dershowitz helped negotiate an agreement that provided immunity from prosecution." (Note: Allegations against Dershowitz emerged publicly in 2014 court filings — years after the 2007-2008 NPA. Whether the blanket immunity provision was designed to protect any specific individual cannot be established from the available documents.)
 
-- **[EFTA00009116](https://www.justice.gov/epstein/files/DataSet%207/EFTA00009116.pdf) (Page 391):** Acosta confirmed that Dershowitz threatened him: the threat of a book chapter on "prosecutorial overreach" was used as leverage during NPA negotiations.
+- **[EFTA00009116](https://www.justice.gov/epstein/files/DataSet%207/EFTA00009116.pdf) (Page 391):** Acosta confirmed that the defense team raised the threat of a book chapter on "prosecutorial overreach": "the book reference was that I might be personally embarrassed by pursuing this matter, because I would be the subject of a chapter in a book on prosecutorial overreach." The specific defense team member who made this reference is not identified in the transcript.
 
 - **[EFTA00010380](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010380.pdf) (July 31, 2020):** Daily Mail asked SDNY about "the claim in newly unsealed court documents that Prince Andrew and Alan Dershowitz put pressure on the DOJ to give Epstein a favorable plea deal in 2007."
 
 - **[EFTA00092643](https://www.justice.gov/epstein/files/DataSet%209/EFTA00092643.pdf) / [EFTA00105307](https://www.justice.gov/epstein/files/DataSet%209/EFTA00105307.pdf) (DS9, wire transfer records):** A $20,532 payment on 3/5/2015 from the Butterfly Trust to "Coffey Burlington (Alan Dershowitz)" via Coconut Grove Bank establishes a direct financial link between Epstein and Dershowitz that extends well beyond the NPA negotiation period.
 
-**Prosecution decision:** Dershowitz was never investigated, never interviewed as a subject, and never charged. He simultaneously served as Epstein's defense attorney while being named as an abuser -- and negotiated an immunity agreement that protected himself.
+**Prosecution decision:** Dershowitz was never investigated, never interviewed as a subject, and never charged. He simultaneously served as Epstein's defense attorney while being named as an abuser -- and the blanket co-conspirator immunity provision he helped negotiate ultimately shielded him from prosecution when allegations emerged publicly in 2014.
 
 ### 2.6 GLENN AND EVA DUBIN -- "Lent Out"
 
@@ -282,7 +282,7 @@ This memo, sent two months before Epstein's arrest, shows SDNY was actively inve
 
 ### 3.2 The DAG Meeting -- Cases "Likely to Generate Substantial Press"
 
-- **[EFTA00013208](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013208.pdf) (November 5, 2020):** SDNY briefed the Deputy Attorney General's office on cases "likely to generate substantial press over the next couple months." This framing -- prosecution decisions filtered through media management -- reveals institutional priorities.
+- **[EFTA00013208](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013208.pdf) (November 5, 2020):** SDNY briefed the Deputy Attorney General's office on cases "likely to generate substantial press over the next couple months." Briefing superiors on high-profile cases is standard DOJ practice, but the framing illustrates the media-awareness context in which prosecution decisions were made.
 
 ### 3.3 AG Barr's Selective Recusal
 
@@ -310,7 +310,7 @@ This created a paradox: DOJ acknowledged the moral obligation to notify victims 
 
 - **[EFTA00021049](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021049.pdf):** SDNY responded: "no comment."
 
-The Maxwell prosecution was deliberately narrowed to specific victims and a specific time period, excluding the most prominent accusers and the most powerful alleged abusers.
+The Maxwell prosecution was narrowed to specific victims and a specific time period. The most prominent accusers and the most powerful alleged abusers were not part of the case.
 
 ### 3.7 Maxwell Post-Trial Developments
 
@@ -357,7 +357,7 @@ The most revealing document is the SDNY's own prosecution memorandum for Maxwell
 
 - **[EFTA00029100](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029100.pdf) (Maxwell defense filing):** In February 2016, victim attorneys met with an AUSA and "pitched" a prosecution of Maxwell and Epstein. The AUSA's contemporaneous notes stated: "[REDACTED] wants prosecution." The AUSA "emailed the Chief of the Criminal Division just days after the meeting to discuss the 'intriguing' case."
 
-Despite this 2016 push, no prosecution was initiated until July 2019 -- more than three years later, and only after the Miami Herald's investigation created irresistible public pressure.
+Despite this 2016 push, no prosecution was initiated until July 2019 -- more than three years later, and only after the Miami Herald's investigation generated significant public pressure.
 
 ---
 
@@ -393,7 +393,7 @@ The 2007 NPA created a structural barrier to prosecution that persisted for over
 At every stage, prosecutors narrowed rather than expanded investigations. The 2008 Florida investigation was narrowed from a federal indictment to a state plea. The 2019 SDNY investigation was narrowed from dozens of potential co-conspirators to just Epstein. The 2020 Maxwell indictment was narrowed to specific victims and time periods. The Leon Black investigation was deferred to DANY and then abandoned.
 
 ### Pattern 3: Wealth and Access as Shield
-Every individual who escaped prosecution was wealthy, powerful, or both. Epstein's defense team had direct access to the U.S. Attorney and the Deputy Attorney General. Prince Andrew's lawyers negotiated for months without providing cooperation. Leon Black's $62.5M settlement to USVI -- which could have been powerful evidence of consciousness of guilt -- was instead treated as closing a chapter.
+Every individual who escaped prosecution was wealthy, powerful, or both. Epstein's defense team had direct access to the U.S. Attorney and the Deputy Attorney General. Prince Andrew's lawyers negotiated for months without providing cooperation. Leon Black's $62.5M settlement to USVI -- reached without admission of wrongdoing -- did not lead to further criminal investigation.
 
 ### Pattern 4: Jurisdictional Fragmentation
 Responsibility was diffused across SDFL, SDNY, DANY, UK FCA, French investigating judges, and USVI. No single authority maintained comprehensive responsibility. The French investigation of Brunel and the UK regulatory investigation of Staley were coordinated with but not driven by SDNY.

@@ -160,7 +160,7 @@ The most damning evidence comes from a privileged attorney work product / delibe
 >
 > [Victim] explained that she was "lent out" so many times that she began using drugs, and she cannot estimate how many times she was "lent out" to other people. She recalls being "lent out" to some people multiple times, and some people just once.
 
-**Critical detail:** Maxwell's instruction was to massage both **Glen AND Eva Dubin**, meaning Eva Dubin (Epstein's ex-girlfriend) was present during or complicit in the directed sexual encounter.
+**Critical detail:** Maxwell's instruction was to massage both **Glen AND Eva Dubin**, meaning Eva Dubin (Epstein's ex-girlfriend) was present during the directed encounter as described by the victim.
 
 ### 2.3 Eva Anderson / Eva Dubin -- Epstein's Ex-Girlfriend
 
@@ -188,7 +188,7 @@ Sample dates: 1995-11-21, 1996-03-22, 1996-03-24, 1996-04-08, 1996-11-07, 1996-1
 Sample dates: 1995-11-26, 1996-04-08, 1996-11-17, 1997-01-05, 1997-02-13
 
 **Critical co-passengers:**
-- **Nadia Marcinkova (Nadia Marcinko):** The Dubins flew with Epstein's alleged sex slave Marcinkova on **5 flights** (2004-01-03, 2004-04-11, 2004-10-08, 2004-10-10). Glenn Dubin specifically flew with Marcinkova on 2004-04-11.
+- **Nadia Marcinkova (Nadia Marcinko):** The Dubins flew with Marcinkova (identified in prosecution documents as both victim and NPA co-conspirator) on **5 flights** (2004-01-03, 2004-04-11, 2004-10-08, 2004-10-10). Glenn Dubin specifically flew with Marcinkova on 2004-04-11.
 - **Teala Davies:** Glenn Dubin flew with known victim Teala Davies on 2004-04-11.
 - **Emmy Tayler (Maxwell's assistant):** 8 flights with the Dubins (1997-2000).
 - **Sarah Kellen (co-conspirator):** 2 flights with the Dubins (2004-10-08, 2004-10-10).
@@ -229,7 +229,7 @@ Multiple documents reference the "Dubin Breast Center" at Mount Sinai Hospital:
 - **[EFTA02021966](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02021966.pdf)**: "Dubin Breast Center"
 - **[EFTA02042804](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02042804.pdf)**: "Dubin Breast Center"
 
-This suggests Epstein was involved in or monitoring the Dubins' philanthropic activities at Mount Sinai, potentially using the charity connection as social cover.
+This suggests Epstein was monitoring or involved in the Dubins' philanthropic activities at Mount Sinai.
 
 ### 2.7 SSON DUBIN Trust Reference ([EFTA01266380](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01266380.pdf))
 

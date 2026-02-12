@@ -28,12 +28,12 @@ Phase III searched for hidden connections across nine domain categories using ke
 1. **[EFTA00025533](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025533.pdf)** - "Wexner: Epstein investigation" -- direct investigation link
 2. **[EFTA00026723](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026723.pdf)** - CNBC report: "Jeffrey Epstein used $46 million charitable donation to keep alive his ties with billionaire Les Wexner"
 3. **[EFTA01682081](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01682081.pdf)** - "later told me that they had decided not to sue Wexner because he was..." (text truncated -- critically, the reason for not suing is cut off)
-4. **[EFTA01653098](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01653098.pdf)** - Recovered text about creating "a fake picture of Leslie Wexner & me together when I was underage" and "the fake lawsuit against Leslie Wexner"
+4. **[EFTA01653098](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01653098.pdf)** - Social media post in which a complainant alleges others proposed "a fake picture of Leslie Wexner & me together when I was underage" to enable a lawsuit — complainant states they "decided against the lawsuit." (Note: this document also includes content from someone contacted by a convicted felon from federal prison; credibility caveats apply.)
 5. **[EFTA01656173](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01656173.pdf), p.17** - Prominent Names document: victim stated Epstein "earned his money from Wexner"
 
 ### Victoria's Secret / L Brands / Ed Razek Connection
 - **[EFTA00014526](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014526.pdf)** - "an investment opportunity in September 2005 to Ed Razek, an L Brands executive who helps select Victoria's Secret models. Epstein invited the two men to the Manhattan mansion and when he and Razek showed up, they were welcomed by young women"
-- This is a SMOKING GUN: Epstein used his connection to L Brands executive Ed Razek to lure him to the mansion under the guise of investment, then presented young women
+- This is significant: the document describes Epstein using an investment pretext to bring L Brands executive Ed Razek to his mansion, where "young women" were present — documenting a nexus between Victoria's Secret/L Brands executives and Epstein's Manhattan residence
 
 ### New Albany (Wexner's Home) Connection
 - **19 EFTA documents** reference "New Albany OH 43054" -- Wexner's estate address appears across Epstein's banking and financial records, confirming deep financial entanglement
@@ -191,7 +191,7 @@ MIT was the institutional hub, with Epstein paying for Boyden's travel and maint
 ## SECTION F: DEFENSE/INTELLIGENCE CONTRACTORS
 
 ### Lockheed Martin
-- **[EFTA00017890](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017890.pdf)** - "Subject: EXTERNAL: RE: Subpoena to Lockheed Martin" -- Lockheed was SUBPOENAED in connection with the Epstein case
+- **[EFTA00017890](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017890.pdf)** - "Subject: EXTERNAL: RE: Subpoena to Lockheed Martin" -- Lockheed was subpoenaed in *United States v. Maxwell* (the Maxwell criminal case); the specific subject matter of the subpoena is not stated in the document
 
 ### Security Clearance
 - **[EFTA01415284](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01415284.pdf)** - "Subject: Clearance Required"
@@ -203,7 +203,7 @@ MIT was the institutional hub, with Epstein paying for Boyden's travel and maint
 
 ### Raytheon, Northrop Grumman, General Dynamics, BAE Systems, Booz Allen, SAIC, Leidos, L3Harris: No substantive hits
 
-**Significant absence: The lack of defense contractor mentions suggests either (a) those connections were in fully proper redactions that weren't recoverable, or (b) the intelligence/defense angle was not documented in these particular file sets.**
+**Note:** The absence of defense contractor mentions may reflect several factors: (a) connections may exist in properly redacted material, (b) the intelligence/defense angle may not have been documented in these file sets, or (c) there may be no substantive connection to document. The absence alone does not support any particular inference.
 
 ---
 
@@ -256,7 +256,7 @@ MIT was the institutional hub, with Epstein paying for Boyden's travel and maint
 | [EFTA01335806](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01335806.pdf) | bad_overlay | 2,743 |
 | [EFTA01661868](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01661868.pdf) | bad_overlay | 2,289 |
 
-**[EFTA01310387](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01310387.pdf) holds the record: 7,988 proper redactions in a single document.** The sheer volume suggests this is either a comprehensive deposition, a complete financial record set, or a master investigative file.
+**[EFTA01310387](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01310387.pdf) holds the record: 7,988 proper redactions in a single document.** The high redaction count indicates a lengthy, heavily-redacted document.
 
 ---
 
@@ -328,14 +328,14 @@ MIT was the institutional hub, with Epstein paying for Boyden's travel and maint
 
 ## SECTION J: KEY INDIVIDUAL SUMMARIES
 
-### Leon Black -- THE CENTRAL UNTOLD STORY
+### Leon Black -- MOST-DOCUMENTED ASSOCIATE
 - **Knowledge Graph Weight: 816** -- the HIGHEST of any individual connected to Epstein
 - **100+ documents** in the EFTA02731xxx range specifically about Leon Black investigation
-- Direct victim accusation of sex trafficking, rape, and forced NDA signing
+- Direct victim accusation of sex trafficking, rape, and forced NDA signing ([EFTA02731576](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731576.pdf))
 - SDNY and DANY coordinating investigation
 - "HT Subject Referral" = Human Trafficking Subject Referral
 - Apollo Board was reviewing ties ([EFTA00025507](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025507.pdf))
-- **DANY explicitly stated they "do not doubt her allegations against JE and LB"**
+- **DANY stated they "do not doubt her allegations against JE and LB"** — though the same memo notes "They have not found any independent corroboration" ([EFTA02731737](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731737.pdf))
 
 ### Bill Gates
 - **[EFTA01777849](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01777849.pdf)** - "w/Bill Gates and Larry [Summers]" -- scheduled together
@@ -440,11 +440,12 @@ The contradiction: Prosecutors said cameras captured footage, but MCC documentat
 
 ## SECTION O: MURDER AND DEATH REFERENCES
 
-From FBI tips ([EFTA01660651](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660651.pdf), [EFTA01660679](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660679.pdf)):
+**NTOC Caveat:** All quotes below are from unverified tips submitted to the FBI's National Threat Operations Center hotline ([EFTA01660651](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660651.pdf), [EFTA01660679](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660679.pdf)). These are raw caller reports, not investigated findings. Some callers reported second-hand information.
+
 - "Complainant reported his ex-girlfriend's daughters were victims of Epstein's and one was murdered"
 - "the murder and disposal of her newborn daughter"
 - "some girls went missing, rumored to have been murdered and buried at the facility"
-- Complainant was told by Trump's security head: "if she ever talked of what went on there or who she saw, he would 'end up as fertilizer for the back nine holes like the other cunts'"
+- Complainant alleged being told by Trump's security head: "if she ever talked of what went on there or who she saw, he would 'end up as fertilizer for the back nine holes like the other cunts'"
 - "Complainant claims to have video of himself"
 
 ---
@@ -460,7 +461,7 @@ From FBI tips ([EFTA01660651](https://www.justice.gov/epstein/files/DataSet%2010
 
 ## PHASE III CONCLUSIONS
 
-1. **Leon Black is the most documented and potentially most culpable associate** -- with 816 knowledge-graph connections, direct victim accusations of sex trafficking, coordination between SDNY and DANY, and "HT Subject Referral" (Human Trafficking) classification
+1. **Leon Black is the most-documented associate in the file corpus** -- with 816 knowledge-graph connections, direct victim accusations of sex trafficking, coordination between SDNY and DANY, and "HT Subject Referral" (Human Trafficking) classification. DANY expressed belief in the allegations but noted a lack of independent corroboration; no charges were filed
 2. **The science network** (Boyden, Church, Seung, Gershenfeld, Brin, Allen, Tegmark, Thrun, Dawkins) was organized directly by Epstein through his email system
 3. **Ehud Barak** maintained a regular personal relationship with Epstein through at least 2017
 4. **The Prominent Names document** names 8+ prominent individuals in connection with victim statements
@@ -469,7 +470,7 @@ From FBI tips ([EFTA01660651](https://www.justice.gov/epstein/files/DataSet%2010
 7. **The camera contradiction** at MCC is documented in the files themselves
 8. **Evidence destruction** occurred post-conviction and is documented
 9. **FBI tips about the Alexander brothers** received zero documented follow-up
-10. **Victoria's Secret recruitment pipeline** through Ed Razek is explicitly documented
+10. **Victoria's Secret / L Brands nexus** with Epstein via Ed Razek is documented: Epstein used an investment pretext to bring Razek to his mansion where young women were present
 
 ---
 

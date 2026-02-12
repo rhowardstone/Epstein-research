@@ -682,7 +682,7 @@ The Caterpillar Trust had **2 accounts** (confirmed: "The 2017 Caterpillar Trust
 
 ### 7.3 Neptune LLC Wire Anomalies
 
-The "$1200 and $1000 wires" from Neptune LLC ([EFTA01425378](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01425378.pdf), [EFTA01426627](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01426627.pdf), [EFTA01435069](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01435069.pdf)) are suspiciously small for a corporate account. These small, round-number wires from an entity holding $100K-$366K could indicate:
+The "$1200 and $1000 wires" from Neptune LLC ([EFTA01425378](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01425378.pdf), [EFTA01426627](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01426627.pdf), [EFTA01435069](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01435069.pdf)) are unusually small for a corporate account. These small, round-number wires from an entity holding $100K-$366K could indicate:
 - Test transactions before larger transfers
 - Regular small payments (rent, services)
 - Structuring to avoid reporting thresholds (though at $1200/$1000, this would be far below the $10K CTR threshold)
@@ -796,14 +796,14 @@ RM0082289 Daily Deposit Reports were generated and sent to Stewart Oldfield, Bra
 
 ## 10. CONCLUSIONS
 
-### 10.1 The Structure Was Designed for Opacity
+### 10.1 Entity Structure and Opacity
 
-The Epstein financial network at Deutsche Bank was a **hub-and-spoke structure** with multiple layers of obfuscation:
+The Epstein financial network at Deutsche Bank was a **hub-and-spoke structure** with multiple structural layers:
 
 1. **Layer 1 (Hub):** Jeffrey Epstein personal account (DDA 739110438) served as the central clearing account
 2. **Layer 2 (Primary Holdings):** Southern Trust ($45M) and The Haze Trust ($49M) held the bulk of assets
 3. **Layer 3 (Operating Entities):** ~12 entities with $100K-$7M each handled specific functions (aviation, real estate, legal, property management)
-4. **Layer 4 (Trust/Charitable):** Butterfly Trust and Gratitude America provided charitable/trust cover
+4. **Layer 4 (Trust/Charitable):** Butterfly Trust and Gratitude America functioned as charitable/trust vehicles
 5. **Layer 5 (Additional vehicles):** Caterpillar Trust, Prytanee LLC, Aviloop LLC, and others served specialized purposes
 
 All entities were **managed by the same banker team**, **nested under a single "Southern Financial Relationship,"** and appeared on a **single consolidated balance report** -- meaning Deutsche Bank was fully aware these were not independent entities but a single coordinated operation.

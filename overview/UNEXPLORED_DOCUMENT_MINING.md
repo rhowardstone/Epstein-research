@@ -19,12 +19,12 @@ This report documents a systematic deep search across four databases containing 
 **[EFTA02731226](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731226.pdf)** (Maxwell Prosecution Memo, page 12):
 > "Epstein had cameras in his clock... and that the FBI was surveilling Epstein's residence"
 
-This is the single most important surveillance finding: hidden text from the Maxwell prosecution memo confirms that Epstein had **cameras embedded in clocks** at his residence. This directly contradicts the FBI CID summary ([EFTA00038617](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038617.pdf)) which stated "these searches did not reveal any cameras in any of the bedrooms or massage rooms."
+This is a significant surveillance finding: the Maxwell prosecution memo references Epstein having "cameras in his clock." The FBI CID summary ([EFTA00038617](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038617.pdf)) stated "these searches did not reveal any cameras in any of the bedrooms or massage rooms" — a more limited claim than "no cameras." The prosecution memo's reference to clock cameras raises questions about what cameras may have existed outside bedrooms and massage rooms.
 
 **[EFTA00029761](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029761.pdf)** (Palm Beach Police Department Incident Report, 2003):
 > Epstein "purchased a [camera] from a store on Okeechobee Blvd. and had set up [a] clock in his office facing the [area]... camera system monitoring the [house]... image on his computer hard drive"
 
-This 2003 police report documents that Epstein purchased surveillance cameras, concealed them inside clocks, and monitored footage on his computer. The camera captured video of a burglary suspect, proving the system was **functional and recording to hard drives**.
+This 2003 police report documents that Epstein purchased a spy camera, concealed it inside a clock in his office, and monitored footage on his computer. **Important context:** The camera was set up specifically **to catch a burglar stealing cash from his briefcase** — not as part of a sexual abuse surveillance system. The burglar (a former employee) was identified and confessed. However, this does demonstrate that Epstein had the technical capability and inclination to use concealed camera technology as early as 2003.
 
 ### 1B. Maxell T-160 Time Lapse Recording Tapes (PHYSICAL EVIDENCE)
 

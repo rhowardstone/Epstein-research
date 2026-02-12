@@ -553,7 +553,7 @@ This email was sent **the same evening** as [EFTA01792918](https://www.justice.g
 | remote-id | 182773 | Gmail message ID |
 
 #### Analysis:
-**This is an extraordinary document** revealing Epstein's role as the host/patron of elite neuroscience gatherings at his NYC residence. The email thread shows:
+**This is a notable document** revealing Epstein's role as the host/patron of elite neuroscience gatherings at his NYC residence. The email thread shows:
 
 **Named scientists:**
 1. **Neil Gershenfeld** -- MIT professor, director of MIT's Center for Bits and Atoms
@@ -575,7 +575,7 @@ This email was sent **the same evening** as [EFTA01792918](https://www.justice.g
 - The dinner is at Epstein's NYC residence on March 14, 2014
 - Gmail labels 85 and 84 (rather than the usual 22/2) suggest Epstein maintained a separate Gmail label category for scientific correspondence
 
-**This is one of the clearest documents showing Epstein operating as a science patron with direct access to world-class researchers.** The casual reference to David E. Shaw (billionaire) and Yann LeCun (Facebook AI chief) as potential dinner guests at Epstein's home -- 5+ years after his sex trafficking conviction -- demonstrates the extraordinary insulation his scientific network provided.
+**This is one of the clearest documents showing Epstein operating as a science patron with direct access to world-class researchers.** The casual reference to David E. Shaw (billionaire) and Yann LeCun (Facebook AI chief) as potential dinner guests at Epstein's home -- 5+ years after his sex trafficking conviction -- illustrates that his relationships with elite scientists continued despite his conviction.
 
 > **Revisit addition (2026-02-12):** DS9 contains the full raw email thread for this dinner: [EFTA00374338](https://www.justice.gov/epstein/files/DataSet%209/EFTA00374338.pdf) (Seung proposing Slavin and LeCun, Gershenfeld "cc'ing Jeff"), [EFTA00374345](https://www.justice.gov/epstein/files/DataSet%209/EFTA00374345.pdf) (Boyden's JetBlue itinerary), [EFTA00374405](https://www.justice.gov/epstein/files/DataSet%209/EFTA00374405.pdf) (Boyden's full signature block), [EFTA00374528](https://www.justice.gov/epstein/files/DataSet%209/EFTA00374528.pdf) (Gershenfeld: "Jeffrey says the start time will be 7pm!"). The March 14, 2014 day schedule ([EFTA00372853](https://www.justice.gov/epstein/files/DataSet%209/EFTA00372853.pdf)) confirms Tom Pritzker at 2:00pm and Mort Zuckerman breakfast at 9:00am on the same day. Gershenfeld's Citicar pickup was at 9 E 71st St (Epstein's townhouse) at 9:15 PM ([EFTA00372888](https://www.justice.gov/epstein/files/DataSet%209/EFTA00372888.pdf)). Reimbursements came from the Epstein foundation ([EFTA00373002](https://www.justice.gov/epstein/files/DataSet%209/EFTA00373002.pdf)).
 >
@@ -583,7 +583,7 @@ This email was sent **the same evening** as [EFTA01792918](https://www.justice.g
 >
 > Boyden's relationship with Epstein extended beyond dinners: Boyden visited Zorro Ranch with Martin Nowak (Aug 2013, [EFTA00284739](https://www.justice.gov/epstein/files/DataSet%209/EFTA00284739.pdf)), had AmEx Centurion travel booked by Epstein ([EFTA00290723](https://www.justice.gov/epstein/files/DataSet%209/EFTA00290723.pdf)), and appeared on a December 2016 island visitor list ([EFTA00285207](https://www.justice.gov/epstein/files/DataSet%209/EFTA00285207.pdf)). DS9 contains 468 Boyden documents total.
 
-**The bad_overlay exposed Neil Gershenfeld's critical line: "Don't have a strong opinion, cc'ing Jeff to see if he does"** -- directly proving Epstein controlled the invitation list for these elite gatherings.
+**The bad_overlay exposed Neil Gershenfeld's critical line: "Don't have a strong opinion, cc'ing Jeff to see if he does"** -- establishing that Epstein had significant influence over the invitation list for these elite gatherings.
 
 ---
 

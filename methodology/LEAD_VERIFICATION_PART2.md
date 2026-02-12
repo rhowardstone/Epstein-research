@@ -476,7 +476,7 @@ None of the "Gregory" results in the database correspond to a **couple** ("the G
 # CROSS-CUTTING FINDINGS
 
 ## The Victim Journal ([EFTA02731420](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731420.pdf) / [EFTA02731465](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731465.pdf))
-These two documents are **the single most explosive source** in these leads. They appear to be pages from a handwritten journal by an Epstein victim, produced under attorney-client privilege markings ("CONFIDENTIAL FOR ATTORNEY'S EYES ONLY / DO NOT COPY"). Key observations:
+These two documents are **among the most significant sources** in these leads. They appear to be pages from a handwritten journal by an Epstein victim, produced under attorney-client privilege markings ("CONFIDENTIAL FOR ATTORNEY'S EYES ONLY / DO NOT COPY"). Key observations:
 
 1. **The victim was a minor during the period described** -- she turned 17 during the events, references being in school, and describes being sent to live with others after a guardian figure died.
 

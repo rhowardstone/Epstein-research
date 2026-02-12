@@ -25,7 +25,7 @@ This investigation identified **57 NEW or under-mapped entities, financial vehic
 3. **Industrial Integrity Solutions LLC** -- New Mexico entity used to purchase Epstein aircraft from estate
 4. **The complete Rothschild-Black-Apollo money pipeline** -- $158.5M+ documented through Southern Trust
 5. **Blockchain Capital fund investments** -- $15M returned to 2017 Caterpillar Trust in 2018
-6. **Gratitude America charitable money laundering channels** -- documented flow to multiple foundations
+6. **Gratitude America charitable fund distribution channels** -- documented flow to multiple foundations
 7. **Multiple previously unmapped JPMorgan account entities** under RM CODE 82289
 
 ---
@@ -506,11 +506,11 @@ The Haze Trust operated as a major art liquidation and redistribution vehicle:
 **Haze Trust balance on 08/17/18: $40,583,100.79** (D account)
 **Haze Trust balance on 06/21/18: $49,460,098.13** (D account)
 
-**Key Finding:** The Haze Trust was being liquidated through Christie's and Sotheby's art sales, with proceeds funneled to Southern Financial LLC and Southern Trust Company -- totaling $44,500,000+ in 2018 alone.
+**Key Finding:** The Haze Trust was being liquidated through Christie's and Sotheby's art sales, with proceeds distributed to Southern Financial LLC and Southern Trust Company -- totaling $44,500,000+ in 2018 alone.
 
 ---
 
-## PART V: GRATITUDE AMERICA CHARITABLE MONEY LAUNDERING ([EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf) Exhibit E)
+## PART V: GRATITUDE AMERICA CHARITABLE FUND FLOWS ([EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf) Exhibit E)
 
 ### Recipients of Gratitude America MMDA funds:
 
@@ -737,7 +737,7 @@ Previously unmapped individuals/entities receiving payments from Epstein NOW acc
 ## PART XII: SUSPICIOUS PATTERNS
 
 ### 1. Jeepers Inc as Liquidity Black Box
-Jeepers Inc served as an opaque intermediary between Epstein's investment brokerage accounts and his operating NOW accounts. The regularity ($2M-$4M monthly) and the lack of any identifiable business purpose suggest this entity existed solely to obscure the source of operating funds.
+Jeepers Inc served as an opaque intermediary between Epstein's investment brokerage accounts and his operating NOW accounts. The regularity ($2M-$4M monthly) and the lack of any identifiable business purpose raise questions about whether this entity served primarily as a liquidity bridge between investment and operating accounts.
 
 ### 2. Haze Trust Art Liquidation Pipeline
 $30M+ in art auction proceeds from Christie's and Sotheby's flowed through Haze Trust and were immediately redistributed to Southern Financial LLC -- suggesting art sales were used as a value conversion mechanism.

@@ -95,7 +95,7 @@ Ehud Barak -- former Prime Minister of Israel (1999-2001), former Defense Minist
 - **Full OCR content:**
   > "Jeffrey Epstein [jeevacation@gmail.com] / Lesley Groff / Thur 9/16/2010 3:17:47 PM / **Tom Barrack-Ehud Barak** / ILM with Tom's assistant Cate and emailed her your exact wording as well. She will be in touch."
 
-- **Significance:** Epstein actively connected Tom Barrack (Colony Capital founder, later convicted of acting as an unregistered foreign agent of the UAE) with Ehud Barak. The phrasing "your exact wording" suggests Epstein was carefully managing the introduction's language, indicating a brokerage role.
+- **Significance:** Epstein actively connected Tom Barrack (Colony Capital founder, later acquitted of charges of acting as an unregistered foreign agent of the UAE in November 2022) with Ehud Barak. The phrasing "your exact wording" suggests Epstein was carefully managing the introduction's language, indicating a brokerage role.
 
 ### [EFTA01923347](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01923347.pdf) -- "12pm meeting w/Mort and Ehud Tomorrow" (Undated)
 - **Redaction content:** "Subject: 12pm meeting w/Mort and Ehud Tomorrow"
@@ -166,7 +166,7 @@ Ehud Barak -- former Prime Minister of Israel (1999-2001), former Defense Minist
   >
   > Original from JE: "**Reminder: clean Ehud's apt at 11am and clean 2G**"
 
-- **Analysis:** This single email chain proves:
+- **Analysis:** This single email chain establishes:
   1. Epstein personally ("as per JE") directed staff to clean "Ehud's apt" at 301 E. 66th Street
   2. "Les" = Lesley Groff (Epstein's executive assistant)
   3. The same staff member (Leo) cleaned both Ehud's apartment and 9 East 71st Street (Epstein's mansion)
@@ -360,7 +360,7 @@ These documents are FBI-collected social media evidence, likely gathered because
 
 3. **Three separate sexual assaults are described:** Epstein sexually assaulted the caller; Oren raped her best friend; Tal raped a 14-year-old named Katie.
 
-4. **Victoria's Secret models** are explicitly mentioned as present at these parties alongside "young girls," connecting the modeling pipeline to sexual abuse.
+4. **Victoria's Secret models** are explicitly mentioned as present at these parties alongside "young girls," placing models and young girls at the same events where sexual abuse occurred.
 
 5. **The "Alexander brothers" annotation** has never been publicly resolved. No charges against individuals by these names appear in the case record.
 
@@ -479,7 +479,7 @@ The FBI's FOIA deliberative process memo, applied to withhold Epstein-related in
 
 ## [EFTA00037218](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037218.pdf) / [EFTA00037239](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037239.pdf) -- Letters to Mark Epstein (August 2019)
 
-This is the single most direct discussion of intelligence connections in the entire corpus. Melvyn Kohn, a self-described former US military intelligence operative, wrote multiple letters to Mark Epstein (Jeffrey's brother) in August 2019, immediately after Jeffrey's death. Mark Epstein forwarded these to his attorney Stacey Richman, who forwarded them to SDNY.
+This is the most direct discussion of intelligence connections found in the corpus. Melvyn Kohn, a self-described former US military intelligence operative, wrote multiple letters to Mark Epstein (Jeffrey's brother) in August 2019, immediately after Jeffrey's death. Mark Epstein forwarded these to his attorney Stacey Richman, who forwarded them to SDNY.
 
 ### Kohn's Self-Identification:
 > "Without narrowing down my identity too much, I can tell you that **I was in US military intel and had a clearance issued to me young, when my uncle was in fact head of int'l relations at the Pentagon and answered directly to the president.** Other family members hold TS+ and I might ask one to be a liaison."
@@ -540,7 +540,7 @@ Exhaustive searches across all document collections for "Mega Group" return ZERO
 - primary document text database: 0 results
 - OCR text extraction database: 0 results
 
-The Mega Group -- co-founded by Leslie Wexner and Charles Bronfman in 1991 as a study group of Jewish billionaires focused on Jewish philanthropy and Israel advocacy -- is entirely absent from the FBI's Epstein investigative files. This is one of the most significant negative findings in the corpus.
+The Mega Group -- co-founded by Leslie Wexner and Charles Bronfman in 1991 as a study group of Jewish billionaires focused on Jewish philanthropy and Israel advocacy -- is entirely absent from the FBI's Epstein investigative files. This is a notable negative finding.
 
 ## C. Wexner-Israel Implicit Connections
 
@@ -640,7 +640,7 @@ Christopher Dilorio's FBI filings connect Epstein to Israeli financial networks:
 
 ## What the Evidence Establishes:
 
-1. **Ehud Barak's integration into Epstein's infrastructure was extraordinary.** 25+ documents confirm a 9-year relationship (2010-2019) including: an apartment cleaned by Epstein's staff in a trafficking-linked building, direct email correspondence, routinized scheduling through his assistant Nili Priel, lunches with Joel Klein and Mort Zuckerman, a brokered Bannon meeting, and presence on a single-day calendar alongside Leon Black, Larry Summers, and Peter Thiel. This is not a casual acquaintance -- this is a former head of state embedded in the physical and social infrastructure of a documented sex trafficking operation.
+1. **Ehud Barak's relationship with Epstein was extensive and deeply integrated.** 25+ documents confirm a 9-year relationship (2010-2019) including: an apartment cleaned by Epstein's staff in a building that also housed MC2 models and trafficking victims, direct email correspondence, routinized scheduling through his assistant Nili Priel, lunches with Joel Klein and Mort Zuckerman, a brokered Bannon meeting, and presence on a single-day calendar alongside Leon Black, Larry Summers, and Peter Thiel. This is not a casual acquaintance -- the documents show a former head of state with sustained personal, logistical, and financial ties to Epstein across the period when trafficking was ongoing. No document links Barak to awareness of or participation in the trafficking itself.
 
 2. **Nicole Junkermann maintained a 10-year business and personal relationship with Epstein (2009-2019).** Epstein brokered her introduction to Leon Black, advised her on personal legal matters, discussed investment opportunities, and included her on a January 2019 island trip guest list alongside Steve Bannon and Sultan bin Sulayem. Her relationship was active through at least March 2018 ("Can u speak?") and January 2019.
 

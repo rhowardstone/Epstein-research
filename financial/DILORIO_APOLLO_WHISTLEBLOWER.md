@@ -541,7 +541,7 @@ This concern about Apollo's insurance operations through Athene has since been v
 
 ### The "Summary Disposition" / "Christopher J Dilorio Rule"
 
-Dilorio's claim that the SEC created a procedural mechanism specifically to deny his whistleblower award -- which he calls the "Christopher J Dilorio rule" -- is one of his most explosive allegations. If true, it would represent an extraordinary institutional action to suppress a specific whistleblower's claims.
+Dilorio's claim that the SEC created a procedural mechanism specifically to deny his whistleblower award -- which he calls the "Christopher J Dilorio rule" -- is one of his most serious allegations. If true, it would represent an extraordinary institutional action to suppress a specific whistleblower's claims.
 
 ---
 

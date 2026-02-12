@@ -41,7 +41,7 @@ This is clearly a corrupted OCR reading of "NADIA MARCINKOVA" from behind a reda
 
 ### 1.2 Significance -- Revised (2026-02-12)
 
-**Original assessment:** The zero-result finding was interpreted as "systematic identity suppression" across all FBI files. **Revised assessment:** The zero results were an artifact of searching only redaction-extraction databases (which capture hidden text behind redactions in internal FBI materials). The full-text corpus (DS9/DS11) contains **200+ documents** with Marcinkova's name in court filings, NPA drafts, civil litigation, news articles, and FBI intelligence reports. The suppression was selective -- her name was systematically redacted in internal FBI materials (DS8/DS10/DS12 redaction layers) but remained visible in court records and publicly-filed documents included in DS9. This represents a pattern of internal protection rather than total erasure.
+**Original assessment:** The zero-result finding was interpreted as "systematic identity suppression" across all FBI files. **Revised assessment:** The zero results were an artifact of searching only redaction-extraction databases (which capture hidden text behind redactions in internal FBI materials). The full-text corpus (DS9/DS11) contains **200+ documents** with Marcinkova's name in court filings, NPA drafts, civil litigation, news articles, and FBI intelligence reports. The suppression was selective -- her name was systematically redacted in internal FBI materials (DS8/DS10/DS12 redaction layers) but remained visible in court records and publicly-filed documents included in DS9. This represents selective redaction in internal FBI materials. Whether this reflects victim privacy protections (she was later certified as a trafficking victim via I-914), deliberate concealment, or standard redaction practices is not established.
 
 ---
 
@@ -79,7 +79,7 @@ Despite the name suppression, Nadia appears by first name only in the following 
 - **Type:** Email communication
 - **Hidden text:** `Cc: nadia Subject:`
 - **Status:** NOT in OCR text records; fully redacted
-- **Significance:** Nadia copied on email communications, indicating ongoing integration in Epstein's operations
+- **Significance:** Nadia copied on email communications, indicating continued contact with Epstein's circle
 
 ### 2.6 "Talk to Nadia" Emails -- [EFTA02439416](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02439416.pdf) and [EFTA02439434](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02439434.pdf) (June 2009)
 - **Type:** Email chain between Jeffrey Epstein and an unidentified young woman
@@ -124,7 +124,7 @@ The OCR text reveals the following wire transfers from Epstein's **Butterfly Tru
 
 **UPDATE (2026-02-12):** DS9 wire transfer summaries ([EFTA00092643](https://www.justice.gov/epstein/files/DataSet%209/EFTA00092643.pdf)/[EFTA00105307](https://www.justice.gov/epstein/files/DataSet%209/EFTA00105307.pdf)) reveal an additional $45,000 wire from JEGE LLC to Aviloop on 11/27/2018 -- **one day BEFORE the Miami Herald series began.** Total Aviloop payments in late November 2018: **$145,000** (not $100,000 as originally reported).
 
-**Timeline significance:** The Miami Herald's "Perversion of Justice" series began publishing on **November 28, 2018**. The $45,000 wire preceded the series by one day; the $100,000 wire followed two days later. The $250,000 wire to another individual followed on December 3, 2018. DS9 email correspondence ([EFTA01015397](https://www.justice.gov/epstein/files/DataSet%209/EFTA01015397.pdf)) shows the $43,876 wire was discussed on November 26, 2018 (two days before the Herald series), with the label "I think it's Aviloop income" -- a deliberate disguise as business revenue.
+**Timeline significance:** The Miami Herald's "Perversion of Justice" series began publishing on **November 28, 2018**. The $45,000 wire preceded the series by one day; the $100,000 wire followed two days later. The $250,000 wire to another individual followed on December 3, 2018. DS9 email correspondence ([EFTA01015397](https://www.justice.gov/epstein/files/DataSet%209/EFTA01015397.pdf)) shows the $43,876 wire was discussed on November 26, 2018 (two days before the Herald series), with the label "I think it's Aviloop income." The Government cited this labeling in its detention memorandum as part of its argument for Epstein's detention.
 
 This is exactly the payment pattern described in the Government's detention memorandum (see Section 4 below).
 
@@ -181,7 +181,7 @@ Two versions of an SDNY prosecution status memo (likely updates to senior DOJ of
 - Was "also a victim of his sexual abuse"
 - Was in plea negotiations for "an obstruction of justice-related count"
 
-This profile matches Nadia Marcinkova precisely. She is the individual publicly known to have been both a participant in scheduling abuse and herself described as a victim. The fact that her name is redacted even in prosecution memos shared internally reinforces the systematic suppression pattern.
+This profile matches Nadia Marcinkova precisely. She is the individual publicly known to have been both a participant in scheduling abuse and herself described as a victim. The fact that her name is redacted even in prosecution memos shared internally is consistent with the selective redaction pattern identified in Section 1.2.
 
 ### 4.2 Detention Memorandum -- $100,000 Payment ([EFTA00014493](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014493.pdf) / [EFTA00016748](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016748.pdf))
 
@@ -461,8 +461,8 @@ Marcinkova's full name is absent from 1.8 million redaction records and 38,955 O
 ### Finding 2: Dual Victim/Co-Conspirator Status Confirmed
 The knowledge graph and prosecution documents confirm Marcinkova's dual status as both a victim of Epstein's abuse (corroborated by multiple victim testimonies) and an active co-conspirator who "scheduled hundreds of sexual massages with minors." This unique status likely explains both her NPA protection and the systematic redaction of her identity.
 
-### Finding 3: Epstein Paid Marcinkova to Maintain Silence (Updated 2026-02-12)
-DS9 reveals the total Aviloop payments in late November 2018 were **$145,000** (not $100,000): $45,000 from JEGE LLC on 11/27/2018 and $100,000 from Butterfly Trust on 11/30/2018. Email correspondence shows the payments were deliberately labeled as "Aviloop income" for visa purposes. Combined with regular financial flows from the "Money Trust" through Marcinkova's TD Bank account, this demonstrates an ongoing financial relationship that persisted long after the 2007 NPA.
+### Finding 3: Suspicious Payment Timing Around Miami Herald Series (Updated 2026-02-12)
+DS9 reveals the total Aviloop payments in late November 2018 were **$145,000** (not $100,000): $45,000 from JEGE LLC on 11/27/2018 and $100,000 from Butterfly Trust on 11/30/2018. Email correspondence labels one payment as "Aviloop income" ([EFTA01015397](https://www.justice.gov/epstein/files/DataSet%209/EFTA01015397.pdf): "I think it's Aviloop income"). The Government cited these payments in its detention memorandum as evidence of potential obstruction, noting the timing relative to the Miami Herald series. Combined with regular financial flows from the "Money Trust" through Marcinkova's TD Bank account, the documents show an ongoing financial relationship that persisted long after the 2007 NPA. Whether these specific payments were routine business transactions or had another purpose is not established in the released documents.
 
 ### Finding 4: NPA Explicitly Protected Marcinkova from Prosecution
 Government filings confirm Marcinkova was "named as a potential co-conspirator -- and for whom Epstein obtained protection in -- the NPA." Despite scheduling "hundreds of sexual massages with minors," she received immunity from federal prosecution under the controversial 2007 agreement.
@@ -520,9 +520,9 @@ Multiple emails (2011-2018) demonstrate Aviloop's primary purpose was to provide
 
 Laura Newman's December 2020 FBI interview identifies "NADIA MARCINKO (the NADIA she spoke about earlier), SARAH KELLEN, LESLIE, BELLA" by name. Newman described her as "tall blonde... his main NADIA." Multiple victims in civil RICO filings ([EFTA00222648](https://www.justice.gov/epstein/files/DataSet%209/EFTA00222648.pdf)) were "made to perform sex acts on Nadia Marcinkova in Epstein's presence."
 
-### 12.9 Target Letter Evasion ([EFTA00081180](https://www.justice.gov/epstein/files/DataSet%209/EFTA00081180.pdf))
+### 12.9 Epstein Redirected Aircraft to Prevent Target Letter Service ([EFTA00081180](https://www.justice.gov/epstein/files/DataSet%209/EFTA00081180.pdf))
 
-Court filings describe Epstein redirecting his aircraft from Teterboro to USVI to prevent FBI agents from serving Marcinkova with a target letter, confirming she was a target (not merely a witness) of the FBI investigation.
+Court filings describe Epstein redirecting his aircraft from Teterboro to USVI to prevent FBI agents from serving Marcinkova with a target letter. This indicates that Marcinkova was a target (not merely a witness) of the FBI investigation, and that Epstein took active steps to obstruct service of the letter.
 
 ---
 

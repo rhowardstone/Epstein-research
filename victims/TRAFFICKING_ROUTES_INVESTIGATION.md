@@ -531,7 +531,7 @@ Groff served as Epstein's executive assistant and handled:
 ### 10.5 David Rodgers -- Co-Pilot and Log Keeper
 
 - Maintained flight logs ([EFTA01684300](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01684300.pdf))
-- Retroactively added passenger names to flight logs ([EFTA02731168](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731168.pdf))
+- Per [EFTA02731168](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731168.pdf) p.7, would NOT go back to add passenger names on prior flight logs — prosecutors cited this to explain incomplete records
 - FBI documented: "(U) DAVID RODGERS" in case file ([EFTA01684300](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01684300.pdf))
 
 ### 10.6 Jean-Luc Brunel -- International Recruiting
@@ -580,7 +580,7 @@ Groff served as Epstein's executive assistant and handled:
 **[EFTA00016836](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016836.pdf):**
 > "a 15-year-old girl attempted to swim off Mr. Epstein's [island] after she was forced to engage in sex acts"
 
-The island was specifically designed to isolate victims with no means of independent departure.
+The island's geography meant victims had no means of independent departure, and passport confiscation reinforced this isolation.
 
 ### 11.5 Database Tracking
 
@@ -621,7 +621,7 @@ Offers of college assistance, career help, and luxury experiences were used to m
 | NES LLC | Pilot payroll entity; continued paying Rodgers post-death | [EFTA00159180](https://www.justice.gov/epstein/files/DataSet%209/EFTA00159180.pdf), [EFTA00159199](https://www.justice.gov/epstein/files/DataSet%209/EFTA00159199.pdf) |
 | Industrial Integrity Solutions LLC | New Mexico LLC (Rich Munkvold CFO); purchased N722JE helicopter from estate in 2021 for $1.00 + OVC | [EFTA00080010](https://www.justice.gov/epstein/files/DataSet%209/EFTA00080010.pdf) |
 
-### 12.2 Deliberate Obfuscation
+### 12.2 Single-Purpose Entities and Tail Number Changes
 
 **[EFTA00023437](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023437.pdf):**
 > "No other aircraft registered to or indexed to Hyperion Inc/LLC, Plan D LLC, Ossa Properties Inc."
@@ -631,7 +631,7 @@ This confirms that these shell companies were used solely for Epstein's aircraft
 **[EFTA00021666](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021666.pdf):**
 > "They changed the tail number... [in] August 2011 to N162AD"
 
-Tail numbers were changed to obscure aircraft tracking.
+Tail numbers were changed periodically, which had the effect of complicating aircraft tracking.
 
 ---
 
@@ -702,7 +702,7 @@ Tail numbers were changed to obscure aircraft tracking.
 
 The evidence reveals a purpose-built transportation system with the following characteristics:
 
-1. **Layered obfuscation:** Aircraft registered to multiple shell companies (JEGE, Hyperion, Plan D, Ossa, ASI Wings), tail numbers changed periodically, and no other aircraft registered to these entities.
+1. **Layered entity structure:** Aircraft registered to multiple shell companies (JEGE, Hyperion, Plan D, Ossa, ASI Wings), tail numbers changed periodically, and no other aircraft registered to these entities — a structure consistent with obfuscation, though other explanations (liability isolation, tax structure) are possible.
 
 2. **Private aviation to bypass screening:** By using Teterboro (private jet terminal), St. Thomas (private aviation facilities), and Palm Beach (private terminals), Epstein avoided the passenger screening, documentation, and witness exposure of commercial aviation.
 
@@ -716,7 +716,7 @@ The evidence reveals a purpose-built transportation system with the following ch
 
 7. **International scope:** The Concorde to Paris, flights to London, MC2 offices in Tel Aviv, and recruiting from Russia/Belarus/Eastern Europe demonstrate a truly international trafficking operation.
 
-8. **Complicit institutional actors:** Air traffic controllers observed children as young as 11 departing Epstein's jet; the network used "modeling visas" with apparent institutional cooperation; CBP records were maintained but apparently did not trigger intervention despite the pattern of private jet travel to the Virgin Islands.
+8. **Institutional failures:** Air traffic controllers observed children as young as 11 departing Epstein's jet but no intervention is documented; the network used "modeling visas" with apparent institutional cooperation; CBP records were maintained but apparently did not trigger intervention despite the pattern of private jet travel to the Virgin Islands.
 
 ---
 

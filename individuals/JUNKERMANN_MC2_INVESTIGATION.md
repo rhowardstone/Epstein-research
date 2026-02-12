@@ -8,7 +8,7 @@
 
 # EXECUTIVE SUMMARY
 
-Nicole Junkermann maintained an intimate advisory and business relationship with Jeffrey Epstein spanning at least 11 years (2008-2019), including contact during Epstein's incarceration period. [**Updated Feb 12, 2026**: DS9 full corpus expansion reveals 35+ new documents, extending the documented relationship to May 2009 (pre-prison-release correspondence) and establishing Junkermann on Epstein's prison mailing list during his 2008-2009 incarceration.] The relationship continued until just one month before his final arrest on July 6, 2019. She was part of his innermost circle -- invited to his private island for a Feb 2-5, 2019 trip alongside Sultan Bin Sulayem (chairman of DP World/Dubai Ports), Steve Bannon (former White House strategist), Eduardo Teodorani (Fiat/CNH executive), and Jabor Yousuf (Qatari associate). Epstein served as her personal strategic advisor, brokered her introduction to Leon Black (Apollo Global Management), and she pitched him investment deals. In parallel, MC2 Model Management -- the Jean-Luc Brunel/Epstein modeling agency -- functioned as a pipeline for vulnerable young women, including Russian-speaking models stranded in Italy waiting for promised work that never materialized.
+Nicole Junkermann maintained an intimate advisory and business relationship with Jeffrey Epstein spanning at least 11 years (2008-2019), including contact during Epstein's incarceration period. [**Updated Feb 12, 2026**: DS9 full corpus expansion reveals 35+ new documents, extending the documented relationship to May 2009 (pre-prison-release correspondence) and establishing Junkermann on Epstein's prison mailing list during his 2008-2009 incarceration.] The relationship continued until just one month before his final arrest on July 6, 2019. She was part of his innermost circle -- invited to his private island for a Feb 2-5, 2019 trip alongside Sultan Bin Sulayem (chairman of DP World/Dubai Ports), Steve Bannon (former White House strategist), Eduardo Teodorani (Fiat/CNH executive), and Jabor Yousuf (Qatari associate). Epstein served as her personal strategic advisor, brokered her introduction to Leon Black (Apollo Global Management), and she pitched him investment deals. In parallel, MC2 Model Management — the Jean-Luc Brunel/Epstein modeling agency — was alleged in victim testimony and court filings to have functioned as a recruitment channel for vulnerable young women. Correspondence in the files shows Russian-speaking models stranded in Italy waiting for promised work that never materialized.
 
 ---
 
@@ -25,7 +25,7 @@ Epstein wrote to Junkermann:
 
 > *"I spoke to Leon Black,, as you know i am not intimately familiar with the comlpexities of private equity... He said he will take you to lunch or dinner , and be any help he can"*
 
-**Analysis:** Epstein brokered an introduction between Nicole Junkermann and Leon Black, chairman and CEO of Apollo Global Management, one of the world's largest private equity firms. This occurred in October 2009 -- approximately one year after Epstein's release from his Florida prison sentence (July 2009). The phrase "as you know i am not intimately familiar with the complexities of private equity" is notable because Epstein was widely reported to manage billions in assets. The casual phrasing suggests deep familiarity between the two.
+**Analysis:** Epstein brokered an introduction between Nicole Junkermann and Leon Black, chairman and CEO of Apollo Global Management, one of the world's largest private equity firms. This occurred in October 2009 — approximately three months after Epstein's release from his Florida prison sentence (July 22, 2009). The phrase "as you know i am not intimately familiar with the complexities of private equity" is notable because Epstein was widely reported to manage substantial assets. The casual phrasing suggests familiarity between the two.
 
 Leon Black later acknowledged paying Epstein $158 million in advisory fees between 2012-2017, ultimately stepping down as Apollo CEO in March 2021. This document shows Epstein was actively brokering introductions between Black and his network immediately after his 2008 conviction.
 
@@ -88,7 +88,7 @@ UNITED IN SPORTS
 - [EFTA02395027](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02395027.pdf): Aug 29, 2014 -- Casual correspondence ("Hello my friend")
 - [EFTA02406453](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02406453.pdf): Nov 2011 -- Sultan shares flight details (Dubai-Paris-Beirut-Dubai) with Epstein
 - [EFTA02517291](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02517291.pdf): Sep 30, 2014 -- Epstein forwards Sultan's email about the Port of St. Croix to attorney Erika Kellerhals. Sultan directs DP World Senior VP Matthew Leech to contact Kellerhals "Regarding port of St Croix" -- suggesting Epstein was involved in DP World's operations in the US Virgin Islands
-- [EFTA02644753](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02644753.pdf): Jul 15, 2017 -- Epstein asks Sultan: "did you find yours? are you part jewish?" and proposes sending "sheikh mo a 23 and me kit" (referring to Sheikh Mohammed bin Rashid Al Maktoum, ruler of Dubai). This extraordinarily intimate exchange about DNA testing of the Dubai royal family reveals the depth of this relationship
+- [EFTA02644753](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02644753.pdf): Jul 15, 2017 -- Epstein asks Sultan: "did you find yours? are you part jewish?" and proposes sending "sheikh mo a 23 and me kit" (referring to Sheikh Mohammed bin Rashid Al Maktoum, ruler of Dubai). This exchange — proposing DNA testing of the Dubai ruler — indicates a level of personal access between Sultan and Epstein that extended well beyond business
 - [EFTA02664965](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02664965.pdf): Dec 28-29, 2016 -- Epstein tells an architect referred by Sultan: "Eduardo, I ve gotten your name from sultan suleiman in Dubai. He and I are great friends. I have two islands in the us virgin islands and want to build a great home. Sultan thought you might be the right fit."
 
 **2. Eduardo Teodorani(-Fabbri)** -- Senior Vice President, Corporate Development at CNH UK Limited (Case New Holland, a Fiat/Agnelli industrial group). Italian aristocrat connected to the Fabbri banking dynasty.
@@ -126,7 +126,7 @@ UNITED IN SPORTS
 
 ### Timeline Significance
 
-The planned February 2-5, 2019 island trip was organized just **five months before Epstein's July 6, 2019 arrest** by the FBI-NYPD task force. The guest list -- combining a Dubai ports magnate, an Italian industrial aristocrat, a German venture capitalist with intelligence connections, a Qatari associate, the former White House chief strategist, and a French construction firm -- suggests this was either a business summit or a social gathering of Epstein's core international network.
+The planned February 2-5, 2019 island trip was organized just **five months before Epstein's July 6, 2019 arrest** by the FBI-NYPD task force. The guest list -- combining a Dubai ports magnate, an Italian industrial aristocrat, a German venture capitalist, a Qatari associate, the former White House chief strategist, and a French construction firm — suggests this was either a business summit or a social gathering of Epstein's international network.
 
 Epstein himself planned to be in **Paris January 22-31, 2019** before the island trip. His Paris apartment at 22 Avenue Foch was a known meeting location for his international contacts.
 
@@ -161,7 +161,7 @@ From "Nicole Junkermann | Junkermanngroup":
 
 Sent from iPhone at 12:44 PM.
 
-**Analysis:** This terse message suggests a relationship where Junkermann could contact Epstein casually and expect immediate availability. The date is significant: by March 2018, the Miami Herald investigation by Julie K. Brown was well underway, and the SDNY investigation had been opened. The metadata shows this was conversation-id 13243, indicating extensive prior correspondence in this email thread.
+**Analysis:** This terse message suggests a relationship where Junkermann could contact Epstein casually and expect immediate availability. The metadata shows this was conversation-id 13243, indicating extensive prior correspondence in this email thread. By the time of this message, Julie K. Brown's Miami Herald investigation was in preparation (the series was published starting November 28, 2018), and the SDNY investigation was opened later that year.
 
 ## Document 5: [EFTA01883804](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01883804.pdf) -- Appointment Schedule
 
@@ -212,7 +212,7 @@ Minimal content recovered. This represents an additional document mentioning Jun
 
 ---
 
-# PART II: MC2 MODEL MANAGEMENT -- THE TRAFFICKING PIPELINE
+# PART II: MC2 MODEL MANAGEMENT -- THE MODEL RECRUITMENT PIPELINE
 
 ## The MC2 Structure
 
@@ -262,17 +262,18 @@ Epstein's only prior message was: *"When???"*
 
 ### [EFTA02439348](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02439348.pdf) (Jun 23, 2009) -- Emotional Dependence
 
-The same woman writes again, signing as **"Lana"**:
+The same woman writes again (June 22), signing as **"Lana"**:
 
-> *"send me a number to call, i'll call tomorrow*
-> *i'm in liguria now, visiting friends that i met 5 years ago...at least next time sea getting brown, you would like it*
+> *"i'm in liguria now, visiting friends that i met 5 years ago...at least next time sea getting brown, you would like it*
 > *i really want to see you or at least talk to you for more than 15 seconds...you are one of the most important people in my life and there are so many things I'd like to share with you... or at least cook the potatoes or russian salad for you (now i'm gonna be better, the friends i'm visiting have their restaurant so i asked them to teach me to cook at least 1 dish but perfect!)*
 > *no big news, hope to see you soon*
 > *love, Lana"*
 
 Epstein had written: *"so what are you going to do in the next month"*
 
-And she responded with the MC2 complaint: *"no idea...before MC2 had told me 3 weeks, b its been more than a month already and no news..."*
+She responded with the MC2 complaint: *"no idea...before MC2 had told me 3 weeks, b its been more than a month already and no news..."*
+
+Epstein then replied (June 23): *"send me a number to call, ill call tomorrow"*
 
 ### [EFTA02439413](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02439413.pdf) (Jun 30, 2009) -- Milan, No Work, Going to Moscow
 
@@ -295,7 +296,7 @@ He also provides a phone number: *"it looks like 30-60 days out"* and *"39 389 0
 The emails are written in a mix of English and Russian (Yahoo interface in Russian with Cyrillic text). Key observations:
 
 1. **MC2 had promised her work within 3 weeks** but over a month later she had no jobs. She was stranded in Milan with no income.
-2. **She describes Epstein as "one of the most important people in my life"** -- language consistent with grooming and emotional dependence.
+2. **She describes Epstein as "one of the most important people in my life"** — language indicating significant emotional attachment to Epstein.
 3. **She was in Liguria (Italian Riviera), then Milan, then planning to go to Moscow** -- the classic circuit of Eastern European models.
 4. **She had no stable living situation** and no air conditioning in the Italian summer heat.
 5. **Epstein offered to bring her "to the states"** -- suggesting he could facilitate her US entry.
@@ -317,8 +318,10 @@ On June 20, 2009 -- **one day after the first MC2 email** -- Daniel Siad emailed
 
 Daniel Siad was identified in FBI files as a direct link between Jean-Luc Brunel and Epstein's procurement network:
 
-**[EFTA00017956](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017956.pdf) (FBI file, Dec 2018):**
+**[EFTA00017956](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017956.pdf) (in FBI case files, originally from attorney Stan Pottinger, May 2016, forwarded Dec 2018):**
 > *"Yesterday I spoke of Daniel Siad, whom Jean Luc Brunel describes as a 'scout' or recruiter of girls and/or women for J Epstein. Attached to this incoming email from Brunel is the contact information he has for Siad."*
+
+Note: This characterization originates from Pottinger relaying Brunel's own description of Siad, not from an FBI assessment.
 
 **[EFTA02432663](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02432663.pdf) (Dec 24, 2009):**
 Siad writes to Epstein from Koh Samui, Thailand:
@@ -343,7 +346,7 @@ MC2 and Brunel sued Epstein in January 2015, claiming his sexual abuse scandals 
 
 ## The Victim Accounts and MC2 ([EFTA00022133](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022133.pdf), [EFTA00021553](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021553.pdf))
 
-Court filings reveal MC2's role in the trafficking operation:
+Court filings contain allegations about MC2's role in Epstein's network. Brunel died before trial (found hanged in Paris jail, February 2022); MC2 was never convicted:
 
 **Jane Doe #3 (Virginia Giuffre) testified ([EFTA00021553](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021553.pdf)):**
 > *"Brunel would bring young girls (some as young as twelve) to the United States for sexual purposes and farm them out to his friends, especially Epstein. Brunel would offer the girls 'modeling' jobs. Many of the girls came from poor countries or impoverished backgrounds, and he lured them in with a promise of making good money."*
@@ -366,7 +369,7 @@ Black acknowledged paying Epstein $158 million and resigned as Apollo CEO in 202
 Both Junkermann and Sultan Bin Sulayem appear on the January 2019 island trip guest list. **[Updated Feb 12, 2026]:** DS9 reveals Sultan also visited the island in June 2016 ([EFTA00324174](https://www.justice.gov/epstein/files/DataSet%209/EFTA00324174.pdf): Groff asked "Did you want me to coordinate a trip to your island on June 9/10 with Sultan?"), attended Sultan's Maritime Hall of Fame ceremony at the Grand Hyatt in May 2012 ([EFTA00307036](https://www.justice.gov/epstein/files/DataSet%209/EFTA00307036.pdf)), received a formal DP World invitation on corporate letterhead ([EFTA00317396](https://www.justice.gov/epstein/files/DataSet%209/EFTA00317396.pdf)), and a $6,200 Deutsche Bank wire from Epstein to Sultan is documented ([EFTA00080250](https://www.justice.gov/epstein/files/DataSet%209/EFTA00080250.pdf)). Sultan's independent relationship with Epstein was extraordinarily deep:
 
 - **Port of St. Croix deal (2014):** Sultan directed his DP World SVP Matthew Leech to work with Epstein's USVI attorney Erika Kellerhals regarding the Port of St. Croix -- suggesting Epstein may have been involved in facilitating DP World's access to US Virgin Islands port operations
-- **DNA testing of Dubai royalty (2017):** Epstein proposed sending a "23 and me kit" to "sheikh mo" (Sheikh Mohammed bin Rashid Al Maktoum, ruler of Dubai and Sultan's boss), asking Sultan: "did you find yours? are you part jewish?" -- an extraordinarily intimate and potentially compromising exchange
+- **DNA testing discussion (2017):** Epstein proposed sending a "23 and me kit" to "sheikh mo" (Sheikh Mohammed bin Rashid Al Maktoum, ruler of Dubai and Sultan's boss), asking Sultan: "did you find yours? are you part jewish?"
 - **Island construction referral (2016):** Sultan referred Dubai-based architect Eduardo Robles (Creative Kingdom) to Epstein for building on his Virgin Islands properties
 
 ## C. Junkermann + Steve Bannon
@@ -483,22 +486,22 @@ The evidence shows Nicole Junkermann was deeply embedded in Epstein's network:
 The planned Feb 2-5, 2019 gathering on Little St. James Island would have assembled:
 - A **Dubai ports magnate** with access to global shipping infrastructure
 - An **Italian industrial aristocrat** from the Fiat/Agnelli sphere
-- A **German venture capitalist** with reported Israeli intelligence connections
+- A **German venture capitalist** who co-invested with Epstein and Barak in Israeli tech ventures
 - A **Qatari associate** with ties to the region's power networks
 - The **former White House Chief Strategist**
 - A **French construction/development firm** (3BIS)
 
 This was planned just **five months before Epstein's arrest** -- suggesting Epstein maintained his power-brokering activities until the very end.
 
-## 3. The MC2 Pipeline Was a Documented Trafficking Operation
+## 3. MC2's Role as Described in Victim Testimony and Court Filings
 
 The "Lana" correspondence provides a granular view of how MC2 operated:
 - Young women were **promised work within specific timeframes** (3 weeks)
 - Those promises were **not fulfilled**, leaving them stranded abroad
-- They became **emotionally dependent** on Epstein ("most important person in my life")
+- They expressed **strong emotional attachment** to Epstein ("most important person in my life")
 - Epstein maintained **personal contact** with the women MC2 was handling
 - He offered to **bring them to the United States** -- the ultimate leverage
-- Daniel Siad, identified by Brunel himself as a **"scout or recruiter of girls and/or women for J Epstein,"** sent model photos from Thailand, Dubai, and Europe. **[Updated Feb 12, 2026]:** DS9 expands Siad's role beyond model scouting -- he also introduced Thai royalty (Mom Luang Rajadarasri Jayankura, Honorary Consul of Kosovo in Thailand) to Epstein ([EFTA00404287](https://www.justice.gov/epstein/files/DataSet%209/EFTA00404287.pdf)), connected Epstein to three Hermes luxury brand executives ([EFTA00400322](https://www.justice.gov/epstein/files/DataSet%209/EFTA00400322.pdf)), and provided contacts for women to Epstein's staff
+- Daniel Siad, described by Brunel (via attorney Pottinger) as a **"scout or recruiter of girls and/or women for J Epstein,"** sent model photos from Thailand, Dubai, and Europe. **[Updated Feb 12, 2026]:** DS9 expands Siad's role beyond model scouting -- he also introduced Thai royalty (Mom Luang Rajadarasri Jayankura, Honorary Consul of Kosovo in Thailand) to Epstein ([EFTA00404287](https://www.justice.gov/epstein/files/DataSet%209/EFTA00404287.pdf)), connected Epstein to three Hermes luxury brand executives ([EFTA00400322](https://www.justice.gov/epstein/files/DataSet%209/EFTA00400322.pdf)), and provided contacts for women to Epstein's staff
 
 ## 4. The 301 E. 66th Street Nexus
 

@@ -9,7 +9,7 @@ Every factual claim in these reports traces back to specific EFTA document numbe
 
 **This is not opinion or speculation.** These reports synthesize what the documents themselves say, with sourcing. Where conclusions are drawn, the supporting evidence chain is cited. Where evidence is ambiguous, that is noted. If you notice any problems, please raise an ISSUE on this repository and it will be attended to promptly.
 
-**February 2026 Full-Corpus Update:** All 100+ reports have been systematically revisited against the complete 12-dataset corpus (1,380,937 documents). Key corrections include: the "99-day blackout" was a PLIST extraction artifact (DS9 shows continuous email activity); the flight log modification claim was inverted (pilots didn't go back to add names, explaining incomplete records); "Coatue" was Richard Kahn's personal shell entity, not Philippe Laffont's hedge fund; and "Prytanee LLC" was traced to Etienne Pierre Jean Binant, not Jack Lang. Major expansions: FBI CHS FD-1023 ([EFTA00090314](https://www.justice.gov/epstein/files/DataSet%209/EFTA00090314.pdf)) located in DS9 states Epstein "belonged to both U.S. and allied intelligence services" and "trained as a spy under" Ehud Barak — overturning the prior "no explicit service connection" conclusion; intelligence-related searches that returned zero in DS1-8 now show Carbyne (50 docs), Reporty (324), Unit 8200 (11 refs); Ehud Barak expanded from 25 to 3,756 documents; Elon Musk expanded from 0 to 1,038 documents with 15+ direct emails; CBP officer de-redacted as Timothy Routch; JABWCPA de-redacted as Jeanne Anne Brennan Wiebracht. Corrections are marked inline with `[CORRECTED]` or `[CORRECTION]` tags throughout.
+**February 2026 Full-Corpus Update:** All 100+ reports have been systematically revisited against the complete 12-dataset corpus (1,380,937 documents). Key corrections include: the "99-day blackout" was a PLIST extraction artifact (DS9 shows continuous email activity); the flight log modification claim was inverted (pilots didn't go back to add names, explaining incomplete records); "Coatue" was Richard Kahn's personal shell entity, not Philippe Laffont's hedge fund; and "Prytanee LLC" was traced to Etienne Pierre Jean Binant, not Jack Lang. Major expansions: FBI CHS FD-1023 ([EFTA00090314](https://www.justice.gov/epstein/files/DataSet%209/EFTA00090314.pdf)) located in DS9 states Epstein "belonged to both U.S. and allied intelligence services" and "trained as a spy under" Ehud Barak — complicating the prior "no explicit service connection" conclusion (note: this is an unverified single-source CHS report, not an FBI finding); intelligence-related searches that returned zero in DS1-8 now show Carbyne (50 docs), Reporty (324), Unit 8200 (11 refs); Ehud Barak expanded from 25 to 3,756 documents; Elon Musk expanded from 0 to 1,038 documents with 15+ direct emails; CBP officer de-redacted as Timothy Routch; JABWCPA de-redacted as Jeanne Anne Brennan Wiebracht. Corrections are marked inline with `[CORRECTED]` or `[CORRECTION]` tags throughout.
 
 ---
 
@@ -41,7 +41,7 @@ See the [EFTA Dataset Mapping](#efta-number-to-dataset-mapping) table at the bot
 
 | Report | Description |
 |--------|-------------|
-| [FINAL_INVESTIGATION_REPORT](overview/FINAL_INVESTIGATION_REPORT.md) | Definitive 10-session investigation synthesis. 400+ EFTA citations, $755M traced, 30+ named individuals. Prosecution-referral grade. |
+| [FINAL_INVESTIGATION_REPORT](overview/FINAL_INVESTIGATION_REPORT.md) | Definitive 10-session investigation synthesis. 400+ EFTA citations, $755M traced, 30+ named individuals. Every claim sourced to specific documents. |
 | [INSTITUTIONAL_FAILURE_NARRATIVE](overview/INSTITUTIONAL_FAILURE_NARRATIVE.md) | "The Architecture of Impunity" -- 7-chapter prosecutorial failure narrative, 1996-2024, 80+ EFTA citations. |
 | [MASTER_REPORT](overview/MASTER_REPORT.md) | Consolidated findings from systematic document analysis of the full 627MB text corpus. |
 | [PHASE1_GAP_DETECTION](overview/PHASE1_GAP_DETECTION.md) | Gap detection and counterfactual analysis -- identifying what's missing from the record. |
@@ -88,7 +88,7 @@ See the [EFTA Dataset Mapping](#efta-number-to-dataset-mapping) table at the bot
 | [MITCHELL_CASCADE_INVESTIGATION](individuals/MITCHELL_CASCADE_INVESTIGATION.md) | David J. Mitchell (estate co-executor): $580.5K wires, fragmentation pattern, "Cascade" code name, Mandelson connection. Separate from Senator Mitchell. |
 | [ROTHSCHILD_INVESTIGATION](individuals/ROTHSCHILD_INVESTIGATION.md) | Ariane de Rothschild's untraceable aderfam.ch channel. $25M in 2 wires bracketing EdR $45M DOJ penalty. Both $25M principals now dead. |
 | [JUNKERMANN_MC2_INVESTIGATION](individuals/JUNKERMANN_MC2_INVESTIGATION.md) | Nicole Junkermann: 4,182 docs (expanded from 10+ in DS1-8), 10+ year relationship, Leon Black intro brokered, Jan 2019 island trip. MC2 stranding Russian girls in Milan, recruiting ages 13-20. |
-| [MARCINKOVA_INVESTIGATION](individuals/MARCINKOVA_INVESTIGATION.md) | Nadia Marcinkova: ZERO results for full name (systematic identity protection). $100K Aviloop wire 2 days after Miami Herald. 124 flights. NPA protected. |
+| [MARCINKOVA_INVESTIGATION](individuals/MARCINKOVA_INVESTIGATION.md) | Nadia Marcinkova: near-zero results for full name in redaction databases (1 hit in DS10; may reflect effective redactions, first-name usage, or tool limitations). $100K Aviloop wire 2 days after Miami Herald. 124 flights. NPA protected. |
 | [INVESTIGATION_1_BARR_NTOC](individuals/INVESTIGATION_1_BARR_NTOC.md) | William Barr NTOC filing deep dive -- forensic analysis of the tip and associated evidence. |
 | [INVESTIGATION_5_MAXWELL_SSN](individuals/INVESTIGATION_5_MAXWELL_SSN.md) | Maxwell NYPD firearms permit anomalies: CT-prefix SSN, military/criminal record flags. |
 | [INVESTIGATION_6_LEON_BLACK](individuals/INVESTIGATION_6_LEON_BLACK.md) | Leon Black: 47 EFTA docs, NTOC filing, HT Subject Referral, "DANY do not doubt her allegations." |
@@ -112,7 +112,7 @@ See the [EFTA Dataset Mapping](#efta-number-to-dataset-mapping) table at the bot
 
 | Report | Description |
 |--------|-------------|
-| [DEVICE_FORENSICS_COMPLETE](evidence/DEVICE_FORENSICS_COMPLETE.md) | 70+ devices, 2005 computer NEVER searched, DVR failure 12 days pre-death, 6 machines unexported Oct 2020. |
+| [DEVICE_FORENSICS_COMPLETE](evidence/DEVICE_FORENSICS_COMPLETE.md) | 70+ devices, 2005 computer forensic image never examined by federal authorities (PBCSO may have examined the original), DVR failure 12 days pre-death, 6 machines unexported Oct 2020. |
 | [PLIST_FORENSIC_SEARCH](evidence/PLIST_FORENSIC_SEARCH.md) | 460+ Apple Mail PLIST metadata documents, 2 email accounts, 9-year date range (2009-2018). |
 | [PLIST_REDACTED_EMAILS_DEEP_DIVE](evidence/PLIST_REDACTED_EMAILS_DEEP_DIVE.md) | 12 failed redaction overlays exposing PLIST XML: Russian/Uzbek woman, neuroscience dinner, Groff calling State Dept for Mitchell. |
 | [PLIST_TIMESTAMP_TRANSACTION_CORRELATION](evidence/PLIST_TIMESTAMP_TRANSACTION_CORRELATION.md) | 420 timestamps vs financial dates: Tudor $13.5M strongest correlation. **Note:** The "99-day blackout" originally reported here was corrected — DS9 shows continuous email activity. |
@@ -145,7 +145,7 @@ See the [EFTA Dataset Mapping](#efta-number-to-dataset-mapping) table at the bot
 
 | Report | Description |
 |--------|-------------|
-| [PROSECUTION_FAILURES_ANALYSIS](institutional/PROSECUTION_FAILURES_ANALYSIS.md) | Comprehensive documentation of failed prosecutions: NPA architecture, Acosta deposition, Dershowitz self-immunity, CVRA violations, 15+ named individuals. |
+| [PROSECUTION_FAILURES_ANALYSIS](institutional/PROSECUTION_FAILURES_ANALYSIS.md) | Comprehensive documentation of failed prosecutions: NPA architecture, blanket co-conspirator immunity expansion, Acosta deposition, CVRA violations, 15+ named individuals. |
 | [CBP_CORRUPTION_INVESTIGATION](institutional/CBP_CORRUPTION_INVESTIGATION.md) | CBP officer **Timothy Routch** (Badge #CAS03223, **de-redacted via DS9**) self-incriminated, 7+ years clearing Epstein's aircraft at St. Thomas. FBI proffer sessions Oct-Nov 2020. |
 | [CBP_RUEMMLER_REMAINING_LEADS](institutional/CBP_RUEMMLER_REMAINING_LEADS.md) | CBP officer expanded investigation, Ruemmler full 15-email trail, remaining unidentified leads. |
 
@@ -195,7 +195,7 @@ Full-corpus search of all 537 current members of Congress (119th Congress), 77 e
 | [REPUBLICAN_HOUSE](government-officials/REPUBLICAN_HOUSE.md) | 221 Republican House members: 1 MIXED (Loudermilk — different person), 2 FALSE POSITIVES (John James, Scott Fitzgerald). |
 | [REPUBLICAN_SENATE](government-officials/REPUBLICAN_SENATE.md) | 53 Republican Senators: 2 MIXED (McConnell declined donation, Rick Scott routine govt doc), 1 FALSE POSITIVE (Jim Justice). |
 | [INDEPENDENT_SENATE](government-officials/INDEPENDENT_SENATE.md) | 2 Independent Senators (Sanders, King): news coverage only. |
-| [EXECUTIVE_BRANCH](government-officials/EXECUTIVE_BRANCH.md) | 77 officials: 8 DIRECT connections (Musk, Bannon, Lutnick, Burns, Trump, Kushner, Rice, Monaco). Key finding: William Burns (future CIA Director) had direct emails with Epstein in 2014; Epstein introduced Burns to Peter Thiel. |
+| [EXECUTIVE_BRANCH](government-officials/EXECUTIVE_BRANCH.md) | 77 officials: 8 DIRECT connections (Musk, Bannon, Lutnick, Burns, Trump, Kushner, Rice, Monaco). Key finding: William Burns (future CIA Director) had direct email exchanges with Epstein in 2014 (EFTA00869068, EFTA01748726, EFTA01001666); Epstein brokered a Burns-Thiel introduction (EFTA02370150) and mentioned "bill gates in on the 5th" in a message to Burns (EFTA01001666). |
 | [JUDICIAL_BRANCH](government-officials/JUDICIAL_BRANCH.md) | 503 federal judges (all SCOTUS + 301 circuit + 191 key district): No SCOTUS justice has direct Epstein connection. Elena Kagan (58 docs) linked via Harvard poetry project Epstein funded. Stephanie Thacker (now 4th Circuit) was former CEOS deputy who formally criticized DOJ's Epstein case handling. |
 
 ### Raw Dataset Analysis (11 reports)

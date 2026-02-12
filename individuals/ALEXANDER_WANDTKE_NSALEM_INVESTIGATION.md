@@ -134,7 +134,7 @@ Only hits: [EFTA01660651](https://www.justice.gov/epstein/files/DataSet%2010/EFT
 ### "Alon" / "Allen"
 "Allen" is too common for targeted search (Amanda L. Allen at FBI, Woody Allen, etc.). "Alon" yields zero relevant hits beyond the NTOC tip.
 
-**Finding: The Alexander brothers appear in 3 EFTA numbers: [EFTA01660651](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660651.pdf) and [EFTA01660679](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660679.pdf) (the same NTOC document in two versions), plus [EFTA01207741](https://www.justice.gov/epstein/files/DataSet%209/EFTA01207741.pdf) -- a browser screenshot from a seized device showing someone browsing Oren Alexander's photo page on BFA.com (a society photography site), specifically a photo from the 22nd Annual Watermill Center Summer Benefit (July 25, 2015). The browser tabs in the screenshot include "Inspiring Capital" and French-language settings ("Accueil"), indicating the user may be associated with that venture platform. Two additional EFTA documents reference BFA.com in Epstein's network: [EFTA00850564](https://www.justice.gov/epstein/files/DataSet%209/EFTA00850564.pdf) (Epstein emailing a BFA.com link about a "russian girl from moscow" attempting to "blackmail a group of powerful biznessman in New York") and [EFTA01198259](https://www.justice.gov/epstein/files/DataSet%209/EFTA01198259.pdf) (another seized-device Firefox screenshot browsing BFA.com). This pattern suggests BFA.com was used within Epstein's network for surveillance-style identification of individuals at society events.**
+**Finding: The Alexander brothers appear in 3 EFTA numbers: [EFTA01660651](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660651.pdf) and [EFTA01660679](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660679.pdf) (the same NTOC document in two versions), plus [EFTA01207741](https://www.justice.gov/epstein/files/DataSet%209/EFTA01207741.pdf) -- a browser screenshot from a seized device showing someone browsing Oren Alexander's photo page on BFA.com (a society photography site), specifically a photo from the 22nd Annual Watermill Center Summer Benefit (July 25, 2015). The browser tabs in the screenshot include "Inspiring Capital" and French-language settings ("Accueil"), indicating the user may be associated with that venture platform. Two additional EFTA documents reference BFA.com in Epstein's network: [EFTA00850564](https://www.justice.gov/epstein/files/DataSet%209/EFTA00850564.pdf) (Epstein emailing a BFA.com link about a "russian girl from moscow" attempting to "blackmail a group of powerful biznessman in New York") and [EFTA01198259](https://www.justice.gov/epstein/files/DataSet%209/EFTA01198259.pdf) (another seized-device Firefox screenshot browsing BFA.com). BFA.com is a widely used society photography site, and browsing it does not inherently indicate surveillance activity. However, the presence of Oren Alexander's photos on a seized Epstein device, combined with the separate "russian girl" blackmail email, documents that BFA.com content was accessed within Epstein's network.**
 
 ## 1d. "Katie" as Victim Reference
 
@@ -427,7 +427,7 @@ Glenn Dubin's reply ([EFTA00825780](https://www.justice.gov/epstein/files/DataSe
 
 Duplicate copies exist in DS11 at [EFTA02459952](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02459952.pdf) and [EFTA02460024](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02460024.pdf).
 
-Epstein explicitly acknowledges that a deposition has been given alleging he brought "young girls on multiple occasions" to the Dubins' North Salem property. Epstein dismisses this as "nonsense." Dubin's single-word response does not deny the allegation.
+Epstein explicitly acknowledges that a deposition has been given alleging he brought "young girls on multiple occasions" to the Dubins' North Salem property. Epstein dismisses this as "nonsense." Dubin's single-word response — "uuugghh" — expresses displeasure but is ambiguous; it could reflect frustration at the allegation, concern about its implications, or any number of reactions. The exchange does not establish whether Dubin had knowledge of the alleged conduct.
 
 ### "Renaldo" Identified as Eva Dubin's Staff Member
 
@@ -449,7 +449,7 @@ Multiple emails show Epstein placing his own employee Janusz Banasiak at the Dub
 | [EFTA01058566](https://www.justice.gov/epstein/files/DataSet%209/EFTA01058566.pdf) | 9 | Dec 23, 2016 | Epstein: "do you want janusch for north salem?" |
 | [EFTA01058334](https://www.justice.gov/epstein/files/DataSet%209/EFTA01058334.pdf) | 9 | Dec 27, 2016 | Eva: "interested in exploring Janusz and Ofelia taking a couples position in North Salem" |
 
-[EFTA00040278](https://www.justice.gov/epstein/files/DataSet%209/EFTA00040278.pdf) (DS9) is a 7-page FBI 302 interview of Janusz Banasiak (October 19, 2021). Banasiak was Epstein's Palm Beach house manager (2005-2016+). Key excerpt: *"When EPSTEIN would arrive with the girls BANASIAK would try to give them space or privacy so he wouldn't answer as many phone calls during that time."* The attempt to place Banasiak -- an Epstein employee who witnessed "arriving with girls" -- at the Dubins' North Salem property is a documented staffing connection between Epstein's operations and the Dubin household.
+[EFTA00040278](https://www.justice.gov/epstein/files/DataSet%209/EFTA00040278.pdf) (DS9) is a 7-page FBI 302 interview of Janusz Banasiak (October 19, 2021). Banasiak was Epstein's Palm Beach house manager (2005-2016+). Key excerpt: *"When EPSTEIN would arrive with the girls BANASIAK would try to give them space or privacy so he wouldn't answer as many phone calls during that time."* The emails document Epstein recommending his own employee — who separately told the FBI he witnessed Epstein "arriving with girls" — for a position at the Dubins' North Salem property. Whether this recommendation had any purpose beyond ordinary employment placement is not established by the available documents.
 
 ### Kevin Vanacore / Old Salem Farm
 
@@ -503,7 +503,7 @@ The Wandtke CD (Lead 2) and North Salem Wedding CD (Lead 3) are in the SAME evid
 
 The Alexander brothers (Lead 1) appear in NTOC tips documents ([EFTA01660651](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660651.pdf)/[EFTA01660679](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660679.pdf)) and in the Oren Alexander browser screenshot ([EFTA01207741](https://www.justice.gov/epstein/files/DataSet%209/EFTA01207741.pdf)). No direct connection between the Alexander brothers and the Dubin North Salem property has been established. The Alexander brothers tip describes events at "Epstein's New York residence" (9 East 71st Street), not North Salem. However, the Oren Alexander screenshot shows someone in Epstein's network browsing his society photos, and the brothers' luxury real estate business operated in the same social circuit as the Dubins. Both the Alexander brothers tip and the North Salem evidence involve allegations of bringing young women/girls to social events.
 
-The connection between Leads 2 (Wandtke) and 3 (North Salem) is now substantially strengthened: the North Salem wedding photos were taken at the Glenn and Eva Dubin property, where deposition testimony alleges Epstein brought "young girls on multiple occasions," and where Epstein attempted to place his own staff member (Banasiak, who witnessed "arriving with girls").
+The connection between Leads 2 (Wandtke) and 3 (North Salem) is now substantially strengthened: the North Salem wedding photos were taken at the Glenn and Eva Dubin property, where deposition testimony alleges Epstein brought "young girls on multiple occasions," and where Epstein recommended his own employee Banasiak — who separately told the FBI he witnessed Epstein "arriving with girls" — for a household position.
 
 ## "Max" Across Binders
 
@@ -538,9 +538,9 @@ Whether these are the same person cannot be confirmed.
 
 ## Lead 1: Alexander Brothers -- HIGH PRIORITY
 
-1. **Trial Relevance (ACTIVE):** The Alexander brothers are currently on trial in Manhattan federal court. The NTOC tip in [EFTA01660651](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660651.pdf) places them at Epstein's NY parties committing sexual assaults. This evidence is directly relevant to their prosecution.
+1. **Trial Relevance (ACTIVE):** The Alexander brothers are currently on trial in Manhattan federal court on sex trafficking charges. They have pleaded not guilty to all counts. An NTOC tip in [EFTA01660651](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660651.pdf) alleges their presence at Epstein's NY parties and alleges sexual assaults. NTOC tips are unverified public tips to the FBI and do not constitute findings of fact. The tip's relevance to the current prosecution is for investigators and the court to evaluate.
 
-2. **Pattern Match:** The tip describes the exact pattern charged in the current case: brothers working in concert to lure victims at social events and sexually assault them. The Epstein tip extends the alleged pattern back to the late 1990s/early 2000s (current charges cover 2008-2021).
+2. **Pattern Allegation:** The tip alleges a pattern — brothers working in concert at social events — that is similar to the pattern charged in the current case (2008-2021). If the tip's allegations are accurate, they would extend the alleged conduct back to the late 1990s/early 2000s. The tip is unverified and the brothers have not been charged in connection with the Epstein investigation.
 
 3. **Katie LNU Identification:** The 14-year-old victim "Katie LNU" remains unidentified. If she was 14 in the late 1990s, she would be approximately 40 years old now. Her identity may be known to prosecutors but is not in the released files.
 
@@ -570,7 +570,7 @@ Whether these are the same person cannot be confirmed.
 
 4. **Deposition Allegation:** [EFTA00825777](https://www.justice.gov/epstein/files/DataSet%209/EFTA00825777.pdf) documents Epstein informing Glenn Dubin that a staff member (Renaldo) gave deposition testimony alleging Epstein "brought young girls on multiple occasions to north salem."
 
-5. **Staff Connections:** Epstein attempted to place his own Palm Beach house manager (Janusz Banasiak) at the Dubins' North Salem property, and Epstein's assistant (Lesley Groff) was directly involved in hiring household staff for the Dubins.
+5. **Staff Connections:** Epstein recommended his own Palm Beach house manager (Janusz Banasiak) for a position at the Dubins' North Salem property, and Epstein's assistant (Lesley Groff) was directly involved in hiring household staff for the Dubins.
 
 6. **Video Evidence:** Three AVI video files from the wedding exist. These may contain audio and clearer identification of attendees than the blurred still photos.
 

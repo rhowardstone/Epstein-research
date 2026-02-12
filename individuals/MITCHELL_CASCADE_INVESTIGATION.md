@@ -35,7 +35,7 @@ This narrative traces every documented payment, communication, and connection.
 | **Phone** | 212-486-4444 (as of April 2018) |
 | **Fax** | 212-588-0286 (as of 2010) |
 
-**Prosecutorial Note:** Mitchell's office addresses track a pattern of prestigious Manhattan locations -- East 60th Street, Fifth Avenue, Madison Avenue -- consistent with someone operating as a front-facing representative for high-net-worth real estate transactions. The address changes may also indicate offices provided or subsidized by Epstein interests.
+**Note:** Mitchell's office addresses track a pattern of prestigious Manhattan locations -- East 60th Street, Fifth Avenue, Madison Avenue -- consistent with someone operating in high-net-worth real estate transactions.
 
 ### 1.2 Role in Epstein's Will -- The Ultimate Trust Marker
 
@@ -127,7 +127,7 @@ Source: **[EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA0
 
 **Phase 2 (October - December 2018):** Four payments totaling $265,000. The $125,000 on 10/11/2018 is the single largest payment. This escalation coincides with the Life Hotel project reaching critical phase.
 
-**Phase 3 (January - April 2019):** Nine payments totaling $215,500. Note the **fragmentation** -- on March 5, 2019 alone, three separate wires ($25,000 + $14,000 + $4,000) were sent. The April payments further fragment to $3,000, $7,800, and $2,200. This pattern of breaking a larger sum into multiple smaller wires is a classic **structuring concern** -- it may indicate an attempt to obscure the total flow of funds or to match specific invoiced items.
+**Phase 3 (January - April 2019):** Nine payments totaling $215,500. Note the **fragmentation** -- on March 5, 2019 alone, three separate wires ($25,000 + $14,000 + $4,000) were sent. The April payments further fragment to $3,000, $7,800, and $2,200. This pattern of breaking a larger sum into multiple smaller wires could reflect payments for specific invoiced items (consistent with Mitchell's role as property manager handling multiple vendors) or could raise structuring questions, though no structuring charges were filed.
 
 **Epstein's Arrest:** July 6, 2019. The last verified Mitchell payment is April 12, 2019 -- approximately 3 months before arrest. Payments appear to have ceased in the spring of 2019 as federal scrutiny intensified.
 
@@ -264,7 +264,7 @@ DS9 reveals the Life Hotel was actively used to house Epstein's associates, incl
 - **[EFTA00464351](https://www.justice.gov/epstein/files/DataSet%209/EFTA00464351.pdf) (Nov 17, 2017):** Mitchell to Denise Luna (Life Hotel General Manager): "I need a VIP room like 1004 or something in the King Deluxe... She is my guest so no payment collected."
 - **[EFTA00464261](https://www.justice.gov/epstein/files/DataSet%209/EFTA00464261.pdf) (Nov 19, 2017):** Groff: "David Mitchell has kindly offered me a room at his Life Hotel!" -- Mitchell also extended hospitality to Epstein's staff.
 
-The pattern of international female visitors staying at Epstein-controlled properties at zero charge, with the Life Hotel used as an alternative to the trafficking-connected 301 East 66th Street address, is consistent with documented trafficking patterns.
+The pattern of international visitors staying at Epstein-controlled properties at zero charge, with the Life Hotel used as an alternative to the 301 East 66th Street address (which housed MC2 and other Epstein-connected entities), warrants scrutiny. However, the identities and ages of these specific guests are not established in the available documents, and free hotel accommodations for business visitors are not inherently suspicious.
 
 ### 4.6 The "Totally Toxic" Email -- [EFTA02518904](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02518904.pdf)
 
@@ -349,7 +349,7 @@ Mitchell is arranging an introduction to Lyudmila Sholokhova, PhD, Director of A
 **Date:** March 1, 2019
 **From:** David Mitchell to Jeffrey Epstein
 
-Mitchell forwarded a New York Times article: "Martha Stewart Will Advise Cannabis Grower on Products for Humans and Pets." This was a casual information share, demonstrating the breadth of their communication and Mitchell's role as a regular correspondent and intelligence source.
+Mitchell forwarded a New York Times article: "Martha Stewart Will Advise Cannabis Grower on Products for Humans and Pets." This was a casual information share, demonstrating the breadth of their regular communication.
 
 ---
 
@@ -652,11 +652,11 @@ The following patterns raise prosecutorial concerns:
 
 1. **Nominee/Proxy Transactions:** Using proof of funds letters from Epstein to purchase property in Mitchell's name or through Mitchell Holdings LLC may constitute **undisclosed beneficial ownership** violations.
 
-2. **Wire Transfer Structuring:** The March-April 2019 pattern of fragmenting payments ($25K + $14K + $4K on a single day; subsequent payments of $5,500, $3,000, $7,800, $2,200) raises **structuring** concerns under 31 U.S.C. 5324 if designed to evade reporting requirements.
+2. **Wire Transfer Fragmentation:** The March-April 2019 pattern of fragmenting payments ($25K + $14K + $4K on a single day; subsequent payments of $5,500, $3,000, $7,800, $2,200) could reflect itemized vendor payments or could raise questions about structuring. No structuring charges were filed, and the individual payments do not consistently fall below standard reporting thresholds.
 
 3. **The Cascade Directive:** Epstein's instruction to "clear that cascade will authorize the payments" may evidence **unauthorized payment authorization** or circumvention of fiduciary controls on restricted funds.
 
-4. **Knowledge of Source of Funds:** As co-executor and intimate business associate, Mitchell would have had knowledge of Epstein's financial activities, creating potential exposure under **money laundering** statutes (18 U.S.C. 1956-1957) if funds were proceeds of illegal activity.
+4. **Knowledge of Source of Funds:** As co-executor and close business associate, Mitchell would have had awareness of Epstein's financial activities. If funds flowing through Mitchell's accounts were proceeds of illegal activity, this could create potential exposure under financial transaction statutes, though no such charges were filed.
 
 5. **Concealment of Beneficial Ownership:** The question "do you have another idea for who can hold the [...]" suggests systematic use of nominees and holding structures to obscure true ownership.
 

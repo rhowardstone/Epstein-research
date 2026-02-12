@@ -66,7 +66,7 @@ Sultan Ahmed bin Sulayem, Chairman and Group CEO of DP World (the world's larges
 - **June 30, 2009**: First documented email from Sultan to Epstein ("Hello my friend, how are you. Please use this email"). This is AFTER Epstein's 2008 conviction and registration as a sex offender, meaning Sultan initiated/maintained contact with a convicted sex offender.
 
 ### Phase 2: Integration Period (2010-2011)
-- **Oct 2010**: Tom Barrack is in Dubai and communicating with Epstein about Sultan; simultaneously discussing "Nicole" (likely Junkermann). Barrack later convicted of acting as UAE foreign agent.
+- **Oct 2010**: Tom Barrack is in Dubai and communicating with Epstein about Sultan; simultaneously discussing "Nicole" (likely Junkermann). Barrack was later indicted (July 2021) for acting as an unregistered foreign agent for the UAE, but was acquitted on all counts in November 2022.
 - **Nov 2011**: Sultan shares full flight itinerary (Dubai-Paris-Beirut-Dubai) with Epstein, indicating closeness.
 - **Dec 2010**: Multi-party email chain with subject "Re: Jeffrey Epstein" involving Sultan and multiple others -- suggesting coordination around Epstein's reputation/legal situation.
 - **2010-2011**: Epstein visits Dubai ("going to dubai to see su[ltan]... then maybe abu d[habi]... invited to saudi")
@@ -159,7 +159,7 @@ Sultan:
 
 ### Ongoing Interest: June 2016 ([EFTA00631662](https://www.justice.gov/epstein/files/DataSet%209/EFTA00631662.pdf))
 
-After visiting Epstein's island on June 9, 2016, Sultan wrote from the air: "Dear Jeffery I am in the air just left St. John in my route to London... Looking forward to see you may arrange for me to meet the port authority to look again at the port and the cruise terminal." This proves the port discussion was ongoing through at least June 2016 -- 20 months after the genesis email.
+After visiting Epstein's island on June 9, 2016, Sultan wrote from the air: "Dear Jeffery I am in the air just left St. John in my route to London... Looking forward to see you may arrange for me to meet the port authority to look again at the port and the cruise terminal." This demonstrates the port discussion was ongoing through at least June 2016 — 20 months after the genesis email.
 
 ### 2.1.1 Analysis
 
@@ -197,14 +197,11 @@ The files contain extensive CBP (Customs and Border Protection) records:
 - **[EFTA00010069](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010069.pdf)-[EFTA00010083](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010083.pdf)**: Extensive CBP encounter records for Epstein through multiple ports of entry
 - **[EFTA00010341](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010341.pdf)-[EFTA00010345](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010345.pdf)**: Epstein's passport and TECS records
 
-The gap in outbound CBP records (1990-2000) is particularly significant -- during precisely the period Epstein was most actively trafficking.
+The gap in outbound CBP records (1990-2000) overlaps with the period during which Epstein's trafficking activity has been documented through other sources (victim testimony, flight logs).
 
 ## 2.3 The DP World-Russia Connection
 
-Sultan sent Epstein a Khaleej Times article about DP World expanding into Russia ([EFTA01802972](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01802972.pdf), Sept 2015). This is notable because:
-- DP World was pursuing Russian port concessions during the same period
-- Epstein's network included Russian oligarchs and intelligence connections
-- Bannon (who was at the Jan 2019 island meeting) had his own Russia connections
+Sultan sent Epstein a Khaleej Times article about DP World expanding into Russia ([EFTA01802972](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01802972.pdf), Sept 2015). This is notable because DP World was pursuing Russian port concessions during the same period.
 
 ## 2.4 Epstein as DP World Geopolitical Consultant
 
@@ -280,7 +277,7 @@ With a separate thread about "3BIS" wanting to go to the island Feb 2-5.
 - **February 2-5, 2019**: Island visit planned
 - **July 6, 2019**: Epstein arrested at Teterboro Airport
 
-This gathering was planned for **5 months before Epstein's arrest**. The combination of attendees suggests this was not a social visit but a strategic meeting.
+This gathering was planned for **5 months before Epstein's arrest**. The combination of attendees — spanning port operations, political consulting, tech investment, industrial networks, and Gulf logistics — is notable.
 
 ## 3.2 Analysis of Each Attendee
 
@@ -308,7 +305,7 @@ This gathering was planned for **5 months before Epstein's arrest**. The combina
 - **[EFTA02418502](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02418502.pdf)**: Tom Barrack in Dubai discussing Nicole: "U and I need to talk about Nicole!!!! I am just being smart and considerate of her!"
 - **[EFTA02513966](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02513966.pdf)**: Junkermann calling Epstein "Can u speak?" (Mar 2018)
 - **[EFTA02664994](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02664994.pdf)**: Junkermann pitching Epstein on Auctionata/Paddles investment
-- **Strategic value**: Tech sector investments (particularly health data -- Junkermann invested in Carbyne, an Israeli emergency services company), European business networks
+- **Strategic value**: Tech sector investments (health data, venture capital), European business networks
 
 ### Eduardo Teodorani (Teodorani-Fabbri)
 - SVP Corporate Development at CNH UK Limited (part of CNH Industrial -- Fiat/Agnelli family)
@@ -345,14 +342,14 @@ The composition of this meeting is extraordinary:
 - **Eduardo Teodorani**: European industrial networks
 - **Jabor Yousuf**: Gulf State (Qatar) connections and logistics
 
-This is not a social gathering. It is a **geopolitical coordination meeting** bringing together:
+The attendee list brought together:
 1. The CEO of the world's largest port operator
 2. A former White House Chief Strategist
-3. A tech investor with intelligence community adjacent investments
+3. A tech investor with health data and venture capital interests
 4. A European industrial executive with aristocratic connections
-5. A Gulf logistics facilitator
+5. A member of Qatar's ruling family with logistics authority
 
-The meeting was split between **Paris** (Jan 22-31) and the **island** (Feb 2-5), with additional unnamed guests ("3BIS") wanting to join the island portion.
+The meeting was split between **Paris** (Jan 22-31) and the **island** (Feb 2-5), with additional unnamed guests ("3BIS") wanting to join the island portion. The purpose of the gathering is not stated in the email.
 
 ---
 
@@ -380,7 +377,7 @@ Tom Barrack, founder of Colony Capital, served as a crucial intermediary between
 - **[EFTA02418501](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02418501.pdf)**: Ghislaine Maxwell asking about Barrack: "What's Tom Barrack's story -- have a good friend of mine whose crazy for him"
 - **[EFTA02422168](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02422168.pdf)**: Lesley Groff coordinating "Tom Barrack-Ehud Barak" meeting
 
-**Critical context**: Tom Barrack was subsequently **indicted and convicted in 2022** of acting as an unregistered foreign agent for the UAE. His role as an intermediary between Epstein, Sultan bin Sulayem, and UAE interests takes on additional significance given this conviction.
+**Critical context**: Tom Barrack was subsequently indicted in July 2021 on charges of acting as an unregistered foreign agent for the UAE, obstruction of justice, and making false statements to the FBI. He was **acquitted on all counts** in November 2022 after a nearly two-month federal trial. While the acquittal means Barrack was not found to have acted as a foreign agent, the prosecution's case — which alleged he used access to Trump to promote UAE interests — documented his intermediary role between US and Gulf interests during the same period he appeared in Epstein's orbit.
 
 ## 4.3 Epstein's Dubai Travel Plans
 
@@ -418,7 +415,7 @@ Sultan: "He has it already or did they cancel it"
 Epstein: "did you find yours? are you part jewish?"
 ```
 
-"Sheikh Mo" is Sheikh Mohammed bin Rashid Al Maktoum, the ruler of Dubai and Vice President/Prime Minister of the UAE. The 30-kit shipment to the Al Maktoum family connects to Epstein's documented interest in genetics and DNA (eugenics-adjacent research documented in other reports).
+"Sheikh Mo" is Sheikh Mohammed bin Rashid Al Maktoum, the ruler of Dubai and Vice President/Prime Minister of the UAE. The 30-kit shipment to the Al Maktoum family connects to Epstein's documented interest in genetics and DNA testing (see also the DNA kits discussed in the Rothschild and Junkermann reports).
 
 ### Crown Prince of Dubai Contact
 
@@ -444,7 +441,7 @@ Robles responded enthusiastically, planning to travel through Asia to New York a
 
 ---
 
-# SECTION 5: MC2 / DANIEL SIAD -- DUBAI RECRUITING PIPELINE
+# SECTION 5: MC2 / DANIEL SIAD -- DUBAI-BASED RECRUITMENT ACTIVITY
 
 ## 5.1 Daniel Siad -- "Scout" and Recruiter
 
@@ -489,7 +486,7 @@ Multiple documents reference "AMAR SIAD at EMIRATES":
 - **[EFTA01433744](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01433744.pdf)**: "AMAR SIAD at EMIRATE"
 - **[EFTA01763533](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01763533.pdf)**: "Accept Daniel Amar Siad's Invitation"
 
-"Amar Siad" appears to be either Daniel Siad's full name or a family member working at **Emirates Airlines**. An airline employee within the Epstein/Brunel network would provide critical logistics capability for moving models/girls internationally.
+"Amar Siad" appears to be either Daniel Siad's full name or a family member working at **Emirates Airlines**. The nature of Amar Siad's role and any connection to Epstein/Brunel activities beyond the LinkedIn invitation is not established in the released documents.
 
 ---
 
@@ -519,7 +516,7 @@ Bannon: "Got it"
 Bannon: "Got pulled into a meeting in the city. Trying to get some ambassadors confirmed"
 ```
 
-This shows Epstein serving as a political intelligence broker between Bannon and Trump World, sharing insider knowledge about administration personnel and legal matters.
+This shows Epstein exchanging political information with Bannon about administration personnel and legal matters.
 
 ## 6.3 Gulf Tour Plans
 
@@ -597,23 +594,20 @@ The same document contains extensive descriptions of:
 
 ## 9.1 Why This Matters
 
-### Port Infrastructure + Sex Trafficking Network
-DP World controls customs and logistics infrastructure at ports worldwide. Epstein ran an international sex trafficking operation that moved victims across borders. The documented connection between DP World's chairman and Epstein -- including the specific Port of St. Croix discussion -- raises questions about whether port infrastructure was leveraged to facilitate trafficking or to ensure movements went undetected.
+### Port Infrastructure Connection
+DP World controls customs and logistics infrastructure at ports worldwide. The documented connection between DP World's chairman and Epstein — including the specific Port of St. Croix discussion near Epstein's islands — is notable given the USVI's role in Epstein's operations. However, no evidence in the released documents indicates that port infrastructure was used to facilitate any illegal activity. The port discussion, as documented in the emails, appears to concern a standard commercial port management opportunity.
 
 ### CBP Records Gaps
-The files document that CBP outbound travel records were not maintained for the period 1990-2000 ([EFTA00018023](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018023.pdf)). This is precisely the period when Epstein's trafficking was most active. The connection to the world's largest port operator adds a dimension to understanding how border controls may have been circumvented.
+The files document that CBP outbound travel records were not maintained for the period 1990-2000 ([EFTA00018023](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018023.pdf)). This gap overlaps with the period during which Epstein's trafficking activity has been documented through other sources. Note: the CBP gap is a systemic issue predating Epstein's relationship with Sultan (which began in 2009) and is not connected to DP World.
 
-### Foreign Agent Nexus
-Tom Barrack, who served as an intermediary between Epstein, Sultan, and Dubai interests, was convicted of acting as an unregistered foreign agent for the UAE. This creates a prosecutorial framework for examining whether others in this network were similarly acting on behalf of foreign governments.
+### Tom Barrack as UAE Intermediary
+Tom Barrack, who served as an intermediary between Epstein, Sultan, and Dubai interests, was indicted in 2021 on charges of acting as an unregistered foreign agent for the UAE but was acquitted on all counts in November 2022. His documented role as a go-between for US and Gulf interests is established in the email record regardless of the trial outcome.
 
-### Financial Crimes
-The $6,200 payment from Epstein to Sultan, while small, documents a financial relationship that warrants examination under anti-money laundering and foreign corrupt practices frameworks.
+### Financial Relationship
+The $6,200 payment from Epstein to Sultan documents a direct financial relationship. The purpose of this payment (reimbursement, gift, or other) is not specified in the records.
 
 ### The Jan 2019 Meeting
-A meeting five months before arrest involving the world's largest port operator CEO, a former White House Chief Strategist, and multiple international figures suggests either:
-- A final strategic coordination before anticipated legal action
-- Ongoing operational planning that was interrupted by arrest
-- An intelligence-related gathering
+A gathering five months before arrest involving the world's largest port operator CEO, a former White House Chief Strategist, and multiple international figures is documented in the email record. The purpose of the meeting is not stated in the available documents.
 
 ### Bannon Phone Evidence
 SDNY prosecutors discovered Epstein-Bannon text messages on Bannon's seized iPhone 7 ([EFTA00027290](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027290.pdf)) and a photo of Trump with Ghislaine Maxwell on the same phone ([EFTA00025553](https://www.justice.gov/epstein/files/DataSet%208/EFTA00025553.pdf)/[EFTA00030999](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030999.pdf)). The texts were deemed "not responsive to our warrant" -- meaning they were discovered during the We Build the Wall investigation but apparently not pursued in the Epstein context.
@@ -843,10 +837,10 @@ The Sultan bin Sulayem / DP World connection to Jeffrey Epstein, documented acro
 10. **Bill Richardson offered as intermediary** -- connecting a documented trafficking co-conspirator to DP World's Cuba/Venezuela port ambitions
 11. **Introduction of Epstein to heads of state** -- Sultan told President Kabila of the DRC that Epstein was "an American fund manager" who would visit for mining/oil investments
 
-When combined with Tom Barrack's conviction as a UAE foreign agent, Bannon's role as political intelligence broker, Daniel Siad's recruitment operation migrating to Dubai, the Emirates airline connection through Amar Siad, and Epstein's documented CBP/customs issues and records gaps, the documentary record describes an intersection of global port operations, political influence networks, and Epstein's other documented activities.
+When combined with Tom Barrack's documented intermediary role between US and Gulf interests (he was indicted but acquitted on foreign agent charges in 2022), Bannon's role as political intelligence broker, Daniel Siad's recruitment operation migrating to Dubai, the Emirates airline connection through Amar Siad, and Epstein's documented CBP/customs issues and records gaps, the documentary record describes an intersection of global port operations, political influence networks, and Epstein's other documented activities.
 
 ---
 
-**See also:** [KHANNA_SIX_NAMES_INVESTIGATION.md](/individuals/KHANNA_SIX_NAMES_INVESTIGATION.md) — Sultan bin Sulayem is one of the six names disclosed by Rep. Ro Khanna from the DOJ co-conspirator list. Full-corpus search (519K documents) found **1,379 documents** referencing Sulayem.
+**See also:** [KHANNA_SIX_NAMES_INVESTIGATION.md](/individuals/KHANNA_SIX_NAMES_INVESTIGATION.md) — Sultan bin Sulayem is one of the six names disclosed by Rep. Ro Khanna from the DOJ co-conspirator list. Full-text corpus search (1.38M documents across 12 datasets) found **5,277 documents** containing "Sulayem."
 
-*Report compiled from comprehensive search of all DOJ databases (1,380,937 documents / 2,731,796 pages across 12 datasets). Over 5,000 documents reference Sulayem across the corpus. All EFTA numbers verified against source documents.*
+*Report compiled from comprehensive search of all DOJ databases (1,380,937 documents / 2,731,796 pages across 12 datasets). 5,277 documents reference "Sulayem" across the full-text corpus. All EFTA numbers verified against source documents.*

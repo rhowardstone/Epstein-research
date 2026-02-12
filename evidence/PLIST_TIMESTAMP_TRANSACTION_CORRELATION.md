@@ -351,7 +351,7 @@ Arrest (Jul 6, 2019)                 0 emails          Collection ends Apr 9, 20
 ### 1. The Aug 2014 Tudor Correlation is the Strongest
 21 emails within 14 days of the $13.5M transfer, including a same-day email from Epstein to someone identified only as "President." The Edmond de Rothschild connection (Olivier Colom correspondence 3 weeks earlier) and subsequent travel scheduling suggest coordinated financial operations.
 
-### 2. The Leon Black "Sensitive Accounts" Email is a Smoking Gun
+### 2. The Leon Black "Sensitive Accounts" Email is Significant
 Sent Dec 21, 2016 -- just days before the $30.5M Sotheby's/Haze Trust period -- Epstein instructs Leon Black to liquidate a trust while expressing frustration that someone named Wechsler has been telling others about "sensitive accounts." This directly connects Epstein's email activity to trust restructuring concurrent with major art-transaction financial flows.
 
 ### 3. ~~The Nov 7, 2017 "Cascade" Payment Email Suggests Structured Transfers~~ (Corrected)

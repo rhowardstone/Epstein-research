@@ -777,7 +777,7 @@ No other documents in the [EFTA00004065](https://www.justice.gov/epstein/files/D
 
 ## ANALYTICAL SUMMARY
 
-### What This Document Proves
+### What This Document Establishes
 1. **Recruitment of a minor (age 17) through a family connection** -- exploiting a vulnerable teenager with a history of homelessness and family instability
 2. **4 sexual assaults before age 18** across 3 locations (Paris, NM, FL), including 2 rapes
 3. **Rape by entering victim's room while she slept** -- a pattern consistent with other victim accounts

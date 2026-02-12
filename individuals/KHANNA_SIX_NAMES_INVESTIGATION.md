@@ -101,7 +101,7 @@ Nuara was likely named in Epstein's black book (the physical contact book seized
 - **CONFIRMED** on [EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf) co-conspirator list as **#10**, source: NYPD 2021
 
 ### Assessment
-Mikeladze's inclusion suggests Epstein's network extended into the Caucasus energy sector. Given Epstein's documented connections to Russian/Eastern European networks (MC2 model recruitment from Russia/Eastern Europe, Mandelson-Deripaska Moscow connections, Russian women in SARs), a Georgian oil figure fits the broader pattern of CIS business elite in Epstein's orbit. The NYPD 2021 source date is notably late — this may represent a complaint filed after the 2019 arrest/death, possibly by a victim who came forward during the SDNY investigation. His complete absence from the full 1.38M-document corpus means he exists only on the EFTA00077895 co-conspirator list.
+Mikeladze's presence on a co-conspirator list derived from NYPD complaints does not, by itself, establish the nature of his connection to Epstein. The NYPD 2021 source date is notably late — this may represent a complaint filed after the 2019 arrest/death, possibly by a victim who came forward during the SDNY investigation. His complete absence from the full 1.38M-document corpus means he exists only on the EFTA00077895 co-conspirator list, and no details about the NYPD complaint that generated this entry are available in the released files.
 
 ---
 
@@ -119,7 +119,7 @@ Mikeladze's inclusion suggests Epstein's network extended into the Caucasus ener
 - **CONFIRMED** on [EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf) co-conspirator list as **#14**, source: NYPD 2021
 
 ### Assessment
-This is the most opaque of the six names. The Russian/Eastern European naming convention is consistent with Epstein's documented Eastern European network (MC2 models from Russia, Mandelson-Moscow connections, "Russian models" in SARs). Like Mikeladze, the NYPD 2021 source date suggests a post-arrest complaint. His complete absence from the full 1.38M-document corpus means he exists only on the EFTA00077895 co-conspirator list.
+This is the most opaque of the six names. No public biographical information has been identified. Like Mikeladze, the NYPD 2021 source date suggests a post-arrest complaint. His complete absence from the full 1.38M-document corpus means he exists only on the EFTA00077895 co-conspirator list, and no details about the underlying NYPD complaint are available.
 
 ---
 
@@ -135,10 +135,10 @@ This is the most opaque of the six names. The Russian/Eastern European naming co
 - **CONFIRMED** on [EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf) co-conspirator list as **#17**, source: NYPD 2009 (now downloaded from Dataset 9)
 
 ### Key Context
-EFTA00077895 has been downloaded and verified — it is a 21-page UNCLASSIFIED//FOUO document containing the complete 20-person co-conspirator list. Caputo appears as #17 with an NYPD 2009 complaint source. The NYPD 2009 date predates Epstein's 2019 SDNY arrest, placing it during or shortly after the original Florida case. An Italian/European Parliament connection would fit Epstein's documented European political network, which included Peter Mandelson (UK), connections to European nobility, and travel throughout European capitals.
+EFTA00077895 has been downloaded and verified — it is a 21-page UNCLASSIFIED//FOUO document containing the complete 20-person co-conspirator list. Caputo appears as #17 with an NYPD 2009 complaint source. The NYPD 2009 date predates Epstein's 2019 SDNY arrest, placing it during or shortly after the original Florida case.
 
 ### Assessment
-Caputo's inclusion as an Italian EU Parliament member connects to Epstein's extensive European operations — the Avenue Foch apartment in Paris, MC2 modeling operations in Milan, documented travels to Paris/London/continental Europe, and political connections across multiple European countries.
+Like the other lesser-known names, no details about the underlying NYPD complaint are available, and no EFTA documents beyond the co-conspirator list reference Caputo.
 
 ---
 
@@ -161,9 +161,9 @@ A full investigation has been completed: **[DUBAI_SULAYEM_INVESTIGATION.md](/ind
 - [EFTA02406453](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02406453.pdf): Nov 2011 — Full Dubai-Paris-Beirut flight details sent to Epstein
 - [EFTA02644753](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02644753.pdf): July 15, 2017 — Epstein asks Sultan: "did you find yours? are you part jewish?" followed by discussion of sending Sheikh Mohammed a 23andMe kit
 
-**Port Infrastructure Connection (SMOKING GUN)**:
+**Port Infrastructure Connection (Key Evidence)**:
 - [EFTA02517291](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02517291.pdf): Sept 30, 2014 — Sultan directs **Matthew Leech, DP World Americas SVP**, to contact **Erika Kellerhals** (Epstein's USVI attorney/trustee) regarding the **Port of St. Croix**. Epstein forwards to Kellerhals: "See you Tomorrow at 10."
-  - This connects the world's largest port operator to Epstein's documented Customs/Border Patrol bypass infrastructure in the USVI
+  - This documents a commercial port discussion between DP World and Epstein's USVI attorney. No evidence in the released documents connects this port inquiry to any illegal activity
   - **Kellerhals received $23 million from Epstein** ([EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf)) — she was not just a local attorney but a major financial recipient
 
 **Financial Connection**:
@@ -182,7 +182,7 @@ A full investigation has been completed: **[DUBAI_SULAYEM_INVESTIGATION.md](/ind
 - [EFTA02731082](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731082.pdf), page 66: Wexner's attorneys told prosecutors that Epstein introduced Wexner to "prominent people who knew Epstein, such as Prince Andrew, professors at Harvard, and **a sultan in Dubai**"
 
 **Tom Barrack Connection**:
-- [EFTA02418502](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02418502.pdf): Oct 2010 — Barrack (later convicted of acting as UAE foreign agent) writes to Epstein from Dubai: "will you see sultan?" — then adds: "U and I need to talk about Nicole!!!!" Barrack also describes Sultan as "in exile — quite sad!!!" (referencing the Dubai World financial crisis that had stripped Sultan of some roles)
+- [EFTA02418502](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02418502.pdf): Oct 2010 — Barrack (later indicted on charges of acting as an unregistered foreign agent for the UAE but acquitted on all counts in November 2022) writes to Epstein from Dubai: "will you see sultan?" — then adds: "U and I need to talk about Nicole!!!!" Barrack also describes Sultan as "in exile — quite sad!!!" (referencing the Dubai World financial crisis that had stripped Sultan of some roles)
 
 **Additional Evidence from Full-Corpus Search and Public Reporting**:
 
@@ -208,7 +208,7 @@ A full investigation has been completed: **[DUBAI_SULAYEM_INVESTIGATION.md](/ind
 **Key reporting**: Bloomberg, Drop Site News, Middle East Eye, Newsweek, New Republic (see Sources section)
 
 ### Assessment
-Sultan bin Sulayem is the most extensively documented of the six names in the EFTA files. The evidence shows a decade-long operational relationship encompassing port access, victim testimony, physical presence on Epstein's island, financial transactions, access to Dubai's ruler, and connection to the customs bypass infrastructure that facilitated Epstein's trafficking operation in the USVI. Rep. Massie identified him as the one "pretty high up in foreign government."
+Sultan bin Sulayem is the most extensively documented of the six names in the EFTA files. The documents show a decade-long relationship (2009-2019) involving direct communications, at least one documented visit to Epstein's island, financial transactions, victim testimony naming "a guy from Dubai — Sultan," a commercial port inquiry in the USVI, and connections to high-level Gulf officials. Sultan has not been charged with any crime in connection with the Epstein case. Rep. Massie identified him as the one "pretty high up in foreign government." See [DUBAI_SULAYEM_INVESTIGATION.md](/individuals/DUBAI_SULAYEM_INVESTIGATION.md) for the complete analysis.
 
 ---
 
@@ -290,16 +290,16 @@ Seized fax cover sheet: **"For: Mr. Wexner / From: Mr. Epstein"** — physical d
 #### F. Financial Forensics
 
 From [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf) and related financial exhibits:
-- Epstein's wealth originated almost entirely from Wexner
-- The prosecution memo's statement that Epstein's theft "appears to account for virtually all of Epstein's wealth" means Wexner was the foundational source of the entire financial infrastructure that funded the trafficking operation
-- The $100M returned in Jan 2008 was a fraction of what was stolen
+- Epstein's wealth originated almost entirely from Wexner, per the prosecution memo
+- The prosecution memo states that Epstein's theft "appears to account for virtually all of Epstein's wealth" — meaning Wexner was the original source of funds that Epstein later deployed across his financial network. Whether Wexner had any knowledge of how those funds were ultimately used is disputed (his attorneys denied all knowledge)
+- The $100M returned in Jan 2008 was a fraction of what was misappropriated, per Wexner's attorneys
 
 #### G. The $46M Charitable Donation ([EFTA00026723](https://www.justice.gov/epstein/files/DataSet%208/EFTA00026723.pdf))
 
 News article in SDNY files:
 > "Jeffrey Epstein used $46 million charitable donation to keep alive his ties with billionaire Les Wexner"
 
-Even after the 2007 split, Epstein maintained financial leverage over Wexner through a $46M donation to the Wexners' nonprofit.
+Even after the 2007 split, Epstein maintained a financial connection to Wexner through a $46M donation to the Wexners' nonprofit. The nature and purpose of this donation have not been publicly explained.
 
 #### H. The Victoria's Secret Pipeline
 
@@ -342,7 +342,7 @@ An FBI FD-302 (sworn witness interview), case 31E-MM-108062, dated 03/17/2011. A
 - The girls "seemed to have been prepped for what they were doing with EPSTEIN"
 - "EPSTEIN bragged that he had just purchased a girl from her mother. The girl was Czechoslovakian or Yugoslavian"
 
-This directly contradicts Wexner's attorneys' proffer that he "had no knowledge of any inappropriate or unlawful activity."
+If this victim's account is accurate, it contradicts Wexner's attorneys' proffer that he "had no knowledge of any inappropriate or unlawful activity." Wexner has not been charged, and the victim's allegation has not been adjudicated.
 
 #### L. Victim Complaint: 1996 Report Naming Wexner ([EFTA01649922](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01649922.pdf)) — FULL-CORPUS FIND
 
@@ -360,7 +360,7 @@ Virginia Giuffre, under oath, was asked if Wexner "would have relevant informati
 
 #### O. Financial Trust Income Collapse ([EFTA01682059](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01682059.pdf)) — FULL-CORPUS FIND
 
-Financial Trust Company fee income: $66 million (2006) → $4 million (2007, the year Wexner severed ties) → $100,000 (2008). This proves Wexner was essentially Epstein's only real client.
+Financial Trust Company fee income: $66 million (2006) → $4 million (2007, the year Wexner severed ties) → $100,000 (2008). This strongly suggests Wexner was essentially Epstein's only significant client — a 94% revenue drop coinciding with Wexner's departure is difficult to explain otherwise.
 
 #### P. Congressional Subpoena (January-February 2026)
 
@@ -371,17 +371,17 @@ Financial Trust Company fee income: $66 million (2006) → $4 million (2007, the
 - Rep. Nancy Mace publicly questioned: "If Les Wexner is listed by the DOJ/FBI as a co-conspirator, why isn't he in jail?"
 
 ### Assessment
-Leslie Wexner occupies a unique position among the six co-conspirators: he is simultaneously the source of Epstein's entire fortune and the person most extensively documented in the prosecution files. The SDNY obtained an attorney proffer from Wexner's counsel on July 25, 2019 — just weeks after Epstein's arrest. Despite the extraordinary evidence trail, including:
+Leslie Wexner occupies a unique position among the six names: he is the documented source of Epstein's wealth and the person most extensively referenced in the prosecution files. The SDNY obtained an attorney proffer from Wexner's counsel on July 25, 2019 — just weeks after Epstein's arrest. The evidence trail includes:
 - An FBI FD-302 in which a victim states she "provided an erotic massage to LESLIE WEXNER" (§K)
-- A victim who reported Wexner by name in **1996** and was ignored for decades (§L)
-- A sworn affidavit describing Victoria's Secret lingerie used in abuse (§M)
-- The Victoria's Secret pipeline used for victim recruitment (§D, §E)
-- FBI designation as "secondary co-conspirator" (§J)
-- Financial Trust income proving Wexner was Epstein's only real client (§O)
+- A victim who reported Wexner by name in **1996** (§L)
+- A sworn affidavit describing Victoria's Secret lingerie used in alleged abuse (§M)
+- Victim testimony describing Victoria's Secret as a recruitment tool (§D, §E)
+- FBI designation as "secondary co-conspirator" with "limited evidence regarding his involvement" (§J)
+- Financial Trust income data strongly suggesting Wexner was Epstein's only significant client (§O)
 - A dedicated "Wexner: Epstein investigation" file (§G)
 - Victim testimony from Giuffre: "I don't think he'll tell you the truth" (§N)
 
-...Wexner was never charged. The prosecution memo's own assessment that Wexner "had no knowledge of any inappropriate or unlawful activity" rests entirely on his own attorneys' representation — a representation directly contradicted by multiple victim statements, FBI evidence, and Wexner's own financial records.
+Wexner was never charged. The prosecution memo's assessment that Wexner "had no knowledge of any inappropriate or unlawful activity" comes from his own attorneys' representation. Multiple victim statements allege direct sexual misconduct by Wexner — allegations he has denied. The FBI's own co-conspirator briefing noted "limited evidence regarding his involvement." Wexner is scheduled to testify before the House Oversight Committee on February 16, 2026.
 
 ---
 
@@ -495,7 +495,7 @@ On February 10, 2026, all 519,548 PDFs across Datasets 1-12 were extracted via P
 4. [EFTA00175080](https://www.justice.gov/epstein/files/DataSet%209/EFTA00175080.pdf) — **FBI Squad C-20: Wexner listed as "secondary co-conspirator" (Aug 15, 2019)**
 5. [EFTA01649143](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01649143.pdf) — FBI CID investigation timeline: Wexner grand jury subpoena, Debevoise attorney proffer
 6. [EFTA01657683](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01657683.pdf) p.26 — Giuffre deposition: "I think he has relevant information, but I don't think he'll tell you the truth"
-7. [EFTA01682059](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01682059.pdf) — Financial Trust income collapse: $66M → $4M when Wexner left (proves sole client)
+7. [EFTA01682059](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01682059.pdf) — Financial Trust income collapse: $66M → $4M when Wexner left (strongly suggests Wexner was sole significant client)
 8. [EFTA01582816](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01582816.pdf) — JPMorgan KYC: Wexner-Epstein-Staley-Maxwell referral chain
 9. [EFTA02731082](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731082.pdf) pp.65-67 — 86-page prosecution memo Wexner section (full text in Appendix A)
 10. [EFTA01660622](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660622.pdf) p.17 — FBI "Prominent Names" briefing: "[Epstein] earned his money from Wexner"
@@ -575,7 +575,7 @@ This is a 21-page UNCLASSIFIED//FOUO document from Dataset 9. Page 1 contains a 
 
 1. **Source column**: Nearly all entries cite NYPD complaints (dates ranging 1998-2021). Epstein himself is sourced to "PB" (Palm Beach, 2006). Maxwell is sourced to "US PP" (US Probation/Prosecution, 2003).
 
-2. **Two names remain redacted**: #5 and #13. DOBs, sources, and even the "P" column are blacked out for these entries. This suggests these two individuals have special protection — possibly minors, cooperating witnesses, or persons with ongoing legal proceedings.
+2. **Two names remain redacted**: #5 and #13. DOBs, sources, and even the "P" column are blacked out for these entries. The reason for continued redaction is unknown — possibilities include that these individuals are minors, cooperating witnesses, persons with ongoing legal proceedings, or that the redaction was maintained for other reasons.
 
 3. **Wexner and Sultan bin Sulayem are NOT on this list.** They appear in other documents (prosecution memo, FBI "secondary co-conspirator" designation). The Khanna 6 came from **multiple source documents**, not just EFTA00077895.
 
@@ -620,4 +620,4 @@ All EFTA links point to the DOJ Epstein Library: https://www.justice.gov/epstein
 
 ---
 
-*Report compiled from full-corpus text extraction of all 519,548 PDFs (993,406 pages) across Datasets 1-12, plus 3.4M+ document text database records, 21,859 analyzed images, direct PDF downloads from Dataset 9 (EFTA00077895, EFTA00175080, EFTA00666117), and public web sources. All six Khanna names are confirmed in the EFTA corpus. Four names (Nuara, Mikeladze, Leonov, Caputo) appear ONLY on the EFTA00077895 co-conspirator list — their absence from the remaining 519K documents is definitive. Sultan bin Sulayem appears in 1,379 documents and Leslie Wexner in 644 documents.*
+*Report compiled from full-corpus text extraction of 1,380,937 documents (2,731,796 pages) across Datasets 1-12, plus 3.4M+ document text database records, 21,859 analyzed images, direct PDF downloads from Dataset 9 (EFTA00077895, EFTA00175080, EFTA00666117), and public web sources. All six Khanna names are confirmed in the EFTA corpus. Four names (Nuara, Mikeladze, Leonov, Caputo) appear ONLY on the EFTA00077895 co-conspirator list — their absence from the remaining 1.38M documents is definitive. Sultan bin Sulayem appears in 5,026 documents and Leslie Wexner in 1,497 documents (updated Feb 12, 2026).*

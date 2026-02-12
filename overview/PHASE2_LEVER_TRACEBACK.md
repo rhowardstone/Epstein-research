@@ -27,8 +27,10 @@ EVIDENCE: EFTA00013680 (signed NPA text), EFTA00014110 (Acosta letter to Roy Bla
 WHO BENEFITED: Jeffrey Epstein, unnamed co-conspirators shielded by NPA's co-conspirator clause
 WHO HAD AUTHORITY TO ACT: Acosta as U.S. Attorney; DOJ Main Justice (which was consulted)
 WHY THEY DIDN'T: OPR investigation (EFTA00011475, EFTA00013359) found Acosta used "poor judgment" but found no
-  professional misconduct. Acosta claimed in deposition he was "told to back off" (EFTA00030182: "he had been told to back off,
-  that Epstein belonged to intelligence"). This claim was reported in transition discussions for his Labor Secretary confirmation.
+  professional misconduct. A third-party account of Acosta's Labor Secretary transition discussions reported he
+  "had been told to back off, that Epstein belonged to intelligence" (EFTA00030182). However, in his sworn OPR
+  interview (EFTA00009116 pp. 404-405), Acosta explicitly denied knowledge of intelligence claims, stating
+  "No, and no" when asked whether Epstein was "an intelligence asset of some sort."
 RECOMMENDED ACTION: Congressional inquiry into who told Acosta to "back off"; IG investigation of any intelligence
   community involvement in the NPA decision
 ```
@@ -122,12 +124,13 @@ RECOMMENDED ACTION: Congressional inquiry into Berman's removal and any connecti
 ```
 ENTITY: Audrey Strauss
 TYPE: person (Acting U.S. Attorney, SDNY)
-FAILURE MODE: Partial success — brought Maxwell indictment but limited scope
+FAILURE MODE: Partial success — brought Maxwell indictment but scope limited to Maxwell alone
 EVIDENCE: EFTA00016373 (Maxwell indictment signed by Strauss), EFTA00031498 (Maxwell charging press release),
   EFTA00028680 (received OPR report November 2020), EFTA00031016 (discovery production letter)
 WHO BENEFITED: Victims (partially)
 WHO HAD AUTHORITY TO ACT: Full prosecutorial authority
-WHY THEY DIDN'T: Investigation scope appeared intentionally limited to Maxwell; no additional co-conspirators charged
+WHY THEY DIDN'T: Investigation focused on Maxwell; no additional co-conspirators were charged. Whether this
+  reflected a deliberate scope limitation, resource constraints, or evidentiary challenges is not clear from the files.
 RECOMMENDED ACTION: FOIA for prosecution memos regarding uncharged co-conspirators
 ```
 
@@ -167,7 +170,7 @@ RECOMMENDED ACTION: Congressional inquiry; IG review of Barr's involvement in pr
 ### Senate Finance Committee
 **STATUS: ACTED (Late)**
 
-The files contain a bombshell: Senator Ron Wyden, as Chairman of the Senate Finance Committee, conducted an investigation into Leon Black's payments to Epstein and their tax implications:
+The files reveal that Senator Ron Wyden, as Chairman of the Senate Finance Committee, conducted an investigation into Leon Black's payments to Epstein and their tax implications:
 
 - **[EFTA02731023](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731023.pdf)** (Multiple pages): Wyden's July 24, 2023 letter to Leon Black demanding answers about:
   - $158 million in payments to Epstein from 2013-2017
@@ -262,7 +265,7 @@ RECOMMENDED ACTION: Full declassification of OIG report; congressional demand fo
 ```
 ENTITY: DOJ Office of Professional Responsibility (OPR)
 TYPE: organization
-FAILURE MODE: Active shielding through weak findings — investigated Florida NPA, found "poor judgment" not misconduct
+FAILURE MODE: Investigated Florida NPA, concluded "poor judgment" but no professional misconduct — a finding that has been widely criticized as insufficient given the NPA's extraordinary terms
 EVIDENCE: EFTA00011475 (OPR Executive Summary), EFTA00013359 (OPR scope expansion after CVRA ruling),
   EFTA00032969 ("OPR Matter" coordination between SDNY attorneys, August 2020), EFTA00028680 (OPR Report
   transmitted to Audrey Strauss, November 2020)
@@ -429,7 +432,7 @@ RECOMMENDED ACTION: Complete audit of all CBP encounters for Epstein aircraft; r
 
 ## 3.7 Bureau of Prisons (BOP)
 
-**ASSESSMENT: CATASTROPHIC FAILURE — ENABLED BOTH WORK RELEASE ABUSE AND DEATH**
+**ASSESSMENT: CATASTROPHIC FAILURE — SYSTEMIC FAILURES DURING BOTH WORK RELEASE AND MCC CUSTODY**
 
 ```
 ENTITY: Federal Bureau of Prisons
@@ -697,8 +700,8 @@ EVIDENCE: EFTA00013680 (NPA text), EFTA00011475 (OPR report), EFTA00013359 (CVRA
   EFTA00010507 (Court findings), EFTA00013926 (Villafana declaration), EFTA00009229 (Acosta deposition)
 WHO BENEFITED: Jeffrey Epstein; 4+ named co-conspirators; unknown additional co-conspirators
 WHO HAD AUTHORITY TO ACT: U.S. Attorney Acosta; DOJ Main Justice; line prosecutors
-WHY THEY DIDN'T: Acosta claimed he was "told to back off" and that Epstein "belonged to intelligence";
-  OPR found only "poor judgment"
+WHY THEY DIDN'T: A third-party account reported Acosta said he was "told to back off" (EFTA00030182),
+  though Acosta denied this under oath (EFTA00009116); OPR found only "poor judgment"
 RECOMMENDED ACTION: Congressional subpoena for all unredacted NPA deliberation documents; classified
   inquiry into intelligence community involvement; re-examination by independent counsel
 ```

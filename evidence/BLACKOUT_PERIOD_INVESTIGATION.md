@@ -274,7 +274,7 @@ The $250,000 wire three days later on December 3 went to a redacted individual a
 
 **[EFTA02731082](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731082.pdf)** -- Prosecution Memo (Privileged)
 - "[Redacted witness] believed Epstein sent her this money because he felt guilty for the trouble the articles caused her" -- referring to the Miami Herald series published in November 2018
-- This directly connects Epstein's post-Herald financial activity to consciousness of guilt and witness management
+- The government's detention memo ([EFTA00039383](https://www.justice.gov/epstein/files/DataSet%209/EFTA00039383.pdf)) subsequently cited these post-Herald payments as evidence of witness tampering
 
 ### Check Register ([EFTA01670642](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01670642.pdf)) -- Personal Account Activity
 
@@ -435,7 +435,7 @@ The use of a Gmail account separate from any institutional email suggests Epstei
 
 ---
 
-## PART 6: EVIDENCE DESTRUCTION AND CONSCIOUSNESS OF GUILT
+## PART 6: EVIDENCE DESTRUCTION AND POST-HERALD PAYMENTS
 
 ### Documented Pattern of Evidence Destruction
 
@@ -538,7 +538,7 @@ During the Nov 14, 2018 - Feb 21, 2019 window, the corpus contains:
 **[CORRECTED 2026-02-12]:** The original assessment that the PLIST gap represented deliberate operational security is no longer supported. The evidence that remains valid:
 
 1. **Post-Herald payments remain suspicious:** The $100K and $250K wires within days of the Herald publication are explicitly cited in the government's detention memo as evidence of witness tampering
-2. **Victim testimony proves ongoing criminal conduct:** A victim had "subsequent interactions with Epstein... in December 2018-July 2019"
+2. **Victim testimony documents ongoing criminal conduct:** A victim had "subsequent interactions with Epstein... in December 2018-July 2019"
 3. **Prior pattern of evidence destruction:** The documented history of removing computers, shredding directories, and lawyer-directed silence remains valid
 4. **Encrypted tools were directly used by Epstein:** Signal, Confide, WhatsApp, and Telegram were all registered to his phone number (212-533-3739)
 5. **Epstein operated with apparent confidence:** Rather than suggesting operational security, the DS9 emails show Epstein operating normally -- hosting foreign leaders, claiming political influence, and continuing travel and social activities without behavioral disruption

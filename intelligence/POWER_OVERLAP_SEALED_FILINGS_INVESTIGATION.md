@@ -67,7 +67,7 @@ Results cross-referenced with prior investigation findings from Sessions 1-10 (6
 - **[EFTA02136979](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02136979.pdf)**: "Updated Invitation: 12:30pm Lunch w/Ehud Barak"
 - **[EFTA02154241](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02154241.pdf)**: "8:30am Breakfast w/Ehud Barak" -- Nov 28 morning meeting
 - **[EFTA02422165](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02422165.pdf)**: "Jes-Ehud Barak dinner" -- Jes Staley + Barak dinner brokered by Epstein
-- **[EFTA02422168](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02422168.pdf)**: "Tom Barrack-Ehud Barak" -- Tom Barrack (convicted UAE agent) meeting brokered
+- **[EFTA02422168](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02422168.pdf)**: "Tom Barrack-Ehud Barak" -- Tom Barrack (acquitted of UAE agent charges, Nov 2022) meeting brokered
 - **[EFTA02575361](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02575361.pdf)**: Epstein emailing ehud barak and Lesley Groff simultaneously, Sept 2013
 - **[EFTA02589113](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02589113.pdf)**: Epstein to ehud barak: "hope you are having fun," Sept 2014
 - **[EFTA02633609](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02633609.pdf)**: "JE/SB" -- steve canceled, Barak still invited, Feb 2019 (5 months before arrest)
@@ -404,7 +404,7 @@ The NPA (September 2007) was negotiated by:
 
 **[EFTA00011475](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011475.pdf)/13359**: OPR investigated whether Acosta gave NPA terms "favorable to Epstein, because of an improper motive, such as a bribe, political consideration, personal interest, or favoritism"
 
-**[EFTA00009977](https://www.justice.gov/epstein/files/DataSet%208/EFTA00009977.pdf)**: Internal recognition: "sealed Federal indictment" existed BEFORE the NPA -- meaning prosecutors had already secured a grand jury indictment and then chose to suppress it via NPA.
+**[EFTA00009977](https://www.justice.gov/epstein/files/DataSet%208/EFTA00009977.pdf)**: Internal recognition: "sealed Federal indictment" existed BEFORE the NPA -- meaning prosecutors had already secured a grand jury indictment and then chose not to pursue it, instead negotiating the NPA.
 
 ---
 
@@ -669,7 +669,7 @@ Nine individuals have been identified with documented presence across 2+ domains
 3. **Peter Mandelson** (Political + International/Russia + Financial) -- Moscow property, "tasty models," Congo political coordination, stayed at townhouse during Epstein's imprisonment
 4. **Kathryn Ruemmler** (Political + Legal + Intelligence-adjacent) -- sealed indictment consultation, Clinton/Obama protection strategy, career brokering through Epstein
 5. **Terje Roed-Larsen** (Diplomatic + Philanthropic + Political) -- Gates Foundation proposal coordination, personal relationship, Norwegian royalty connections
-6. **Leslie Wexner** (Financial + Philanthropic + Intelligence-adjacent) -- power of attorney, mansion transfer, intelligence connections via Kohn letters
+6. **Leslie Wexner** (Financial + Philanthropic + Intelligence-adjacent) -- power of attorney, mansion transfer, Kohn letters reference unnamed "certain parties" as intelligence-connected
 7. **Bill Richardson** (Political + Energy + Geographic) -- victim testimony, prosecutor frustration documented, blanket denials contradicting record
 8. **George Mitchell** (Political + Diplomatic + Think Tank) -- 2 independent victims, Trilateral Commission/CFR membership, never investigated
 9. **Bob Kerrey** (Political + Academic + Intelligence brokering) -- arranged CIA Director candidate meeting with tech billionaire through Epstein
@@ -681,7 +681,7 @@ The sealed architecture served multiple functions:
 - **Institutional protection**: Protective orders over financial records, intelligence exemptions
 - **Witness intimidation**: Physical threats, financial inducements ($100K/$250K wires), threatening calls
 - **Attorney capture**: Victim attorney (Edwards) later retained by accused (Black)
-- **Prosecutorial failure**: Pre-NPA indictment suppressed, OPR found potential improper motive but no action taken
+- **Prosecutorial failure**: Pre-NPA indictment not pursued in favor of plea deal; OPR investigated whether improper motive influenced the decision but found "poor judgment," not "professional misconduct"
 
 ## 9.3 ~~Intelligence Gap~~ Intelligence Connection Documented but Unverified by FBI
 

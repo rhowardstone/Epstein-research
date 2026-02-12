@@ -29,7 +29,7 @@ These are the documents where redactions are obviously protecting powerful peopl
 | # | EFTA | Pages | What It Is | What To Look For |
 |---|------|-------|-----------|-----------------|
 | 4 | **[EFTA02731576](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731576.pdf)** | 1 | Victim's direct text message to Leon Black | **Full unredacted text.** Our version reads: "You sexually harassed me, sex trafficked me, raped me, and eventually blacklisted me... forced to sign under duress." Verify the recipient name. |
-| 5 | **[EFTA02731721](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731721.pdf)** | Multi | Wigdor Law attorney letter | **THE most explosive document found.** Victim was trafficked by her own family to a "VIP" (Leon Black) AND Larry Summers. Full unredacted letter will reveal all named perpetrators. |
+| 5 | **[EFTA02731721](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731721.pdf)** | Multi | Wigdor Law attorney letter | **One of the most significant documents in the corpus.** A victim was reportedly trafficked by her own family to a "VIP" (identified as Leon Black) AND Larry Summers, according to an attorney letter. Full unredacted letter will reveal all named perpetrators. |
 | 6 | **[EFTA02731515](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731515.pdf)** | Multi | Wigdor attorney Christensen notes | **Video allegation:** "at least one video circulating on disgusting sex site," 6 men at hotel, victim had to be with 3. One man is "former friend of Leon Black's." **Who are all 6 men?** |
 | 7 | **[EFTA02731488](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731488.pdf)** | Multi | FBI prosecution call notes | "16 years old when raped by Black," trafficked to "at least 25 different men." **Who are the 25 men?** Biological mother involved in trafficking. |
 | 8 | **[EFTA00022133](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022133.pdf)** | 9 | Victim accusation compilation | Names Richardson, Mitchell, Minsky, Brunel, plus unnamed: "a prince," "a foreign president," "a French hotel chain owner." **The unredacted version should identify the prince, president, and hotel owner.** |
@@ -43,10 +43,10 @@ These are the documents where redactions are obviously protecting powerful peopl
 
 | # | EFTA | Pages | What It Is | What To Look For |
 |---|------|-------|-----------|-----------------|
-| 14 | **[EFTA02731226](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731226.pdf)** | 25+ | Maxwell prosecution memo | Contains "Epstein had cameras in his clock" — directly contradicts FBI CID finding of "no cameras." **Who else is named in the prosecution memo?** This is the internal strategy document. |
+| 14 | **[EFTA02731226](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731226.pdf)** | 25+ | Maxwell prosecution memo | Contains "Epstein had cameras in his clock" — the FBI CID stated no cameras were found "in any of the bedrooms or massage rooms," a more limited claim. The prosecution memo's clock-camera reference raises questions about surveillance in other areas. **Who else is named in the prosecution memo?** This is the internal strategy document. |
 | 15 | **[EFTA02731578](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731578.pdf)** | Multi | SDNY AUSA decision on Leon Black | "I'm not inclined to open based on the other victim" — despite multiple FBI 302s. **Which AUSA? What was the reasoning?** |
 | 16 | **[EFTA00014372](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014372.pdf)** | Multi | SDNY prosecutor frustration re Richardson | "This is so, so frustrating" — Richardson's lawyer misrepresented a conversation. **Full names and context of who blocked this.** |
-| 17 | **[EFTA00027666](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027666.pdf)** | Multi | CVRA judicial opinion on NPA | The Non-Prosecution Agreement terms. Dershowitz negotiated his own immunity clause. **Full unredacted NPA with all names of people granted immunity.** |
+| 17 | **[EFTA00027666](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027666.pdf)** | Multi | CVRA judicial opinion on NPA | The Non-Prosecution Agreement terms. The blanket co-conspirator immunity provision was expanded during defense team negotiations (Dershowitz was on the defense team; allegations against him did not emerge until 2014, years after the 2007-2008 NPA). **Full unredacted NPA with all names of people granted immunity.** |
 | 18 | **[EFTA00028149](https://www.justice.gov/epstein/files/DataSet%208/EFTA00028149.pdf)** | Multi | AG Barr recusal decision | Southern District of FL "ordered recused by DOJ" but AG Barr refused personal recusal despite Kirkland & Ellis conflict. **Internal reasoning documents.** |
 | 19 | **[EFTA02731577](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731577.pdf)** | 1 | Brad Edwards retained BY Leon Black | Oct 2024 — the prominent victims' attorney was hired by the accused. **Full terms and context.** |
 | 20 | **[EFTA00029358](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029358.pdf)** | Multi | Staley rape allegation | SDNY prosecutor: "one of the non/minor Epstein victims alleges that Jes Staley raped her during a massage." **Was this ever investigated? What happened?** |
@@ -80,7 +80,7 @@ These are the documents where redactions are obviously protecting powerful peopl
 | 34 | **[EFTA00037551](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037551.pdf)** | Master evidence spreadsheet — 60+ seized devices | **Full device inventory. Which were never searched?** |
 | 35 | **[EFTA00032104](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032104.pdf)** | CART: "terabytes worth of data" | **What encryption was broken? What was found behind it?** |
 | 36 | **[EFTA00039019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00039019.pdf)** | CSAM found during 2023 estate settlement | **CSAM missed during initial 2019-2021 processing. How?** |
-| 37 | **[EFTA00038617](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038617.pdf)** | FBI CID summary (approved 7/17/2024) | "Small number of CSAM images found on one of Epstein's devices," but also "NO bedroom cameras." **This contradicts [EFTA02731226](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731226.pdf) ("cameras in his clock"). Which is true?** |
+| 37 | **[EFTA00038617](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038617.pdf)** | FBI CID summary (approved 7/17/2024) | "Small number of CSAM images found on one of Epstein's devices." FBI stated no cameras found "in any of the bedrooms or massage rooms" — a specific claim that does not preclude cameras elsewhere. The Maxwell prosecution memo ([EFTA02731226](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731226.pdf)) references "cameras in his clock." **Do these claims conflict, or were cameras in non-bedroom locations?** |
 | 38 | **[EFTA00020778](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020778.pdf)** | Surveillance tip: Epstein with young girl on Palm Beach bike paths late 2018/early 2019 | **"Nothing was done." Who received this tip? Why no action?** |
 
 ### 2C. THE NPA CO-CONSPIRATORS
@@ -101,7 +101,7 @@ These are the documents where redactions are obviously protecting powerful peopl
 | 43 | **[EFTA00037239](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037239.pdf)** | Second Kohn letter | Continuation. **All names.** |
 | 44 | **[EFTA00021553](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021553.pdf)** | Jane Doe #3 testimony | Epstein "required her to describe events so he could potentially blackmail them." **Who was being blackmailed?** |
 | 45 | **[EFTA00032751](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032751.pdf)** | Boies/Pottinger "conspiracy to commit extortion" | Using Epstein's "illicit videos." **Who was targeted? What videos?** |
-| 46 | **[EFTA00029761](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029761.pdf)** | 2003 Palm Beach police report | Epstein purchasing cameras, concealing in clocks, monitoring on computer. **This is from 2003 — 16 years before arrest.** |
+| 46 | **[EFTA00029761](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029761.pdf)** | 2003 Palm Beach police report | Epstein purchased a spy camera concealed in a clock to catch a burglar stealing cash. **Important context:** This was for an anti-theft purpose, not sexual abuse surveillance. However, it documents Epstein's use of concealed camera technology as early as 2003 — 16 years before arrest. |
 | 47 | **[EFTA00007741](https://www.justice.gov/epstein/files/DataSet%204/EFTA00007741.pdf)/7984/7987/7990** | Maxell T-160 time-lapse surveillance VHS tapes | **"ITEM WAS NOT SCANNED." Were these tapes EVER viewed? By whom?** |
 | 48 | **[EFTA02278459](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02278459.pdf)** | Epstein staff cleaning "Ehud's apt" at 301 E 66th | March 4, 2019 — days before Barak publicly denied close ties. Same building as MC2 models, trafficking victims, corporate entities. **Full email chain.** |
 | 49 | **[EFTA00013730](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013730.pdf)** | Epstein touring Israeli military bases with Benny Shabtai | April 2008, while under FL charges. **Full details of the visit. Who authorized it?** |
@@ -202,11 +202,11 @@ Per [media reports](https://wegotthiscovered.com/politics/doj-to-provide-congres
 
 ## APPENDIX A2: THE UNSEARCHED 2005 COMPUTER
 
-**[EFTA00015823](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015823.pdf)**: 16 EnCase forensic DVDs containing a complete image of Epstein's 2005 Palm Beach computer — from the PEAK ABUSE PERIOD when dozens of minors were being trafficked. The government stated it "did not intend to obtain a warrant." The estate refused a privilege waiver. **This computer has NEVER been searched by ANYONE.** Congress can demand a warrant be obtained. This is arguably the single most important piece of unexamined evidence in the entire case.
+**[EFTA00015823](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015823.pdf)**: 16 EnCase forensic DVDs containing a complete image of Epstein's 2005 Palm Beach computer — from the PEAK ABUSE PERIOD when dozens of minors were being trafficked. The government stated it "did not intend to obtain a warrant." The estate refused a privilege waiver. **The forensic image on these DVDs has never been examined by federal authorities.** (Note: The Palm Beach County Sheriff's Office Computer Crimes Unit created the image and may have conducted local examination, possibly including for the 2006 grand jury — but the federal documents do not address this.) Congress can demand the federal warrant be obtained. This is arguably the single most important piece of unexamined evidence at the federal level.
 
 ## APPENDIX A3: THE MASSEUSE LIST
 
-**[EFTA00024797](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024797.pdf)**: 7 pages, ENTIRELY REDACTED. Found on seized devices. Contains "women and girls, some of which were identified minors." Was planned as a Maxwell trial exhibit but never used ([EFTA00038620](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038620.pdf)). **Every name on this list should be visible in the unredacted version. This is the victim roster.**
+**[EFTA00024797](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024797.pdf)**: 7 pages, ENTIRELY REDACTED. Found on seized devices. Per FBI, the names are "believed to be women and girls, some of which were identified minors" ([EFTA00038620](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038620.pdf)). Was planned as a Maxwell trial exhibit but never used ([EFTA00038620](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038620.pdf)). **Every name on this list should be visible in the unredacted version. This is the victim roster.**
 
 ## APPENDIX B: DOCUMENTS THE FBI NEVER FOLLOWED UP ON
 
@@ -231,11 +231,26 @@ To avoid spreading misinformation, note these corrections from our verification:
 ## APPENDIX D: WHAT IS NOT IN THESE FILES
 
 Based on exhaustive search of 218GB across 6 databases (3.4M+ records):
-- **ZERO** mentions of: Carbyne, Mega Group, Ari Ben-Menashe, Unit 8200, Shin Bet, LAKAM
-- **ZERO** mentions of: Gabriela Rico Jimenez, Carlos Slim, Monterrey, cannibalism
-- **ZERO** identification of: "French hotel chain owner," "Ms. Vicki," "Mr. Robert and Jill," "the Gregorys"
-- **ZERO** identification of: The CBP officer (Badge CAS03223) — name redacted in every database
-- The **Deripaska** connection (Mandelson Moscow email referencing "Oleg") returns ZERO results for "Deripaska"
+
+**Israeli intelligence terms — CORRECTED (originally all reported as ZERO):**
+- **Carbyne:** 50 documents (DS9) — complete investment structure ($1.5M invested, $50M valuation, board reports). See [ISRAEL_DEEP_DIVE_V2.md](intelligence/ISRAEL_DEEP_DIVE_V2.md).
+- **Reporty:** 324 documents (DS9) — related to Carbyne/Barak investment.
+- **Unit 8200:** 11 documents — news articles about the Israeli signals intelligence unit, circulated among Epstein's network. No direct operational connection documented.
+- **Shin Bet:** 23 documents — appears in news/reference material. No direct operational connection documented.
+- **Mega Group:** 4 documents — references exist but no substantive Epstein connection documented.
+- **FBI CHS FD-1023** ([EFTA00090314](https://www.justice.gov/epstein/files/DataSet%209/EFTA00090314.pdf)): A confidential human source stated "Epstein belonged to both U.S. and allied intelligence services" and was "trained as a spy under" Barak. This is a single-source CHS report, not corroborated by other documents.
+- **ZERO** mentions of: Ari Ben-Menashe, LAKAM (Israeli intelligence agency — apparent text matches are OCR noise)
+
+**Conspiracy debunking — NO connection found:**
+- **Gabriela Rico Jimenez:** ZERO mentions. The August 2009 Monterrey incident has no connection to Epstein.
+- **Carlos Slim:** 48 incidental mentions (conferences, jokes, real estate) — ZERO substantive connection to Epstein operations.
+- **Cannibalism:** 7 documents — one FBI 302 from a mentally unstable interviewee, no corroboration. Not a credible lead.
+
+**Still unidentified:**
+- "French hotel chain owner" — ZERO identification across all databases
+- "Ms. Vicki," "Mr. Robert and Jill," "the Gregorys" — ZERO identification
+- CBP officer (Badge CAS03223) — name redacted in every database (identified as Timothy Routch in DS9 unredacted documents, see [CBP_CORRUPTION_INVESTIGATION.md](institutional/CBP_CORRUPTION_INVESTIGATION.md))
+- **Deripaska** connection (Mandelson Moscow email referencing "Oleg") — ZERO results for "Deripaska"
 
 ---
 

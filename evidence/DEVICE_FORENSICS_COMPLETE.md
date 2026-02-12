@@ -10,7 +10,7 @@
 
 ## EXECUTIVE SUMMARY
 
-The Epstein DOJ files reveal a forensic evidence operation of staggering scope -- and equally staggering dysfunction. Between July 2019 and late 2021, the FBI seized **over 70 digital devices** from Epstein's New York mansion (approximately 40 storage devices plus 60+ CDs) and his US Virgin Islands properties (25+ devices including multiple servers and server racks). The processing of this evidence was plagued by:
+The Epstein DOJ files reveal a forensic evidence operation of significant scope -- and significant processing dysfunction. Between July 2019 and late 2021, the FBI seized **over 70 digital devices** from Epstein's New York mansion (approximately 40 storage devices plus 60+ CDs) and his US Virgin Islands properties (25+ devices including multiple servers and server racks). The processing of this evidence was plagued by:
 
 - **17+ months of delays** between seizure and usable production to prosecutors
 - **Terabytes of data** spanning phones, tablets, loose media, cameras, DVRs, servers, laptops, and desktop computers
@@ -430,7 +430,7 @@ FD-302 interview confirming:
 > "There were no entries of counts in TRUSCOPE the entire night."
 > "If technology is down, the Correctional Officers also [are required to maintain manual counts]."
 
-The 3:00 AM and 5:00 AM counts -- designed to "physically count and confirm each person in each cell" -- were not recorded. Combined with the DVR failure timeline, this establishes a complete surveillance blackout at MCC on the night of Epstein's death.
+The 3:00 AM and 5:00 AM counts -- designed to "physically count and confirm each person in each cell" -- were not recorded. Combined with the DVR failure timeline, this establishes a near-complete surveillance gap in the SHU area on the night of Epstein's death. (DVR 1, covering other areas of MCC including 2 camera angles of interest, remained operational.)
 
 ---
 
@@ -455,7 +455,7 @@ Each disc labeled "Disk 1 of 16" through "Disk 16 of 16."
 8. The Government **could not permit defense to review** the contents either
 9. Epstein's estate was **"repeatedly unwilling to waive any attorney-client privileges"** regarding devices
 
-**This means a complete forensic image of Epstein's computer from 2005 -- the peak period of his abuse -- has NEVER been examined by anyone.**
+**This means a complete forensic image of Epstein's computer from 2005 -- the peak period of his abuse -- has never been examined by federal authorities.** (Note: The Palm Beach County Sheriff's Office Computer Crimes Unit created the EnCase image and may have conducted local examination, possibly including in connection with the 2006 grand jury — but this is not addressed in the federal documents.)
 
 ---
 
@@ -682,13 +682,13 @@ Listed on the evidence spreadsheet as provided on 7/23 but physically absent fro
 The inability to link emails to their attachments in the initial 1.1 million document production means potentially critical evidence connections (e.g., "see the attached flight records") may have been missed during review.
 
 ### 10. 400 TB Deletion Order
-The FBI CART team was ordered to "delete old stuff (about 400 TB worth)" during their network replacement. While this appears to reference general FBI data management rather than Epstein evidence specifically, the timing during active evidence processing raises questions.
+The FBI CART team was ordered to "delete old stuff (about 400 TB worth)" during their network replacement. This appears to reference general FBI data management rather than Epstein evidence specifically.
 
 ### 11. Camera-in-Clock Practice -- 2003 Origin ([EFTA00157526](https://www.justice.gov/epstein/files/DataSet%209/EFTA00157526.pdf))
 Palm Beach Police Department report from 2003 documents a burglary at 358 El Brillo Way (Epstein's Palm Beach residence). Epstein had purchased a spy camera from a store on Okeechobee Boulevard and concealed it "in a clock in his office" to catch a suspected thief. The camera successfully recorded the suspect at 4:28 AM with $4,000 in bait money involved. This is the earliest documented instance of Epstein's camera-in-clock practice -- **2 full years before** the 2005 sex trafficking investigation. It establishes surveillance expertise, equipment procurement channels, and contextualizes the later contradiction between the FBI CID finding of "no cameras found in bedrooms" ([EFTA00038617](https://www.justice.gov/epstein/files/DataSet%209/EFTA00038617.pdf)) and the Maxwell prosecution memo stating "Epstein had cameras in his clock" ([EFTA02731226](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02731226.pdf)).
 
 ### 12. NARA Unauthorized Destruction Investigation ([EFTA00172146](https://www.justice.gov/epstein/files/DataSet%209/EFTA00172146.pdf))
-In April 2025, the National Archives and Records Administration (NARA) investigated an ex-FBI agent whistleblower's claims that "people inside the FBI have been working night and day to destroy files on these servers." NARA contacted FBI's Information Management Division (IMD), which contacted INSD (Internal Security Division). **INSD declined to investigate** without more specific allegations. IMD hit a "dead end." OGC/CDC was to draft a response. This is the only documented federal investigation into potential evidence destruction -- and it was effectively killed by the refusal to act without specifics.
+In April 2025, the National Archives and Records Administration (NARA) investigated an ex-FBI agent whistleblower's claims that "people inside the FBI have been working night and day to destroy files on these servers." NARA contacted FBI's Information Management Division (IMD), which contacted INSD (Internal Security Division). **INSD declined to investigate** without more specific allegations. IMD hit a "dead end." OGC/CDC was to draft a response. This is the only documented federal investigation into potential evidence destruction -- and it was not pursued further after INSD declined to investigate without more specific allegations.
 
 ### 13. Senator Blackburn Evidence Request -- Unanswered ([EFTA00161477](https://www.justice.gov/epstein/files/DataSet%209/EFTA00161477.pdf), [EFTA00161474](https://www.justice.gov/epstein/files/DataSet%209/EFTA00161474.pdf))
 Senator Marsha Blackburn sent a letter to Director Patel on February 24, 2025, requesting complete flight logs from Epstein's private jet and helicopter, any records in Maxwell's possession containing names of individuals, and additional items. FBI internal email from May 6, 2025: "Did we ever get the response?" -- "I did not." As of May 2025, the FBI had not responded to a sitting Senator's formal request for Epstein evidence -- 10 weeks after the letter was sent.

@@ -55,7 +55,7 @@ Each disc was labeled "Disk 1 of 16" through "Disk 16 of 16." **([EFTA00015823](
 
 But the 2005 search warrant "authorized seizure but did NOT authorize searching the contents of electronic devices." No subsequent warrant was ever obtained. The Government stated it had "no lawful basis to review" the forensic image and "did not intend to obtain a warrant" to search it. Epstein's estate was "repeatedly unwilling to waive any attorney-client privileges." **([EFTA00015823](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015823.pdf))**
 
-**This means a complete forensic image of Epstein's primary personal computer from the peak period of his abuse -- 2002-2005 -- has NEVER been examined by anyone.** The 16 DVDs sit in an FBI evidence locker, unread.
+**This means a complete forensic image of Epstein's primary personal computer from the peak period of his abuse -- 2002-2005 -- has never been examined by federal authorities.** The 16 DVDs sat in the FBI Florida Office's file, unexamined at the federal level. (Note: The Palm Beach County Sheriff's Office Computer Crimes Unit created the forensic image and may have conducted local examination — this is not addressed in the federal documents.)
 
 ### Evidence Destruction Before the Search
 
@@ -75,7 +75,7 @@ The same memorandum confirms:
 
 ### The Surveillance System
 
-Further evidence of Epstein's criminal infrastructure was in plain sight but never pursued. Palm Beach police documented in 2003 that Epstein was "purchasing cameras, concealing in clocks, monitoring on computer." **([EFTA00029761](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029761.pdf))** The Maxwell prosecution memorandum later confirmed: "Epstein had cameras in his clock." **([EFTA02731226](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731226.pdf))**
+Further evidence of Epstein's surveillance capabilities was documented but its significance was not pursued. A 2003 Palm Beach police burglary report documented Epstein "purchasing cameras, concealing in clocks, monitoring on computer" — the camera in that instance was set up to catch a thief, but established Epstein's familiarity with concealed camera systems. **([EFTA00029761](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029761.pdf))** The Maxwell prosecution memorandum later confirmed: "Epstein had cameras in his clock." **([EFTA02731226](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731226.pdf))**
 
 Maxell T-160 time-lapse surveillance VHS tapes were seized from the Palm Beach residence. These tapes -- specifically designed for surveillance recording -- were catalogued in evidence but annotated: "ITEM WAS NOT SCANNED." **([EFTA00007741](https://www.justice.gov/epstein/files/DataSet%204/EFTA00007741.pdf), [EFTA00007984](https://www.justice.gov/epstein/files/DataSet%204/EFTA00007984.pdf), [EFTA00007987](https://www.justice.gov/epstein/files/DataSet%204/EFTA00007987.pdf), [EFTA00007990](https://www.justice.gov/epstein/files/DataSet%204/EFTA00007990.pdf))**
 
@@ -111,13 +111,13 @@ The same filing stated:
 
 **([EFTA00021553](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021553.pdf), Page 4)**
 
-Dershowitz personally threatened Acosta during the negotiations:
+During negotiations, Acosta described being told by the defense team:
 
 > "I might be personally embarrassed by pursuing this matter, because I would be the subject of a chapter in a book on prosecutorial overreach."
 
 **([EFTA00009116](https://www.justice.gov/epstein/files/DataSet%207/EFTA00009116.pdf), Page 391)**
 
-**What was not done:** Dershowitz was never investigated as a subject. He negotiated an immunity agreement that covered himself. No conflict of interest review was ever conducted regarding his dual role as defense attorney and alleged co-conspirator. No bar disciplinary proceedings resulted.
+**What was not done:** Dershowitz was never investigated as a subject. The NPA's co-conspirator immunity clause arguably extends to him as a member of Epstein's inner circle, though allegations against him did not become public until 2014. No conflict of interest review was ever conducted regarding his dual role as defense attorney and alleged co-conspirator. No bar disciplinary proceedings resulted.
 
 ## 2.2 The Co-Conspirator Immunity Clause
 
@@ -388,7 +388,7 @@ The reviewer found an image of Trump and Ghislaine Maxwell on Bannon's phone and
 
 Additionally, the review revealed a "number of text messages between Steve Bannon and Jeffrey Epstein" on Bannon's phone. These were classified as "not responsive to our warrant." **([EFTA00027290](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027290.pdf))**
 
-**What was not done:** The Bannon-Epstein texts were never reviewed by the Epstein case team. No separate warrant was sought. The relationship between Bannon and Epstein was extensive and documented (Apple Watch gift January 2019 **([EFTA02271437](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02271437.pdf))**, Epstein brokered Bannon-Barak meeting February 2019 **([EFTA02633609](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02633609.pdf))**, Bannon on Epstein's island January 2019 **([EFTA02273951](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02273951.pdf))**), but the text messages that could have illuminated it were deliberately excluded from investigation.
+**What was not done:** The Bannon-Epstein texts were never reviewed by the Epstein case team. No separate warrant was sought. The relationship between Bannon and Epstein was extensive and documented (Apple Watch gift January 2019 **([EFTA02271437](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02271437.pdf))**, Epstein brokered Bannon-Barak meeting February 2019 **([EFTA02633609](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02633609.pdf))**, Bannon on Epstein's island January 2019 **([EFTA02273951](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02273951.pdf))**), but the text messages that could have illuminated it were never reviewed by the Epstein case team, and no separate warrant was sought.
 
 ---
 
@@ -460,9 +460,9 @@ Image analysis of the physical evidence shows the hard drives were photographed 
 
 On the day of Epstein's death, images from MCC appeared on 4chan before official notification. The FBI captured at least 8 screenshots from the 4chan thread. **([EFTA01731021](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01731021.pdf))** The source posted from a dynamic IP address that was never identified. FBI case file materials include "4chan8 PNG" entries. **([EFTA01731021](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01731021.pdf))**
 
-Additional information emerged: hard drives were reportedly removed from the SHU at approximately 10:15 PM the evening of August 9 -- before Epstein's body was found the following morning. Paramedics arrived at 6:56 AM. **([EFTA01660622](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660622.pdf))**
+The BOP's own incident chronology recorded: "10:15 pm: Computer Services Manager arrives at institution to remove hard drives (Computers) from SHU. And replaced with new ones." This occurred on the evening of August 10, 2019 -- approximately 16 hours after Epstein's body was found that morning. The Computer Services Manager departed at 12:15 AM on August 11. **([EFTA00033799](https://www.justice.gov/epstein/files/DataSet%208/EFTA00033799.pdf), [EFTA00035175](https://www.justice.gov/epstein/files/DataSet%208/EFTA00035175.pdf))**
 
-**What was not done:** The 4chan leaker was never identified. The chain of custody for the hard drive removal was never publicly resolved. No final report on these anomalies was ever issued.
+**What was not done:** The 4chan leaker was never identified. No final report on these anomalies was ever issued.
 
 ## 5.4 The Guard DPAs and Dismissal
 
@@ -604,7 +604,7 @@ Jean-Luc Brunel was arrested in France in December 2020 after SDNY coordinated w
 
 France demanded reciprocity: "they are not going to help SDNY unless we show a good faith effort to help them, and begin sending evidence their way." **([EFTA00021720](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021720.pdf))**
 
-Brunel was found dead in his Paris jail cell on February 19, 2022, in an apparent suicide. He was never tried. The circumstances echoed Epstein's own death. Both men whose criminal proceedings could have compelled testimony against others died in custody.
+Brunel was found dead in his Paris jail cell on February 19, 2022, in an apparent suicide. He was never tried. Both men whose criminal proceedings could have compelled testimony against others died in custody.
 
 ## 6.7 The Evidence Still in Boxes
 
@@ -652,7 +652,7 @@ This chapter catalogues every significant investigative step that should have be
 
 | Individual | Evidence in FBI Files | Action Taken | Result |
 |------------|---------------------|--------------|--------|
-| Alan Dershowitz | Multiple victim testimony; negotiated own immunity | None | Never investigated |
+| Alan Dershowitz | Multiple victim testimony (2014+); member of defense team that negotiated NPA with co-conspirator immunity clause | None | Never investigated |
 | Prince Andrew | SDNY acknowledged "sexual conduct with victim" | MLAT filed, never completed | Civil settlement; no charges |
 | Leon Black | 4+ victims, FBI 302s, $62.5M USVI settlement | CRU "not inclined to open" | No charges **([EFTA02731578](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731578.pdf), [EFTA02731660](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731660.pdf))** |
 | Jes Staley | Rape allegation, emails requesting women | FCA coordination | No charges any jurisdiction |
@@ -676,7 +676,7 @@ This chapter catalogues every significant investigative step that should have be
 
 3. **No investigation of evidence destruction** -- computer removal before Palm Beach search, directory shredding at Maxwell's house. **([EFTA02731082](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731082.pdf))**
 
-4. **No investigation of the 99-day email blackout** in the context of the documented pattern of evidence destruction.
+4. **No cross-referencing of the 99-day PLIST metadata gap** (an extraction artifact in DS11) against the DS9 email corpus that shows continuous activity, in the context of the documented pattern of evidence destruction.
 
 5. **No investigation of Indyke's instruction** to a witness "not to talk to police." **([EFTA02731082](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731082.pdf))**
 
@@ -712,7 +712,7 @@ The Jeffrey Epstein case represents not a single failure but a cascading series 
 
 **1996-2005:** FBI had source reporting on Epstein but opened no investigation for a decade. Palm Beach PD seized a computer and surveillance tapes that were never examined.
 
-**2007-2008:** Federal prosecutors negotiated a deal that immunized unnamed co-conspirators, including the defense attorney himself. Victims were deliberately deceived. The DAG's office found federal prosecution "appropriate" but deferred to a state plea.
+**2007-2008:** Federal prosecutors negotiated a deal that immunized unnamed co-conspirators; one member of the defense team, Dershowitz, was later accused by multiple victims (beginning in 2014) of being a participant in the abuse. Victims were deliberately deceived. The DAG's office found federal prosecution "appropriate" but deferred to a state plea.
 
 **2008-2019:** Epstein continued operating his trafficking network for eleven years after the NPA. Tips were ignored. The SDNY finally opened an investigation in response to journalism, not law enforcement intelligence.
 
@@ -773,7 +773,7 @@ The question is not whether there were failures. The question is whether the fai
 | EFTA Number | Content |
 |-------------|---------|
 | [EFTA00009016](https://www.justice.gov/epstein/files/DataSet%207/EFTA00009016.pdf) | Acosta deposition: NPA negotiations, co-conspirator immunity |
-| [EFTA00009116](https://www.justice.gov/epstein/files/DataSet%207/EFTA00009116.pdf) | Acosta OPR interview: Dershowitz threat, "army of legal superstars" |
+| [EFTA00009116](https://www.justice.gov/epstein/files/DataSet%207/EFTA00009116.pdf) | Acosta OPR interview: defense team threat, "army of legal superstars" |
 | [EFTA00009229](https://www.justice.gov/epstein/files/DataSet%207/EFTA00009229.pdf) | Acosta interview: CVRA, OPR subject |
 | [EFTA00009329](https://www.justice.gov/epstein/files/DataSet%207/EFTA00009329.pdf) | Acosta interview: DAG review, CVRA obligations |
 | [EFTA00010507](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010507.pdf) | Judge Marra CVRA ruling: NPA immunity clause, victim concealment |
@@ -855,7 +855,7 @@ The question is not whether there were failures. The question is whether the fai
 | 2005 | Epstein/Maxwell direct removal of computers before search confirmed | OBSTRUCTION NOT CHARGED |
 | 2005 | Maxwell directs shredding of directories | OBSTRUCTION NOT CHARGED |
 | 7/24/2006 | FBI WPB RA opens investigation | -- |
-| 2007 | NPA negotiations: Dershowitz threatens Acosta | CONFLICT UNADDRESSED |
+| 2007 | NPA negotiations: defense team threatens Acosta with "book on prosecutorial overreach" | CONFLICT UNADDRESSED |
 | 2007 | NPA co-conspirator immunity clause inserted | BLANKET IMMUNITY |
 | 2007-2008 | Victims deliberately concealed from NPA existence | CVRA VIOLATION |
 | 6/2008 | Epstein accepts state plea deal | NARROWED PROSECUTION |
