@@ -40,3 +40,5 @@
 !recovered_corrupted_pdfs/README.md
 !recovered_corrupted_pdfs/github_release/
 !recovered_corrupted_pdfs/github_release/**
+!recovered_corrupted_pdfs/carved_pdfs/
+!recovered_corrupted_pdfs/carved_pdfs/**
