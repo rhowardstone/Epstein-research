@@ -32,3 +32,9 @@
 !conspiracy-debunking/*.md
 !raw-dataset-analysis/
 !raw-dataset-analysis/*.md
+
+# Recovered forensic evidence (binary files from corrupted PDF analysis)
+!recovered_corrupted_pdfs/
+!recovered_corrupted_pdfs/README.md
+!recovered_corrupted_pdfs/github_release/
+!recovered_corrupted_pdfs/github_release/**
