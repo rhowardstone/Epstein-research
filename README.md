@@ -76,7 +76,7 @@ See the [EFTA Dataset Mapping](#efta-number-to-dataset-mapping) table at the bot
 | [LUXURY_PURCHASES_ANALYSIS](financial/LUXURY_PURCHASES_ANALYSIS.md) | Luxury purchases, lifestyle spending, and high-value acquisitions analysis. |
 | [WOW_GOLD_IGE_BANNON_SEARCH](financial/WOW_GOLD_IGE_BANNON_SEARCH.md) | NEGATIVE: Zero evidence of WoW gold / IGE / virtual currency money laundering across 3.5M+ records. |
 
-### Named Individual Investigations (19 reports)
+### Named Individual Investigations (20 reports)
 
 | Report | Description |
 |--------|-------------|
@@ -98,6 +98,7 @@ See the [EFTA Dataset Mapping](#efta-number-to-dataset-mapping) table at the bot
 | [UNNAMED_PERSONS_INVESTIGATION](individuals/UNNAMED_PERSONS_INVESTIGATION.md) | Foreign president (Ehud Barak), AOL cluster, 34 journal names mapped, Wigdor corroboration. |
 | [DUBAI_SULAYEM_INVESTIGATION](individuals/DUBAI_SULAYEM_INVESTIGATION.md) | Sultan bin Sulayem directed DP World SVP to contact Epstein's USVI attorney re "port of St Croix." Victim names "Sultan from Dubai." 40+ docs. |
 | [KHANNA_SIX_NAMES_INVESTIGATION](individuals/KHANNA_SIX_NAMES_INVESTIGATION.md) | The six men whose names were redacted by the FBI and read onto the House floor by Rep. Ro Khanna on Feb 10, 2026: Nuara, Mikeladze, Leonov, Caputo, Sultan bin Sulayem, and Wexner. 20-person co-conspirator list analysis. |
+| [JACQUI_SAFRA_INVESTIGATION](individuals/JACQUI_SAFRA_INVESTIGATION.md) | Jacob "Jacqui" Safra: Swiss billionaire (~$5B), Safra banking dynasty. 100+ EFTA docs via Brockman/Edge Foundation pipeline. Jerusalem "Sherover House" property negotiation, financial opportunity discussions. No criminal nexus. |
 
 ### Victim Analysis (4 reports)
 

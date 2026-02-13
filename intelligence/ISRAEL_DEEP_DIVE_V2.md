@@ -417,13 +417,16 @@ The [EFTA01660651](https://www.justice.gov/epstein/files/DataSet%2010/EFTA016606
 
 **Assessment:** Two items ([EFTA00001970](https://www.justice.gov/epstein/files/DataSet%201/EFTA00001970.pdf), [EFTA00001971](https://www.justice.gov/epstein/files/DataSet%201/EFTA00001971.pdf)) are clearly IDF-branded, with visible "IDF" logos and Hebrew text reading "צה"ל." The white dress uniform ([EFTA00001969](https://www.justice.gov/epstein/files/DataSet%201/EFTA00001969.pdf)) bears no visible national insignia or markings that would identify its country of origin; it has not been identified as IDF and its provenance is unknown. Medals are issued for actual military service, not sold as souvenirs. The owners of these items are not established in the FBI files -- possible owners include Ehud Barak (who maintained an apartment in Epstein's building) or another visitor, but this is unverified.
 
-## C. "Jacqui's Jerusalem Residence"
+## C. Jacqui Safra's Jerusalem Residence
 
-### [EFTA01750543](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01750543.pdf) / [EFTA01933564](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01933564.pdf) -- Jerusalem Property Reference
-- **[EFTA01750543](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01750543.pdf) redaction content:** "[date] March 24, 2014 11:36:09 AM" / "0 PM EDT" / "Subject: Jacqui's Jerusalem residence"
-- **[EFTA01933564](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01933564.pdf) redaction content:** "PM EDT" / "Subject: Jacqui's Jerusalem residence"
+### [EFTA01750543](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01750543.pdf) / [EFTA01933564](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01933564.pdf) -- Jerusalem Property Negotiation
+- **[EFTA01750543](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01750543.pdf):** March 24, 2014 — Lesley Groff forwarding John Brockman email to Epstein. Subject: "Jacqui's Jerusalem residence." Brockman's message explicitly names **"Jacqui Safra"** and provides his phone number. References a conversation at the March 17, 2014 Edge Foundation "Billionaires' Dinner" in Vancouver: "Jacqui wants to know if you would like to have a serious conversation about his Jerusalem residence that he discussed with you Monday night."
+- **[EFTA01933564](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01933564.pdf):** Epstein's reply: "yes, and Paul Allen" — confirming interest and requesting parallel outreach to Paul Allen (Microsoft co-founder, also present at the Vancouver dinner).
+- **Earlier pitch:** [EFTA00394883](https://www.justice.gov/epstein/files/DataSet%209/EFTA00394883.pdf) (Feb 26, 2013) — Brockman to Epstein: "Jacqui Safra is here with me. Wants to sell you his Jerusalem house in Talbieh neighborhood known as 'The Sherover House' across st from Jerusalem Theatre."
 
-- **Analysis:** Two emails (or duplicate emails) about a property in Jerusalem associated with someone named "Jacqui." The identity of "Jacqui" is not established in the documents. Possible candidates include Jacqueline Eubanks (Epstein associate), but no definitive identification can be made from the available data. The OCR text records returns no results for "Jacqui" + "Jerusalem" combined, and the body of these emails is fully redacted.
+- **Identification:** Jacob "Jacqui" Eli Safra (b. 1947), Swiss billionaire (~$5B), member of the Safra banking dynasty, owner of Encyclopaedia Britannica and Spring Mountain Vineyards. Safra acquired the Sherover property on Dubnov Street in the **Talbieh** neighborhood of Jerusalem in 1991 and expanded it in 2004. The property is across from the Jerusalem Theatre (built and donated by the Sherover family). Full investigation: [JACQUI_SAFRA_INVESTIGATION](/individuals/JACQUI_SAFRA_INVESTIGATION.md).
+
+- **Israel Relevance Assessment:** The Safra-Epstein connection is **social/financial**, not intelligence-related. Safra was part of Epstein's Edge Foundation dinner circuit alongside tech billionaires. The Jerusalem property discussion reflects Epstein's interest in Israeli real estate but does not connect to intelligence infrastructure. No evidence suggests the property sale was completed. Epstein separately stated: "I would not do biz with the safras, under any circumstances" ([EFTA02468988](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02468988.pdf)).
 
 ## D. "Military Edge in the Middle East" / "Possibility of Israel"
 
@@ -848,8 +851,8 @@ DS9 calendar entries reveal regular Drokova meetings with Epstein throughout 201
 | [EFTA01660651](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660651.pdf) | NTOC Tips | Allen/Oren/Tal victim account (Hebrew names) |
 | [EFTA01660679](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660679.pdf) | NTOC Tips | Same victim account (duplicate compilation) |
 | [EFTA01731006](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01731006.pdf) | FBI Case File | "Blackmail powerful businessmen in New York" |
-| [EFTA01750543](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01750543.pdf) | Email | "Jacqui's Jerusalem residence" |
-| [EFTA01933564](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01933564.pdf) | Email | "Jacqui's Jerusalem residence" (duplicate) |
+| [EFTA01750543](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01750543.pdf) | Email | Jacqui Safra's Jerusalem residence — Brockman/Groff, names Safra explicitly |
+| [EFTA01933564](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01933564.pdf) | Email | Epstein reply re Safra property: "yes, and Paul Allen" |
 | [EFTA01982248](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01982248.pdf) | Document | "Qualitative military edge in the Middle East" / "possibility of Israel" |
 | [EFTA02148317](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02148317.pdf) | Email | "any info re Benny Shabtai coming" |
 | [EFTA02148337](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02148337.pdf) | Email | "any info re Benny Shabtai coming" (duplicate) |
