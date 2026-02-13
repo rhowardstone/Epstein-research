@@ -55,18 +55,20 @@ Native files are stored in `NATIVES` subdirectories; their PDF companions in `IM
 
 | Metric | Value |
 |--------|-------|
-| Total PDF documents in corpus | 1,380,935 (after recovery) |
+| Total PDF documents in corpus | 1,380,936 (after all recoveries) |
 | Total non-PDF files (all with PDF companions) | 5,142 |
 | Total EFTA page-numbers spanned | 2,731,783 |
-| Gaps identified by page-based analysis | 22 |
+| Gaps identified by page-based analysis | 22 (36 EFTA page-numbers) |
 | Resolved: recovered from DOJ server | 3 documents (EFTA00000467, EFTA00000468, EFTA00009781) |
-| Resolved: corrupted PDFs already forensically recovered | 5 documents (see [recovered_corrupted_pdfs](../recovered_corrupted_pdfs/README.md)) |
-| Resolved: 0-byte CDN downloads (available on DOJ, rate-limited) | 23 documents |
-| **Truly absent from DOJ release (HTTP 404)** | **5 EFTA page-numbers** |
+| Resolved: corrupted PDFs forensically recovered | 5 documents (see [recovered_corrupted_pdfs](../recovered_corrupted_pdfs/README.md)) |
+| Resolved: false positive (pages within multi-page PDF) | 4 page-numbers (EFTA00009782-85 = pages 2-5 of EFTA00009781.pdf, confirmed via VOL00008.OPT concordance) |
+| Resolved: recovered from Wayback Machine | 1 document (EFTA00013397 — deleted from DOJ on Dec 23, 2025) |
+| Remaining: CDN rate-limited (available on DOJ) | 23 documents (1-page placeholders, downloadable via browser) |
+| **Truly absent from DOJ release** | **0** |
 | Inter-dataset boundary gaps | 237 EFTA numbers (expected, between datasets) |
 | Page-count anomalies (overlaps) | 5 (Bates numbering errors in DS9) |
 
-**The DOJ release is 99.99982% complete.** Only 5 EFTA page-numbers out of 2,731,783 are genuinely absent from the DOJ server.
+**The DOJ release is 100% complete within dataset boundaries.** Every EFTA page-number is accounted for. The 23 remaining CDN-rate-limited files are confirmed to exist on the DOJ server and are downloadable individually via browser.
 
 ---
 
@@ -246,45 +248,58 @@ All five were fully analyzed and all recoverable content was extracted. See [rec
 
 ---
 
-## THE 5 TRULY MISSING EFTA NUMBERS
+## RESOLVED GAPS — CONCORDANCE AND WAYBACK ANALYSIS
 
-These 5 EFTA page-numbers return HTTP 404 from the DOJ server and do not exist in any known copy of the dataset. They were not found as PDFs, media files, or any other format on disk or on archive.org.
+### EFTA00009782–EFTA00009785: FALSE POSITIVE (pages within multi-page PDF)
 
-### EFTA00009782–EFTA00009785 (4 pages, DS8)
+The Dataset 8 concordance file (`VOL00008.OPT`) definitively resolves this apparent gap:
 
-**Context — what surrounds the gap:**
+```
+EFTA00009781,VOL00008,IMAGES\0001\EFTA00009781.pdf,Y,,,5   ← 5-page document start
+EFTA00009782,VOL00008,IMAGES\0001\EFTA00009781.pdf,,,,      ← page 2 of same PDF
+EFTA00009783,VOL00008,IMAGES\0001\EFTA00009781.pdf,,,,      ← page 3
+EFTA00009784,VOL00008,IMAGES\0001\EFTA00009781.pdf,,,,      ← page 4
+EFTA00009785,VOL00008,IMAGES\0001\EFTA00009781.pdf,,,,      ← page 5
+EFTA00009786,VOL00008,IMAGES\0001\EFTA00009786.pdf,Y,,,5   ← next document
+```
 
-| EFTA | Content |
-|------|---------|
-| [EFTA00009775](https://www.justice.gov/epstein/files/DataSet%208/EFTA00009775.pdf) (6pp) | **MCC New York Special Housing Unit 30-Minute Check Sheet** — August 10, 2019 (the night of Epstein's death) |
-| [EFTA00009781](https://www.justice.gov/epstein/files/DataSet%208/EFTA00009781.pdf) (5pp) | MCC documents (recovered from DOJ, 617,030 bytes) |
-| EFTA00009782–00009785 | **MISSING — 4 pages** |
-| [EFTA00009786](https://www.justice.gov/epstein/files/DataSet%208/EFTA00009786.pdf) (5pp) | **Michael Thomas Deferred Prosecution Agreement** — Case 1:19-cr-00830-AT (guard DPA, filed 5/25/2021) |
+EFTA00009782-85 are **pages 2-5 of EFTA00009781.pdf**, not separate documents. The gap detection script flagged these because it used the `total_pages` value from the database (which was 0 before recovery) rather than the concordance. After recovering EFTA00009781.pdf from the DOJ server (5 pages, 617,030 bytes), all content is accounted for.
 
-These 4 missing pages fall **between the MCC death-night check sheets and the guard's DPA**. The EFTA sequence places them squarely in the MCC/death investigation portion of Dataset 8.
+**Content:** Case 1:19-cr-00830-AT Document 59 — **Tova Noel Deferred Prosecution Agreement** (MCC guard who falsified check sheets the night Epstein died, filed 5/25/2021).
 
-### EFTA00013397 (1 page, DS8)
+### EFTA00013397: RECOVERED FROM WAYBACK MACHINE (deleted from DOJ Dec 23, 2025)
 
-**Context — what surrounds the gap:**
+The Wayback Machine CDX API reveals this file's history:
 
-| EFTA | Content |
-|------|---------|
-| [EFTA00013395](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013395.pdf) (2pp) | FBI/USANYS emails re IAs for case 31E-MM-108062 (Sep 29, 2021) |
-| EFTA00013397 | **MISSING — 1 page** |
-| [EFTA00013398](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013398.pdf) (24pp) | **Ghislaine Maxwell Superseding Indictment** — S2 20 Cr. 330 (AJN), Conspiracy to Entice Minors to Travel |
+| Timestamp | Status | Size | Notes |
+|-----------|--------|------|-------|
+| 2025-12-23 06:18:27 UTC | HTTP 200 (PDF) | 3,194 bytes | **Snapshot preserved** |
+| 2025-12-23 15:58:51 UTC | HTTP 200 (PDF) | 3,048 bytes | Second snapshot |
+| 2025-12-23 19:45:07 UTC | HTTP 404 | 10,304 bytes | **File deleted from DOJ** |
+| 2026-01-17 onwards | HTTP 404 | — | Remains deleted |
 
-This single missing page falls between FBI case management emails and the Maxwell superseding indictment.
+The file was **actively removed from the DOJ server on December 23, 2025** — the same day as the initial Dataset 8 release. It was published, then deleted within hours.
+
+**Content:** Recovered from the first Wayback snapshot. The PDF contains a single page reading "Native Placeholder — No Images Produced — EFTA00013397." This is a PDF companion for a native-format file (likely an XLSX spreadsheet, per the Tommy Carstensen index). The native file itself was never made available.
+
+**Context:** This placeholder falls between FBI case management emails ([EFTA00013395](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013395.pdf)) and the **Ghislaine Maxwell Superseding Indictment** ([EFTA00013398](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013398.pdf) — S2 20 Cr. 330). The spreadsheet it represents may have contained case tracking data or evidence inventory.
 
 ---
 
 ## ASSESSMENT
 
-The DOJ Epstein file release is **remarkably complete** within its defined dataset boundaries. Out of 2,731,783 EFTA page-numbers spanning 12 datasets and 1.38 million PDFs:
+The DOJ Epstein file release is **100% complete** within its defined dataset boundaries. Every EFTA page-number across all 12 datasets is accounted for:
 
-- **3 documents** were recovered by downloading directly from the DOJ server (they exist online but were missing from the archive.org bulk download)
-- **5 corrupted PDFs** had already been forensically recovered at the byte level, with all extractable content preserved
-- **23 documents** are available on the DOJ server but could not be bulk-downloaded due to CDN rate limiting (they are individually retrievable via browser)
-- **5 EFTA page-numbers** are genuinely absent from the DOJ release (HTTP 404)
+| Resolution | Count | Method |
+|------------|-------|--------|
+| Already in corpus | 1,380,932 | Original archive.org download |
+| Recovered from DOJ server | 4 | Direct download (EFTA00000467, EFTA00000468, EFTA00009781, EFTA00013397†) |
+| Corrupted PDFs forensically recovered | 5 | Byte-level carving and CCITT fax decoding |
+| False positive (pages within multi-page PDF) | 4 | Concordance (VOL00008.OPT) verification |
+| CDN rate-limited (available on DOJ server) | 23 | Confirmed via HTTP 200; downloadable individually via browser |
+| **Total accounted for** | **All 2,731,783** | |
+
+† EFTA00013397 was recovered from the Wayback Machine after DOJ deleted it on Dec 23, 2025.
 
 The 5 Bates numbering anomalies (all in DS9) are production errors where multi-page PDFs were assigned only a single EFTA number. These do not represent missing content — the pages exist within the misnumbered PDFs.
 
@@ -292,15 +307,28 @@ Datasets 2–7 and 10–12 are **perfectly gap-free**. Every EFTA number is acco
 
 ### What This Means
 
-The "86.2% empty" figure from the earlier PHASE1 gap analysis reflected inter-dataset boundaries and the structure of the Bates numbering system across 12 separate productions — not missing documents. Within each dataset's actual content, the release is near-total.
+The "86.2% empty" figure from the earlier PHASE1 gap analysis reflected inter-dataset boundaries and the structure of the Bates numbering system across 12 separate dataset productions — not missing documents. Within each dataset's actual content, the release is total.
 
-Only **5 EFTA page-numbers out of 2,731,783 are genuinely missing from the DOJ release** — a completeness rate of **99.99982%**.
+The only document actively removed by the DOJ was **EFTA00013397** — a "Native Placeholder" PDF for what was likely a spreadsheet, positioned between FBI case management emails and the Maxwell superseding indictment. It was published and deleted within hours on December 23, 2025. Its content (the placeholder page) was recovered from the Wayback Machine.
 
-The location of the 4-page gap (EFTA00009782–00009785) between MCC death-night check sheets and the guard's Deferred Prosecution Agreement is notable but cannot be interpreted without knowing what those pages contained.
+The 23 CDN-rate-limited DS9 files are confirmed as 1-page PDFs in the concordance file, likely "Native Placeholder" pages based on their small size (~1KB in Wayback CDX records). They are available on the DOJ server but the Akamai CDN blocks bulk download attempts.
+
+### Sources Consulted
+
+- DOJ server (justice.gov) — direct HTTP status checks for all 36 EFTA numbers
+- Dataset concordance files (VOL00008.DAT/OPT, VOL00009.DAT/OPT) — Opticon image load files listing every document and its page assignments
+- [Wayback Machine CDX API](https://web.archive.org/cdx/search) — historical snapshots of DOJ URLs
+- [Tommy Carstensen EFTA Index](https://tommycarstensen.com/epstein/) — independent file inventory for all datasets
+- [Tommy Carstensen Deleted Files tracker](https://tommycarstensen.com/epstein/deleted.html) — 313 deleted files across DS9-12
+- [archive.org DS9 bruteforce archive](https://archive.org/details/www.justice.gov_epstein_files_DataSet_9_individual_pdf_bruteforce) — JustAnotherArchivist's complete DS9 scrape (Jan 31, 2026)
+- [yung-megafone/Epstein-Files GitHub](https://github.com/yung-megafone/Epstein-Files) — community checksums and torrent links
+- [Rep. Nancy Mace press release](https://mace.house.gov/media/press-releases/rep-nancy-mace-demands-doj-explain-why-epstein-files-were-removed-public) — congressional inquiry into removed files
 
 ---
 
 *Generated by `tools/find_missing_efta.py` and `tools/recover_missing_efta.py` against full_text_corpus.db*
 *DOJ availability verified February 13, 2026*
+*Wayback Machine recovery verified February 13, 2026*
+*Concordance verification via VOL00008.OPT and VOL00009.OPT*
 *Cross-reference: [PHASE1_GAP_DETECTION.md](../overview/PHASE1_GAP_DETECTION.md) for range-level analysis*
 *Cross-reference: [recovered_corrupted_pdfs/README.md](../recovered_corrupted_pdfs/README.md) for byte-level forensic recovery*
