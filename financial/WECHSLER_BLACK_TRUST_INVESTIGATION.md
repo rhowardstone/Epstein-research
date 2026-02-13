@@ -64,7 +64,7 @@ The reference to **"Joe"** likely refers to a tax professional or accountant wit
 
 ### What Was the "J BLACK Trust"?
 
-**[CORRECTED]:** The full-corpus revisit located the complete trust agreement and creation chain in DS9:
+The complete trust agreement and creation chain are in DS9:
 
 #### A. Complete Trust Agreement Found -- [EFTA00292681](https://www.justice.gov/epstein/files/DataSet%209/EFTA00292681.pdf) / [EFTA00292702](https://www.justice.gov/epstein/files/DataSet%209/EFTA00292702.pdf) (DS9)
 
@@ -118,7 +118,7 @@ These wire transfers confirm the J. Black Trust was an operational entity making
 
 #### D. The "E Trust" Connection -- IDENTIFIED AS "GIGI (E) TRUST"
 
-**[CORRECTED]:** The full-corpus revisit definitively identified the "E Trust." [EFTA00812184](https://www.justice.gov/epstein/files/DataSet%209/EFTA00812184.pdf) (DS9, p.33) contains an Epstein email to Spinella: "paper gigi (E) trust to avoid gift tax." The "E Trust" is the **"Gigi (E) Trust"** -- a gift tax avoidance vehicle for one of Black's daughters (likely Victoria or Olivia, "Gigi" being a family nickname). This is a Black family instrument, NOT an Epstein entity. [EFTA00812184](https://www.justice.gov/epstein/files/DataSet%209/EFTA00812184.pdf) p.5 confirms both trusts were discussed in a single context as Black family matters: "we should discuss e trust and j black trust. brad buying phaidon. artspace folding?"
+[EFTA00812184](https://www.justice.gov/epstein/files/DataSet%209/EFTA00812184.pdf) (DS9, p.33) contains an Epstein email to Spinella: "paper gigi (E) trust to avoid gift tax." The "E Trust" is the **"Gigi (E) Trust"** -- a gift tax avoidance vehicle for one of Black's daughters (likely Victoria or Olivia, "Gigi" being a family nickname). This is a Black family instrument, NOT an Epstein entity. [EFTA00812184](https://www.justice.gov/epstein/files/DataSet%209/EFTA00812184.pdf) p.5 confirms both trusts were discussed in a single context as Black family matters: "we should discuss e trust and j black trust. brad buying phaidon. artspace folding?"
 
 ~~The "E" could stand for Epstein or Estate~~ -- this speculation is now superseded. Both the J. Black Trust and E Trust were Black family instruments under Epstein's operational direction.
 
@@ -331,7 +331,7 @@ The December 21, 2016 email is the most damning single piece of evidence regardi
 
 This contradicts the Dechert Report's characterization that Epstein merely "provided advice" and that Black made all decisions independently.
 
-**[EXPANDED -- DS9 EVIDENCE]:** The 97-page email compilation [EFTA00812184](https://www.justice.gov/epstein/files/DataSet%209/EFTA00812184.pdf) (DS9) proves Epstein was not merely an "advisor" but the de facto chief operating officer of Black's family office, with authority to: hire and fire staff ("ada goes, hire heather a paralegal. Joslin goes or is closely managed by new cfo... castrucci goes asap"), manage tax filings ("sign your gift tax return today if possible"), question art dealers ("gagosian. no written contract??!! fishy to me - who transfers 100 million dollars overseas without a contract" regarding Larry Gagosian), and negotiate his own $50-60M compensation. He personally interviewed candidates for Black's CFO position ([EFTA00284739](https://www.justice.gov/epstein/files/DataSet%209/EFTA00284739.pdf), Aug 2013 calendar: "5:15pm Interview Richard Joslin"). [EFTA00465675](https://www.justice.gov/epstein/files/DataSet%209/EFTA00465675.pdf) contains his fee negotiation letter: "$150 million free" in tax savings, "50-60 million the fair price" for his services, and a devastating critique of Wechsler's "total and utter incompetence."
+The 97-page email compilation [EFTA00812184](https://www.justice.gov/epstein/files/DataSet%209/EFTA00812184.pdf) (DS9) proves Epstein was not merely an "advisor" but the de facto chief operating officer of Black's family office, with authority to: hire and fire staff ("ada goes, hire heather a paralegal. Joslin goes or is closely managed by new cfo... castrucci goes asap"), manage tax filings ("sign your gift tax return today if possible"), question art dealers ("gagosian. no written contract??!! fishy to me - who transfers 100 million dollars overseas without a contract" regarding Larry Gagosian), and negotiate his own $50-60M compensation. He personally interviewed candidates for Black's CFO position ([EFTA00284739](https://www.justice.gov/epstein/files/DataSet%209/EFTA00284739.pdf), Aug 2013 calendar: "5:15pm Interview Richard Joslin"). [EFTA00465675](https://www.justice.gov/epstein/files/DataSet%209/EFTA00465675.pdf) contains his fee negotiation letter: "$150 million free" in tax savings, "50-60 million the fair price" for his services, and a devastating critique of Wechsler's "total and utter incompetence."
 
 ### B. The "Sensitive Accounts" as Evidence of Concealment
 

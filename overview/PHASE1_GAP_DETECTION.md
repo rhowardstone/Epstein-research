@@ -568,7 +568,7 @@ Regardless of cause, 1.2 million potential document numbers with no content is t
 
 14. **Wexner/L Brands Period (1982-1995):** Fewer than 100 combined records for the 13-year period when Epstein obtained control of Wexner's finances and the 71st Street mansion. Where is the documentation of this transfer of wealth?
 
-15. **99-Day PLIST Metadata Gap:** **[UPDATE: The Nov 2018-Feb 2019 "blackout" has been disproved — DS9 shows continuous daily email activity throughout this period. The gap was a DS11 PLIST extraction artifact.]** The underlying question remains: Were encrypted communications (Signal, WhatsApp, ProtonMail — all referenced in the corpus) ever lawfully intercepted? Was a Title III wiretap ever obtained?
+15. **Encrypted Communications:** The Nov 2018-Feb 2019 "blackout" previously reported was a DS11 PLIST extraction artifact — DS9 shows continuous daily email activity throughout this period. The underlying question remains: Were encrypted communications (Signal, WhatsApp, ProtonMail — all referenced in the corpus) ever lawfully intercepted? Was a Title III wiretap ever obtained?
 
 16. **Goldman Sachs Investigation:** Only 9 v2 references for the bank where Kathryn Ruemmler (Epstein's close contact and former Obama White House Counsel) became General Counsel. Was Goldman's relationship with Epstein ever investigated?
 
@@ -845,17 +845,17 @@ survivor: v2:39 | ocr:125
 | Ghislaine Maxwell | 228 | 228+ | Extensive | Co-defendant |
 | Leon Black | 466 (combined variants) | 300+ | 100+ | Heavily documented |
 | Bill Clinton | 0 extracted | 12 | Moderate | **Underrepresented** |
-| Bill Gates | 0 extracted | 1 | Minimal | **[EXPANDED in full corpus]** Gates references across multiple datasets including "Bill Gates will be here on monday night" (EFTA02532935), Gates Foundation "due diligence" (EFTA02546928), bgC3 negotiation (EFTA02730265) |
+| Bill Gates | 0 extracted | 1 | Minimal | Full corpus: Gates references across multiple datasets including "Bill Gates will be here on monday night" (EFTA02532935), Gates Foundation "due diligence" (EFTA02546928), bgC3 negotiation (EFTA02730265) |
 | Prince Andrew | 28 | 34 | Moderate | Documented |
 | Donald Trump | 54 | 54 | Moderate | Documented |
 | Dershowitz | 9 | 17 | Present | Documented |
-| Ehud Barak | 39 | 56 | Present | **[EXPANDED: 3,756 docs in full corpus]** Direct emails 2013-2016, apartment at 301 E 66th, week-long island stay, Bannon meeting brokered |
+| Ehud Barak | 39 | 56 | Present | Full corpus: 3,756 docs. Direct emails 2013-2016, apartment at 301 E 66th, week-long island stay, Bannon meeting brokered |
 | Summers | 34 | 41 | Present | Documented |
 | Les Wexner | 5 | 5 | 20 | **Underrepresented** |
 | Brunel | 5 | 22 | Present | Documented |
 | Pritzker | 7 | 8 | Minimal | **Underrepresented** |
 | Richardson | 17 | 41 | Present | Documented |
-| Thiel | 1 | 4 | Minimal | **[EXPANDED in full corpus]** Valar Fund investments totaling $28.8M documented, lunch with Bill Burns (future CIA Director) arranged by Bob Kerrey |
+| Thiel | 1 | 4 | Minimal | Full corpus: Valar Fund investments totaling $28.8M documented, lunch with Bill Burns (future CIA Director) arranged by Bob Kerrey |
 | Reid Hoffman | 7 | 10 | Minimal | **Underrepresented** |
 | Noam Chomsky | 3 | 2 | Minimal | Minimal |
 | Marvin Minsky | 13 | 10 | Present | Documented (victim journal) |

@@ -382,7 +382,7 @@ This privileged Attorney Work Product document reveals the full scope of Epstein
 
 **[EFTA00035482](https://www.justice.gov/epstein/files/DataSet%208/EFTA00035482.pdf)** -- Reference to encrypted communication tools:
 - "**PGP | Signal | WhatsApp | Telegram**"
-- **[CORRECTED]:** This is not merely awareness. DS9 reveals Epstein personally registered Signal, Confide, WhatsApp, and Telegram accounts to the same phone number (212-533-3739), as documented in sex offender registry filings ([EFTA00168380](https://www.justice.gov/epstein/files/DataSet%209/EFTA00168380.pdf), [EFTA00521417](https://www.justice.gov/epstein/files/DataSet%209/EFTA00521417.pdf))
+- Epstein personally registered Signal, Confide, WhatsApp, and Telegram accounts to the same phone number (212-533-3739), as documented in sex offender registry filings ([EFTA00168380](https://www.justice.gov/epstein/files/DataSet%209/EFTA00168380.pdf), [EFTA00521417](https://www.justice.gov/epstein/files/DataSet%209/EFTA00521417.pdf))
 
 **[EFTA01828946](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01828946.pdf)** -- Email:
 - Subject: "**Get WhatsApp M[essages]**"
@@ -643,7 +643,7 @@ Multiple Epstein entities were documented as "voluntarily dissolved" -- consiste
 
 ### 2. Alternative Channels Were Used, But Not as a Replacement
 
-**[CORRECTED]:** While Epstein did have registered Signal, Confide, WhatsApp, and Telegram accounts (confirmed by sex offender registry filings), the premise that these replaced email during this period is unsupported because email was never interrupted. Epstein used both email and encrypted channels as part of his normal communication pattern.
+While Epstein did have registered Signal, Confide, WhatsApp, and Telegram accounts (confirmed by sex offender registry filings), the premise that these replaced email during this period is unsupported because email was never interrupted. Epstein used both email and encrypted channels as part of his normal communication pattern.
 
 ### 3. The Post-Herald Wire Transfers Remain Suspicious
 
@@ -655,7 +655,7 @@ A victim had "subsequent interactions with Epstein... in December 2018-July 2019
 
 ### 5. Epstein Operated with Apparent Impunity
 
-**[CORRECTED]:** Rather than "going dark," the DS9 evidence reveals Epstein continued operating with full confidence during the period when SDNY was secretly building its case. While prosecutors were writing "on the d/l for now," Epstein was hosting Ehud Barak for a week on his island (Jan 6-12), claiming to be consulted on Treasury Secretary replacements (Dec 25 to Summers), planning Davos attendance (Dec 26), distributing Apple Watches to Bannon and others, holding strategy calls with Ruemmler (Dec 3), coordinating Moscow travel, and brokering a Barak-Qatar meeting (Dec 18).
+Rather than "going dark," the DS9 evidence reveals Epstein continued operating with full confidence during the period when SDNY was secretly building its case. While prosecutors were writing "on the d/l for now," Epstein was hosting Ehud Barak for a week on his island (Jan 6-12), claiming to be consulted on Treasury Secretary replacements (Dec 25 to Summers), planning Davos attendance (Dec 26), distributing Apple Watches to Bannon and others, holding strategy calls with Ruemmler (Dec 3), coordinating Moscow travel, and brokering a Barak-Qatar meeting (Dec 18).
 
 ---
 

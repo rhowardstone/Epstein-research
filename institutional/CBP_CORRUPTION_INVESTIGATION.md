@@ -375,7 +375,7 @@ Despite the redactions, the documents reveal enough context to understand the sc
 ## 13. KEY FINDINGS AND CONCLUSIONS
 
 ### Finding 1: Identified CBP Officer -- Timothy ("Tim") Routch
-**[UPDATED 2026-02-12]:** The officer is **Timothy Routch** (also "Bill Routch"), a CBP Agriculture Specialist (Badge # CAS03223, HashID # CZACMME) who worked at CBP Pre-Clearance in Saint Thomas from 2008-2016. He is confirmed as having:
+The officer is **Timothy Routch** (also "Bill Routch"), a CBP Agriculture Specialist (Badge # CAS03223, HashID # CZACMME) who worked at CBP Pre-Clearance in Saint Thomas from 2008-2016. He is confirmed as having:
 - A personal friendship with Epstein developed through official duties
 - Visited Epstein's house, boat, and flew in his helicopter
 - Cleared Epstein's aircraft through customs
@@ -393,7 +393,7 @@ The FBI conducted a dedicated CBP corruption investigation (designated "C-4") th
 - Was ongoing as late as March 2021
 
 ### Finding 3: Systematic Customs Bypass -- Scope Expanded
-**[UPDATED 2026-02-12]:** The proffer questions explicitly asked about:
+The proffer questions explicitly asked about:
 - Steps CBP employees took to help Epstein "avoid processing that travelers would normally undergo"
 - Favors Epstein did for CBP employees including "trips to Epstein's island"
 - Identities of ALL CBP employees who interacted with Epstein in the Virgin Islands
@@ -522,7 +522,7 @@ Based on full corpus documentation:
 
 6. **What is the connection to the Vienna HSI query?** ICE-Vienna queried Epstein's TECS record on March 6, 2020 -- suggesting European law enforcement interest in the trafficking network.
 
-7. **What did Larry Visoski reveal about CBP interactions?** As Epstein's pilot who cleared customs hundreds of times, Visoski was the primary witness. **[UPDATED]:** DS9 confirms Visoski was proffered specifically about Timothy Routch in October-November 2020, and was planned as a Maxwell trial witness. The substance of his testimony remains under proffer protection, but the FBI used his identification of Routch's photo to advance the C-4 case.
+7. **What did Larry Visoski reveal about CBP interactions?** As Epstein's pilot who cleared customs hundreds of times, Visoski was the primary witness. DS9 confirms Visoski was proffered specifically about Timothy Routch in October-November 2020, and was planned as a Maxwell trial witness. The substance of his testimony remains under proffer protection, but the FBI used his identification of Routch's photo to advance the C-4 case.
 
 ---
 

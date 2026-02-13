@@ -84,7 +84,7 @@ Phase III searched for hidden connections across nine domain categories using ke
 - [EFTA02073960](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02073960.pdf), [EFTA02073991](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02073991.pdf), [EFTA02088574](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02088574.pdf), [EFTA02088580](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02088580.pdf) -- four additional documents
 - Named alongside Daphne Wallace in scheduling
 
-**Knowledge Graph Weight:** Ehud Barak associated_with Jeffrey Epstein = 14. **[EXPANDED: 3,756 documents in full corpus.** Direct emails 2013-2016, apartment at 301 E 66th cleaned by Epstein staff (Mar 2019), "i dont work for mossad :)" (Dec 2017), week-long island stay Jan 2019, Bannon meeting brokered.**]**
+**Knowledge Graph Weight:** Ehud Barak associated_with Jeffrey Epstein = 14. Full corpus: 3,756 documents. Direct emails 2013-2016, apartment at 301 E 66th cleaned by Epstein staff (Mar 2019), "i dont work for mossad :)" (Dec 2017), week-long island stay Jan 2019, Bannon meeting brokered.
 
 ### Israeli Intelligence/Mossad
 - **[EFTA01652757](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01652757.pdf)** - References "FBI, MI6, CIA or Mossad" in connection with Epstein's death
@@ -110,7 +110,7 @@ Most Google references are incidental (Google Calendar notifications, Google Ale
 - **[EFTA01762137](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01762137.pdf)** - "AN ERIC SCHMIDT WALTER ISAACSON" -- listed together in what appears to be an event or document
 
 ### Larry Page
-- No direct hits in original databases. **[CORRECTION]** Page confirmed at 2004 Indian Summer dinner alongside Brin and Bezos (EFTA00018466).
+- No direct hits in original databases. Page confirmed at 2004 Indian Summer dinner alongside Brin and Bezos ([EFTA00018466](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018466.pdf)).
 ### DeepMind, YouTube, Waymo, Calico, Verily, GV, Schmidt Futures: No substantive hits
 
 ---
@@ -133,14 +133,14 @@ Most Google references are incidental (Google Calendar notifications, Google Ale
 
 ### Elon Musk
 - **[EFTA01907455](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01907455.pdf)** - "Elon Musk [elon@spacex.com]" -- direct email correspondence with Epstein
-- **Knowledge Graph Weight:** Elon Musk associated_with Jeffrey Epstein = 12. **[EXPANDED in full corpus: 1,038 documents mentioning "Musk" (mostly news articles in email corpus). 15+ direct email exchanges 2012-2015 including "Wildest party on your island?" (EFTA02364941), "I will send heli for you" (EFTA02343260). Substantive direct connection remains unestablished beyond these email exchanges.]**
+- **Knowledge Graph Weight:** Elon Musk associated_with Jeffrey Epstein = 12. Full corpus: 1,038 documents mentioning "Musk" (mostly news articles in email corpus). 15+ direct email exchanges 2012-2015 including "Wildest party on your island?" ([EFTA02364941](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02364941.pdf)), "I will send heli for you" ([EFTA02343260](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02343260.pdf)). Substantive direct connection remains unestablished beyond these email exchanges.
 - **[EFTA01660679](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660679.pdf), p.5** - NTOC tip (unverified caller report from FBI hotline -- should carry standard NTOC caveat that these are unverified public submissions): "He measured the children's vulva and vaginas by entering a finger and rated the children on tightness. The guests were elder men and included Elon Musk."
 
 ### Jeff Bezos
-- No hits in original databases. **[CORRECTION]** Bezos confirmed at 2004 Indian Summer dinner alongside Brin and Page (Brin/Page/Bezos via Brockman, EFTA00018466).
+- No hits in original databases. Bezos confirmed at 2004 Indian Summer dinner alongside Brin and Page (via Brockman, [EFTA00018466](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018466.pdf)).
 
 ### Mark Zuckerberg
-- No hits in original databases. **[CORRECTION]** Zuckerberg attended August 2015 Palo Alto dinner (restaurant bought out) with Chan/Musk/Thiel/Hoffman/Boyden (EFTA00344556).
+- No hits in original databases. Zuckerberg attended August 2015 Palo Alto dinner (restaurant bought out) with Chan/Musk/Thiel/Hoffman/Boyden ([EFTA00344556](https://www.justice.gov/epstein/files/DataSet%209/EFTA00344556.pdf)).
 ### Marc Andreessen: No hits
 ### Jack Dorsey: No hits
 ### Paul Graham / Y Combinator: No hits
@@ -434,7 +434,7 @@ The contradiction: Prosecutors said cameras captured footage, but MCC documentat
 15. **Butterfly Trust** - $734,175.44
 16. **Jeepers, Inc.** - Multiple transactions (linked to Glen Dubin)
 
-**Total identifiable account balances exceed $85 million across these entities at any given snapshot.** **[EXPANDED: Total documented financial flows now exceed $755M through 95+ entities across 10 categories per forensic_workbench.db and subsequent investigations. Haze Trust alone peaked at $40.5M, Southern Trust $45M+.]**
+**Total identifiable account balances exceed $85 million across these entities at any given snapshot.** Total documented financial flows exceed $755M through 95+ entities across 10 categories. Haze Trust alone peaked at $40.5M, Southern Trust $45M+.
 
 ---
 

@@ -237,7 +237,7 @@ Internal MCC emails from July 24, 2019 reveal staff discussion about Epstein bei
 
 **[EFTA00039025](https://www.justice.gov/epstein/files/DataSet%209/EFTA00039025.pdf) (DS9): Complete DOJ OIG Report, Case #23-085**
 
-**[CORRECTION]:** The original version of this report stated that "neither the FBI nor the OIG ever issued a public final report on Epstein's death." This was based on the Tucker Carlson segment from January 2023. However, the DOJ OIG published its report in June 2023 -- approximately five months after the Carlson segment. The complete report (125+ pages) was located in DS9.
+The DOJ OIG published its report on Epstein's death in June 2023 (125+ pages, located in DS9). The Tucker Carlson segment from January 2023 that claimed no report had been issued predated the actual publication by approximately five months.
 
 Key findings from the OIG report:
 - Epstein's death was ruled suicide by the Medical Examiner, with injuries "consistent with suicide by hanging" and "no evidence of defensive wounds"
@@ -342,9 +342,9 @@ William Barr's involvement in the Epstein matter presents **multiple layers of c
 
 4. **Dalton School records**: The grand jury subpoena to Dalton School was met with a response that records "could not be located." Whether subsequent attempts were made to obtain these records is not documented.
 
-5. **Death investigation final report**: ~~As noted by Tucker Carlson in January 2023, neither the FBI nor the OIG ever issued a public final report on Epstein's death.~~ **[CORRECTED]:** The DOJ OIG published its report in June 2023 ([EFTA00039025](https://www.justice.gov/epstein/files/DataSet%209/EFTA00039025.pdf), 125+ pages). However, this was published more than 2.5 years after Barr left office. No report was issued during Barr's tenure. The OIG report confirmed suicide as cause of death, documented video showing no entry to Epstein's tier between 10:40 PM and 6:30 AM, and detailed catastrophic institutional failures.
+5. **Death investigation final report**: The DOJ OIG published its report in June 2023 ([EFTA00039025](https://www.justice.gov/epstein/files/DataSet%209/EFTA00039025.pdf), 125+ pages) — more than 2.5 years after Barr left office. No report was issued during Barr's tenure. The OIG report confirmed suicide as cause of death, documented video showing no entry to Epstein's tier between 10:40 PM and 6:30 AM, and detailed catastrophic institutional failures.
 
-6. **Video evidence**: The SITREP ([EFTA00147294](https://www.justice.gov/epstein/files/DataSet%209/EFTA00147294.pdf)) confirmed that some video of the hallway leading to Epstein's cell "does still exist on the system." **[UPDATE]:** The OIG report ([EFTA00039025](https://www.justice.gov/epstein/files/DataSet%209/EFTA00039025.pdf)) analyzed this video and determined no one entered Epstein's tier between 10:40 PM and 6:30 AM. However, DVR System #2 had failed on July 29, meaning one camera was live-streaming but not recording.
+6. **Video evidence**: The SITREP ([EFTA00147294](https://www.justice.gov/epstein/files/DataSet%209/EFTA00147294.pdf)) confirmed that some video of the hallway leading to Epstein's cell "does still exist on the system." The OIG report ([EFTA00039025](https://www.justice.gov/epstein/files/DataSet%209/EFTA00039025.pdf)) analyzed this video and determined no one entered Epstein's tier between 10:40 PM and 6:30 AM. However, DVR System #2 had failed on July 29, meaning one camera was live-streaming but not recording.
 
 7. **The unmonitored phone call**: Epstein made a 20-minute call on an "unsecured and unmonitored line" to Karyna Shuliak on the evening before his death. The contents of this call have not been disclosed.
 
