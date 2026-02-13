@@ -245,7 +245,7 @@ Profiles multi-domain power figures (Summers, Barak, Mandelson, Ruemmler, etc.) 
 - Direct PDF reading and image analysis
 
 **What It Actually Does:**
-This 3,041-line definitive report synthesizes all 10 sessions of investigation. It presents the Top 10 findings, financial machine analysis, named individual profiles, prosecution failure documentation, and complete methodology.
+This 3,041-line report synthesizes the full investigation. It presents the Top 10 findings, financial machine analysis, named individual profiles, prosecution failure documentation, and complete methodology.
 
 **bad_overlay Dependency:** NEAR-ZERO for substance. TWO specific framing issues need correction:
 

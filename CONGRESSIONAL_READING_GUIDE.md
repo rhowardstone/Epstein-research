@@ -254,7 +254,7 @@ Based on exhaustive search of 218GB across 6 databases (3.4M+ records):
 
 ---
 
-*Compiled from 10-session forensic investigation of the full DOJ Epstein release (DataSets 1-12, 218GB)*
+*Compiled from forensic investigation of the full DOJ Epstein release (DataSets 1-12, 218GB)*
 *90 priority documents identified from 500,000+ EFTA records*
 *Cross-referenced across 6 databases totaling 3.4M+ records*
 

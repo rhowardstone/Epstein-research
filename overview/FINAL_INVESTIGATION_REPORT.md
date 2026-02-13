@@ -1,10 +1,8 @@
 # FINAL INVESTIGATION REPORT
 # Forensic Analysis of the 218GB DOJ Jeffrey Epstein File Release
-## A 10-Session Comprehensive Investigation
-
 **Classification:** INVESTIGATIVE SUMMARY -- PROSECUTION REFERRAL GRADE
-**Date of Compilation:** February 7, 2026
-**Investigation Period:** Sessions 1-10 (January-February 2026)
+**Date of Compilation:** February 7, 2026 (ongoing updates through February 2026)
+**Investigation Period:** January-February 2026
 **Corpus:** 218GB, 519,438 PDFs, 12 datasets
 **Databases Created and Queried:**
 - the primary document text database -- 1,808,942 redaction records
@@ -25,7 +23,7 @@
 
 ## Scale of This Investigation
 
-This report synthesizes the findings of a 10-session forensic investigation conducted across the largest single document release in the history of the Jeffrey Epstein case. The Department of Justice released approximately 218 gigabytes of material comprising 519,438 individual PDF documents organized across 12 datasets. Over the course of the investigation, six custom databases were constructed containing over 3.4 million indexed records, 21,859 cataloged images, and 186 normalized financial transactions totaling $755,632,579 in documented money flows.
+This report synthesizes a forensic investigation of the largest single document release in the history of the Jeffrey Epstein case. The Department of Justice released approximately 218 gigabytes of material comprising 519,438 individual PDF documents organized across 12 datasets. Six custom databases were constructed containing over 3.4 million indexed records, 21,859 cataloged images, and 186 normalized financial transactions totaling $755,632,579 in documented money flows.
 
 The investigation searched across 1.8 million text records extracted from document text layers (see DATA QUALITY NOTE below), identified 12 documents where redaction tools failed entirely (exposing Apple Mail PLIST metadata), traced $30.5 million in art auction proceeds through a network of 95+ shell entities, documented $168 million in payments from Leon Black to Epstein, identified at minimum 60-80 individual victims (with estimates of 200+ and the US Virgin Islands describing "hundreds"), and cataloged evidence implicating over 30 named individuals ranging from billionaires and heads of state to federal law enforcement officials.
 
@@ -2420,7 +2418,7 @@ CSAM found in 2023 during estate settlement ([EFTA00039019](https://www.justice.
 
 # APPENDIX B: COMPLETE REPORT INDEX
 
-All 85 reports produced during the 10-session investigation, with brief descriptions:
+Reports produced during the investigation (as of initial compilation), with brief descriptions:
 
 ### Session 1-3 Reports (1-27)
 
@@ -2542,7 +2540,7 @@ All 85 reports produced during the 10-session investigation, with brief descript
 | 84 | FULL_TRANSACTION_EVIDENCE_REGISTER.csv | 185 normalized DB-SDNY transaction rows with Bates references |
 
 ### This Report
-| 85 | FINAL_INVESTIGATION_REPORT.md | This document: comprehensive 10-session synthesis, prosecution referral grade |
+| 85 | FINAL_INVESTIGATION_REPORT.md | This document: comprehensive synthesis, prosecution referral grade |
 
 ---
 
@@ -2597,7 +2595,7 @@ All 85 reports produced during the 10-session investigation, with brief descript
 
 ## Key Search Statistics
 
-Across the 10-session investigation, approximately 2,500+ individual database queries were executed. Representative hit rates for significant search terms:
+Approximately 2,500+ individual database queries were executed across the investigation. Representative hit rates for significant search terms:
 
 ### Named Individual Search Results (Across All Databases)
 
@@ -2883,7 +2881,7 @@ This timeline consolidates the most significant dated events from the investigat
 
 ## I. Scope of This Investigation
 
-This report synthesizes the findings of a 10-session forensic investigation conducted across the largest single document release in the history of the Jeffrey Epstein case. The Department of Justice released approximately 218 gigabytes of material comprising 519,438 individual PDF documents organized across 12 datasets. Over the course of the investigation:
+This report synthesizes a forensic investigation of the largest single document release in the history of the Jeffrey Epstein case. The Department of Justice released approximately 218 gigabytes of material comprising 519,438 individual PDF documents organized across 12 datasets. Over the course of the investigation:
 
 - Six custom databases were constructed containing over 3.4 million indexed records
 - 21,859 images were cataloged and analyzed

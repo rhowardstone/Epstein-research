@@ -41,14 +41,14 @@ See the [EFTA Dataset Mapping](#efta-number-to-dataset-mapping) table at the bot
 
 | Report | Description |
 |--------|-------------|
-| [FINAL_INVESTIGATION_REPORT](overview/FINAL_INVESTIGATION_REPORT.md) | Definitive 10-session investigation synthesis. 400+ EFTA citations, $755M traced, 30+ named individuals. Every claim sourced to specific documents. |
+| [FINAL_INVESTIGATION_REPORT](overview/FINAL_INVESTIGATION_REPORT.md) | Comprehensive investigation synthesis. 400+ EFTA citations, $755M traced, 30+ named individuals. Every claim sourced to specific documents. |
 | [INSTITUTIONAL_FAILURE_NARRATIVE](overview/INSTITUTIONAL_FAILURE_NARRATIVE.md) | "The Architecture of Impunity" -- 7-chapter prosecutorial failure narrative, 1996-2024, 80+ EFTA citations. |
 | [MASTER_REPORT](overview/MASTER_REPORT.md) | Consolidated findings from systematic document analysis of the full 627MB text corpus. |
 | [PHASE1_GAP_DETECTION](overview/PHASE1_GAP_DETECTION.md) | Gap detection and counterfactual analysis -- identifying what's missing from the record. |
 | [PHASE2_LEVER_TRACEBACK](overview/PHASE2_LEVER_TRACEBACK.md) | Who had the power to shield whom. Agency failures, financial concealment, academic legitimization. |
 | [PHASE3_HIDDEN_DOMAINS](overview/PHASE3_HIDDEN_DOMAINS.md) | Hidden domain connections. 90+ queries across 1.8M+ redaction records, DS10, knowledge graph, and OCR text recordss. |
 | [PHASE4_BRIEFING_KIT](overview/PHASE4_BRIEFING_KIT.md) | Congressional briefing kit. Prepared for staff use, based on 3.4M redaction records. |
-| [SESSION9_MASTER_FINDINGS](overview/SESSION9_MASTER_FINDINGS.md) | Session 9 master findings -- continued forensic investigation. |
+| [SESSION9_MASTER_FINDINGS](overview/SESSION9_MASTER_FINDINGS.md) | Supplemental findings: art forensics, trafficking routes, device forensics, prosecution failures, CBP corruption, 4chan/online evidence. |
 | [ANALYSIS_SUMMARY](overview/ANALYSIS_SUMMARY.md) | Key findings summary from the January 2026 DOJ release, anchored to SDNY prosecution memo. |
 | [UNEXPLORED_DOCUMENT_MINING](overview/UNEXPLORED_DOCUMENT_MINING.md) | Deep-search of under-examined areas: camera-in-clock, T-160 VHS tapes, MCC DVR, crypto network, 48 diamonds, CSAM found 2023. |
 

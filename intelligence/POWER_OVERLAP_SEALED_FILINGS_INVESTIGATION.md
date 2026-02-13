@@ -17,7 +17,7 @@ Searched across all document collections using 100+ distinct queries targeting:
 - 15 whistleblower suppression terms
 - 8 named attorneys and their payment patterns
 
-Results cross-referenced with prior investigation findings from Sessions 1-10 (60+ completed reports).
+Results cross-referenced with prior investigation findings across 100+ completed reports.
 
 ---
 

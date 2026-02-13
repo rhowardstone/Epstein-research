@@ -889,17 +889,18 @@ DS9 calendar entries reveal regular Drokova meetings with Epstein throughout 201
 # APPENDIX E: CROSS-REFERENCES TO PRIOR INVESTIGATIONS
 
 This report incorporates, consolidates, and extends findings from:
-- `[ISRAELI_INTELLIGENCE_DEEP_DIVE.md](/intelligence/ISRAELI_INTELLIGENCE_DEEP_DIVE.md)` (Session 9): Prior version of this analysis
-- `[JUNKERMANN_MC2_INVESTIGATION.md](/individuals/JUNKERMANN_MC2_INVESTIGATION.md)` (Session 8): Junkermann 10-year relationship, Leon Black introduction
-- `[UNNAMED_PERSONS_INVESTIGATION.md](/individuals/UNNAMED_PERSONS_INVESTIGATION.md)` (Session 9): "Foreign president" identified as Ehud Barak
-- `[DILORIO_APOLLO_WHISTLEBLOWER.md](/financial/DILORIO_APOLLO_WHISTLEBLOWER.md)` (Session 9): Schlaff/Alpha Capital connections
-- `[PROSECUTION_FAILURES_ANALYSIS.md](/institutional/PROSECUTION_FAILURES_ANALYSIS.md)` (Session 9): NPA architecture, Acosta deposition
-- `BLACKMAIL_INTELLIGENCE_INVESTIGATION.md` (Session 3): Earlier blackmail analysis
-- `[DUBAI_SULAYEM_INVESTIGATION.md](/individuals/DUBAI_SULAYEM_INVESTIGATION.md)` (Session 10): Sultan bin Sulayem, DP World, port of St Croix
-- `BANNON_CLINTON_EVIDENCE.md` (Session 7): Bannon-Epstein relationship, Barak-Bannon meeting
-- `EHUD_BARAK_ISRAEL_INVESTIGATION.md` (Session 3): Earlier Barak analysis
-- `CLASSIFIED_INTELLIGENCE_INVESTIGATION.md` (Session 3): SECRET/NOFORN documents
-- `[CBP_CORRUPTION_INVESTIGATION.md](/institutional/CBP_CORRUPTION_INVESTIGATION.md)` (Session 9): USVI access infrastructure
+- [ISRAELI_INTELLIGENCE_DEEP_DIVE.md](/intelligence/ISRAELI_INTELLIGENCE_DEEP_DIVE.md): Prior version of this analysis
+- [JUNKERMANN_MC2_INVESTIGATION.md](/individuals/JUNKERMANN_MC2_INVESTIGATION.md): Junkermann 10-year relationship, Leon Black introduction
+- [UNNAMED_PERSONS_INVESTIGATION.md](/individuals/UNNAMED_PERSONS_INVESTIGATION.md): "Foreign president" identified as Ehud Barak
+- [DILORIO_APOLLO_WHISTLEBLOWER.md](/financial/DILORIO_APOLLO_WHISTLEBLOWER.md): Schlaff/Alpha Capital connections
+- [PROSECUTION_FAILURES_ANALYSIS.md](/institutional/PROSECUTION_FAILURES_ANALYSIS.md): NPA architecture, Acosta deposition
+- [JACQUI_SAFRA_INVESTIGATION.md](/individuals/JACQUI_SAFRA_INVESTIGATION.md): Jacqui Safra identification, Jerusalem property, Edge Foundation circuit
+- BLACKMAIL_INTELLIGENCE_INVESTIGATION.md: Earlier blackmail analysis
+- [DUBAI_SULAYEM_INVESTIGATION.md](/individuals/DUBAI_SULAYEM_INVESTIGATION.md): Sultan bin Sulayem, DP World, port of St Croix
+- BANNON_CLINTON_EVIDENCE.md: Bannon-Epstein relationship, Barak-Bannon meeting
+- EHUD_BARAK_ISRAEL_INVESTIGATION.md: Earlier Barak analysis
+- CLASSIFIED_INTELLIGENCE_INVESTIGATION.md: SECRET/NOFORN documents
+- [CBP_CORRUPTION_INVESTIGATION.md](/institutional/CBP_CORRUPTION_INVESTIGATION.md): USVI access infrastructure
 
 ---
 
