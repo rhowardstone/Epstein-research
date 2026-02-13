@@ -4,7 +4,7 @@
 **Date:** February 13, 2026
 **Analyst:** Independent Forensic Researcher
 **Classification:** UNCLASSIFIED // FOR PUBLIC RELEASE
-**Database:** full_text_corpus.db (1,380,935 documents, 2,731,796 pages, 4.79 GB — includes 3 recovered docs)
+**Database:** full_text_corpus.db (1,380,941 documents, 2,731,825 pages, 6.09 GB — includes 4 recovered docs + 15 native spreadsheets)
 **Tool:** `tools/find_missing_efta.py`, `tools/recover_missing_efta.py`
 
 ---
@@ -29,23 +29,27 @@ The EFTA numbering system is **unified across all file types**. PDFs, videos, au
 
 | File Type | Count | Notes |
 |-----------|-------|-------|
-| PDF | 1,380,935 | Primary document format (in IMAGES directories) |
-| AVI | 3,059 | Video — surveillance, depositions |
-| MP4 | 1,578 | Video — MCC surveillance, interviews |
-| M4A | 176 | Audio recordings |
-| MOV | 170 | Video |
-| M4V | 49 | Video |
-| WAV | 23 | Audio |
-| VOB | 20 | DVD video |
+| PDF | 1,380,941 | Primary document format (in IMAGES directories) |
+| AVI | 1,530 | Video — surveillance, depositions |
+| MP4 | 1,323 | Video — MCC surveillance, interviews |
+| MOV | 162 | Video |
+| M4A | 98 | Audio recordings |
+| M4V | 39 | Video |
 | Opus | 16 | Audio |
-| XLSX/XLS | 11 | Spreadsheets |
-| WMV | 10 | Video |
-| MP3 | 6 | Audio |
+| WAV | 14 | Audio |
+| VOB | 10 | DVD video |
+| XLSX | 9 | Spreadsheets |
+| WMV | 5 | Video |
 | AMR | 5 | Audio |
+| MP3 | 4 | Audio |
 | CSV | 4 | Data files |
-| TS | 2 | Transport stream |
+| PNG | 2 | Image |
+| XLS | 2 | Spreadsheets |
+| TS | 1 | Transport stream |
+| 3GP | 1 | Mobile video |
+| Other | 1 | Apple Messages attachment |
 
-**Every non-PDF file also has a corresponding PDF companion** (typically a 1-page placeholder in the IMAGES directory). This means non-PDF files do not create additional gaps in the EFTA numbering — they are already accounted for by their PDF counterparts. All 3,225 non-PDF files were verified to have matching PDFs in the corpus.
+**Every non-PDF file also has a corresponding PDF companion** (typically a 1-page placeholder in the IMAGES directory). This means non-PDF files do not create additional gaps in the EFTA numbering — they are already accounted for by their PDF counterparts. All 3,226 unique non-PDF files were verified to have matching PDFs in the corpus. (See [NATIVE_FILES_CATALOG.csv](../NATIVE_FILES_CATALOG.csv) for the complete inventory.)
 
 Native files are stored in `NATIVES` subdirectories; their PDF companions in `IMAGES` subdirectories.
 
