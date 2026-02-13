@@ -3,7 +3,7 @@
 
 ### About This Repository
 
-This repository contains 100+ forensic analysis reports derived from the U.S. Department of Justice's release of Jeffrey Epstein investigation files -- 194.5 GB across 12 datasets, comprising 1,380,937 PDFs (2,731,785 pages, 3.18 billion characters of text), plus 3,234 media files. The analysis involved full-text extraction and FTS5 indexing of every page, 2,587,102 redaction records, 1,530 audio/video transcripts, a 1,536-person entity registry, and cross-referenced entity relationships (524 entities, 2,096 connections).
+This repository contains 100+ forensic analysis reports derived from the U.S. Department of Justice's release of Jeffrey Epstein investigation files -- 194.5 GB across 12 datasets, comprising 1,380,937 PDFs (2,731,785 pages, 3.18 billion characters of text), plus 3,226 non-PDF native files (video, audio, spreadsheets). The analysis involved full-text extraction and FTS5 indexing of every page, 2,587,102 redaction records, 1,530 audio/video transcripts, a 1,536-person entity registry, and cross-referenced entity relationships (524 entities, 2,096 connections).
 
 Every factual claim in these reports traces back to specific EFTA document numbers (Epstein Files Task Force Archive). Click any linked EFTA number to attempt to view the original PDF on justice.gov.
 
@@ -253,7 +253,9 @@ All analysis was performed locally against databases derived from the raw PDF co
 | persons_registry.json | — | 1,536 persons | Unified entity registry from 3 sources |
 | knowledge_graph.db | — | 524 entities / 2,096 connections | Cross-referenced entity relationships |
 
-For the complete evidence chain -- what data exists, where it came from, and how to verify any finding -- see [CORPUS_INVENTORY](methodology/CORPUS_INVENTORY.md). For methodology details, data quality assessment, and reliability audits, see the [Methodology & Data Quality](#methodology--data-quality-11-reports) section above.
+**[NATIVE_FILES_CATALOG.csv](NATIVE_FILES_CATALOG.csv)** — Complete inventory of all 3,226 non-PDF native files (video, audio, spreadsheets, images) across the DOJ release. Each row includes: EFTA number, dataset, file extension, size, DOJ PDF link, transcription status, word count, duration, and description. Open in Excel or any spreadsheet application. Every non-PDF file has a corresponding PDF placeholder on DOJ; native files include 419 MCC surveillance videos (412+ hours), grand jury audio, prison phone calls, FBI interview recordings, and financial spreadsheets.
+
+For the complete evidence chain -- what data exists, where it came from, and how to verify any finding -- see [CORPUS_INVENTORY](methodology/CORPUS_INVENTORY.md). For methodology details, data quality assessment, and reliability audits, see the [Methodology & Data Quality](#methodology--data-quality-12-reports) section above.
 
 Processed data collection: https://github.com/rhowardstone/Epstein-research-data
 
