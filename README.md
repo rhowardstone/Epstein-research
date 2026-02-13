@@ -157,11 +157,12 @@ See the [EFTA Dataset Mapping](#efta-number-to-dataset-mapping) table at the bot
 | [ART_INVESTIGATION_REDACTIONS](art/ART_INVESTIGATION_REDACTIONS.md) | Sub-report: 165 queries across 3.4M redaction records for art-related content. |
 | [ART_INVESTIGATION_WEB_RESEARCH](art/ART_INVESTIGATION_WEB_RESEARCH.md) | Sub-report: 40+ web sources, 16 sections of open-source intelligence on Epstein art connections. |
 
-### Methodology & Data Quality (11 reports)
+### Methodology & Data Quality (12 reports)
 
 | Report | Description |
 |--------|-------------|
 | [CORPUS_INVENTORY](methodology/CORPUS_INVENTORY.md) | **Complete evidence chain:** 1,380,937 PDFs, 2,731,785 pages, 194.5 GB across 12 datasets. Per-dataset accounting, derived databases, media inventory, processing pipeline, verification instructions. Start here to understand the source material. |
+| [MISSING_EFTA_ANALYSIS](methodology/MISSING_EFTA_ANALYSIS.md) | Page-based gap detection across all 12 datasets. Exploits the EFTA numbering system (each page = one EFTA number) to identify every missing document. 31 of 36 gaps recovered from DOJ server or forensic carving. **Only 5 EFTA numbers genuinely absent — 99.99982% complete.** 4 missing pages fall between MCC death-night check sheets and guard DPA. |
 | [DATA_QUALITY_AUDIT](methodology/DATA_QUALITY_AUDIT.md) | Audit of "bad_overlay" redaction records -- confirmed ~98% are OCR noise from degraded scans. |
 | [EVIDENCE_RELIABILITY_AUDIT](methodology/EVIDENCE_RELIABILITY_AUDIT.md) | Impact assessment: how "bad_overlay" OCR noise affects investigation report reliability. |
 | [REDACTION_ASYMMETRY_ANALYSIS](methodology/REDACTION_ASYMMETRY_ANALYSIS.md) | 179,139 redactions analyzed: victim names properly redacted, powerful associates frequently recoverable under bad overlays. |
