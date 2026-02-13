@@ -29,7 +29,7 @@ The earliest documented federal awareness of Jeffrey Epstein's criminal conduct 
 
 **([EFTA01660622](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660622.pdf))**
 
-But the FBI's own case file index reveals material predating this by a decade. FBI case serial 31E-MM-108062, dated 12/6/2018, references source reporting going back to the 1990s. **([EFTA02730741](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02730741.pdf))** The Zorro Ranch, New Mexico connection -- where a 14-year-old victim testified before the Grand Jury that she was sexually molested "in the spring of 1996" **([EFTA00008631](https://www.justice.gov/epstein/files/DataSet%206/EFTA00008631.pdf))** -- places Epstein's criminal conduct within FBI investigative reach by the mid-1990s.
+But the FBI's own case file index reveals material predating this by a decade. FBI case serial 31E-MM-108062, dated 12/6/2018, references source reporting going back to the 1990s. **[EFTA02730741](https://web.archive.org/web/20260131053030if_/https://www.justice.gov/epstein/files/DataSet%2012/EFTA02730741.pdf)** (note archive.org mirror: DOJ has since removed this file). The Zorro Ranch, New Mexico connection -- where a 14-year-old victim testified before the Grand Jury that she was sexually molested "in the spring of 1996" **([EFTA00008631](https://www.justice.gov/epstein/files/DataSet%206/EFTA00008631.pdf))** -- places Epstein's criminal conduct within FBI investigative reach by the mid-1990s.
 
 **What was not done:** No federal investigation was opened for another decade. No surveillance. No subpoenas. No undercover operations. The FBI possessed source information about a sex offender operating across state and national lines, and did nothing.
 
