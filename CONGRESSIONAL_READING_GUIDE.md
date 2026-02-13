@@ -87,7 +87,7 @@ These are the documents where redactions are obviously protecting powerful peopl
 
 | # | EFTA | What It Is | What To Look For |
 |---|------|-----------|-----------------|
-| 39 | **[EFTA00013209](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013209.pdf)** | Co-conspirator plea negotiations | **ALL named co-conspirators. Who was offered immunity?** |
+| 39 | **[EFTA00013209](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013209.pdf)** | DAG meeting memo (Nov 2020) -- plea negotiations with one redacted co-conspirator who "scheduled hundreds of sexual massages with minors" | **The co-conspirator's name is redacted. Who is it? Why were they never charged?** |
 | 40 | **[EFTA00024797](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024797.pdf)** | Masseuse list from seized devices — 7 pages | **ENTIRELY REDACTED. This was planned as Maxwell trial exhibit but never used. Every name on this list.** |
 
 ---
@@ -97,8 +97,8 @@ These are the documents where redactions are obviously protecting powerful peopl
 | # | EFTA | What It Is | What To Look For |
 |---|------|-----------|-----------------|
 | 41 | **[EFTA00015219](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015219.pdf)** | FOIA exemption document | Material withheld due to "confidential relationship with a foreign government." **WHICH government?** |
-| 42 | **[EFTA00037218](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037218.pdf)** | Melvyn Kohn letter to Mark Epstein | Ex-military intelligence professional: Epstein "NOT Mossad" but "certain parties in this mix" ARE intelligence-connected. References Gerald Bull assassination. **Full unredacted letter — who are the "certain parties"?** |
-| 43 | **[EFTA00037239](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037239.pdf)** | Second Kohn letter | Continuation. **All names.** |
+| 42 | **[EFTA00037218](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037218.pdf)** | Melvyn Kohn letter to Mark Epstein (Aug 12-19, 2019) | Self-described former military intelligence operative (unverified) wrote to Mark Epstein 2 days after Jeffrey's death: Epstein "NOT Mossad" but "certain parties in this mix" ARE intelligence-connected. T&M Protection Resources (Epstein family security firm) classified the correspondence as "harassing" ([EFTA00037236](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037236.pdf)). FBI conducted no documented follow-up. **Full unredacted letter — who are the "certain parties"?** |
+| 43 | **[EFTA00037239](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037239.pdf)** | Second Kohn letter | Continuation. Kohn acknowledges Bull/Erben references were speculative: "I was clutching at straws." |
 | 44 | **[EFTA00021553](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021553.pdf)** | Jane Doe #3 testimony | Epstein "required her to describe events so he could potentially blackmail them." **Who was being blackmailed?** |
 | 45 | **[EFTA00032751](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032751.pdf)** | Boies/Pottinger "conspiracy to commit extortion" | Using Epstein's "illicit videos." **Who was targeted? What videos?** |
 | 46 | **[EFTA00029761](https://www.justice.gov/epstein/files/DataSet%208/EFTA00029761.pdf)** | 2003 Palm Beach police report | Epstein purchased a spy camera concealed in a clock to catch a burglar stealing cash. **Important context:** This was for an anti-theft purpose, not sexual abuse surveillance. However, it documents Epstein's use of concealed camera technology as early as 2003 — 16 years before arrest. |

@@ -659,7 +659,7 @@ This chapter catalogues every significant investigative step that should have be
 | Bill Richardson | Sworn victim testimony | AUSA classified as "subject" | Never subpoenaed; died 2023 |
 | Glenn Dubin | Victim "lent out" testimony | None documented | Never investigated |
 | Eva Dubin | Long-term facilitator role | None documented | Never investigated |
-| Sarah Kellen | Scheduled "hundreds of sexual massages with minors" | Plea negotiations for obstruction | Collapsed; no charges **([EFTA00013209](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013209.pdf))** |
+| Sarah Kellen / redacted co-conspirator | DAG memo: one redacted person "scheduled hundreds of sexual massages with minors" and was "also a victim"; plea draft evidence ([EFTA00089268](https://www.justice.gov/epstein/files/DataSet%209/EFTA00089268.pdf)) matches Kellen | Plea negotiations for obstruction | Collapsed; no charges **([EFTA00013209](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013209.pdf))** |
 | Nadia Marcinkova | Named NPA co-conspirator; $100K post-Herald wire | Protected by NPA immunity | No charges |
 | George Mitchell | Named in sworn victim testimony | None documented | Never investigated |
 | Larry Summers | Named by victim; contact through 2017 | None documented | Never investigated **([EFTA02731721](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731721.pdf))** |

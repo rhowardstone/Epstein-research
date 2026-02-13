@@ -60,7 +60,7 @@
 > "Below is the most current version of the statement of facts we have discussed. We want to emphasize that this is not a plea offer or a proposal, but we are passing this along since you've asked us to send you a draft that reflects our most recent discussions. This is not final from our perspective, and this may change following our conversations with victims during the conferral process."
 
 ### Connection to Maxwell Case ([EFTA00013209](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013209.pdf), [EFTA00018544](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018544.pdf)):
-The Maxwell prosecution memo reveals the identity of the co-conspirator subject:
+The DAG meeting memo describes the co-conspirator under plea negotiation:
 > "We are in plea negotiations with counsel for [redacted], another Epstein co-conspirator, who scheduled hundreds of sexual massages with minors for Epstein but was also a victim of his sexual abuse, may plead to an obstruction of justice-related count."
 
 The individual who "scheduled hundreds of sexual massages with minors" and was simultaneously a victim has been likely identified as Sarah Kellen (later Kellen Vickers), based on plea draft language and findings in subsequent investigations. Kellen Vickers plea drafts found in [EFTA00089268](https://www.justice.gov/epstein/files/DataSet%209/EFTA00089268.pdf) reference "hundreds of appointments," "dozens of minors," and "2-3/day." The Section 1512 charge (obstruction) suggests witness tampering or evidence destruction. The involvement of Susan Necheles (who later represented Maxwell at trial) as defense counsel for this individual is notable.

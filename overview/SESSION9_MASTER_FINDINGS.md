@@ -527,7 +527,7 @@ Complete entity census compiled across all document collections. Key categories:
 
 ### 43. Marcinkova/Ross/Kellen - NPA Architecture ([EFTA02731082](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731082.pdf), [EFTA00010507](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010507.pdf))
 - **NPA co-conspirator immunity** protected scheduling, recruiting, and participating co-conspirators
-- SDFL explicitly waived immigration charges against two female foreign nationals (consistent with Marcinkova from Yugoslavia, Ross from Poland)
+- NPA explicitly waived immigration proceedings against Marcinkova and Ross: "will not request, initiate, or in any way encourage immigration authorities to institute immigration proceedings against Ross or Marcinkova" ([EFTA00176610](https://www.justice.gov/epstein/files/DataSet%209/EFTA00176610.pdf))
 - **[EFTA02731082](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731082.pdf)**: "Maxwell told [her] to massage Glen and Eva Dubin and explicitly told [her] that she had to do to Glen what [she] did for Epstein"
 - Marcinkova described in prosecution memo as Epstein's live-in companion: he "cut her hair, dyed it blonde, controlled her weight, selected her clothes"
 - Maxwell and Epstein had "a healthcare proxy assigning them responsibility if anything happened to her"
@@ -592,10 +592,10 @@ Complete entity census compiled across all document collections. Key categories:
 - This was documented in a press clipping forwarded by the AUSA handling the Florida case
 - Demonstrates access to Israeli military infrastructure during active criminal prosecution
 
-### 51. IDF Clothing on Little Saint James (FBI Search Aug 2019)
-- **[EFTA00001969](https://www.justice.gov/epstein/files/DataSet%201/EFTA00001969.pdf)**: White military dress uniform with actual medals and ribbons (suggesting real military service, not souvenirs)
-- **[EFTA00001970](https://www.justice.gov/epstein/files/DataSet%201/EFTA00001970.pdf)**: IDF sweatshirt in wardrobe
+### 51. IDF-Branded Clothing and Military Uniform on Little Saint James (FBI Search Aug 2019)
+- **[EFTA00001970](https://www.justice.gov/epstein/files/DataSet%201/EFTA00001970.pdf)**: IDF-branded sweatshirt with Hebrew text in wardrobe
 - **[EFTA00001971](https://www.justice.gov/epstein/files/DataSet%201/EFTA00001971.pdf)**: "ISRAEL DEFENSE FORCES" T-shirt with Hebrew text (צה"ל)
+- **[EFTA00001969](https://www.justice.gov/epstein/files/DataSet%201/EFTA00001969.pdf)**: White military dress uniform with medals and ribbons — no visible national insignia; country of origin unidentified (medals suggest actual military service, not souvenirs)
 - All photographed during FBI search of Little Saint James island
 
 ### 52. The Wexner Proffer and Blackmail Claim
@@ -607,12 +607,12 @@ Complete entity census compiled across all document collections. Key categories:
 - **[EFTA00009116](https://www.justice.gov/epstein/files/DataSet%207/EFTA00009116.pdf)** (pages 404-405): Under oath, Acosta was asked about Epstein being "an intelligence asset." He said "I'm not aware of it" and "Not to my recollection," then stated: "there are questions that I may be asked publicly, that I don't think it's right for me to comment as to what classified information I may or may not know, because that's not the kind of stuff you'd go into, **but the answer is no, and no.**" He repeated: "**No, and no.**"
 - Acosta explicitly denied the intelligence asset claim twice, though his reference to classified information in the same exchange has been noted
 
-### 54. The Melvyn Kohn Letters (CRITICAL)
-- **[EFTA00037218](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037218.pdf)/37239**: Self-described former military intelligence operative wrote to Mark Epstein: "neither you nor he are Mossad, or even working knowingly for any foreign intel agency" but "**there is the presence of certain parties in this mix who are**"
-- References arms dealer Gerald Bull (assassinated by Mossad in 1990)
-- Mentions Jeffrey's "exposure to North Korean/Chinese agents"
+### 54. The Melvyn Kohn Letters
+- **[EFTA00037218](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037218.pdf)/37239**: Unsolicited emails sent to Mark Epstein August 12-19, 2019 (beginning 2 days after Jeffrey Epstein's death) by a man identifying himself as a former US military intelligence operative (self-reported, unverified). Wrote: "neither you nor he are Mossad, or even working knowingly for any foreign intel agency" but "**there is the presence of certain parties in this mix who are**"
+- Referenced arms dealer Gerald Bull (assassinated 1990, widely attributed to Mossad) and mentioned Jeffrey's "exposure to North Korean/Chinese agents," but subsequently acknowledged the Bull/Erben references were speculative: "I was clutching at straws" ([EFTA00037218](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037218.pdf) p.1)
 - Letters forwarded to SDNY by Mark Epstein's attorney
-- FBI processed but no evidence of follow-up investigation
+- T&M Protection Resources (Epstein family's private security firm) classified the emails as "harassing" ([EFTA00037236](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037236.pdf)) and conducted email header analysis ([EFTA00146777](https://www.justice.gov/epstein/files/DataSet%209/EFTA00146777.pdf))
+- FBI received letters and met with T&M ([EFTA00037232](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037232.pdf)) but no FD-302 interview, case serial, or documented follow-up exists
 
 ### 55. Documented Blackmail Operation
 - **[EFTA00021553](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021553.pdf)**: Jane Doe #3 testified Epstein trafficked her to "prominent American politicians, powerful business executives, foreign presidents, a well-known Prime Minister" and "required Jane Doe #3 to describe the events... so that he could potentially blackmail them"
@@ -897,7 +897,7 @@ Complete entity census compiled across all document collections. Key categories:
   15. NPA explicitly protected Marcinkova/Ross from immigration charges
   16. **301 E. 66th St nexus: Barak apartment + MC2 models + trafficking victims + Epstein entities all in same building**
   17. **Epstein touring Israeli military bases while under Florida indictment (2008)**
-  18. **Melvyn Kohn letters: "certain parties in this mix" ARE working for foreign intelligence**
+  18. **Melvyn Kohn letters (unverified source): "certain parties in this mix" ARE working for foreign intelligence**
   19. **FOIA exemption confirming withheld material on "confidential relationship with a foreign government"**
   20. **Camera-in-clock: 2003 police report documents anti-burglary spy camera in clock; Maxwell prosecution memo separately references "cameras in his clock" — FBI CID said no cameras found "in bedrooms or massage rooms"**
   21. **Time-lapse surveillance VHS tapes seized but NEVER SCANNED**

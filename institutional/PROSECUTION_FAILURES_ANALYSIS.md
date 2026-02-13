@@ -203,14 +203,16 @@ The NPA was deliberately concealed from victims in violation of the Crime Victim
 ### 2.7 SARAH KELLEN / NADIA MARCINKOVA -- NPA Co-Conspirators, Plea Negotiations
 
 **Evidence gathered:**
-- Named as co-conspirators in the NPA
+- Named as co-conspirators in the NPA ([EFTA00176610](https://www.justice.gov/epstein/files/DataSet%209/EFTA00176610.pdf))
 - Identified as employees in the 2019 SDNY Indictment
-- Scheduled "hundreds of sexual massages with minors"
-- Plea negotiations conducted
+- NPA explicitly waived immigration proceedings against Marcinkova and Ross: "will not request, initiate, or in any way encourage immigration authorities to institute immigration proceedings against Ross or Marcinkova" ([EFTA00176610](https://www.justice.gov/epstein/files/DataSet%209/EFTA00176610.pdf); confirmed during negotiations at [EFTA00193954](https://www.justice.gov/epstein/files/DataSet%209/EFTA00193954.pdf), page 10)
+- Plea negotiations conducted with one redacted co-conspirator
 
 **Key documents:**
 
-- **[EFTA00013209](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013209.pdf) (DAG Meeting Case Overview, November 5, 2020):** "we are in plea negotiations with counsel for [REDACTED], another Epstein co-conspirator, who scheduled hundreds of sexual massages with minors for Epstein but was also a victim of his sexual abuse, may plead to an obstruction of justice-related count."
+- **[EFTA00013209](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013209.pdf) (DAG Meeting Case Overview, November 5, 2020):** "we are in plea negotiations with counsel for [REDACTED], another Epstein co-conspirator, who scheduled hundreds of sexual massages with minors for Epstein but was also a victim of his sexual abuse, may plead to an obstruction of justice-related count." Note: This document discusses ONE redacted individual, not both Kellen and Marcinkova.
+
+- **[EFTA00089268](https://www.justice.gov/epstein/files/DataSet%209/EFTA00089268.pdf) (Plea draft documents):** Reference "hundreds of appointments," "dozens of minors," and "2-3/day" — language closely matching the DAG memo. The scheduling role and plea draft content more closely match Sarah Kellen's documented function. Susan Necheles (who later represented Maxwell at trial) served as defense counsel for this individual.
 
 - **[EFTA00024285](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024285.pdf) / [EFTA00016245](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016245.pdf) (April 7, 2020, internal SDNY emails):** The prosecution team debated whether to charge: "she thinks it's a close call between making [REDACTED] take 2 felony plea and declining to prosecute, but she ultimately comes down in favor of a felony plea. She does not think we should charge [REDACTED] with sex trafficking."
 
@@ -220,7 +222,9 @@ The NPA was deliberately concealed from victims in violation of the Crime Victim
 
 - **[EFTA00014493](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014493.pdf) (July 16, 2019, SDNY letter to court):** Referenced one individual "also named as a potential co-conspirator -- and for whom Epstein also obtained protection in -- the NPA."
 
-**Prosecution decision:** Despite scheduling "hundreds of sexual massages with minors," the co-conspirator was offered a plea to obstruction rather than trafficking. The internal debate characterized this as a "close call" -- but ultimately, no public charges were ever filed against Kellen or Marcinkova. The plea negotiations appear to have collapsed or been abandoned.
+**Identity of the redacted co-conspirator:** The DAG memo's description — "scheduled hundreds of sexual massages with minors" and "also a victim of his sexual abuse" — is redacted. The scheduling language and plea draft evidence (EFTA00089268) more strongly match Sarah Kellen, whose primary documented role was scheduling abuse sessions. The "also a victim" language is more commonly associated with Marcinkova's documented history (brought from Yugoslavia as a minor). The identity cannot be confirmed from the available documents.
+
+**Prosecution decision:** The co-conspirator was offered a plea to obstruction rather than trafficking. The internal debate characterized this as a "close call" -- but ultimately, no public charges were ever filed against Kellen or Marcinkova. The plea negotiations collapsed or were abandoned.
 
 ### 2.8 JEAN-LUC BRUNEL -- Died Before Trial
 

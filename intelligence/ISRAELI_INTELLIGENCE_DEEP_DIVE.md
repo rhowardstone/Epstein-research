@@ -12,7 +12,7 @@ This investigation systematically searched 218GB of DOJ documents across four da
 
 1. **Ehud Barak** (former Israeli PM and Defense Minister) maintained an apartment in Epstein's building at 301 E. 66th St -- the same building where MC2 models were housed and the FBI conducted a DAS search generating 2,000+ records
 2. **Epstein toured Israeli military bases** during Passover 2008, while facing criminal charges, with "Friends of Israel" chairman Benny Shabtai
-3. **IDF clothing** (sweatshirt, T-shirt with Hebrew text, white military dress uniform with medals) was found on Little Saint James island
+3. **IDF-branded clothing** (sweatshirt and T-shirt with Hebrew text) and a white military dress uniform with medals (national origin unidentified) were found on Little Saint James island
 4. **Alexander Acosta** was asked at a press conference whether Epstein was "an intelligence asset" — in his OPR interview he explicitly denied it ("the answer is no, and no") but referenced classified information in the same exchange ([EFTA00009116](https://www.justice.gov/epstein/files/DataSet%207/EFTA00009116.pdf), pages 404-405)
 5. **Victim testimony** explicitly states Epstein required victims to describe sexual encounters with powerful men "so that he could potentially blackmail them"
 6. **Wexner's attorney proffer** reveals Epstein stole "several hundred million dollars" and held power of attorney -- the financial genesis of Epstein's empire came from a co-founder of the Mega Group
@@ -181,17 +181,17 @@ The same email also documents victim intimidation by Epstein's PI Robert Myers:
 
 > "She told him that she did not want to talk to him and he then told her that, if she wouldn't talk to him, her name would somehow appear in the press and she should think about how that will affect her."
 
-## B. IDF Clothing on Little Saint James Island ([EFTA00001969](https://www.justice.gov/epstein/files/DataSet%201/EFTA00001969.pdf)-71)
+## B. IDF-Branded Clothing and Military Uniform on Little Saint James Island ([EFTA00001969](https://www.justice.gov/epstein/files/DataSet%201/EFTA00001969.pdf)-71)
 
 The image analysis database catalogs three photographs taken inside a wardrobe on Epstein's island:
-
-**[EFTA00001969](https://www.justice.gov/epstein/files/DataSet%201/EFTA00001969.pdf):** "A white military uniform with several medals and ribbons pinned to the chest area." Analysis: "The uniform is adorned with various medals and ribbons, indicating a history of service and achievement."
 
 **[EFTA00001970](https://www.justice.gov/epstein/files/DataSet%201/EFTA00001970.pdf):** "A green sweatshirt with the 'IDF' logo." Full text: "The text on the sweatshirt reads 'IDF' (Israel Defense Forces) and includes some additional text in a language that appears to be Hebrew." Found in "a wooden wardrobe with shelves and a drawer" alongside "folded sweatshirts in various colors (white, light blue, gray, and olive green)." The setting includes "a stone wall" consistent with island construction.
 
 **[EFTA00001971](https://www.justice.gov/epstein/files/DataSet%201/EFTA00001971.pdf):** "A folded green T-shirt with the Israel Defense Forces emblem and text." Full text reads: "'ISRAEL DEFENSE FORCES' and 'צה"ל' (Hebrew for 'Israel Defense Forces') are printed on the shirt."
 
-**Analysis:** Three separate IDF-related clothing items were found in a wardrobe on Little Saint James -- an IDF sweatshirt, an "Israel Defense Forces" T-shirt with Hebrew text, and a white military dress uniform with medals and ribbons. The dress uniform with medals is notable because it suggests actual military service, not mere souvenirs. The provenance of these items is not established in the FBI files -- they could belong to Epstein, Barak, or another visitor.
+**[EFTA00001969](https://www.justice.gov/epstein/files/DataSet%201/EFTA00001969.pdf):** "A white military uniform with several medals and ribbons pinned to the chest area." Analysis: "The uniform is adorned with various medals and ribbons, indicating a history of service and achievement." No visible markings identify the uniform's national origin -- it has not been confirmed as IDF.
+
+**Analysis:** Two items are clearly IDF-branded: the sweatshirt ([EFTA00001970](https://www.justice.gov/epstein/files/DataSet%201/EFTA00001970.pdf)) bears the "IDF" logo with Hebrew text, and the T-shirt ([EFTA00001971](https://www.justice.gov/epstein/files/DataSet%201/EFTA00001971.pdf)) reads "ISRAEL DEFENSE FORCES" with "צה"ל." The white dress uniform with medals ([EFTA00001969](https://www.justice.gov/epstein/files/DataSet%201/EFTA00001969.pdf)) has no visible national insignia; its country of origin is unidentified. The dress uniform with medals is notable because medals are issued for actual military service, not sold as souvenirs. The provenance of all three items is not established in the FBI files -- they could belong to Epstein, Barak, or another visitor.
 
 ## C. Paula Heil Fisher and Israeli Tech Connections ([EFTA02588573](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02588573.pdf))
 
@@ -303,7 +303,7 @@ This was circulated internally at SDNY on December 1, 2019.
 
 ## [EFTA00037218](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037218.pdf) / [EFTA00037239](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037239.pdf) -- The Mark Epstein Letters
 
-These two documents contain an extraordinary correspondence between **Melvyn Kohn** (a self-described former US military intelligence operative) and **Mark Epstein** (Jeffrey's brother), forwarded to the SDNY by Mark Epstein's attorney Stacey Richman in August 2019.
+These two documents contain unsolicited correspondence from a man identifying himself as **Melvyn Kohn** to **Mark Epstein** (Jeffrey's brother), sent between August 12-19, 2019 — beginning two days after Jeffrey Epstein's death. Mark Epstein forwarded the letters to his attorney Stacey Richman, who forwarded them to SDNY. Kohn described himself as a former US military intelligence operative, but this background is self-reported and unverified (see credibility assessment below).
 
 Kohn writes to Mark Epstein:
 
@@ -328,14 +328,18 @@ He also mentions Mark Epstein's Israeli contacts:
 > Mark Epstein: "Do you know Jumas, from the Knesset?"
 > Kohn discusses Knesset members including "Haim Oron" and "Sharon Haskell, the Likud member."
 
-**Analysis:** This correspondence is significant because:
-1. A self-identified military intelligence veteran explicitly raises the Mossad question and states Epstein was NOT Mossad but acknowledges "certain parties in this mix who are" working for foreign intel
-2. He names Gerald Bull (Canadian weapons designer assassinated by Mossad in 1990 for building Iraq's supergun) and Herman Erben (Austrian spy who worked for multiple intelligence services)
-3. He identifies Chinese/North Korean intelligence exposure and arms dealer connections
-4. Mark Epstein's response asking about a Knesset member suggests his own Israeli political connections
-5. The entire exchange was forwarded to SDNY by Mark Epstein's attorney
+**Source Credibility Assessment:**
 
-> **[REVISIT UPDATE — Kohn Cyber Analysis + Humpty Dumpty Institute]** The full corpus adds one new Kohn document: **[EFTA00146777](https://www.justice.gov/epstein/files/DataSet%209/EFTA00146777.pdf)** (DS9) — a cyber analysis of Kohn's emails performed by **T&M Protection Resources**, a private security firm. This is significant: Epstein had private security analyze the communications of the man who wrote to SDNY claiming "certain parties in this mix who ARE" working for foreign intelligence. This suggests either (a) Kohn's claims were taken seriously enough to investigate his communications, or (b) the analysis was conducted to assess how much Kohn knew and who he had communicated with — consistent with counter-intelligence behavior or threat assessment.
+Kohn's claimed intelligence background is unverified. Significant caveats apply:
+1. The correspondence began 2 days after Jeffrey Epstein's death — consistent with an unsolicited tipster inserting himself into a high-profile event
+2. T&M Protection Resources (Epstein family's private security firm) classified the emails as "emails harassing mark epstein" ([EFTA00037236](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037236.pdf)) and conducted only basic email header analysis ([EFTA00037242](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037242.pdf))
+3. The FBI received the letters through two channels and met with T&M on August 20, 2019 ([EFTA00037232](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037232.pdf)), but conducted no FD-302 interview, assigned no case serial, and documented no investigative follow-up
+4. Kohn himself acknowledged the Gerald Bull and Herman Erben references were speculative: "I was clutching at straws" ([EFTA00037218](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037218.pdf) p.1)
+5. In Kohn's favor: he correctly identified real Israeli Knesset members and their activities, and his reference to Mark Epstein's Humpty Dumpty Institute involvement is confirmed by Mark's own emails ([EFTA01929259](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01929259.pdf), [EFTA02598877](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02598877.pdf))
+6. Mark Epstein engaged with the correspondence, asking about a Knesset member, suggesting he found some elements credible
+7. The core claim — "certain parties in this mix who ARE" intelligence-connected — remains an unverified assertion from an unverified source
+
+> **[REVISIT UPDATE — Kohn Cyber Analysis + Humpty Dumpty Institute]** The full corpus adds one new Kohn document: **[EFTA00146777](https://www.justice.gov/epstein/files/DataSet%209/EFTA00146777.pdf)** (DS9) — an email header analysis of Kohn's emails performed by **T&M Protection Resources**, a private security firm hired by the Epstein family. T&M's cyber analyst William Barry traced the emails to UK-based Yahoo servers; T&M attorney Richard Frankel characterized the correspondence as "emails harassing mark epstein" ([EFTA00037236](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037236.pdf)). The analysis was conducted to assess the security threat to Mark Epstein, not to evaluate Kohn's intelligence claims.
 >
 > The **Humpty Dumpty Institute** expands from 2 to **17 documents**. DS9 reveals the organization's actual work: **[EFTA00616319](https://www.justice.gov/epstein/files/DataSet%209/EFTA00616319.pdf)** and **[EFTA01204254](https://www.justice.gov/epstein/files/DataSet%209/EFTA01204254.pdf)** are Congressional delegation agendas to **Azerbaijan**, establishing HDI as a real organization running Congressional trips to strategic countries. Azerbaijan is a strategic energy corridor, and Congressional delegations there involve intelligence-sensitive briefings. Kohn's mention of this organization alongside his intelligence claims now has documentary corroboration of the Institute's Congressional travel role.
 
@@ -456,10 +460,10 @@ ISRAELI STATE ACTORS
 +--- BENNY SHABTAI ("Friends of Israel" chairman)
 |    +--- Toured Israeli military bases with Epstein (Apr 2008, EFTA00013730)
 |
-+--- IDF CLOTHING on Little Saint James
-|    |--- IDF sweatshirt (EFTA00001970)
++--- MILITARY CLOTHING on Little Saint James
+|    |--- IDF-branded sweatshirt (EFTA00001970)
 |    |--- "Israel Defense Forces" T-shirt with צה"ל (EFTA00001971)
-|    +--- White military dress uniform with medals (EFTA00001969)
+|    +--- White military dress uniform with medals, origin unidentified (EFTA00001969)
 |
 FINANCIAL ARCHITECTURE
 |
@@ -525,7 +529,7 @@ FISHER-ZISAPEL BRIDGE [REVISIT: New finding]
 
 2. **Epstein had direct access to Israeli military installations** while facing criminal charges. His 2008 Passover visit to Israel included military base tours with "Friends of Israel" chairman Benny Shabtai.
 
-3. **IDF clothing was present on Little Saint James island**, including a dress uniform with actual medals, suggesting a military connection beyond tourism.
+3. **IDF-branded clothing was present on Little Saint James island** (sweatshirt and T-shirt), alongside a white military dress uniform with actual medals whose national origin is unidentified, suggesting a military connection beyond tourism.
 
 4. **Epstein's financial empire originated with Wexner**, the co-founder of the Mega Group, through power of attorney that allowed Epstein to steal "several hundred million dollars" -- yet Wexner chose private settlement over prosecution.
 
@@ -535,7 +539,7 @@ FISHER-ZISAPEL BRIDGE [REVISIT: New finding]
 
 ## What Remains Missing:
 
-1. **No direct evidence of Israeli intelligence direction** of Epstein appears in these FBI files. The Mossad references are exclusively in external correspondence (Kohn letters, social media posts, news articles). However, the FBI CHS FD-1023 ([EFTA00090314](https://www.justice.gov/epstein/files/DataSet%209/EFTA00090314.pdf)) states Epstein "belonged to both U.S. and allied intelligence services" — the most direct intelligence-connection statement in the corpus, identified in the V2 revisit.
+1. **No direct evidence of Israeli intelligence direction** of Epstein appears in these FBI files. The Mossad references are exclusively in external correspondence (Kohn letters — an unverified source, see Part VI credibility assessment — social media posts, and news articles). However, the FBI CHS FD-1023 ([EFTA00090314](https://www.justice.gov/epstein/files/DataSet%209/EFTA00090314.pdf)) states Epstein "belonged to both U.S. and allied intelligence services" — the most direct intelligence-connection statement in the corpus, identified in the V2 revisit.
 
 2. ~~**Carbyne is completely absent**~~ **[REVISIT CORRECTION]** Carbyne now appears in **50 documents** across the full corpus (DS9:34, DS10:12, DS11:4), mostly news articles. Reporty Homeland Security appears in **324 documents**. These are primarily media references, not FBI investigative documents, but the complete absence claimed in V1 is overturned.
 
@@ -543,11 +547,11 @@ FISHER-ZISAPEL BRIDGE [REVISIT: New finding]
 
 4. **MC2's Tel Aviv operations** are not investigated in any document found in these databases, despite MC2 publicly advertising recruitment of girls ages 13-20.
 
-5. **The IDF clothing provenance** is never explained -- whose items were they, and how did they end up on Epstein's island?
+5. **The provenance of the IDF-branded clothing and military uniform** is never explained -- whose items were they, and how did they end up on Epstein's island?
 
 6. **The classified/redacted portions** of these files may contain the most relevant intelligence connections. The FOIA exemption memo ([EFTA00015219](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015219.pdf)) explicitly states information about "confidential relationship with a foreign government" was withheld.
 
-7. **[REVISIT UPDATE]** Epstein had private security firm T&M Protection Resources conduct a **cyber analysis of Melvyn Kohn's emails** ([EFTA00146777](https://www.justice.gov/epstein/files/DataSet%209/EFTA00146777.pdf)) — the man who claimed "certain parties in this mix who ARE" working for foreign intelligence. Whether this was counter-intelligence behavior or threat assessment remains unresolved.
+7. **[REVISIT UPDATE]** T&M Protection Resources (Epstein family's private security firm) conducted an **email header analysis of Kohn's emails** ([EFTA00146777](https://www.justice.gov/epstein/files/DataSet%209/EFTA00146777.pdf)), tracing them to UK Yahoo servers. T&M classified the correspondence as "emails harassing mark epstein" ([EFTA00037236](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037236.pdf)) — a threat-assessment framing, not a credibility endorsement of Kohn's intelligence claims.
 
 ---
 
@@ -555,8 +559,8 @@ FISHER-ZISAPEL BRIDGE [REVISIT: New finding]
 
 | EFTA Number | Date | Subject | Database |
 |-------------|------|---------|----------|
-| [EFTA00001969](https://www.justice.gov/epstein/files/DataSet%201/EFTA00001969.pdf) | N/A | White military dress uniform with medals (island photo) | image catalog |
-| [EFTA00001970](https://www.justice.gov/epstein/files/DataSet%201/EFTA00001970.pdf) | N/A | IDF sweatshirt in wardrobe (island photo) | image catalog |
+| [EFTA00001969](https://www.justice.gov/epstein/files/DataSet%201/EFTA00001969.pdf) | N/A | White military dress uniform with medals, national origin unidentified (island photo) | image catalog |
+| [EFTA00001970](https://www.justice.gov/epstein/files/DataSet%201/EFTA00001970.pdf) | N/A | IDF-branded sweatshirt in wardrobe (island photo) | image catalog |
 | [EFTA00001971](https://www.justice.gov/epstein/files/DataSet%201/EFTA00001971.pdf) | N/A | "Israel Defense Forces" T-shirt with צה"ל (island photo) | image catalog |
 | [EFTA00009116](https://www.justice.gov/epstein/files/DataSet%207/EFTA00009116.pdf) | N/A | Acosta deposition -- "intelligence asset" question | OCR |
 | [EFTA00010724](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010724.pdf) | 2019 | Dilorio/Martin Schlaff/Alpha Capital financial thread | OCR |
@@ -581,8 +585,8 @@ FISHER-ZISAPEL BRIDGE [REVISIT: New finding]
 | [EFTA00030126](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030126.pdf) | Dec 2011 | Deed -- 9 East 71st / 301 E 66th 10F address | OCR |
 | [EFTA00030236](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030236.pdf) | N/A | SDNY subpoena -- Nine East 71st Street Corp / 301 E 66th 10F | OCR |
 | [EFTA00030825](https://www.justice.gov/epstein/files/DataSet%208/EFTA00030825.pdf) | Jun 27, 2019 | FBI: "apartment 10F is specifically associated with Jeffrey" | OCR |
-| [EFTA00037218](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037218.pdf) | Aug 2019 | Melvyn Kohn to Mark Epstein -- Mossad, arms dealers, Chinese agents | OCR |
-| [EFTA00037239](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037239.pdf) | Aug 2019 | Melvyn Kohn letters (duplicate/additional pages) | OCR |
+| [EFTA00037218](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037218.pdf) | Aug 2019 | Melvyn Kohn (unverified source) to Mark Epstein -- Mossad, arms dealers, Chinese agents | OCR |
+| [EFTA00037239](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037239.pdf) | Aug 2019 | Melvyn Kohn letters (duplicate/additional pages) — see Part VI credibility assessment | OCR |
 | [EFTA00037366](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037366.pdf) | Jul 7, 2019 | Co-conspirators contact -- Ohio (Wexner state) referenced | OCR |
 | [EFTA00362483](https://www.justice.gov/epstein/files/DataSet%209/EFTA00362483.pdf) | Sep 22, 2014 | Epstein schedule: Ehud, Leon, Thiel, Summers on same day | OCR |
 | [EFTA01340345](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01340345.pdf) | N/A | 301 E 66TH ST reference | primary text database |
@@ -617,7 +621,7 @@ FISHER-ZISAPEL BRIDGE [REVISIT: New finding]
 | [EFTA02731082](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731082.pdf) | 2019 | SDNY prosecution memo -- Wexner proffer, Groff, Brunel | OCR |
 
 | [EFTA00090314](https://www.justice.gov/epstein/files/DataSet%209/EFTA00090314.pdf) | N/A | FBI CHS FD-1023: "Epstein belonged to both U.S. and allied intelligence services" | DS9 (V2 revisit) |
-| [EFTA00146777](https://www.justice.gov/epstein/files/DataSet%209/EFTA00146777.pdf) | N/A | T&M Protection Resources cyber analysis of Melvyn Kohn's emails | DS9 (revisit) |
+| [EFTA00146777](https://www.justice.gov/epstein/files/DataSet%209/EFTA00146777.pdf) | Aug 2019 | T&M Protection Resources email header analysis of Kohn's emails — classified correspondence as "harassing" | DS9 (revisit) |
 | [EFTA00616319](https://www.justice.gov/epstein/files/DataSet%209/EFTA00616319.pdf) | N/A | Humpty Dumpty Institute Congressional delegation agenda to Azerbaijan | DS9 (revisit) |
 | [EFTA01204254](https://www.justice.gov/epstein/files/DataSet%209/EFTA01204254.pdf) | N/A | Humpty Dumpty Institute additional Azerbaijan delegation document | DS9 (revisit) |
 | [EFTA00995217](https://www.justice.gov/epstein/files/DataSet%209/EFTA00995217.pdf) | N/A | Paula Heil Fisher email about meeting Yehuda Zisapel in Israel | DS9 (revisit) |

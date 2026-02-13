@@ -181,7 +181,12 @@ Two versions of an SDNY prosecution status memo (likely updates to senior DOJ of
 - Was "also a victim of his sexual abuse"
 - Was in plea negotiations for "an obstruction of justice-related count"
 
-This profile matches Nadia Marcinkova precisely. She is the individual publicly known to have been both a participant in scheduling abuse and herself described as a victim. The fact that her name is redacted even in prosecution memos shared internally is consistent with the selective redaction pattern identified in Section 1.2.
+**Identity assessment (revised 2026-02-13):** The redacted person's identity cannot be confirmed from the available documents. Two candidates exist:
+
+- **Sarah Kellen** is the stronger match for the scheduling language. Plea draft documents in [EFTA00089268](https://www.justice.gov/epstein/files/DataSet%209/EFTA00089268.pdf) reference "hundreds of appointments," "dozens of minors," and "2-3/day" — closely matching the DAG memo's "hundreds of sexual massages." The scheduling role is consistently Kellen's primary documented function. Susan Necheles, who later represented Maxwell at trial, served as defense counsel for this co-conspirator.
+- **Nadia Marcinkova** is a stronger match for the "also a victim" language, given her documented history of being brought from Yugoslavia as a minor and Epstein's control over her appearance and health. SDNY Human Trafficking Coordinators described the person under plea consideration as a "victim-participant" ([EFTA00024285](https://www.justice.gov/epstein/files/DataSet%208/EFTA00024285.pdf)), which is more consistent with Marcinkova's profile.
+
+On balance, the plea draft evidence more strongly supports Kellen. Earlier versions of this report stated this "matches Nadia Marcinkova precisely," which was an overstatement given the ambiguity.
 
 ### 4.2 Detention Memorandum -- $100,000 Payment ([EFTA00014493](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014493.pdf) / [EFTA00016748](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016748.pdf))
 
@@ -447,7 +452,7 @@ The document notes:
 | 2018-12-03 | $250,000 wire from Butterfly Trust to [redacted] at Bank of America | [EFTA00020685](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020685.pdf) |
 | 2019-07-06 | Epstein arrested by FBI (SDNY) | Public records |
 | 2019-07-16 | Government letter to Judge Berman identifying suspicious payments to co-conspirators | [EFTA00014493](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014493.pdf), [EFTA00016748](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016748.pdf) |
-| ~2020 | SDNY in plea negotiations with Marcinkova for obstruction count | [EFTA00013209](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013209.pdf), [EFTA00018544](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018544.pdf) |
+| ~2020 | SDNY in plea negotiations with one redacted co-conspirator for obstruction count (identity unconfirmed; plea draft evidence favors Kellen — see Section 4.1) | [EFTA00013209](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013209.pdf), [EFTA00018544](https://www.justice.gov/epstein/files/DataSet%208/EFTA00018544.pdf) |
 | 2020-03 | FBI travel to London for co-conspirator witness | [EFTA00037448](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037448.pdf) |
 | 2020-07 | Maxwell arrested and charged | Public records |
 
@@ -459,16 +464,16 @@ The document notes:
 Marcinkova's full name is absent from 1.8 million redaction records and 38,955 OCR records in the internal FBI databases (DS8/DS10/DS12). However, the full-text corpus contains 200+ documents with her name in court filings, NPA drafts, civil litigation, and FBI intelligence reports (DS9/DS11). The original characterization of "systematic identity suppression" was accurate for the redaction databases but overstated for the file collection as a whole. The correct characterization is that her name was selectively redacted in internal FBI materials while remaining visible in publicly-filed court documents.
 
 ### Finding 2: Dual Victim/Co-Conspirator Status Confirmed
-The knowledge graph and prosecution documents confirm Marcinkova's dual status as both a victim of Epstein's abuse (corroborated by multiple victim testimonies) and an active co-conspirator who "scheduled hundreds of sexual massages with minors." This unique status likely explains both her NPA protection and the systematic redaction of her identity.
+The knowledge graph and prosecution documents confirm Marcinkova's dual status as both a victim of Epstein's abuse (corroborated by multiple victim testimonies) and an active co-conspirator. The DAG meeting memo ([EFTA00013209](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013209.pdf)) describes one redacted co-conspirator "who scheduled hundreds of sexual massages with minors for Epstein but was also a victim of his sexual abuse" — the scheduling language more closely matches Kellen's documented role, though Marcinkova cannot be excluded (see Section 4.1). Regardless of which individual is named in the DAG memo, Marcinkova's dual victim/co-conspirator status is independently confirmed by multiple prosecution documents.
 
 ### Finding 3: Suspicious Payment Timing Around Miami Herald Series (Updated 2026-02-12)
 DS9 reveals the total Aviloop payments in late November 2018 were **$145,000** (not $100,000): $45,000 from JEGE LLC on 11/27/2018 and $100,000 from Butterfly Trust on 11/30/2018. Email correspondence labels one payment as "Aviloop income" ([EFTA01015397](https://www.justice.gov/epstein/files/DataSet%209/EFTA01015397.pdf): "I think it's Aviloop income"). The Government cited these payments in its detention memorandum as evidence of potential obstruction, noting the timing relative to the Miami Herald series. Combined with regular financial flows from the "Money Trust" through Marcinkova's TD Bank account, the documents show an ongoing financial relationship that persisted long after the 2007 NPA. Whether these specific payments were routine business transactions or had another purpose is not established in the released documents.
 
 ### Finding 4: NPA Explicitly Protected Marcinkova from Prosecution
-Government filings confirm Marcinkova was "named as a potential co-conspirator -- and for whom Epstein obtained protection in -- the NPA." Despite scheduling "hundreds of sexual massages with minors," she received immunity from federal prosecution under the controversial 2007 agreement.
+Government filings confirm Marcinkova was "named as a potential co-conspirator -- and for whom Epstein obtained protection in -- the NPA" ([EFTA00014493](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014493.pdf)). The NPA additionally provided that the USAO "will not request, initiate, or in any way encourage immigration authorities to institute immigration proceedings against Ross or Marcinkova" ([EFTA00176610](https://www.justice.gov/epstein/files/DataSet%209/EFTA00176610.pdf)). She received immunity from federal prosecution and immigration proceedings under the controversial 2007 agreement.
 
 ### Finding 5: Post-NPA Obstruction Plea Negotiations
-By late 2020, SDNY was in "plea negotiations" with Marcinkova's counsel for "an obstruction of justice-related count" -- indicating that her NPA protection did not extend to post-NPA conduct and that prosecutors had evidence of obstruction.
+By late 2020, SDNY was in "plea negotiations" with counsel for one redacted co-conspirator for "an obstruction of justice-related count" ([EFTA00013209](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013209.pdf)). The individual's identity is redacted; plea draft evidence ([EFTA00089268](https://www.justice.gov/epstein/files/DataSet%209/EFTA00089268.pdf)) more closely matches Sarah Kellen (see Section 4.1). If Marcinkova, this would indicate her NPA protection did not extend to post-NPA conduct. The plea negotiations collapsed regardless.
 
 ### Finding 6: Flight Log Connections to High-Profile Individuals
 Marcinkova's 124 flights with Epstein included shared flights with Prince Andrew (2 flights, October 2004), Jean-Luc Brunel (11 flights), Ghislaine Maxwell (20 flights), and Glenn and Eva Dubin (5 flights each). These connections place Marcinkova at the intersection of Epstein's social, criminal, and financial networks.

@@ -19,7 +19,7 @@ This report is the definitive analysis of Israeli connections within the 218GB D
 
 4. **The Allen/Oren/Tal Victim Account** -- An NTOC tip in which a 16-year-old model reports rapes at Epstein's New York parties by three brothers (Allen, Oren, Tal), annotated by the FBI as "possibly identifiable as Alexander brothers." The names are Hebrew/Israeli in origin.
 
-5. **Israeli Military Access** -- Epstein toured Israeli military bases during Passover 2008 with "Friends of Israel" chairman Benny Shabtai, while under criminal charges. IDF clothing (sweatshirt, T-shirt with Hebrew text, dress uniform with medals) was found on Little Saint James island.
+5. **Israeli Military Access** -- Epstein toured Israeli military bases during Passover 2008 with "Friends of Israel" chairman Benny Shabtai, while under criminal charges. IDF-branded clothing (sweatshirt and T-shirt with Hebrew text) and a white military dress uniform with medals (national origin unidentified) were found on Little Saint James island.
 
 6. **The Acosta "Intelligence Asset" Admission** -- A Daily Beast article in the FBI files states Acosta told Trump transition interviewers: "I was told Epstein 'belonged to intelligence' and to leave it alone." Under oath, Acosta carefully qualified his denial.
 
@@ -32,6 +32,8 @@ This report is the definitive analysis of Israeli connections within the 218GB D
 ## Total Documents: 3,756 across all document collections (25+ in redaction/OCR databases; 1,689 in DS9 + 1,076 in DS10 + 978 in DS11 from full email corpus)
 
 Ehud Barak -- former Prime Minister of Israel (1999-2001), former Defense Minister (2007-2013), and former Chief of Staff of the IDF -- is the most frequently appearing Israeli figure in the Epstein corpus. The DS9 expansion reveals thousands of calendar entries, schedule pages, and email chains, including Carbyne/Reporty investment correspondence documented in Part VII below.
+
+**Relationship Origin:** Barak has publicly stated he was introduced to Epstein in 2003 by former Israeli President Shimon Peres at a Washington event attended by "American dignitaries." No EFTA document independently corroborates a specific 2003 meeting. Pre-2010 indicators confirm the relationship predates the first direct documentary evidence: by 2009, attorneys in a victim civil suit deposition already knew about the connection — a witness was asked whether Barak was "another person that Epstein procures underage minor females for" ([EFTA00159250](https://www.justice.gov/epstein/files/DataSet%209/EFTA00159250.pdf)). A July 2010 Daily Beast article in the FBI files identified Barak as a "prominent passenger on [Epstein's] private jets" based on pilot logs from civil discovery ([EFTA00206574](https://www.justice.gov/epstein/files/DataSet%209/EFTA00206574.pdf)). The earliest direct EFTA documentary evidence is September 2010: Epstein connecting Barak with Tom Barrack ([EFTA02422168](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02422168.pdf)) and organizing a Barak dinner with Jes Staley ([EFTA02422165](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02422165.pdf)) — the tone shows a fully established relationship, not a new introduction. The Carbyne/Reporty business partnership is first documented December 2014. The documented relationship runs through at least March 2019 (apartment cleaning, [EFTA02278459](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02278459.pdf)).
 
 ## A. Direct Email Communications
 
@@ -401,7 +403,7 @@ The [EFTA01660651](https://www.justice.gov/epstein/files/DataSet%2010/EFTA016606
 - **Redaction content:** "Shabtai"
 - **Nature:** Additional reference to Shabtai in Epstein's communications.
 
-## B. IDF Clothing on Little Saint James Island
+## B. IDF-Branded Clothing and Military Uniform on Little Saint James Island
 
 ### [EFTA00001970](https://www.justice.gov/epstein/files/DataSet%201/EFTA00001970.pdf) -- IDF Sweatshirt (Image Analysis Database)
 > "The text on the sweatshirt reads 'IDF' (Israel Defense Forces) and includes some additional text in a language that appears to be Hebrew."
@@ -413,7 +415,7 @@ The [EFTA01660651](https://www.justice.gov/epstein/files/DataSet%2010/EFTA016606
 ### [EFTA00001969](https://www.justice.gov/epstein/files/DataSet%201/EFTA00001969.pdf) -- White Military Dress Uniform with Medals
 > "A white military uniform with several medals and ribbons pinned to the chest area... indicating a history of service and achievement."
 
-**Assessment:** Three separate IDF items in a wardrobe on Epstein's island. The dress uniform WITH MEDALS is significant -- medals are issued for actual military service, not sold as souvenirs. The most likely owners are Ehud Barak (who maintained an apartment in Epstein's building) or another Israeli military visitor. The provenance is never established in the FBI files.
+**Assessment:** Two items ([EFTA00001970](https://www.justice.gov/epstein/files/DataSet%201/EFTA00001970.pdf), [EFTA00001971](https://www.justice.gov/epstein/files/DataSet%201/EFTA00001971.pdf)) are clearly IDF-branded, with visible "IDF" logos and Hebrew text reading "צה"ל." The white dress uniform ([EFTA00001969](https://www.justice.gov/epstein/files/DataSet%201/EFTA00001969.pdf)) bears no visible national insignia or markings that would identify its country of origin; it has not been identified as IDF and its provenance is unknown. Medals are issued for actual military service, not sold as souvenirs. The owners of these items are not established in the FBI files -- possible owners include Ehud Barak (who maintained an apartment in Epstein's building) or another visitor, but this is unverified.
 
 ## C. "Jacqui's Jerusalem Residence"
 
@@ -479,7 +481,7 @@ The FBI's FOIA deliberative process memo, applied to withhold Epstein-related in
 
 ## [EFTA00037218](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037218.pdf) / [EFTA00037239](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037239.pdf) -- Letters to Mark Epstein (August 2019)
 
-This is the most direct discussion of intelligence connections found in the corpus. Melvyn Kohn, a self-described former US military intelligence operative, wrote multiple letters to Mark Epstein (Jeffrey's brother) in August 2019, immediately after Jeffrey's death. Mark Epstein forwarded these to his attorney Stacey Richman, who forwarded them to SDNY.
+Between August 12-19, 2019 — beginning two days after Jeffrey Epstein's death on August 10 — a man identifying himself as Melvyn Kohn sent unsolicited emails to Mark Epstein (Jeffrey's brother). Mark Epstein forwarded these to his attorney Stacey Richman, who forwarded them to SDNY. Kohn's claimed intelligence background (see below) is self-reported and unverified in these files.
 
 ### Kohn's Self-Identification:
 > "Without narrowing down my identity too much, I can tell you that **I was in US military intel and had a clearance issued to me young, when my uncle was in fact head of int'l relations at the Pentagon and answered directly to the president.** Other family members hold TS+ and I might ask one to be a liaison."
@@ -509,8 +511,18 @@ This is the most direct discussion of intelligence connections found in the corp
 > Mark Epstein: "Do you know Jumas, from the Knesset?"
 > Kohn discusses Knesset members including "Haim Oron" and "Sharon Haskell, the Likud member."
 
-### Assessment:
-Kohn's letters represent the only statement in the FBI files from a self-identified intelligence professional specifically addressing the Mossad question. His conclusion is nuanced: Jeffrey Epstein was NOT Mossad and was NOT "working knowingly for any foreign intel agency," BUT "certain parties in this mix" WERE connected to foreign intelligence. He does not identify which parties or which intelligence service, though his references to Israeli Knesset members, Mossad-attributed assassinations (Gerald Bull), and the Humpty Dumpty charity suggest multiple threads of foreign intelligence interest in Epstein's network.
+### Source Credibility Assessment:
+
+Kohn's letters are the only correspondence in the FBI files from a self-identified intelligence professional specifically addressing the Mossad question. However, significant credibility caveats apply:
+
+- **Unverified identity**: Kohn's claimed intelligence background ("US military intel," uncle "head of int'l relations at the Pentagon") is self-reported. No verification exists in these files or in public records.
+- **Timing**: The correspondence began 2 days after Jeffrey Epstein's death and lasted approximately one week — consistent with an unsolicited tipster inserting himself into a high-profile event.
+- **Professional assessment**: T&M Protection Resources (the Epstein family's private security firm) conducted an email header analysis tracing Kohn's emails to UK-based Yahoo servers ([EFTA00146777](https://www.justice.gov/epstein/files/DataSet%209/EFTA00146777.pdf), [EFTA00037242](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037242.pdf)) and classified the correspondence as "emails harassing mark epstein" ([EFTA00037236](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037236.pdf)).
+- **FBI non-response**: The FBI received the letters through two channels and met with T&M on August 20, 2019 ([EFTA00037232](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037232.pdf)). No FD-302 interview, case serial assignment, or documented investigative follow-up exists.
+- **Own walkback**: Kohn acknowledged the Gerald Bull and Herman Erben references were speculative: "I was clutching at straws, almost certain you would not have heard of them" ([EFTA00037218](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037218.pdf) p.1).
+- **Verifiable knowledge**: Kohn correctly identified real Israeli Knesset members (Sharren Haskel/Likud, Haim Oron/Meretz) and their specific legislative activities, and his reference to Mark Epstein's involvement with the Humpty Dumpty Institute is confirmed by Mark's own emails ([EFTA01929259](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01929259.pdf), [EFTA02598877](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02598877.pdf)).
+
+Kohn's core claim — that Epstein was NOT Mossad but "certain parties in this mix" WERE connected to foreign intelligence — is an assertion from an unverified source. He does not identify which parties or which intelligence service.
 
 ---
 
@@ -644,7 +656,7 @@ Christopher Dilorio's FBI filings connect Epstein to Israeli financial networks:
 
 2. **Nicole Junkermann maintained a 10-year business and personal relationship with Epstein (2009-2019).** Epstein brokered her introduction to Leon Black, advised her on personal legal matters, discussed investment opportunities, and included her on a January 2019 island trip guest list alongside Steve Bannon and Sultan bin Sulayem. Her relationship was active through at least March 2018 ("Can u speak?") and January 2019.
 
-3. **Epstein had access to Israeli military installations** during his criminal proceedings (2008 Passover visit), toured military bases with the chairman of "Friends of Israel," and had IDF clothing (including a dress uniform with medals) on his private island.
+3. **Epstein had access to Israeli military installations** during his criminal proceedings (2008 Passover visit), toured military bases with the chairman of "Friends of Israel," and had IDF-branded clothing (sweatshirt and T-shirt) plus a white military dress uniform with medals (national origin unidentified) on his private island.
 
 4. **Alexander Acosta told Trump transition interviewers** that he was "told Epstein 'belonged to intelligence' and to leave it alone." Under oath, he denied this but with notable qualifications about classified information.
 
@@ -662,7 +674,7 @@ Christopher Dilorio's FBI filings connect Epstein to Israeli financial networks:
 
 3. **[CORRECTED] Carbyne and Reporty are extensively documented in the email corpus.** The original report stated these were "completely absent from the 218GB corpus." The full email corpus reveals 50 Carbyne documents and 324 Reporty documents, including complete investment structures, board reports forwarded by Barak to Epstein, CEO correspondence from Amir Elichai (57 docs), and legal documentation. **Mega Group** yields 4 documents (likely Wikipedia/news false positives). **Ben-Menashe** remains confirmed at ZERO.
 
-4. **The provenance of IDF clothing** on Little Saint James is never explained.
+4. **The provenance of the IDF-branded clothing and military uniform** on Little Saint James is never explained.
 
 5. **The destination of blackmail intelligence** (if any) is never identified.
 
@@ -680,11 +692,11 @@ What the FBI files DO contain is extensive documentation of:
 - Barak's physical integration into Epstein's infrastructure (3,756 documents total)
 - Epstein's direct Carbyne/Reporty investments with Barak ($500K personal investment, $50M valuation, board-level reporting)
 - Epstein's access to Israeli military facilities
-- IDF items on Epstein's island
+- IDF-branded clothing and unidentified military uniform on Epstein's island
 - The blackmail infrastructure (cameras, required debriefs, FBI case file)
 - The Acosta "intelligence" account AND the FBI CHS FD-1023 ([EFTA00090314](https://www.justice.gov/epstein/files/DataSet%209/EFTA00090314.pdf)) containing source claims of intelligence service connections
 - The investigative memo ([EFTA00098755](https://www.justice.gov/epstein/files/DataSet%209/EFTA00098755.pdf)) characterizing Epstein as a "financial bounty hunter" for the U.S. government
-- The Kohn letters stating "certain parties in this mix" ARE intelligence-connected
+- The Kohn letters (unverified source, see Part VII credibility assessment) claiming "certain parties in this mix" ARE intelligence-connected
 - FOIA exemptions for "confidential relationship with a foreign government"
 - Masha Drokova identified by FBI ARMS investigation as "Putin's kiss, former publicist for Jeffrey Epstein" with regular 2017 meetings and Russian technology transfer concerns ([EFTA00129096](https://www.justice.gov/epstein/files/DataSet%209/EFTA00129096.pdf))
 
@@ -759,7 +771,7 @@ DS9 calendar entries reveal regular Drokova meetings with Epstein throughout 201
 | Nicole Junkermann | 10+ | **4,182** | 1,758 DS9 + 1,198 DS10 + 1,218 DS11 |
 | HBRK Associates | 3 | **34,909** | 12,336 DS9 + 12,546 DS10 + 10,023 DS11 (email headers) |
 | Nili Priel | 5 | **2,690+** | Includes "priell" spelling variant |
-| Melvyn Kohn | 5 | **47** | 38 DS9 + 9 DS11; FBI cyber analysis ([EFTA00146777](https://www.justice.gov/epstein/files/DataSet%209/EFTA00146777.pdf)) |
+| Melvyn Kohn | 5 | **47** | 38 DS9 + 9 DS11; T&M email header analysis ([EFTA00146777](https://www.justice.gov/epstein/files/DataSet%209/EFTA00146777.pdf)); unverified source — see Part VII |
 | Benny Shabtai | 3+ | **14+** | Regular calendar entries, Skype calls |
 
 ---
@@ -843,9 +855,9 @@ DS9 calendar entries reveal regular Drokova meetings with Epstein throughout 201
 | [EFTA02148337](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02148337.pdf) | Email | "any info re Benny Shabtai coming" (duplicate) |
 | [EFTA02175707](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02175707.pdf) | Email | "Shabtai" reference |
 | [EFTA02406470](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02406470.pdf) | News Article | Obama-Goldberg interview on Israel/Iran nuclear policy |
-| [EFTA00001969](https://www.justice.gov/epstein/files/DataSet%201/EFTA00001969.pdf) | Photo | White military dress uniform with medals (island) |
-| [EFTA00001970](https://www.justice.gov/epstein/files/DataSet%201/EFTA00001970.pdf) | Photo | IDF sweatshirt with Hebrew text (island) |
-| [EFTA00001971](https://www.justice.gov/epstein/files/DataSet%201/EFTA00001971.pdf) | Photo | IDF T-shirt with Hebrew text (island) |
+| [EFTA00001969](https://www.justice.gov/epstein/files/DataSet%201/EFTA00001969.pdf) | Photo | White military dress uniform with medals, national origin unidentified (island) |
+| [EFTA00001970](https://www.justice.gov/epstein/files/DataSet%201/EFTA00001970.pdf) | Photo | IDF-branded sweatshirt with Hebrew text (island) |
+| [EFTA00001971](https://www.justice.gov/epstein/files/DataSet%201/EFTA00001971.pdf) | Photo | IDF-branded T-shirt with Hebrew text (island) |
 
 ---
 

@@ -198,11 +198,11 @@ Results cross-referenced with prior investigation findings from Sessions 1-10 (6
 
 **DOMAIN 1 (Financial):** Billionaire, L Brands/Victoria's Secret founder
 **DOMAIN 2 (Philanthropic):** Wexner Foundation, Ohio State University donations
-**DOMAIN 3 (Intelligence-Adjacent):** "Certain parties in this mix who ARE" intelligence-connected (Kohn letters)
+**DOMAIN 3 (Intelligence-Adjacent):** "Certain parties in this mix who ARE" intelligence-connected (Kohn letters — unverified source, see ISRAEL_DEEP_DIVE_V2 Part VII)
 **EPSTEIN CONNECTION:** 27 in older databases; full corpus: **1,497 documents** (DS9: 675, DS10: 629, DS11: 178, DS8: 10, DS12: 4)
 
 ### Key Evidence:
-- **[EFTA00037218](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037218.pdf)/37239** (prior findings): Melvyn Kohn letters: "certain parties in this mix who ARE" working for foreign intelligence
+- **[EFTA00037218](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037218.pdf)/37239** (prior findings): Melvyn Kohn letters (unverified source): "certain parties in this mix who ARE" working for foreign intelligence
 - **[EFTA01660622](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660622.pdf)**: Prominent Names page: "Wexner (homosexual)" -- FBI briefing
 - **[EFTA01652995](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01652995.pdf)/757**: George B. Tonks posting: "Leslie & Abigail Wexner" in list with Trump, Andrew, Dershowitz, Dubins
 - Power of attorney given to Epstein over Wexner's finances (public record, corroborated in files)
@@ -289,7 +289,7 @@ Results cross-referenced with prior investigation findings from Sessions 1-10 (6
 > Note: FD-1023 documents are unverified CHS reports, not FBI conclusions. But their existence in the case file means the FBI received this intelligence. The classification of Part 9.3 has been changed from "intelligence gap" to "intelligence connection documented but unverified by FBI."
 
 The following remain significant as context:
-- **[EFTA00037218](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037218.pdf)/37239**: Kohn explicitly states certain parties "ARE" intelligence-connected
+- **[EFTA00037218](https://www.justice.gov/epstein/files/DataSet%208/EFTA00037218.pdf)/37239**: Kohn (unverified source) states certain parties "ARE" intelligence-connected
 - **[EFTA00015219](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015219.pdf)**: FOIA exemption invoked for foreign government relationship
 - Barak's military/intelligence background + Epstein's Israeli military base tours
 
@@ -584,7 +584,7 @@ The NPA (September 2007) was negotiated by:
 ## Entry 8: LESLIE WEXNER
 - **DOMAIN 1 (Financial):** L Brands billionaire, Victoria's Secret
 - **DOMAIN 2 (Philanthropic):** Wexner Foundation
-- **DOMAIN 3 (Intelligence-adjacent):** Kohn "certain parties ARE" intel-connected
+- **DOMAIN 3 (Intelligence-adjacent):** Kohn letters (unverified source) claim "certain parties ARE" intel-connected
 - **EPSTEIN CONNECTION:** 27 docs, power of attorney, 9 E 71st mansion transfer, blackmail claim
 - **EFTA CITATIONS:** 27 unique documents across V2 + DS10
 - **SETTLEMENT/SEALED:** Blackmail dynamics prevented full disclosure. FOIA intelligence exemption applies.
@@ -669,7 +669,7 @@ Nine individuals have been identified with documented presence across 2+ domains
 3. **Peter Mandelson** (Political + International/Russia + Financial) -- Moscow property, "tasty models," Congo political coordination, stayed at townhouse during Epstein's imprisonment
 4. **Kathryn Ruemmler** (Political + Legal + Intelligence-adjacent) -- sealed indictment consultation, Clinton/Obama protection strategy, career brokering through Epstein
 5. **Terje Roed-Larsen** (Diplomatic + Philanthropic + Political) -- Gates Foundation proposal coordination, personal relationship, Norwegian royalty connections
-6. **Leslie Wexner** (Financial + Philanthropic + Intelligence-adjacent) -- power of attorney, mansion transfer, Kohn letters reference unnamed "certain parties" as intelligence-connected
+6. **Leslie Wexner** (Financial + Philanthropic + Intelligence-adjacent) -- power of attorney, mansion transfer, Kohn letters (unverified source) reference unnamed "certain parties" as intelligence-connected
 7. **Bill Richardson** (Political + Energy + Geographic) -- victim testimony, prosecutor frustration documented, blanket denials contradicting record
 8. **George Mitchell** (Political + Diplomatic + Think Tank) -- 2 independent victims, Trilateral Commission/CFR membership, never investigated
 9. **Bob Kerrey** (Political + Academic + Intelligence brokering) -- arranged CIA Director candidate meeting with tech billionaire through Epstein
@@ -699,7 +699,7 @@ The sealed architecture served multiple functions:
 
 The following contextual evidence remains relevant:
 - FOIA exemption for "confidential relationship with a foreign government" ([EFTA00015219](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015219.pdf))
-- Kohn letters stating "certain parties ARE" intelligence-connected
+- Kohn letters (unverified source) stating "certain parties ARE" intelligence-connected
 - Barak's military/intelligence background + 3,744 documents in full corpus
 - Maxwell's father (Robert Maxwell) known intelligence connections
 - Barak to Epstein: "you should make clear that i dont work for mossad :)" / Epstein: "unfortunately, not" ([EFTA01013272](https://www.justice.gov/epstein/files/DataSet%209/EFTA01013272.pdf), Dec 2018)
