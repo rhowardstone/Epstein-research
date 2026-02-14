@@ -1,6 +1,10 @@
 # Epstein Files: Forensic Analysis Library
 ## Independent Analysis of the 218GB DOJ Jeffrey Epstein File Release
 
+Disclaimer: I am not an investigative journalist, I am a data scientist. *All* content within this repo must be taken with a grain of salt: it has not been independently verified by a human. It is primarily the result of Claude Opus 4.6 reviewing the searchable database I have established at: https://github.com/rhowardstone/Epstein-research-data
+
+Remember, there is a *reason* why journalists and investigators are so heavily trained and trusted. There are extensive protocols they take in order to ensure the information they put out is vetted. The average person does *not* have these skills. Do not reach *any* conclusions based solely on the content in this repo. The underlying data is available, and all source documents should be linked directly. If you see any inaccuracies, broken links, or anything else fishy - please don't hesitate to reach out by opening an issue.
+
 ### About This Repository
 
 This repository contains 100+ forensic analysis reports derived from the U.S. Department of Justice's release of Jeffrey Epstein investigation files -- 194.5 GB across 12 datasets, comprising 1,380,937 PDFs (2,731,785 pages, 3.18 billion characters of text), plus 3,226 non-PDF native files (video, audio, spreadsheets). The analysis involved full-text extraction and FTS5 indexing of every page, 2,587,102 redaction records, 1,530 audio/video transcripts, a 1,536-person entity registry, and cross-referenced entity relationships (524 entities, 2,096 connections).
