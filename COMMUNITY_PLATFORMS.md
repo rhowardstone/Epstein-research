@@ -34,11 +34,11 @@ Last updated: 2026-02-15
 |----------|-----|-------------|
 | **Jmail** | [jmail.world](https://jmail.world) | Gmail-like interface to browse Epstein's emails. CJR-recognized. Creators: Riley Walz & Luke Igel. |
 | **JWiki** | [jmail.world/wiki](https://jmail.world/wiki) | AI-generated encyclopedia grounded in Jmail data and government releases. |
-| **Jemini** | jmail.world (integrated) | Natural-language AI search across EFTA text releases. |
-| **JPhotos** | jmail.world ecosystem | Image database of EFTA releases. |
-| **JFlights** | jmail.world ecosystem | Flight tracking visualization. |
-| **Jamazon** | jmail.world ecosystem | Epstein's Amazon order history. |
-| **Jacebook, Jmessage, Jotify, Jdrive** | jmail.world ecosystem | Facebook, iMessage, music, and Google Drive viewers. |
+| **Jemini** | [jmail.world](https://jmail.world) (integrated) | Natural-language AI search across EFTA text releases. |
+| **JPhotos** | [jmail.world/photos](https://jmail.world/photos) | Image database of EFTA releases. |
+| **JFlights** | [jmail.world/flights](https://jmail.world/flights) | Flight tracking visualization. |
+| **Jamazon** | [jmail.world](https://jmail.world) (integrated) | Epstein's Amazon order history. |
+| **Jacebook, Jmessage, Jotify, Jdrive** | [jmail.world](https://jmail.world) (integrated) | Facebook, iMessage, music, and Google Drive viewers. |
 
 ## News Organization Tools
 
@@ -46,9 +46,9 @@ Last updated: 2026-02-15
 |----------|-----|-------------|
 | **Google Pinpoint** (multiple) | [Courier](https://journaliststudio.google.com/pinpoint/search?collection=092314e384a58618), [DOJ Files](https://journaliststudio.google.com/pinpoint/search?collection=c109fa8e7dcf42c1), [Epstein Files](https://journaliststudio.google.com/pinpoint/search?collection=061ce61c9e70bdfd), [New Files](https://journaliststudio.google.com/pinpoint/search?collection=ea371fdea7a785c0), [7th Production](https://journaliststudio.google.com/pinpoint/search?collection=2283eeed70befac7) | Multiple independent collections on Google's journalist tool. OCR search across uploaded PDFs. |
 | **Courier Newsroom** | [couriernewsroom.com](https://couriernewsroom.com/news/we-created-a-searchable-database-with-all-20000-files-from-epsteins-estate/) | 20,000 estate documents via Google Pinpoint. |
-| **Zeteo** | zeteo.com | 26,039 searchable documents. Active coverage by Mehdi Hasan. |
+| **Zeteo** | [zeteo.com](https://zeteo.com/p/epstein-26000-emails-read-search-trump-summers-thiel) | 26,039 searchable documents. Active coverage by Mehdi Hasan. |
 | **Boston Globe** | [bostonglobe.com](https://www.bostonglobe.com/2025/11/18/nation/see-full-jeffrey-epstein-emails/) | Oversight JPGs converted to PDFs on DocumentCloud with OCR. |
-| **CBS News** | cbsnews.com | Searchable interface with Data Set and document type filtering. |
+| **CBS News** | [cbsnews.com](https://www.cbsnews.com/news/epstein-files-photos-how-to-view-initial-takeaways-from-first-documents/) | Searchable interface with Data Set and document type filtering. |
 | **Al Jazeera** | [aljazeera.com](https://www.aljazeera.com/news/2026/2/10/struggling-to-navigate-the-epstein-files-here-is-a-visual-guide) | Visual navigation guide to datasets, people, and timeline. |
 | **DocumentCloud** | [documentcloud.org](https://www.documentcloud.org/projects/216915-epstein-documents/) | Multiple journalist-uploaded collections with full-text search. |
 
@@ -141,7 +141,7 @@ Last updated: 2026-02-15
 | Community | URL | Description |
 |-----------|-----|-------------|
 | **r/Epstein** | [reddit.com/r/Epstein](https://reddit.com/r/Epstein) | Active research community. Rep. Maxwell Frost engaged directly for file identification help. |
-| **r/DataHoarder** | reddit.com/r/DataHoarder | Produced the Epstein Archive (epstein-docs.github.io). Archival coordination. |
+| **r/DataHoarder** | [reddit.com/r/DataHoarder](https://www.reddit.com/r/DataHoarder/) | Produced the Epstein Archive (epstein-docs.github.io). Archival coordination. |
 | **Lemmy** | [lemmy.world/c/Epsteinfiles](https://lemmy.world/c/Epsteinfiles) | Federated discussion, download coordination. |
 
 ## Guides & Meta-Resources
