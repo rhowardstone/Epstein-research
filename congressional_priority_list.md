@@ -22,28 +22,29 @@ These are the documents where the highest number of predator names will be revea
 |------|------|-------|-------|------------|-------------------|
 | 1 | **EFTA00024797** | 300 | ~50 | Masseuse list — 7 pages, ALL completely redacted | **Every name on the list.** Women and girls including identified minors. Planned as Maxwell trial exhibit but never used. 7 pages of victims/perpetrators currently invisible. |
 | 2 | **EFTA02731488** | 150 | ~25 | FBI prosecution notes: "16 when raped by Black," trafficked to "at least 25 different men" | **WHO ARE THE 25 MEN?** Also: biological mother forced victim to perform sexual acts since childhood. Names of all recipients. |
-| 3 | **EFTA00021553** | 48 | ~8 | Jane Doe #3: trafficked to "prominent politicians, powerful business executives, foreign presidents, a well-known Prime Minister" | **Every redacted name.** Victim testified Epstein required her to describe events specifically for blackmail. The identities of the politicians, executives, presidents, and PM are all redacted. |
-| 4 | **EFTA02731420** | 66 | ~11 | First victim journal (13 pages handwritten) — 35+ names including ghost aliases | **Real identities behind aliases:** Mr. Mody, Mr. Sant, Mr. Ludwig, Mr. Cecchi, Mr. Mora, Mr. Goodlatte, Mr. Atkins. Victim states these people "are not who they say." Also: Ms. Vicki (facilitator FL/CA), Robert & Jill, the Gregorys (DC couple). Zero identification in any database. |
-| 5 | **EFTA00022133** | 84 | ~14 | 9-page victim accusation compilation: Richardson, Mitchell, Minsky, Brunel + 12+ unnamed | **"A foreign president" (likely Barak but unconfirmed). "A French hotel chain owner" (NEVER identified — exhaustive search across all databases). 12+ additional unnamed perpetrators.** |
+| 3 | **EFTA02731420** | 66 | ~11 | First victim journal (13 pages handwritten) — 35+ names including ghost aliases | **Real identities behind aliases:** Mr. Mody, Mr. Sant, Mr. Ludwig, Mr. Cecchi, Mr. Mora, Mr. Goodlatte, Mr. Atkins. Victim states these people "are not who they say." Also: Ms. Vicki (facilitator FL/CA), Robert & Jill, the Gregorys (DC couple). Zero identification in any database. |
+| 4 | **EFTA00022133** | 84 | ~14 | 9-page victim accusation compilation: Richardson, Mitchell, Minsky, Brunel + 12+ unnamed | **"A foreign president" (likely Barak but unconfirmed). "A French hotel chain owner" (NEVER identified — exhaustive search across all databases). 12+ additional unnamed perpetrators.** |
+| 5 | **EFTA02731082** | 36 | ~8 | Maxwell prosecution memo (25+ pages) — cameras in clock, Wexner theft, "lent out," many names | **Loads of redacted names throughout.** Maxwell told victim to do to "Glen" (Dubin) what she did for Epstein. Binders of nude photos. Healthcare proxy for Marcinkova. WHO else is named? |
 | 6 | **EFTA02731515** | 36 | ~6 | Wigdor attorney notes: sex video circulating, 6 men at hotel, victim with 3, "former friend of Black" | **WHO ARE ALL 6 MEN?** At least one trafficking victim sex video circulating online. Online gamer recognized victim from video. The "former friend of Leon Black" is unknown. |
-| 7 | **EFTA01660622** | 49.5 | ~11 | FBI master briefing deck — Prominent Names page with 11+ individuals and specific allegations | **Confirm or correct all OCR-recovered identifications:** Trump, Weinstein, Andrew, Staley, Black, Dubin, Wexner, Dershowitz, Clinton, Lutnick, Barr. **May contain additional names not recovered by OCR.** Page 17 is the single most important page in the corpus. |
-| 8 | **EFTA01660651** | 36 | ~8 | NTOC tips compilation — 16+ tips, Alexander brothers raping girls at parties | **Every redacted tipster and subject name.** Key: Three brothers raped girls at Epstein parties including 14-year-old "Katie LNU." FBI did ZERO follow-up. These brothers (Alexander) are NOW ON TRIAL in SDNY for trafficking 60+ women. Also: Trump/Clinton/Victoria's Secret allegations. |
-| 9 | **EFTA01660679** | 36 | ~8 | Second NTOC tips compilation — 16+ additional tips | **All redacted names across 16+ tips.** Companion to EFTA01660651 with additional details. |
-| 10 | **EFTA02731465** | 27 | ~6 | Second victim journal (8 pages): Leonsis FILMED abuse, Staley belt violence, AOL recruitment | **Confirm filming allegation = CSAM production (no statute of limitations). AOL executives named. Forced pregnancy/eugenics. "Sauerkraut Krauss" and "Martin Minsky" named.** |
+| 7 | **EFTA02731465** | 27 | ~6 | Second victim journal (8 pages): Leonsis FILMED abuse, Staley belt violence, AOL recruitment | **Focus on last page: the first redaction and the final two redactions are likely people of interest (perpetrators, not victims).** Filming allegation = CSAM production (no statute of limitations). AOL executives named. |
+| 8 | **EFTA00004070** | 22.5 | ~5 | 30-page FBI evidence package: 4 assaults before 18, 2 rapes, multi-country | All redacted names. "Harem ideology." Brunel as constant companion. Naomi Campbell on island. Who else was there? |
+| 9 | **EFTA00020703** | 18 | ~3 | 12-year-old French girls flown for birthday | **NOTE: Pages EFTA00020706→EFTA00020707 are NOT consecutive — conversation jumps mid-sentence, part of the record is missing.** Key redaction on "page 6 of 8" (EFTA00020708): "you were living in [redacted] at that time" — why redact a *place*? |
+| 10 | **EFTA02731226** | 22.5 | ~5 | Maxwell prosecution memo — "Epstein had cameras in his clock" | **Mainly victim info, but redactions are so severe it is possible perpetrator names are hidden among them.** Internal prosecution strategy. Contradicts FBI CID "no cameras" claim. |
 
 ### TOP 10 READING INSTRUCTIONS
 
 **Time estimate:** 3-4 hours for all 10 documents.
 
-1. **Start with EFTA01660622 page 17** (5 minutes) — single page, maximum reveal-per-minute
-2. **EFTA00024797** (15 minutes) — 7 pages, write down every name
-3. **EFTA02731488** (10 minutes) — 2 pages, write down all 25 men
-4. **EFTA00021553** (30 minutes) — 15 pages, politicians/executives/presidents/PM
-5. **EFTA02731420** (45 minutes) — 13 pages handwritten, decode all aliases
-6. **EFTA00022133** (30 minutes) — 9 pages, identify foreign president and hotel chain owner
-7. **EFTA02731515** (10 minutes) — 2 pages, identify all 6 men in video allegation
-8. **EFTA01660651 + EFTA01660679** (30 minutes) — 12 pages total, all tip subjects
-9. **EFTA02731465** (20 minutes) — 8 pages handwritten, confirm AOL executives
+1. **EFTA00024797** (15 minutes) — 7 pages, write down every name
+2. **EFTA02731488** (10 minutes) — 2 pages, write down all 25 men
+3. **EFTA02731420** (45 minutes) — 13 pages handwritten, decode all aliases
+4. **EFTA00022133** (30 minutes) — 9 pages, identify foreign president and hotel chain owner
+5. **EFTA02731082** (45 minutes) — 25+ pages, write down every redacted name
+6. **EFTA02731515** (10 minutes) — 2 pages, identify all 6 men in video allegation
+7. **EFTA02731465** (20 minutes) — 8 pages handwritten, **focus last page: 1st redaction + final 2 redactions = people of interest**
+8. **EFTA00004070** (45 minutes) — 30 pages, all redacted names
+9. **EFTA00020703** (15 minutes) — check page gap between 20706/20707, note *place* redaction on 20708
+10. **EFTA02731226** (30 minutes) — separate victim names from potential perpetrator names in severe redactions
 
 ---
 
@@ -53,32 +54,32 @@ Documents 11-25 contain specific violent crimes with redacted perpetrators, pros
 
 | Rank | EFTA | Score | Names | What It Is | What To Look For |
 |------|------|-------|-------|------------|-----------------|
-| 11 | **EFTA00004070** | 22.5 | ~5 | 30-page FBI evidence package: 4 assaults before 18, 2 rapes, multi-country | All redacted names. "Harem ideology." Brunel as constant companion. Naomi Campbell on island. Who else was there? |
-| 12 | **EFTA00020703** | 18 | ~3 | 12-year-old French girls flown for birthday | WHO arranged the flights? WHO else was present? Bear-his-child proposition. Victim escaped to Australia. |
-| 13 | **EFTA02731082** | 36 | ~8 | Maxwell prosecution memo (25+ pages) — cameras in clock, Wexner theft, "lent out" | WHO else is named? Maxwell told victim to do to "Glen" (Dubin) what she did for Epstein. Binders of nude photos. Healthcare proxy for Marcinkova. |
-| 14 | **EFTA02731226** | 22.5 | ~5 | Maxwell prosecution memo — "Epstein had cameras in his clock" | Internal prosecution strategy document. Contradicts FBI CID "no cameras" claim. Full list of named individuals. |
-| 15 | **EFTA02731721** | 13.5 | ~3 | Wigdor Law letter: victim trafficked to "VIP" (Black) AND Larry Summers | Full unredacted letter. Former Treasury Secretary as direct recipient of trafficking victim. In DOJ possession. |
-| 16 | **EFTA00019994** | 9 | ~2 | 15-year-old victim impact statement, Zorro Ranch 2004 | Any redacted names of other adults present. Governor Richardson's jurisdiction. |
-| 17 | **EFTA00008631** | 9 | ~2 | 14-year-old Grand Jury testimony, Maxwell grooming, Zorro Ranch 1996 | Any redacted names. Documents operation active since at least 1996. |
-| 18 | **EFTA00028785** | 15 | ~5 | Detention memo: $100K/$250K wires to co-conspirators, victim parent driven off road | WHO received the witness tampering payments? Co-conspirators 2-5. Timed to Miami Herald expose. |
-| 19 | **EFTA00013209** | 9 | ~2 | DAG meeting: co-conspirator who "scheduled hundreds of sexual massages with minors" | WHO IS THE CO-CONSPIRATOR? Never charged despite DOJ documenting "hundreds" of sessions. |
-| 20 | **EFTA01731006** | 20 | ~5 | FBI blackmail investigation: "attempting to blackmail powerful businessmen in New York" | Subject names. Investigation findings never publicly released. Case serial 31E-MM-108062. |
-| 21 | **EFTA00032751** | 16 | ~4 | Boies/Pottinger extortion — used "illicit videos" for settlements | WHO were the "wealthy men" in the videos? Attorneys' actions strongly suggest material exists. |
-| 22 | **EFTA00015219** | 8 | ~2 | FOIA exemption: "confidential relationship with a foreign government" withheld | WHICH government? Congress can demand declassification. |
-| 23 | **EFTA00029358** | 3 | ~1 | SDNY prosecutor: "Jes Staley raped her during a massage" (Dec 2019) | Was this ever investigated? What happened? Rape allegation against major bank CEO. |
-| 24 | **EFTA02731576** | 3 | ~1 | Victim direct text to Black: "You sex trafficked me, raped me" | Verify recipient name. "Forced to sign under duress" = coerced NDA. |
-| 25 | **EFTA02731578** | 3 | ~2 | SDNY AUSA: "I'm not inclined to open" on Black despite multiple victims | Which AUSA? Full reasoning. Multiple FBI 302s existed. |
+| 11 | **EFTA02731721** | 13.5 | ~3 | Wigdor Law letter: victim trafficked to "VIP" (Black) AND Larry Summers | Full unredacted letter. **Who is the paternal grandfather referenced?** Hard to distinguish victim vs. perpetrator in redacted form. Former Treasury Secretary as direct recipient. |
+| 12 | **EFTA00028785** | 15 | ~5 | Detention memo: $100K/$250K wires to co-conspirators, victim parent driven off road | **Financial document with many redactions, multiple via e-mail. Odd.** WHO received the witness tampering payments? Co-conspirators 2-5. Timed to Miami Herald expose. |
+| 13 | **EFTA00013209** | 9 | ~2 | DAG meeting: co-conspirator who "scheduled hundreds of sexual massages with minors" | WHO IS THE CO-CONSPIRATOR? Never charged despite DOJ documenting "hundreds" of sessions. |
+| 14 | **EFTA01731006** | 20 | ~5 | FBI blackmail investigation: "attempting to blackmail powerful businessmen in New York" | Subject names. Investigation findings never publicly released. Case serial 31E-MM-108062. |
+| 15 | **EFTA00032751** | 16 | ~4 | Boies/Pottinger extortion — used "illicit videos" for settlements | WHO were the "wealthy men" in the videos? Attorneys' actions strongly suggest material exists. |
+| 16 | **EFTA00019994** | 9 | ~2 | 15-year-old victim impact statement, Zorro Ranch 2004 | **Redactions appear to be people involved in handling the case — could be subpoenaed or compelled to testify.** Possibly enough to track down further info from them. |
+| 17 | **EFTA00008631** | 9 | ~2 | 14-year-old Grand Jury testimony, Maxwell grooming, Zorro Ranch 1996 | Long, most redactions appear to be victims. Operation active since at least 1996. |
+| 18 | **EFTA00015219** | 8 | ~2 | FOIA exemption: "confidential relationship with a foreign government" withheld | WHICH government? Congress can demand declassification. |
+| 19 | **EFTA00029358** | 3 | ~1 | SDNY prosecutor: "Jes Staley raped her during a massage" (Dec 2019) | Was this ever investigated? What happened? Rape allegation against major bank CEO. |
+| 20 | **EFTA02731576** | 3 | ~1 | Victim direct text to Black: "You sex trafficked me, raped me" | Verify recipient name. "Forced to sign under duress" = coerced NDA. |
+| 21 | **EFTA02731578** | 3 | ~2 | SDNY AUSA: "I'm not inclined to open" on Black despite multiple victims | Which AUSA? Full reasoning. Multiple FBI 302s existed. |
+| 22 | **EFTA00013253** | 24 | ~4 | Allred/Wang victim scheduling: 7+ victims, "two other men at Epstein's direction" | Two unnamed men across NY/CA/DC. Prince Andrew 2010 townhouse interaction. |
+| 23 | **EFTA00027666** | 15 | ~5 | CVRA judicial opinion (NPA terms) | All names granted immunity under NPA. |
+| 24 | **EFTA01660651** | 36 | ~8 | NTOC tips compilation — 16+ tips, Alexander brothers | FBI complaints/tips — not directly evidence of wrongdoing, but tip subjects named. |
+| 25 | **EFTA01660679** | 36 | ~8 | Second NTOC tips compilation — 16+ additional tips | Companion to EFTA01660651. Same caveat: tips, not evidence. |
 
 ### TOP 25 ADDITIONAL READING TIME
 
 **Add 2-3 hours** beyond the Top 10 (total: 5-7 hours).
 
 **Priority order for documents 11-25:**
-1. EFTA02731082 + EFTA02731226 (prosecution memos — 45 min combined)
-2. EFTA01731006 (blackmail investigation — 20 min)
-3. EFTA00028785 (witness tampering — 20 min)
-4. EFTA00013209 (co-conspirator — 15 min)
-5. EFTA00004070 (30-page FBI package — 45 min)
+1. EFTA02731721 (Wigdor letter — 10 min, note grandfather reference)
+2. EFTA00028785 (detention/witness tampering — 20 min, focus on email redactions)
+3. EFTA00013209 (co-conspirator — 15 min)
+4. EFTA01731006 (blackmail investigation — 20 min)
+5. EFTA00032751 (Boies/Pottinger extortion — 15 min)
 6. Remaining documents (1-2 hours)
 
 ---
@@ -93,21 +94,17 @@ Documents where unredacted viewing will directly reveal currently unknown perpet
 |---|------|-------|-----------|------------|-------------------|
 | 1 | EFTA00024797 | 300.0 | 50 | Trafficking/CSAM | Complete 7-page masseuse list — every victim and perpetrator name |
 | 2 | EFTA02731488 | 150.0 | 25 | Child rape/trafficking | 25 men victim was trafficked to |
-| 3 | EFTA01727588 | 36.0 | 8 | Trafficking/child abuse | FBI FD-302 victim interviews — victims name recruiters and facilitators. 783 redactions. Full recruitment network. |
-| 3b | EFTA00230786 | 67.5 | 15 | Trafficking/obstruction | 1,131-page master SDFL case file — NPA negotiations, victim depositions naming co-conspirators, phone records. Most comprehensive single document. |
-| 4 | EFTA00022133 | 84.0 | 14 | Rape/trafficking | Foreign president, French hotel chain owner, 12+ unnamed |
+| 3 | EFTA00022133 | 84.0 | 14 | Rape/trafficking | Foreign president, French hotel chain owner, 12+ unnamed |
+| 4 | EFTA00230786 | 67.5 | 15 | Trafficking/obstruction | 1,131-page master SDFL case file — NPA negotiations, victim depositions naming co-conspirators, phone records |
 | 5 | EFTA02731420 | 66.0 | 11 | Rape/assault | Real identities behind 11+ ghost aliases |
-| 6 | EFTA01660622 | 49.5 | 11 | Rape/assault/trafficking | Prominent Names — confirm/expand 11+ identifications |
-| 7 | EFTA00021553 | 48.0 | 8 | Trafficking/blackmail | Politicians, executives, foreign presidents, PM |
-| 8 | EFTA02731082 | 36.0 | 8 | Trafficking/CSAM | Prosecution memo — all named individuals |
-| 9 | EFTA01660651 | 36.0 | 8 | Rape/trafficking | NTOC tip subjects, Alexander brothers follow-up |
-| 10 | EFTA01660679 | 36.0 | 8 | Rape/trafficking | Additional NTOC tip subjects |
-| 11 | EFTA02731515 | 36.0 | 6 | Trafficking/CSAM | 6 men in hotel video allegation |
-| 12 | EFTA02731465 | 27.0 | 6 | CSAM/assault | AOL executives, filming allegation |
-| 13 | EFTA00013253 | 24.0 | 4 | Trafficking/assault | Two unnamed men, 7+ victim scheduling details |
-| 14 | EFTA00004070 | 22.5 | 5 | Rape/trafficking | 30-page FBI package — all redacted names |
-| 15 | EFTA02731226 | 22.5 | 5 | CSAM/trafficking | Internal prosecution strategy — all named |
-| 16 | EFTA01731006 | 20.0 | 5 | Blackmail/extortion | Blackmail investigation subjects |
+| 6 | EFTA02731082 | 36.0 | 8 | Trafficking/CSAM | Prosecution memo — loads of redacted names throughout |
+| 7 | EFTA01727588 | 36.0 | 8 | Trafficking/child abuse | FBI FD-302 victim interviews — victims name recruiters and facilitators. 783 redactions |
+| 8 | EFTA02731515 | 36.0 | 6 | Trafficking/CSAM | 6 men in hotel video allegation |
+| 9 | EFTA02731465 | 27.0 | 6 | CSAM/assault | Last page: 1st redaction + final 2 redactions = people of interest |
+| 10 | EFTA00013253 | 24.0 | 4 | Trafficking/assault | Two unnamed men, 7+ victim scheduling details |
+| 11 | EFTA00004070 | 22.5 | 5 | Rape/trafficking | 30-page FBI package — all redacted names |
+| 12 | EFTA02731226 | 22.5 | 5 | CSAM/trafficking | Mainly victim info but severe redactions may hide perpetrators |
+| 13 | EFTA01731006 | 20.0 | 5 | Blackmail/extortion | Blackmail investigation subjects |
 
 ### TIER B: SPECIFIC CRIME + REDACTED PERPETRATORS (Score 5-19)
 
@@ -117,10 +114,10 @@ Documents with specific violent crimes described and at least one redacted perpe
 |---|------|-------|-----------|------------|-------------------|
 | 15 | EFTA01625916 | 18.0 | 4 | Trafficking/CSAM | SDNY search warrant affidavit — 62+ devices, photos of Maxwell with 16-22yo females, Individual-1 through Individual-3. (Duplicate: EFTA01653490) |
 | 16 | EFTA00041963 | 18.0 | 6 | Death investigation | BOP psychological reconstruction — cellmate removal decision, staff failures, original video confiscated by FBI. 1,000 pages. |
-| 17 | EFTA00020703 | 18.0 | 3 | Child trafficking | French girls flown for birthday — who arranged it |
+| 17 | EFTA00020703 | 18.0 | 3 | Child trafficking | **Pages 20706→20707 NOT consecutive (conversation gap — part of record missing).** Key: "page 6 of 8" (EFTA00020708) redacts a *place*: "you were living in [redacted]" |
 | 16 | EFTA00032751 | 16.0 | 4 | Extortion/CSAM | "Wealthy men" in illicit videos |
-| 17 | EFTA00028785 | 15.0 | 5 | Witness tampering | Wire recipients — co-conspirators 2-5 |
-| 18 | EFTA02731721 | 13.5 | 3 | Trafficking/rape | Full Wigdor letter naming all perpetrators |
+| 17 | EFTA00028785 | 15.0 | 5 | Witness tampering/financial | Financial doc, many redactions, multiple via e-mail. Wire recipients — co-conspirators 2-5 |
+| 18 | EFTA02731721 | 13.5 | 3 | Trafficking/rape | Full Wigdor letter. **Who is the paternal grandfather?** Hard to tell victim vs. perpetrator in redacted form |
 | 19 | EFTA00015823 | 12.0 | 0 | CSAM/child abuse | 2005 computer contents from peak abuse period |
 | 20 | EFTA02517291 | 6.0 | 2 | Corruption/trafficking | DP World SVP identity, port deal details |
 | 21 | EFTA00013253 | 24.0 | 4 | Trafficking/assault | Two unnamed men, 7+ victim scheduling details |
@@ -129,8 +126,8 @@ Documents with specific violent crimes described and at least one redacted perpe
 | 24 | EFTA00038127 | 9.0 | 2 | CSAM | Image/video review results — never produced |
 | 25 | EFTA02731587 | 9.0 | 2 | Trafficking/rape | 2023 cooperating witness statement |
 | 26 | EFTA02731648 | 9.0 | 2 | Rape/assault | Attorney representing 10 women Black assaulted |
-| 27 | EFTA00019994 | 9.0 | 2 | Child sexual abuse | 15-year-old Zorro Ranch — other adults present |
-| 28 | EFTA00008631 | 9.0 | 2 | Child sexual abuse | 14-year-old Grand Jury — other adults |
+| 27 | EFTA00019994 | 9.0 | 2 | Child sexual abuse | Redactions appear to be case handlers — could be subpoenaed/compelled to testify. Enough to track down further info? |
+| 28 | EFTA00008631 | 9.0 | 2 | Child sexual abuse | Long, mostly victim redactions. Operation active since at least 1996. |
 | 29 | EFTA00013209 | 9.0 | 2 | Child sexual abuse | Co-conspirator who scheduled "hundreds" of sessions |
 | 30 | EFTA00015219 | 8.0 | 2 | Intelligence | Which foreign government has confidential relationship |
 | 31 | EFTA00037218 | 12.0 | 3 | Intelligence | "Certain parties" who ARE intelligence-connected |
@@ -232,9 +229,9 @@ For congressional members focused on specific individuals, these are the documen
 | Priority | EFTA | What It Reveals |
 |----------|------|-----------------|
 | 1st | EFTA00024797 | 50+ names on masseuse list |
-| 2nd | EFTA00021553 | Politicians, executives, presidents, PM |
-| 3rd | EFTA02731420 | 11+ ghost alias real identities |
-| 4th | EFTA00022133 | French hotel chain owner + 12 unnamed |
+| 2nd | EFTA02731420 | 11+ ghost alias real identities |
+| 3rd | EFTA00022133 | French hotel chain owner + 12 unnamed |
+| 4th | EFTA02731082 | Prosecution memo — loads of names |
 | 5th | EFTA01731006 | Blackmail investigation subjects |
 
 ### Intelligence/Foreign Connections
@@ -293,11 +290,11 @@ REVEAL_SCORE = estimated_redacted_names × crime_severity × novelty_factor
 
 ## QUICK REFERENCE: THE SINGLE MOST IMPORTANT QUESTION
 
-If you have **5 minutes** in the reading room: **EFTA01660622 page 17.** The FBI's own Prominent Names page. Eleven individuals with specific sexual abuse allegations. One page reveals who the FBI knew about and chose not to prosecute.
+If you have **5 minutes** in the reading room: **EFTA00024797** (masseuse list). Seven completely redacted pages — every name is a reveal. Planned as Maxwell trial exhibit but never used.
 
-If you have **30 minutes**: Add **EFTA00024797** (masseuse list, 7 pages) and **EFTA02731488** (25 men, 2 pages). That's 10 pages total and potentially 86 predator names revealed.
+If you have **30 minutes**: Add **EFTA02731488** (25 men, 2 pages) and **EFTA02731082** (prosecution memo, many names). That's ~30 pages and potentially 80+ predator names revealed.
 
-If you have **one afternoon**: The Top 25 list above covers approximately 150 pages and potentially reveals 150+ predator names across victim testimony, FBI files, prosecution memos, and tip compilations.
+If you have **one afternoon**: The Top 25 list above covers approximately 150 pages and potentially reveals 100+ predator names across victim testimony, FBI files, prosecution memos, and financial records.
 
 ---
 
