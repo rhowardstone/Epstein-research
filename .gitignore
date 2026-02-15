@@ -14,17 +14,6 @@
 !COMMUNITY_PLATFORMS.md
 !.gitignore
 
-# Processing tools (replication pipeline)
-!tools/
-!tools/*.py
-!tools/*.sh
-!tools/pipeline/
-!tools/pipeline/*.py
-
-# Exclude binaries and separate repos from tools/
-tools/aria2c
-tools/aria2.zip
-tools/unredact/
 
 # Category folders and their .md contents
 !overview/

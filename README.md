@@ -273,25 +273,7 @@ See **[COMMUNITY_PLATFORMS.md](COMMUNITY_PLATFORMS.md)** for a comprehensive dir
 
 ## Processing Tools
 
-The [`tools/`](tools/) directory contains all Python scripts used to build the databases and process the corpus. These tools can be used to replicate the analysis or extend it with new data.
-
-| Tool | Description |
-|------|-------------|
-| `tools/build_person_registry.py` | Builds unified person registry from 3 sources (Pipeline, la-rana-chicana CSV, knowledge graph) |
-| `tools/build_native_files_catalog.py` | Generates NATIVE_FILES_CATALOG.csv from filesystem scan + DB cross-reference |
-| `tools/build_knowledge_graph.py` | Constructs entity relationship graph from corpus analysis |
-| `tools/transcribe_media.py` | GPU transcription of audio/video files using faster-whisper (large-v3) |
-| `tools/prescreen_media.py` | Pre-screens media files to classify and skip surveillance footage |
-| `tools/person_search.py` | FTS5 cross-reference search with co-occurrence analysis and CSV export |
-| `tools/redaction_detector_v2.py` | Spatial redaction analysis: finds black rectangles and extracts underlying text |
-| `tools/ingest_spreadsheets.py` | Ingests native XLS/XLSX/CSV files into full_text_corpus.db |
-| `tools/find_missing_efta.py` | Gap detection across EFTA numbering to find missing documents |
-| `tools/recover_missing_efta.py` | Recovers missing EFTAs from DOJ server or forensic carving |
-| `tools/generate_gov_reports.py` | Generates government officials corpus search reports |
-| `tools/search_gov_officials.py` | Searches corpus for executive branch officials |
-| `tools/search_judicial.py` | Searches corpus for federal judges |
-| `tools/extract_subpoena_riders.py` | Extracts and catalogs subpoena rider documents |
-| `tools/ingest_house_estate.py` | Ingests House Oversight Estate documents (Concordance format + OCR) |
+All processing scripts (36+ Python tools) used to build the databases live in the data repo: **[Epstein-research-data/tools/](https://github.com/rhowardstone/Epstein-research-data/tree/main/tools)**
 
 ---
 
