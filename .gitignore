@@ -11,7 +11,22 @@
 !CONGRESSIONAL_ADDENDUM.md
 !congressional_priority_list.md
 !NATIVE_FILES_CATALOG.csv
+!COMMUNITY_PLATFORMS.md
 !.gitignore
+
+# Processing tools (replication pipeline)
+!tools/
+!tools/*.py
+!tools/*.sh
+!tools/pipeline/
+!tools/pipeline/*.py
+!ingest_house_estate.py
+!run_post_ingestion_pipeline.sh
+
+# Exclude binaries and separate repos from tools/
+tools/aria2c
+tools/aria2.zip
+tools/unredact/
 
 # Category folders and their .md contents
 !overview/
