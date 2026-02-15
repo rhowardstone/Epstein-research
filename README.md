@@ -291,7 +291,7 @@ The [`tools/`](tools/) directory contains all Python scripts used to build the d
 | `tools/search_gov_officials.py` | Searches corpus for executive branch officials |
 | `tools/search_judicial.py` | Searches corpus for federal judges |
 | `tools/extract_subpoena_riders.py` | Extracts and catalogs subpoena rider documents |
-| `ingest_house_estate.py` | Ingests House Oversight Estate documents (Concordance format + OCR) |
+| `tools/ingest_house_estate.py` | Ingests House Oversight Estate documents (Concordance format + OCR) |
 
 ---
 

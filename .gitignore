@@ -20,8 +20,6 @@
 !tools/*.sh
 !tools/pipeline/
 !tools/pipeline/*.py
-!ingest_house_estate.py
-!run_post_ingestion_pipeline.sh
 
 # Exclude binaries and separate repos from tools/
 tools/aria2c
