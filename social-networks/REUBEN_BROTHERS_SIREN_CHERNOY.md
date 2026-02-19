@@ -8,7 +8,7 @@
 
 ## Executive Summary
 
-The EFTA corpus contains a detailed record of how **David Reuben** — the British-Iraqi billionaire who, with his brother Simon, amassed a fortune in Russian metals during the 1990s "Aluminum Wars" — was introduced to Jeffrey Epstein's social orbit in March 2010. The introduction was brokered by **Peggy Siegal**, the New York film publicist who functioned as a social intelligence conduit for Epstein during his house arrest period.
+The EFTA corpus contains a detailed record of how **David Reuben** — the Mumbai-born British billionaire of Baghdadi Jewish descent who, with his brother Simon, amassed a fortune in Russian metals during the 1990s "Aluminum Wars" — was introduced to Jeffrey Epstein's social orbit in March 2010. The introduction was brokered by **Peggy Siegal**, the New York film publicist who functioned as a social intelligence conduit for Epstein during his house arrest period.
 
 The documents reveal that on the same day Siegal pitched Reuben to Epstein, an unidentified source sent Epstein a warning: *"Reuben bros have very murky past in ex Sov Union with Michael Chernoy. Semi sanitised now."* Two months later, Epstein used Chernoy's name as a benchmark for toxic associations when warning **Peter Mandelson** to stay away from certain individuals.
 
@@ -20,7 +20,7 @@ No direct correspondence between the Reuben brothers and Epstein has been found 
 
 | Name | Role in This Investigation |
 |------|---------------------------|
-| **David Reuben** | British-Iraqi billionaire; metals/oil fortune from Russia; owner of M/Y Siren |
+| **David Reuben** | Mumbai-born British billionaire of Baghdadi Jewish descent; metals/oil fortune from Russia; owner of M/Y Siren |
 | **Debra Reuben** | David Reuben's wife; appears on social guest lists |
 | **Simon Reuben** | David's brother and business partner; mentioned but does not appear directly |
 | **Peggy Siegal** | NYC film publicist; primary connector between Reuben and Epstein |
@@ -98,6 +98,8 @@ Later that day, Siegal sent Epstein a comprehensive biographical profile of Davi
 > — Peggy Siegal to Epstein, March 21, 2010
 > [EFTA00762876 (DS9)]
 
+**Note on biographical accuracy:** Siegal's sketch was imprecise. Public records and the Reuben Brothers' own statements confirm the brothers were born in Bombay (Mumbai) to an Iraqi-Jewish (Baghdadi Jewish) family. Their father had migrated from Baghdad to India. Siegal's claim that David was "born in Bagdad" is incorrect; in a later email she also described them as "Syrian Jews" ([EFTA02025786](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02025786.pdf)), which is also inaccurate.
+
 ---
 
 ## Part 2: The Chernoy Warning — Same Day
@@ -117,7 +119,7 @@ The word "Correction" implies the sender had previously communicated something p
 
 Michael Chernoy (also transliterated as **Michael Cherney**) was a Russian-Israeli metals oligarch who operated in the same 1990s Russian metals markets as the Reuben brothers. The Reubens and Chernoy were business partners in Trans-World Group, which controlled a significant portion of Russia's aluminum industry during the chaotic post-Soviet privatization period.
 
-Chernoy later sued the Reubens in English courts, claiming they held billions in assets on his behalf. The case — **Cherney v Deripaska** — became a landmark in international commercial litigation (cited in the EFTA corpus at EFTA01108398).
+Chernoy later sued oligarch Oleg Deripaska in English courts. The case — **Cherney v Deripaska** — became a landmark in international commercial litigation.
 
 ### The Iseman Corroboration
 
@@ -143,13 +145,13 @@ This email confirms Epstein was aware of — and wary of — the Chernoy connect
 
 ### The Wider Chernoy Network
 
-Elsewhere in the EFTA corpus, a series of whistleblower letters (from Christopher J. Dilorio to the SEC/DOJ) map Cherney into a network of organized crime-linked figures:
+Separately, a series of near-identical whistleblower letters from Christopher J. Dilorio to the SEC/DOJ — copies of essentially the same complaint sent on different dates — place Cherney in a broader associative chain:
 
 > **Martin Schlaff → Cherney → Russia → Firtash → Mogilevich**
 >
-> [EFTA00086291, EFTA00069181, EFTA00090355, EFTA00102264 (all DS9)]
+> [EFTA00086291 (DS9)]
 
-**Dmytro Firtash** is the Ukrainian gas oligarch who was indicted by the DOJ in 2013 on bribery charges. **Semion Mogilevich** is considered one of the most powerful figures in Eurasian organized crime, placed on the FBI's Ten Most Wanted list.
+These are unverified allegations from a single complainant, not investigative findings. But they provide context for why the name "Chernoy" carried weight: **Dmytro Firtash** is the Ukrainian gas oligarch indicted by the DOJ in 2013 on bribery charges, and **Semion Mogilevich** was placed on the FBI's Ten Most Wanted list.
 
 ---
 
@@ -333,8 +335,7 @@ Many emails appear in multiple datasets (DS9, DS10, DS11) as separate EFTA numbe
 
 | EFTA | Dataset | Description |
 |------|---------|-------------|
-| EFTA00086291 | 9 | Dilorio letter: Schlaff → Cherney → Firtash → Mogilevich |
-| EFTA01108398 | 9 | Cherney v Deripaska legal precedent |
+| EFTA00086291 | 9 | Dilorio whistleblower letter: Schlaff → Cherney → Firtash → Mogilevich (note: near-identical copies also at EFTA00069181, EFTA00090355, EFTA00102264) |
 
 ---
 
