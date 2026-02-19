@@ -45,6 +45,8 @@
 !scientists/*.md
 !audits/
 !audits/*.md
+!social-networks/
+!social-networks/*.md
 !pqg_lines_of_investigation/
 !pqg_lines_of_investigation/[0-9][0-9]_*.md
 
