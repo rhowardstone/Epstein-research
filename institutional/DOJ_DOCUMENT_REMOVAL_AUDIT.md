@@ -155,6 +155,15 @@ Separately, we compared the Content-Length reported by the DOJ server for docume
 - The largest reduction: one document lost 67% of its original file size (from 22.7 MB to 7.5 MB)
 - This suggests post-publication re-processing or content removal that has not been disclosed
 
+### Open Data
+
+The complete scan results are published as open data on GitHub for independent verification and analysis:
+
+- **[FLAGGED_documents.csv](https://github.com/rhowardstone/Epstein-research-data/blob/main/doj_audit/FLAGGED_documents.csv)** — All 78,234 removed documents with EFTA number, justice.gov URL, dataset, page count, character count, and a first-page text preview from our PII-redacted OCR corpus.
+- **[SIZE_MISMATCHES.csv](https://github.com/rhowardstone/Epstein-research-data/blob/main/doj_audit/SIZE_MISMATCHES.csv)** — All 23,989 documents with file size reductions, including original size, current size, byte difference, and percentage change.
+
+The full OCR text of every document in the EFTA corpus is searchable at [epstein-data.com](https://epstein-data.com), where victim-identifying information has been redacted (2,099 instances across approximately 1,400 pages).
+
 ---
 
 ## PART IV: REMOVED DOCUMENTS — CASE-BY-CASE ANALYSIS
