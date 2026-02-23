@@ -1,14 +1,22 @@
-# DOJ DOCUMENT REMOVAL AUDIT: 78,234 FILES REMOVED FROM JUSTICE.GOV AFTER EFTA PUBLICATION
+# DOJ DOCUMENT REMOVAL AUDIT: ~64,000 FILES REMOVED FROM JUSTICE.GOV AFTER EFTA PUBLICATION
 
 ## A Forensic Integrity Audit of the Department of Justice's Epstein Files Transparency Act Production
 
 ---
 
+> **Correction (Feb 22, 2026):** The original version of this report stated 78,234 removed documents based on an HTTP scan conducted February 18-20, 2026. Two corrections have been applied:
+>
+> **Correction 1 — Authenticated Rescan (67,784):** A subsequent rescan using authenticated Playwright browser sessions (passing both the Akamai bot challenge and the DOJ's age-verification gate) confirmed 67,784 documents returning HTTP 404, down from 78,234. The ~10,450 false positives were caused by the DOJ's age-verification system returning HTTP 404 to unauthenticated requests — a behavior that caused our original scanner to misclassify live documents as removed.
+>
+> **Correction 2 — Statistical Sampling (~64,259):** Because the rescan infrastructure also used distributed IP addresses (to stay within Akamai's per-IP rate limits), we conducted a further statistical verification. A random sample of 500 documents was drawn from the 67,784 (seed=42) and each was checked individually via an authenticated Playwright Firefox session with canary validation every 50 requests. Results: **474 confirmed removed (94.8%), 26 confirmed live (5.2%)**. The false positives clustered entirely in the subgroup of 404s that lacked a `Last-Modified` response header in the original scan (0/362 false positives in the with-Last-Modified group; 26/138 = 18.8% in the without-Last-Modified group). Applying the observed false positive rate to the full population yields an estimated **~64,259 genuinely removed documents** (95% CI: 62,940-65,578). All figures in this report have been updated to reflect this estimate. The ten documents cited by EFTA number were independently re-verified and remain 404.
+
+---
+
 ## EXECUTIVE SUMMARY
 
-Between February 18 and 20, 2026, we conducted a comprehensive HTTP integrity scan of every document in the Department of Justice's Epstein Files Transparency Act (EFTA) production hosted at justice.gov/epstein. Of the 1,380,941 documents in the production corpus, we successfully scanned 1,365,677 (98.89%). The results reveal that **78,234 documents — 5.7% of the entire production — now return HTTP 404 (Not Found)**. These files were part of the original DOJ publication but have been silently removed from the public server without any Federal Register notice, without Congressional notification, and without published legal justification — all of which are required by the statute.
+Between February 18 and 20, 2026, we conducted a comprehensive HTTP integrity scan of every document in the Department of Justice's Epstein Files Transparency Act (EFTA) production hosted at justice.gov/epstein. Of the 1,380,941 documents in the production corpus, we successfully scanned 1,365,677 (98.89%). An initial count of 78,234 HTTP 404 responses was refined through authenticated browser rescanning (67,784 confirmed 404s) and statistical sampling (estimated **~64,259 genuinely removed documents**, 95% CI: 62,940-65,578). These files were part of the original DOJ publication but have been silently removed from the public server without any Federal Register notice, without Congressional notification, and without published legal justification — all of which are required by the statute.
 
-Manual browser verification confirms these are real removals, not scanner artifacts.
+Browser-authenticated verification and statistical sampling confirm these are real removals, not scanner artifacts. The false positive rate is 5.2% (26/500 sampled), concentrated entirely among documents whose 404 responses lacked a `Last-Modified` header — a fingerprint of the DOJ's age-verification gate, not a genuine removal.
 
 The removed documents are not random. They are concentrated overwhelmingly in Dataset 9 — the dataset containing the FBI's investigative files, prosecutorial correspondence, Bureau of Prisons records, and grand jury materials. Below, we examine **ten removed documents** — organized across five categories — that contain **no victim personally identifying information** and for which **no lawful basis for removal exists** under the statute. These include: the Bureau of Prisons' detention logs and death incident report, the BOP's psychological reconstruction of Epstein's death, the FBI's 476-page death investigation file, Kenneth Starr's 36-page lobbying fax to US Attorney Acosta, the complete 51-page investigation timeline, the federal grand jury presentation outline, bank statements for an Epstein-linked shell entity, and 2,153 pages of phone records subpoenaed by the grand jury.
 
@@ -62,7 +70,7 @@ Section 2(c) defines exactly five categories of material the Attorney General *m
 
 Even where one of these five carveouts applies, the statute imposes a procedural requirement that the DOJ has not followed. Section 2(c)(2) mandates: **"All redactions must be accompanied by written justification published in the Federal Register and submitted to Congress."** The Attorney General must declassify to the maximum extent possible and, for any material that cannot be declassified, must release an unclassified summary.
 
-As of this writing, no Federal Register notice has been published justifying the removal of 78,234 documents. No unclassified summaries have been provided. On February 14, 2026, the Attorney General submitted a report to Congress listing categories of records released and withheld — the report required by Section 3 of the EFTA. That report does not constitute the Federal Register publication required separately by Section 2(c)(2). The removals are, on their face, procedurally non-compliant with the statute regardless of whether any substantive carveout might apply to individual documents.
+As of this writing, no Federal Register notice has been published justifying the removal of ~64,000 documents. No unclassified summaries have been provided. On February 14, 2026, the Attorney General submitted a report to Congress listing categories of records released and withheld — the report required by Section 3 of the EFTA. That report does not constitute the Federal Register publication required separately by Section 2(c)(2). The removals are, on their face, procedurally non-compliant with the statute regardless of whether any substantive carveout might apply to individual documents.
 
 ### The DOJ's Stated Explanation
 
@@ -98,11 +106,35 @@ HTTP HEAD requests were sent to every document URL in the production. Scans were
 
 All scan results were merged using a priority system: HTTP 200 (document present) takes precedence over HTTP 404 (removed), which takes precedence over error codes. This ensures that if a document was accessible in any scan pass, it is counted as present.
 
-All 78,234 documents flagged as HTTP 404 were submitted to a second verification pass. False positives (documents that returned 404 initially but 200 on reverification) were reclassified as present.
+All 78,234 documents initially flagged as HTTP 404 were submitted to a second verification pass. False positives (documents that returned 404 initially but 200 on reverification) were reclassified as present, reducing the count to 67,784.
 
 ### Manual Playwright Verification
 
-Because the DOJ's Akamai CDN serves a JavaScript challenge page before delivering content, standard HTTP tools (curl, wget) can return misleading results. We confirmed a sample of removed documents by loading them in standard browser sessions using Playwright, a browser automation tool. Removed documents display the DOJ's standard 404 error page. Present documents load as PDFs.
+Because the DOJ's Akamai CDN serves a JavaScript challenge page before delivering content, standard HTTP tools (curl, wget) can return misleading results. The DOJ's age-verification gate returns HTTP 404 (not 302 or 200) to unauthenticated requests, which caused our initial scanner to misclassify approximately 10,450 live documents as removed. We confirmed removals by loading documents in browser sessions using Playwright (a browser automation tool) with both the Akamai bot-check cookie and the DOJ's `justiceGovAgeVerified` age-gate cookie. Removed documents display the DOJ's standard 404 error page with a `Last-Modified` date of September 2, 2025. Present documents load as PDFs with `Content-Type: application/pdf`.
+
+### Statistical Sampling Verification
+
+To quantify the residual false positive rate after the authenticated rescan, we drew a simple random sample of 500 documents from the 67,784 confirmed-404 population (random seed 42, uniform sampling). Each URL was checked sequentially (one request at a time, 0.3-second delay) via `fetch()` inside an authenticated Playwright Firefox session. Canary validation was performed every 50 requests: a known-live document (EFTA00000001, Dataset 1) was verified to return HTTP 200 with `Content-Type: application/pdf`, and a known-nonexistent document (EFTA99999999) was verified to return HTTP 404. All 10 canary checks passed.
+
+**Results (n=500):**
+
+| Verdict | Count | Rate |
+|---------|-------|------|
+| Confirmed removed (HTTP 404) | 474 | 94.8% |
+| Confirmed live (HTTP 200, PDF) | 26 | 5.2% |
+
+**Stratified analysis by `Last-Modified` header presence:**
+
+| Subgroup | Sampled | False Positives | FP Rate | Population Est. |
+|----------|---------|-----------------|---------|-----------------|
+| With `Last-Modified` header | 362 | 0 | 0.0% | ~47,430 |
+| Without `Last-Modified` header | 138 | 26 | 18.8% | ~20,354 |
+
+The false positives cluster entirely in the without-Last-Modified subgroup. These are documents where the age gate's 404 response is indistinguishable from a genuine removal based on headers alone. The with-Last-Modified group (documents whose 404 response carried a `Last-Modified: Tue, 02 Sep 2025` header matching the DOJ's standard error page) showed a 0% false positive rate across 362 samples.
+
+**Population estimate:** Applying the observed 5.2% false positive rate (26/500) to the full 67,784 yields an estimated **~64,259 genuinely removed documents** (95% confidence interval: 62,940-65,578, computed via normal approximation: SE = sqrt(p(1-p)/n), margin = 1.96 * SE * N).
+
+The sampling script, raw results CSV (500 rows), and source data are published on [GitHub](https://github.com/rhowardstone/Epstein-research-data/tree/main/doj_audit) for independent replication.
 
 ### Limitations
 
@@ -123,13 +155,16 @@ Because the DOJ's Akamai CDN serves a JavaScript challenge page before deliverin
 | Documents scanned | 1,365,677 | 98.89% |
 | Unscanned (Akamai blocked) | 15,264 | 1.11% |
 | **HTTP 200 (present)** | **1,284,829** | **93.04%** |
-| **HTTP 404 (REMOVED)** | **78,234** | **5.67%** |
+| **HTTP 404 (confirmed)** | **67,784** | **4.91%** |
+| **Estimated genuinely removed** | **~64,259** | **~4.65%** |
 | HTTP 401 (auth failure) | 2,614 | 0.19% |
 | Zero-byte files (200 but empty) | 26 | <0.01% |
 
+The initial scan flagged 78,234 documents as HTTP 404. An authenticated rescan reduced this to 67,784. Statistical sampling (see Methodology above) estimates ~3,525 residual false positives, yielding ~64,259 genuinely removed documents (95% CI: 62,940-65,578).
+
 ### Per-Dataset Breakdown
 
-| Dataset | Manifest | Scanned | Present | Removed | Removal Rate |
+| Dataset | Manifest | Scanned | Present | Removed (confirmed 404) | Removal Rate |
 |---------|----------|---------|---------|---------|--------------|
 | 1 | 3,158 | 3,158 | 3,147 | 11 | 0.35% |
 | 2 | 574 | 574 | 564 | 10 | 1.74% |
@@ -139,13 +174,13 @@ Because the DOJ's Akamai CDN serves a JavaScript challenge page before deliverin
 | 6 | 13 | 13 | 12 | 1 | 7.69% |
 | 7 | 17 | 17 | 17 | 0 | 0.00% |
 | 8 | 10,595 | 10,595 | 10,579 | 16 | 0.15% |
-| **9** | **531,284** | **516,020** | **439,790** | **76,230** | **14.77%** |
-| 10 | 503,154 | 503,154 | 499,464 | 1,076 | 0.21% |
+| **9** | **531,284** | **516,020** | **450,242** | **65,778** | **12.74%** |
+| 10 | 503,154 | 503,154 | 502,076 | 1,078 | 0.21% |
 | 11 | 331,655 | 331,655 | 330,777 | 878 | 0.26% |
 | 12 | 152 | 152 | 148 | 4 | 2.63% |
-| **TOTAL** | **1,380,941** | **1,365,677** | **1,284,829** | **78,234** | **5.73%** |
+| **TOTAL** | **1,380,941** | **1,365,677** | **1,297,893** | **67,784** | **4.96%** |
 
-Dataset 9 accounts for **97.4% of all removals** (76,230 of 78,234). This is the dataset that contains the bulk of the FBI investigative files, prosecutorial correspondence, Bureau of Prisons records, and grand jury materials — the categories of documents most directly responsive to the EFTA's disclosure mandate.
+Dataset 9 accounts for **97.0% of all confirmed 404s** (65,778 of 67,784). After applying the 5.2% false positive rate from statistical sampling, we estimate approximately 62,360 genuinely removed documents in Dataset 9 alone. This is the dataset that contains the bulk of the FBI investigative files, prosecutorial correspondence, Bureau of Prisons records, and grand jury materials — the categories of documents most directly responsive to the EFTA's disclosure mandate.
 
 ### Size Mismatch Analysis
 
@@ -159,7 +194,7 @@ Separately, we compared the Content-Length reported by the DOJ server for docume
 
 The complete scan results are published as open data on GitHub for independent verification and analysis:
 
-- **[FLAGGED_documents.csv](https://github.com/rhowardstone/Epstein-research-data/blob/main/doj_audit/FLAGGED_documents.csv)** — All 78,234 removed documents with EFTA number, justice.gov URL, dataset, page count, character count, and a first-page text preview from our PII-redacted OCR corpus.
+- **[CONFIRMED_REMOVED.csv](https://github.com/rhowardstone/Epstein-research-data/blob/main/doj_audit/CONFIRMED_REMOVED.csv)** — All 67,784 confirmed-404 documents with EFTA number, justice.gov URL, dataset, page count, scan metadata, and first-page text preview. Statistical sampling estimates ~5.2% are residual false positives from the age gate; 26 known false positives from the sample are flagged in the `sample_verified` column. See Statistical Sampling Verification above.
 - **[SIZE_MISMATCHES.csv](https://github.com/rhowardstone/Epstein-research-data/blob/main/doj_audit/SIZE_MISMATCHES.csv)** — All 23,989 documents with file size changes (20,276 reductions, 3,713 increases), including original size, current size, byte difference, and percentage change.
 
 The full OCR text of every document in the EFTA corpus is searchable at [epstein-data.com](https://epstein-data.com), where victim-identifying information has been redacted (2,099 instances across approximately 1,400 pages).
@@ -526,7 +561,7 @@ Together with the partial restoration analysis — which shows the DOJ selective
 
 ### The Dataset 9 Concentration
 
-The overwhelming concentration of removals in Dataset 9 (76,230 of 78,234, or 97.4%) is significant because Dataset 9 contains the FBI's investigative files, prosecutorial correspondence, Bureau of Prisons records, and grand jury materials. These are the categories of documents most directly responsive to the EFTA's nine disclosure categories. Datasets containing less sensitive material (depositions, court filings, public records) show removal rates below 1%.
+The overwhelming concentration of confirmed 404s in Dataset 9 (65,778 of 67,784, or 97.0%) is significant because Dataset 9 contains the FBI's investigative files, prosecutorial correspondence, Bureau of Prisons records, and grand jury materials. These are the categories of documents most directly responsive to the EFTA's nine disclosure categories. Datasets containing less sensitive material (depositions, court filings, public records) show removal rates below 1%.
 
 ---
 
@@ -560,7 +595,7 @@ We say this not to excuse the DOJ, but to underscore the scale of the problem *t
 
 ### 1. Procedural Non-Compliance
 
-The removal of 78,234 documents without published Federal Register justification violates Section 2(c)(2) of the EFTA on its face. The statute does not contain an exception for post-publication removal. Every withholding, every redaction requires written justification published in the Federal Register and submitted to Congress. The Attorney General's February 14, 2026 report to Congress — required by Section 3 — lists categories of withheld material but is not a Federal Register publication.
+The removal of approximately 64,000 documents without published Federal Register justification violates Section 2(c)(2) of the EFTA on its face. The statute does not contain an exception for post-publication removal. Every withholding, every redaction requires written justification published in the Federal Register and submitted to Congress. The Attorney General's February 14, 2026 report to Congress — required by Section 3 — lists categories of withheld material but is not a Federal Register publication.
 
 ### 2. Wholesale Removal vs. Narrowly Tailored Redaction
 
@@ -572,7 +607,7 @@ Section 2(b) prohibits withholding based on "embarrassment, reputational harm, o
 
 ### 4. Searchable and Downloadable Format
 
-Section 2(a) requires records be made available in "searchable and downloadable format." Removing 78,234 PDFs from the server makes them neither searchable nor downloadable. This is a straightforward violation of the accessibility mandate.
+Section 2(a) requires records be made available in "searchable and downloadable format." Removing approximately 64,000 PDFs from the server makes them neither searchable nor downloadable. This is a straightforward violation of the accessibility mandate.
 
 ---
 
@@ -580,7 +615,7 @@ Section 2(a) requires records be made available in "searchable and downloadable 
 
 ### Generated Data Files
 
-The complete scan data — including the full list of all 78,234 removed EFTA numbers — is preserved in our research archive. We are not publishing the complete document-level data at this time because our review identified extensive unredacted victim PII in multiple removed documents, and publishing the full list would direct public attention to those pages. The underlying data has been shared with investigative journalists who have the editorial infrastructure to handle victim-identifying material responsibly.
+The complete scan data — including the full list of all 67,784 confirmed-404 EFTA numbers — is preserved in our research archive. We are not publishing the complete document-level data at this time because our review identified extensive unredacted victim PII in multiple removed documents, and publishing the full list would direct public attention to those pages. The underlying data has been shared with investigative journalists who have the editorial infrastructure to handle victim-identifying material responsibly.
 
 ### Reproducibility
 
@@ -608,7 +643,7 @@ The scanning methodology is fully documented and the complete scan results are p
 
 The Epstein Files Transparency Act was enacted with bipartisan support because Congress determined that the Department of Justice's records relating to Jeffrey Epstein must be made available to the public. The statute defines five narrow carveouts, requires written Federal Register justification for any withholding, and categorically prohibits withholding based on embarrassment or political sensitivity.
 
-The DOJ published 1,380,941 documents. Then 78,234 of them disappeared — without Federal Register notice, without Congressional notification, without published justification. The DOJ has since quietly restored some of these documents, in at least two waves (January 30 and February 19, 2026), but critical categories remain removed.
+The DOJ published 1,380,941 documents. Then approximately 64,000 of them disappeared — without Federal Register notice, without Congressional notification, without published justification. The DOJ has since quietly restored some of these documents, in at least two waves (January 30 and February 19, 2026), but critical categories remain removed.
 
 Among the ten documents examined in detail above — totaling 5,667 pages, all confirmed removed as of February 21, 2026:
 
@@ -626,7 +661,7 @@ None of these documents contain victim PII. None have any plausible legal basis 
 
 The partial restoration pattern is itself an admission. Documents that were likely removed for legitimate PII concerns have been restored — presumably after re-review and re-redaction. But institutional accountability records about Epstein's death and the prosecution's conduct remain removed. The DOJ's removal process is not protecting victims. It is removing the records that show how the system worked — and failed.
 
-For the ten documents examined in full above, no lawful basis for removal exists under the statute. For all 78,234 removals, the procedural requirement of Federal Register notice was not followed. The complete list of removed documents has been shared with investigative journalists.
+For the ten documents examined in full above, no lawful basis for removal exists under the statute. For all ~64,000 genuine removals, the procedural requirement of Federal Register notice was not followed. The complete list of removed documents has been shared with investigative journalists.
 
 ---
 
