@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-On February 23, 2026, CBS News reported the existence of a 69-page DEA document ([EFTA00173953](https://www.justice.gov/epstein/files/DataSet%209/EFTA00173953.pdf)) — an OCDETF Fusion Center Target Profile dated May 18, 2015, prepared under the operation name "Chain Reaction" (OCDETF case NY-NYS-0829). The document reveals a multi-agency drug trafficking investigation targeting 15 individuals, including Jeffrey Epstein, involving approximately $50 million in suspicious wire transfers linked to "illicit drug and/or prostitution activities" in the U.S. Virgin Islands and New York City.
+On February 23, 2026, [CBS News reported](https://www.cbsnews.com/news/jeffrey-epstein-files-dea-document-drug-trafficking-investigation/) the existence of a 69-page DEA document ([EFTA00173953](https://www.justice.gov/epstein/files/DataSet%209/EFTA00173953.pdf)) — an OCDETF Fusion Center Target Profile dated May 18, 2015, prepared under the operation name "Chain Reaction" (OCDETF case NY-NYS-0829). The document reveals a multi-agency drug trafficking investigation targeting 15 individuals, including Jeffrey Epstein, involving approximately $50 million in suspicious wire transfers linked to "illicit drug and/or prostitution activities" in the U.S. Virgin Islands and New York City.
 
 CBS reported the document's existence and key contents. This report cross-references every non-redacted entity, account number, shell company, bank, law enforcement query, and linked investigation from the DEA profile against the full 2.73-million-page EFTA corpus. The cross-referencing reveals operational infrastructure CBS could not have identified from the single document alone — including a seven-year shell company used for payroll (438 documents), an aviation entity integrated into a constellation of eight controlled companies (3,802 documents), unexplained same-day NCIC queries from two Secret Service divisions, and evidence that Epstein's legal team was actively attempting to circumvent the federal sex offender travel notification system.
 
@@ -50,7 +50,7 @@ The DEA profile lists **SLK DESIGNS LLC** as one of Epstein's businesses (page 1
 
 CBS reported this as a single $20,000 transfer. The corpus reveals SLK Designs was a functioning seven-year operational entity:
 
-**Incorporation**: SLK Designs LLC was incorporated **September 15, 2009**, with EIN 80-0844023. This information was shared in an email from Lesley Groff to Bella Klein on July 25, 2013 ([EFTA02131473](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02131473.pdf)).
+**Incorporation**: SLK Designs LLC was incorporated **September 15, 2009**, with EIN 80-0844023. This information was shared in a July 25, 2013 email from Lesley Groff (with Bella Klein copied) ([EFTA02131473](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02131473.pdf)).
 
 **Banking**: A Deutsche Bank email from October 16, 2014 discusses opening a checking account for SLK Designs LLC, with banker Aracely Sanchez coordinating and Paul Morris (Managing Director, Deutsche Bank Private Bank) copied. The account opening was placed "on hold" pending an amendment to the LLC agreement to "reflect the new ownership structure" ([EFTA01423319](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01423319.pdf)). SLK Designs also maintained accounts at Citibank, through which JP Morgan processed wires of $5,744.57 (March 13, 2012; [EFTA01580774](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01580774.pdf)) and $30,000 (August 28, 2012; [EFTA01580588](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01580588.pdf)).
 
@@ -60,7 +60,7 @@ CBS reported this as a single $20,000 transfer. The corpus reveals SLK Designs w
 
 The same email notes that at least two people were on a health insurance plan "through SLK Designs as it required at least 2 employees to be on a plan."
 
-SLK Designs had no business cards. When asked in July 2013, the response was "No we have never had" any.
+SLK Designs had no business cards. When asked in September 2013, the response was "No we have never had" any ([EFTA02130337](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02130337.pdf)).
 
 ### 2. Hyperion Air, Inc. — The Aviation Entity (3,802 Documents)
 
@@ -72,11 +72,11 @@ The corpus reveals Hyperion Air was far more than a maintenance company. A JP Mo
 
 > "JEFFREY EPSTEIN: JEGE INC., HYPERION AIR, RANCH LAKE II, RANCH LAKE III, PLAN D INC., FINANCIAL TRUST CO., NES LLC, COLL Q FDN" ([EFTA01583574](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01583574.pdf))
 
-All accounts were managed by **Richard Kahn** and **Harry Beller** of HBRK Associates Inc. (301 East 66th Street, Suite 10F, New York, NY 10065).
+JP Morgan Online Administration records show both **Richard Kahn** ([EFTA01583578](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01583578.pdf)) and **Harry Beller** ([EFTA01583582](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01583582.pdf)) as account managers for the full entity constellation. Both were associated with HBRK Associates Inc. and Financial Trust Company.
 
 **The Bell 430 Helicopter**: The aircraft (S/N 49078) was located in Farnborough, England, listed on controller.com for $2,600,000, with 1,660 hours and 7 seats ([EFTA01845034](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01845034.pdf)). After acquisition, it was registered as **N331JE**. A wire instruction memo from Harry Beller directs JP Morgan to send $95,758.50 to Edwards Rotorcraft Solutions, Inc. for "Hyperion Air — Bell 430 Serial Number 49078 / Registration N331JE — Windshield" ([EFTA01579568](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01579568.pdf)). A separate wire of **$1,481,070** from the Hyperion Air account to Insured Aircraft Title Service via International Bank of Commerce, Laredo, TX was processed on March 5, 2012 ([EFTA01588882](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01588882.pdf)).
 
-Even from jail, Epstein managed Hyperion Air's financial arrangements. In an email, he directs: "another wire for pilot services for Hyperion air" and advises that "it would also be safer if the transfer did not come from the account that only contains your name" ([EFTA01755638](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01755638.pdf)).
+Even from jail, Epstein's aviation finances remained active. In a message to Epstein's jail email account, a correspondent writes about "another wire for pilot services for Hyperion air" and advises that "it would also be safer if the transfer did not come from the account that only contains your name" ([EFTA01755638](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01755638.pdf)).
 
 **Deutsche Bank Daily Deposit Report**: A December 12, 2013 report from RM CODE 81851 shows the full constellation of Epstein entities held at Deutsche Bank, with Hyperion Air maintaining balances across two accounts — HYPERION AIR, LLC ($100,268.92) and HYPERION AIR, INC ($407,750.00) — alongside Jeffrey Epstein's personal account 35266976 ($1,319,266.98) and 20+ other entity accounts including Southern Trust Company ($26,714,393.28) ([EFTA01450526](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01450526.pdf)).
 
@@ -86,7 +86,7 @@ The DEA profile reveals that Operation Chain Reaction was designated as an OCDET
 
 **2006 Indictment Cover Sheet** ([EFTA00214563](https://www.justice.gov/epstein/files/DataSet%209/EFTA00214563.pdf)): The SDFL "Indictment/Information/Rule 20 Approval Cover Sheet" for "JEFFREY EPSTEIN, et al" (LIONS USAO NO. 2006R01181) contains a checklist of case designations. The **OCDETF** checkbox is blank. The estimated number of victims is listed as 19 persons, with 40 witnesses subpoenaed. AUSA King participated in the case.
 
-**2009 Sealed Indictment Cover Sheet** ([EFTA00224444](https://www.justice.gov/epstein/files/DataSet%209/EFTA00224444.pdf)): A second cover sheet dated June 8, 2009, marked SEALED, again shows the OCDETF checkbox **blank**. However, the **PSC (Project Safe Childhood)** checkbox is marked with an X. The estimated number of victims has increased to **33 persons**. The case was presented on "Tuesday, June 16, 2009."
+**2009 Sealed Indictment Cover Sheet** ([EFTA00224444](https://www.justice.gov/epstein/files/DataSet%209/EFTA00224444.pdf)): A second cover sheet dated June 8, 2009, accompanied by a motion to seal and sealed order, again shows the OCDETF checkbox **blank**. However, the **PSC (Project Safe Childhood)** checkbox is marked with an X. The estimated number of victims has increased to **33 persons**. The case was presented on "Tuesday, June 16, 2009."
 
 The OCDETF designation carries significant investigative implications — it triggers multi-agency coordination, access to the OCDETF Fusion Center's databases, and enhanced federal funding. The 2006-2009 prosecution proceeded without these resources. The DEA's 2015 target profile under a separate OCDETF case number (NY-NYS-0829) represents an entirely different investigative track that apparently ran parallel to — and unknown to — the SDNY prosecutors who brought the 2019 case.
 
@@ -147,7 +147,7 @@ The DEA profile lists Epstein's financial accounts across seven institutions in 
 
 **Fortis Banque, Paris** (3 documents): Located at 80 Avenue Marceau, Paris 75008. FBAR transcripts reveal account number **00037331814** with values of $30,030 (2008) growing to $202,270 (2009) — a nearly sevenfold increase in one year ([EFTA01656576](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01656576.pdf)).
 
-**BNP Paribas, Paris** (501 documents): Epstein maintained an active personal account receiving regular EUR 75,000 transfers ([EFTA01450163](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01450163.pdf)). The account was also used for third-party payments, including EUR 4,000 to "MLLE ZHU WANDI" ([EFTA01365988](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01365988.pdf)). An iMessage introduction connected Epstein to "Jean-Christophe Durand, BNP Paribas" ([EFTA01614264](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01614264.pdf)).
+**BNP Paribas, Paris** (501 documents): Epstein maintained an active personal account receiving regular EUR 75,000 transfers ([EFTA01450163](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01450163.pdf)). The account was also used for third-party payments, including EUR 4,000 to "MLLE ZHU WANDI" ([EFTA01365988](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01365988.pdf) — [OCR text](https://epstein-data.com/full_text_corpus/pages?efta_number=EFTA01365988)). An iMessage introduction connected Epstein to "Jean-Christophe Durand, BNP Paribas" ([EFTA01614264](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01614264.pdf)).
 
 **Highbridge Capital Corporation, Grand Cayman** (607 documents): This was Glenn Dubin's hedge fund. An email is signed by Dubin as "Chairman and Chief Executive Officer, HIGHBRIDGE CAPITAL MANAGEMENT, LLC, 40 West 57th Street - 33rd Floor" ([EFTA01866715](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01866715.pdf)). Credit Suisse statements show a joint "HIGHBRIDGE CAPITAL MANAGEMENT - FTC / FINANCIAL TRUST COMPANY INC" account with trading activity in European monetary units ([EFTA01581994](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01581994.pdf)). A Highbridge employee, Kipp Mohr, coordinated personal errands with Epstein's assistant Lesley Groff ([EFTA02190567](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02190567.pdf)).
 
@@ -241,8 +241,9 @@ The operation name "Chain Reaction" appears in **zero** other documents across t
 - All EFTA citations were verified against the `full_text_corpus.db` database. Dataset assignments were confirmed via SQL query.
 - Document counts (e.g., "438 documents" for SLK Designs) represent distinct EFTA numbers containing the search term, not page counts.
 - Redacted names and identifying information from the DEA profile are not reproduced here. Where the profile redacts a name, this report uses "[redacted name]" or describes the individual by role.
+- Quoted passages from the corpus are drawn from OCR-processed text. Where OCR artifacts are obvious (e.g., garbled street numbers, transposed letters in names), corrections are made silently when the intended text is unambiguous from context. Original OCR text is preserved in the database and can be verified at `epstein-data.com/full_text_corpus/pages?efta_number=EFTA...`.
 - The recurring USAR amounts ($4,193,637 and $4,079,102) and Operation Chain Reaction's name returned zero cross-references outside EFTA00173953, which limits the ability to connect the DEA investigation's financial findings to specific transactions elsewhere in the corpus.
-- CBS News first reported on this document on February 23, 2026. This cross-reference analysis was conducted the same day.
+- CBS News [first reported](https://www.cbsnews.com/news/jeffrey-epstein-files-dea-document-drug-trafficking-investigation/) on this document on February 23, 2026. This cross-reference analysis was conducted the same day.
 
 ---
 
