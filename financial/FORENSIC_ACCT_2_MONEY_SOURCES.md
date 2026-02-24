@@ -246,7 +246,7 @@ This phrase appears on page 17 of at least four separate EFTA documents in the c
 Wexner is the ONLY billionaire identified in these documents as a source of Epstein's wealth. However:
 - No specific transfer amount from Wexner TO Epstein is documented in the financial records
 - The $46M charitable donation went FROM Epstein (or an entity) TO maintain the relationship -- suggesting Epstein had independent wealth by that point
-- No Power of Attorney document over Wexner's finances was found in this database (only a generic POA form at [EFTA01480247](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01480247.pdf))
+- No Power of Attorney document over Wexner's finances was found in this database (EFTA01480247 is actually Epstein granting Maxwell POA over his own JPMorgan accounts, not a Wexner-Epstein POA)
 
 ---
 

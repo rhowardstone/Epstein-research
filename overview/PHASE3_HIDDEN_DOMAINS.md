@@ -39,7 +39,7 @@ Phase III searched for hidden connections across nine domain categories using ke
 - **19 EFTA documents** reference "New Albany OH 43054" -- Wexner's estate address appears across Epstein's banking and financial records, confirming deep financial entanglement
 
 ### Power of Attorney
-- **[EFTA01480247](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01480247.pdf)** - "POWER OF ATTORNEY IS AN IMPORTANT LEGAL DOCUMENT" -- the sweeping POA Wexner granted Epstein
+- **[EFTA01480247](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01480247.pdf)** - JPMorgan Durable Power of Attorney: Epstein authorizing Ghislaine Maxwell as agent over all his JPMorgan banking, brokerage, custody, and investment accounts
 
 ### Abigail Wexner
 - Referenced alongside Leslie in multiple "Prominent Names" documents

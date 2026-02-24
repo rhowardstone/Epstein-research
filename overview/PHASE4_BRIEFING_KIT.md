@@ -420,7 +420,7 @@ These documents should be prioritized for reading room review:
 | [EFTA02731737](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731737.pdf) | DANY/SDNY coordination memo | "Do not doubt allegations against JE and LB" |
 | [EFTA00014526](https://www.justice.gov/epstein/files/DataSet%208/EFTA00014526.pdf) | Victoria's Secret/Razek connection | Young women at mansion |
 | [EFTA01649190](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01649190.pdf) | MCC camera system documentation | DVR failure timeline |
-| [EFTA01480247](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01480247.pdf) | Power of Attorney document | Wexner-Epstein legal instrument |
+| [EFTA01480247](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01480247.pdf) | JPMorgan Durable POA | Epstein authorizing Maxwell over his JPM accounts |
 | [EFTA01273082](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01273082.pdf) | Jeepers Inc. documents | Shell company linked to Dubin |
 
 ---
