@@ -13,7 +13,7 @@ On July 13, 2017, Acting U.S. Attorney Joon H. Kim signed a grand jury subpoena 
 
 This subpoena is the **only document in the entire 2.73M-page EFTA production that mentions helpfulexperts.com**. The domain never appears in any seized email, financial record, or investigative memo. Despite being registered for 19 years, it has zero Google search results, zero media mentions, and zero Wayback Machine content snapshots. Yet as of December 2025, someone is still paying to maintain it — with all four domain protection flags enabled.
 
-Every public source — PBS, NBC, NPR, the FBI's own records — states that the SDNY Epstein investigation began on **December 6, 2018**, prompted by the Miami Herald's "Perversion of Justice" series. This subpoena proves that SDNY had an **active grand jury investigation 17 months earlier**, operating under a different case number and different statutory authority. The public timeline of the Epstein investigation is wrong.
+Every public source — [PBS](https://www.pbs.org/newshour/politics/a-timeline-of-the-jeffrey-epstein-investigation-and-the-fight-to-make-the-governments-files-public), [NBC](https://www.nbcnews.com/news/us-news/jeffrey-epstein-investigation-timeline-n1033456), NPR, the [FBI's own records](https://www.justsecurity.org/132230/fbi-stand-down-directive-epstein-timeline/) — states that the SDNY Epstein investigation began on **December 6, 2018**, prompted by the Miami Herald's ["Perversion of Justice"](https://www.miamiherald.com/news/local/article220097825.html) series. This subpoena proves that SDNY had an **active grand jury investigation 17 months earlier**, operating under a different case number and different statutory authority. The public timeline of the Epstein investigation is wrong.
 
 ---
 
@@ -84,14 +84,14 @@ Yet the subpoena appears in the EFTA production. The DOJ produced only documents
 
 Every authoritative public source dates the SDNY Epstein investigation to late 2018:
 
-- **PBS**: "FBI agents and the U.S. attorney's office in Manhattan began a new investigation into Epstein" on **December 6, 2018**
-- **NBC News**: "In late 2018, a series of Miami Herald stories about the plea deal prompted federal prosecutors to take a fresh look"
-- **FBI Records** (per Just Security): "On 12/06/2018, FBI NY initiated a case after Southern District of New York (SDNY) contacted FBI NY regarding several victims"
-- **Just Security / Lawfare**: Investigation timeline begins with the Miami Herald's November 2018 "Perversion of Justice" series
+- **[PBS](https://www.pbs.org/newshour/politics/a-timeline-of-the-jeffrey-epstein-investigation-and-the-fight-to-make-the-governments-files-public)**: "FBI agents and the U.S. attorney's office in Manhattan began a new investigation into Epstein" on **December 6, 2018**
+- **[NBC News](https://www.nbcnews.com/news/us-news/jeffrey-epstein-investigation-timeline-n1033456)**: "In late 2018, a series of Miami Herald stories about the plea deal prompted federal prosecutors to take a fresh look"
+- **FBI Records** (per [Just Security](https://www.justsecurity.org/132230/fbi-stand-down-directive-epstein-timeline/)): "On 12/06/2018, FBI NY initiated a case after Southern District of New York (SDNY) contacted FBI NY regarding several victims"
+- **[Just Security](https://www.justsecurity.org/132230/fbi-stand-down-directive-epstein-timeline/)**: Investigation timeline begins with the Miami Herald's November 2018 ["Perversion of Justice"](https://www.miamiherald.com/news/local/article220097825.html) series
 
 This subpoena proves that SDNY had an active grand jury — with a signed non-disclosure order, a specific target (helpfulexperts.com), and identified statutes (fraud) — in **July 2017**. This predates:
 
-- The Miami Herald's "Perversion of Justice" series by **16 months** (November 28, 2018)
+- The Miami Herald's ["Perversion of Justice"](https://www.miamiherald.com/news/local/article220097825.html) series by **16 months** (November 28, 2018)
 - The publicly reported FBI case opening by **17 months** (December 6, 2018)
 - Epstein's SDNY arrest by **24 months** (July 6, 2019)
 
@@ -99,11 +99,11 @@ This subpoena proves that SDNY had an active grand jury — with a signed non-di
 
 The subpoena was signed during a specific political window:
 
-- **March 11, 2017**: President Trump fires Preet Bharara as SDNY U.S. Attorney (after Bharara refuses to resign)
-- **March 11, 2017**: Joon H. Kim, Deputy U.S. Attorney, becomes Acting U.S. Attorney
+- **[March 11, 2017](https://www.npr.org/2017/03/11/519845829/u-s-attorney-preet-bharara-fired-after-refusing-to-resign)**: President Trump fires Preet Bharara as SDNY U.S. Attorney (after Bharara refuses to resign)
+- **March 11, 2017**: Joon H. Kim, Deputy U.S. Attorney, [becomes Acting U.S. Attorney](https://en.wikipedia.org/wiki/Joon_Kim)
 - **July 12-13, 2017**: Kim signs the helpfulexperts subpoena
-- **January 5, 2018**: Geoffrey Berman takes over as Interim U.S. Attorney; Kim's acting period ends
-- **November 2018**: Miami Herald publishes "Perversion of Justice"
+- **[January 5, 2018](https://www.justice.gov/usao-sdny/pr/attorney-general-jeff-sessions-appoints-geoffrey-s-berman-interim-united-states)**: Geoffrey Berman takes over as Interim U.S. Attorney; Kim's acting period ends
+- **November 2018**: Miami Herald publishes ["Perversion of Justice"](https://www.miamiherald.com/news/local/article220097825.html)
 - **December 6, 2018**: FBI NY opens the sex-trafficking case
 - **July 6, 2019**: Epstein arrested
 
@@ -178,7 +178,7 @@ Visiting helpfulexperts.com in a browser (verified February 24, 2026) produces:
 2. HTTP 302 redirect to `partnerpage.google.com/helpfulexperts.com`
 3. Google 404 error
 
-The `partnerpage.google.com` service was Google's AdSense for Domains program, which displayed advertisements on parked custom domains. Google shut down this service effective February 10, 2026.
+The `partnerpage.google.com` service was Google's AdSense for Domains program, which displayed advertisements on parked custom domains. [Google shut down this service](https://domainnamewire.com/2025/12/31/2025-in-review-the-death-of-adsense-for-domains/) effective February 10, 2026.
 
 ---
 
@@ -264,7 +264,7 @@ The existence of case number 2017R00550 proves that SDNY was investigating Epste
 
 ### 2. The Fraud-to-Trafficking Pivot
 
-The shift from §§ 1341/1343 (fraud) to §§ 1591/371 (trafficking/conspiracy) between 2017 and 2018 suggests the investigation's focus evolved. Bloomberg reported in October 2025 that the original 2007 Florida investigation had a money-laundering probe examining "every financial transaction conducted by Epstein and his six businesses" dating to 2003. The 2017 fraud statutes are consistent with a financial investigation that predated the trafficking focus.
+The shift from §§ 1341/1343 (fraud) to §§ 1591/371 (trafficking/conspiracy) between 2017 and 2018 suggests the investigation's focus evolved. [Bloomberg reported in October 2025](https://www.bloomberg.com/features/2025-jeffrey-epstein-emails-money-laundering-charges/) that the original 2007 Florida investigation had a money-laundering probe examining "every financial transaction conducted by Epstein and his six businesses" dating to 2003. The 2017 fraud statutes are consistent with a financial investigation that predated the trafficking focus.
 
 ### 3. helpfulexperts.com Was Communication Infrastructure
 
@@ -308,3 +308,21 @@ Despite triggering the first subpoena in the investigation, "helpfulexperts" nev
 5. **Media coverage**: Zero results as of February 24, 2026. No journalist, researcher, or commentator has ever publicly written about helpfulexperts.com, the July 2017 subpoena, USAO reference 2017R00550, or the pre-December 2018 phase of the SDNY investigation.
 
 6. **Analytical neutrality**: The report presents what the documents show. The 524-day gap may reflect sealed proceedings, a dormant investigation, or records filed under a separate case number. The absence of a Google return may reflect sealed filings or negative results. We state what can be verified and identify what remains unknown.
+
+---
+
+## External Sources
+
+All external claims in this report are independently verifiable:
+
+| Claim | Source |
+|-------|--------|
+| SDNY investigation began December 6, 2018 | [PBS NewsHour Timeline](https://www.pbs.org/newshour/politics/a-timeline-of-the-jeffrey-epstein-investigation-and-the-fight-to-make-the-governments-files-public) |
+| Miami Herald prompted federal re-examination | [NBC News Timeline](https://www.nbcnews.com/news/us-news/jeffrey-epstein-investigation-timeline-n1033456) |
+| FBI NY initiated case 12/06/2018 per FBI records | [Just Security — FBI Stand-Down Directive Timeline](https://www.justsecurity.org/132230/fbi-stand-down-directive-epstein-timeline/) |
+| Miami Herald "Perversion of Justice" series (Nov 2018) | [Miami Herald](https://www.miamiherald.com/news/local/article220097825.html) |
+| Preet Bharara fired March 11, 2017 | [NPR](https://www.npr.org/2017/03/11/519845829/u-s-attorney-preet-bharara-fired-after-refusing-to-resign) |
+| Joon H. Kim became Acting U.S. Attorney | [Wikipedia — Joon Kim](https://en.wikipedia.org/wiki/Joon_Kim) |
+| Geoffrey Berman appointed January 5, 2018 | [DOJ Press Release](https://www.justice.gov/usao-sdny/pr/attorney-general-jeff-sessions-appoints-geoffrey-s-berman-interim-united-states) |
+| 2007 Florida money-laundering probe | [Bloomberg (Oct 2025)](https://www.bloomberg.com/features/2025-jeffrey-epstein-emails-money-laundering-charges/) |
+| Google AdSense for Domains shutdown | [Domain Name Wire](https://domainnamewire.com/2025/12/31/2025-in-review-the-death-of-adsense-for-domains/) |
