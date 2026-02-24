@@ -99,10 +99,10 @@ This subpoena proves that SDNY had an active grand jury — with a signed non-di
 
 The subpoena was signed during a specific political window:
 
-- **March 10, 2017**: President Trump fires Preet Bharara as SDNY U.S. Attorney
-- **March 2017**: Joon H. Kim becomes Acting U.S. Attorney
+- **March 11, 2017**: President Trump fires Preet Bharara as SDNY U.S. Attorney (after Bharara refuses to resign)
+- **March 11, 2017**: Joon H. Kim, Deputy U.S. Attorney, becomes Acting U.S. Attorney
 - **July 12-13, 2017**: Kim signs the helpfulexperts subpoena
-- **January 2018**: Kim's 300-day acting period expires; Geoffrey Berman takes over
+- **January 5, 2018**: Geoffrey Berman takes over as Interim U.S. Attorney; Kim's acting period ends
 - **November 2018**: Miami Herald publishes "Perversion of Justice"
 - **December 6, 2018**: FBI NY opens the sex-trafficking case
 - **July 6, 2019**: Epstein arrested
