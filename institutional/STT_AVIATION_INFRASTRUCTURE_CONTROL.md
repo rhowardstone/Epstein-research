@@ -136,7 +136,7 @@ Danny Vicars served dual roles as LSJE's **Boat Captain** and **Maintenance Supe
 
 ### Cecile de Jongh — The Governor's Wife
 
-Cecile de Jongh, wife of USVI Governor John de Jongh Jr. ([2007–2015](https://en.wikipedia.org/wiki/John_de_Jongh_Jr.)), served as Epstein's primary USVI fixer. JPMorgan Chase lawyers described her, per the VI Daily News, as:
+Cecile de Jongh, wife of USVI Governor John de Jongh Jr. ([2007–2015](https://en.wikipedia.org/wiki/John_de_Jongh_Jr.)), served as Epstein's primary USVI fixer. JPMorgan Chase lawyers described her, per the [VI Daily News](https://www.virginislandsdailynews.com/news/court-filing-accuses-former-first-lady-of-acting-as-epsteins-local-fixer/article_3cdf114c-2706-50d7-8019-de1f7baceb59.html), as:
 
 > "Epstein's primary conduit for spreading money and influence throughout the USVI government."
 
@@ -345,7 +345,7 @@ Two documents in this investigation have been confirmed removed from justice.gov
 | **EFTA01204007** | Deckoff's business card | 1 | Tue, 02 Sep 2025 |
 | **EFTA00304462** | Operations to-do list documenting Cecile de Jongh's airport infrastructure coordination and EDC risk warning | 27 | Tue, 02 Sep 2025 |
 
-Both removals have the characteristic `Last-Modified: Tue, 02 Sep 2025` header that predates the EFTA production, confirming genuine removal (0% false positive rate per statistical analysis).
+Both removals have the characteristic `Last-Modified: Tue, 02 Sep 2025` header that predates the EFTA production, confirming genuine removal (0% false positive rate per [statistical analysis](https://epstein-data.com/reports/institutional/DOJ_DOCUMENT_REMOVAL_AUDIT.html)).
 
 The removal of a single business card is notable because business cards are among the most innocuous documents in the production. Of 1.38 million documents, only ~64,000 were removed. The business card's removal may reflect automated batch processing rather than targeted deletion.
 

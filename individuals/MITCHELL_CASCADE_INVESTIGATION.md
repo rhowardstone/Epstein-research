@@ -45,9 +45,9 @@ This narrative traces every documented payment, communication, and connection.
 
 Mitchell is named as **CO-EXECUTOR** alongside:
 - **Darren K. Indyke** -- Epstein's personal attorney
-- **James E. Staley** -- CEO of Barclays Bank (later forced out over Epstein ties)
+- **James E. Staley** -- CEO of Barclays Bank ([later forced out over Epstein ties](https://www.reuters.com/business/barclays-ceo-staley-steps-down-2021-11-01/))
 
-**Successor Executor:** Lawrence H. Summers -- Former U.S. Secretary of the Treasury
+**Successor Executor:** [Lawrence H. Summers](https://en.wikipedia.org/wiki/Lawrence_Summers) -- Former U.S. Secretary of the Treasury
 
 **[EFTA00016876](https://www.justice.gov/epstein/files/DataSet%208/EFTA00016876.pdf) -- 2013 Will (Earlier Version):**
 
@@ -385,7 +385,7 @@ A critical cluster of documents ([EFTA02182891](https://www.justice.gov/epstein/
 - Recipient includes: "Boehly Todd"
 - "Hope you are well"
 
-**Analysis:** This cluster establishes that in September 2011, David Mitchell was coordinating something related to Peter Mandelson (spelled "Mandelsohn"), and the correspondence included **Todd Boehly** (now owner of Chelsea FC, then a Guggenheim Partners executive). DS9 provides the complete email chain including the originating message ([EFTA00427774](https://www.justice.gov/epstein/files/DataSet%209/EFTA00427774.pdf)): Mitchell asked Boehly about **"bringing Peter into the Irish situation"** -- a specific business proposal, not merely a social introduction. The meeting was originally planned as in-person at Boehly's office (Guggenheim Partners) but was converted to a conference call with Epstein as the moderator ("JE LEADER"). Emily Curtis (Boehly's assistant) notably asked: "can you please remind me of Jeffrey's last name?" -- indicating Curtis did not previously know Epstein.
+**Analysis:** This cluster establishes that in September 2011, David Mitchell was coordinating something related to Peter Mandelson (spelled "Mandelsohn"), and the correspondence included **Todd Boehly** ([now owner of Chelsea FC](https://en.wikipedia.org/wiki/Todd_Boehly), then a Guggenheim Partners executive). DS9 provides the complete email chain including the originating message ([EFTA00427774](https://www.justice.gov/epstein/files/DataSet%209/EFTA00427774.pdf)): Mitchell asked Boehly about **"bringing Peter into the Irish situation"** -- a specific business proposal, not merely a social introduction. The meeting was originally planned as in-person at Boehly's office (Guggenheim Partners) but was converted to a conference call with Epstein as the moderator ("JE LEADER"). Emily Curtis (Boehly's assistant) notably asked: "can you please remind me of Jeffrey's last name?" -- indicating Curtis did not previously know Epstein.
 
 Additionally, DS9 calendar evidence ([EFTA00304706](https://www.justice.gov/epstein/files/DataSet%209/EFTA00304706.pdf)) establishes a **February 4, 2011 breakfast** at Epstein's residence: "8:10 Breakfast with David Mitchell and Peter Mandelson." This predates the September 2011 email chain by 7 months and is the first documented in-person meeting among Mitchell, Mandelson, and Epstein.
 
@@ -400,12 +400,12 @@ The documents establish extensive Epstein-Mandelson contact:
 **[EFTA02434424](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02434424.pdf) (November 1, 2009):**
 - Mandelson to Epstein re: "Moscow City penthouse"
 - Mandelson offers: "Oleg has a great woman who looks after a number of things for him (!) including property. Shall I forward to her for her perusal and view?"
-- "Oleg" is very likely **Oleg Deripaska**, the Russian oligarch with whom Mandelson has acknowledged a social relationship
+- "Oleg" is very likely **[Oleg Deripaska](https://en.wikipedia.org/wiki/Oleg_Deripaska)**, the Russian oligarch with whom [Mandelson has acknowledged a social relationship](https://www.theguardian.com/politics/2008/oct/22/mandelson-deripaska-yacht)
 - This shows Mandelson acting as **intermediary** between Epstein and Russian oligarch property contacts
 
 **[EFTA02434434](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02434434.pdf) (December 9, 2009):**
 - Lesley Groff (Epstein's executive assistant) emails: "Jes Staley is wondering time and place for drinks this sat with Peter Mandelson and yourself?"
-- This places Mandelson socializing with both Epstein and **Jes Staley** (then JP Morgan executive, later Barclays CEO, and co-executor of Epstein's will)
+- This places Mandelson socializing with both Epstein and **Jes Staley** (then JP Morgan executive, [later Barclays CEO](https://www.reuters.com/business/barclays-ceo-staley-steps-down-2021-11-01/), and co-executor of Epstein's will)
 
 **[EFTA02439459](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02439459.pdf) (June 27, 2009):**
 - Communication from Epstein to Peter Mandelson: "recorded message"
@@ -499,7 +499,7 @@ Larry Delson managed financial relationships for Epstein that included advisory 
 
 - Delson managed international advisory payments for Epstein
 - Mandelson "joined the advisory" ([EFTA01744877](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01744877.pdf) fragment)
-- Mandelson operated through Global Counsel LLP (38 Wigmore Street, London)
+- Mandelson operated through [Global Counsel LLP](https://find-and-update.company-information.service.gov.uk/company/OC359787) (38 Wigmore Street, London)
 - The "Peter Mandelsohn" thread involving Mitchell suggests an advisory arrangement was being coordinated
 - "Eileen" (Alexanderson), who appears alongside Delson, was responsible for payments that "were not going to be paid"
 
@@ -509,7 +509,7 @@ Larry Delson managed financial relationships for Epstein that included advisory 
 
 ### 8.1 Identity Distinction
 
-**George J. Mitchell** -- Former U.S. Senator from Maine (1980-1995), Senate Majority Leader (1989-1995), later Chairman of DLA Piper. He is an entirely different individual from David J. Mitchell.
+**[George J. Mitchell](https://en.wikipedia.org/wiki/George_J._Mitchell)** -- Former U.S. Senator from Maine (1980-1995), Senate Majority Leader (1989-1995), later Chairman of DLA Piper. He is an entirely different individual from David J. Mitchell.
 
 ### 8.2 Abuse Allegations
 
@@ -529,7 +529,7 @@ This document is marked "CONFIDENTIAL FOR ATTORNEY'S EYES ONLY -- DO NOT COPY" a
 
 ### 8.3 No Financial Records Found
 
-Unlike David J. Mitchell, George Mitchell does not appear in the Deutsche Bank wire transfer records ([EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf)). No direct financial transactions between Epstein and George Mitchell were found in the databases searched. George Mitchell has publicly denied the allegations.
+Unlike David J. Mitchell, George Mitchell does not appear in the Deutsche Bank wire transfer records ([EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf)). No direct financial transactions between Epstein and George Mitchell were found in the databases searched. George Mitchell has [publicly denied the allegations](https://www.pressherald.com/2019/08/09/former-u-s-sen-george-mitchell-denies-allegations-made-by-epstein-victim/).
 
 ### 8.4 George Mitchell -- No Connection to David Mitchell
 
@@ -701,7 +701,7 @@ Mandelson's emails from 2013 onward carry the signature:
 > 38 Wigmore Street, London, W1U 2RU
 > www.global-counsel.co.uk
 
-Global Counsel LLP (registered in England, number OC359787) was Mandelson's advisory firm. The nature of any advisory relationship between Global Counsel and Epstein entities remains unclear from these documents but is strongly suggested by the [EFTA01744877](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01744877.pdf) fragment: "Mandelson has joined the ad[visory]..."
+[Global Counsel LLP](https://find-and-update.company-information.service.gov.uk/company/OC359787) (registered in England, number OC359787) was [Mandelson](https://en.wikipedia.org/wiki/Peter_Mandelson)'s advisory firm. The nature of any advisory relationship between Global Counsel and Epstein entities remains unclear from these documents but is strongly suggested by the [EFTA01744877](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01744877.pdf) fragment: "Mandelson has joined the ad[visory]..."
 
 ---
 

@@ -2,11 +2,11 @@
 
 ## Executive Summary
 
-HBRK Associates, Inc. was a New York corporation incorporated on August 29, 2008 (DOS ID 3714818) by its two principals: **H**arry **B**eller and **R**ichard **K**ahn. Registered at Richard Kahn's personal residence (1365 York Avenue, Apt. 28, NYC), HBRK operated as the central management office for the entire Epstein financial and property empire — handling wire transfers, construction oversight, payroll, trust administration, investment advisory, vendor payments, and personnel management across at least 39 separate entities and six properties.
+HBRK Associates, Inc. was a New York corporation incorporated on August 29, 2008 ([DOS ID 3714818](https://apps.dos.ny.gov/publicInquiry/)) by its two principals: **H**arry **B**eller and **R**ichard **K**ahn. Registered at Richard Kahn's personal residence (1365 York Avenue, Apt. 28, NYC), HBRK operated as the central management office for the entire Epstein financial and property empire — handling wire transfers, construction oversight, payroll, trust administration, investment advisory, vendor payments, and personnel management across at least 39 separate entities and six properties.
 
 The corpus contains **35,919 documents** mentioning HBRK — one of the largest footprints of any entity in the EFTA production. Yet HBRK Associates has received zero independent investigative reporting. Media coverage universally describes Richard Kahn as Epstein's "accountant." The documents show his actual title was **"Project Manager"** ([EFTA00003149](https://www.justice.gov/epstein/files/DataSet%201/EFTA00003149.pdf)), and his role encompassed contract negotiation, vendor management, investment advisory, and operational oversight of a multi-property development operation.
 
-The trajectory is the story: Richard Kahn went from managing pool contractors and negotiating yacht purchases through HBRK to becoming **co-trustee of Epstein's $577 million estate** on August 8, 2019 — two days before Epstein's death — with a personal bequest of $25 million. The 1953 Trust's Section 2.5 contains a provision specifically naming HBRK Associates that effectively locked every employee into silence for two years after Epstein's death, on pain of forfeiting their bequests.
+The trajectory is the story: Richard Kahn went from managing pool contractors and negotiating yacht purchases through HBRK to becoming **co-trustee of Epstein's [$577 million estate](https://www.nbcnews.com/news/crime-courts/jeffrey-epstein-signed-new-will-just-two-days-he-died-n1044176)** on August 8, 2019 — two days before Epstein's death — with a personal bequest of $25 million. The 1953 Trust's Section 2.5 contains a provision specifically naming HBRK Associates that effectively locked every employee into silence for two years after Epstein's death, on pain of forfeiting their bequests.
 
 **Emad Hanna** served as HBRK's "Project Controller" from approximately 2009 to 2014, managing construction payment processing for Little Saint James island. His role was explicitly limited by Epstein to "pictures and report period" — financial tracking with zero construction authority. He left the operation by 2014 and does not appear in the 1953 Trust.
 
@@ -91,7 +91,7 @@ HBRK's banking history mirrors Epstein's progression through three major institu
 
 **TD Bank, NA (2019+)**
 - Routing: 031101266 (Wilmington, DE)
-- HBRK sub-accounts moved here after Deutsche Bank exit
+- HBRK sub-accounts moved here after [Deutsche Bank exit](https://www.bloomberg.com/news/articles/2020-07-07/deutsche-bank-s-epstein-lapses-spur-150-million-penalty-in-n-y)
 - Account name: "HBRK Associates Inc LSJE" (account 4332217565) ([EFTA01273181](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01273181.pdf), pg 11)
 
 ### The Wire Transfer Mechanism
@@ -160,7 +160,7 @@ Subsequent capitalization: $250,000 on July 15, 2009 ([EFTA01579059](https://www
 
 ### Post-Arrest Consolidation
 
-On December 12, 2019 — five months after Epstein's arrest and four months after his death — seven shell entities were consolidated back into Southern Trust Company through HBRK accounts at TD Bank ([EFTA01273155](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01273155.pdf), pp. 16–22):
+On December 12, 2019 — five months after [Epstein's arrest](https://www.justice.gov/usao-sdny/pr/jeffrey-epstein-charged-manhattan-federal-court-sex-trafficking-minors) and four months after [his death](https://en.wikipedia.org/wiki/Death_of_Jeffrey_Epstein) — seven shell entities were consolidated back into Southern Trust Company through HBRK accounts at TD Bank ([EFTA01273155](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01273155.pdf), pp. 16–22):
 
 | Entity | Amount |
 |--------|--------|
@@ -173,7 +173,7 @@ On December 12, 2019 — five months after Epstein's arrest and four months afte
 | JEGE | $922,789.01 |
 | **Total** | **$9,238,007.10** |
 
-Eleven days later, on December 23, 2019, $13,000,000 was transferred from Southern Trust to Interactive Brokers LLC in Greenwich, CT, for placement in an interest-bearing money market account ([EFTA01273155](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01273155.pdf), pg 23).
+Eleven days later, on December 23, 2019, $13,000,000 was transferred from Southern Trust to [Interactive Brokers](https://en.wikipedia.org/wiki/Interactive_Brokers) LLC in Greenwich, CT, for placement in an interest-bearing money market account ([EFTA01273155](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01273155.pdf), pg 23).
 
 ---
 

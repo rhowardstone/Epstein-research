@@ -101,7 +101,7 @@ The NCIC query log on page 23 of the DEA profile contains an unexplained finding
 | US SECRET SERV UNIFORM DIV WASHINGTON | 1 | 08/12/2014 | 08/12/2014 |
 | U S SECRET SERVICE WHITE HOUSE DIVISION | 1 | 08/12/2014 | 08/12/2014 |
 
-The Uniform Division protects the White House complex and foreign diplomatic missions. The White House Division (now part of the Presidential Protective Division) protects the President and Vice President. Both divisions queried a registered sex offender on the same day during the Obama administration.
+The [Uniform Division](https://en.wikipedia.org/wiki/United_States_Secret_Service_Uniformed_Division) protects the White House complex and foreign diplomatic missions. The White House Division (now part of the Presidential Protective Division) protects the President and Vice President. Both divisions queried a registered sex offender on the same day during the Obama administration.
 
 No document in the 2.73-million-page corpus explains why these queries occurred. Possible explanations include advance screening for an event involving a protectee, a name appearing in connection with White House visitor logs, or a referral from another agency. The simultaneous query from two separate divisions suggests a coordinated check rather than a routine screening.
 
@@ -127,9 +127,9 @@ The DEA profile lists a linked ICE investigation:
 
 > "ICE/ Paris, France, PA07QK13PA0002, 06/07/2013, Closed/10/03/2013, OPERATION ANGEL WATCH/RCSO PRESENSE/TRANSITING INFO SHARING" (page 21)
 
-The Angel Watch Center, established under the International Megan's Law (IML), provides sex offender travel notifications to destination countries. The corpus reveals Epstein's legal team was actively attempting to navigate — and potentially circumvent — this system.
+The [Angel Watch Center](https://www.ice.gov/partnerships-centers/angel-watch-center), established under the International Megan's Law (IML), provides sex offender travel notifications to destination countries. The corpus reveals Epstein's legal team was actively attempting to navigate — and potentially circumvent — this system.
 
-**April 8, 2016**: Epstein emails former White House Counsel **Kathy Ruemmler**: "Snoop smart office angel watch center stays of regs?" ([EFTA02465774](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02465774.pdf)). This appears to be an inquiry about the SMART Office (Office of Sex Offender Sentencing, Monitoring, Apprehending, Registering, and Tracking) and Angel Watch Center's regulatory authority.
+**April 8, 2016**: Epstein emails former [White House Counsel](https://en.wikipedia.org/wiki/Kathryn_Ruemmler) **Kathy Ruemmler**: "Snoop smart office angel watch center stays of regs?" ([EFTA02465774](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02465774.pdf)). This appears to be an inquiry about the SMART Office (Office of Sex Offender Sentencing, Monitoring, Apprehending, Registering, and Tracking) and Angel Watch Center's regulatory authority.
 
 **April 8, 2019**: Darren Indyke emails Epstein:
 
@@ -149,7 +149,7 @@ The DEA profile lists Epstein's financial accounts across seven institutions in 
 
 **BNP Paribas, Paris** (501 documents): Epstein maintained an active personal account receiving regular EUR 75,000 transfers ([EFTA01450163](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01450163.pdf)). The account was also used for third-party payments, including EUR 4,000 to "MLLE ZHU WANDI" ([EFTA01365988](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01365988.pdf) — [OCR text](https://epstein-data.com/full_text_corpus/pages?efta_number=EFTA01365988)). An iMessage introduction connected Epstein to "Jean-Christophe Durand, BNP Paribas" ([EFTA01614264](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01614264.pdf)).
 
-**Highbridge Capital Corporation, Grand Cayman** (607 documents): This was Glenn Dubin's hedge fund. An email is signed by Dubin as "Chairman and Chief Executive Officer, HIGHBRIDGE CAPITAL MANAGEMENT, LLC, 40 West 57th Street - 33rd Floor" ([EFTA01866715](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01866715.pdf)). Credit Suisse statements show a joint "HIGHBRIDGE CAPITAL MANAGEMENT - FTC / FINANCIAL TRUST COMPANY INC" account with trading activity in European monetary units ([EFTA01581994](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01581994.pdf)). A Highbridge employee, Kipp Mohr, coordinated personal errands with Epstein's assistant Lesley Groff ([EFTA02190567](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02190567.pdf)).
+**[Highbridge Capital](https://en.wikipedia.org/wiki/Highbridge_Capital_Management) Corporation, Grand Cayman** (607 documents): This was [Glenn Dubin](https://en.wikipedia.org/wiki/Glenn_Dubin)'s hedge fund. An email is signed by Dubin as "Chairman and Chief Executive Officer, HIGHBRIDGE CAPITAL MANAGEMENT, LLC, 40 West 57th Street - 33rd Floor" ([EFTA01866715](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01866715.pdf)). Credit Suisse statements show a joint "HIGHBRIDGE CAPITAL MANAGEMENT - FTC / FINANCIAL TRUST COMPANY INC" account with trading activity in European monetary units ([EFTA01581994](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01581994.pdf)). A Highbridge employee, Kipp Mohr, coordinated personal errands with Epstein's assistant Lesley Groff ([EFTA02190567](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02190567.pdf)).
 
 **Deutsche Bank Trust Company Americas**: Account **35266976** appears in 774 documents. Daily deposit reports reveal the full entity constellation — over 20 accounts ranging from personal ($1.3M) to Southern Trust Company ($26.7M) ([EFTA01450526](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01450526.pdf)).
 

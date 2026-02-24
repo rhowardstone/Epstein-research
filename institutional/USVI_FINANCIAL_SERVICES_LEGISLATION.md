@@ -6,7 +6,7 @@ Between August and December 2016, William Blum — a partner at Solomon Blum Hey
 
 Blum did not send the drafts to the Governor. He sent them to Jeffrey Epstein — a registered sex offender — who forwarded them to Governor Mapp. The email correspondence, preserved across multiple EFTA documents, shows Epstein acting as the sole intermediary between his private attorney and the sitting Governor throughout the four-month drafting process.
 
-This investigation was separately reported — in a different context — by media outlets including NBC News, Law & Crime, and Fox Business, which documented Epstein's attorneys drafting *sex offender monitoring* legislation in 2011-2012. The financial services legislation described here is an entirely different bill, drafted four years later, by a different attorney, for a different governor, and has not been previously reported.
+This investigation was separately reported — in a different context — by media outlets including [NBC News](https://www.nbcnews.com/news/us-news/jpmorgan-alleges-ex-virgin-islands-first-lady-aided-jeffrey-epstein-rcna86365), [Law & Crime](https://lawandcrime.com/jeffrey-epstein-2/will-it-work-for-you-ex-virgin-islands-first-lady-allegedly-ran-suggested-language-for-sex-offender-law-by-jeffrey-epstein/), and [Fox Business](https://www.foxbusiness.com/features/jeffrey-epstein-was-asked-help-craft-virgin-islands-sex-offender-law-first-lady), which documented Epstein's attorneys drafting *sex offender monitoring* legislation in 2011-2012. The financial services legislation described here is an entirely different bill, drafted four years later, by a different attorney, for a different governor, and has not been previously reported.
 
 ---
 
@@ -64,7 +64,7 @@ Blum added:
 
 > "But this also brings up again the issue of an equivalent of PR Act 22 to eliminate all taxes on VI source capital gains (at least on personal property) and other passive income to the extent allowed by the IRC. In PR this only applies to newcomers. We need to talk about this."
 
-Puerto Rico's Act 22 (now Act 60) provides 0% capital gains tax to new residents of the island. Blum was considering whether the USVI should adopt an equivalent provision.
+Puerto Rico's [Act 22](https://en.wikipedia.org/wiki/Act_22_of_2012) (now Act 60) provides 0% capital gains tax to new residents of the island. Blum was considering whether the USVI should adopt an equivalent provision.
 
 ### The Apple/Ireland Model
 
@@ -166,7 +166,7 @@ Several critical questions cannot be answered from the available corpus:
 |------|-------|--------|
 | 1981–1984 | Blum serves as counsel to USVI Governor; authors exempt company/EDC legislation | Blum firm bios |
 | 08/04/2014 | Cecile arranges Epstein meeting with candidate Mapp | EFTA01852880 |
-| 01/05/2015 | Mapp inaugurated as Governor | Public record |
+| 01/05/2015 | [Mapp inaugurated as Governor](https://en.wikipedia.org/wiki/Kenneth_Mapp) | Public record |
 | 03/10/2015 | Cecile sends Epstein "Back Brief" on Mapp's agenda | EFTA01746665 |
 | ~08/13/2016 | Blum speaks with Governor Mapp | EFTA02454259 |
 | 08/23/2016 | Blum sends Epstein memo on establishing USVI as financial jurisdiction | EFTA02454259 |
@@ -191,7 +191,7 @@ Several critical questions cannot be answered from the available corpus:
 - Quoted passages from the corpus are drawn from OCR-processed text. Where OCR artifacts are obvious (e.g., `=` characters from quoted-printable encoding), corrections are made silently when the intended text is unambiguous from context. Original OCR text is preserved in the database and can be verified at `epstein-data.com/full_text_corpus/pages?efta_number=EFTA...`.
 - William Blum's professional biography is drawn from publicly available firm websites: [Solomon Blum Heymann LLP](https://www.solblum.com/attorney/william-blum/) and [Kellerhals Ferguson Kroblin PLLC](https://www.kellfer.com/attorneys/william-l-blum/).
 - Cecile de Jongh's role at Epstein's Financial Trust Company and the $200,000 wire from Southern Trust Company are documented in a Deutsche Bank presentation to SDNY prosecutors ([EFTA01681865](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01681865.pdf) — [OCR text](https://epstein-data.com/full_text_corpus/pages?efta_number=EFTA01681865), page 36, "Exhibit P: Notable Payments to High Profile Individuals"). This document has been removed from justice.gov.
-- The sex offender monitoring legislation drafted by Epstein's associates in 2011-2012 — reported by NBC News, Law & Crime, and Fox Business — is a different bill drafted by different individuals for a different governor. This report concerns financial services legislation drafted in 2016.
+- The sex offender monitoring legislation drafted by Epstein's associates in 2011-2012 — reported by [NBC News](https://www.nbcnews.com/news/us-news/jpmorgan-alleges-ex-virgin-islands-first-lady-aided-jeffrey-epstein-rcna86365), [Law & Crime](https://lawandcrime.com/jeffrey-epstein-2/will-it-work-for-you-ex-virgin-islands-first-lady-allegedly-ran-suggested-language-for-sex-offender-law-by-jeffrey-epstein/), and [Fox Business](https://www.foxbusiness.com/features/jeffrey-epstein-was-asked-help-craft-virgin-islands-sex-offender-law-first-lady) — is a different bill drafted by different individuals for a different governor. This report concerns financial services legislation drafted in 2016.
 - No evidence was found that the bill was submitted to the USVI Legislature or enacted into law.
 
 ---

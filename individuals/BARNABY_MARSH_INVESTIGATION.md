@@ -2,11 +2,11 @@
 
 ## Executive Summary
 
-Barnaby Marsh — a Rhodes Scholar with a D.Phil. in Zoology from Oxford, and Executive Vice President of the John Templeton Foundation — appears in 2,831 distinct documents across the EFTA production, making him one of the most frequently mentioned non-staff, non-lawyer individuals in the entire corpus. The documents span a decade of continuous contact, from May 2009 through June 21, 2019 — fifteen days before Jeffrey Epstein's arrest.
+Barnaby Marsh — a [Rhodes Scholar](https://www.ias.edu/scholars/barnaby-marsh) with a D.Phil. in Zoology from Oxford, and Executive Vice President of the [John Templeton Foundation](https://en.wikipedia.org/wiki/John_Templeton_Foundation) — appears in 2,831 distinct documents across the EFTA production, making him one of the most frequently mentioned non-staff, non-lawyer individuals in the entire corpus. The documents span a decade of continuous contact, from May 2009 through June 21, 2019 — fifteen days before Jeffrey Epstein's arrest.
 
 The corpus reveals that Marsh was not a casual social acquaintance. He occupied a structural position at the intersection of institutional philanthropy and Epstein's private funding operation. In his capacity at the Templeton Foundation, Marsh managed an $11 million grant to Martin Nowak's Program for Evolutionary Dynamics (PED) at Harvard, personally restructured its disbursement to route $6 million through an external philanthropic vehicle rather than Harvard, and solicited Epstein for supplementary co-funding. Epstein's USVI-based entity, Enhanced Education, then formally proposed to "partner" with the Templeton Foundation on the same Nowak project, with a $1.5 million contribution — the proposal letter addressed directly to Marsh.
 
-In August 2019, two days before his death, Epstein named Marsh as the second-in-line successor trustee of his estate — ahead of his own attorneys.
+In August 2019, two days before his death, Epstein named Marsh as the second-in-line successor trustee of his [estate](https://www.nbcnews.com/news/crime-courts/jeffrey-epstein-signed-new-will-just-two-days-he-died-n1044176) — ahead of his own attorneys.
 
 No criminal charges have been filed against Marsh. No trafficking allegations exist in any public source.
 
@@ -14,9 +14,9 @@ No criminal charges have been filed against Marsh. No trafficking allegations ex
 
 ## The Position
 
-Marsh's title at the John Templeton Foundation, as stated on the formal correspondence in the corpus, was **Executive Vice President, Strategic Initiatives, and Managing Director, Philanthropic Leadership Network** ([EFTA00306058](https://www.justice.gov/epstein/files/DataSet%209/EFTA00306058.pdf)). The foundation is headquartered in West Conshohocken, Pennsylvania. His institutional email was bmarsh@templeton.org.
+Marsh's title at the John Templeton Foundation, as stated on the formal correspondence in the corpus, was **Executive Vice President, Strategic Initiatives, and Managing Director, Philanthropic Leadership Network** ([EFTA00306058](https://www.justice.gov/epstein/files/DataSet%209/EFTA00306058.pdf)). The foundation is headquartered in [West Conshohocken, Pennsylvania](https://en.wikipedia.org/wiki/John_Templeton_Foundation). His institutional email was bmarsh@templeton.org.
 
-Marsh held a D.Phil. in Zoology from Oxford, where he studied decision-making under conditions of risk and uncertainty as a Rhodes Scholar. Before Oxford, he attended Harvard (freshman year) and Cornell (A.B. 1996 in Economics, Psychology, and International Affairs). He was also listed as affiliated with the Institute for Advanced Study in Princeton, New Jersey, on the advisory board of Nautilus magazine.
+Marsh held a D.Phil. in Zoology from Oxford, where he studied decision-making under conditions of risk and uncertainty as a [Rhodes Scholar](https://rhodesscholars.wordpress.com/2009/03/09/barnaby-marsh/). Before Oxford, he attended Harvard (freshman year) and Cornell (A.B. 1996 in Economics, Psychology, and International Affairs). He was also listed as affiliated with the [Institute for Advanced Study](https://www.ias.edu/scholars/barnaby-marsh) in Princeton, New Jersey, on the advisory board of [Nautilus](https://nautil.us) magazine.
 
 ---
 
@@ -76,7 +76,7 @@ On June 11, 2015, Epstein forwarded to Marsh a message from Larry Summers' wife:
 
 On October 4, 2015, Epstein followed up: "any news on larry summers wife grant from templeton?" Marsh replied: "no idea — I'm not connected with that but could find out.... last I heard it was going in a good direction..." ([EFTA00698783](https://www.justice.gov/epstein/files/DataSet%209/EFTA00698783.pdf))
 
-The academic in question, Elisa New (Powell M. Cabot Professor of American Literature at Harvard), was explicit about the pipeline in a direct email to Epstein: "Had I gotten the Templeton grant I'd have hired 2-2½ more people... which is why I'd like to ask Templeton/Barnaby to reconsider the planning grant of 249K now." ([EFTA00844477](https://www.justice.gov/epstein/files/DataSet%209/EFTA00844477.pdf))
+The academic in question, [Elisa New](https://en.wikipedia.org/wiki/Elisa_New) (Powell M. Cabot Professor of American Literature at Harvard), was explicit about the pipeline in a direct email to Epstein: "Had I gotten the Templeton grant I'd have hired 2-2½ more people... which is why I'd like to ask Templeton/Barnaby to reconsider the planning grant of 249K now." ([EFTA00844477](https://www.justice.gov/epstein/files/DataSet%209/EFTA00844477.pdf))
 
 ---
 
