@@ -256,6 +256,8 @@ In March 2018, Trivers formally introduced Epstein to **David Haig**, the George
 
 But the introduction wasn't new. Trivers later revealed the connection dated back to 2004: "David Haig at Harvard whom you met at a party you threw for me at Martin's way back in 2004" ([EFTA02638724](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02638724.pdf)) — "Martin's" being Martin Nowak's, placing the initial Haig-Epstein meeting at Harvard PED. Haig also appeared in Edge Foundation guest lists forwarded to Epstein ([EFTA02198780](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02198780.pdf)).
 
+**To be clear:** There is no evidence in the corpus that Haig received funding from Epstein or any Epstein-affiliated entity. Haig appears exclusively as a social and intellectual contact — CC'd on Trivers' group emails alongside Gordon Getty and Norman Finkelstein ([EFTA00977156](https://www.justice.gov/epstein/files/DataSet%209/EFTA00977156.pdf), [EFTA00834985](https://www.justice.gov/epstein/files/DataSet%209/EFTA00834985.pdf)), cited by Trivers as an intellectual reference, and present at Edge Foundation events. The connection is social introduction, not financial dependency.
+
 No media outlet has reported on the Haig-Epstein connection. The [epsteinweb.org tracker](https://epsteinweb.org/david-haig/) lists Haig at one degree of separation with "Weak" connection strength.
 
 ---
