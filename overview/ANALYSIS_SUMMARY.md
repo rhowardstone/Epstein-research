@@ -1,6 +1,8 @@
 # Epstein Files Analysis Summary
 ## January 2026 DOJ Release - Key Findings
 
+> **Context:** This was one of the first reports written (late January 2026), focused on initial findings from the SDNY prosecution memo. The project has since produced **150+ investigation reports** with far more comprehensive analysis. For the complete catalog, see the [full report index](https://epstein-data.com/reports/).
+
 ### CRITICAL DOCUMENT: [EFTA02731082](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731082.pdf)
 **SDNY Prosecution Memo - December 19, 2019**
 "Investigation into Potential Co-Conspirators of Jeffrey Epstein"

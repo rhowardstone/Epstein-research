@@ -11,7 +11,7 @@ The content is intended **only for people 18+**, and only **at your own peril**.
 
 ### About This Repository
 
-This repository contains 100+ forensic analysis reports derived from the U.S. Department of Justice's release of Jeffrey Epstein investigation files -- 194.5 GB across 12 datasets, comprising 1,380,937 PDFs (2,731,785 pages, 3.18 billion characters of text), plus 3,226 non-PDF native files (video, audio, spreadsheets). The analysis involved full-text extraction and FTS5 indexing of every page, 2,587,102 redaction records, 1,530 audio/video transcripts, a 1,536-person entity registry, and cross-referenced entity relationships (524 entities, 2,096 connections).
+This repository contains 150+ forensic analysis reports derived from the U.S. Department of Justice's release of Jeffrey Epstein investigation files -- 194.5 GB across 12 datasets, comprising 1,380,937 PDFs (2,731,785 pages, 3.18 billion characters of text), plus 3,226 non-PDF native files (video, audio, spreadsheets). The analysis involved full-text extraction and FTS5 indexing of every page, 2,587,102 redaction records, 1,530 audio/video transcripts, a 1,536-person entity registry, and cross-referenced entity relationships (524 entities, 2,096 connections).
 
 Every factual claim in these reports traces back to specific EFTA document numbers (Epstein Files Task Force Archive). Click any linked EFTA number to attempt to view the original PDF on justice.gov.
 
@@ -45,19 +45,21 @@ See the [EFTA Dataset Mapping](#efta-number-to-dataset-mapping) table at the bot
 
 ## Investigation Reports
 
-### Overview & Executive Summaries
+### Early Investigation Summaries
+
+> **Note:** These reports were written in January–February 2026 during the first weeks of the investigation. They remain accurate but do not reflect the full scope of findings from the 150+ reports that followed. For the complete catalog, browse the sections below or visit the [full report index](https://epstein-data.com/reports/).
 
 | Report | Description |
 |--------|-------------|
-| [FINAL_INVESTIGATION_REPORT](overview/FINAL_INVESTIGATION_REPORT.md) | Comprehensive investigation synthesis. 400+ EFTA citations, $755M traced, 30+ named individuals. Every claim sourced to specific documents. |
+| [FINAL_INVESTIGATION_REPORT](overview/FINAL_INVESTIGATION_REPORT.md) | Early investigation synthesis (Feb 7, 2026). 400+ EFTA citations, $755M traced, 30+ named individuals. Covers first two weeks of findings only — see later reports for deeper analysis. |
 | [INSTITUTIONAL_FAILURE_NARRATIVE](overview/INSTITUTIONAL_FAILURE_NARRATIVE.md) | "The Architecture of Impunity" -- 7-chapter prosecutorial failure narrative, 1996-2024, 80+ EFTA citations. |
-| [MASTER_REPORT](overview/MASTER_REPORT.md) | Consolidated findings from systematic document analysis of the full 627MB text corpus. |
+| [MASTER_REPORT](overview/MASTER_REPORT.md) | Early findings (Feb 5, 2026) from initial redaction and text layer analysis of the 627MB text corpus. |
 | [PHASE1_GAP_DETECTION](overview/PHASE1_GAP_DETECTION.md) | Gap detection and counterfactual analysis -- identifying what's missing from the record. |
 | [PHASE2_LEVER_TRACEBACK](overview/PHASE2_LEVER_TRACEBACK.md) | Who had the power to shield whom. Agency failures, financial concealment, academic legitimization. |
 | [PHASE3_HIDDEN_DOMAINS](overview/PHASE3_HIDDEN_DOMAINS.md) | Hidden domain connections. 90+ queries across 1.8M+ redaction records, DS10, knowledge graph, and OCR text recordss. |
 | [PHASE4_BRIEFING_KIT](overview/PHASE4_BRIEFING_KIT.md) | Congressional briefing kit. Prepared for staff use, based on 3.4M redaction records. |
 | [SESSION9_MASTER_FINDINGS](overview/SESSION9_MASTER_FINDINGS.md) | Supplemental findings: art forensics, trafficking routes, device forensics, prosecution failures, CBP corruption, 4chan/online evidence. |
-| [ANALYSIS_SUMMARY](overview/ANALYSIS_SUMMARY.md) | Key findings summary from the January 2026 DOJ release, anchored to SDNY prosecution memo. |
+| [ANALYSIS_SUMMARY](overview/ANALYSIS_SUMMARY.md) | First-look findings (Jan 2026) from the initial DOJ release, anchored to SDNY prosecution memo. |
 | [UNEXPLORED_DOCUMENT_MINING](overview/UNEXPLORED_DOCUMENT_MINING.md) | Deep-search of under-examined areas: camera-in-clock, T-160 VHS tapes, MCC DVR, crypto network, 48 diamonds, CSAM found 2023. |
 
 ### Financial Forensics (19 reports)

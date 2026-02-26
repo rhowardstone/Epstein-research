@@ -4,6 +4,8 @@
 ## Based on Systematic Analysis of 3.4 Million Redaction Records, Knowledge Graph, and OCR Databases
 ## Date: February 10, 2026
 
+> **Context:** This briefing kit was prepared on February 10, 2026. For the latest congressional materials, see the [Congressional Reading Guide](../CONGRESSIONAL_READING_GUIDE.md), [Congressional Followup](../CONGRESSIONAL_FOLLOWUP_NEW_FINDINGS.md), and the [Grand Jury Subpoena Dossiers](../pqg_lines_of_investigation/00_INDEX.md). The full project now contains 150+ reports — see the [complete index](https://epstein-data.com/reports/).
+
 ---
 
 # DELIVERABLE 1: TWO-PAGE STAFFER DIGEST

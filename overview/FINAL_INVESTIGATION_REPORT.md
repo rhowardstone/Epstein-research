@@ -1,7 +1,10 @@
 # FINAL INVESTIGATION REPORT
 # Forensic Analysis of the 218GB DOJ Jeffrey Epstein File Release
-**Classification:** INVESTIGATIVE SUMMARY -- PROSECUTION REFERRAL GRADE
-**Date of Compilation:** February 7, 2026 (ongoing updates through February 2026)
+
+> **Context:** This report was compiled on February 7, 2026 during the first two weeks of the investigation. It synthesizes findings available at that time. The project has since produced **150+ investigation reports** across 16 categories — including financial forensics, grand jury subpoena analysis, individual investigations, and government official searches that are not reflected here. For the complete catalog, see the [full report index](https://epstein-data.com/reports/).
+
+**Classification:** INVESTIGATIVE SUMMARY
+**Date of Compilation:** February 7, 2026
 **Investigation Period:** January-February 2026
 **Corpus:** 218GB, 519,438 PDFs, 12 datasets
 **Databases Created and Queried:**
@@ -13,7 +16,7 @@
 - the financial transaction database -- 186 normalized transactions, $755M total value
 
 **Total EFTA Documents Cited in This Report:** 400+
-**Total Individual Reports Produced During Investigation:** 85+
+**Total Individual Reports Produced During Investigation:** 150+
 
 > **SOURCE NOTE:** All `DB-SDNY-#######` Bates numbers in this document are Deutsche Bank document production references from [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf) (Exhibits A-E: master transaction tables compiled by SDNY from Deutsche Bank records).
 

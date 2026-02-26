@@ -2,6 +2,8 @@
 
 ## A Prosecutorial Failure Narrative: The United States Department of Justice and the Jeffrey Epstein Case, 1996-2024
 
+> **Context:** This narrative was written in early February 2026. The project has since produced **150+ investigation reports**, including deeper analysis of [prosecution failures](../institutional/PROSECUTION_FAILURES_ANALYSIS.md), [grand jury subpoenas](../pqg_lines_of_investigation/00_INDEX.md), and [individual investigations](https://epstein-data.com/reports/). This report remains accurate but covers only a portion of the full evidentiary record.
+
 ---
 
 **Compiled:** February 7, 2026

@@ -2,6 +2,8 @@
 ## Continued Forensic Investigation of Epstein Files
 ### Date: February 6, 2026
 
+> **Context:** These are raw findings from a single analysis session (February 6, 2026). Each topic covered here was later expanded into its own dedicated report — see the [full report index](https://epstein-data.com/reports/) for 150+ investigation reports.
+
 ---
 
 ## NEW REPORTS CREATED THIS SESSION
