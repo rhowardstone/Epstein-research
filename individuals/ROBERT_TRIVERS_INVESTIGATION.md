@@ -101,7 +101,7 @@ The initial connection ran through John Brockman's Edge Foundation. In November 
 
 > "He needs some support for research, i.e. a budget to hire people to help with his book, etc. but he's embarrassed to ask you. I told him to write up a proposal and send it to you which he'll do or not do."
 >
-> — [EFTA00768588](https://www.justice.gov/epstein/files/DataSet%2010/EFTA00768588.pdf)
+> — [EFTA00768588](https://www.justice.gov/epstein/files/DataSet%209/EFTA00768588.pdf)
 
 Within months, Epstein committed the initial $25,000: "i am starting you off with 25k" ([EFTA00747390](https://www.justice.gov/epstein/files/DataSet%209/EFTA00747390.pdf)). That money funded research that went into Trivers' 2011 book *The Folly of Fools: The Logic of Deceit and Self-Deception in Human Life*. Before publication, Trivers wrote to ask "the name of your foundation, or how you wish to be referred to, for the acknowledgements of my self-deception book—i thank several foundations and would like to thank yours" ([EFTA00677165](https://www.justice.gov/epstein/files/DataSet%209/EFTA00677165.pdf)). The C.O.U.Q. Foundation was duly acknowledged. His 2015 memoir *Wild Life* went further — Trivers "thanked your Foundation but also you" personally ([EFTA02475456](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02475456.pdf)).
 
@@ -466,7 +466,7 @@ Four months later, Epstein was arrested on federal sex trafficking charges. He w
 | [EFTA00677165](https://www.justice.gov/epstein/files/DataSet%209/EFTA00677165.pdf) | 9 | Trivers asks for foundation name for Folly of Fools acknowledgments |
 | [EFTA00747390](https://www.justice.gov/epstein/files/DataSet%209/EFTA00747390.pdf) | 9 | Epstein: "i am starting you off with 25k" |
 | [EFTA00761771](https://www.justice.gov/epstein/files/DataSet%209/EFTA00761771.pdf) | 9 | Trivers: 30+ years ineligible for federal funding |
-| [EFTA00768588](https://www.justice.gov/epstein/files/DataSet%2010/EFTA00768588.pdf) | 10 | Brockman: "he's embarrassed to ask you" |
+| [EFTA00768588](https://www.justice.gov/epstein/files/DataSet%209/EFTA00768588.pdf) | 9 | Brockman: "he's embarrassed to ask you" |
 | [EFTA00816165](https://www.justice.gov/epstein/files/DataSet%209/EFTA00816165.pdf) | 9 | KEY: Getty "we ALL have similar problems," Trivers defends Epstein |
 | [EFTA00844304](https://www.justice.gov/epstein/files/DataSet%209/EFTA00844304.pdf) | 9 | Trivers reports mild heart attack (Oct 2015) |
 | [EFTA00945914](https://www.justice.gov/epstein/files/DataSet%209/EFTA00945914.pdf) | 9 | Krauss recruiting Trivers to ASU |
