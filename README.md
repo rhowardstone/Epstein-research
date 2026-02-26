@@ -158,10 +158,12 @@ See the [EFTA Dataset Mapping](#efta-number-to-dataset-mapping) table at the bot
 | [ISRAELI_INTELLIGENCE_DEEP_DIVE](intelligence/ISRAELI_INTELLIGENCE_DEEP_DIVE.md) | Initial Israeli intelligence connections investigation across all document collections. Revised: FD-1023 intelligence claims now documented; original "zero hits for Mossad" corrected. |
 | [POWER_OVERLAP_SEALED_FILINGS_INVESTIGATION](intelligence/POWER_OVERLAP_SEALED_FILINGS_INVESTIGATION.md) | Power overlap, sealed filings, and evidence suppression patterns. 100+ searches across 4 document collections. Section 9.3 corrected: intelligence connection documented via CHS FD-1023 but unverified at FBI conclusion level. |
 
-### Institutional Failures (4 reports)
+### Institutional Failures (6 reports)
 
 | Report | Description |
 |--------|-------------|
+| [SECONDARY_BATES_STAMP_ANALYSIS](institutional/SECONDARY_BATES_STAMP_ANALYSIS.md) | **NEW:** The DOJ production contains secondary Bates stamps on 1.19M pages revealing six pre-production numbering systems. Gap analysis shows 1.46 million pages were reviewed and stamped but withheld — 57% of FBI device extractions and 75% of SDNY investigative files never made it into the public release. |
+| [FBI_302_MISSING_SERIALS_DOSSIER](institutional/FBI_302_MISSING_SERIALS_DOSSIER.md) | **NEW:** The FBI's own indices list more interview records than were published. Cross-referencing three key documents identifies specific FD-302s produced to the Maxwell defense but absent from public files. Case study: 8 of 15 sub-records missing for one victim, including 3 of 4 FBI interview reports. |
 | [PROSECUTION_FAILURES_ANALYSIS](institutional/PROSECUTION_FAILURES_ANALYSIS.md) | Comprehensive documentation of failed prosecutions: NPA architecture, blanket co-conspirator immunity expansion, Acosta deposition, CVRA violations, 15+ named individuals. |
 | [CBP_CORRUPTION_INVESTIGATION](institutional/CBP_CORRUPTION_INVESTIGATION.md) | CBP officer **Timothy Routch** (Badge #CAS03223, **de-redacted via DS9**) self-incriminated, 7+ years clearing Epstein's aircraft at St. Thomas. FBI proffer sessions Oct-Nov 2020. |
 | [CBP_RUEMMLER_REMAINING_LEADS](institutional/CBP_RUEMMLER_REMAINING_LEADS.md) | CBP officer expanded investigation, Ruemmler full 15-email trail, remaining unidentified leads. |
