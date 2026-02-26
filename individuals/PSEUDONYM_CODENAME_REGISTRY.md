@@ -4,8 +4,8 @@
 
 This registry was compiled via:
 1. FTS5 full-text search of `full_text_corpus.db` (2.77M pages across 12 datasets + DS98/DS99)
-2. Cross-reference with `persons_registry.json` (1,538 persons, 203 with aliases)
-3. Cross-reference with `knowledge_graph.db` (524 entities)
+2. Cross-reference with [`persons_registry.json`](https://github.com/rhowardstone/Epstein-research-data/blob/main/persons_registry.json) (1,538 persons, 203 with aliases)
+3. Cross-reference with [`knowledge_graph.db`](https://epstein-data.com/knowledge_graph) (524 entities)
 4. Targeted pattern searches for: "also known as", "a/k/a", "codename", "alias", "pseudonym", "Mr.", "Mrs.", "Dr.", "The Invisible", "Master", "Maestro", "Uncle", "Bossman", etc.
 5. Cross-reference with Edwin's [Jmail Project](https://jmail.world/) contact mapping (200 top correspondents)
 6. FBI device search warrant email target list ([EFTA00101065](https://www.justice.gov/epstein/files/DataSet%209/EFTA00101065.pdf), DS9)
@@ -224,7 +224,7 @@ A playful nickname used in iMessage conversation, not an operational codename.
 
 - [EFTA01619047](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01619047.pdf) (DS10) — Dec 11, 2013: "Do you know about **mr alien** playing the clarinet at the Carlyle?" Reply: "Back sat, **yes woody plays most Mondays**"
 
-**Identification**: Woody Allen famously plays clarinet with the Eddy Davis New Orleans Jazz Band at the Carlyle Hotel on Monday evenings. The immediate "yes woody" confirmation makes the identification near-certain. Additional context: Allen played a character literally named "Mr. Alien" in Jean-Luc Godard's 1987 film *King Lear* ([IMDB](https://www.imdb.com/title/tt0093349/characters/nm0000095)) — likely the origin of the nickname. Documents the Epstein–Allen social connection.
+**Identification**: Woody Allen famously plays clarinet with the Eddy Davis New Orleans Jazz Band at the Carlyle Hotel on Monday evenings. The immediate "yes woody" confirmation makes the identification near-certain. Multiple possible origins: "Allen" → "Alien" is a natural OCR-style misread (easy to see in any PDF), and Allen played a character literally named "Mr. Alien" in Jean-Luc Godard's 1987 film *King Lear* ([IMDB](https://www.imdb.com/title/tt0093349/characters/nm0000095)). Documents the Epstein–Allen social connection.
 
 ---
 
@@ -603,7 +603,7 @@ The Jmail Project (Edwin's independent analysis) mapped email volumes for Epstei
 | 19 | Merwin dela Cruz | 11,790 | Household staff |
 | 20 | Joi Ito | 10,338 | MIT Media Lab |
 
-Full list: `individuals/Jmails-Epstein-Contacts-updated.csv`
+Full list available at [jmail.world](https://jmail.world/).
 
 ---
 
@@ -765,13 +765,13 @@ Additional linked entities: Southern Trust Company (transferred to Deutsche Bank
 | Sarah Kellen | Sarah Kensington, Sarah Vickers | [EFTA01070810](https://www.justice.gov/epstein/files/DataSet%209/EFTA01070810.pdf) ([OCR](https://epstein-data.com/full_text_corpus/pages?efta_number=EFTA01070810)), [EFTA01579108](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01579108.pdf) |
 | Adriana Ross | Adriana Mucinska | [EFTA01338104](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01338104.pdf) ([OCR](https://epstein-data.com/full_text_corpus/pages?efta_number=EFTA01338104)) (grand jury subpoena: "Adriana Mucinska"), [EFTA01465149](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01465149.pdf) ([OCR](https://epstein-data.com/full_text_corpus/pages?efta_number=EFTA01465149)) (NPA/NDA: "Adriana Ross") |
 | Virginia Giuffre | Virginia Roberts | Multiple court documents |
-| David Copperfield | David Seth Kotkin | persons_registry.json |
-| Bono | Paul David Hewson | persons_registry.json |
-| Robert Maxwell | Jan Ludvik Hyman Binyamin Hoch | persons_registry.json |
-| Ralph Lauren | Ralph Lifshitz | persons_registry.json |
-| Masha Drokova | Maria Drokova, Masha Bucher | persons_registry.json |
-| Emmy Tayler | Emmy Taylor | persons_registry.json |
-| Soon-Yi Previn | Mrs. Allen | persons_registry.json |
+| David Copperfield | David Seth Kotkin | [`persons_registry.json`](https://github.com/rhowardstone/Epstein-research-data/blob/main/persons_registry.json) |
+| Bono | Paul David Hewson | [`persons_registry.json`](https://github.com/rhowardstone/Epstein-research-data/blob/main/persons_registry.json) |
+| Robert Maxwell | Jan Ludvik Hyman Binyamin Hoch | [`persons_registry.json`](https://github.com/rhowardstone/Epstein-research-data/blob/main/persons_registry.json) |
+| Ralph Lauren | Ralph Lifshitz | [`persons_registry.json`](https://github.com/rhowardstone/Epstein-research-data/blob/main/persons_registry.json) |
+| Masha Drokova | Maria Drokova, Masha Bucher | [`persons_registry.json`](https://github.com/rhowardstone/Epstein-research-data/blob/main/persons_registry.json) |
+| Emmy Tayler | Emmy Taylor | [`persons_registry.json`](https://github.com/rhowardstone/Epstein-research-data/blob/main/persons_registry.json) |
+| Soon-Yi Previn | Mrs. Allen | [`persons_registry.json`](https://github.com/rhowardstone/Epstein-research-data/blob/main/persons_registry.json) |
 
 ---
 
@@ -898,14 +898,14 @@ Cross-referenced against mainstream media, Substacks, Reddit (r/epstein), and in
 | Deutsche Bank "Critical" risk | Known in broad terms | Continuous 2013–2019 monitoring, entity IDs, all aliases tracked | **Partially** |
 | "Bubba" (disputed) | Widely reported (Snopes, NR, Advocate) | Mark Epstein denied Clinton reference | No |
 | "Boy Donald" | Reported (Defector, NBC) | Documented | No |
-| "The Duke" = Andrew display name | Reported (Ellie Leonard Substack) | Corpus-verified with EFTAs + added to email handle table | No |
-| Abbreviations (PA, S, DS, DR, BP, bg) | Partially reported (Ellie Leonard Parts 2-4) | Compiled 9-entry table with EFTA citations for each | **Partially** |
-| "the big guy" = Trump (contextual) | Reported (Defector) | Confirmed with 3 EFTAs; ALSO = Epstein in financial context. Not a fixed codename | **Partially** |
-| George C. = George Church (NOT Clooney) | Ellie Leonard incorrectly implied Clooney | Corrected: corpus shows gc@hms.harvard.edu (Harvard geneticist) | **Yes — correction is original** |
-| Beefeater food codes (7 terms) | Claimed by Beefeater Research Substack | All 7 systematically debunked with specific EFTAs showing literal food contexts | **Yes — systematic corpus debunking is original** |
-| Sekolapedia codes (8 terms) | Claimed by Sekolapedia | All 8 debunked or shown as casual usage with corpus evidence | **Yes — systematic corpus debunking is original** |
+| "The Duke" = Andrew display name | Reported ([Ellie Leonard](https://ellieleonard.substack.com/p/the-prince-andrew-emails-part-1)) | Corpus-verified with EFTAs + added to email handle table | No |
+| Abbreviations (PA, S, DS, DR, BP, bg) | Partially reported ([Ellie Leonard Parts 2-4](https://ellieleonard.substack.com/p/the-prince-andrew-emails-part-2)) | Compiled 9-entry table with EFTA citations for each | **Partially** |
+| "the big guy" = Trump (contextual) | Reported ([Defector](https://defector.com/jeffrey-epsteins-inbox-was-a-place-to-complain-talk-shit-and-make-boomer-grade-jokes)) | Confirmed with 3 EFTAs; ALSO = Epstein in financial context. Not a fixed codename | **Partially** |
+| George C. = George Church (NOT Clooney) | [Ellie Leonard](https://ellieleonard.substack.com/p/the-prince-andrew-emails-part-2) suggested Clooney | Corpus context points to George Church (gc@hms.harvard.edu, Harvard geneticist) | **Yes — correction is original** |
+| Beefeater food codes (7 terms) | Claimed by [Beefeater Research](https://beefeaterresearch.substack.com/p/reading-between-the-code-names-and) | All 7 systematically debunked with specific EFTAs showing literal food contexts | **Yes — systematic corpus debunking is original** |
+| Sekolapedia codes (8 terms) | Claimed by [Sekolapedia](https://daftarsekolah.spmb.teknokrat.ac.id/2026/02/the-digital-blueprint-decrypting-communication-codes-found-in-the-epstein-files/) | All 8 debunked or shown as casual usage with corpus evidence | **Yes — systematic corpus debunking is original** |
 | "Gulfstream Girl" = Marcinkova | Not widely reported | Email display name documented | **Partially** |
-| Passwords in plain text (3 passwords) | CyberNews reported some | Compiled table: jeevacation12, Jenjen12, neptunemermaid with EFTAs | **Partially** |
+| Passwords in plain text (3 passwords) | [CyberNews](https://cybernews.com/security/jeffrey-epstein-personal-hacker-doj/) reported some | Compiled table: jeevacation12, Jenjen12, neptunemermaid with EFTAs | **Partially** |
 | Adriana Ross = Adriana Mucinska | Reported (Daily Beast, factually.co) | Confirmed via grand jury subpoena + NPA/NDA | No |
 
 **Key external sources consulted**:
@@ -970,7 +970,7 @@ Social media and some outlets claimed various food terms in the Epstein files we
 | **"The Farm"** = Zorro Ranch | **0 CORPUS RESULTS.** No evidence of this term being used for Zorro Ranch or any Epstein property | Sekolapedia — no citations provided |
 | **"The Island"** = LSJ codename | **CASUAL USAGE, not a codename.** Epstein and staff routinely say "the island" or "my island": "Im on the island most of may" / "come visit on the island" | [EFTA01927953](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01927953.pdf), [EFTA01928388](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01928388.pdf) |
 | **"whoops"** = death code | **VERBAL TIC.** Epstein used "whoops" across ~529 pages. Used for everything from typos to deaths: replied "whoops" to Eva Dubin's news that "Mary Kennedy found dead in her backyard" but also "I called her MIL .. whoops" | [EFTA01884457](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01884457.pdf), [EFTA01870869](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01870869.pdf), [EFTA01619001](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01619001.pdf) |
-| **"George C." / "Mr. C" = George Clooney** | **DISPUTED.** Corpus shows "George C" in Epstein emails refers to **George Church** (Harvard geneticist, gc@hms.harvard.edu), NOT George Clooney. Ellie Leonard's Substack implied Clooney without evidence | [EFTA01787678](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01787678.pdf), [EFTA02612489](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02612489.pdf) |
+| **"George C." / "Mr. C" = George Clooney** | **DISPUTED.** Corpus shows "George C" in Epstein emails refers to **George Church** (Harvard geneticist, gc@hms.harvard.edu), NOT George Clooney. [Ellie Leonard's Substack](https://ellieleonard.substack.com/p/the-prince-andrew-emails-part-2) linked to Clooney's Wikipedia page but the corpus context points to Church | [EFTA01787678](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01787678.pdf), [EFTA02612489](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02612489.pdf) |
 | **"BEN" = Peter Mandelson** | **DISPUTED.** In context, "Ben" is a real person Mandelson is trying to invite to dinner, NOT a label for Mandelson himself: "Ben's in NY next week. Invite him to the dinner?" | [EFTA01798514](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01798514.pdf) |
 | **"Lady Ghislaine" = Maxwell email signature** | **PARTIALLY CONFIRMED.** Term appears in corpus primarily as Robert Maxwell's yacht name and in news articles about him. Bloomberg's claim that Ghislaine used it as an email signature is NOT corroborated by corpus email headers | Yacht confirmed; email signature claim unverified |
 
