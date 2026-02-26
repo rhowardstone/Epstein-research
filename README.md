@@ -275,7 +275,7 @@ Use this table to determine which DOJ dataset contains a given EFTA number, or t
 
 **Base URL:** `https://www.justice.gov/epstein/files/`
 
-**Note:** There are small gaps between some datasets (e.g., Dataset 4 ends at 8320, Dataset 5 starts at 8409). EFTAs falling in gaps are mapped to the nearest lower dataset.
+**Note:** EFTA numbers are assigned **per page**, not per document. A multi-page document consumes consecutive EFTA numbers — e.g., EFTA00008320 (89 pages) covers Bates numbers 00008320–00008408, and Dataset 5 begins at EFTA00008409. There are **no gaps** between datasets; every apparent gap is accounted for by multi-page documents at dataset boundaries.
 
 ---
 
