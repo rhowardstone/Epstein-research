@@ -2501,8 +2501,8 @@ Reports produced during the investigation (as of initial compilation), with brie
 | # | Report | Description |
 |---|--------|-------------|
 | 54 | [SESSION9_MASTER_FINDINGS.md](/overview/SESSION9_MASTER_FINDINGS.md) | Comprehensive session findings: CBP corruption, Austrian passport, victim census, shell entity map |
-| 55 | [FOUR_CHAN_PARAMEDIC_INVESTIGATION.md](/conspiracy-debunking/FOUR_CHAN_PARAMEDIC_INVESTIGATION.md) | 4chan death leak, hard drives removed 10:15 PM, guard DPAs dismissed, employee confession YouTube |
-| 56 | [ONLINE_EVIDENCE_INVESTIGATION.md](/conspiracy-debunking/ONLINE_EVIDENCE_INVESTIGATION.md) | r/maxwellhill screenshot in FBI serial, social media led to Maxwell via Borgerson-Angara-Tidewood shells |
+| 55 | [FOUR_CHAN_PARAMEDIC_INVESTIGATION.md](/evidence/FOUR_CHAN_PARAMEDIC_INVESTIGATION.md) | 4chan death leak, hard drives removed 10:15 PM, guard DPAs dismissed, employee confession YouTube |
+| 56 | [ONLINE_EVIDENCE_INVESTIGATION.md](/evidence/ONLINE_EVIDENCE_INVESTIGATION.md) | r/maxwellhill screenshot in FBI serial, social media led to Maxwell via Borgerson-Angara-Tidewood shells |
 | 57 | [UNNAMED_PERSONS_INVESTIGATION.md](/individuals/UNNAMED_PERSONS_INVESTIGATION.md) | Foreign president = Ehud Barak (14+ docs), AOL cluster mapped, 34 journal names cross-referenced |
 | 58 | [CBP_CORRUPTION_INVESTIGATION.md](/institutional/CBP_CORRUPTION_INVESTIGATION.md) | Badge #CAS03223 self-incriminated, 7+ years clearing aircraft, FBI proffer sessions Oct-Nov 2020 |
 | 59 | [DILORIO_APOLLO_WHISTLEBLOWER.md](/financial/DILORIO_APOLLO_WHISTLEBLOWER.md) | ESWW shell/Epstein Financial Trust in same SEC filing as Apollo, SEC dropped probe, threatening calls |

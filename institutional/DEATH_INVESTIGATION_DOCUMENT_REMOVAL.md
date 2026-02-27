@@ -311,7 +311,7 @@ This report synthesizes material that overlaps with several previously published
 
 - **[Correctional Death Investigation (PQG Line 09)](https://epstein-data.com/reports/pqg_lines_of_investigation/09_CORRECTIONAL_DEATH_INVESTIGATION.html)**: Maps 24 death-related grand jury subpoenas, 42 unfulfilled demand clauses across 6 MCC institutional subpoenas, and the Kearins records-destruction probe. Focuses on subpoena compliance rather than document contents.
 
-- **[The 4chan Paramedic Investigation](https://epstein-data.com/reports/conspiracy-debunking/FOUR_CHAN_PARAMEDIC_INVESTIGATION.html)**: Reconstructs the 4chan leak, the full death night minute-by-minute timeline, the guards' prosecution from indictment through dismissal, and the FBI's digital evidence collection (Reddit, YouTube, 4chan).
+- **[The 4chan Paramedic Investigation](https://epstein-data.com/reports/evidence/FOUR_CHAN_PARAMEDIC_INVESTIGATION.html)**: Reconstructs the 4chan leak, the full death night minute-by-minute timeline, the guards' prosecution from indictment through dismissal, and the FBI's digital evidence collection (Reddit, YouTube, 4chan).
 
 - **[Congressional Addendum](https://epstein-data.com/reports/CONGRESSIONAL_ADDENDUM.html)**: Covers the unmonitored phone call, the document shredding, TRUSCOPE count failures, the NARA whistleblower, and the 2025 FBI evidence review.
 

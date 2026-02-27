@@ -273,7 +273,7 @@ Beyond the 7 specific moderator-identified issues, a systematic grep sweep acros
 11. methodology/LEAD_VERIFICATION_PART2.md (1 edit)
 12. financial/DILORIO_APOLLO_WHISTLEBLOWER.md (1 edit)
 13. financial/WECHSLER_BLACK_TRUST_INVESTIGATION.md (1 edit)
-14. conspiracy-debunking/ONLINE_EVIDENCE_INVESTIGATION.md (1 edit)
+14. evidence/ONLINE_EVIDENCE_INVESTIGATION.md (1 edit)
 15. evidence/PLIST_TIMESTAMP_TRANSACTION_CORRELATION.md (1 edit)
 
 ### Phase 3: Deep Audit Findings (source verification)

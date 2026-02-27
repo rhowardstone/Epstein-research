@@ -125,7 +125,7 @@ See the [EFTA Dataset Mapping](#efta-number-to-dataset-mapping) table at the bot
 | [VICTIM_LEADS_VERIFICATION](victims/VICTIM_LEADS_VERIFICATION.md) | Re-verification of Leads 7-12 including major correction on flight log modification claim. |
 | [TRAFFICKING_ROUTES_INVESTIGATION](victims/TRAFFICKING_ROUTES_INVESTIGATION.md) | Aircraft fleet, weekly cycling routes, MC2 recruitment ages 13-20, **corrected:** pilots did not retroactively add names to logs (explaining incomplete records), victim availability tracking, CBP bypass. |
 
-### Evidence & Digital Forensics (9 reports)
+### Evidence & Digital Forensics (11 reports)
 
 | Report | Description |
 |--------|-------------|
@@ -139,6 +139,8 @@ See the [EFTA Dataset Mapping](#efta-number-to-dataset-mapping) table at the bot
 | [EVIDENCE_COMPILATION](evidence/EVIDENCE_COMPILATION.md) | Master evidence table: named individuals with documented victim interactions and legal status. |
 | [CORRUPTED_PDF_FORENSICS](evidence/CORRUPTED_PDF_FORENSICS.md) | **NEW:** Byte-level recovery of 5 "corrupted" DS9 PDFs. **Apple Address Book with 8 contacts** (Epstein attorney, known associates, Senegalese political figure, PI firm) + **iPhone 5s photo from Little Saint James, Aug 2014.** No prior public reporting. [Recovered files](recovered_corrupted_pdfs/github_release/) |
 | [GABRIELLA_RICO_JIMENEZ_INVESTIGATION](evidence/GABRIELLA_RICO_JIMENEZ_INVESTIGATION.md) | NO connection found to Epstein. Jimenez incident Aug 2009 in Monterrey. ZERO hits across all document collections. |
+| [FOUR_CHAN_PARAMEDIC_INVESTIGATION](evidence/FOUR_CHAN_PARAMEDIC_INVESTIGATION.md) | 4chan death leak: hard drives removed from SHU at 10:15 PM, guard DPAs then charges dismissed, FBI captured 8+ screenshots. |
+| [ONLINE_EVIDENCE_INVESTIGATION](evidence/ONLINE_EVIDENCE_INVESTIGATION.md) | r/maxwellhill screenshot in FBI case serial, social media led to Maxwell via Borgerson-Angara-Tidewood shells. |
 
 ### Scientists & Academic Network (3 reports)
 
@@ -196,15 +198,13 @@ See the [EFTA Dataset Mapping](#efta-number-to-dataset-mapping) table at the bot
 | [LEAD_VERIFICATION_PART2](methodology/LEAD_VERIFICATION_PART2.md) | Leads 7-12 verified. Major correction: flight log modification claim was INVERTED in prior notes. |
 | [FACTUAL_ACCURACY_AUDIT](audits/FACTUAL_ACCURACY_AUDIT.md) | 225-issue factual accuracy audit across ~50 report files in 43 phases. Key corrections: Barrack acquittal (was listed as convicted), 99-day blackout disproved (DS9 shows continuous email), flight log modification claim inverted, legal conclusion language corrected throughout. |
 
-### Conspiracy Theory Debunking (5 reports)
+### Internet Theories (3 reports)
 
 | Report | Description |
 |--------|-------------|
-| [CONSPIRACY_THEORY_SEARCH_MISC](conspiracy-debunking/CONSPIRACY_THEORY_SEARCH_MISC.md) | Exhaustive search for miscellaneous internet theories across 218GB, 519,438 PDFs. |
-| [CONSPIRACY_THEORY_SEARCH_OCCULT](conspiracy-debunking/CONSPIRACY_THEORY_SEARCH_OCCULT.md) | NEGATIVE: Zero evidence of satanic rituals, adrenochrome, or blood drinking across 3.5M+ records. |
-| [CONSPIRACY_THEORY_SEARCH_PIZZAGATE](conspiracy-debunking/CONSPIRACY_THEORY_SEARCH_PIZZAGATE.md) | NEGATIVE: Zero evidence supporting Pizzagate or related theories across 519,438 PDFs. |
-| [FOUR_CHAN_PARAMEDIC_INVESTIGATION](conspiracy-debunking/FOUR_CHAN_PARAMEDIC_INVESTIGATION.md) | 4chan death leak: hard drives removed from SHU at 10:15 PM, guard DPAs then charges dismissed, FBI captured 8+ screenshots. |
-| [ONLINE_EVIDENCE_INVESTIGATION](conspiracy-debunking/ONLINE_EVIDENCE_INVESTIGATION.md) | r/maxwellhill screenshot in FBI case serial, social media led to Maxwell via Borgerson-Angara-Tidewood shells. |
+| [CONSPIRACY_THEORY_SEARCH_MISC](internet-theories/CONSPIRACY_THEORY_SEARCH_MISC.md) | Exhaustive search for miscellaneous internet theories across 218GB, 519,438 PDFs. |
+| [CONSPIRACY_THEORY_SEARCH_OCCULT](internet-theories/CONSPIRACY_THEORY_SEARCH_OCCULT.md) | NEGATIVE: Zero evidence of satanic rituals, adrenochrome, or blood drinking across 3.5M+ records. |
+| [CONSPIRACY_THEORY_SEARCH_PIZZAGATE](internet-theories/CONSPIRACY_THEORY_SEARCH_PIZZAGATE.md) | NEGATIVE: Zero evidence supporting Pizzagate or related theories across 519,438 PDFs. |
 
 ### Government Officials Corpus Search (7 reports)
 

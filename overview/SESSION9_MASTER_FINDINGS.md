@@ -8,8 +8,8 @@
 
 ## NEW REPORTS CREATED THIS SESSION
 
-1. **[FOUR_CHAN_PARAMEDIC_INVESTIGATION.md](/conspiracy-debunking/FOUR_CHAN_PARAMEDIC_INVESTIGATION.md)** (30KB) - 4chan death leak, hard drives removed from SHU, guard DPAs
-2. **[ONLINE_EVIDENCE_INVESTIGATION.md](/conspiracy-debunking/ONLINE_EVIDENCE_INVESTIGATION.md)** (34KB) - r/maxwellhill, kidsquest, FOUO aerial photos, 288+ NTOC tips
+1. **[FOUR_CHAN_PARAMEDIC_INVESTIGATION.md](/evidence/FOUR_CHAN_PARAMEDIC_INVESTIGATION.md)** (30KB) - 4chan death leak, hard drives removed from SHU, guard DPAs
+2. **[ONLINE_EVIDENCE_INVESTIGATION.md](/evidence/ONLINE_EVIDENCE_INVESTIGATION.md)** (34KB) - r/maxwellhill, kidsquest, FOUO aerial photos, 288+ NTOC tips
 3. **[UNNAMED_PERSONS_INVESTIGATION.md](/individuals/UNNAMED_PERSONS_INVESTIGATION.md)** (27KB) - Foreign president = Barak, French hotel = Accor?, AOL cluster, 34 names mapped
 4. **[CBP_CORRUPTION_INVESTIGATION.md](/institutional/CBP_CORRUPTION_INVESTIGATION.md)** (32KB) - Named CBP officer, "everyone knew I was friends with Epstein", proffer sessions
 5. **[DILORIO_APOLLO_WHISTLEBLOWER.md](/financial/DILORIO_APOLLO_WHISTLEBLOWER.md)** (28KB) - ESWW shell company, Epstein-Black SEC filing, Kushner WH meeting
