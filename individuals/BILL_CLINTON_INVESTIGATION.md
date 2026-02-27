@@ -71,7 +71,16 @@ On March 18, 2004, at 3:45 AM, Band emailed Maxwell:
 > *"Attias met with mary today. She likes him a lot, smart of him. They talked money and mary was shy about it and they talked low six figures, I would like to see her do better. Thx, its imp for wjc/me to get her taken care of. She did a lot in the old days... Surely he's paying people tons so 250k shouldn't be out of the question"*
 > — [EFTA02332671](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02332671.pdf)
 
-Band is asking Maxwell to help get **Richard Attias** — the Publicis Events executive who organized Clinton Global Initiative events — to pay $250,000 to a woman named "Mary" who "did a lot in the old days" for Clinton. Band says it's "important for wjc/me to get her taken care of." Maxwell is the intermediary between Clinton's aide and a major event organizer — routing financial requests through the Epstein-adjacent network.
+Band is asking Maxwell to help get **Richard Attias** — the Publicis Events executive who organized Clinton Global Initiative events — to pay $250,000 to a woman named "Mary" who "did a lot in the old days" for Clinton. Band says it's "important for wjc/me to get her taken care of."
+
+"Mary" is **Mary Morrison**, a former Clinton staffer. Two weeks later, Morrison emailed Maxwell directly:
+
+> *"Ghislaine — Okay — it is final — I have accepted the job. I am excited about working with him and hopefully with you finally (obviously you will be playing a large role in the Clinton Project). The President and I talked today and he asked me if you and I had come to an agreement yet."*
+> — [EFTA00578988](https://www.justice.gov/epstein/files/DataSet%209/EFTA00578988.pdf)
+
+Morrison accepted the position as "Director of Global Operations" at Publicis Events. Band forwarded his congratulations to Maxwell: *"Congratulations on getting Mary"* ([EFTA02332758](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02332758.pdf)). Six months later, Morrison sent Maxwell **wire transfer instructions for $1 million** to Bank of America for *"Publicis Events. Project Id A 2060400019 (Clinton Project)"* ([EFTA02333012](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02333012.pdf)). Morrison's title: "Director of Special Projects, Publicis Events Worldwide."
+
+The $1 million wire has been reported separately ([Headline USA, Feb 2026](https://headlineusa.com/jeffrey-epsteins-network-helped-fund-the-clinton-foundation-emails-reveal/)). What hasn't been reported is the full chain: Band asks Maxwell to get a Clinton staffer hired at $250K → Maxwell facilitates → Morrison gets the job → Morrison routes $1 million through Maxwell for the "Clinton Project." Maxwell is not a bystander. She is the financial pipeline.
 
 A separate email confirms Attias viewed Maxwell and Epstein as a unit. When "Darren" demanded detailed budgets for a WJC project Publicis was financing, Attias complained directly to Maxwell:
 
@@ -125,11 +134,15 @@ This is a senior figure at one of Europe's most prominent banking dynasties aski
 
 Colom followed up the next day: *"whenever possible from December"* and mentioned he *"might come soon to NY and Wash — for contacts with US dept of Justice and Treasury"* ([EFTA01950628](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01950628.pdf)). The Sarkozy-Clinton meeting was part of a broader set of high-level government contacts. Epstein signaled willingness: *"lets speak."*
 
-This email has appeared in European press ([Irish Times, Feb 2026](https://www.irishtimes.com/world/us/2026/02/26/hillary-clinton-to-testify-as-epstein-inquiry-forces-her-back-into-the-spotlight/); [France 24, Feb 2026](https://www.france24.com/en/france/20260206-who-from-france-political-cultural-elite-named-epstein-files)) and on social media, but no major U.S. outlet has reported on it in depth.
+The Sarkozy request was not an isolated contact. In September 2013, Colom had tried to bring **Bruno Le Maire** — then a former Sarkozy minister — into Epstein's orbit, describing him as *"a future candidate to the Presidential election"* and asking Epstein to help him *"raise funds"* ([EFTA01957712](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01957712.pdf)). Epstein agreed: *"lets meet with him and talk about it."*
+
+By May 2018, Epstein was actively pursuing Le Maire through **Cédric Villani**, the famous French mathematician and then-member of the French parliament: *"i realized that bruno le maire has been at my house in new york and wondered if you can pass on an invitation to him to come visit me in paris"* ([EFTA02664271](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02664271.pdf)). By November 2018, Le Maire was France's **Finance Minister**. Colom confirmed to Epstein: *"Bruno Le Maire? Finance Minister. Yes, I see him regularly and his chief of staff too"* ([EFTA02615793](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02615793.pdf)). Epstein had forgotten Le Maire's surname but not the connection.
+
+The Colom-Sarkozy email and Le Maire introduction have been reported in European press ([Irish Times, Feb 2026](https://www.irishtimes.com/world/us/2026/02/26/hillary-clinton-to-testify-as-epstein-inquiry-forces-her-back-into-the-spotlight/); [France 24, Feb 2026](https://www.france24.com/en/france/20260206-who-from-france-political-cultural-elite-named-epstein-files); [Politico Europe, Feb 2026](https://x.com/POLITICOEurope/status/2018394294508204329)), but no major U.S. outlet has reported on the full trajectory — from introduction in 2013 through active cultivation via Villani in 2018 to Colom confirming ongoing access to the sitting Finance Minister seven months before Epstein's arrest.
 
 ### The Ivory Coast Scheduling Conflict (January 2012)
 
-In January 2012, Epstein was arranging a meeting in Ivory Coast with President **Alassane Ouattara** through an intermediary identified as "Nina K." She informed Epstein:
+In January 2012, Epstein was arranging a meeting in Ivory Coast with President **Alassane Ouattara** through his niece, **Nina Keita**. Epstein had instructed his assistant Lesley Groff to *"coordinate with nina keita to have her uncle (president of Ivory coast.) for lunch, coffee dinner"* ([EFTA01852885](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01852885.pdf)). Keita informed Epstein:
 
 > *"He said the 17th is a perfect date. Apparently Hilary Clinton would also be here the same day as you (and i guess you know her pretty well)."*
 > — [EFTA01843361](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01843361.pdf)
@@ -153,7 +166,11 @@ The pilot was instructed to park Epstein's plane at the **Air Force Base** rathe
 
 Nina K. offered to arrange additional meetings with Ivory Coast's **Minister of Interior Hamed Bakayoko** and **Minister of Mines and Energy Adama Toungara**. In the same email thread, Epstein name-dropped **Thorbjorn Jagland** (Secretary General of the Council of Europe and chairman of the Norwegian Nobel Peace Prize Committee) and the Kazakh foreign minister as contemporaneous contacts.
 
-A registered sex offender, three years after conviction, parking his private jet at a military airbase in West Africa, meeting the president, scheduling around the U.S. Secretary of State's visit, with ministerial-level access and Nobel committee connections. This has never been reported. [Al Jazeera (Feb 27, 2026)](https://www.aljazeera.com/news/2026/2/27/did-epstein-help-israel-push-for-a-security-deal-with-ivory-coast) covered the Barak/Israel angle of Epstein's Ivory Coast activities but did not mention the Clinton scheduling overlap.
+In the trip planning email, Epstein told Keita: *"me, two assistants, two crew, they will make their own plans, I hope to see very pretty girls there, as well as interesting places"* ([EFTA02033006](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02033006.pdf)).
+
+The Keita relationship extended beyond Ivory Coast. In April 2014, **Mohamed Seydou Diagne**, an attorney for **Karim Wade** — the son of former Senegalese President Abdoulaye Wade, who had been arrested on corruption charges — wrote to Epstein: *"I am one of Mr. Wade's attorneys, who instructed me to contact you... I would like to convey his greetings and gratitude for your support and prompt action!"* Nina Keita was copied on the message ([EFTA01927713](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01927713.pdf)). Epstein was apparently involved in Wade's legal defense, with Keita as intermediary.
+
+A registered sex offender, three years after conviction, parking his private jet at a military airbase in West Africa, meeting the president through his niece, scheduling around the U.S. Secretary of State's visit, requesting "pretty girls," with ministerial-level access, Nobel committee connections, and involvement in the legal defense of a jailed former president's son. The Clinton scheduling overlap has never been reported. [Al Jazeera (Feb 27, 2026)](https://www.aljazeera.com/news/2026/2/27/did-epstein-help-israel-push-for-a-security-deal-with-ivory-coast) covered the Barak/Israel angle of Epstein's Ivory Coast activities but did not mention the Clinton scheduling overlap.
 
 ---
 
@@ -272,6 +289,9 @@ The Band-Maxwell correspondence names a network of Clinton-world figures orbitin
 | **Steve Bing** | Billionaire Clinton donor. Band "going out with" him | [EFTA02333083](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02333083.pdf) |
 | **Ron Burkle** | Billionaire, Clinton donor. Suite at Staples Center | [EFTA02332356](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02332356.pdf) |
 | **Boris Nikolic** | Gates science adviser, named backup executor of Epstein's will | [EFTA01961765](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01961765.pdf) |
+| **Mary Morrison** | Former Clinton staffer, became "Director of Special Projects" at Publicis Events. Routed $1M for "Clinton Project" through Maxwell | [EFTA00578988](https://www.justice.gov/epstein/files/DataSet%209/EFTA00578988.pdf), [EFTA02333012](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02333012.pdf) |
+| **Nina Keita** | President Ouattara's niece. Epstein's conduit to Ivory Coast presidency and West African political networks | [EFTA01852885](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01852885.pdf), [EFTA01927713](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01927713.pdf) |
+| **Bruno Le Maire** | Former Sarkozy minister, later France's Finance Minister. Epstein cultivated access via Colom and Villani | [EFTA01957712](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01957712.pdf), [EFTA02615793](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02615793.pdf) |
 | **Olivier Colom** | Edmond de Rothschild Group, former Sarkozy diplomatic adviser | [EFTA01949592](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01949592.pdf) |
 | **Kathy Ruemmler** | Obama White House Counsel, later Goldman Sachs GC | [EFTA02605153](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02605153.pdf) |
 | **Zubair Khan** | Provided private Twitter sentiment analysis of Trump vs. Clinton race | [EFTA01738683](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01738683.pdf) |
@@ -290,6 +310,8 @@ The Band-Maxwell correspondence names a network of Clinton-world figures orbitin
 | **Oct 2002** | Prince Andrew hosts dinner for Clinton; Maxwell provides Andrew's address for thank-you note | [EFTA02333550](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02333550.pdf) |
 | **Apr 2003** | Band vets guest list for dinner at Epstein's house — Sergey Brin, Fekkai, Levine attend | [EFTA02332565](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02332565.pdf) |
 | **Mar 2004** | Band asks Maxwell to get Attias to pay $250K to "Mary" for WJC | [EFTA02332671](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02332671.pdf) |
+| **Mar 2004** | Mary Morrison accepts Publicis job, tells Maxwell "The President and I talked today" | [EFTA00578988](https://www.justice.gov/epstein/files/DataSet%209/EFTA00578988.pdf) |
+| **Oct 2004** | Morrison sends Maxwell $1M wire instructions for "Clinton Project" | [EFTA02333012](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02333012.pdf) |
 | **Oct 2004** | Maxwell scheduling Band-Epstein meeting at Epstein's house | [EFTA02333113](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02333113.pdf) |
 | **2006** | Epstein funds Robin Solomon's CGI attendance | [EFTA01832468](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01832468.pdf) |
 | **Jun 2008** | Epstein pleads guilty in Florida | Public record |
@@ -297,11 +319,14 @@ The Band-Maxwell correspondence names a network of Clinton-world figures orbitin
 | **Mar 2011** | FBI 302: victim places Clinton + Gores on Epstein's island | [EFTA01688359](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01688359.pdf) p.17 |
 | **Jan 2012** | Epstein schedules Ivory Coast trip around Hillary Clinton's visit | [EFTA01843361](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01843361.pdf) |
 | **Sep 2013** | Nikolic: "more interesting at Jeffrey's than at CGI" | [EFTA01961765](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01961765.pdf) |
+| **Sep 2013** | Colom brings Bruno Le Maire to Epstein: "a future candidate to the Presidential election" | [EFTA01957712](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01957712.pdf) |
 | **Nov 2013** | Colom asks Epstein to arrange "discreet" Sarkozy-Clinton meeting | [EFTA01949592](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01949592.pdf) |
 | **Jan 2015** | Epstein's coordinated denial: "CLINTON was never on the island" to Stern, Ito, Maxwell | [EFTA01747912](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01747912.pdf) |
 | **Aug 2017** | Deutsche Bank KYC: Epstein "maintains a close relationship with Bill Clinton" | [EFTA01356008](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01356008.pdf) |
 | **Nov 2018** | Deutsche Bank AML: Epstein "technically an RCA to... Bill Clinton" | [EFTA01420713](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01420713.pdf) |
+| **May 2018** | Epstein asks Villani to invite Le Maire to visit him in Paris | [EFTA02664271](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02664271.pdf) |
 | **Aug 2018** | Ruemmler emails Epstein re Betty Currie + WJC/Patterson event | [EFTA02605153](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02605153.pdf) |
+| **Nov 2018** | Colom confirms to Epstein: Le Maire is now Finance Minister, "I see him regularly" | [EFTA02615793](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02615793.pdf) |
 
 ---
 
@@ -337,7 +362,11 @@ The Band-Maxwell correspondence names a network of Clinton-world figures orbitin
 | Bill Clinton deposition (Feb 27, 2026) | NBC News | [Link](https://www.nbcnews.com/politics/congress/bill-clinton-house-epstein-probe-rare-testimony-former-president-rcna260436) |
 | Clintons agreed to appear after contempt threat | House Oversight Committee | [Link](https://oversight.house.gov/release/chairman-comer-announces-the-clintons-caved-will-appear-for-depositions/) |
 | Five agreed deposition topic areas | CNN, Feb 25, 2026 | [Link](https://www.cnn.com/2026/02/25/politics/how-bill-hillary-clinton-are-preparing-depositions-jeffrey-epstein) |
+| Nina Keita identified as Ouattara's niece, intermediary role | AP / News Ghana, Feb 2026 | [Link](https://www.newsghana.com.gh/ivory-coast-presidents-niece-named-in-epstein-files-as-fixer/) |
+| Epstein supported Karim Wade legal defense, $500K invoices | OCCRP, Feb 2026 | [Link](https://www.occrp.org/en/scoop/epstein-made-efforts-to-free-the-son-of-senegals-former-president-after-corruption-conviction) |
+| Le Maire introduced to Epstein via Colom | Politico Europe, Feb 2026 | [Link](https://x.com/POLITICOEurope/status/2018394294508204329) |
+| Morrison $1M wire to Publicis for Clinton Project | Headline USA, Feb 2026 | [Link](https://headlineusa.com/jeffrey-epsteins-network-helped-fund-the-clinton-foundation-emails-reveal/) |
 
 ---
 
-*Report compiled February 27, 2026. 41 EFTA citations verified against source documents. All external sources checked.*
+*Report compiled February 27, 2026. 50 EFTA citations verified against source documents. All external sources checked.*
