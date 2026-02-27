@@ -8,7 +8,7 @@
 
 The Clinton-Epstein connection is the most widely reported thread in the Epstein saga. The relationship dates to at least 1993: White House visitor logs show Epstein visited the Clinton White House [at least 17 times between 1993 and 1995](https://www.thedailybeast.com/jeffrey-epstein-visited-president-bill-clinton-17-times-white-house-visitor-logs-show/), mostly meeting aide Mark Middleton. On September 29, 1993, Epstein and Maxwell attended a White House donors' reception after Epstein donated $10,000 to the White House Historical Association — [three photographs from that evening](https://www.snopes.com/fact-check/clinton-epstein-maxwell/) show Clinton with Epstein and Maxwell. At least [11 images of Clinton socializing with Epstein and Maxwell](https://www.newsnationnow.com/politics/what-the-epstein-files-say-about-bill-clinton/) have surfaced across various productions.
 
-Clinton flew on Epstein's planes at least 26 times across four international trips in 2002–2003 ([Fox News, May 2016](https://www.foxnews.com/us/flight-logs-show-bill-clinton-flew-on-sex-offenders-jet-much-more-than-previously-known)). On at least five Asia trip legs, no Secret Service agent was listed on the manifest ([Washington Times, May 2016](https://www.washingtontimes.com/news/2016/may/14/bill-clinton-ditched-secret-service-on-multiple-lo/)). The September 2002 Africa trip carried Kevin Spacey, Chris Tucker, Ghislaine Maxwell, Doug Band, and Ron Burkle on Epstein's Boeing 727 for Clinton Foundation HIV/AIDS work. Clinton gave a glowing quote to New York Magazine: "Jeffrey is both a highly successful financier and a committed philanthropist."
+Clinton flew on Epstein's planes at least 26 times across four international trips in 2002–2003 ([Fox News, May 2016](https://www.foxnews.com/us/flight-logs-show-bill-clinton-flew-on-sex-offenders-jet-much-more-than-previously-known); some compilations count [27 flight legs](https://en.wikipedia.org/wiki/Lolita_Express) depending on methodology). On at least five Asia trip legs, no Secret Service agent was listed on the manifest ([Washington Times, May 2016](https://www.washingtontimes.com/news/2016/may/14/bill-clinton-ditched-secret-service-on-multiple-lo/)). The September 2002 Africa trip carried Kevin Spacey, Chris Tucker, Ghislaine Maxwell, Doug Band, and Ron Burkle on Epstein's Boeing 727 for Clinton Foundation HIV/AIDS work. Clinton gave a glowing quote to New York Magazine: "Jeffrey is both a highly successful financier and a committed philanthropist."
 
 Maxwell played a "very central" role in setting up the Clinton Global Initiative, per her own DOJ interview ([CNN, Aug 2025](https://us.cnn.com/2025/08/24/politics/kfile-ghislaine-maxwell-clinton-conference-vis)). A $1 million wire went to Publicis Groupe for the inaugural CGI event ([NYT/GV Wire, Feb 2026](https://gvwire.com/2026/02/09/epstein-files-reveal-scope-of-ghislaine-maxwells-role-in-clinton-circle/)). Epstein's lawyers claimed during 2007 plea negotiations that he was "part of the original group that conceived the Clinton Global Initiative." Maxwell was honored at CGI in September 2013 — years after sexual misconduct allegations were public.
 
@@ -16,7 +16,7 @@ The Band-Maxwell email relationship has been reported in broad strokes: flirtati
 
 No flight records place Clinton on Epstein's island. The U.S. Secret Service FOIA response found no evidence Clinton ever visited Little St. James. Former FBI Director Louis Freeh's defense-commissioned report concluded the same.
 
-As of this writing, the House Oversight Committee is deposing both Clintons under the Epstein Files Transparency Act. [Hillary Clinton testified on February 26, 2026](https://www.nbcnews.com/politics/congress/hillary-clinton-deposition-house-oversight-jeffrey-epstein-probe-rcna260435), stating she never met Epstein and had no new information. [Bill Clinton's deposition is scheduled for February 27, 2026](https://www.nbcnews.com/politics/congress/bill-clinton-house-epstein-probe-rare-testimony-former-president-rcna260436) — the first time a former president has been compelled to testify to Congress. The Clintons initially defied subpoenas, leading to a [bipartisan contempt recommendation](https://oversight.house.gov/release/chairman-comer-announces-the-clintons-caved-will-appear-for-depositions/), before agreeing to appear. The five agreed topic areas include Epstein's relationships with Clinton associates and any knowledge of Epstein's criminal conduct ([CNN, Feb 25, 2026](https://www.cnn.com/2026/02/25/politics/how-bill-hillary-clinton-are-preparing-depositions-jeffrey-epstein)).
+As of this writing, the House Oversight Committee is deposing both Clintons under the Epstein Files Transparency Act. [Hillary Clinton testified on February 26, 2026](https://www.nbcnews.com/politics/congress/hillary-clinton-deposition-house-oversight-jeffrey-epstein-probe-rcna260435), stating she never met Epstein and had no new information. [Bill Clinton's deposition is scheduled for February 27, 2026](https://www.nbcnews.com/politics/congress/bill-clinton-house-epstein-probe-rare-testimony-former-president-rcna260436) — described in press coverage as [the first deposition of a former president to Congress](https://fortune.com/2026/02/27/bill-clinton-jeffrey-epstein-first-deposition-to-congress-by-former-president/) ([Senate records](https://www.senate.gov/committees/SittingPresidentsVicePresidentsWhoHaveTestifiedBeforeCongressionalCommittees.htm) show previous presidential testimony was voluntary). The Clintons initially defied subpoenas, leading to a [bipartisan contempt recommendation](https://oversight.house.gov/release/chairman-comer-announces-the-clintons-caved-will-appear-for-depositions/), before agreeing to appear. The five agreed topic areas include Epstein's relationships with Clinton associates and any knowledge of Epstein's criminal conduct ([CNN, Feb 25, 2026](https://www.cnn.com/2026/02/25/politics/how-bill-hillary-clinton-are-preparing-depositions-jeffrey-epstein)).
 
 This report focuses on what hasn't been reported.
 
@@ -33,14 +33,14 @@ On February 6, 2002, Band emailed Maxwell about departure logistics from a Miami
 > *"Hopefully, 830 or 9 departure from phils. We will take you guys from phils to the plane obviously in our motorcade."*
 > — [EFTA02332312](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02332312.pdf)
 
-"Phils" is **Phil Esformes**, the Miami healthcare executive later convicted in a [$1 billion Medicare fraud case](https://www.justice.gov/opa/pr/florida-health-care-facility-owner-sentenced-20-years-prison-role-13-billion-health-care). The "plane" is Epstein's aircraft. Band's use of "our motorcade" is consistent with a Secret Service protective detail — former presidents receive mandatory USSS protection, and Band was writing from his Office of William Jefferson Clinton email — though the email does not explicitly name the Secret Service. USSS travel logs or agent assignment records for that date could confirm or refute this inference.
+"Phils" is **Phil Esformes**, the Miami healthcare executive later convicted in a [$1 billion Medicare fraud case](https://www.justice.gov/opa/pr/florida-health-care-facility-owner-sentenced-20-years-prison-role-13-billion-health-care). The "plane" is Epstein's aircraft. Band's use of "our motorcade" is consistent with a Secret Service protective detail — former presidents are typically protected by the U.S. Secret Service, and Band was writing from his Office of William Jefferson Clinton email — though the email does not explicitly name the Secret Service. If a protective detail was involved, USSS travel or assignment records should show it.
 
 Maxwell coordinated Epstein's end of the logistics:
 
 > *"JE is not coming to the party as he is a hermit. This means that I am going to drive to Miami for the party and he will fly in to Miami to pick us up — I will need to give him a time to be in position — alternatively maybe the answer is that once at the party your boss gives you a heads up 45 mins before he wants to leave and then that gives me time to tell everyone and get the plane in position"*
 > — [EFTA02333390](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02333390.pdf)
 
-Maxwell refers to Clinton as "your boss." In a follow-up email, Band asked *"So pritzker is not in miami tonight?"* and Maxwell confirmed: *"Yes you are right Tom is not in Miami"* ([EFTA02333392](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02333392.pdf)) — **Tom Pritzker** was expected but absent that night. The operational chain as described in these emails: Band's "motorcade" picks up Maxwell from Esformes's property → delivers her to Epstein's plane → Epstein flies the group out.
+Maxwell refers to Clinton as "your boss." In a follow-up email, Band asked *"So pritzker is not in miami tonight?"* and Maxwell confirmed: *"Yes you are right Tom is not in Miami"* ([EFTA02333392](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02333392.pdf)) — **Tom Pritzker** was expected but absent that night. The operational chain as described in these emails: Band offers to take Maxwell "from phils to the plane... in our motorcade" → Maxwell coordinates Epstein's plane arrival → Epstein flies the group out.
 
 ### The April 2003 Dinner — Google Founders at Epstein's House
 
@@ -187,7 +187,11 @@ This is a formal law enforcement record. The same 302 contains detailed accounts
 
 The victim's allegations about Clinton on the island have been reported via Virginia Giuffre's depositions and media interviews ([Newsweek, Jan 2024](https://www.newsweek.com/bill-clinton-jeffrey-epstein-allegation-documents-island-1857652); [ABC News, Nov 2025](https://abcnews.com/Politics/bill-clinton-jeffrey-epstein/story?id=127629827)). But this specific FBI 302 — taken under oath at a U.S. consulate, with an AUSA on the phone — has not been singled out as primary source material.
 
-The full document is available at [EFTA01688359 on justice.gov](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01688359.pdf) (37 pages; the Clinton/Gore passage is on page 17) and [searchable text on epstein-data.com](https://epstein-data.com/full_text_corpus/pages?efta_number=EFTA01688359). It was produced under Dataset 10 of the DOJ's EFTA release.
+**Primary source access:**
+- **PDF**: [EFTA01688359 on justice.gov](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01688359.pdf) (37 pages, Dataset 10)
+- **Searchable text**: [epstein-data.com](https://epstein-data.com/full_text_corpus/pages?efta_number=EFTA01688359)
+- **Relevant passage**: Page 17, beginning "*met numerous famous people while she was with EPSTEIN*"
+- **SHA-256** (justice.gov download, Feb 20 2026): `a3828564278d371af9b1494e6eb3afb49c351c742357a460b14876a730a8ece3`
 
 ### Epstein's Coordinated Denial (January 2015)
 
@@ -229,7 +233,7 @@ As late as November 2018 — seven months before Epstein's arrest — Deutsche B
 
 Under Anti-Money Laundering regulations, "RCA" status to Politically Exposed Persons triggers enhanced due diligence. Chung was offering a pathway to downgrade Epstein's risk classification if the bank could argue he was "no longer associated" with Clinton and Andrew. The trust held $276.65.
 
-*Note on document provenance: This Chung email thread appears in approximately 17 different EFTAs across the production (including EFTA01379316, among others) — a common artifact of multi-account email collections. We cite EFTA01420713 as our reference copy; the content is identical across all instances.*
+*Note on document provenance: This email thread appears multiple times across the production due to multi-account email collection artifacts. We cite EFTA01420713 as our reference copy; identical text appears in other instances (including EFTA01379316, which is referenced independently on [Epstein Graph](https://epsteingraph.com/documents/EFTA01420713)).*
 
 A year earlier, in August 2017, the KYC approval memo for four Epstein entities (Southern Financial LLC, Southern Trust Company, Jeffrey Epstein, J. Epstein Virgin Islands Foundation) stated plainly:
 
@@ -370,7 +374,11 @@ The Band-Maxwell correspondence names a network of Clinton-world figures orbitin
 | Epstein supported Karim Wade legal defense, $500K invoices | OCCRP, Feb 2026 | [Link](https://www.occrp.org/en/scoop/epstein-made-efforts-to-free-the-son-of-senegals-former-president-after-corruption-conviction) |
 | Le Maire introduced to Epstein via Colom | Politico Europe, Feb 2026 | [Link](https://x.com/POLITICOEurope/status/2018394294508204329) |
 | Morrison $1M wire to Publicis for Clinton Project | Headline USA, Feb 2026 | [Link](https://headlineusa.com/jeffrey-epsteins-network-helped-fund-the-clinton-foundation-emails-reveal/) |
+| First deposition of a former president to Congress | Fortune, Feb 27, 2026 | [Link](https://fortune.com/2026/02/27/bill-clinton-jeffrey-epstein-first-deposition-to-congress-by-former-president/) |
+| Presidential testimony precedents (all prior were voluntary) | U.S. Senate records | [Link](https://www.senate.gov/committees/SittingPresidentsVicePresidentsWhoHaveTestifiedBeforeCongressionalCommittees.htm) |
+| Flight leg count methodology differences (26 vs 27) | Wikipedia / Lolita Express | [Link](https://en.wikipedia.org/wiki/Lolita_Express) |
+| EFTA01420713 content independently mirrored | Epstein Graph | [Link](https://epsteingraph.com/documents/EFTA01420713) |
 
 ---
 
-*Report compiled February 27, 2026. 50 EFTA citations verified against source documents. All external sources checked.*
+*Report compiled February 27, 2026. 50 EFTA citations verified against source documents. All external sources checked. FBI FD-302 (EFTA01688359) SHA-256: `a3828564278d371af9b1494e6eb3afb49c351c742357a460b14876a730a8ece3`.*
