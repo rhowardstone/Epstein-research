@@ -263,7 +263,7 @@ The Band-Maxwell correspondence names a network of Clinton-world figures orbitin
 
 | Person | Role | EFTA Evidence |
 |--------|------|---------------|
-| **Doug Band** | Clinton personal aide, Teneo co-founder. Email: dband@owjc.org | All DS11 Band-Maxwell emails |
+| **Doug Band** | Clinton personal aide, Teneo co-founder. Email: dband@owjc.org | All Band-Maxwell emails cited above |
 | **Richard Attias** | Publicis Events exec, organized CGI. Trusted Maxwell + Epstein "at 300%" | [EFTA02333013](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02333013.pdf), [EFTA02332671](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02332671.pdf) |
 | **Philip Levine** | Real estate developer, later Miami Beach mayor. "Mr. Levine" | [EFTA02332574](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02332574.pdf) |
 | **Phil Esformes** | Miami healthcare exec, later convicted $1B Medicare fraud | [EFTA02332312](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02332312.pdf) |
@@ -340,4 +340,4 @@ The Band-Maxwell correspondence names a network of Clinton-world figures orbitin
 
 ---
 
-*Report compiled February 27, 2026. 41 EFTA citations verified against `full_text_corpus.db`. All datasets confirmed. External sources checked.*
+*Report compiled February 27, 2026. 41 EFTA citations verified against source documents. All external sources checked.*
