@@ -33,14 +33,14 @@ On February 6, 2002, Band emailed Maxwell about departure logistics from a Miami
 > *"Hopefully, 830 or 9 departure from phils. We will take you guys from phils to the plane obviously in our motorcade."*
 > — [EFTA02332312](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02332312.pdf)
 
-"Phils" is **Phil Esformes**, the Miami healthcare executive later convicted in a [$1 billion Medicare fraud case](https://www.justice.gov/opa/pr/florida-health-care-facility-owner-sentenced-20-years-prison-role-13-billion-health-care). The "plane" is Epstein's aircraft. The "motorcade" is Bill Clinton's Secret Service detail.
+"Phils" is **Phil Esformes**, the Miami healthcare executive later convicted in a [$1 billion Medicare fraud case](https://www.justice.gov/opa/pr/florida-health-care-facility-owner-sentenced-20-years-prison-role-13-billion-health-care). The "plane" is Epstein's aircraft. Band's use of "our motorcade" is consistent with a Secret Service protective detail — former presidents receive mandatory USSS protection, and Band was writing from his Office of William Jefferson Clinton email — though the email does not explicitly name the Secret Service. USSS travel logs or agent assignment records for that date could confirm or refute this inference.
 
 Maxwell coordinated Epstein's end of the logistics:
 
 > *"JE is not coming to the party as he is a hermit. This means that I am going to drive to Miami for the party and he will fly in to Miami to pick us up — I will need to give him a time to be in position — alternatively maybe the answer is that once at the party your boss gives you a heads up 45 mins before he wants to leave and then that gives me time to tell everyone and get the plane in position"*
 > — [EFTA02333390](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02333390.pdf)
 
-Maxwell refers to Clinton as "your boss." In a follow-up email, Band asked *"So pritzker is not in miami tonight?"* and Maxwell confirmed: *"Yes you are right Tom is not in Miami"* ([EFTA02333392](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02333392.pdf)) — **Tom Pritzker** was expected but absent that night. The operational chain: Clinton's motorcade picks up Maxwell from Esformes's property → delivers her to Epstein's plane → Epstein flies the group out. A former president's security detail serving as the first leg of transport to a sex offender's aircraft.
+Maxwell refers to Clinton as "your boss." In a follow-up email, Band asked *"So pritzker is not in miami tonight?"* and Maxwell confirmed: *"Yes you are right Tom is not in Miami"* ([EFTA02333392](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02333392.pdf)) — **Tom Pritzker** was expected but absent that night. The operational chain as described in these emails: Band's "motorcade" picks up Maxwell from Esformes's property → delivers her to Epstein's plane → Epstein flies the group out.
 
 ### The April 2003 Dinner — Google Founders at Epstein's House
 
@@ -96,11 +96,11 @@ Maxwell served as the connector between the Clinton and Andrew orbits. Band coor
 > *"Andrew is staying in our hotel in scotland and we are reaching out to him to see if he wants to play golf with me and my boss tom"*
 > — [EFTA02332307](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02332307.pdf)
 
-"My boss tom" — likely Bill Clinton, though the lowercase "tom" has prompted debate about whether it's a name or a typo. Band wrote from his Office of William Jefferson Clinton email address.
+"My boss tom" is ambiguous. Band wrote from his Office of William Jefferson Clinton email address, which points toward Clinton — but the lowercase "tom" could refer to **Tom Pritzker**, who appears elsewhere in the Band-Maxwell emails and was expected at the same social events. This remains unresolved.
 
 After Andrew hosted a dinner for Clinton, Band asked Maxwell for the address to send a thank-you note: *"Julie would like andrews address to send a ty for dinner for clinton."* Maxwell replied: *"HRH Prince Andrew"* ([EFTA02333550](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02333550.pdf)). In April 2004, Maxwell invited Band to dinner with Andrew at "the spice bar" in New York ([EFTA02333272](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02333272.pdf)).
 
-Tom Pritzker forwarded Maxwell a GLOBE tabloid article describing Clinton and Maxwell at a dinner together: *"Clinton was sitting next to her, playing Prince Charming, offering to pour her wine and laughing heartily at everything she said"* ([EFTA02333209](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02333209.pdf)).
+Tom Pritzker forwarded Maxwell a GLOBE tabloid article describing Clinton and Maxwell at a dinner together: *"Clinton was sitting next to her, playing Prince Charming, offering to pour her wine and laughing heartily at everything she said"* ([EFTA02333209](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02333209.pdf)). The GLOBE is a tabloid, not a reliable factual source — the significance is that this characterization was circulating inside their social circle and was forwarded by Pritzker to Maxwell without objection.
 
 **Ted Waitt** relayed Clinton's personal interest in Maxwell: *"Clinton asked how you were"* ([EFTA02333120](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02333120.pdf)). Maxwell managed Clinton's schedule through Band: *"Spoke to Doug about Clinton meeting Maurice [Levy, CEO of Publicis] when he is here. It will not work as it is too close to the election"* ([EFTA02333354](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02333354.pdf)).
 
@@ -187,6 +187,8 @@ This is a formal law enforcement record. The same 302 contains detailed accounts
 
 The victim's allegations about Clinton on the island have been reported via Virginia Giuffre's depositions and media interviews ([Newsweek, Jan 2024](https://www.newsweek.com/bill-clinton-jeffrey-epstein-allegation-documents-island-1857652); [ABC News, Nov 2025](https://abcnews.com/Politics/bill-clinton-jeffrey-epstein/story?id=127629827)). But this specific FBI 302 — taken under oath at a U.S. consulate, with an AUSA on the phone — has not been singled out as primary source material.
 
+The full document is available at [EFTA01688359 on justice.gov](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01688359.pdf) (37 pages; the Clinton/Gore passage is on page 17) and [searchable text on epstein-data.com](https://epstein-data.com/full_text_corpus/pages?efta_number=EFTA01688359). It was produced under Dataset 10 of the DOJ's EFTA release.
+
 ### Epstein's Coordinated Denial (January 2015)
 
 When the victim's allegations went public in January 2015, Epstein dispatched the same denial to multiple contacts on the same day — Clinton was never on the island — escalating from casual dismissal to an organized defense strategy.
@@ -212,7 +214,7 @@ The same email claimed Jane Does 1 and 2 were *"local strippers, that would call
 
 Individual emails from the January 2015 denial have been reported ([NBC News, 2025](https://www.nbcnews.com/politics/donald-trump/epstein-emails-trump-bill-clinton-prince-andrew-what-documents-say-rcna243526); [The Hill, 2025](https://thehill.com/homenews/administration/5603820-epstein-denies-clinton-island-visit-emails/)). What hasn't been highlighted is the **coordinated scope** — the same core denial dispatched to multiple contacts on the same day, with the Ito email escalating to emphatic caps ("NEVER on the island NEVER"), alongside a joint defense strategy document proposing witness deployment. This was a PR operation, not a private conversation.
 
-The contradiction stands: an FBI 302 from 2011 records a victim placing Clinton on the island. Epstein denied it categorically in 2015. One of these is wrong.
+The contradiction stands: an FBI 302 from 2011 records a victim placing Clinton on the island. Epstein denied it categorically in 2015. The logically complete set of explanations: (1) Epstein was lying to protect Clinton and himself; (2) the victim's recollection was inaccurate — she met Clinton elsewhere and conflated the location; (3) the FD-302 contains a drafting or attribution error introduced during the two-year gap between interview (March 2011) and report (July 2013); or (4) "island" referred to a different property. No flight records or USSS travel logs placing Clinton on Little St. James have surfaced. The Epstein denial emails, however, treat the claim as a serious enough threat to warrant a coordinated multi-contact rebuttal — which is not the typical response to a trivially disprovable falsehood.
 
 ---
 
@@ -226,6 +228,8 @@ As late as November 2018 — seven months before Epstein's arrest — Deutsche B
 > — [EFTA01420713](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01420713.pdf)
 
 Under Anti-Money Laundering regulations, "RCA" status to Politically Exposed Persons triggers enhanced due diligence. Chung was offering a pathway to downgrade Epstein's risk classification if the bank could argue he was "no longer associated" with Clinton and Andrew. The trust held $276.65.
+
+*Note on document provenance: This Chung email thread appears in approximately 17 different EFTAs across the production (including EFTA01379316, among others) — a common artifact of multi-account email collections. We cite EFTA01420713 as our reference copy; the content is identical across all instances.*
 
 A year earlier, in August 2017, the KYC approval memo for four Epstein entities (Southern Financial LLC, Southern Trust Company, Jeffrey Epstein, J. Epstein Virgin Islands Foundation) stated plainly:
 
@@ -303,7 +307,7 @@ The Band-Maxwell correspondence names a network of Clinton-world figures orbitin
 | Date | Event | Source |
 |------|-------|--------|
 | **Dec 2001** | Band coordinates Prince Andrew golf with Clinton through Maxwell | [EFTA02332307](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02332307.pdf) |
-| **Feb 2002** | Clinton motorcade transports Maxwell to Epstein's plane in Miami | [EFTA02332312](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02332312.pdf) |
+| **Feb 2002** | Band's "motorcade" transports Maxwell to Epstein's plane in Miami | [EFTA02332312](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02332312.pdf) |
 | **Apr 2002** | Band to Maxwell: "you are my pimp but at the same time you are my lover" | [EFTA02333508](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02333508.pdf) |
 | **Sep 2002** | Africa trip: Clinton, Spacey, Tucker, Maxwell, Band, Burkle on Epstein's 727 | [Fox News](https://www.foxnews.com/us/flight-logs-show-bill-clinton-flew-on-sex-offenders-jet-much-more-than-previously-known) |
 | **Oct 2002** | Band invites Maxwell + Epstein to McCartney at Burkle's Staples Center suite | [EFTA02332356](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02332356.pdf) |
