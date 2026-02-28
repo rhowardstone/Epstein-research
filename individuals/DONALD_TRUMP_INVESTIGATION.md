@@ -160,9 +160,9 @@ Perry Lang worked as Epstein's private chef full-time for four years. Interviewe
 
 ---
 
-### 1B. Maxwell Introducing Women to Trump
+### 1B. Maxwell Introducing Adult Women to Trump (No Misconduct Alleged)
 
-Multiple victims describe a pattern: Ghislaine Maxwell introducing them to Trump in a manner similar to how she introduced women to Epstein.
+Four victims — all adults at the time (approximately 20–22) — describe Maxwell introducing them to Trump. **None allege misconduct by Trump.** One explicitly states "nothing happened." The significance is the *pattern*: victims describe Maxwell's introduction method as identical to how she introduced them to Epstein.
 
 **Victim FD-302, 07/27/2021 — Serial 631**
 [EFTA00158676](https://www.justice.gov/epstein/files/DataSet%209/EFTA00158676.pdf) (DS9), page 6
@@ -278,7 +278,7 @@ Trump is mentioned only as the owner of Mar-a-Lago — the *setting* where recru
 
 ---
 
-### 1F. The Trump Photo — Serial 3501.045
+### 1F. The Trump Photo — Serial 3501.045 (3 of 4 FBI Interviews Missing)
 
 **Victim FD-302, 07/24/2019 — Serial 216**
 [EFTA01245620](https://www.justice.gov/epstein/files/DataSet%209/EFTA01245620.pdf) (DS9, 9 pages)
@@ -287,7 +287,7 @@ Trump is mentioned only as the owner of Mar-a-Lago — the *setting* where recru
 
 The victim identified Epstein from a cropped photo as "JEFF," the man who sexually abused her from age ~13. The uncropped image showed Trump. The victim had deliberately cropped Trump out.
 
-**This is the sole published 302 for serial 3501.045. Three additional FBI interviews of this victim (June 7, August 20, October 16 2019) are listed in the prosecution disclosure index but are NOT in the published files.** See the [Missing FBI 302s dossier](../institutional/FBI_302_MISSING_SERIALS_DOSSIER.md).
+**This is the sole published 302 for serial 3501.045. Three additional FBI interviews of this victim (June 7, August 20, October 16 2019) are listed in the prosecution disclosure index but are NOT in the published files.** This is potentially the most significant structural gap in the DOJ's EFTA release as it relates to Trump. The missing interviews have been widely reported: [NPR](https://www.npr.org/2026/02/24/nx-s1-5723968/epstein-files-trump-accusation-maxwell) found DOJ removed or withheld files related to accusations about Trump; [CNN](https://edition.cnn.com/2026/02/24/us/epstein-files-trump-accuser-missing-files-invs) identified 90+ missing records; investigative journalist Julie K. Brown [flagged the gap on Substack](https://substack.com/@jkbjournalist/note/c-216470227). See the [Missing FBI 302s dossier](../institutional/FBI_302_MISSING_SERIALS_DOSSIER.md) for full analysis.
 
 ---
 
@@ -705,7 +705,7 @@ A mix of plausible leads (the Mar-a-Lago party tip, the limo driver account) and
 
 ### What Is Missing
 
-Serial 3501.045 — the victim who identified Epstein from a photo that also showed Trump — has **3 of 4 FBI interview reports missing** from the published files. The interviews from June 7, August 20, and October 16 2019 are listed in the prosecution disclosure index but not in the EFTA production. See the [Missing FBI 302s dossier](../institutional/FBI_302_MISSING_SERIALS_DOSSIER.md).
+Serial 3501.045 — the victim who identified Epstein from a photo that also showed Trump — has **3 of 4 FBI interview reports missing** from the published files. The interviews from June 7, August 20, and October 16 2019 are listed in the prosecution disclosure index but are not in the EFTA production. This gap has been widely reported ([NPR](https://www.npr.org/2026/02/24/nx-s1-5723968/epstein-files-trump-accusation-maxwell), [CNN](https://edition.cnn.com/2026/02/24/us/epstein-files-trump-accuser-missing-files-invs), [Julie K. Brown/Substack](https://substack.com/@jkbjournalist/note/c-216470227)) and is the subject of ongoing congressional inquiry. See the [Missing FBI 302s dossier](../institutional/FBI_302_MISSING_SERIALS_DOSSIER.md) for full analysis.
 
 ---
 
