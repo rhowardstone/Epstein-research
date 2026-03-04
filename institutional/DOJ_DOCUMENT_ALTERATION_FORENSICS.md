@@ -1,5 +1,7 @@
 # DOJ Document Alteration Forensics: How "Victim Privacy" Became a Blanket Redaction Tool
 
+> **Note (March 3, 2026):** The entity extraction counts in Section 7 contained significant false positives for name detection. A more rigorous classification pipeline — page-level diffing with a 72B language model classifying each individual change — is running now. Updated counts expected within 24-48 hours. The core findings (phone redactions, SAR gutting, CVRA filing redactions, Privacy Act legal analysis) are verified and unaffected.
+
 ## A forensic analysis of 42,782 re-processed EFTA documents
 
 **Date**: March 3, 2026
@@ -13,7 +15,7 @@
 
 Between the January 30, 2026 release and the present, the Department of Justice re-processed **42,782 documents** in its Epstein Files Transparency Act (EFTA) production. Our forensic pipeline compared the original archived PDFs against the currently-hosted versions, extracting and classifying every change.
 
-The results: **11,287 phone numbers redacted. 105,597 name instances removed from the text layer. 12,752 dates of birth erased. 10,188 email addresses deleted.** Four FinCEN Suspicious Activity Reports were gutted, losing over 95% of their text content. A CVRA legal filing had 27 named persons surgically removed. Entire email chains were reduced to zero readable content. Visual verification of key documents confirms phone redactions are deliberate black-bar markings applied to the PDF, not OCR artifacts.
+The results: **over 10,000 phone numbers redacted**, with visual black-bar markings confirmed on key documents. Four FinCEN Suspicious Activity Reports were gutted, losing over 95% of their text content. A CVRA legal filing had three full pages of deposition testimony blacked out and 12 unique named persons surgically removed. Entire email chains were reduced to zero readable content.
 
 The DOJ's own [Attorney Review Protocol](https://www.justice.gov/media/1426281/dl) (January 4, 2026) reveals the mechanism: a dual-track redaction system. Track one covers victim PII under the EFTA's narrow statutory authority. Track two invokes the **Privacy Act** as a separate, blanket basis for stripping telephone numbers, email addresses, dates of birth, government employee names, and more from *all persons* -- not just victims. The EFTA does not enumerate the Privacy Act among its five permitted withholding categories. No Federal Register justification for this expanded authority has been published.
 
@@ -263,50 +265,22 @@ Section 2(c)(2) of the EFTA mandates that "[a]ll redactions must be accompanied 
 | Classified as AMBIGUOUS | 66 (0.3%) |
 | Classified as UNKNOWN | 8 (<0.1%) |
 
-### Removed Entity Counts
+### Removed Entity Counts (Automated Extraction)
 
-| Entity Type | Instances Removed | Unique Documents |
-|-------------|------------------|-----------------|
-| Names | 105,597 | 13,191 |
-| Dates of birth | 12,752 | 2,772 |
-| Phone numbers | 11,287 | 1,838 |
-| Email addresses | 10,188 | 6,822 |
-| Social Security numbers | 3,915 | 1,102 |
-| Street addresses | 2,332 | 1,200 |
-| Account numbers | 119 | 89 |
-| **Total** | **146,190** | -- |
+Our pipeline extracted entities from text blocks identified as removed during the diffing process, then cross-referenced each entity against the added text to filter false positives. An entity appearing in both the removed *and* added text is context that survived the edit, not a genuine removal. The table below reports both the raw extraction count and the filtered estimate.
 
-### Named Person Removal (Top 25, Registry-Matched)
+| Entity Type | Raw Extraction | False Positive Rate | Filtered Estimate | Unique Documents |
+|-------------|---------------|--------------------|--------------------|-----------------|
+| Phone numbers | 11,287 | 10.4% | ~10,100 | 1,838 |
+| Email addresses | 10,188 | 25.2% | ~7,600 | 6,822 |
+| Social Security numbers | 3,915 | 28.9% | ~2,800 | 1,102 |
+| Street addresses | 2,332 | 44.3% | ~1,300 | 1,200 |
+| Dates of birth | 12,752 | 71.5% | ~3,600 | 2,772 |
+| Account numbers | 119 | -- | ~119 | 89 |
 
-| Person | Times Removed |
-|--------|--------------|
-| Jeffrey Epstein | 3,363 |
-| Lesley Groff | 892 |
-| Bella Klein | 169 |
-| Sarah Kellen | 147 |
-| Eva Dubin | 127 |
-| Larry Visoski | 119 |
-| Ghislaine Maxwell | 115 |
-| Prince Andrew | 107 |
-| Jane Does | 102 |
-| Woody Allen | 97 |
-| Karyna Shuliak | 97 |
-| Bradley Edwards | 90 |
-| Alan Dershowitz | 88 |
-| Leon Black | 87 |
-| Virginia Giuffre | 79 |
-| Alexander Acosta | 76 |
-| Nadia Marcinkova | 75 |
-| Darren Indyke | 75 |
-| Adriana Ross | 55 |
-| Courtney Wild | 51 |
-| Boris Nikolic | 51 |
-| Susan Hamblin | 43 |
-| David Blaine | 39 |
-| Leslie Wexner | 38 |
-| Donald Trump | 34 |
+**Phone numbers are the most reliable count** — the 10.4% false positive rate is low because phone patterns are distinctive and the Protocol specifically targets them. The visually verified examples in Section 3 confirm that phone redactions are deliberate black-bar markings.
 
-**299 unique named individuals** had their names removed across the corpus. (Where the same person appears under multiple names — e.g., Virginia Giuffre / Virginia Roberts — counts are listed under the primary registry name; the combined total for Giuffre/Roberts is 148.) Some of these are victims whose removal is mandated by the EFTA. Others -- Jeffrey Epstein, Ghislaine Maxwell, Prince Andrew, Alan Dershowitz, Leon Black, Woody Allen, Leslie Wexner -- are not.
+**Name removal counts are omitted from this table.** Our automated name extraction (regex matching any two-or-more capitalized words in removed text blocks) produced 105,597 raw hits but with a false positive rate exceeding 49% even after basic filtering — and the surviving entries are still heavily contaminated with OCR artifacts ("Transpodalion Charge," "Fuel Surtharge") and document field labels. Public figure names (Prince Andrew, Woody Allen, Alan Dershowitz) were overwhelmingly false positives: their names appeared in paragraphs that were modified for other reasons (typically phone number removal) but the names themselves remained in the document. By contrast, victim and witness names (Sarah Kellen, Nadia Marcinkova, Virginia Roberts) showed lower false positive rates, consistent with the DOJ Protocol's instructions for victim PII redaction. A more rigorous analysis using a capable language model to classify individual changes is underway; we will update this section when it completes.
 
 ### Dataset Distribution
 
@@ -388,7 +362,7 @@ The following datasets underlie this report and are [available on GitHub](https:
 | [`removed_entities_export.csv`](https://github.com/rhowardstone/Epstein-research-data/blob/main/alteration_analysis/removed_entities_export.csv) | 146,190 | Every entity (name, phone, email, DOB, SSN, address, account) detected as removed, with corpus hit counts and registry matches |
 | `alteration_results.db` | 42,782 files | Full SQLite database with diff text, entity extractions, LLM analyses |
 
-The LLM classifications were produced by a local 8B-parameter model and should be treated as automated triage, not expert judgment. We encourage researchers to verify individual findings against the source PDFs, which are accessible via both justice.gov and the [JDrive archive](https://jmail.world/drive).
+The LLM classifications were produced by a local 8B-parameter model and should be treated as automated triage, not expert judgment. The `removed_entities_export.csv` contains raw entity extractions from diff text blocks, which have significant false positive rates for name detection (see Section 7). We encourage researchers to verify individual findings against the source PDFs, which are accessible via both justice.gov and the [JDrive archive](https://jmail.world/drive).
 
 ---
 
