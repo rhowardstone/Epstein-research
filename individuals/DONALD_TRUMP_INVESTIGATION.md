@@ -256,7 +256,7 @@ The FBI directly asked this victim about a Trump allegation. She denied it.
 ---
 
 **Attorney Bradley Edwards — Affidavit** *(not an FD-302)*
-[HOUSE_OVERSIGHT_013463](https://www.justice.gov/epstein/files/DataSet%2099/HOUSE_OVERSIGHT_013463.pdf) (DS99)
+[HOUSE_OVERSIGHT_013463](https://wikiepstein.com/) (DS99)
 
 > *"While research by other plaintiffs' attorneys and myself has uncovered other persons that were acquaintances of Mr. Epstein, specifically Donald Trump, Alan Dershowitz, Bill Clinton, Tommy Mottola, and David Copperfield, we have no information that any of those people (other than Mr. Dershowitz) have spoken to Mr. Epstein about Jane Doe or any of the other specific victims."*
 
@@ -390,13 +390,13 @@ The victim was recruited through a massage therapist ("GYPSY") and flown from Sa
 [EFTA00081220](https://www.justice.gov/epstein/files/DataSet%209/EFTA00081220.pdf) (DS9) | Multiple copies in production
 
 > *Q: "Have you ever had a personal relationship with Donald Trump?"*
-> *A: "Yes, sir."*
+> *A: "What do you mean by 'personal relationship,' sir?"*
 > *Q: "Have you socialized with him?"*
 > *A: "Yes, sir."*
 > *Q: "Have you ever socialized with Donald Trump in the presence of females under the age of 18?"*
-> *A: [Invokes Fifth Amendment]*
+> *A: "Though I'd like to answer that question, at least today I'm going to have to assert my Fifth, Sixth and 14th Amendment Right, sir."*
 
-Epstein gave identical Fifth Amendment responses for Dershowitz, Mottola, and Copperfield.
+Epstein deflected the "personal relationship" question, confirmed socializing, then invoked three constitutional amendments on the minors question. He gave identical Fifth Amendment responses for Dershowitz, Mottola, and Copperfield.
 
 **Document type:** Civil deposition, not an FD-302. **Reported:** Video resurfaced widely. [TNR](https://newrepublic.com/post/198312/donald-trump-relationship-epstein-video-testimony), [Newsweek](https://www.newsweek.com/video-jeffrey-epstein-talking-about-donald-trump-resurfaces-2103285).
 
@@ -646,33 +646,68 @@ These spreadsheets track FBI dispositions of every NTOC tip mentioning prominent
 > *"[She] said [another victim] had shown her an orange colored book where EPSTEIN maintained famous peoples' phone numbers. BILL CLINTON and DONALD TRUMPs' telephone numbers were in the book as well as many others."*
 
 ### Epstein's "Holy Grail" Journal
-[HOUSE_OVERSIGHT_010566](https://www.justice.gov/epstein/files/DataSet%2099/HOUSE_OVERSIGHT_010566.pdf) (DS99)
+[HOUSE_OVERSIGHT_010566](https://wikiepstein.com/) (DS99)
 
 Lists *"Journal, Exhibit F, at 85 (Donald Trump)"* — Trump appears at page 85 of Epstein's journal.
 
 ### 1997 Photograph
-[HOUSE_OVERSIGHT_010486](https://www.justice.gov/epstein/files/DataSet%2099/HOUSE_OVERSIGHT_010486.pdf) (DS99)
+[HOUSE_OVERSIGHT_010486](https://wikiepstein.com/) (DS99)
 
 Photo caption: *"Jeffrey Epstein, Donald Trump, and (newly signed Trump Model) Ingrid Seynhaeve, attending the Victoria's Secret Angels party at Laura Belle club in New York City on April 8, 1997."*
 
 Also: *"Deborah Blohm, Jeffrey Epstein, Ghislaine Maxwell, and Gwendolyn Beck attend a reception at Mar-a-Lago, 1995."*
 
 ### The Famous 2002 Quote
-[HOUSE_OVERSIGHT_032040](https://www.justice.gov/epstein/files/DataSet%2099/HOUSE_OVERSIGHT_032040.pdf) (DS99)
+[HOUSE_OVERSIGHT_032040](https://wikiepstein.com/) (DS99)
 
 New York Magazine article containing Trump's quote: *"I've known Jeff for fifteen years. Terrific guy... He's a lot of fun to be with. It is even said that he likes beautiful women as much as I do, and many of them are on the younger side."*
 
 ### Maxwell Proffer — Meeting Trump Through Robert Maxwell
-[DOJ-OGR-00022393](https://www.justice.gov/epstein/files/DataSet%2099/DOJ-OGR-00022393.pdf), [DOJ-OGR-00022916](https://www.justice.gov/epstein/files/DataSet%2099/DOJ-OGR-00022916.pdf) (DS99)
+[DOJ-OGR-00022393](https://wikiepstein.com/), [DOJ-OGR-00022916](https://wikiepstein.com/) (DS99)
 
 > *"I may have met Donald Trump at that time, because my father was friendly with him and liked him very much."*
 
+### "That Dog That Hasn't Barked Is Trump"
+[EFTA01989668](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01989668.pdf) (DS10) — Seized email, 04/02/2011
+
+Epstein to Maxwell ("Gmax"):
+
+> *"i want you to realize that that dog that hasn't barked is trump*
+> *spent hours at my house with him .. he has never*
+> *once been mentioned. police chief. etc. im 75 % there"*
+
+Maxwell's reply: *"I have been thinking about that..."*
+
+Written in April 2011 — two years after Epstein's release from the Palm Beach County jail. The Sherlock Holmes allusion ("the dog that didn't bark") means the absence itself is significant: Trump, despite spending "hours at my house," had not been publicly linked to Epstein's crimes. "Police chief" likely refers to Palm Beach PD Chief Michael Reiter, who reportedly spoke with Trump during the investigation. "im 75% there" is ambiguous — 75% toward what is unstated.
+
+**Document type:** Seized email evidence. **Reported:** This email was widely covered when unsealed.
+
 ### Brunel in Trump Tower
-[HOUSE_OVERSIGHT_011908](https://www.justice.gov/epstein/files/DataSet%2099/HOUSE_OVERSIGHT_011908.pdf) (DS99)
+[HOUSE_OVERSIGHT_011908](https://wikiepstein.com/) (DS99)
 
 > *"Brunel also reportedly left his Trump Tower digs in 1999 after complaints of night carousing."*
 
 Jean-Luc Brunel (Epstein's modeling associate, later found dead in his Paris prison cell) lived in Trump Tower.
+
+### Epstein's Office Calling Trump Organization
+[EFTA01242527](https://www.justice.gov/epstein/files/DataSet%209/EFTA01242527.pdf) (DS9) — 2,153 pages, zero redactions
+
+Epstein's office landline records (212-750-1176 and related lines) contain five calls to the Trump Organization's main number (212-832-2000) and one call to Mar-a-Lago (561-832-2600):
+
+| Date | Epstein Line | Destination | Page |
+|------|-------------|-------------|------|
+| Jan 22, 2003 | 212-750-9895 | Trump Org | p316 |
+| Nov 17, 2003 | 212-750-9895 | Trump Org | p327 |
+| Feb 2, 2005 | 212-772-9416 | Trump Org | p431 |
+| Feb 3, 2005 | 212-750-1176 | Trump Org (9 min) | p219 |
+| Feb 3, 2005 | 212-879-9366 | Mar-a-Lago | p1588 |
+| Nov 27, 2006 | 212-750-1176 | Trump Org | p306 |
+
+The Feb 2-3, 2005 sequence is notable: in a 48-hour span, Epstein's office called Trump Org twice, Mar-a-Lago once, a New Albany, OH number (Wexner orbit), Maxwell twice, and David Stern twice. The Nov 27, 2006 call falls during NPA negotiations — Trump Org at 11:19 AM, then Maxwell at 11:36 AM. Trump Org does NOT appear in the unredacted cell phone bills; the contact was office-to-office.
+
+**Caveat:** Calls to an organization's main number do not establish contact with a specific individual. See [Phone Records Investigation](../evidence/PHONE_RECORDS_INVESTIGATION.md) for full analysis.
+
+**Document type:** Seized phone records. **Not previously reported** as specific call records.
 
 ### Epstein's Modeling Ambitions
 [EFTA01248647](https://www.justice.gov/epstein/files/DataSet%209/EFTA01248647.pdf) (DS9)
@@ -694,10 +729,11 @@ Jean-Luc Brunel (Epstein's modeling associate, later found dead in his Paris pri
 6. **One victim (age 20-22) explicitly stated** "nothing happened" between her and Trump
 7. **Maxwell recruited a victim at Trump's Mar-a-Lago** (the most widely documented single narrative)
 8. **Barnett was referred from the Trump Organization to Epstein** and met Maxwell at Trump Organization offices
-9. **Epstein was still discussing Trump and geopolitics** with Saudi contacts in September 2017 and tracking Trump's Palm Beach schedule in November 2017
-10. **Deutsche Bank had both Epstein and Trump as "covered clients"** requiring special compliance review
-11. **Epstein was on the phone with Trump during abuse of minors** — a 14-year-old victim reports Epstein was on the phone with Trump during one of her massage sessions (no allegation against Trump)
-12. **Multiple victims describe Epstein as "always on the phone" with Trump** alongside Clinton and others, bragging about the calls to intimidate and impress
+9. **Epstein told Maxwell in 2011** that "that dog that hasn't barked is trump" — noting that Trump, despite spending "hours at my house," had never been mentioned in connection to Epstein's crimes; Maxwell replied "I have been thinking about that"
+10. **Epstein was still discussing Trump and geopolitics** with Saudi contacts in September 2017 and tracking Trump's Palm Beach schedule in November 2017
+11. **Deutsche Bank had both Epstein and Trump as "covered clients"** requiring special compliance review
+12. **Epstein was on the phone with Trump during abuse of minors** — a 14-year-old victim reports Epstein was on the phone with Trump during one of her massage sessions (no allegation against Trump)
+13. **Multiple victims describe Epstein as "always on the phone" with Trump** alongside Clinton and others, bragging about the calls to intimidate and impress
 
 ### What the FBI Tips Contain
 
