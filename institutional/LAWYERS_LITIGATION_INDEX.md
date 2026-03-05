@@ -6,6 +6,8 @@ Updated: March 2026
 Scope: 1.39M documents, 2.77M pages across 12 DOJ datasets + DS98 (FBI Vault) + DS99 (House Oversight)
 Databases: full_text_corpus.db, prosecutorial_query_graph.db, concordance_complete.db, persons_registry.json
 
+**Machine-readable data**: [LEGAL_ACTORS.csv](https://github.com/rhowardstone/Epstein-research/blob/main/institutional/LEGAL_ACTORS.csv) (129 entries, 12 columns) | [LITIGATION_MATTERS.csv](https://github.com/rhowardstone/Epstein-research/blob/main/institutional/LITIGATION_MATTERS.csv) (37 cases, 15 columns)
+
 ---
 
 ## EXECUTIVE SUMMARY
