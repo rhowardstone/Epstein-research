@@ -31,6 +31,7 @@
 !intelligence/*.md
 !institutional/
 !institutional/*.md
+!institutional/*.csv
 !art/
 !art/*.md
 !methodology/
