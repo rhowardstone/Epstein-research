@@ -6,7 +6,7 @@
 
 ## Executive Summary
 
-On or around March 5, 2026, the Department of Justice added 23 documents totaling 1,046 pages to the Dataset 12 section of its Epstein Files Transparency Act database. The EFTA numbers on these documents (02731790 through 02858497) fall far outside the original DS12 range (which ended at EFTA02731783), indicating they were numbered for a separate production batch.
+On or around March 5, 2026, the Department of Justice added 23 documents totaling 1,046 pages to the Dataset 12 section of its Epstein Files Transparency Act database. The new documents begin at EFTA02731790, contiguous with the original DS12 endpoint (EFTA02731783, a 7-page document running through 02731789).
 
 The documents include:
 
@@ -68,9 +68,9 @@ The [earliest memo](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02857
 - **225 enumerated overt acts**
 - Forfeiture of the Palm Beach mansion (358 El Brillo Way) and both aircraft: the Boeing 727 (N908JE, owned through JEGE Inc.) and the Gulfstream (N909JE, owned through Hyperion Air Inc.)
 
-Epstein was classified as an **"extremely high flight risk"** with a fortune exceeding $1 billion. He had homes on multiple continents and two aircraft capable of international travel. The line prosecutor recommended refusing any pre-indictment interview to prevent him from fleeing.
+Epstein was classified as an **"extremely high flight risk"** (p.1) with a fortune exceeding $1 billion. He had homes on multiple continents and two aircraft capable of international travel. The line prosecutor recommended refusing any pre-indictment interview to prevent him from fleeing.
 
-The FBI had intelligence on Epstein's movements for May 16-17, 2007. The plan: present a sealed indictment on May 15 and arrest him. That never happened.
+The FBI had intelligence on Epstein's movements for May 16-17, 2007 (p.1). The plan: present a sealed indictment on May 15 and arrest him. That never happened.
 
 ### How the Case Was Sanded Down
 
@@ -85,21 +85,21 @@ The gap between "60 counts with mandatory life" and "state plea to solicitation 
 
 ### The Groff Incident
 
-One detail from the memos stands out. After FBI agents attempted to interview Epstein's assistant Leslie Groff, she went upstairs "claiming she needed to change her baby" but instead called Epstein, who rerouted his flight to avoid agents planning to serve target letters. The prosecutor noted: **"After this meeting with Groff, Epstein's team began negotiating in earnest to end this investigation."**
+One detail from the memos stands out (EFTA02857524, p.149). After FBI agents attempted to interview Epstein's assistant Leslie Groff, she went upstairs "claiming she needed to change her baby" but instead called Epstein, who rerouted his flight to avoid agents planning to serve target letters. The prosecutor noted: **"After this meeting with Groff, Epstein's team began negotiating in earnest to end this investigation."**
 
 ### Other Details from the Prosecution Memos
 
-The memos contain 404(b) evidence from the early 1990s. Epstein flew a young high school girl to his New Mexico ranch, where he and Ghislaine Maxwell "fondled the girl and encouraged her to engage in additional sexual activity, which she refused." The girl's family was from a "well-to-do" background and threatened to report him. Maxwell told one of them she **"could just disappear"** if she told anyone.
+The memos contain 404(b) evidence from the early 1990s (EFTA02857524, pp.73, 131). Epstein flew a young high school girl to his New Mexico ranch, where he and Ghislaine Maxwell "fondled the girl and encouraged her to engage in additional sexual activity, which she refused." The girl's family was from a "well-to-do" background and threatened to report him. Maxwell told one of them she **"could just disappear"** if she told anyone.
 
-When Vanity Fair found out and wrote a story, the reporter "was approached by someone from Epstein's camp and became so fearful for her safety and the safety of her young child that the piece was rewritten to remove all references to any sexual conduct." The reporter refused to speak to the FBI.
+When Vanity Fair found out and wrote a story (pp.73, 145), the reporter "was approached by someone from Epstein's camp and became so fearful for her safety and the safety of her young child that the piece was rewritten to remove all references to any sexual conduct." The reporter refused to speak to the FBI.
 
-Among the evidence: Epstein offered victims David Copperfield tickets, and one victim spoke with Copperfield on the telephone. A message pad recovered from the house had a call from Copperfield asking Epstein to return his call. One recruiter estimated she brought **30 girls to Epstein's Palm Beach home in 18 months**.
+Among the evidence (pp.48, 58, 68): Epstein offered victims David Copperfield tickets, and one victim spoke with Copperfield on the telephone. A message pad recovered from the house had a call from Copperfield asking Epstein to return his call. One recruiter estimated she brought **30 girls to Epstein's Palm Beach home in 18 months**.
 
 ### The Immunity Request
 
 A separate [3-page memo](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02857729.pdf) sought immunity for a cooperating witness under 18 USC Sections 6001-6003. The witness began as a "masseuse" when she was under 18, then transitioned to recruiting other girls, receiving $200 per referral. Her attorney refused to let her cooperate without full immunity.
 
-The AUSA was candid about the bind: "approximately 90% of the identified girls brought other girls to Epstein, so all of them would feel at risk" if the DOJ prosecuted victim-recruiters. The memo also reveals that Epstein "shipped off" another potential cooperator to the Middle East to work for one of his companies.
+The AUSA was candid about the bind (p.3): "approximately 90% of the identified girls brought other girls to Epstein, so all of them would feel at risk" if the DOJ prosecuted victim-recruiters. The memo also reveals (p.2) that Epstein "shipped off" another potential cooperator to the Middle East to work for one of his companies.
 
 For more on the prosecution's collapse, see [Prosecution Failures Analysis](https://epstein-data.com/reports/institutional/PROSECUTION_FAILURES_ANALYSIS.html) and [Grand Jury Subpoena Analysis](https://epstein-data.com/reports/pqg_lines_of_investigation/INDEX.html).
 
@@ -240,22 +240,22 @@ The PDF bundles the entire case file into one place: Electronic Communications, 
 ### What's In It
 
 **Staff interviews**:
-- **Larry Visoski** (chief pilot): mentioned a condom joke involving Trump on the aircraft
-- **David Rogers** (pilot): detailed both planes' ownership through JEGE Inc. and Hyperion Air; said there'd been "too many to count" females ages 21-23 but never witnessed underage girls
-- **David Mullen** (chef): identified John Kerry and "Aaron Barak" as aircraft passengers; estimated four or five teenaged females visited the Palm Beach residence daily
-- **Alfredo Rodriguez** (butler): described the "black book," daily routine
-- **Janusz Banasiak** (houseman): property management, petty cash
-- **Brice Gordon** (Zorro Ranch manager): interview interrupted (see below)
+- **Larry Visoski** (chief pilot, pp.70-72): mentioned a condom joke involving Trump on the aircraft (p.71)
+- **David Rogers** (pilot, pp.70-71, 88): detailed both planes' ownership through JEGE Inc. and Hyperion Air; said there'd been "too many to count" females ages 21-23 but never witnessed underage girls
+- **David Mullen** (chef, pp.80-83): identified John Kerry and "Aaron Barak" as aircraft passengers (p.80); estimated four or five teenaged females visited the Palm Beach residence daily (p.81)
+- **Alfredo Rodriguez** (butler, p.109): described the "black book," daily routine
+- **Janusz Banasiak** (houseman, pp.113-116): property management, petty cash
+- **Brice Gordon** (Zorro Ranch manager, p.104): interview interrupted (see below)
 
 **20-25 victim interviews** documented as Electronic Communications.
 
 **Complete subpoena sub-file**: Administrative subpoenas to Cingular, T-Mobile, Sprint, BellSouth, MetroPCS, Verizon, AT&T (subscriber info and call detail records), JetBlue, MySpace, Road Runner, Extra Touch Flowers, Colonial Bank, Capital One, and Chase/Washington Mutual.
 
-**Physical evidence**: ~50+ 1A/1C cover sheets for biographical files, photographs, and notes. Victim Assistance Program letters (~30+) with VIN/PIN identifiers. CHS (Confidential Human Source) reports from Jacksonville (2010). A grand jury subpoena to the Dalton School for Epstein's employment records.
+**Physical evidence**: ~50+ 1A/1C cover sheets for biographical files, photographs, and notes. Victim Assistance Program letters (~30+) with VIN/PIN identifiers. CHS (Confidential Human Source) reports from Jacksonville (2010). A grand jury subpoena to the Dalton School for Epstein's employment records (pp.28-30).
 
 ### The Brice Gordon Interruption
 
-FBI agents interviewing Brice Gordon, the ranch manager at Zorro Ranch in New Mexico, were interrupted in real time. Gordon and his wife had managed the ranch for about four years. He was describing Epstein's routine (roughly 50 days a year, 2-3 week summer stays, shuttled by helicopter) when his wife received a phone call from the "main office." The interview was immediately ended.
+FBI agents interviewing Brice Gordon, the ranch manager at Zorro Ranch in New Mexico, were interrupted in real time (p.104). Gordon and his wife had managed the ranch for about four years. He was describing Epstein's routine (roughly 50 days a year, 2-3 week summer stays, shuttled by helicopter) when his wife received a phone call from the "main office." The interview was immediately ended.
 
 ### Three Structural Problems
 
@@ -392,7 +392,7 @@ This report covers material that intersects with several existing analyses:
 
 1. **Source material**: All document text is drawn from the full text corpus database. The 23 PDFs were downloaded from justice.gov on March 5, 2026, ingested via `tools/ingest_new_eftas.py` using pdftotext per-page extraction, and added to the corpus (now 1,385,916 documents). Quoted passages were verified against the database before inclusion.
 
-2. **EFTA numbering gap**: The original DS12 release (January 30, 2026) ended at EFTA02731783 (152 documents covering EFTA range 02730265-02731783). The DS12 expansion EFTA numbers begin at 02731790 and extend to 02858497, with a large gap between 02731852 and 02857524. This is consistent with a separate production batch numbered after the original release.
+2. **EFTA numbering**: The original DS12 release (January 30, 2026) ended at EFTA02731783 (a 7-page document consuming through 02731789). The expansion begins at EFTA02731790, contiguous with the prior endpoint. The expansion range extends to EFTA02858497, with a numbering gap between 02731852 and 02857524 (no documents in that range).
 
 3. **Secondary Bates analysis**: The 53-page gap identified by NPR relies on a second numbering system stamped on pages alongside the EFTA numbers. The math is documented in the [Secondary Bates Stamp Analysis](https://epstein-data.com/reports/institutional/SECONDARY_BATES_STAMP_ANALYSIS.html). Interview #1 ends at secondary Bates 00057715; the next published document picks up at 00057769. That's 53 pages. The three new interviews account for 16.
 
