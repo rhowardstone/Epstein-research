@@ -11,7 +11,7 @@ The content is intended **only for people 18+**, and only **at your own peril**.
 
 ### About This Repository
 
-This repository contains 150+ forensic analysis reports derived from the U.S. Department of Justice's release of Jeffrey Epstein investigation files — 194.5 GB across 12 datasets, comprising 1,380,937 PDFs (2,731,785 pages, 3.18 billion characters of text), plus 3,226 non-PDF native files (video, audio, spreadsheets). The analysis involved full-text extraction and FTS5 indexing of every page, 2,587,102 redaction records, 1,530 audio/video transcripts, a 1,536-person entity registry, and cross-referenced entity relationships (524 entities, 2,096 connections).
+This repository contains 160+ forensic analysis reports derived from the U.S. Department of Justice's release of Jeffrey Epstein investigation files — 218 GB across 12 datasets (plus FBI Vault and House Oversight materials), comprising 1,385,916 documents (2,791,400 pages), plus 3,226 non-PDF native files (video, audio, spreadsheets). The analysis involved full-text extraction and FTS5 indexing of every page, 2,587,102 redaction records, 1,530 audio/video transcripts, a 1,536-person entity registry, and cross-referenced entity relationships (524 entities, 2,096 connections).
 
 Every factual claim in these reports traces back to specific EFTA document numbers (Epstein Files Task Force Archive). Click any linked EFTA number to attempt to view the original PDF on justice.gov.
 
@@ -194,11 +194,13 @@ Use this table to determine which DOJ dataset contains a given EFTA number, or t
 | 9 | [EFTA00039025](https://www.justice.gov/epstein/files/DataSet%209/EFTA00039025.pdf) | [EFTA01262781](https://www.justice.gov/epstein/files/DataSet%209/EFTA01262781.pdf) | `DataSet%209/EFTA{########}.pdf` |
 | 10 | [EFTA01262782](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01262782.pdf) | [EFTA02205654](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02205654.pdf) | `DataSet%2010/EFTA{########}.pdf` |
 | 11 | [EFTA02205655](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02205655.pdf) | [EFTA02730264](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02730264.pdf) | `DataSet%2011/EFTA{########}.pdf` |
-| 12 | [EFTA02730265](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02730265.pdf) | [EFTA02731783](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731783.pdf) | `DataSet%2012/EFTA{########}.pdf` |
+| 12 | [EFTA02730265](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02730265.pdf) | [EFTA02858497](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02858497.pdf) | `DataSet%2012/EFTA{########}.pdf` |
 
 **Base URL:** `https://www.justice.gov/epstein/files/`
 
 **Note:** EFTA numbers are assigned **per page**, not per document. A multi-page document consumes consecutive EFTA numbers — e.g., EFTA00008320 (89 pages) covers Bates numbers 00008320–00008408, and Dataset 5 begins at EFTA00008409. There are **no gaps** between datasets; every apparent gap is accounted for by multi-page documents at dataset boundaries.
+
+**DS12 Expansion (March 2026):** 23 additional documents were added to the Dataset 12 URL path with EFTA numbers beyond the original range (02731783→02858497). These include Operation Leap Year prosecution memos (the proposed 60-count federal indictment that was dismantled before the NPA), a 582-page FBI case file, FBI 302 victim interviews, MCC death investigation materials, and FBI intelligence reports.
 
 ---
 
@@ -208,7 +210,7 @@ All analysis was performed locally against databases derived from the raw PDF co
 
 | Database | Size | Records | Contents |
 |----------|------|---------|----------|
-| full_text_corpus.db | 6.08 GB | 1,380,937 docs / 2,731,785 pages | Full text of every page of every document (PyMuPDF extraction + invisible OCR text layers) |
+| full_text_corpus.db | 6.3 GB | 1,385,916 docs / 2,791,400 pages | Full text of every page of every document (PyMuPDF extraction + invisible OCR text layers) |
 | redaction_analysis_v2.db | 0.95 GB | 2,587,102 redactions / 638,416 docs | Spatial redaction analysis with text at each redaction's coordinates |
 | transcripts.db | 2.5 MB | 1,530 entries (375 with speech) | GPU-transcribed audio/video (faster-whisper large-v3 on A100) |
 | persons_registry.json | — | 1,536 persons | Unified entity registry from 3 sources |
