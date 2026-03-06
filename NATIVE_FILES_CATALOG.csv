@@ -1,6 +1,7 @@
 efta_number,dataset,extension,category,file_size_bytes,file_size_mb,doj_pdf_link,has_audio,has_transcript,transcript_word_count,duration_seconds,video_resolution,brief_description
 EFTA00003212,2,avi,video,1471924,1.4,https://www.justice.gov/epstein/files/DataSet%202/EFTA00003212.pdf,,yes,3,4.3,,Video with speech (3 words transcribed); 4s
 EFTA00010707,8,mp4,video,19106311,18.22,https://www.justice.gov/epstein/files/DataSet%208/EFTA00010707.pdf,,yes,0,142.6,,MCC surveillance video (silent); 2.4min
+EFTA00013397,8,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%208/EFTA00013397.pdf,,,,,,No Images Produced — native file type unknown
 EFTA00014716,8,m4a,audio,488648,0.47,https://www.justice.gov/epstein/files/DataSet%208/EFTA00014716.pdf,,yes,44,31.4,,Audio recording (44 words transcribed); 31s
 EFTA00015032,8,xlsx,spreadsheet,7878,0.01,https://www.justice.gov/epstein/files/DataSet%208/EFTA00015032.pdf,,,,,,Spreadsheet (XLSX)
 EFTA00015920,8,m4a,audio,314229,0.3,https://www.justice.gov/epstein/files/DataSet%208/EFTA00015920.pdf,,yes,82,35.5,,Audio recording (82 words transcribed); 36s
@@ -713,6 +714,7 @@ EFTA00137568,9,mp4,video,23241410,22.16,https://www.justice.gov/epstein/files/Da
 EFTA00137569,9,mp4,video,20818572,19.85,https://www.justice.gov/epstein/files/DataSet%209/EFTA00137569.pdf,True,yes,0,3591.5,352x240,Video (no speech detected); 352x240; 59.9min
 EFTA00137570,9,mp4,video,22248026,21.22,https://www.justice.gov/epstein/files/DataSet%209/EFTA00137570.pdf,True,,,3625.0,352x240,Silent surveillance video; 352x240; 1.0h
 EFTA00137571,9,mp4,video,19605260,18.7,https://www.justice.gov/epstein/files/DataSet%209/EFTA00137571.pdf,True,yes,0,3562.5,352x240,Video (no speech detected); 352x240; 59.4min
+EFTA00141271,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00141271.pdf,,,,,,No Images Produced — native file type unknown
 EFTA00143411,9,m4a,audio,11349610,10.82,https://www.justice.gov/epstein/files/DataSet%209/EFTA00143411.pdf,True,yes,1151,699.5,,Audio recording (1151 words transcribed); 11.7min
 EFTA00143735,9,m4a,audio,22330513,21.3,https://www.justice.gov/epstein/files/DataSet%209/EFTA00143735.pdf,True,yes,3410,1380.9,,Audio recording (3410 words transcribed); 23.0min
 EFTA00143819,9,mp4,video,1750090,1.67,https://www.justice.gov/epstein/files/DataSet%209/EFTA00143819.pdf,True,yes,0,8.4,848x480,Video (no speech detected); 848x480; 8s
@@ -790,6 +792,7 @@ EFTA00239788,9,vob,video,71680,0.07,https://www.justice.gov/epstein/files/DataSe
 EFTA00241270,9,m4a,audio,45338322,43.24,https://www.justice.gov/epstein/files/DataSet%209/EFTA00241270.pdf,True,yes,6764,2794.9,,Audio recording (6764 words transcribed); 46.6min
 EFTA00242090,9,vob,video,1073709056,1023.97,https://www.justice.gov/epstein/files/DataSet%209/EFTA00242090.pdf,True,yes,8,9.6,720x480,Video with speech (8 words transcribed); 720x480; 10s
 EFTA00276490,9,m4a,audio,2625170,2.5,https://www.justice.gov/epstein/files/DataSet%209/EFTA00276490.pdf,True,yes,296,161.3,,Audio recording (296 words transcribed); 2.7min
+EFTA00276494,9,ts,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00276494.pdf,,,,,,
 EFTA00276495,9,ts,video,275086676,262.34,https://www.justice.gov/epstein/files/DataSet%209/EFTA00276495.pdf,True,yes,0,604.5,1024x768,Video (no speech detected); 1024x768; 10.1min
 EFTA00276756,9,vob,video,1073170432,1023.46,https://www.justice.gov/epstein/files/DataSet%209/EFTA00276756.pdf,True,yes,0,68.7,352x240,Video (no speech detected); 352x240; 1.1min
 EFTA00276757,9,vob,video,29089792,27.74,https://www.justice.gov/epstein/files/DataSet%209/EFTA00276757.pdf,True,yes,32,23.7,720x480,Video with speech (32 words transcribed); 720x480; 24s
@@ -804,6 +807,15 @@ EFTA00277579,9,vob,video,28497920,27.18,https://www.justice.gov/epstein/files/Da
 EFTA00279284,9,avi,video,82944,0.08,https://www.justice.gov/epstein/files/DataSet%209/EFTA00279284.pdf,False,,,4.5,320x240,Silent surveillance video; 320x240; 4s
 EFTA00279286,9,avi,video,82944,0.08,https://www.justice.gov/epstein/files/DataSet%209/EFTA00279286.pdf,False,,,4.5,320x240,Silent surveillance video; 320x240; 4s
 EFTA00279287,9,avi,video,301056,0.29,https://www.justice.gov/epstein/files/DataSet%209/EFTA00279287.pdf,False,,,5.2,320x240,Silent surveillance video; 320x240; 5s
+EFTA00279451,9,m4v,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00279451.pdf,,,,,,
+EFTA00279453,9,m4a,audio,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00279453.pdf,,,,,,
+EFTA00279454,9,wav,audio,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00279454.pdf,,,,,,
+EFTA00279473,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00279473.pdf,,,,,,
+EFTA00279474,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00279474.pdf,,,,,,
+EFTA00279475,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00279475.pdf,,,,,,
+EFTA00279476,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00279476.pdf,,,,,,
+EFTA00279477,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00279477.pdf,,,,,,
+EFTA00279478,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00279478.pdf,,,,,,
 EFTA00279479,9,avi,video,15360,0.01,https://www.justice.gov/epstein/files/DataSet%209/EFTA00279479.pdf,False,,,0.0,320x240,Silent surveillance video; 320x240
 EFTA00279480,9,avi,video,15872,0.02,https://www.justice.gov/epstein/files/DataSet%209/EFTA00279480.pdf,False,,,0.0,320x240,Silent surveillance video; 320x240
 EFTA00279481,9,avi,video,15872,0.02,https://www.justice.gov/epstein/files/DataSet%209/EFTA00279481.pdf,False,,,0.0,320x240,Silent surveillance video; 320x240
@@ -1729,6 +1741,31 @@ EFTA00280400,9,avi,video,14848,0.01,https://www.justice.gov/epstein/files/DataSe
 EFTA00280401,9,avi,video,14336,0.01,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280401.pdf,False,,,0.0,320x240,Silent surveillance video; 320x240
 EFTA00280402,9,avi,video,14848,0.01,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280402.pdf,False,,,0.0,320x240,Silent surveillance video; 320x240
 EFTA00280403,9,avi,video,15872,0.02,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280403.pdf,False,,,0.0,320x240,Silent surveillance video; 320x240
+EFTA00280404,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280404.pdf,,,,,,
+EFTA00280405,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280405.pdf,,,,,,
+EFTA00280406,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280406.pdf,,,,,,
+EFTA00280407,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280407.pdf,,,,,,
+EFTA00280408,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280408.pdf,,,,,,
+EFTA00280409,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280409.pdf,,,,,,
+EFTA00280410,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280410.pdf,,,,,,
+EFTA00280411,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280411.pdf,,,,,,
+EFTA00280412,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280412.pdf,,,,,,
+EFTA00280413,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280413.pdf,,,,,,
+EFTA00280414,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280414.pdf,,,,,,
+EFTA00280415,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280415.pdf,,,,,,
+EFTA00280416,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280416.pdf,,,,,,
+EFTA00280417,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280417.pdf,,,,,,
+EFTA00280418,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280418.pdf,,,,,,
+EFTA00280419,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280419.pdf,,,,,,
+EFTA00280420,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280420.pdf,,,,,,
+EFTA00280421,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280421.pdf,,,,,,
+EFTA00280422,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280422.pdf,,,,,,
+EFTA00280423,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280423.pdf,,,,,,
+EFTA00280424,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280424.pdf,,,,,,
+EFTA00280425,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280425.pdf,,,,,,
+EFTA00280426,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280426.pdf,,,,,,
+EFTA00280427,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280427.pdf,,,,,,
+EFTA00280428,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280428.pdf,,,,,,
 EFTA00280429,9,avi,video,12288,0.01,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280429.pdf,False,,,0.0,320x240,Silent surveillance video; 320x240
 EFTA00280430,9,avi,video,19456,0.02,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280430.pdf,False,,,0.1,320x240,Silent surveillance video; 320x240; 0s
 EFTA00280431,9,avi,video,10752,0.01,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280431.pdf,False,,,0.0,320x240,Silent surveillance video; 320x240
@@ -1754,6 +1791,31 @@ EFTA00280450,9,avi,video,9728,0.01,https://www.justice.gov/epstein/files/DataSet
 EFTA00280451,9,avi,video,11776,0.01,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280451.pdf,False,,,0.0,320x240,Silent surveillance video; 320x240
 EFTA00280452,9,avi,video,9728,0.01,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280452.pdf,False,,,0.0,320x240,Silent surveillance video; 320x240
 EFTA00280453,9,avi,video,18944,0.02,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280453.pdf,False,,,0.1,320x240,Silent surveillance video; 320x240; 0s
+EFTA00280454,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280454.pdf,,,,,,
+EFTA00280455,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280455.pdf,,,,,,
+EFTA00280456,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280456.pdf,,,,,,
+EFTA00280457,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280457.pdf,,,,,,
+EFTA00280458,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280458.pdf,,,,,,
+EFTA00280459,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280459.pdf,,,,,,
+EFTA00280460,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280460.pdf,,,,,,
+EFTA00280461,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280461.pdf,,,,,,
+EFTA00280462,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280462.pdf,,,,,,
+EFTA00280463,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280463.pdf,,,,,,
+EFTA00280464,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280464.pdf,,,,,,
+EFTA00280465,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280465.pdf,,,,,,
+EFTA00280466,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280466.pdf,,,,,,
+EFTA00280467,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280467.pdf,,,,,,
+EFTA00280468,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280468.pdf,,,,,,
+EFTA00280469,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280469.pdf,,,,,,
+EFTA00280470,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280470.pdf,,,,,,
+EFTA00280471,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280471.pdf,,,,,,
+EFTA00280472,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280472.pdf,,,,,,
+EFTA00280473,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280473.pdf,,,,,,
+EFTA00280474,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280474.pdf,,,,,,
+EFTA00280475,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280475.pdf,,,,,,
+EFTA00280476,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280476.pdf,,,,,,
+EFTA00280477,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280477.pdf,,,,,,
+EFTA00280478,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280478.pdf,,,,,,
 EFTA00280479,9,avi,video,14336,0.01,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280479.pdf,False,,,0.0,320x240,Silent surveillance video; 320x240
 EFTA00280480,9,avi,video,22016,0.02,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280480.pdf,False,,,0.1,320x240,Silent surveillance video; 320x240; 0s
 EFTA00280481,9,avi,video,13312,0.01,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280481.pdf,False,,,0.0,320x240,Silent surveillance video; 320x240
@@ -2029,6 +2091,31 @@ EFTA00280750,9,avi,video,6656,0.01,https://www.justice.gov/epstein/files/DataSet
 EFTA00280751,9,avi,video,20992,0.02,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280751.pdf,False,,,0.1,320x240,Silent surveillance video; 320x240; 0s
 EFTA00280752,9,avi,video,661504,0.63,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280752.pdf,False,,,0.0,320x240,Silent surveillance video; 320x240
 EFTA00280753,9,avi,video,14336,0.01,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280753.pdf,False,,,0.1,320x240,Silent surveillance video; 320x240; 0s
+EFTA00280754,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280754.pdf,,,,,,
+EFTA00280755,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280755.pdf,,,,,,
+EFTA00280756,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280756.pdf,,,,,,
+EFTA00280757,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280757.pdf,,,,,,
+EFTA00280758,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280758.pdf,,,,,,
+EFTA00280759,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280759.pdf,,,,,,
+EFTA00280760,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280760.pdf,,,,,,
+EFTA00280761,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280761.pdf,,,,,,
+EFTA00280762,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280762.pdf,,,,,,
+EFTA00280763,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280763.pdf,,,,,,
+EFTA00280764,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280764.pdf,,,,,,
+EFTA00280765,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280765.pdf,,,,,,
+EFTA00280766,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280766.pdf,,,,,,
+EFTA00280767,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280767.pdf,,,,,,
+EFTA00280768,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280768.pdf,,,,,,
+EFTA00280769,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280769.pdf,,,,,,
+EFTA00280770,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280770.pdf,,,,,,
+EFTA00280771,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280771.pdf,,,,,,
+EFTA00280772,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280772.pdf,,,,,,
+EFTA00280773,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280773.pdf,,,,,,
+EFTA00280774,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280774.pdf,,,,,,
+EFTA00280775,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280775.pdf,,,,,,
+EFTA00280776,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280776.pdf,,,,,,
+EFTA00280777,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280777.pdf,,,,,,
+EFTA00280778,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280778.pdf,,,,,,
 EFTA00280779,9,avi,video,17408,0.02,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280779.pdf,False,,,0.1,320x240,Silent surveillance video; 320x240; 0s
 EFTA00280780,9,avi,video,15360,0.01,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280780.pdf,False,,,0.0,320x240,Silent surveillance video; 320x240
 EFTA00280781,9,avi,video,15360,0.01,https://www.justice.gov/epstein/files/DataSet%209/EFTA00280781.pdf,False,,,0.0,320x240,Silent surveillance video; 320x240
@@ -2325,8 +2412,42 @@ EFTA00281071,9,avi,video,192000,0.18,https://www.justice.gov/epstein/files/DataS
 EFTA00281072,9,avi,video,6091776,5.81,https://www.justice.gov/epstein/files/DataSet%209/EFTA00281072.pdf,False,,,0.0,320x240,Silent surveillance video; 320x240
 EFTA00281073,9,avi,video,4796416,4.57,https://www.justice.gov/epstein/files/DataSet%209/EFTA00281073.pdf,False,,,0.0,320x240,Silent surveillance video; 320x240
 EFTA00281074,9,avi,video,74752,0.07,https://www.justice.gov/epstein/files/DataSet%209/EFTA00281074.pdf,False,,,0.1,320x240,Silent surveillance video; 320x240; 0s
+EFTA00326497,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00326497.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00326501,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00326501.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00335487,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00335487.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00387143,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00387143.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00387145,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00387145.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00387259,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00387259.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00387260,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00387260.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00387291,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00387291.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00416849,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00416849.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00416850,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00416850.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00416851,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00416851.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00416852,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00416852.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00417088,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00417088.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00417089,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00417089.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00417090,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00417090.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00417091,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00417091.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00417095,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00417095.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00417096,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00417096.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00417097,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00417097.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00417098,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00417098.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00478790,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00478790.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00481186,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00481186.pdf,,,,,,No Images Produced — native file type unknown
 EFTA00528935,9,avi,video,3671690,3.5,https://www.justice.gov/epstein/files/DataSet%209/EFTA00528935.pdf,True,yes,82,33.9,568x320,Video with speech (82 words transcribed); 568x320; 34s
+EFTA00534391,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00534391.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00536323,9,mov,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00536323.pdf,,,,,,
+EFTA00536324,9,mov,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00536324.pdf,,,,,,
+EFTA00537470,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00537470.pdf,,,,,,No Images Produced — native file type unknown
 EFTA00543065,9,avi,video,1578332,1.51,https://www.justice.gov/epstein/files/DataSet%209/EFTA00543065.pdf,True,yes,2,15.2,480x272,Video with speech (2 words transcribed); 480x272; 15s
+EFTA00543388,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00543388.pdf,,,,,,
+EFTA00547564,9,xls,spreadsheet,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00547564.pdf,,,,,,
+EFTA00547565,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00547565.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00547654,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00547654.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00547655,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00547655.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00547917,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00547917.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00548119,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00548119.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00548155,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00548155.pdf,,,,,,No Images Produced — native file type unknown
 EFTA00550101,9,m4a,audio,1314604,1.25,https://www.justice.gov/epstein/files/DataSet%209/EFTA00550101.pdf,True,yes,74,82.2,,Audio recording (74 words transcribed); 1.4min
 EFTA00553300,9,avi,video,12624360,12.04,https://www.justice.gov/epstein/files/DataSet%209/EFTA00553300.pdf,True,yes,51,44.9,960x540,Video with speech (51 words transcribed); 960x540; 45s
 EFTA00555345,9,m4a,audio,3228338,3.08,https://www.justice.gov/epstein/files/DataSet%209/EFTA00555345.pdf,True,yes,304,161.3,,Audio recording (304 words transcribed); 2.7min
@@ -2334,6 +2455,12 @@ EFTA00576839,9,wmv,video,32741444,31.22,https://www.justice.gov/epstein/files/Da
 EFTA00576840,9,avi,video,19532032,18.63,https://www.justice.gov/epstein/files/DataSet%209/EFTA00576840.pdf,False,,,7.8,1964x1280,Silent surveillance video; 1964x1280; 8s
 EFTA00576841,9,wmv,video,16964035,16.18,https://www.justice.gov/epstein/files/DataSet%209/EFTA00576841.pdf,True,yes,0,30.1,720x576,Video (no speech detected); 720x576; 30s
 EFTA00576842,9,wav,audio,614700,0.59,https://www.justice.gov/epstein/files/DataSet%209/EFTA00576842.pdf,True,yes,1,13.9,,Audio recording (1 words transcribed); 14s
+EFTA00580184,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00580184.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00638224,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00638224.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00639714,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00639714.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00710823,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00710823.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00734116,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00734116.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00735905,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00735905.pdf,,,,,,No Images Produced — native file type unknown
 EFTA00741059,9,avi,video,145408,0.14,https://www.justice.gov/epstein/files/DataSet%209/EFTA00741059.pdf,False,,,33.3,560x420,Silent surveillance video; 560x420; 33s
 EFTA00743572,9,mp3,audio,3526406,3.36,https://www.justice.gov/epstein/files/DataSet%209/EFTA00743572.pdf,True,yes,16,220.2,,Audio recording (16 words transcribed); 3.7min
 EFTA00744478,9,mov,video,690557,0.66,https://www.justice.gov/epstein/files/DataSet%209/EFTA00744478.pdf,True,yes,2,6.8,480x360,Video with speech (2 words transcribed); 480x360; 7s
@@ -2341,11 +2468,521 @@ EFTA00750646,9,wmv,video,3968610,3.78,https://www.justice.gov/epstein/files/Data
 EFTA00754471,9,wmv,video,641131,0.61,https://www.justice.gov/epstein/files/DataSet%209/EFTA00754471.pdf,True,yes,1,22.0,320x240,Video with speech (1 words transcribed); 320x240; 22s
 EFTA00759424,9,m4v,video,34111,0.03,https://www.justice.gov/epstein/files/DataSet%209/EFTA00759424.pdf,True,yes,0,1.0,320x240,Video (no speech detected); 320x240; 1s
 EFTA00765143,9,mp3,audio,2293386,2.19,https://www.justice.gov/epstein/files/DataSet%209/EFTA00765143.pdf,True,yes,1067,286.2,,Audio recording (1067 words transcribed); 4.8min
+EFTA00771461,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00771461.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00771462,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00771462.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00771463,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00771463.pdf,,,,,,No Images Produced — native file type unknown
 EFTA00775463,9,png,image,47487,0.05,https://www.justice.gov/epstein/files/DataSet%209/EFTA00775463.pdf,,,,,,Image file
 EFTA00776196,9,m4a,audio,589798,0.56,https://www.justice.gov/epstein/files/DataSet%209/EFTA00776196.pdf,True,yes,80,37.3,,Audio recording (80 words transcribed); 37s
+EFTA00780135,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00780135.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00780136,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00780136.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00780137,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00780137.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00780138,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00780138.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00780139,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00780139.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00780140,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00780140.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00780141,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00780141.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00780142,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00780142.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00780143,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00780143.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00780144,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00780144.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00780145,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00780145.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00780146,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00780146.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00780147,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00780147.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00780148,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00780148.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00780149,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00780149.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00823174,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00823174.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00823175,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00823175.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00823176,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00823176.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00823177,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00823177.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00823323,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00823323.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00823324,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00823324.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00823325,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00823325.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00823326,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00823326.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00823327,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00823327.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00823328,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00823328.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00823329,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00823329.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00823330,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00823330.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00823331,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00823331.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00823332,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00823332.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00823333,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00823333.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00823334,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00823334.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00823364,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00823364.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00840930,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00840930.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00846394,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00846394.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00859997,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00859997.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00899084,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00899084.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00899085,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00899085.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00899086,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00899086.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00899087,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00899087.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00899088,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00899088.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00899089,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00899089.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00899090,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00899090.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00899091,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00899091.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00899092,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00899092.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00899093,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00899093.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00899094,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00899094.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00899095,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00899095.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00899096,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00899096.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00899097,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00899097.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00899098,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00899098.pdf,,,,,,No Images Produced — native file type unknown
 EFTA00917638,9,wmv,video,2671574,2.55,https://www.justice.gov/epstein/files/DataSet%209/EFTA00917638.pdf,True,yes,201,78.9,472x320,Video with speech (201 words transcribed); 472x320; 1.3min
+EFTA00984662,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00984662.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00984666,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00984666.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00984667,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00984667.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00984668,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00984668.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00984888,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00984888.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00984889,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00984889.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00984890,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00984890.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00984891,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00984891.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00984892,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00984892.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00984893,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00984893.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00984894,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00984894.pdf,,,,,,No Images Produced — native file type unknown
+EFTA00984895,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA00984895.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01014471,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01014471.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01019216,9,mov,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01019216.pdf,,,,,,
+EFTA01019245,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01019245.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01085325,9,mp4,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01085325.pdf,,,,,,
+EFTA01131127,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01131127.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01131169,9,mov,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01131169.pdf,,,,,,
+EFTA01131170,9,mov,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01131170.pdf,,,,,,
+EFTA01131192,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01131192.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01131291,9,m4a,audio,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01131291.pdf,,,,,,
+EFTA01131378,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01131378.pdf,,,,,,
+EFTA01131379,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01131379.pdf,,,,,,
+EFTA01131380,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01131380.pdf,,,,,,
+EFTA01131717,9,mov,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01131717.pdf,,,,,,
+EFTA01131744,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01131744.pdf,,,,,,
+EFTA01131745,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01131745.pdf,,,,,,
+EFTA01131746,9,mov,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01131746.pdf,,,,,,
+EFTA01131747,9,mov,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01131747.pdf,,,,,,
+EFTA01131748,9,mov,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01131748.pdf,,,,,,
+EFTA01131749,9,mov,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01131749.pdf,,,,,,
+EFTA01131785,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01131785.pdf,,,,,,
+EFTA01131962,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01131962.pdf,,,,,,
+EFTA01132029,9,mov,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01132029.pdf,,,,,,
+EFTA01132042,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01132042.pdf,,,,,,
+EFTA01132054,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01132054.pdf,,,,,,
+EFTA01132055,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01132055.pdf,,,,,,
+EFTA01132159,9,mov,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01132159.pdf,,,,,,
+EFTA01132161,9,mov,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01132161.pdf,,,,,,
+EFTA01132162,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01132162.pdf,,,,,,
+EFTA01132164,9,mov,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01132164.pdf,,,,,,
+EFTA01132307,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01132307.pdf,,,,,,
+EFTA01133333,9,m4a,audio,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01133333.pdf,,,,,,
+EFTA01133546,9,m4v,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01133546.pdf,,,,,,
+EFTA01135723,9,mp4,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01135723.pdf,,,,,,
+EFTA01135946,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01135946.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01135950,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01135950.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01135960,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01135960.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01135968,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01135968.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01135969,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01135969.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01135970,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01135970.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01135971,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01135971.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01135972,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01135972.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01135973,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01135973.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01135974,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01135974.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01135975,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01135975.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01135976,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01135976.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01135977,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01135977.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01135978,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01135978.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01135979,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01135979.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01135980,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01135980.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01135981,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01135981.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01135982,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01135982.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01135983,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01135983.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01135984,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01135984.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01135985,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01135985.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01135986,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01135986.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01135987,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01135987.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01135988,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01135988.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01135989,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01135989.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01135990,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01135990.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01135991,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01135991.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01135992,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01135992.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01135993,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01135993.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01135997,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01135997.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01136088,9,mov,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01136088.pdf,,,,,,
+EFTA01136290,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01136290.pdf,,,,,,
+EFTA01136478,9,mov,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01136478.pdf,,,,,,
+EFTA01137029,9,m4v,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01137029.pdf,,,,,,
+EFTA01137173,9,mov,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01137173.pdf,,,,,,
+EFTA01137990,9,m4a,audio,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01137990.pdf,,,,,,
+EFTA01138379,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01138379.pdf,,,,,,
+EFTA01138821,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01138821.pdf,,,,,,
+EFTA01139115,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01139115.pdf,,,,,,
+EFTA01139139,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01139139.pdf,,,,,,
+EFTA01139965,9,mov,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01139965.pdf,,,,,,
+EFTA01140431,9,m4v,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01140431.pdf,,,,,,
+EFTA01140602,9,m4a,audio,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01140602.pdf,,,,,,
+EFTA01140619,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01140619.pdf,,,,,,
+EFTA01141209,9,m4v,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01141209.pdf,,,,,,
+EFTA01141213,9,m4v,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01141213.pdf,,,,,,
+EFTA01141481,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01141481.pdf,,,,,,
+EFTA01141497,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01141497.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01141793,9,m4a,audio,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01141793.pdf,,,,,,
+EFTA01141834,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01141834.pdf,,,,,,
+EFTA01143700,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01143700.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01143702,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01143702.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01143757,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01143757.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01143758,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01143758.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01143759,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01143759.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01143766,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01143766.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01143790,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01143790.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01143791,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01143791.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01143792,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01143792.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01143794,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01143794.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01143816,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01143816.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01143830,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01143830.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01143903,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01143903.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01143950,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01143950.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01143952,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01143952.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01143979,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01143979.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01143993,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01143993.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01143994,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01143994.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01143995,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01143995.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01143999,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01143999.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144014,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144014.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144023,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144023.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144026,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144026.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144028,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144028.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144031,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144031.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144040,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144040.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144041,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144041.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144042,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144042.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144052,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144052.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144053,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144053.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144055,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144055.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144056,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144056.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144057,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144057.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144058,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144058.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144066,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144066.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144100,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144100.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144102,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144102.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144105,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144105.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144107,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144107.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144110,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144110.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144126,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144126.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144130,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144130.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144131,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144131.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144133,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144133.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144135,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144135.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144137,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144137.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144140,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144140.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144142,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144142.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144146,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144146.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144148,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144148.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144150,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144150.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144152,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144152.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144154,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144154.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144156,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144156.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144160,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144160.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144165,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144165.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144168,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144168.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144170,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144170.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144172,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144172.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144174,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144174.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144177,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144177.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144179,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144179.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144181,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144181.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144182,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144182.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144184,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144184.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144187,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144187.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144189,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144189.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144191,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144191.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144193,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144193.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144195,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144195.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144199,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144199.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144203,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144203.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144222,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144222.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144250,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144250.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144265,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144265.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144362,9,m4v,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144362.pdf,,,,,,
+EFTA01144363,9,m4v,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144363.pdf,,,,,,
+EFTA01144364,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144364.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01144697,9,m4v,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01144697.pdf,,,,,,
+EFTA01145508,9,mov,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01145508.pdf,,,,,,
+EFTA01145525,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01145525.pdf,,,,,,
+EFTA01145820,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01145820.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01145825,9,m4v,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01145825.pdf,,,,,,
+EFTA01145882,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01145882.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01147043,9,m4v,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01147043.pdf,,,,,,
+EFTA01147152,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01147152.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01147195,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01147195.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01147522,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01147522.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01147524,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01147524.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01148372,9,m4a,audio,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01148372.pdf,,,,,,
+EFTA01148575,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01148575.pdf,,,,,,
+EFTA01148746,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01148746.pdf,,,,,,
+EFTA01148747,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01148747.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01149091,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01149091.pdf,,,,,,
+EFTA01149143,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01149143.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01149251,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01149251.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01149290,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01149290.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01149291,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01149291.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01153273,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01153273.pdf,,,,,,
+EFTA01153587,9,wav,audio,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01153587.pdf,,,,,,
+EFTA01153924,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01153924.pdf,,,,,,
+EFTA01154152,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01154152.pdf,,,,,,
+EFTA01154341,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01154341.pdf,,,,,,
+EFTA01154497,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01154497.pdf,,,,,,
+EFTA01155746,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01155746.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01155951,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01155951.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01156053,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01156053.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01156054,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01156054.pdf,,,,,,
+EFTA01156156,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01156156.pdf,,,,,,
+EFTA01156745,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01156745.pdf,,,,,,
+EFTA01156746,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01156746.pdf,,,,,,
+EFTA01156747,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01156747.pdf,,,,,,
+EFTA01156748,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01156748.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01156750,9,mov,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01156750.pdf,,,,,,
+EFTA01156751,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01156751.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01156808,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01156808.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01156809,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01156809.pdf,,,,,,
+EFTA01156810,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01156810.pdf,,,,,,
+EFTA01156811,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01156811.pdf,,,,,,
+EFTA01156812,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01156812.pdf,,,,,,
+EFTA01156813,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01156813.pdf,,,,,,
+EFTA01156814,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01156814.pdf,,,,,,
+EFTA01156816,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01156816.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01157435,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01157435.pdf,,,,,,
+EFTA01158020,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01158020.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01159673,9,m4a,audio,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01159673.pdf,,,,,,
+EFTA01160081,9,mp3,audio,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01160081.pdf,,,,,,
+EFTA01164774,9,mov,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01164774.pdf,,,,,,
+EFTA01166410,9,mov,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01166410.pdf,,,,,,
+EFTA01166411,9,mov,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01166411.pdf,,,,,,
+EFTA01166739,9,m4a,audio,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01166739.pdf,,,,,,
+EFTA01167025,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01167025.pdf,,,,,,
+EFTA01167473,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01167473.pdf,,,,,,
+EFTA01167573,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01167573.pdf,,,,,,
+EFTA01167814,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01167814.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01168046,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01168046.pdf,,,,,,
+EFTA01168488,9,mov,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01168488.pdf,,,,,,
+EFTA01168513,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01168513.pdf,,,,,,
+EFTA01169860,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01169860.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01171100,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01171100.pdf,,,,,,
+EFTA01171785,9,mov,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01171785.pdf,,,,,,
+EFTA01172247,9,mp3,audio,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01172247.pdf,,,,,,
+EFTA01172515,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01172515.pdf,,,,,,
+EFTA01172558,9,mov,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01172558.pdf,,,,,,
+EFTA01172582,9,mov,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01172582.pdf,,,,,,
+EFTA01173463,9,m4a,audio,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01173463.pdf,,,,,,
+EFTA01173972,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01173972.pdf,,,,,,
+EFTA01173979,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01173979.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01174642,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01174642.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01174715,9,mp4,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01174715.pdf,,,,,,
+EFTA01175832,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01175832.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01175911,9,m4a,audio,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01175911.pdf,,,,,,
+EFTA01177273,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01177273.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01177560,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01177560.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01177632,9,m4v,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01177632.pdf,,,,,,
+EFTA01177808,9,wav,audio,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01177808.pdf,,,,,,
+EFTA01178656,9,m4a,audio,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01178656.pdf,,,,,,
+EFTA01178657,9,mp3,audio,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01178657.pdf,,,,,,
+EFTA01178791,9,m4a,audio,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01178791.pdf,,,,,,
+EFTA01179041,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01179041.pdf,,,,,,
+EFTA01179077,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01179077.pdf,,,,,,
+EFTA01179776,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01179776.pdf,,,,,,
+EFTA01180321,9,mov,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01180321.pdf,,,,,,
+EFTA01180564,9,mov,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01180564.pdf,,,,,,
+EFTA01180570,9,mov,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01180570.pdf,,,,,,
+EFTA01180571,9,mov,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01180571.pdf,,,,,,
+EFTA01180573,9,mov,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01180573.pdf,,,,,,
+EFTA01181048,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01181048.pdf,,,,,,
+EFTA01181146,9,m4a,audio,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01181146.pdf,,,,,,
+EFTA01181661,9,m4a,audio,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01181661.pdf,,,,,,
+EFTA01181753,9,m4a,audio,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01181753.pdf,,,,,,
+EFTA01182022,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01182022.pdf,,,,,,
+EFTA01182023,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01182023.pdf,,,,,,
+EFTA01182024,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01182024.pdf,,,,,,
+EFTA01182315,9,m4a,audio,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01182315.pdf,,,,,,
+EFTA01182579,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01182579.pdf,,,,,,
+EFTA01183620,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01183620.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01184143,9,m4a,audio,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01184143.pdf,,,,,,
+EFTA01184750,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01184750.pdf,,,,,,
+EFTA01184935,9,mp3,audio,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01184935.pdf,,,,,,
+EFTA01184969,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01184969.pdf,,,,,,
+EFTA01184970,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01184970.pdf,,,,,,
+EFTA01185172,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01185172.pdf,,,,,,
+EFTA01185173,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01185173.pdf,,,,,,
+EFTA01185185,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01185185.pdf,,,,,,
+EFTA01185189,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01185189.pdf,,,,,,
+EFTA01185381,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01185381.pdf,,,,,,
+EFTA01185466,9,mp3,audio,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01185466.pdf,,,,,,
+EFTA01185508,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01185508.pdf,,,,,,
+EFTA01185806,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01185806.pdf,,,,,,
+EFTA01186499,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01186499.pdf,,,,,,
+EFTA01186769,9,mov,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01186769.pdf,,,,,,
+EFTA01187107,9,mov,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01187107.pdf,,,,,,
+EFTA01187172,9,m4a,audio,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01187172.pdf,,,,,,
+EFTA01187179,9,m4a,audio,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01187179.pdf,,,,,,
+EFTA01187591,9,m4a,audio,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01187591.pdf,,,,,,
+EFTA01187856,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01187856.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01189035,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01189035.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01189153,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01189153.pdf,,,,,,
+EFTA01189510,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01189510.pdf,,,,,,
+EFTA01189824,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01189824.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01189840,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01189840.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01190683,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01190683.pdf,,,,,,
+EFTA01190710,9,m4v,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01190710.pdf,,,,,,
+EFTA01191023,9,mov,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01191023.pdf,,,,,,
+EFTA01191233,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01191233.pdf,,,,,,
+EFTA01191455,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01191455.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01191456,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01191456.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01191582,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01191582.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01192690,9,mov,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01192690.pdf,,,,,,
+EFTA01192691,9,mov,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01192691.pdf,,,,,,
+EFTA01192998,9,m4v,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01192998.pdf,,,,,,
+EFTA01193063,9,m4v,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01193063.pdf,,,,,,
+EFTA01194470,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01194470.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01194887,9,m4v,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01194887.pdf,,,,,,
+EFTA01194912,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01194912.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01195323,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01195323.pdf,,,,,,
+EFTA01195324,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01195324.pdf,,,,,,
+EFTA01195325,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01195325.pdf,,,,,,
+EFTA01195370,9,mov,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01195370.pdf,,,,,,
+EFTA01195505,9,m4v,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01195505.pdf,,,,,,
+EFTA01196036,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01196036.pdf,,,,,,
+EFTA01196058,9,m4v,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01196058.pdf,,,,,,
+EFTA01196173,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01196173.pdf,,,,,,
+EFTA01196282,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01196282.pdf,,,,,,
+EFTA01196322,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01196322.pdf,,,,,,
+EFTA01196418,9,m4v,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01196418.pdf,,,,,,
+EFTA01196421,9,m4v,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01196421.pdf,,,,,,
+EFTA01196518,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01196518.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01196519,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01196519.pdf,,,,,,
+EFTA01196520,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01196520.pdf,,,,,,
+EFTA01196591,9,mov,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01196591.pdf,,,,,,
+EFTA01196689,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01196689.pdf,,,,,,
+EFTA01196690,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01196690.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01196747,9,m4v,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01196747.pdf,,,,,,
+EFTA01196752,9,m4v,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01196752.pdf,,,,,,
+EFTA01196754,9,m4v,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01196754.pdf,,,,,,
+EFTA01196756,9,m4v,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01196756.pdf,,,,,,
+EFTA01196885,9,mp4,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01196885.pdf,,,,,,
+EFTA01196935,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01196935.pdf,,,,,,
+EFTA01196936,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01196936.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01196947,9,mov,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01196947.pdf,,,,,,
+EFTA01196949,9,mov,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01196949.pdf,,,,,,
+EFTA01197105,9,m4v,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01197105.pdf,,,,,,
+EFTA01197126,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01197126.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01197320,9,mov,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01197320.pdf,,,,,,
+EFTA01197468,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01197468.pdf,,,,,,
+EFTA01197469,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01197469.pdf,,,,,,
+EFTA01197470,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01197470.pdf,,,,,,
+EFTA01197525,9,mov,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01197525.pdf,,,,,,
+EFTA01197573,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01197573.pdf,,,,,,
+EFTA01197585,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01197585.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01197663,9,mov,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01197663.pdf,,,,,,
+EFTA01197698,9,m4a,audio,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01197698.pdf,,,,,,
+EFTA01197787,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01197787.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01197931,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01197931.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01198062,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01198062.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01198064,9,m4v,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01198064.pdf,,,,,,
+EFTA01198222,9,mov,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01198222.pdf,,,,,,
+EFTA01198505,9,m4v,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01198505.pdf,,,,,,
+EFTA01200059,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01200059.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01200239,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01200239.pdf,,,,,,
+EFTA01200285,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01200285.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01201950,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01201950.pdf,,,,,,
+EFTA01202277,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01202277.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01202537,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01202537.pdf,,,,,,
+EFTA01202540,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01202540.pdf,,,,,,
+EFTA01202975,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01202975.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01202976,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01202976.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01202977,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01202977.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01202980,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01202980.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01202982,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01202982.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01204013,9,mp4,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01204013.pdf,,,,,,
+EFTA01204024,9,mp4,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01204024.pdf,,,,,,
+EFTA01204025,9,mp4,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01204025.pdf,,,,,,
+EFTA01204026,9,mp4,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01204026.pdf,,,,,,
+EFTA01204371,9,m4v,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01204371.pdf,,,,,,
+EFTA01204692,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01204692.pdf,,,,,,
+EFTA01205883,9,m4v,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01205883.pdf,,,,,,
+EFTA01206073,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01206073.pdf,,,,,,
+EFTA01206089,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01206089.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01206093,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01206093.pdf,,,,,,
+EFTA01206365,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01206365.pdf,,,,,,
+EFTA01206366,9,m4a,audio,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01206366.pdf,,,,,,
+EFTA01206709,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01206709.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01207386,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01207386.pdf,,,,,,
+EFTA01207587,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01207587.pdf,,,,,,
+EFTA01207609,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01207609.pdf,,,,,,
+EFTA01207680,9,mov,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01207680.pdf,,,,,,
+EFTA01207689,9,avi,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01207689.pdf,,,,,,
+EFTA01207699,9,mov,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01207699.pdf,,,,,,
+EFTA01207700,9,mov,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01207700.pdf,,,,,,
+EFTA01207701,9,mov,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01207701.pdf,,,,,,
+EFTA01227045,9,mp4,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01227045.pdf,,,,,,
+EFTA01227046,9,mp4,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01227046.pdf,,,,,,
+EFTA01227047,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01227047.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01227048,9,mp4,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01227048.pdf,,,,,,
+EFTA01227049,9,mp4,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01227049.pdf,,,,,,
+EFTA01227050,9,mp4,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01227050.pdf,,,,,,
+EFTA01227051,9,mp4,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01227051.pdf,,,,,,
+EFTA01227052,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01227052.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01227053,9,mp4,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01227053.pdf,,,,,,
+EFTA01227054,9,mp4,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01227054.pdf,,,,,,
+EFTA01227055,9,mp4,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01227055.pdf,,,,,,
+EFTA01227056,9,mp4,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01227056.pdf,,,,,,
+EFTA01227057,9,mp4,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01227057.pdf,,,,,,
+EFTA01227058,9,mp4,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01227058.pdf,,,,,,
+EFTA01227059,9,mp4,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01227059.pdf,,,,,,
+EFTA01227060,9,mp4,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01227060.pdf,,,,,,
+EFTA01227061,9,mp4,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01227061.pdf,,,,,,
+EFTA01227062,9,mp4,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01227062.pdf,,,,,,
 EFTA01227063,9,mp4,video,230227968,219.56,https://www.justice.gov/epstein/files/DataSet%209/EFTA01227063.pdf,False,,,0,,Video file
+EFTA01227064,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01227064.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01227065,9,mp4,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01227065.pdf,,,,,,
+EFTA01227066,9,mp4,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01227066.pdf,,,,,,
+EFTA01227067,9,mp4,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01227067.pdf,,,,,,
+EFTA01227068,9,mp4,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01227068.pdf,,,,,,
+EFTA01227069,9,mp4,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01227069.pdf,,,,,,
+EFTA01227070,9,mp4,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01227070.pdf,,,,,,
 EFTA01227071,9,mp4,video,1788411904,1705.56,https://www.justice.gov/epstein/files/DataSet%209/EFTA01227071.pdf,False,,,0,,Video file
+EFTA01227072,9,mp4,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01227072.pdf,,,,,,
+EFTA01227073,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01227073.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01227074,9,mp4,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01227074.pdf,,,,,,
+EFTA01227075,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01227075.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01227076,9,mp4,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01227076.pdf,,,,,,
+EFTA01227077,9,mp4,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01227077.pdf,,,,,,
+EFTA01227078,9,mp4,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01227078.pdf,,,,,,
+EFTA01227079,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01227079.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01227080,9,mp4,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01227080.pdf,,,,,,
+EFTA01227081,9,mp4,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01227081.pdf,,,,,,
+EFTA01227082,9,mp4,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01227082.pdf,,,,,,
+EFTA01227083,9,mp4,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01227083.pdf,,,,,,
+EFTA01227084,9,mp4,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01227084.pdf,,,,,,
+EFTA01227085,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01227085.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01227086,9,mp4,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01227086.pdf,,,,,,
+EFTA01227087,9,mp4,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01227087.pdf,,,,,,
+EFTA01227088,9,mp4,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01227088.pdf,,,,,,
+EFTA01227089,9,mp4,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01227089.pdf,,,,,,
+EFTA01227090,9,mp4,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01227090.pdf,,,,,,
+EFTA01227091,9,mp4,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01227091.pdf,,,,,,
+EFTA01229286,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01229286.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01229425,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01229425.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01239871,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01239871.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01240327,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01240327.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01241392,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01241392.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01241409,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01241409.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01242147,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01242147.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01242167,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01242167.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01242503,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01242503.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01242504,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01242504.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01242505,9,wmv,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01242505.pdf,,,,,,
+EFTA01244747,9,wmv,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01244747.pdf,,,,,,
+EFTA01244748,9,wmv,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01244748.pdf,,,,,,
+EFTA01244749,9,wmv,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01244749.pdf,,,,,,
+EFTA01244750,9,mp4,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01244750.pdf,,,,,,
+EFTA01244751,9,mp4,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01244751.pdf,,,,,,
+EFTA01244752,9,mp4,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01244752.pdf,,,,,,
+EFTA01244753,9,wmv,video,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01244753.pdf,,,,,,
+EFTA01250813,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01250813.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01250814,9,m4a,audio,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01250814.pdf,,,,,,
+EFTA01250815,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01250815.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01250886,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01250886.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01250917,9,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01250917.pdf,,,,,,No Images Produced — native file type unknown
+EFTA01250922,9,m4a,audio,,,https://www.justice.gov/epstein/files/DataSet%209/EFTA01250922.pdf,,,,,,
 EFTA01600794,10,m4v,video,9527,0.01,https://www.justice.gov/epstein/files/DataSet%2010/EFTA01600794.pdf,True,yes,0,0.5,480x848,Video (no speech detected); 480x848; 0s
 EFTA01600795,10,m4v,video,24763,0.02,https://www.justice.gov/epstein/files/DataSet%2010/EFTA01600795.pdf,True,yes,0,1.9,652x872,Video (no speech detected); 652x872; 2s
 EFTA01600796,10,mov,video,1779336,1.7,https://www.justice.gov/epstein/files/DataSet%2010/EFTA01600796.pdf,True,yes,0,3.0,960x720,Video (no speech detected); 960x720; 3s
@@ -2910,6 +3547,7 @@ EFTA01648782,10,mp4,video,101902,0.1,https://www.justice.gov/epstein/files/DataS
 EFTA01648783,10,mp4,video,186779,0.18,https://www.justice.gov/epstein/files/DataSet%2010/EFTA01648783.pdf,True,yes,0,4.7,320x240,Video (no speech detected); 320x240; 5s
 EFTA01648784,10,mp4,video,660228,0.63,https://www.justice.gov/epstein/files/DataSet%2010/EFTA01648784.pdf,True,yes,0,17.6,320x240,Video (no speech detected); 320x240; 18s
 EFTA01648785,10,mp4,video,188048,0.18,https://www.justice.gov/epstein/files/DataSet%2010/EFTA01648785.pdf,True,yes,4,11.3,320x240,Video with speech (4 words transcribed); 320x240; 11s
+EFTA01654344,10,unknown,unknown,,,https://www.justice.gov/epstein/files/DataSet%2010/EFTA01654344.pdf,,,,,,No Images Produced — native file type unknown
 EFTA01660651,10,png,image,9119,0.01,https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660651.pdf,,,,,,Image file
 EFTA01682126,10,m4a,audio,3309484,3.16,https://www.justice.gov/epstein/files/DataSet%2010/EFTA01682126.pdf,True,yes,272,205.1,,Audio recording (272 words transcribed); 3.4min
 EFTA01682127,10,m4a,audio,818883,0.78,https://www.justice.gov/epstein/files/DataSet%2010/EFTA01682127.pdf,True,yes,120,50.9,,Audio recording (120 words transcribed); 51s
