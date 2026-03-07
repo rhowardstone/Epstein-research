@@ -35,6 +35,16 @@ The FD-302 records the second interview with the PROTECT SOURCE victim (Jane Doe
 
 Physical description: white male, gray hair, "big ears," hairy body. Possibly in his 50s in the early 1980s. Lived in Ohio. "Somehow associated with an Ohio university (unidentified); he may have been the Dean, or the 'money guy' at the school."
 
+**External identification**: An [obituary published by Keith Funeral and Cremation Services](https://www.keithfuneral.com/obituary/james-atkins) and [Legacy.com](https://www.legacy.com/us/obituaries/mcdowellnews/name/james-atkins-obituary?id=33079159) identifies **James "Jim" Wade Atkins** (born July 3, 1947, Marion, NC; died February 14, 2022, Preston Health Center, Bluffton, SC). The obituary confirms:
+
+- **Military**: Army Security Agency, 1967-1971, one tour of duty in **Cu Chi, Vietnam** — a major Army base where ASA signals intelligence units ([16th RRU/372nd ASA Company, 303rd ASA Battalion](https://www.nasaa-home.org/1SIGNIT_&_ASA_History/history/ASA_Timeline_Vietnam.htm)) operated under 509th Radio Research Group / NSA operational command
+- **Education**: Attended **Ohio State University on the G.I. Bill**, graduating with a degree in business marketing — this is the "Ohio university" referenced in the FBI 302
+- **Employment**: **Weyerhaeuser Paper Company**, promoted from sales representative to regional manager over a 30-year career, managing plants in Nebraska, Ohio, Iowa, Virginia, and the Carolinas
+- **Residence**: Bluffton, SC (consistent with Hilton Head / Sea Islands area)
+- **Family**: Married Diane Gay Bergman, June 22, 1967; two sons including James Coran Atkins ([Court Atkins Group](https://courtatkins.com/team/james-c-atkins-aia-ncarb), architecture firm in Bluffton/Savannah)
+
+**Age note**: Born 1947, Atkins would have been in his **mid-30s** in the early 1980s — not "in his 50s" as the victim recalled. Memory of age across four decades is commonly imprecise; the physical description (gray hair, big ears) and all other identifying details match.
+
 - Owned or rented a residence on [redacted] Island (consistent with Hilton Head / Sea Islands, SC)
 - Described as a "rich prick [who would] throw his weight around and talk about money"
 - Developed a romantic relationship with the victim's mother; dated approximately one year
@@ -197,7 +207,7 @@ The JPMorgan exit document ([EFTA01582816](https://www.justice.gov/epstein/files
 
 > "Maxwell was referred by Jeffrey Epstein, a former client of the Private Bank and advisor to Leslie Wexner, also a longstanding client. **Jes Staley got the original referral from Jeff Epstein, and he referred Ghislaine Maxwell on to our team.**"
 
-Maxwell was approved as a client on April 11, 2005 ([EFTA01582862](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01582862.pdf)) — **before her background check was even complete**: "Security Services is still performing the client background check."
+Maxwell was approved as a client on April 11, 2005 ([EFTA01582862](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01582862.pdf)) — **before her background check was even complete**: "Security Services is still performing the client background check." JPMorgan later [settled for $290 million](https://www.npr.org/2023/06/12/1181675580/epstein-jane-doe-1-290-million-settlement-jpmorgan-chase) with Epstein victims (June 2023).
 
 ### 3.5 United Rentals — Confirmed in Portfolio
 
@@ -275,13 +285,13 @@ Caplinger's bank transfers were sent to his address in **New Albany, OH 43054** 
 
 ### 4.5 Gerald Barton — Landmark Land Company President
 
-Not covered in the Ohio Node series, but critical context: **Gerald G. Barton**, president of Landmark Land Company, maintained a long personal relationship with Epstein spanning at least 1990-2014.
+Not covered in the Ohio Node series, but critical context: **Gerald G. Barton**, [co-founder and chairman/CEO of Landmark Land Company](https://golfoklahoma.org/gerald-barton-co-founder-of-landmark-land-and-oak-tree-national-passes-away-at-86/), maintained a long personal relationship with Epstein spanning at least 1990-2014.
 
 Key documents:
 
 | EFTA | Date | Content |
 |------|------|---------|
-| [01779938](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01779938.pdf) | Apr 2010 | Barton to Epstein seeking $4-6M loan. References: "my situation is not as sad as it was when I first met you; no grand juries are after me" — implying the relationship dates to Barton's legal troubles in the S&L crisis (~1990) |
+| [01779938](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01779938.pdf) | Apr 2010 | Barton to Epstein seeking $4-6M loan. References: "my situation is not as sad as it was when I first met you; no grand juries are after me" — implying the relationship dates to Barton's legal troubles in the [S&L crisis](https://en.wikipedia.org/wiki/Landmark_Land_Company) (~1990, when Landmark's thrift was seized by OTS regulators) |
 | [02688037](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02688037.pdf) | Apr 2011 | Barton emails Epstein about a property development **in Savannah, Georgia**, asking for introductions to Gulfstream board/management |
 | [02155397](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02155397.pdf) | 2012-14 | Landmark staff regularly stayed in Epstein's NYC apartments (units "10N," "11P") |
 
@@ -319,6 +329,8 @@ The Ohio Node series states Landon "received quarterly payments from Epstein of 
 
 "UM Perinatal Cons" corresponds to University Medical Perinatal Consultants at Ohio State University's medical facilities. The content of these shipments is unknown — they were FedEx envelopes/packages. The shipping records confirm a documentary connection between Epstein's office (NYSG LLC / Darren Indyke / Lauren Kwintner) and an OSU perinatal medicine physician across a multi-year period (2001-2004), but the nature of the relationship cannot be determined from shipping records alone.
 
+**External reporting** (February 2026): [NBC4 Columbus](https://www.nbc4i.com/news/local-news/ohio-state-university/jeffrey-epstein-made-regular-payments-to-ohio-state-head-of-gynecology-records-show/), [WOSU](https://www.wosu.org/politics-government/2026-02-09/ohio-state-ob-gyn-received-payments-from-jeffrey-epsteins-firm-documents-show), and [NBC News](https://www.nbcnews.com/news/us-news/ohio-state-investigating-gynecologist-named-epstein-files-rcna258995) have reported that Landon received quarterly payments of up to $25,000 from Epstein's firm between 2001 and 2005. Landon told NBC4 he was a paid consultant for the "New York Strategy Group" regarding "potential biotech investments." [OSU announced it is investigating](https://www.wosu.org/politics-government/2026-02-16/ohio-state-university-says-it-is-investigating-ob-gyn-with-ties-to-jeffrey-epstein) Landon's prior relationship as of February 16, 2026. Landon is currently the Richard L. Meiling Chair of the Department of Obstetrics and Gynecology at OSU (appointed chairman in 2010, after the FedEx shipment period).
+
 **"Landon Thomas" disambiguation**: All other "Landon" hits in the corpus refer to **Landon Thomas Jr.**, a New York Times financial correspondent who had an extensive email relationship with Epstein. No confusion should arise — the OSU physician and the NYT reporter are distinct individuals.
 
 ### 4.8 Entities Not Found in Corpus
@@ -336,6 +348,11 @@ The following names and entities from the Ohio Node series produce **zero hits**
 | Sea Pines | 4 hits — all AmEx advertisement inserts, no personal connection |
 
 "Abercrombie" appears only in biographical references to Wexner acquiring A&F and in Epstein arranging modeling jobs. No reference to Jeffries' later sex trafficking prosecution appears in the corpus.
+
+**External context** for entities not found in corpus:
+- **Southern Air Transport**: [CIA-owned airline](https://en.wikipedia.org/wiki/Southern_Air_Transport) (1960-1973, continued with CIA connections through Iran-Contra). [Relocated headquarters from Miami to Rickenbacker International Airport, Columbus, OH in 1994-1995](https://freepress.org/article/spook-air) — a move facilitated by $7.2M in state incentives and Les Wexner's Limited Inc. cargo operations at Rickenbacker. Filed bankruptcy in Columbus, October 1, 1998.
+- **Richard Strauss**: OSU physician who sexually abused [at least 177 male students](https://news.osu.edu/independent-investigation-finds-ohio-state-doctor-richard-strauss-abused-students-from-1979-to-1998/) from 1979 to 1998 (Perkins Coie independent investigation, May 2019; 521 survivors have since come forward). Wexner served on the [OSU Board of Trustees from 1988 to 1997](https://www.wosu.org/politics-government/2026-02-11/judge-orders-les-wexner-to-testify-in-lawsuit-against-ohio-state-over-richard-strauss-sexual-abuse/), overlapping the abuse period. In February 2026, a federal judge ordered Wexner to sit for deposition in the Strauss survivor lawsuits.
+- **Mike Jeffries**: Former A&F CEO, [arrested October 22, 2024](https://www.justice.gov/usao-edny/pr/former-ceo-abercrombie-fitch-and-two-other-individuals-charged-sex-trafficking-and) on 1 count of sex trafficking and 15 counts of interstate prostitution (EDNY). A&F is headquartered in New Albany, Ohio — Wexner's planned community.
 
 ---
 
@@ -368,7 +385,7 @@ This is **not** the journal containing "Mr. Atkins."
 | 5 | Mr. Dana (Rockefeller), Larry Summers, Andrew, Tracy | "Both he and Larry Summers are fucking disgusting!" — "Andrew is like his brother in this way!" |
 | **6** | **Mr. Mody, Mr. Robert, Mr. Sant, Mr. Ludwig, Mr. Cecchi, Mr. Mora, Mr. Goodlatte, Mr. Atkins** | **"are not who they say! Run run run!"** |
 | 7-8 | Leon Black | "that fat fuck bit me! He threw me on the floor and blood all over Jeffreys carpet" — "Leon can go fuck himself" |
-| 11 | Jeffrey, Mr. Leonsis, Mr. Case, Mr. Snyder, the Gregorys, Mr. Colgan, George Mitchell, Mr. Kimsey | "even old senators like George Mitchell who you think would be good like a grandpa are bad" |
+| 11 | Jeffrey, Mr. Leonsis, Mr. Case, Mr. Snyder, the Gregorys, Mr. Colgan, George Mitchell, Mr. Kimsey | "even old senators like George Mitchell who you think would be good like a grandpa are bad" — "Mr. Kimsey" = James Kimsey, founding CEO of AOL (confirmed via Trilateral Commission member list in Epstein's files, [EFTA01082667](https://www.justice.gov/epstein/files/DataSet%209/EFTA01082667.pdf)) |
 
 The "Mr. Atkins" on page 6 appears in a list of eight men the writer states "are not who they say" — suggesting aliases or misrepresented identities. This is consistent with the FBI 302 description of Jim Atkins as someone connected to an Ohio university under an unclear role ("may have been the Dean, or the 'money guy'").
 
@@ -458,7 +475,27 @@ The Ohio Node series describes the Weyerhaeuser position as "10,000 shares." Cor
 ### Databases Searched
 - `full_text_corpus.db` (6.3 GB): 1,385,879 documents, 2,770,154 pages. FTS5 and LIKE queries on all search terms.
 - `concordance_complete.db` (729 MB): Cross-reference metadata.
-- Existing investigation reports (166 reports across both repositories).
+- Existing investigation reports (168 reports across both repositories).
+
+### External Sources
+- [Keith Funeral Services — James "Jim" Wade Atkins obituary](https://www.keithfuneral.com/obituary/james-atkins)
+- [Legacy.com — James Atkins obituary](https://www.legacy.com/us/obituaries/mcdowellnews/name/james-atkins-obituary?id=33079159)
+- [NASAA — ASA Narrative Timeline Vietnam](https://www.nasaa-home.org/1SIGNIT_&_ASA_History/history/ASA_Timeline_Vietnam.htm)
+- [NBC4 Columbus — "Jeffrey Epstein made regular payments to Ohio State head of gynecology"](https://www.nbc4i.com/news/local-news/ohio-state-university/jeffrey-epstein-made-regular-payments-to-ohio-state-head-of-gynecology-records-show/)
+- [WOSU — "Ohio State OB-GYN received payments from Jeffrey Epstein's firm"](https://www.wosu.org/politics-government/2026-02-09/ohio-state-ob-gyn-received-payments-from-jeffrey-epsteins-firm-documents-show)
+- [WOSU — "Ohio State University says it is investigating OB-GYN"](https://www.wosu.org/politics-government/2026-02-16/ohio-state-university-says-it-is-investigating-ob-gyn-with-ties-to-jeffrey-epstein)
+- [NBC News — "Ohio State investigating gynecologist named in Epstein files"](https://www.nbcnews.com/news/us-news/ohio-state-investigating-gynecologist-named-epstein-files-rcna258995)
+- [Golf Oklahoma — Gerald Barton obituary / Landmark Land history](https://golfoklahoma.org/gerald-barton-co-founder-of-landmark-land-and-oak-tree-national-passes-away-at-86/)
+- [Wikipedia — Southern Air Transport](https://en.wikipedia.org/wiki/Southern_Air_Transport)
+- [Freepress.org — "Spook Air" (SAT Columbus relocation)](https://freepress.org/article/spook-air)
+- [OSU — Strauss independent investigation](https://news.osu.edu/independent-investigation-finds-ohio-state-doctor-richard-strauss-abused-students-from-1979-to-1998/)
+- [WOSU — Wexner ordered to testify in Strauss case](https://www.wosu.org/politics-government/2026-02-11/judge-orders-les-wexner-to-testify-in-lawsuit-against-ohio-state-over-richard-strauss-sexual-abuse/)
+- [DOJ EDNY — Jeffries indictment](https://www.justice.gov/usao-edny/pr/former-ceo-abercrombie-fitch-and-two-other-individuals-charged-sex-trafficking-and)
+- [NPR — JPMorgan $290M settlement](https://www.npr.org/2023/06/12/1181675580/epstein-jane-doe-1-290-million-settlement-jpmorgan-chase)
+- [NYDFS — Deutsche Bank $150M penalty](https://www.dfs.ny.gov/reports_and_publications/press_releases/pr202007071)
+- [NPR — Deutsche Bank $75M victim settlement](https://www.npr.org/2023/05/18/1176974676/deutsche-bank-settles-lawsuit-with-epstein-accusers-for-75-million)
+- [Court Atkins Group — James C. Atkins bio](https://courtatkins.com/team/james-c-atkins-aia-ncarb)
+- [Weyerhaeuser/IP 2008 asset sale (confirms Ohio/Carolinas plants)](https://investor.weyerhaeuser.com/2008-08-04-Weyerhaeuser-Completes-Sale-of-Assets-to-International-Paper)
 
 ### Search Terms
 Every name, entity, location, CUSIP, and keyword from the Ohio Node series was searched individually and in combination. Searches included: Jim Atkins, Atkins, Weyerhaeuser, Cecil, Kerney, Caplinger, New Albany, Landmark Land, Routch, Landon, Hilton Head, Sea Pines, Bluffton, Savannah, KSAV, Beaufort, South Carolina, Southern Air Transport, Bobby Ginn, Butcher, United Rentals, Bradley Jacobs, Strauss, Abercrombie, Jeffries, 962166 (CUSIP), gang stuff, power of attorney + Wexner.
