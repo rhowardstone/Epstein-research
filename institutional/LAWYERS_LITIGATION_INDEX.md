@@ -289,7 +289,7 @@ Referenced in [EFTA01387836](https://www.justice.gov/epstein/files/DataSet%209/E
 
 ### 1.13 Prosecutorial Query Graph Summary
 
-From [`prosecutorial_query_graph.db`](https://github.com/rhowardstone/Epstein-research-data/releases/download/v4.0/prosecutorial_query_graph.db):
+From [`prosecutorial_query_graph.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v4.0):
 
 | Metric | Value |
 |--------|-------|

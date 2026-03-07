@@ -20,7 +20,7 @@ We performed a full-text search of the 2.77 million pages in `full_text_corpus.d
 
 ### Redaction Cross-Reference
 
-Every phone record EFTA was cross-referenced against our [`redaction_analysis_v2.db`](https://github.com/rhowardstone/Epstein-research-data/releases/download/v4.0/redaction_analysis_v2.db.gz) database (2.59 million detected redactions). For each document, we counted proper redactions (black bars), text-near-bar OCR leaks, and white rectangles. The result is a per-document redaction profile showing which phone records were protected and which were exposed.
+Every phone record EFTA was cross-referenced against our [`redaction_analysis_v2.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v4.0) database (2.59 million detected redactions). For each document, we counted proper redactions (black bars), text-near-bar OCR leaks, and white rectangles. The result is a per-document redaction profile showing which phone records were protected and which were exposed.
 
 ### Phone Number Extraction and Enrichment
 
