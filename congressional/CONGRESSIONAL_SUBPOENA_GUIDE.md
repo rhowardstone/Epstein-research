@@ -103,24 +103,29 @@ If a witness flees: no enforcement abroad. If they return to US jurisdiction, co
 
 ## 2.2 Subpoenas Issued
 
-| Date | Target | Type |
-|------|--------|------|
-| Aug 5, 2025 | DOJ records | Document subpoena |
-| Aug 25, 2025 | Epstein Estate records | Document subpoena |
-| Late 2025 | Bill Clinton, Hillary Clinton | Deposition subpoenas |
-| Late 2025 | Comey, Lynch, Holder, Garland, Mueller, Barr, Sessions, Gonzales | Deposition subpoenas (former AGs/FBI Directors) |
-| Jan 7-8, 2026 | Les Wexner, Darren Indyke, Richard Kahn | Committee vote, deposition subpoenas |
-| Mar 4, 2026 | Pam Bondi | Committee vote 24-19 (Mace motion; Boebert, Burchett, Cloud, Perry crossed) |
+Authorized Jul 23, 2025 by bipartisan voice vote (Federal Law Enforcement Subcommittee, motion by Rep. Perry). ([Cover letters PDF](https://oversight.house.gov/wp-content/uploads/2025/08/2025.08.05-Subpoena-Cover-Letters.pdf))
+
+| Date | Target | Type | Outcome |
+|------|--------|------|---------|
+| [Aug 5, 2025](https://oversight.house.gov/release/chairman-comer-subpoenas-bill-and-hillary-clinton-former-u-s-attorneys-general-and-fbi-directors-and-records-related-to-jeffrey-epstein/) | DOJ records | Document subpoena | DOJ began compliance Aug 18; 33,295 pages released Sep 2 |
+| [Aug 25, 2025](https://oversight.house.gov/wp-content/uploads/2025/08/2025.08.25-Subpoena-Cover-Letter-to-Epstein-Estate.pdf) | Epstein Estate records | Document subpoena | Estate complied; [records released Sep 8](https://oversight.house.gov/release/oversight-committee-releases-records-provided-by-the-epstein-estate-chairman-comer-provides-statement/) |
+| [Aug 5, 2025](https://oversight.house.gov/release/chairman-comer-subpoenas-bill-and-hillary-clinton-former-u-s-attorneys-general-and-fbi-directors-and-records-related-to-jeffrey-epstein/) | [Bill Clinton](https://www.cnn.com/2025/08/05/politics/subpoenas-doj-epstein-files-clintons-barr-mueller-garland-congress), [Hillary Clinton](https://www.cnn.com/2025/08/05/politics/subpoenas-doj-epstein-files-clintons-barr-mueller-garland-congress) | Deposition subpoenas | Defied for months; [held in contempt](https://oversight.house.gov/release/oversight-committee-republicans-and-democrats-hold-bill-and-hillary-clinton-in-contempt-for-defying-lawful-subpoenas/); [eventually caved](https://oversight.house.gov/release/chairman-comer-announces-the-clintons-caved-will-appear-for-depositions/). Depositions Feb 26-27. |
+| [Aug 5, 2025](https://oversight.house.gov/release/chairman-comer-subpoenas-bill-and-hillary-clinton-former-u-s-attorneys-general-and-fbi-directors-and-records-related-to-jeffrey-epstein/) | [Barr](https://www.foxnews.com/politics/ex-bush-attorney-general-faces-house-oversight-questions-controversial-epstein-deal) | Deposition subpoena | **Testified** Aug 18. [Transcript released Sep 16.](https://oversight.house.gov/wp-content/uploads/2025/09/Barr-Transcript.pdf) |
+| [Aug 5, 2025](https://oversight.house.gov/release/chairman-comer-subpoenas-bill-and-hillary-clinton-former-u-s-attorneys-general-and-fbi-directors-and-records-related-to-jeffrey-epstein/) | Comey, Lynch, Holder, Garland, Sessions, Gonzales | Deposition subpoenas | All submitted written declarations claiming no relevant knowledge. Committee accepted in lieu of testimony. |
+| [Aug 5, 2025](https://oversight.house.gov/release/chairman-comer-subpoenas-bill-and-hillary-clinton-former-u-s-attorneys-general-and-fbi-directors-and-records-related-to-jeffrey-epstein/) | Mueller | Deposition subpoena | Withdrawn — committee learned Mueller has health issues precluding testimony. |
+| [Jan 7, 2026](https://oversightdemocrats.house.gov/news/press-releases/ranking-member-robert-garcia-statement-on-forcing-subpoenas-of-epstein-co-conspirator-les-wexner-and-epstein-estate-executors-darren-indyke-and-richard-kahn) | [Les Wexner, Darren Indyke, Richard Kahn](https://www.cbsnews.com/news/epstein-wexner-indyke-kahn-testify-house-oversight-committee/) | Committee voice vote; [subpoenas formally issued Jan 24](https://oversightdemocrats.house.gov/news/press-releases/ranking-member-robert-garcia-statement-after-subpoenas-formally-issued-to-epstein-associates-les-wexner-darren-indyke-and-richard-kahn) | Wexner deposed Feb 18. Kahn/Indyke rescheduled (see 2.4). |
+| [Mar 4, 2026](https://www.cbsnews.com/news/pam-bondi-subpoena-jeffrey-epstein-house-oversight-committee/) | [Pam Bondi](https://www.nbcnews.com/politics/justice-department/pam-bondi-subpoenaed-testify-epstein-files-house-oversight-committee-rcna261779) | Committee vote 24-19 (Mace motion; Boebert, Burchett, Cloud, Perry crossed) | Pending. |
 
 ## 2.3 Depositions Completed
 
 | Date | Witness | Format | Result |
 |------|---------|--------|--------|
+| Aug 18, 2025 | William Barr | In person ([transcript](https://oversight.house.gov/wp-content/uploads/2025/09/Barr-Transcript.pdf)) | Testified on death investigation, K&E conflict, BOP decisions. Transcript released Sep 16. |
+| Sep 19, 2025 | Alexander Acosta | Transcribed interview ([transcript](https://drive.google.com/file/d/1CtE3pRovhmz8pLDZEtR-vKe87UVT4TLO/view), [press release](https://oversight.house.gov/release/oversight-committee-releases-acosta-transcript/)) | Questioned on NPA negotiations, co-conspirator immunity expansion, victim concealment. Transcript released Oct 17. |
 | Feb 9 | Ghislaine Maxwell | Virtual from prison | Pled Fifth to every question. Offered to cooperate in exchange for clemency. |
-| Feb 18 | Les Wexner | In person, ~5 hrs | "Duped by world-class con man." Video released Feb 19. |
-| Feb 25 | Richard Kahn | -- | Rescheduled to Mar 11 |
-| Feb 26 | Hillary Clinton | In person, ~4.5 hrs ([CNN](https://www.cnn.com/2026/03/02/politics/clinton-depositions-epstein-video)) | Called questions "repetitive." Members asked about Pizzagate and UFOs. Stormed out after Boebert leaked photo. |
-| Feb 27 | Bill Clinton | In person, ~4.5 hrs ([CNN](https://www.cnn.com/2026/03/02/politics/clinton-depositions-epstein-video)) | Denied knowledge of criminal conduct before 2008 NPA. Video released Mar 2. |
+| Feb 18 | Les Wexner | In person, ~5 hrs ([video](https://epstein-data.com/depositions?v=wexner)) | "Duped by world-class con man." Video released Feb 19. |
+| Feb 26 | Hillary Clinton | In person, ~4.5 hrs ([video](https://epstein-data.com/depositions?v=hillary_clinton), [CNN](https://www.cnn.com/2026/03/02/politics/clinton-depositions-epstein-video)) | Called questions "repetitive." Members asked about Pizzagate and UFOs. Stormed out after Boebert leaked photo. |
+| Feb 27 | Bill Clinton | In person, ~4.5 hrs ([video](https://epstein-data.com/depositions?v=bill_clinton), [CNN](https://www.cnn.com/2026/03/02/politics/clinton-depositions-epstein-video)) | Denied knowledge of criminal conduct before 2008 NPA. Video released Mar 2. |
 
 ## 2.4 Scheduled
 
@@ -187,7 +192,7 @@ Estate co-executor, attorney, shell entity architect. Managed ALL Epstein financ
 4. You asked Deutsche Bank how often you could withdraw cash without triggering an alert. Why? ([EFTA00151495](https://www.justice.gov/epstein/files/DataSet%209/EFTA00151495.pdf))
 5. $14.6M flowed through your IOLA trust account at TD Bank in three months. What was the purpose of each wire? ([EFTA01656524](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01656524.pdf))
 
-**Countermeasure for privilege assertion:** Dual-role argument — Indyke was simultaneously attorney AND business participant: Treasurer of Gratitude America, co-Trustee of Haze Trust, POA on 10+ DB accounts, financial manager of LSJ LLC, wrote to DHS about aircraft customs procedures. Crime-fraud exception for communications furthering the shell entity network. Go around him: subpoena Deutsche Bank directly (already settled $150M NYDFS + $75M victim suit).
+**Countermeasure for privilege assertion:** Dual-role argument — Indyke was simultaneously attorney AND business participant: Treasurer of Gratitude America, co-Trustee of Haze Trust, POA on 10+ DB accounts, financial manager of LSJ LLC, wrote to DHS about aircraft customs procedures. Crime-fraud exception for communications furthering the shell entity network. Go around him: subpoena Deutsche Bank directly (already settled [$150M NYDFS](https://www.dfs.ny.gov/reports_and_publications/press_releases/pr202007071) + [$75M victim suit](https://www.reuters.com/legal/litigation/deutsche-bank-pay-75-million-settle-epstein-victims-lawsuit-2023-05-17/)).
 
 ---
 
@@ -266,7 +271,7 @@ Lutnick has agreed to voluntary closed-door testimony ([DNYUZ](https://dnyuz.com
 | [EFTA00020515](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020515.pdf) | 8 | FBI NTOC complaint: ex-BGC/Cantor employee alleging Lutnick financial irregularities connected to Epstein |
 | [EFTA00173881](https://www.justice.gov/epstein/files/DataSet%209/EFTA00173881.pdf) | 9 | FBI Enterprise Vetting Center memo (Jan 2025) reviewing Lutnick; finding: "We did not open an investigation" |
 | [EFTA00462552](https://www.justice.gov/epstein/files/DataSet%209/EFTA00462552.pdf) | 9 | UJA Wall Street Dinner honoring Lutnick (Dec 2017) — invitation forwarded to Epstein by John Paulson |
-| HOUSE_OVERSIGHT_027694 | 99 | iMessage from Epstein's phone (May 13, 2019): "Trump is coming to Lutnick's house Thursday" |
+| [HOUSE_OVERSIGHT_027694](https://wikiepstein.com/) | 99 | iMessage from Epstein's phone (May 13, 2019): "Trump is coming to Lutnick's house Thursday" |
 
 **AdFin co-investment:** Epstein invested in AdFin Solutions Inc. through Southern Trust; Lutnick invested through Cantor Ventures. David Mitchell coordinated. The investment is documented across multiple EFTAs including [EFTA01900078](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01900078.pdf), [EFTA01746858](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01746858.pdf), [EFTA02097521](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02097521.pdf).
 
@@ -305,7 +310,7 @@ Lutnick has agreed to voluntary closed-door testimony ([DNYUZ](https://dnyuz.com
 
 ### TED WAITT — Apr 16 – Jun 9 (letter sent, not confirmed)
 
-→ Full profile: [Section 3.49](#349-tom-pritzker--hyatt-hotels) *(see Clinton section for Waitt evidence)*
+→ No dedicated section. Evidence appears in [Section 3.23 Bill Clinton](#323-bill-clinton--former-president) (Waitt relayed Clinton messages to Maxwell).
 
 ---
 
@@ -667,7 +672,7 @@ Same RM Code 82289 portfolio as Litchford. Same questions apply.
 | [EFTA00021994](https://www.justice.gov/epstein/files/DataSet%208/EFTA00021994.pdf) | 8 | $18.3M Maxwell wire (Oct 19, 1999) |
 | [EFTA00038690](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038690.pdf) | 8 | Financial Trust Company management |
 
-JPMorgan settled for $290M. No institutional shield remains.
+JPMorgan [settled for $290M](https://www.reuters.com/legal/jpmorgan-reaches-290-mln-settlement-with-epstein-victims-2023-06-12/). No institutional shield remains.
 
 **Key question:** What was the $18.3M wire to Maxwell for?
 
@@ -693,9 +698,9 @@ The people who had the case and didn't bring it — or who influenced those deci
 
 ### 3.13 ALEXANDER ACOSTA — US Attorney, Southern District of Florida (2005-2009)
 
-**Location:** FL. Dean of FIU College of Law (after resignation as Labor Secretary 2019).
-**Already subpoenaed?** Late 2025 (former AG/official batch)
-**Status:** Testified before Senate in 2019 confirmation hearings, but was never asked about the co-conspirator immunity expansion.
+**Location:** FL. Former Labor Secretary (resigned July 2019); former Dean of FIU College of Law (2009-2017).
+**Already subpoenaed?** Yes ([Aug 5, 2025](https://oversight.house.gov/release/chairman-comer-subpoenas-bill-and-hillary-clinton-former-u-s-attorneys-general-and-fbi-directors-and-records-related-to-jeffrey-epstein/) batch)
+**Status:** Testified Sep 19, 2025 ([transcript](https://drive.google.com/file/d/1CtE3pRovhmz8pLDZEtR-vKe87UVT4TLO/view)). Also testified at 2019 Senate confirmation hearings, where he was never asked about the co-conspirator immunity expansion.
 **Likely response:** Will testify. Already on record extensively. No Fifth Amendment basis.
 **Why they matter:** He signed the Non-Prosecution Agreement that gave blanket immunity to named and unnamed co-conspirators — an unprecedented provision.
 
@@ -748,8 +753,8 @@ PQG analysis shows the co-conspirator immunity clause was NOT in the original NP
 ### 3.15 WILLIAM BARR — Attorney General (2019-2020)
 
 **Location:** McLean, VA.
-**Already subpoenaed?** Yes (late 2025 former AG batch)
-**Status:** Deposition scheduling TBD.
+**Already subpoenaed?** Yes ([Aug 5, 2025](https://oversight.house.gov/release/chairman-comer-subpoenas-bill-and-hillary-clinton-former-u-s-attorneys-general-and-fbi-directors-and-records-related-to-jeffrey-epstein/)).
+**Status:** Testified Aug 18, 2025. [Transcript released Sep 16, 2025.](https://oversight.house.gov/wp-content/uploads/2025/09/Barr-Transcript.pdf)
 **Likely response:** Will testify with limitations. Will invoke executive privilege on AG deliberations. Will fight hard.
 **Why they matter:** He oversaw DOJ during Epstein's death, the Maxwell investigation, and the decision to decline prosecution of BOP employees. His father hired Epstein at Dalton School. Kirkland & Ellis connection creates conflict.
 
@@ -870,7 +875,7 @@ Master financial exhibits: [EFTA00027019](https://www.justice.gov/epstein/files/
 
 ### 3.18 JES STALEY — JPMorgan / Barclays CEO
 
-**Location:** Unknown (resigned Barclays 2023)
+**Location:** Unknown ([resigned Barclays Nov 2021](https://www.bbc.com/news/business-59156813))
 **Already subpoenaed?** NOT YET. **Should be.**
 **Status:** Not scheduled.
 **Likely response:** Will fight. Criminal exposure is real — rape allegation flagged by SDNY prosecutor.
@@ -891,7 +896,7 @@ Master financial exhibits: [EFTA00027019](https://www.justice.gov/epstein/files/
 | [EFTA02434434](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02434434.pdf) | 11 | Drinks with Peter Mandelson, December 2009 |
 | [EFTA01813479](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01813479.pdf) | 10 | Epstein: "he is good friends with Jes, little full of himself" |
 
-Resigned Barclays 2023 over Epstein connections. UK FCA investigation ongoing.
+[FCA banned him and fined £1.1M](https://www.fca.org.uk/news/press-releases/upper-tribunal-upholds-jes-staley-ban) (upheld by Upper Tribunal Jun 2025) for misleading regulators about Epstein relationship.
 
 **Key questions:**
 1. What was your relationship with Epstein?
@@ -919,7 +924,11 @@ Resigned Barclays 2023 over Epstein connections. UK FCA investigation ongoing.
 
 ### 3.20 GEORGE MITCHELL — Former Senate Majority Leader
 
-**DECEASED (2023).** Cannot testify. Records can be subpoenaed.
+**Location:** Maine. Age 92. [Resigned from Mitchell Institute Feb 2026](https://www.pressherald.com/2026/02/05/former-sen-george-mitchell-resigns-from-mitchell-institute/) after Epstein file revelations.
+**Already subpoenaed?** NOT YET. **Should be subpoenaed — he is alive and reachable.**
+**Status:** Not scheduled.
+**Likely response:** Will deny. Will assert age/health limitations.
+**Why they matter:** Named in victim journal. Victim sent by Epstein to Mitchell at Beverly Hills Hotel and Four Seasons DC. SDNY found him "so, so frustrating" to reach. Never subpoenaed before the files were released.
 
 | EFTA | DS | Description |
 |------|----|-------------|
@@ -927,7 +936,7 @@ Resigned Barclays 2023 over Epstein connections. UK FCA investigation ongoing.
 | [EFTA00022133](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022133.pdf) | 8 | Accusation compilation |
 | [EFTA02857849](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02857849.pdf) | 12 | FBI 302: victim sent by Epstein to Mitchell at Beverly Hills Hotel and Four Seasons DC. Mitchell on phone with Epstein: "She's here." |
 
-SDNY noted he was "so, so frustrating" to reach. Never subpoenaed before his death.
+SDNY noted he was "so, so frustrating" to reach. Never subpoenaed before the files were released.
 
 ---
 
@@ -1495,9 +1504,9 @@ Separate from Glen Dubin. Eva Dubin (née Andersson) had a long-term relationshi
 
 ---
 
-### 3.40 LANDON THOMAS JR. — NYT Reporter ($30K from Gratitude America)
+### 3.39 LANDON THOMAS JR. — NYT Reporter ($30K from Gratitude America)
 
-Took $30K from Gratitude America (Epstein entity) while covering Epstein for the New York Times.
+[Solicited $30K donation](https://www.thedailybeast.com/new-york-times-reporter-landon-thomas-jr-solicited-dollar30000-for-charity-from-jeffrey-epstein/) from Epstein's Gratitude America entity while covering Epstein for the New York Times. [Left the paper in early 2019](https://www.niemanlab.org/reading/jeffreys-journalists-epstein-emails-reveal-cozy-relationship-with-two-reporters/) after editors learned of the relationship.
 
 | EFTA | DS | Description |
 |------|----|-------------|
@@ -1507,9 +1516,9 @@ Took $30K from Gratitude America (Epstein entity) while covering Epstein for the
 
 ---
 
-### 3.41 JEAN-LUC BRUNEL — MC2 Model Management (DEAD)
+### 3.40 JEAN-LUC BRUNEL — MC2 Model Management (DEAD)
 
-**DIED** February 2022, Santé Prison, Paris. Found hanged. Cannot testify. Records can be subpoenaed from MC2, French authorities, and Brunel's estate.
+**DIED** [February 19, 2022](https://www.cnn.com/2022/02/19/europe/jean-luc-brunel-jeffrey-epstein-death-intl), La Santé Prison, Paris. Found hanged. Cannot testify. Records can be subpoenaed from MC2, French authorities, and Brunel's estate.
 
 **Why they matter:** Brunel was Epstein's primary model recruiter. MC2 publicly required submissions from girls "between 13 and 20 years old." Described as a "constant companion" during abuse. A witness described "12 year old girls flown from France for Epstein's birthday."
 
@@ -1528,9 +1537,9 @@ Took $30K from Gratitude America (Epstein entity) while covering Epstein for the
 
 ---
 
-### 3.42 BILL RICHARDSON — Former Governor of New Mexico (DEAD)
+### 3.41 BILL RICHARDSON — Former Governor of New Mexico (DEAD)
 
-**DIED** 2023. Cannot testify. Records can be subpoenaed.
+**DIED** [September 1, 2023](https://www.npr.org/2023/09/02/1197430962/bill-richardson-former-new-mexico-governor-and-diplomat-dies-at-75), age 75. Cannot testify. Records can be subpoenaed.
 
 | EFTA | DS | Description |
 |------|----|-------------|
@@ -1540,9 +1549,9 @@ Took $30K from Gratitude America (Epstein entity) while covering Epstein for the
 
 ---
 
-### 3.43 ALFREDO RODRIGUEZ — Epstein Household Manager (DEAD)
+### 3.42 ALFREDO RODRIGUEZ — Epstein Household Manager (DEAD)
 
-**DIED** 2015, cancer. Cannot testify. Key records exist.
+**DIED** [January 2015](https://www.wanttoknow.info/a-prince-andrew-sex-allegations-jeffrey-epsteins-butler-alfredo-rodriguez-who-stole-tellall-black-book-dies-age-60), mesothelioma, age 60. Cannot testify. Key records exist.
 
 **Why they matter:** Rodriguez possessed Epstein's "black book" and attempted to sell it to an attorney for $50K. He was prosecuted for obstruction and died in 2015. He reported "lists of hundreds of additional victims."
 
@@ -1554,7 +1563,9 @@ Took $30K from Gratitude America (Epstein entity) while covering Epstein for the
 
 ---
 
-### 3.44 STEVEN HOFFENBERG — Towers Financial Corporation
+### 3.43 STEVEN HOFFENBERG — Towers Financial Corporation (DEAD)
+
+**DIED** [August 23, 2022](https://www.npr.org/2022/08/26/1119746511/jeffrey-epstein-mentor-steven-hoffenberg-dead), Derby, CT, age 77. Cannot testify. Records can be subpoenaed.
 
 **Why they matter:** Named Epstein as "uncharged co-conspirator" in the $460M TFC Ponzi scheme. Told a grand jury Epstein was the "technical" person in the fraud. This is the earliest documented Epstein financial crime — before the sex trafficking operation.
 
@@ -1565,7 +1576,7 @@ Took $30K from Gratitude America (Epstein entity) while covering Epstein for the
 
 ---
 
-### 3.45 MASHA DROKOVA — "Putin's Kiss" / Epstein Publicist
+### 3.44 MASHA DROKOVA — "Putin's Kiss" / Epstein Publicist
 
 **Location:** Unknown (last known: NY/London)
 **Why they matter:** FBI ARMS investigation described Drokova as "nicknamed 'Putin's kiss,' former publicist for JEFFREY EPSTEIN." Linked to Israeli intelligence claims in CHS reports.
@@ -1577,7 +1588,7 @@ Took $30K from Gratitude America (Epstein entity) while covering Epstein for the
 
 ---
 
-### 3.46 TIM COLLINS / RIPPLEWOOD HOLDINGS — Private Equity
+### 3.45 TIM COLLINS / RIPPLEWOOD HOLDINGS — Private Equity
 
 **Location:** NY
 **Why they matter:** Epstein served as intermediary between Collins and Prince Andrew, facilitating access to sovereign wealth funds (Abu Dhabi) and European banking deals (BHF). Collins flagged "High Risk" in Deutsche Bank compliance. Epstein explicitly used Prince Andrew as leverage: "PA told him that I have his full trust and Collins would be a fool not to do business with me."
@@ -1607,9 +1618,9 @@ Took $30K from Gratitude America (Epstein entity) while covering Epstein for the
 
 ---
 
-### 3.47 JOI ITO — MIT Media Lab Director
+### 3.46 JOI ITO — MIT Media Lab Director
 
-**Location:** Tokyo (resigned MIT October 2019 after Epstein relationship exposed)
+**Location:** Tokyo (resigned MIT September 2019 after Epstein relationship exposed)
 **Why they matter:** Ito managed the pipeline between Epstein and the MIT Media Lab, including $483,915 in direct payments and a $30K investment through Neoteny 3 LP. He arranged a US Treasury call to include Epstein. He operated Kyara LLC entities with Epstein's Southern Financial as sole member.
 
 | EFTA | DS | Description |
@@ -1630,7 +1641,7 @@ Took $30K from Gratitude America (Epstein entity) while covering Epstein for the
 
 ---
 
-### 3.48 REID HOFFMAN — LinkedIn / Greylock Partners
+### 3.47 REID HOFFMAN — LinkedIn / Greylock Partners
 
 **Location:** CA
 **Why they matter:** Hoffman directed Blockstream to increase Epstein's seed round allocation 10x ($50K → $500K). He appears in multiple crypto investment coordination emails. Invited to Epstein's Columbus Day weekend.
@@ -1646,7 +1657,7 @@ Took $30K from Gratitude America (Epstein entity) while covering Epstein for the
 
 ---
 
-### 3.49 TOM PRITZKER — Hyatt Hotels
+### 3.48 TOM PRITZKER — Hyatt Hotels
 
 **Location:** Chicago
 **Why they matter:** Connected to both the Clinton orbit and the Epstein social network. Attended dinners with Woody Allen and Joi Ito at Epstein's residence.
@@ -1659,7 +1670,7 @@ Took $30K from Gratitude America (Epstein entity) while covering Epstein for the
 
 ---
 
-### 3.50 AOL CLUSTER: JIM KIMSEY, STEVE CASE, TED LEONSIS, DAN SNYDER
+### 3.49 AOL CLUSTER: JIM KIMSEY, STEVE CASE, TED LEONSIS, DAN SNYDER
 
 **Status:** Kimsey is dead (2016). Case, Leonsis, Snyder are alive and reachable.
 **Why they matter:** All four named in a victim journal entry describing "flights of horror." Leonsis is specifically alleged to have FILMED abuse.
@@ -1672,7 +1683,7 @@ Took $30K from Gratitude America (Epstein entity) while covering Epstein for the
 
 ---
 
-### 3.51 BRUCE REINHART — AUSA → Epstein Defense Attorney
+### 3.50 BRUCE REINHART — AUSA → Epstein Defense Attorney
 
 **Why they matter:** OPR investigated his "possible involvement in the Epstein matter." He resigned as AUSA and was retained by Epstein the next day. Later became a federal magistrate judge and signed the Mar-a-Lago search warrant.
 
@@ -1683,7 +1694,7 @@ Took $30K from Gratitude America (Epstein entity) while covering Epstein for the
 
 ---
 
-### 3.52 KARYNA SHULIAK — Last Girlfriend
+### 3.51 KARYNA SHULIAK — Last Girlfriend
 
 **Why they matter:** Became Butterfly Trust beneficiary after Maxwell was removed (late 2014). Received the last unmonitored phone call from Epstein on Aug 9, 2019 — the night he died. Epstein told BOP staff he was calling "his deceased mother." "A man answered."
 
@@ -1701,7 +1712,7 @@ Took $30K from Gratitude America (Epstein entity) while covering Epstein for the
 
 ---
 
-### 3.53 BENJAMIN EDMOND DE ROTHSCHILD / ARIANE DE ROTHSCHILD
+### 3.52 BENJAMIN EDMOND DE ROTHSCHILD / ARIANE DE ROTHSCHILD
 
 **Why they matter:** Two wires totaling $25M within four days — $10M from Edmond de Rothschild Suisse SA Geneva (12/17/2015), $14.999M personal (12/21/2015), both to Southern Trust. Ariane established an untraceable communication channel with Epstein.
 
@@ -1712,7 +1723,7 @@ Took $30K from Gratitude America (Epstein entity) while covering Epstein for the
 
 ---
 
-### 3.54 MICHAEL WOLFF — Author/Journalist
+### 3.53 MICHAEL WOLFF — Author/Journalist
 
 | EFTA | DS | Description |
 |------|----|-------------|
@@ -1720,7 +1731,7 @@ Took $30K from Gratitude America (Epstein entity) while covering Epstein for the
 
 ---
 
-### 3.55 OLEG DERIPASKA / JIDE ZEITLIN — Russian Oligarch / Corporate Director
+### 3.54 OLEG DERIPASKA / JIDE ZEITLIN — Russian Oligarch / Corporate Director
 
 **Why they matter:** Deripaska sanctions intelligence flowed through Epstein's network to multiple recipients including Ehud Barak and Steve Bannon. Jide Zeitlin served as the connector, asking Epstein about both Deripaska and Ivan Glasenberg.
 
@@ -1733,7 +1744,7 @@ Took $30K from Gratitude America (Epstein entity) while covering Epstein for the
 
 ---
 
-### 3.56 DAVID MITCHELL / MITCHELL HOLDINGS — Trustee
+### 3.55 DAVID MITCHELL / MITCHELL HOLDINGS — Trustee
 
 | EFTA | DS | Description |
 |------|----|-------------|
@@ -1742,7 +1753,7 @@ Took $30K from Gratitude America (Epstein entity) while covering Epstein for the
 
 ---
 
-### 3.57 SULTAN BIN SULAYEM — Dubai Ports World
+### 3.56 SULTAN BIN SULAYEM — Dubai Ports World
 
 | EFTA | DS | Description |
 |------|----|-------------|
@@ -1751,7 +1762,7 @@ Took $30K from Gratitude America (Epstein entity) while covering Epstein for the
 
 ---
 
-### 3.58 SCOTT BORGERSON — Maxwell's Husband / Tech CEO
+### 3.57 SCOTT BORGERSON — Maxwell's Husband / Tech CEO
 
 **Why they matter:** FBI traced Maxwell through Borgerson's corporate shell network to her New Hampshire hideout.
 
@@ -1763,9 +1774,9 @@ Took $30K from Gratitude America (Epstein entity) while covering Epstein for the
 
 ---
 
-### 3.59 DAVE KLEIMAN — Computer Forensics Expert
+### 3.58 DAVE KLEIMAN — Computer Forensics Expert
 
-**DIED** 2013. Cannot testify.
+**DIED** [April 26, 2013](https://gizmodo.com/the-strange-life-and-death-of-dave-kleiman-a-computer-1747092460), Riviera Beach, FL. Cannot testify.
 **Why they matter:** Kleiman cloned three Epstein computers in July 2007 for defense attorney Roy Black. Kleiman is the same individual at the center of the Satoshi Nakamoto/Bitcoin creation dispute.
 
 | EFTA | DS | Description |
@@ -1776,7 +1787,7 @@ Took $30K from Gratitude America (Epstein entity) while covering Epstein for the
 
 ---
 
-### 3.60 PETER NYGARD — Fashion Executive (Convicted Trafficker)
+### 3.59 PETER NYGARD — Fashion Executive (Convicted Trafficker)
 
 **Why they matter:** FBI Tactical Intelligence Report reveals Nygard and Epstein investigations were coordinated by the same SDNY team.
 
@@ -1786,7 +1797,7 @@ Took $30K from Gratitude America (Epstein entity) while covering Epstein for the
 
 ---
 
-### 3.61 ANDREW FARKAS — Real Estate / Bitcoin Associate
+### 3.60 ANDREW FARKAS — Real Estate / Bitcoin Associate
 
 | EFTA | DS | Description |
 |------|----|-------------|
@@ -1796,7 +1807,7 @@ Took $30K from Gratitude America (Epstein entity) while covering Epstein for the
 
 ---
 
-### 3.62 THORBJORN JAGLAND — Council of Europe Secretary General
+### 3.61 THORBJORN JAGLAND — Council of Europe Secretary General
 
 | EFTA | DS | Description |
 |------|----|-------------|
@@ -1804,7 +1815,7 @@ Took $30K from Gratitude America (Epstein entity) while covering Epstein for the
 
 ---
 
-### 3.63 TERJE ROD-LARSEN — International Academy of Peace
+### 3.62 TERJE ROD-LARSEN — International Academy of Peace
 
 | EFTA | DS | Description |
 |------|----|-------------|
@@ -1813,7 +1824,7 @@ Took $30K from Gratitude America (Epstein entity) while covering Epstein for the
 
 ---
 
-### 3.64 MARK EPSTEIN — Brother (Enriched)
+### 3.63 MARK EPSTEIN — Brother (Enriched)
 
 | EFTA | DS | Description |
 |------|----|-------------|
@@ -1892,7 +1903,7 @@ What Congress should subpoena beyond testimony.
 3. **Financial Trust Company records** — the USVI entity managed by Cecile de Jongh.
 4. **The $18.3M Maxwell wire** (Oct 19, 1999) — full transaction records.
 
-JPMorgan settled for $290M. No institutional shield.
+JPMorgan [settled for $290M](https://www.reuters.com/legal/jpmorgan-reaches-290-mln-settlement-with-epstein-victims-2023-06-12/). No institutional shield.
 
 ## 4.4 From the Epstein Estate
 
@@ -2015,10 +2026,10 @@ Indyke and Kahn will assert attorney-client privilege on everything in the 513-p
 | Witness | Status | Recourse |
 |---------|--------|----------|
 | Nadia Marcinkova | Missing since Jan 2024 | US Marshals if located domestically; contempt if she returns |
-| Jean-Luc Brunel | Dead (Feb 2022, French prison) | Subpoena records only |
-| George Mitchell | Dead (2023) | Subpoena records only |
-| Marvin Minsky | Dead (2016) | Subpoena records only |
-| Bill Richardson | Dead (2023) | Subpoena records only |
+| Jean-Luc Brunel | [Dead (Feb 2022, French prison)](#340-jean-luc-brunel--mc2-model-management-dead) | Subpoena records only |
+| George Mitchell | Alive, age 92. [Resigned from Mitchell Institute Feb 2026](https://www.mainepublic.org/politics/2026-02-06/former-sen-george-mitchell-resigns-as-honorary-chairman-of-mitchell-institute) after Epstein file revelations | Can be subpoenaed |
+| Marvin Minsky | [Dead (Jan 24, 2016)](https://news.mit.edu/2016/marvin-minsky-obituary-0125), cerebral hemorrhage, age 88 | Subpoena records only |
+| Bill Richardson | [Dead (Sep 2023)](#341-bill-richardson--former-governor-of-new-mexico-dead) | Subpoena records only |
 | Ehud Barak | Israel (no jurisdiction) | Subpoena US records about him |
 | Prince Andrew | UK (no jurisdiction) | Subpoena US records about him |
 
