@@ -99,7 +99,7 @@ If a witness flees: no enforcement abroad. If they return to US jurisdiction, co
 | Jan 24, 2026 | Third release |
 | Jan 30, 2026 | Final bulk release (Datasets 1-12, 2.73M pages) |
 
-([Public Law, Epstein Files Transparency Act](https://oversight.house.gov/release/comer-subcommittee-chairman-fallon-announce-major-milestone-full-release-of-the-jeffrey-epstein-files/))
+([Epstein Files Transparency Act, H.R. 4405](https://www.congress.gov/bill/119th-congress/house-bill/4405)) — ([Oversight Committee DOJ records release](https://oversight.house.gov/release/oversight-committee-releases-epstein-records-provided-by-the-department-of-justice/))
 
 ## 2.2 Subpoenas Issued
 
@@ -119,24 +119,26 @@ If a witness flees: no enforcement abroad. If they return to US jurisdiction, co
 | Feb 9 | Ghislaine Maxwell | Virtual from prison | Pled Fifth to every question. Offered to cooperate in exchange for clemency. |
 | Feb 18 | Les Wexner | In person, ~5 hrs | "Duped by world-class con man." Video released Feb 19. |
 | Feb 25 | Richard Kahn | -- | Rescheduled to Mar 11 |
-| Feb 26 | Hillary Clinton | In person, 6+ hrs | Called questions "repetitive." Members asked about Pizzagate and UFOs. |
-| Feb 27 | Bill Clinton | In person, 6+ hrs | Denied knowledge of criminal conduct before 2008 NPA. Video released Mar 2. |
+| Feb 26 | Hillary Clinton | In person, ~4.5 hrs ([CNN](https://www.cnn.com/2026/03/02/politics/clinton-depositions-epstein-video)) | Called questions "repetitive." Members asked about Pizzagate and UFOs. Stormed out after Boebert leaked photo. |
+| Feb 27 | Bill Clinton | In person, ~4.5 hrs ([CNN](https://www.cnn.com/2026/03/02/politics/clinton-depositions-epstein-video)) | Denied knowledge of criminal conduct before 2008 NPA. Video released Mar 2. |
 
 ## 2.4 Scheduled
 
-| Date | Witness | Type |
-|------|---------|------|
-| Mar 5, 2026 | Darren Indyke | Subpoena deposition |
-| Mar 11, 2026 | Richard Kahn | Subpoena deposition (rescheduled) |
-| May 19, 2026 | Bill Gates | Voluntary testimony |
-| Jun 3, 2026 | Sarah Kellen | Voluntary (requested) |
-| Jun 9, 2026 | Lesley Groff | Voluntary (requested) |
-| TBD | Kathryn Ruemmler | Voluntary (agreed) |
-| TBD | Leon Black | Voluntary (agreed) |
-| TBD | Doug Band | Voluntary (requested) |
-| TBD | Ted Waitt | Voluntary (requested) |
-| TBD | Howard Lutnick | Voluntary (closed-door) |
-| TBD | Pam Bondi | Subpoena |
+| Date | Witness | Type | Source |
+|------|---------|------|--------|
+| Mar 11, 2026 | Richard Kahn | Subpoena deposition (rescheduled from Feb 25) | [Washington Examiner](https://www.washingtonexaminer.com/news/justice/4471621/house-oversight-delays-depositions-epstein-associates-march/) |
+| Mar 19, 2026 | Darren Indyke | Subpoena deposition (rescheduled from Mar 5) | [Washington Examiner](https://www.washingtonexaminer.com/news/justice/4471621/house-oversight-delays-depositions-epstein-associates-march/) |
+| Apr 16 – Jun 9 | Bill Gates | Transcribed interview (agreed) | [CBS News](https://www.cbsnews.com/news/bill-gates-asked-testify-house-committee-epstein-ties-kathryn-ruemmler-leon-black/) |
+| Apr 16 – Jun 9 | Kathryn Ruemmler | Transcribed interview (agreed) | [CBS News](https://www.cbsnews.com/news/bill-gates-asked-testify-house-committee-epstein-ties-kathryn-ruemmler-leon-black/) |
+| Apr 16 – Jun 9 | Leon Black | Transcribed interview (agreed) | [CBS News](https://www.cbsnews.com/news/bill-gates-asked-testify-house-committee-epstein-ties-kathryn-ruemmler-leon-black/) |
+| Apr 16 – Jun 9 | Sarah Kellen | Transcribed interview (letter sent, not confirmed) | [Oversight.house.gov](https://oversight.house.gov/release/chairman-comer-seeks-seven-transcribed-interviews-as-part-of-epstein-investigation/) |
+| Apr 16 – Jun 9 | Lesley Groff | Transcribed interview (letter sent, not confirmed) | [Oversight.house.gov](https://oversight.house.gov/release/chairman-comer-seeks-seven-transcribed-interviews-as-part-of-epstein-investigation/) |
+| Apr 16 – Jun 9 | Doug Band | Transcribed interview (letter sent, not confirmed) | [Oversight.house.gov](https://oversight.house.gov/release/chairman-comer-seeks-seven-transcribed-interviews-as-part-of-epstein-investigation/) |
+| Apr 16 – Jun 9 | Ted Waitt | Transcribed interview (letter sent, not confirmed) | [Oversight.house.gov](https://oversight.house.gov/release/chairman-comer-seeks-seven-transcribed-interviews-as-part-of-epstein-investigation/) |
+| TBD | Howard Lutnick | Closed-door testimony (agreed) | [DNYUZ](https://dnyuz.com/2026/03/03/commerce-secretary-lutnick-to-appear-before-house-panel-investigating-epstein/) |
+| TBD | Pam Bondi | Subpoena (passed 24-19, Mar 4) | [CBS News](https://www.cbsnews.com/news/pam-bondi-subpoena-jeffrey-epstein-house-oversight-committee/) |
+
+**Note on transcribed interviews:** Chairman Comer sent letters to all seven individuals on March 3, 2026 with testimony dates ranging from April 16 to June 9. Specific per-person dates have not been publicly disclosed. Gates, Ruemmler, and Black "quickly agreed to volunteer" ([CBS News](https://www.cbsnews.com/news/bill-gates-asked-testify-house-committee-epstein-ties-kathryn-ruemmler-leon-black/)); Kellen, Groff, Band, and Waitt received letters but their agreement has not been publicly confirmed.
 
 ## 2.5 Operation Chain Reaction (Wyden)
 
@@ -150,7 +152,7 @@ Key facts:
 - Wyden sent letter Feb 25, 2026 with 2-week deadline for answers — no public response as of Mar 7
 - OCDETF itself was defunded in May 2025, meaning institutional knowledge may be permanently lost
 
-([Wyden letter, Feb 25, 2026](https://www.wyden.senate.gov/))
+([Wyden letter to DEA, Feb 25, 2026](https://www.finance.senate.gov/imo/media/doc/letter_from_senator_wyden_to_dea_2-25-26.pdf)) — ([Senate Finance Committee announcement](https://www.finance.senate.gov/ranking-members-news/wyden-questions-dea-over-mystery-epstein-investigation)) — ([CBS News coverage](https://www.cbsnews.com/news/jeffrey-epstein-dea-drug-trafficking-investigation-senator-wyden/))
 
 ## 2.6 The War Context
 
@@ -164,7 +166,7 @@ Since February 28, 2026, the military conflict with Iran has consumed most publi
 
 ## Subpoenaed — Content Involvement (Direct Witnesses)
 
-### DARREN INDYKE — March 5, 2026
+### DARREN INDYKE — March 19, 2026 (rescheduled from March 5)
 
 Estate co-executor, attorney, shell entity architect. Managed ALL Epstein financial structures. 25,719 documents in corpus. Will assert attorney-client privilege on everything.
 
@@ -228,11 +230,13 @@ Bondi is NOT subpoenaed for personal involvement — she is subpoenaed for the D
 
 ---
 
-## Voluntary Testimony — Scheduled
+## Transcribed Interviews — Requested by Chairman Comer (March 3, 2026)
+
+On March 3, 2026, Chairman Comer sent letters to seven individuals requesting transcribed interviews with dates ranging from April 16 to June 9. Gates, Ruemmler, and Black agreed; Kellen, Groff, Band, and Waitt have not publicly confirmed. ([Oversight.house.gov](https://oversight.house.gov/release/chairman-comer-seeks-seven-transcribed-interviews-as-part-of-epstein-investigation/)) ([CBS News](https://www.cbsnews.com/news/bill-gates-asked-testify-house-committee-epstein-ties-kathryn-ruemmler-leon-black/))
 
 ### HOWARD LUTNICK — Commerce Secretary / Cantor Fitzgerald (TBD, closed-door)
 
-Lutnick has agreed to voluntary closed-door testimony. His connection to Epstein is documented across 247 EFTAs spanning 2011-2019. He has publicly understated the relationship; the corpus contradicts his characterization of "limited interaction."
+Lutnick has agreed to voluntary closed-door testimony ([DNYUZ](https://dnyuz.com/2026/03/03/commerce-secretary-lutnick-to-appear-before-house-panel-investigating-epstein/)). His connection to Epstein is documented across 247 EFTAs spanning 2011-2019. He has publicly understated the relationship; the corpus contradicts his characterization of "limited interaction."
 
 **Corpus evidence:**
 
@@ -257,31 +261,31 @@ Lutnick has agreed to voluntary closed-door testimony. His connection to Epstein
 
 ---
 
-### BILL GATES — May 19, 2026
+### BILL GATES — Apr 16 – Jun 9 (agreed)
 
 → Full profile: [Section 3.24](#324-bill-gates--microsoft)
 
-### SARAH KELLEN — June 3, 2026 (voluntary request)
-
-→ Full profile: [Section 3.5](#35-sarah-kellen--kensington--schedulerco-conspirator)
-
-### LESLEY GROFF — June 9, 2026 (voluntary request)
-
-→ Full profile: [Section 3.1](#31-lesley-groff--executive-assistant-25-years)
-
-### LEON BLACK — TBD (voluntary, agreed)
-
-→ Full profile: [Section 3.17](#317-leon-black--apollo-global-management-168m-to-epstein)
-
-### KATHRYN RUEMMLER — TBD (voluntary, agreed)
+### KATHRYN RUEMMLER — Apr 16 – Jun 9 (agreed)
 
 → Full profile: [Section 3.16](#316-kathryn-ruemmler--white-house-counsel--epstein-trustee--goldman-sachs-gc)
 
-### DOUG BAND — TBD (voluntary, requested)
+### LEON BLACK — Apr 16 – Jun 9 (agreed)
+
+→ Full profile: [Section 3.17](#317-leon-black--apollo-global-management-168m-to-epstein)
+
+### SARAH KELLEN — Apr 16 – Jun 9 (letter sent, not confirmed)
+
+→ Full profile: [Section 3.5](#35-sarah-kellen--kensington--schedulerco-conspirator)
+
+### LESLEY GROFF — Apr 16 – Jun 9 (letter sent, not confirmed)
+
+→ Full profile: [Section 3.1](#31-lesley-groff--executive-assistant-25-years)
+
+### DOUG BAND — Apr 16 – Jun 9 (letter sent, not confirmed)
 
 → Full profile: [Section 3.33](#333-doug-band--clinton-foundation)
 
-### TED WAITT — TBD (voluntary, requested)
+### TED WAITT — Apr 16 – Jun 9 (letter sent, not confirmed)
 
 → Full profile: [Section 3.49](#349-tom-pritzker--hyatt-hotels) *(see Clinton section for Waitt evidence)*
 
@@ -302,8 +306,8 @@ These are the people who ran the operation day-to-day. Their testimony would bre
 ### 3.1 LESLEY GROFF — Executive Assistant (~25 years)
 
 **Location:** New Canaan, CT
-**Already subpoenaed?** Voluntary testimony requested
-**Status:** Scheduled June 9, 2026
+**Already subpoenaed?** Transcribed interview letter sent (not confirmed)
+**Status:** Apr 16 – Jun 9 range ([Oversight.house.gov](https://oversight.house.gov/release/chairman-comer-seeks-seven-transcribed-interviews-as-part-of-epstein-investigation/))
 **Likely response:** Will testify. Career staff, not a principal. Cooperated with SDNY (proffer sessions documented). But will avoid incriminating herself — may invoke Fifth on scheduling-of-minors questions.
 **Why they matter:** She was the nerve center. Every meeting, every flight, every visitor went through Groff.
 
@@ -328,7 +332,7 @@ FBI serial 3501.098 contains 35 sub-records, making it one of the largest non-vi
 4. What payment flows did you observe or facilitate?
 5. How were travel arrangements for young women coordinated?
 
-**If she balks:** "Voluntary" can become a subpoena overnight. She cooperated with SDNY and has no privilege to assert. Criminal exposure is limited — she was never a named NPA co-conspirator.
+**If she balks:** Comer sent a transcribed interview request letter; this can become a subpoena overnight. She cooperated with SDNY and has no privilege to assert. Criminal exposure is limited — she was never a named NPA co-conspirator.
 
 ---
 
@@ -442,8 +446,8 @@ Post-Miami Herald payments: Aviloop LLC received $145K+. Government characterize
 
 **Location:** NC/NYC/Miami Beach. Divorced Brian Vickers December 2025. Runs SLK Designs.
 **Phone:** (917) 855-3363 (this was Epstein's former primary cell phone number, now registered to Kellen)
-**Already subpoenaed?** Voluntary testimony requested
-**Status:** Scheduled June 3, 2026
+**Already subpoenaed?** Transcribed interview letter sent (not confirmed)
+**Status:** Apr 16 – Jun 9 range ([Oversight.house.gov](https://oversight.house.gov/release/chairman-comer-seeks-seven-transcribed-interviews-as-part-of-epstein-investigation/))
 **Likely response:** Fifth Amendment on anything incriminating. She is a named NPA co-conspirator and faces potential criminal exposure for scheduling abuse sessions.
 **Why they matter:** She scheduled the victims. She is the link between the names and the abuse.
 
@@ -484,10 +488,10 @@ The people who moved the money. They can trace every dollar.
 
 ### 3.6 DARREN INDYKE — Attorney / Trustee / Co-Executor
 
-**Location:** Delray Beach, FL. Now working as a real estate agent.
+**Location:** Delray Beach, FL (16065 Bristol Isle Way). Now a luxury real estate agent at Luxury Partners Realty ([Bloomberg Law](https://news.bloomberglaw.com/in-house-counsel/epsteins-personal-lawyer-indyke-to-testify-before-house-panel)). Left Parlatore Law Group (Timothy Parlatore's firm) in January 2026 after EFTA release.
 **Already subpoenaed?** Yes (Jan 7-8, 2026 committee vote)
-**Status:** March 5, 2026 deposition
-**Attorney:** Daniel H. Weiner (cooperating posture)
+**Status:** March 19, 2026 deposition (rescheduled from March 5) ([Washington Examiner](https://www.washingtonexaminer.com/news/justice/4471621/house-oversight-delays-depositions-epstein-associates-march/))
+**Attorney:** Daniel H. Weiner and Marc Weinstein, Hughes Hubbard & Reed LLP (cooperating posture — "accepted the subpoenas and intend to cooperate")
 **Likely response:** Attorney-client privilege on everything. Will invoke privilege exhaustively.
 **Why they matter:** He built the shell entity architecture. He managed every trust, every wire, every entity. 25,719 documents in the corpus mention him.
 
@@ -736,8 +740,8 @@ PQG analysis shows the co-conspirator immunity clause was NOT in the original NP
 ### 3.16 KATHRYN RUEMMLER — White House Counsel → Epstein Trustee → Goldman Sachs GC
 
 **Location:** NY (Goldman Sachs)
-**Already subpoenaed?** No — agreed to voluntary testimony
-**Status:** TBD (voluntary)
+**Already subpoenaed?** No — agreed to transcribed interview ([CBS News](https://www.cbsnews.com/news/bill-gates-asked-testify-house-committee-epstein-ties-kathryn-ruemmler-leon-black/))
+**Status:** Apr 16 – Jun 9 range
 **Likely response:** Will testify carefully. She's a sophisticated attorney and will draw precise lines.
 **Why they matter:** She went from White House Counsel to named trustee on Epstein's 2018 Trust to General Counsel of Goldman Sachs. The pathway raises questions about what intelligence Epstein provided.
 
@@ -769,8 +773,8 @@ Individuals with documented abuse allegations and financial relationships.
 ### 3.17 LEON BLACK — Apollo Global Management ($168M+ to Epstein)
 
 **Location:** NY.
-**Already subpoenaed?** No — agreed to voluntary testimony.
-**Status:** TBD (voluntary)
+**Already subpoenaed?** No — agreed to transcribed interview ([CBS News](https://www.cbsnews.com/news/bill-gates-asked-testify-house-committee-epstein-ties-kathryn-ruemmler-leon-black/))
+**Status:** Apr 16 – Jun 9 range
 **Likely response:** Will testify with extensive counsel. Will claim all payments were for legitimate advisory services. Will deny personal knowledge of criminal conduct.
 **Why they matter:** $168M in documented payments, 4+ victims alleging assault, $62.5M USVI settlement, and same Deutsche Bank officers managed both his and Epstein's accounts.
 
@@ -914,7 +918,7 @@ SDNY noted he was "so, so frustrating" to reach. Never subpoenaed before his dea
 
 ---
 
-### 3.22 DONALD TRUMP — Former President
+### 3.22 DONALD TRUMP — President of the United States
 
 **Location:** Palm Beach, FL / Washington, DC.
 **Already subpoenaed?** NOT YET.
@@ -1107,8 +1111,8 @@ SDNY noted he was "so, so frustrating" to reach. Never subpoenaed before his dea
 ### 3.24 BILL GATES — Microsoft
 
 **Location:** WA/NY.
-**Already subpoenaed?** No — voluntary testimony.
-**Status:** May 19, 2026.
+**Already subpoenaed?** No — agreed to transcribed interview ([CBS News](https://www.cbsnews.com/news/bill-gates-asked-testify-house-committee-epstein-ties-kathryn-ruemmler-leon-black/))
+**Status:** Apr 16 – Jun 9 range.
 **Likely response:** Will testify carefully. Will characterize meetings as related to philanthropy.
 **Why they matter:** Multiple meetings documented. Financial flows through C.O.U.Q. Foundation → Enhanced Education in corpus. Gates Foundation Deputy Director's "private donor engagement" with Epstein post-conviction. Boris Nikolic (Gates's science adviser) said it was "more interesting at Jeffrey's than at CGI." Gates Foundation internal memorial email was the most extreme visual alteration in the entire corpus — the entire page blacked out.
 
@@ -1321,8 +1325,8 @@ Left a $1.5M JPMorgan career to work for Epstein. Managed Epstein's investment p
 ### 3.33 DOUG BAND — Clinton Foundation
 
 **Location:** NY.
-**Already subpoenaed?** Voluntary testimony requested.
-**Status:** TBD.
+**Already subpoenaed?** Transcribed interview letter sent (not confirmed)
+**Status:** Apr 16 – Jun 9 range.
 **Likely response:** Will testify carefully. Will emphasize distance from Epstein.
 **Why they matter:** Band was Clinton's "body man" and the Clinton Foundation's key operative. He coordinated Clinton's schedule through Maxwell — including meetings at Epstein's residences, Prince Andrew social events, and CGI fundraising.
 
