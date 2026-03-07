@@ -25,7 +25,7 @@ No evidentiary burden exists for Congressional subpoenas. The standard is "legis
 
 Three enforcement mechanisms exist, each with different costs:
 
-**Criminal Contempt (2 USC § 192):** Committee vote → full House vote → referral to DOJ for prosecution. Maximum penalty: 12 months imprisonment and $100,000 fine. Steve Bannon received 4 months (convicted Oct 2022, reported July 2024). Peter Navarro received 4 months (convicted Jan 2024, reported Mar 2024). ([CRS Report R45653, "Congressional Subpoenas: Enforcing Executive Branch Compliance"](https://crsreports.congress.gov/product/pdf/R/R45653))
+**Criminal Contempt (2 USC § 192):** Committee vote → full House vote → referral to DOJ for prosecution. Maximum penalty: 12 months imprisonment and $100,000 fine. Steve Bannon received 4 months (convicted July 2022, sentenced Oct 2022, reported to prison July 2024 after exhausting appeals — the 21-month gap was litigation, not leniency). Peter Navarro received 4 months (convicted Jan 2024, reported Mar 2024). ([CRS Report R45653, "Congressional Subpoenas: Enforcing Executive Branch Compliance"](https://crsreports.congress.gov/product/pdf/R/R45653))
 
 The problem: DOJ must agree to prosecute. Since 2019, DOJ has declined 4 of 6 criminal contempt referrals. Current AG Bondi is unlikely to prosecute Trump allies — though she is herself now under subpoena, which creates an extraordinary conflict.
 
@@ -79,7 +79,7 @@ What Congress CAN do:
 
 ## 1.6 Missing Witnesses
 
-Nadia Marcinkova (now Nadia Marcinko) has been missing since approximately January 2024. She was last reported leaving her Upper East Side residence after the unsealing of Giuffre v. Maxwell court documents. She has 42+ Fifth Amendment invocations in prior depositions and faces potential criminal exposure for her documented role in scheduling abuse sessions.
+Nadia Marcinkova (now Nadia Marcinko) has been missing since approximately January 2024 (based on court docket inactivity and media reporting — no EFTA document establishes the date). She has 42+ Fifth Amendment invocations in prior depositions and faces potential criminal exposure for her documented role in scheduling abuse sessions.
 
 If a witness flees: no enforcement abroad. If they return to US jurisdiction, contempt can be imposed. US Marshals can serve subpoenas domestically but cannot pursue internationally.
 
@@ -277,7 +277,7 @@ CBP internal corruption investigation (C-4 case) documented his self-reported fr
 
 ### 3.4 NADIA MARCINKOVA / MARCINKO — Co-Conspirator & Victim
 
-**Location:** MISSING since approximately January 2024. Changed name to Nadia Marcinko. Last known: Upper East Side, NYC. Unverified report of Buddhist temple residence.
+**Location:** MISSING since approximately January 2024. Changed name to Nadia Marcinko. Last known: Upper East Side, NYC. (Timeline based on public court docket activity and media reporting; no EFTA document establishes the departure date.)
 **Already subpoenaed?** NOT YET
 **Status:** Not scheduled. **May be impossible to serve.**
 **Likely response:** Fifth Amendment to everything (42+ prior invocations). Faces criminal exposure.
@@ -537,7 +537,7 @@ The people who had the case and didn't bring it — or who influenced those deci
 | [EFTA00013555](https://www.justice.gov/epstein/files/DataSet%208/EFTA00013555.pdf) | 8 | DOJ Washington letter to Kirkland & Ellis — "federal prosecution is appropriate" |
 | [EFTA00010507](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010507.pdf) | 8 | Judge Marra CVRA ruling — NPA concealed from victims |
 | [EFTA00095558](https://www.justice.gov/epstein/files/DataSet%209/EFTA00095558.pdf) | 9 | DOJ OPR Executive Summary: concluded "poor judgment" but not "professional misconduct" |
-| [EFTA00213048](https://www.justice.gov/epstein/files/DataSet%209/EFTA00213048.pdf) | 9 | Acosta's name removed from 15 consecutive pages of NPA filings — replaced with gibberish "IMPIMPRIEY" |
+| [EFTA00213048](https://www.justice.gov/epstein/files/DataSet%209/EFTA00213048.pdf) | 9 | Acosta's name removed from 15 consecutive pages of NPA filings — replaced with "IMPIMPRIEY" (OCR artifact from redaction software overwriting the original text layer; flagged by our [DOJ alteration analysis](DOJ_DOCUMENT_ALTERATION_FORENSICS.md)) |
 | [EFTA00215373](https://www.justice.gov/epstein/files/DataSet%209/EFTA00215373.pdf) | 9 | "R. Alexander Acosta" redacted from NPA signature block — visually verified black-bar redaction |
 
 PQG analysis shows the co-conspirator immunity clause was NOT in the original NPA draft — it was added during negotiations with Kirkland & Ellis.
@@ -1237,6 +1237,8 @@ Left a $1.5M JPMorgan career to work for Epstein. Managed Epstein's investment p
 3. Explain the timeline: when did you first learn of accusations against you?
 4. Why did the Daily Mail report that you and Prince Andrew pressured DOJ for favorable plea terms?
 
+**Related: David Boies / Stan Pottinger** — Boies represented Epstein victims while Pottinger (his co-counsel) planned to use Epstein's "illicit videos" for "multi-million-dollar settlements." Prosecutors described the scheme as "conspiracy to commit extortion" ([EFTA00032751](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032751.pdf)). Boies also represented Harvey Weinstein while simultaneously representing Weinstein's accusers through a different firm — a pattern of conflict. Congressional relevance: Boies had access to Epstein evidence through victim representation that may not have been shared with prosecutors.
+
 ---
 
 ### 3.35 LES WEXNER — L Brands / The Limited
@@ -1306,15 +1308,7 @@ Left a $1.5M JPMorgan career to work for Epstein. Managed Epstein's investment p
 
 ---
 
-### 3.38 DAVID BOIES / STAN POTTINGER — Attorneys
-
-| EFTA | DS | Description |
-|------|----|-------------|
-| [EFTA00032751](https://www.justice.gov/epstein/files/DataSet%208/EFTA00032751.pdf) | 8 | Planned to use Epstein's "illicit videos" for "multi-million-dollar settlements" — prosecutors described as "conspiracy to commit extortion" |
-
----
-
-### 3.39 EVA DUBIN — Physician / Long-term Associate
+### 3.38 EVA DUBIN — Physician / Long-term Associate
 
 Separate from Glen Dubin. Eva Dubin (née Andersson) had a long-term relationship with Epstein predating the Dubin marriage and used her medical credentials in Epstein's operations.
 
