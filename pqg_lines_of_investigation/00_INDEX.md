@@ -73,7 +73,7 @@ Each dossier below is a self-contained analysis of a specific gap in the prosecu
 
 2. **Full text corpus** ([`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v5.0), 6.3 GB): All page-level text from the DOJ production, searchable via FTS5.
 
-3. **Concordance metadata** (`concordance_metadata.db`): 120 production records with SDNY Bates ranges, entity descriptions, and date metadata.
+3. **Concordance metadata** ([`concordance_complete.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v5.1)): 1,385,519 documents with production metadata, SDNY Bates ranges, entity descriptions, and date fields.
 
 ### Pipeline
 
