@@ -23,11 +23,12 @@ Every factual claim in these reports traces back to specific EFTA document numbe
 
 | Document | Description |
 |----------|-------------|
-| [CONGRESSIONAL_READING_GUIDE.md](CONGRESSIONAL_READING_GUIDE.md) | Prioritized document list for the DOJ reading room (original 90 documents) |
-| [CONGRESS_RAW_EFTA_LIST.md](CONGRESS_RAW_EFTA_LIST.md) | Complete EFTA document numbers with descriptions |
-| [CONGRESSIONAL_FOLLOWUP_NEW_FINDINGS.md](CONGRESSIONAL_FOLLOWUP_NEW_FINDINGS.md) | **NEW:** 60 additional critical documents from the full-corpus revisit (DS9-12) — includes FBI FD-1023, current government officials, co-conspirator list, Wexner deposition evidence |
-| [CONGRESSIONAL_ADDENDUM.md](CONGRESSIONAL_ADDENDUM.md) | Supplement: key corrections from the 225-issue factual accuracy audit, DS9 MCC death investigation documents, and March-July 2025 FBI evidence review conclusions |
-| [congressional_priority_list.md](congressional_priority_list.md) | DOJ reading room priority list: documents ranked by "predator name reveal" score to maximize identification of redacted perpetrators during limited in-person review time |
+| [CONGRESSIONAL_READING_GUIDE.md](congressional/CONGRESSIONAL_READING_GUIDE.md) | Prioritized document list for the DOJ reading room (original 90 documents) |
+| [CONGRESS_RAW_EFTA_LIST.md](congressional/CONGRESS_RAW_EFTA_LIST.md) | Complete EFTA document numbers with descriptions |
+| [CONGRESSIONAL_FOLLOWUP_NEW_FINDINGS.md](congressional/CONGRESSIONAL_FOLLOWUP_NEW_FINDINGS.md) | **NEW:** 60 additional critical documents from the full-corpus revisit (DS9-12) — includes FBI FD-1023, current government officials, co-conspirator list, Wexner deposition evidence |
+| [CONGRESSIONAL_ADDENDUM.md](congressional/CONGRESSIONAL_ADDENDUM.md) | Supplement: key corrections from the 225-issue factual accuracy audit, DS9 MCC death investigation documents, and March-July 2025 FBI evidence review conclusions |
+| [congressional_priority_list.md](congressional/congressional_priority_list.md) | DOJ reading room priority list: documents ranked by "predator name reveal" score to maximize identification of redacted perpetrators during limited in-person review time |
+| [CONGRESSIONAL_SUBPOENA_GUIDE.md](congressional/CONGRESSIONAL_SUBPOENA_GUIDE.md) | 64 witnesses, 426 EFTA citations — every subpoena target, every document demand, every obstacle and countermeasure for the House Oversight investigation |
 
 ---
 

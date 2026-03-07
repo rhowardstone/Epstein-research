@@ -313,7 +313,7 @@ This report synthesizes material that overlaps with several previously published
 
 - **[The 4chan Paramedic Investigation](https://epstein-data.com/reports/evidence/FOUR_CHAN_PARAMEDIC_INVESTIGATION.html)**: Reconstructs the 4chan leak, the full death night minute-by-minute timeline, the guards' prosecution from indictment through dismissal, and the FBI's digital evidence collection (Reddit, YouTube, 4chan).
 
-- **[Congressional Addendum](https://epstein-data.com/reports/CONGRESSIONAL_ADDENDUM.html)**: Covers the unmonitored phone call, the document shredding, TRUSCOPE count failures, the NARA whistleblower, and the 2025 FBI evidence review.
+- **[Congressional Addendum](https://epstein-data.com/reports/congressional/CONGRESSIONAL_ADDENDUM.html)**: Covers the unmonitored phone call, the document shredding, TRUSCOPE count failures, the NARA whistleblower, and the 2025 FBI evidence review.
 
 - **[DOJ Document Removal Audit](https://epstein-data.com/reports/institutional/DOJ_DOCUMENT_REMOVAL_AUDIT.html)**: The statistical methodology and results for the full-scale removal audit.
 

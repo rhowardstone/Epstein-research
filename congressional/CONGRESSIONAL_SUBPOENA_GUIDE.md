@@ -61,7 +61,7 @@ Darren Indyke and Richard Kahn, as Epstein's attorneys and estate co-executors, 
 
 **Crime-fraud exception:** Communications made in furtherance of an ongoing crime or fraud are NOT privileged. If Indyke's legal work facilitated the shell entity structure that moved trafficking-related funds, those communications fall outside the privilege. The crime-fraud exception requires a prima facie showing — the committee would need to demonstrate that specific communications were used to further criminal activity.
 
-**Dual-role problem:** Indyke was simultaneously Epstein's attorney AND a participant in the financial structure. He filed DHS complaints about CBP conduct ([EFTA00584279](https://www.justice.gov/epstein/files/DataSet%209/EFTA00584279.pdf)), managed shell entities, and authorized wire transfers. Communications in his capacity as a business participant are not privileged.
+**Dual-role problem:** Indyke was simultaneously Epstein's attorney AND a participant in the financial structure. He wrote to DHS about CBP clearing procedures for Epstein's aircraft ([EFTA00584279](https://www.justice.gov/epstein/files/DataSet%209/EFTA00584279.pdf)), managed shell entities, served as Treasurer of Gratitude America, co-Trustee of the Haze Trust (~$41M), and authorized wire transfers. Communications in his capacity as a business participant are not privileged.
 
 **Congressional override:** Congress can override privilege assertions by majority vote, though this is rarely done and invites judicial challenge.
 
@@ -168,18 +168,26 @@ Since February 28, 2026, the military conflict with Iran has consumed most publi
 
 ### DARREN INDYKE — March 19, 2026 (rescheduled from March 5)
 
-Estate co-executor, attorney, shell entity architect. Managed ALL Epstein financial structures. 25,719 documents in corpus. Will assert attorney-client privilege on everything.
+→ **[Full Witness Briefing](WITNESS_BRIEF_INDYKE.md)** | [Section 3.6](#36-darren-indyke--attorney--trustee--co-executor)
+
+Estate co-executor, attorney, shell entity architect. Managed ALL Epstein financial structures. ~25,500 documents in corpus (~32,700 pages mentioning him). Will assert attorney-client privilege on everything. Cooperating posture per attorney Daniel H. Weiner (Hughes Hubbard & Reed).
+
+**Key findings from deep dive:**
+- Co-trustee of Haze Trust (~$41M, est. 1999) — trust beneficiaries remain unknown
+- $14.6M flowed through his PLLC IOLA trust account at TD Bank in just 3 months (Apr-Jul 2019) — flagged in SAR ([EFTA01656524](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01656524.pdf))
+- Withdrew $800K+ in cash over 4 years; asked Deutsche Bank how to avoid triggering alerts ([EFTA00151495](https://www.justice.gov/epstein/files/DataSet%209/EFTA00151495.pdf))
+- SDNY grand jury subpoena (Oct 18, 2019) has **zero matched returns** in the corpus ([EFTA00088984](https://www.justice.gov/epstein/files/DataSet%209/EFTA00088984.pdf))
+- Prosecution memo: victim says Indyke told her "not to talk to the police"; brought computer to jail for "video sex" ([EFTA02731082](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731082.pdf))
+- His own PLLC classified HIGH risk alongside Epstein entities at Deutsche Bank ([EFTA01433023](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01433023.pdf))
 
 **Top 5 questions:**
-1. Walk us through the 95+ shell entities. What was the legitimate business purpose of each?
-2. You filed a DHS complaint about CBP Officer Routch ([EFTA00584279](https://www.justice.gov/epstein/files/DataSet%209/EFTA00584279.pdf)). What did you know about customs bypass at St. Thomas?
-3. Explain the $250K executor compensation in the will executed 2 days before death ([EFTA00019322](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019322.pdf)). When were you told about it?
-4. The 513-page privilege log: how many entries involve communications where you were a business participant, not just legal advisor?
-5. What was the Coinbase buyback, and what was Southern Trust's role? ([EFTA02171955](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02171955.pdf))
+1. Walk us through each of the 16+ shell entities you had signatory/POA authority over. What was the legitimate business purpose of each? ([EFTA01363494](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01363494.pdf))
+2. The Haze Trust held ~$41M as of June 2016. Who were its beneficiaries? ([EFTA01444780](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01444780.pdf))
+3. The SDNY grand jury subpoena demanded all 1953 Trust documents. What did you produce? Where are the responsive documents? ([EFTA00088984](https://www.justice.gov/epstein/files/DataSet%209/EFTA00088984.pdf))
+4. You asked Deutsche Bank how often you could withdraw cash without triggering an alert. Why? ([EFTA00151495](https://www.justice.gov/epstein/files/DataSet%209/EFTA00151495.pdf))
+5. $14.6M flowed through your IOLA trust account at TD Bank in three months. What was the purpose of each wire? ([EFTA01656524](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01656524.pdf))
 
-**Countermeasure for privilege assertion:** Dual-role argument — Indyke was simultaneously attorney AND participant in the financial structure. Crime-fraud exception for communications furthering the shell entity network. Go around him: subpoena Deutsche Bank directly.
-
-→ Full profile: [Section 3.6](#36-darren-indyke--attorney--trustee--co-executor)
+**Countermeasure for privilege assertion:** Dual-role argument — Indyke was simultaneously attorney AND business participant: Treasurer of Gratitude America, co-Trustee of Haze Trust, POA on 10+ DB accounts, financial manager of LSJ LLC, wrote to DHS about aircraft customs procedures. Crime-fraud exception for communications furthering the shell entity network. Go around him: subpoena Deutsche Bank directly (already settled $150M NYDFS + $75M victim suit).
 
 ---
 
@@ -488,39 +496,48 @@ The people who moved the money. They can trace every dollar.
 
 ### 3.6 DARREN INDYKE — Attorney / Trustee / Co-Executor
 
-**Location:** Delray Beach, FL (16065 Bristol Isle Way). Now a luxury real estate agent at Luxury Partners Realty ([Bloomberg Law](https://news.bloomberglaw.com/in-house-counsel/epsteins-personal-lawyer-indyke-to-testify-before-house-panel)). Left Parlatore Law Group (Timothy Parlatore's firm) in January 2026 after EFTA release.
+→ **[Full Witness Briefing](WITNESS_BRIEF_INDYKE.md)** (70+ EFTAs, 20 deposition questions, counter-strategies)
+
+**Location:** Delray Beach, FL (16065 Bristol Isle Way). Now a luxury real estate agent at Luxury Partners Realty ([LinkedIn](https://www.linkedin.com/in/darren-indyke/)). Left Parlatore Law Group (Timothy Parlatore's firm) in January 2026 after EFTA release.
 **Already subpoenaed?** Yes (Jan 7-8, 2026 committee vote)
 **Status:** March 19, 2026 deposition (rescheduled from March 5) ([Washington Examiner](https://www.washingtonexaminer.com/news/justice/4471621/house-oversight-delays-depositions-epstein-associates-march/))
 **Attorney:** Daniel H. Weiner and Marc Weinstein, Hughes Hubbard & Reed LLP (cooperating posture — "accepted the subpoenas and intend to cooperate")
-**Likely response:** Attorney-client privilege on everything. Will invoke privilege exhaustively.
-**Why they matter:** He built the shell entity architecture. He managed every trust, every wire, every entity. 25,719 documents in the corpus mention him.
+**Likely response:** Attorney-client privilege on everything. Will invoke privilege exhaustively. Will NOT plead the Fifth — attorney says no criminal exposure.
+**Why they matter:** He built the shell entity architecture. He managed every trust, every wire, every entity. ~25,500 documents in the corpus mention him — more than any other individual.
 
-**Documentary evidence:**
+**Critical findings:**
 
-| EFTA | DS | Description |
-|------|----|-------------|
-| [EFTA00584279](https://www.justice.gov/epstein/files/DataSet%209/EFTA00584279.pdf) | 9 | DHS complaint about CBP conduct — filed by Indyke |
-| [EFTA01359500](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01359500.pdf) | 10 | Deutsche Bank account management |
-| [EFTA01477454](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01477454.pdf) | 10 | DB entity portfolio documentation |
-| [EFTA00019322](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019322.pdf) | 8 | Executor of Epstein's last will (Aug 8, 2019 — 2 days before death), $250K compensation; all assets to "The 1953 Trust" |
-| [EFTA00015176](https://www.justice.gov/epstein/files/DataSet%208/EFTA00015176.pdf) | 8 | Named as authorized contact for Financial Trust Company Inc. at JP Morgan |
-| [EFTA00843103](https://www.justice.gov/epstein/files/DataSet%209/EFTA00843103.pdf) | 9 | Indyke confirmed to Blockchain Capital: "Jeffrey agrees that he will sell you 50% of his LLC" ($14.67M Coinbase buyback) |
-| [EFTA02171955](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02171955.pdf) | 10 | Privilege log management emails and calendar reminders |
+| Finding | Evidence |
+|---------|----------|
+| Co-trustee of Haze Trust (~$41M as of June 2016) — beneficiaries unknown | [EFTA01444780](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01444780.pdf) (DS10) |
+| $14.6M through PLLC IOLA trust account at TD Bank in 3 months (Apr-Jul 2019), flagged as SAR | [EFTA01656524](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01656524.pdf) (DS10) |
+| Withdrew $800K+ cash over 4 years; asked DB how to avoid triggering alerts | [EFTA00151495](https://www.justice.gov/epstein/files/DataSet%209/EFTA00151495.pdf) (DS9, NYDFS Consent Order) |
+| SDNY grand jury subpoena (Oct 18, 2019) — **zero matched returns** in corpus | [EFTA00088984](https://www.justice.gov/epstein/files/DataSet%209/EFTA00088984.pdf) (DS9) |
+| Victim: "told her not to talk to the police"; brought computer to jail for "video sex" | [EFTA02731082](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731082.pdf) (DS12, prosecution memo) |
+| His own PLLC classified HIGH risk alongside Epstein entities at Deutsche Bank | [EFTA01433023](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01433023.pdf) (DS10) |
+| Signatory/POA on 16+ entities; Treasurer of Gratitude America; financial manager of LSJ LLC | [EFTA01363494](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01363494.pdf), [EFTA01269261](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01269261.pdf), [EFTA01269509](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01269509.pdf) (DS10) |
+| Authorized $23M wire from Southern Trust to Haze Trust | [EFTA01385699](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01385699.pdf) (DS10) |
+| Coinbase buyback: "Jeffrey agrees that he will sell you 50% of his LLC" ($14.67M) | [EFTA00843103](https://www.justice.gov/epstein/files/DataSet%209/EFTA00843103.pdf) (DS9) |
+| Executor of will executed 2 days before death, $250K compensation | [EFTA00019322](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019322.pdf) (DS8) |
+| Wrote to DHS about CBP clearing procedures for Epstein aircraft | [EFTA00584279](https://www.justice.gov/epstein/files/DataSet%209/EFTA00584279.pdf) (DS9) |
+| 12 months of personal IRA statements produced by JPMorgan as part of Epstein portfolio | [EFTA01503978](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01503978.pdf)–[EFTA01504070](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01504070.pdf) (DS10) |
+| Created Ellmax LLC for Maxwell; paid $17,973 to Maxwell's defense firm | [EFTA00011365](https://www.justice.gov/epstein/files/DataSet%208/EFTA00011365.pdf) (DS8), [EFTA00092643](https://www.justice.gov/epstein/files/DataSet%209/EFTA00092643.pdf) (DS9) |
 
-513-page privilege log already filed with the committee.
+513-page privilege log filed. $35M class action settlement (preliminary approval Mar 3, 2026; final hearing Sep 16, 2026). $105M USVI settlement. $121M victim compensation fund.
 
 **Key questions Congress should ask:**
-1. What was the purpose of each shell entity? (Southern Trust, Haze Trust, Butterfly Trust, Caterpillar Trust, Southern Financial, JEGE, NES, Neptune, Jeepers, LSJE, Plan D, Zorro Management, Hyperion Air, Gratitude America)
-2. Who authorized each wire transfer?
-3. What was the $23M escrow payment to Kellerhals Ferguson Kroblin for?
-4. Where did estate assets go after Epstein's death?
-5. Explain the February 2019 dissolution event — $31.5M moved in a single weekend, 5 months before arrest.
+1. Who are the beneficiaries of the Haze Trust and The 1953 Trust?
+2. The SDNY subpoena demanded all 1953 Trust documents — what did you produce? Where are the responsive documents?
+3. $14.6M flowed through your IOLA account at TD Bank in three months. What was each wire for?
+4. You asked Deutsche Bank how often you could withdraw cash without triggering an alert. Why?
+5. Walk us through each of the 16+ entities you had signatory/POA authority over. What was the legitimate business purpose of each?
 
 **Countermeasures for privilege assertions:**
-- Crime-fraud exception challenge on communications that facilitated the shell entity structure
-- Dual-role argument: Indyke participated in the financial operations, not just advised on them
-- DHS complaint ([EFTA00584279](https://www.justice.gov/epstein/files/DataSet%209/EFTA00584279.pdf)) shows he acted in a non-legal capacity
-- Committee can vote to override privilege (politically costly but legally available)
+- Dual-role argument: he was Treasurer (Gratitude America), co-Trustee (Haze Trust), POA (10+ DB accounts), financial manager (LSJ LLC), wrote government letters (DHS) — all business operations, not legal advice
+- Crime-fraud exception: communications furthering the shell entity structure that moved trafficking-related funds
+- Coinbase email waived privilege — communicated deal terms to outside counterparty Blockchain Capital
+- Go around him: subpoena Deutsche Bank directly (already settled $150M NYDFS + $75M victim suit)
+- Subpoena trust instruments from NY Surrogate's Court (public filings)
 
 ---
 

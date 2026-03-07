@@ -5,11 +5,6 @@
 
 # Root files
 !README.md
-!CONGRESSIONAL_READING_GUIDE.md
-!CONGRESS_RAW_EFTA_LIST.md
-!CONGRESSIONAL_FOLLOWUP_NEW_FINDINGS.md
-!CONGRESSIONAL_ADDENDUM.md
-!congressional_priority_list.md
 !NATIVE_FILES_CATALOG.csv
 !COMMUNITY_PLATFORMS.md
 !FRENCH_CONNECTION_INVESTIGATION.md
@@ -49,6 +44,8 @@
 !scientists/*.md
 !audits/
 !audits/*.md
+!congressional/
+!congressional/*.md
 !social-networks/
 !social-networks/*.md
 !pqg_lines_of_investigation/
