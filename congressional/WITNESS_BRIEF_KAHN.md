@@ -5,7 +5,7 @@
 **Type:** Subpoena deposition before House Committee on Oversight and Government Reform
 **Congressional counsel:** Daniel Ruzumna, Patterson Belknap Webb & Tyler LLP ([Bloomberg Law](https://news.bloomberglaw.com/in-house-counsel/epsteins-personal-lawyer-indyke-to-testify-before-house-panel))
 **Civil litigation counsel:** Daniel H. Weiner, Hughes Hubbard & Reed LLP ([NBC News](https://www.nbcnews.com/news/us-news/epstein-estate-agrees-35-million-settlement-victim-class-action-rcna259863))
-**Cooperating posture:** "Intends to testify" — has produced "thousands of pages of documents, photographs, and other materials" ([CBS News](https://www.cbsnews.com/news/epstein-wexner-indyke-kahn-testify-house-oversight-committee/))
+**Cooperating posture:** "Intends to testify" — the co-executors have produced "thousands of pages of documents, photographs, and other materials" ([Bloomberg Law](https://news.bloomberglaw.com/in-house-counsel/epsteins-personal-lawyer-indyke-to-testify-before-house-panel))
 **Corpus footprint:** 68,246+ pages across multiple entities — one of the largest footprints in the EFTA production
 
 Updated: March 7, 2026
@@ -26,18 +26,18 @@ Standard: Every factual claim supported by EFTA number with justice.gov URL, OR 
 | Role (official) | "Project Manager" per organizational chart | [EFTA00003149](https://www.justice.gov/epstein/files/DataSet%201/EFTA00003149.pdf) |
 | Role (actual) | CFO-equivalent: wire authorization, trust administration, entity management, construction oversight, investment advisory, personnel management | Corpus-wide |
 | Entity | HBRK Associates, Inc. (NY DOS #3714818, incorporated Aug 29, 2008) | [NY Company Registry](https://newyork-company.com/co/hbrk-associates-inc) |
-| HBRK meaning | **H**arry **B**eller, **R**ichard **K**ahn — the two Epstein accountants | [Kate Briquelet / Daily Beast](https://x.com/kbriquelet/status/1403113705718624262) |
+| HBRK meaning | **H**arry **B**eller, **R**ichard **K**ahn — the two Epstein accountants | [Senate Finance Committee memo (Nov 2025)](https://www.finance.senate.gov/ranking-members-news/with-epstein-file-deadline-approaching-wyden-leads-democrats-demanding-to-know-why-doj-has-never-questioned-epsteins-core-trafficking-henchmen) |
 | Office address | 575 Lexington Avenue, 4th Floor, New York, NY 10022 (from mid-2012) | [EFTA01579566](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01579566.pdf) |
 | Earlier addresses | PO Box 400, NY 10150 (earliest); 301 E 66th St, Suite 10F, NY 10065 (2009-2012) | Corpus records |
 | Personal address | 1365 York Avenue, Apt. 28, New York, NY 10021 | HBRK incorporation records |
 | Contact | tel: 212-971-1306, fax: 646-350-0954, cell: 917-414-7584, email: richardkahn12@gmail.com | [EFTA01420392](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01420392.pdf) |
-| Co-principal | Harry Beller — worked for Epstein ~22 years (circa 1992-2014) | [EFTA01582951](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01582951.pdf) |
-| Compensation from Epstein | Over $10 million (2003-2019), plus $1 million in April 2019 | [Senate Finance Committee / Wyden letter](https://www.finance.senate.gov/ranking-members-news/with-epstein-file-deadline-approaching-wyden-leads-democrats-demanding-to-know-why-doj-has-never-questioned-epsteins-core-trafficking-henchmen) |
+| Co-principal | Harry Beller — worked for Epstein ~22 years (circa 1992-2014) | [Senate Finance Committee memo (Nov 2025)](https://www.finance.senate.gov/ranking-members-news/with-epstein-file-deadline-approaching-wyden-leads-democrats-demanding-to-know-why-doj-has-never-questioned-epsteins-core-trafficking-henchmen) |
+| Compensation from Epstein | Over $10 million (2011-2019), plus $1 million in April 2019 | [Senate Finance Committee / Wyden letter (Dec 17, 2025)](https://www.finance.senate.gov/ranking-members-news/with-epstein-file-deadline-approaching-wyden-leads-democrats-demanding-to-know-why-doj-has-never-questioned-epsteins-core-trafficking-henchmen) |
 | Bequest in will | $25 million (Section 2.3(A)(3) of the 1953 Trust) | [EFTA00099303](https://www.justice.gov/epstein/files/DataSet%209/EFTA00099303.pdf) |
 | Trustee compensation | $250,000/year (Section 5.2) | Same |
 | Never questioned by DOJ | Confirmed — neither SDNY nor any other law enforcement office ever interviewed Kahn | [Wyden letter (Dec 17, 2025)](https://www.finance.senate.gov/ranking-members-news/with-epstein-file-deadline-approaching-wyden-leads-democrats-demanding-to-know-why-doj-has-never-questioned-epsteins-core-trafficking-henchmen) |
-| FBI co-conspirator designation | Listed as co-conspirator in 2019 | Same |
-| USVI AG characterization | "Indispensable captain" of Epstein's criminal enterprise | [Law & Crime](https://lawandcrime.com/high-profile/inside-the-virgin-islands-ag-complaint-charging-executors-of-jeffrey-epsteins-estate-as-indispensable-captains-of-his-sex-trafficking-scheme/) |
+| DOJ characterization | Described as "accomplice" and "key operative" by Senate Finance Committee | Same |
+| USVI AG characterization | "Indispensable captains" of Epstein's criminal enterprise (with Indyke) | [Law & Crime](https://lawandcrime.com/high-profile/inside-the-virgin-islands-ag-complaint-charging-executors-of-jeffrey-epsteins-estate-as-indispensable-captains-of-his-sex-trafficking-scheme/) |
 
 ### What Makes Him Critical
 
@@ -125,11 +125,12 @@ Source: [EFTA01421052](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01
 When Epstein's accounts were transferred from JPMorgan to Deutsche Bank, cash transfers included:
 
 - Southern Financial LLC: $14,454,511
+- Southern Financial LLC (second account): $329,921
 - Southern Trust Company (checking): $372,922
 - Southern Trust Company (savings): $18,755,049
 - Haze Trust: $28,370
 - Jeepers Inc: $5,000
-- **Total documented transfer: $33.6 million+**
+- **Total documented transfer: $33.9 million+**
 
 Source: [EFTA01578684](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01578684.pdf)
 
@@ -180,7 +181,7 @@ Kahn tracked and chased multi-million dollar payments from Leon Black:
 | Payment | Amount | Recipient | Source |
 |---------|--------|-----------|--------|
 | Jean-Luc Brunel | "amount of money owed" | Brunel in NY | [EFTA01928143](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01928143.pdf) |
-| "Wandi" (France) | 2,000 euros | Unknown individual | [EFTA01754346](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01754346.pdf) |
+| "Wandi" (France) | 2,000 euros | Unknown individual | EFTA01754346 (removed from justice.gov; preserved in corpus DB) |
 | Erika Kellerhals escrow | $23,000,000+ | USVI attorney | [EFTA02671293](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02671293.pdf) |
 | Adam Bly loan | $300,000 (outstanding) | Seed Media Group founder | [EFTA02032563](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02032563.pdf) |
 | MC2 credit line | $694,598 (renewed at $700K) | Jean-Luc Brunel modeling agency | [EFTA01873997](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01873997.pdf) |
@@ -197,7 +198,7 @@ Key findings regarding Kahn and HBRK:
 
 **HBRK Account #4332216963** — Kahn sole signer:
 - Funded by $100,000 check from Deutsche Bank HBRK account + $847,838 in wires
-- **$50,000 cash withdrawal** by Kahn (Currency Transaction Report filed)
+- Two cash withdrawals by Kahn: **$4,400** (Feb 1, 2019) and **$50,000** (May 7, 2019; Currency Transaction Report filed)
 - $20,000 wire to **Liechtenstein lawyers** (re: purchase of shares/Anstalt)
 - Tuition payments for a **female student**
 
@@ -234,6 +235,8 @@ The 1953 Trust contains a provision that names HBRK Associates, Inc. by name —
 Any beneficiary who voluntarily quit or was terminated for misconduct within two years would **forfeit their entire bequest**. The trust further required continued employment of all HBRK/Indyke employees for two years post-death, with compensation from trust assets.
 
 **Effect:** Every HBRK employee, every island staff member, every household manager — anyone who worked for HBRK — had financial incentive to remain employed and silent for exactly two years after August 10, 2019.
+
+**Notable exception:** Section 2.5(D) explicitly exempts the Trustees themselves (Kahn and Indyke) from this lock-in provision. The two-year forfeiture clause applied to the staff beneath them, not to Kahn and Indyke personally.
 
 **The lock-in expired approximately August 10, 2021.**
 
@@ -311,7 +314,7 @@ Source: [EFTA01273155](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01
 
 What plaintiffs alleged: Kahn and Indyke "organized, controlled, and directed almost every aspect of the Epstein sex-trafficking enterprise," structured bank accounts for cash access, and participated in coercing victims into sham marriages for immigration status.
 
-What defendants denied: "Not a single woman has ever accused either Mr. Indyke or Mr. Kahn of committing sexual abuse or witnessing sexual abuse. Kahn did not socialize with Mr. Epstein."
+What defendants denied: "Not a single woman has ever accused either Mr. Indyke or Mr. Kahn of committing sexual abuse or witnessing sexual abuse. Indyke and Kahn did not socialize with Mr. Epstein."
 
 Sources: [NBC News](https://www.nbcnews.com/news/us-news/epstein-estate-agrees-35-million-settlement-victim-class-action-rcna259863), [ABC News](https://abcnews.com/US/victims-settle-case-epsteins-longtime-attorney-accountant-documents/story?id=130325546), [KSGF](https://www.ksgf.com/2026/03/03/epstein-estates-35-million-settlement-with-accusers-wins-preliminary-judge-approval)
 
@@ -329,7 +332,7 @@ Epstein created the Florida Science Foundation a few months before his 2008 jail
 
 **External reporting:**
 
-- Foundation paid PBSO $128,136 during incarceration for "permit deputies" to guard Epstein during work release — [WPTV](https://www.wptv.com/news/region-c-palm-beach-county/new-jeffrey-epstein-paid-palm-beach-sheriffs-office-128-000-during-incarceration-for-prostitution)
+- Foundation paid PBSO $128,136 during incarceration; records show payments to off-duty deputies supervising Epstein during work release — [WPTV](https://www.wptv.com/news/region-c-palm-beach-county/new-jeffrey-epstein-paid-palm-beach-sheriffs-office-128-000-during-incarceration-for-prostitution)
 - Epstein worked at the foundation 6 days/week, 12 hours/day — [PBS](https://www.pbs.org/newshour/nation/florida-sheriff-investigates-epsteins-time-spent-outside-of-jail)
 - Lawsuit alleged the foundation's "main purpose was to give Epstein a haven from jail where he could prey on young women" — [NBC News](https://www.nbcnews.com/news/crime-courts/jeffrey-epstein-preyed-women-during-jail-sentence-forced-victim-marry-n1044641)
 
@@ -399,7 +402,7 @@ Beyond accounting, Kahn served in an investment advisory capacity:
 
 3. "On November 9, 2015, you emailed Mr. Epstein saying three accounts held $159 million and asked which to pull $20 million from for the 'erika escrow account.' What was the purpose of the $23 million in aggregate transfers to Erika Kellerhals's escrow?" [EFTA02671293]
 
-4. "TD Bank filed a SAR documenting $47.3 million in suspicious activity involving 25 entities. You were the sole signer on HBRK Account #4332216963, from which you made a $50,000 cash withdrawal. What was the cash for?" [EFTA01656524]
+4. "TD Bank filed a SAR documenting $47.3 million in suspicious activity involving 25 entities. You were the sole signer on HBRK Account #4332216963, from which you made two cash withdrawals — $4,400 in February 2019 and $50,000 in May 2019. What was the cash for?" [EFTA01656524]
 
 5. "From the same account, you wired $20,000 to lawyers in Liechtenstein for the 'purchase of shares/Anstalt.' What was being purchased and for whose benefit?"
 
@@ -407,7 +410,7 @@ Beyond accounting, Kahn served in an investment advisory capacity:
 
 7. "You opened TD Bank accounts in February-April 2019 — after Deutsche Bank exited Epstein. Was this a planned transition, and did anyone at Deutsche Bank advise you that the bank was terminating the relationship?"
 
-8. "On October 1, 2013, $33.6 million was transferred from JPMorgan to Deutsche Bank when Epstein's accounts were moved. Were you involved in the decision to leave JPMorgan, and were you aware of the reasons?"
+8. "On October 1, 2013, $33.9 million was transferred from JPMorgan to Deutsche Bank when Epstein's accounts were moved. Were you involved in the decision to leave JPMorgan, and were you aware of the reasons?"
 
 9. "You tracked and chased $10 million payments from Leon Black. What was the stated purpose of these payments? Between 2013-2017, approximately $158 million flowed from Black's entities to Southern Trust. Were you aware of the specific purposes?" [EFTA01927911, EFTA01928263]
 

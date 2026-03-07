@@ -193,16 +193,26 @@ Estate co-executor, attorney, shell entity architect. Managed ALL Epstein financ
 
 ### RICHARD KAHN — March 11, 2026 (rescheduled from Feb 25)
 
-Co-executor, accountant. Managed entity balances ($159M documented). Administered trusts. Executed wire transfers.
+→ **[Full Witness Briefing](WITNESS_BRIEF_KAHN.md)** | [Section 3.7](#37-richard-kahn--accountant--co-executor)
+
+Co-executor, accountant, HBRK Associates principal. Managed entity balances ($159M documented across three accounts alone). Administered trusts. Executed virtually all wire transfers — FBI's Deutsche Bank 302 confirms wire requests "would generally come in from Richard Kahn." Never questioned by any law enforcement agency despite being named as "accomplice" and "key operative" by Senate Finance Committee.
+
+**Key findings from deep dive:**
+- Directed $23M+ to Erika Kellerhals's USVI escrow account; email shows him choosing which of three $20M+ accounts to pull from ([EFTA02671293](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02671293.pdf))
+- TD Bank SAR: $47.3M suspicious activity across 25 subjects; Kahn made two cash withdrawals ($4,400 + $50,000 CTR-triggering), wired $20K to Liechtenstein lawyers for "purchase of shares/Anstalt," paid tuition for unnamed female student ([EFTA01656524](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01656524.pdf))
+- SDNY grand jury subpoena (Oct 18, 2019) demanding all 1953 Trust documents has **zero matched returns** in the corpus ([EFTA00088989](https://www.justice.gov/epstein/files/DataSet%209/EFTA00088989.pdf))
+- 4 months post-death: consolidated $9.2M from 7 shell entities into Southern Trust, then moved $13M to Interactive Brokers money market ([EFTA01273155](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01273155.pdf))
+- 1953 Trust (signed 2 days before death): $25M bequest + $250K/year + forgiveness of all Coatue Enterprises LLC obligations ([EFTA00099303](https://www.justice.gov/epstein/files/DataSet%209/EFTA00099303.pdf))
+- Trust Section 2.5 locked all HBRK employees into 2-year silence with forfeiture penalty (Trustees themselves exempt per Section 2.5(D))
 
 **Top 5 questions:**
-1. Where are the assets now? The estate was valued at $577M. Trace every disbursement since August 2019.
-2. Explain the HBRK Associates entity (575 Lexington Ave, 4th Floor). What was its purpose? ([EFTA02481016](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02481016.pdf))
-3. What was the Coinbase buyback via Blockchain Capital Insight? ([EFTA02533329](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02533329.pdf))
-4. You authorized wire transfers. Which entities received funds in the 30 days before Epstein's death?
-5. Who are the beneficiaries of The 1953 Trust?
+1. The TD Bank SAR documents $47.3M in suspicious activity. You made a $50,000 cash withdrawal triggering a CTR. What was the cash for? ([EFTA01656524](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01656524.pdf))
+2. You emailed Epstein that three accounts held $159M and asked which to pull $20M from for "erika escrow." What was the purpose of the $23M in aggregate transfers to Erika Kellerhals? ([EFTA02671293](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02671293.pdf))
+3. The SDNY grand jury subpoenaed you for all 1953 Trust documents on Oct 18, 2019. Did you produce anything? Our records show zero returns. ([EFTA00088989](https://www.justice.gov/epstein/files/DataSet%209/EFTA00088989.pdf))
+4. Section 2.3(A)(47) of the 1953 Trust forgave all obligations owed by Coatue Enterprises, LLC. What is Coatue Enterprises, and what was the total amount forgiven?
+5. You consolidated $9.2M from seven shell entities into Southern Trust four months after death, then moved $13M to Interactive Brokers. Who authorized this and what was the purpose? ([EFTA01273155](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01273155.pdf))
 
-→ Full profile: [Section 3.7](#37-richard-kahn--accountant--co-executor)
+**Countermeasure for privilege assertion:** Kahn is NOT a lawyer — accountant-client privilege does not exist under federal law. His co-executor Indyke may try to assert attorney-client privilege over joint communications, but the crime-fraud exception applies. Go around both: subpoena HBRK Associates Inc. corporate records directly (corporations have no Fifth Amendment privilege), and subpoena TD Bank/Deutsche Bank/JPMorgan independently.
 
 ---
 
@@ -543,35 +553,49 @@ The people who moved the money. They can trace every dollar.
 
 ### 3.7 RICHARD KAHN — Accountant / Co-Executor
 
+→ **[Full Witness Briefing](WITNESS_BRIEF_KAHN.md)**
+
 **Location:** New York. Reportedly retired.
 **Already subpoenaed?** Yes (Jan 7-8, 2026 committee vote)
 **Status:** March 11, 2026 deposition (rescheduled from Feb 25)
-**Likely response:** Will invoke privilege selectively. Less legal basis than Indyke — accountant-client privilege is weaker than attorney-client.
-**Why they matter:** He managed $159M+ in documented entity balances. He executed the wire transfers. He knows where the money went.
+**Congressional counsel:** Daniel Ruzumna, Patterson Belknap Webb & Tyler LLP
+**Civil litigation counsel:** Daniel H. Weiner, Hughes Hubbard & Reed LLP (represents both co-executors)
+**Cooperating posture:** "Intends to testify." Co-executors produced "thousands of pages of documents, photographs, and other materials." $35M settlement with victim class (preliminary approval Mar 3, 2026) — no admission of misconduct.
+**Likely response:** Will invoke privilege selectively. Less legal basis than Indyke — accountant-client privilege does NOT exist under federal law.
+**Why they matter:** He managed $159M+ in documented entity balances. FBI's Deutsche Bank 302 confirms wire requests "would generally come in from Richard Kahn." Never questioned by any law enforcement agency.
 
-**Documentary evidence:**
+**Critical findings from witness briefing:**
 
 | EFTA | DS | Description |
 |------|----|-------------|
-| [EFTA01361504](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01361504.pdf) | 10 | Financial management records |
-| [EFTA01378684](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01378684.pdf) | 10 | Trust administration documents |
-| [EFTA01379284](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01379284.pdf) | 10 | Wire transfer authorization records |
-| [EFTA01382099](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01382099.pdf) | 10 | Entity balance documentation |
-| [EFTA02671293](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02671293.pdf) | 11 | Entity balances: $159M documented across multiple entities |
-| [EFTA02481016](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02481016.pdf) | 11 | Additional financial records |
-| [EFTA00843103](https://www.justice.gov/epstein/files/DataSet%209/EFTA00843103.pdf) | 9 | Coinbase buyback email thread: Kahn, Indyke, Brad Stephens coordinate $14.67M sale |
-| [EFTA02533329](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02533329.pdf) | 11 | Kahn: "Blockchain, although paying us a big number, has insight they are not letting on as Kathryn Haun from their company is on Coinbase board" |
-| [EFTA02614265](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02614265.pdf) | 11 | Kahn: "Joscha loan that is repaid with bitcoin proceeds?" — managing crypto-denominated debt |
-| [EFTA02570951](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02570951.pdf) | 11 | Epstein email re: trustee replacements, "lawsuit against Bain," and "account statements" |
+| [EFTA00128780](https://www.justice.gov/epstein/files/DataSet%209/EFTA00128780.pdf) | 9 | FBI Deutsche Bank interview: "Wire requests would generally come in from Richard Kahn" |
+| [EFTA02671293](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02671293.pdf) | 11 | Kahn email to Epstein: 3 accounts hold $159M, asks which to pull $20M from for "erika escrow" |
+| [EFTA01656524](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01656524.pdf) | 10 | TD Bank SAR: $47.3M suspicious activity, 25 subjects, $50K cash withdrawal (CTR), $20K Liechtenstein wire, tuition for unnamed female |
+| [EFTA00088989](https://www.justice.gov/epstein/files/DataSet%209/EFTA00088989.pdf) | 9 | SDNY grand jury subpoena (Oct 18, 2019) — 1591/1594(c)/2422(b)/371 — **zero matched returns** |
+| [EFTA00099303](https://www.justice.gov/epstein/files/DataSet%209/EFTA00099303.pdf) | 9 | 1953 Trust: $25M bequest, $250K/year, Coatue Enterprises forgiveness, HBRK 2-year lock-in |
+| [EFTA01273155](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01273155.pdf) | 10 | Post-death: $9.2M shell consolidation (Dec 12, 2019) + $13M to Interactive Brokers (Dec 23) |
+| [EFTA01927911](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01927911.pdf) | 10 | Leon Black $10M received: "Black Family Partners LP $5,000,000; Leon & Debra Black $5,000,000" |
+| [EFTA01928263](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01928263.pdf) | 10 | Kahn chasing $10M overdue Black payment: "10,000,000 payment that was due yesterday" |
+| [EFTA01420392](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01420392.pdf) | 10 | Deutsche Bank compliance questions Butterfly Trust beneficiary changes (Maxwell removed) |
+| [EFTA00843103](https://www.justice.gov/epstein/files/DataSet%209/EFTA00843103.pdf) | 9 | Coinbase buyback: Kahn, Indyke, Brad Stephens coordinate $14.67M sale |
+| [EFTA02533329](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02533329.pdf) | 11 | Kahn: "Blockchain...has insight they are not letting on as Kathryn Haun from their company is on Coinbase board" |
+| [EFTA01582951](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01582951.pdf) | 10 | JPMorgan KYC: HBRK Associates, net worth $500M declared, Beller as co-signer |
+| [EFTA01578684](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01578684.pdf) | 10 | JPMorgan → Deutsche Bank exit: $33.9M+ cash transfers (Oct 2013) |
 
-Entity: HBRK Associates Inc, 575 Lexington Avenue, 4th Floor, NYC.
+Entity: HBRK Associates Inc (NY DOS #3714818), 575 Lexington Avenue, 4th Floor, NYC. 35,800+ documents in corpus.
 
 **Key questions Congress should ask:**
-1. What were the total assets under management at time of death?
-2. Who authorized each disbursement from estate entities post-death?
-3. What happened to the $376M unidentified revenue gap in Southern Trust Company's books?
-4. What was Coatue Enterprises LLC's relationship to the trusts?
-5. Explain the HBRK Associates relationship — what services did you provide beyond accounting?
+1. The TD Bank SAR documents $47.3M in suspicious activity. You made a $50,000 cash withdrawal and wired $20K to Liechtenstein for "purchase of shares/Anstalt." What was the cash for and what was being purchased?
+2. You emailed Epstein that three accounts held $159M. What was the purpose of $23M in transfers to Erika Kellerhals's USVI escrow?
+3. The SDNY grand jury subpoenaed all 1953 Trust documents. Did you produce anything? Our records show zero returns.
+4. What is Coatue Enterprises LLC? Section 2.3(A)(47) of the 1953 Trust forgave all its obligations. What was the total amount forgiven?
+5. Four months after death, you consolidated $9.2M from seven shell entities, then moved $13M to Interactive Brokers. Who authorized these transactions?
+
+**Countermeasures if he refuses:**
+- Kahn is NOT a lawyer. Accountant-client privilege does not exist under federal law.
+- Subpoena HBRK Associates Inc. corporate records directly — corporations have no Fifth Amendment privilege.
+- Subpoena TD Bank, Deutsche Bank, JPMorgan independently — all three have already settled and have no incentive to shield him.
+- Harry Beller (co-principal) invoked the Fifth in deposition — ask Kahn why HBRK's co-founder needed self-incrimination protection.
 
 ---
 
