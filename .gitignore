@@ -27,11 +27,14 @@
 !victims/*.md
 !evidence/
 !evidence/*.md
+!evidence/phone_records_redaction_crossref.csv
+!evidence/phone_records_inventory.json
 !intelligence/
 !intelligence/*.md
 !institutional/
 !institutional/*.md
 !institutional/*.csv
+!institutional/fbi_302_gap_analysis.json
 !art/
 !art/*.md
 !methodology/
