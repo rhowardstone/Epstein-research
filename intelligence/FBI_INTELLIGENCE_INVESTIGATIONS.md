@@ -554,7 +554,7 @@ Several expected documents are absent:
 
 This report is based entirely on the DOJ's EFTA production (2.73 million pages across 12 datasets) plus FBI Vault and House Oversight materials. All EFTA citations were verified against the `full_text_corpus.db` database. All quoted text was read directly from the database, not from summaries.
 
-For areas overlapping with Israeli intelligence connections, this report cross-references the [Israel Deep Dive V2](/intelligence/ISRAEL_DEEP_DIVE_V2.md) and focuses on the structural FBI architecture rather than re-documenting claims already covered in that report.
+For areas overlapping with Israeli intelligence connections, this report cross-references the [Israel Deep Dive V2](../intelligence/ISRAEL_DEEP_DIVE_V2.md) and focuses on the structural FBI architecture rather than re-documenting claims already covered in that report.
 
 **Analytical standard**: CHS reports (FD-1023s) are raw, unverified intelligence. As the FBI's own [disclaimer](https://www.newsguardrealitycheck.com/p/was-epstein-an-israeli-spy-newsguards) states: "Recording this information does not validate it, establish its credibility, or weigh it against other information." This report presents the structure of the FBI's intelligence investigations and the content of the source reporting without endorsing the claims made by individual sources. Where claims can be independently verified or contradicted, this is noted.
 

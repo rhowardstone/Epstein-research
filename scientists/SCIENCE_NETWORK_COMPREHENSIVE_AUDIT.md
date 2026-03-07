@@ -351,8 +351,8 @@ The existing BIOTECH report covered approximately 12 scientists. This audit iden
 
 - [BIOTECH_SCIENCE_NETWORK_INVESTIGATION](BIOTECH_SCIENCE_NETWORK_INVESTIGATION.md) — Original report covering Nowak, Chomsky, Hillis, Krauss, Church, Lloyd, Ito, Boyden, Marsh
 - [DAVID_SHAW_INVESTIGATION](DAVID_SHAW_INVESTIGATION.md) — Science dinner network architecture
-- [FINAL_INVESTIGATION_REPORT](/overview/FINAL_INVESTIGATION_REPORT.md) — Section on Brockman/Edge Foundation
-- [ISRAEL_DEEP_DIVE_V2](/intelligence/ISRAEL_DEEP_DIVE_V2.md) — Carbyne/Reporty science-defense overlap
+- [FINAL_INVESTIGATION_REPORT](../overview/FINAL_INVESTIGATION_REPORT.md) — Section on Brockman/Edge Foundation
+- [ISRAEL_DEEP_DIVE_V2](../intelligence/ISRAEL_DEEP_DIVE_V2.md) — Carbyne/Reporty science-defense overlap
 
 ---
 

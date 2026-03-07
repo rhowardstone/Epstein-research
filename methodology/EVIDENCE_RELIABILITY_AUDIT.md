@@ -4,7 +4,7 @@
 **Date:** 2026-02-10 (Revisited 2026-02-12)
 **Auditor:** Independent evidence review
 **Scope:** 8 investigation reports examined for reliance on bad_overlay data. **[NOTE 2026-02-12]:** At time of writing, only 8 reports existed. The investigation has since produced 98+ reports. The audit's conclusion applies to the original 8, though the methodology and 4-tier evidence system remain applicable to all subsequent reports.
-**Reference:** [DATA_QUALITY_AUDIT.md](/methodology/DATA_QUALITY_AUDIT.md) (616,233 bad_overlay records; ~98% OCR noise; ~500 clearly substantive)
+**Reference:** [DATA_QUALITY_AUDIT.md](../methodology/DATA_QUALITY_AUDIT.md) (616,233 bad_overlay records; ~98% OCR noise; ~500 clearly substantive)
 
 ---
 
@@ -33,7 +33,7 @@ The 12 genuine bad_overlay failures (PLIST metadata documents) are correctly ide
 
 ---
 
-### 1. [PHASE1_GAP_DETECTION.md](/overview/PHASE1_GAP_DETECTION.md)
+### 1. [PHASE1_GAP_DETECTION.md](../overview/PHASE1_GAP_DETECTION.md)
 
 **Classification: SOLID**
 
@@ -63,7 +63,7 @@ This report is fundamentally a STATISTICAL GAP ANALYSIS. Its primary findings ar
 
 ---
 
-### 2. [PHASE2_LEVER_TRACEBACK.md](/overview/PHASE2_LEVER_TRACEBACK.md)
+### 2. [PHASE2_LEVER_TRACEBACK.md](../overview/PHASE2_LEVER_TRACEBACK.md)
 
 **Classification: SOLID**
 
@@ -90,7 +90,7 @@ This report traces chains of authority and decision-making through SPECIFIC NAME
 
 ---
 
-### 3. [PHASE3_HIDDEN_DOMAINS.md](/overview/PHASE3_HIDDEN_DOMAINS.md)
+### 3. [PHASE3_HIDDEN_DOMAINS.md](../overview/PHASE3_HIDDEN_DOMAINS.md)
 
 **Classification: MIXED -- but the "mixed" part is a FRAMING issue, not a substance issue**
 
@@ -123,7 +123,7 @@ The executive summary states: "Phase III searched for hidden connections across 
 
 ---
 
-### 4. [PHASE4_BRIEFING_KIT.md](/overview/PHASE4_BRIEFING_KIT.md)
+### 4. [PHASE4_BRIEFING_KIT.md](../overview/PHASE4_BRIEFING_KIT.md)
 
 **Classification: SOLID**
 
@@ -155,7 +155,7 @@ This is a synthesis/summary document that compiles findings from the other phase
 
 ---
 
-### 5. [BIOTECH_SCIENCE_NETWORK_INVESTIGATION.md](/scientists/BIOTECH_SCIENCE_NETWORK_INVESTIGATION.md)
+### 5. [BIOTECH_SCIENCE_NETWORK_INVESTIGATION.md](../scientists/BIOTECH_SCIENCE_NETWORK_INVESTIGATION.md)
 
 **Classification: SOLID**
 
@@ -180,7 +180,7 @@ The science network findings are based on COMPLETE EMAIL TEXT found in the DS10 
 
 ---
 
-### 6. [SHELL_ENTITY_DARK_MONEY_INVESTIGATION.md](/financial/SHELL_ENTITY_DARK_MONEY_INVESTIGATION.md)
+### 6. [SHELL_ENTITY_DARK_MONEY_INVESTIGATION.md](../financial/SHELL_ENTITY_DARK_MONEY_INVESTIGATION.md)
 
 **Classification: SOLID**
 
@@ -206,7 +206,7 @@ Maps 57 shell entities, their bank accounts, balances, and money flows using fin
 
 ---
 
-### 7. [POWER_OVERLAP_SEALED_FILINGS_INVESTIGATION.md](/intelligence/POWER_OVERLAP_SEALED_FILINGS_INVESTIGATION.md)
+### 7. [POWER_OVERLAP_SEALED_FILINGS_INVESTIGATION.md](../intelligence/POWER_OVERLAP_SEALED_FILINGS_INVESTIGATION.md)
 
 **Classification: SOLID**
 
@@ -233,7 +233,7 @@ Profiles multi-domain power figures (Summers, Barak, Mandelson, Ruemmler, etc.) 
 
 ---
 
-### 8. [FINAL_INVESTIGATION_REPORT.md](/overview/FINAL_INVESTIGATION_REPORT.md)
+### 8. [FINAL_INVESTIGATION_REPORT.md](../overview/FINAL_INVESTIGATION_REPORT.md)
 
 **Classification: SOLID with TWO framing corrections needed**
 
@@ -252,7 +252,7 @@ This 3,041-line report synthesizes the full investigation. It presents the Top 1
 **FRAMING ISSUE #1 (Line 28) -- [STILL NEEDS CORRECTION AS OF 2026-02-12]:**
 > "The investigation recovered hidden text from beneath 1.8 million redaction overlays"
 
-This is the single most problematic sentence in the entire investigation. "Recovered" implies text was genuinely hidden beneath removable redactions; "extracted from OCR text layer" is more accurate. The FINAL_INVESTIGATION_REPORT revisit (#79) flagged this same framing issue. The [DATA_QUALITY_AUDIT.md](/methodology/DATA_QUALITY_AUDIT.md) definitively shows that:
+This is the single most problematic sentence in the entire investigation. "Recovered" implies text was genuinely hidden beneath removable redactions; "extracted from OCR text layer" is more accurate. The FINAL_INVESTIGATION_REPORT revisit (#79) flagged this same framing issue. The [DATA_QUALITY_AUDIT.md](../methodology/DATA_QUALITY_AUDIT.md) definitively shows that:
 - 616,233 of these records are bad_overlay, of which ~98% are OCR noise
 - 1,192,682 are proper_redaction, of which only 2% yielded any text at all
 - The "1.8 million" figure describes records in the database table, not successfully recovered hidden content
@@ -315,7 +315,7 @@ The FINAL_INVESTIGATION_REPORT correctly identifies exactly 12 documents where r
 - Groff calling State Department for Senator Mitchell
 - Epstein using iPhone during Florida incarceration
 
-These 12 are correctly described in the [PLIST_REDACTED_EMAILS_DEEP_DIVE.md](/evidence/PLIST_REDACTED_EMAILS_DEEP_DIVE.md) report and accurately cited in the FINAL_INVESTIGATION_REPORT. They represent genuine redaction failures, not OCR noise.
+These 12 are correctly described in the [PLIST_REDACTED_EMAILS_DEEP_DIVE.md](../evidence/PLIST_REDACTED_EMAILS_DEEP_DIVE.md) report and accurately cited in the FINAL_INVESTIGATION_REPORT. They represent genuine redaction failures, not OCR noise.
 
 ---
 
@@ -356,14 +356,14 @@ These 12 are correctly described in the [PLIST_REDACTED_EMAILS_DEEP_DIVE.md](/ev
 
 ### TIER 4: EXPLICITLY FLAGGED AS UNRELIABLE
 
-1. **The 616,233 bad_overlay record count** -- should NOT be cited as "616,233 pieces of recovered hidden text." [DATA_QUALITY_AUDIT.md](/methodology/DATA_QUALITY_AUDIT.md) confirms ~98% is OCR noise.
+1. **The 616,233 bad_overlay record count** -- should NOT be cited as "616,233 pieces of recovered hidden text." [DATA_QUALITY_AUDIT.md](../methodology/DATA_QUALITY_AUDIT.md) confirms ~98% is OCR noise.
 2. **Any finding that depends SOLELY on a short text fragment from the redactions table** without a specific EFTA citation and corroboration -- these could be OCR noise. (NOTE: No such finding was identified in the 8 audited reports. All findings cite specific EFTA documents.)
 
 ---
 
 ## SPECIFIC CORRECTIONS RECOMMENDED
 
-### [FINAL_INVESTIGATION_REPORT.md](/overview/FINAL_INVESTIGATION_REPORT.md)
+### [FINAL_INVESTIGATION_REPORT.md](../overview/FINAL_INVESTIGATION_REPORT.md)
 
 **Line 28 -- MUST FIX:**
 CURRENT: "The investigation recovered hidden text from beneath 1.8 million redaction overlays"
@@ -376,22 +376,22 @@ This line is actually correct -- it accurately states 12 failures. No change nee
 **Line 2647-2651 -- ALREADY CORRECT:**
 The methodology section accurately distinguishes between bad_overlay (12 documents) and text_under_redaction (millions). No change needed.
 
-### [PHASE1_GAP_DETECTION.md](/overview/PHASE1_GAP_DETECTION.md)
+### [PHASE1_GAP_DETECTION.md](../overview/PHASE1_GAP_DETECTION.md)
 
 **Line 19 -- CLARIFY:**
 CURRENT: "has fewer than 100 redaction-recovered records"
 PROPOSED: "has fewer than 100 records with references to that period across the text search corpus"
 
 **Section F.4 (Lines 470-478) -- ADD CONTEXT:**
-After the existing statistics, add: "NOTE: The 69.4% 'recovery rate' for bad_overlay records reflects text extraction from OCR layers near redaction zones, not recovery of intentionally hidden content. [DATA_QUALITY_AUDIT.md](/methodology/DATA_QUALITY_AUDIT.md) confirms ~98% of these text fragments are OCR noise from degraded scans, not text concealed behind removable redactions."
+After the existing statistics, add: "NOTE: The 69.4% 'recovery rate' for bad_overlay records reflects text extraction from OCR layers near redaction zones, not recovery of intentionally hidden content. [DATA_QUALITY_AUDIT.md](../methodology/DATA_QUALITY_AUDIT.md) confirms ~98% of these text fragments are OCR noise from degraded scans, not text concealed behind removable redactions."
 
-### [PHASE3_HIDDEN_DOMAINS.md](/overview/PHASE3_HIDDEN_DOMAINS.md)
+### [PHASE3_HIDDEN_DOMAINS.md](../overview/PHASE3_HIDDEN_DOMAINS.md)
 
 **Line 12 -- REFRAME:**
 CURRENT: "using keyword and pattern analysis of recovered redacted text"
 PROPOSED: "using keyword and pattern analysis across the full document text corpus"
 
-### [PHASE4_BRIEFING_KIT.md](/overview/PHASE4_BRIEFING_KIT.md)
+### [PHASE4_BRIEFING_KIT.md](../overview/PHASE4_BRIEFING_KIT.md)
 
 **Line 430 disclaimer -- STRENGTHEN:**
 CURRENT: "Recovered redacted text may contain OCR errors."
@@ -404,7 +404,7 @@ PROPOSED: "Text extracted from near redaction zones may contain OCR errors and s
 **The investigation is sound.** After reviewing all 8 reports:
 
 - **ZERO reports** base their primary findings on bad_overlay OCR noise
-- **ZERO findings** would be invalidated by the [DATA_QUALITY_AUDIT.md](/methodology/DATA_QUALITY_AUDIT.md) conclusions
+- **ZERO findings** would be invalidated by the [DATA_QUALITY_AUDIT.md](../methodology/DATA_QUALITY_AUDIT.md) conclusions
 - **ALL substantive claims** are backed by specific EFTA document citations with coherent, multi-sentence text from identifiable document types (emails, legal filings, financial records, prosecution memos, victim statements)
 - **The 12 genuine bad_overlay failures** (PLIST metadata) are correctly identified and appropriately described
 - **The redactions table** was used as a TEXT SEARCH INDEX -- a valid use -- not as a recovered-secrets database
@@ -412,14 +412,14 @@ PROPOSED: "Text extracted from near redaction zones may contain OCR errors and s
 **What needs to change:**
 1. Replace "recovered hidden text from beneath redaction overlays" language with "text extracted from document corpus" or "text found through systematic database searches"
 2. Stop citing "1.8 million" as a count of recovered hidden content; cite it as the size of the searchable text index
-3. Add the [DATA_QUALITY_AUDIT.md](/methodology/DATA_QUALITY_AUDIT.md) context wherever bad_overlay statistics are reported
+3. Add the [DATA_QUALITY_AUDIT.md](../methodology/DATA_QUALITY_AUDIT.md) context wherever bad_overlay statistics are reported
 4. The 12 genuine PLIST failures can continue to be described as "recovered from behind failed redaction overlays" -- because they genuinely were
 
 **For Congress:** Every finding in these reports can be presented with confidence. The evidence comes from financial documents, emails, prosecution records, victim statements, and court filings -- not from OCR noise. The framing adjustments are about intellectual honesty and credibility, not about the validity of the findings themselves.
 
 ---
 
-*This audit was conducted by reading the first 100-300 lines of each report, searching each report for bad_overlay/hidden-text terminology, cross-referencing evidence citations against the [DATA_QUALITY_AUDIT.md](/methodology/DATA_QUALITY_AUDIT.md) findings, and examining the actual evidence types underlying each major claim.*
+*This audit was conducted by reading the first 100-300 lines of each report, searching each report for bad_overlay/hidden-text terminology, cross-referencing evidence citations against the [DATA_QUALITY_AUDIT.md](../methodology/DATA_QUALITY_AUDIT.md) findings, and examining the actual evidence types underlying each major claim.*
 
 ---
 

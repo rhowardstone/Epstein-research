@@ -28,9 +28,9 @@ about motion for fees/costs.
 
 **Recovered files:**
 - [`EFTA00645624_decoded.png`](https://github.com/rhowardstone/Epstein-research-data/raw/main/recovered_corrupted_pdfs/EFTA00645624/EFTA00645624_decoded.png) — Full-resolution page image (1704x2196 px, bilevel)
-- [`EFTA00645624.tiff`](# carved_pdfs/EFTA00645624.tiff) — Raw TIFF with CCITT data
+- [`EFTA00645624.tiff`](carved_pdfs/EFTA00645624.tiff) — Raw TIFF with CCITT data
 - [`EFTA00645624_ocr.txt`](https://github.com/rhowardstone/Epstein-research-data/raw/main/recovered_corrupted_pdfs/EFTA00645624/EFTA00645624_ocr.txt) — Full OCR text
-- [`EFTA00645624_ccitt_raw.bin`](# carved_pdfs/EFTA00645624_ccitt_raw.bin) — Raw CCITT Group 4 bitstream (31,992 bytes)
+- [`EFTA00645624_ccitt_raw.bin`](carved_pdfs/EFTA00645624_ccitt_raw.bin) — Raw CCITT Group 4 bitstream (31,992 bytes)
 
 **Recovery technique:**
 1. Parsed PDF objects manually (no xref available)
@@ -60,7 +60,7 @@ for a Tiburon, CA residence. References David Packard and the Zaffaroni family. 
 **Recovered files:**
 - [`EFTA01175426_page02.png`](https://github.com/rhowardstone/Epstein-research-data/raw/main/recovered_corrupted_pdfs/EFTA01175426/EFTA01175426_page02.png) through [`_page20.png`](https://github.com/rhowardstone/Epstein-research-data/raw/main/recovered_corrupted_pdfs/EFTA01175426/EFTA01175426_page20.png) — 10 page images (1728x2203 px, bilevel)
 - [`EFTA01175426_full_ocr.txt`](https://github.com/rhowardstone/Epstein-research-data/raw/main/recovered_corrupted_pdfs/EFTA01175426/EFTA01175426_full_ocr.txt) — Full OCR text of all pages
-- [`EFTA01175426_repaired.pdf`](# carved_pdfs/EFTA01175426_repaired.pdf) — Repaired PDF with recovered pages
+- [`EFTA01175426_repaired.pdf`](carved_pdfs/EFTA01175426_repaired.pdf) — Repaired PDF with recovered pages
 
 **Recovery technique:**
 1. PyMuPDF, Ghostscript, and pdftoppm all failed (truncated xref)
@@ -205,7 +205,7 @@ describes the complexity of the case (157 separate assertions of material fact) 
 Government's three responsive filings (DE 407, DE 402, and the 30-page cross-motion).
 
 **Recovered files:**
-- [`efta00593870_stripped.pdf`](# carved_pdfs/efta00593870_stripped.pdf) — Null bytes removed, 16,384 bytes remaining
+- [`efta00593870_stripped.pdf`](carved_pdfs/efta00593870_stripped.pdf) — Null bytes removed, 16,384 bytes remaining
 - [`EFTA00593870_cleaned_text.txt`](https://github.com/rhowardstone/Epstein-research-data/raw/main/recovered_corrupted_pdfs/EFTA00593870/EFTA00593870_cleaned_text.txt) — Cleaned, readable text from page 1
 
 **Recovery technique:**
@@ -275,18 +275,18 @@ that were captured during evidence collection and assigned EFTA numbers regardle
 
 | File | Description |
 |------|-------------|
-| [`efta00593870_stripped.pdf`](# carved_pdfs/efta00593870_stripped.pdf) | Null-stripped PDF shell (16KB) |
-| [`EFTA00597207_embedded_photo.jpg`](# carved_pdfs/EFTA00597207_embedded_photo.jpg) | iPhone 5s photo recovered from bplist data |
-| [`EFTA00597207_pdftoppm-01.png`](# carved_pdfs/EFTA00597207_pdftoppm-01.png) ... [`-10.png`](# carved_pdfs/EFTA00597207_pdftoppm-10.png) | 10 pdftoppm render attempts (mostly blank — sectors overwritten) |
-| [`EFTA00645624_ccitt.bin`](# carved_pdfs/EFTA00645624_ccitt.bin), [`_ccitt_raw.bin`](# carved_pdfs/EFTA00645624_ccitt_raw.bin) | Raw CCITT Group 4 fax bitstreams |
-| [`EFTA00645624_decoded.png`](# carved_pdfs/EFTA00645624_decoded.png) | Decoded fax page image |
-| [`EFTA00645624.tiff`](# carved_pdfs/EFTA00645624.tiff) | TIFF-wrapped CCITT data |
-| [`EFTA01175426_full_ocr.txt`](# carved_pdfs/EFTA01175426_full_ocr.txt) | Full OCR of 10 recovered pages |
-| [`EFTA01175426_page02.png`](# carved_pdfs/EFTA01175426_page02.png) ... [`_page20.png`](# carved_pdfs/EFTA01175426_page20.png) | 10 recovered fax page images |
-| [`EFTA01175426_repaired.pdf`](# carved_pdfs/EFTA01175426_repaired.pdf) | Repaired PDF with recovered pages reinserted |
-| [`EFTA01220934_content.html`](# carved_pdfs/EFTA01220934_content.html) | Dreamweaver HTML carved from disk |
-| [`EFTA01220934_content.rtf`](# carved_pdfs/EFTA01220934_content.rtf) | RTF carved from disk |
-| [`efta01220934_first_image.jpeg`](# carved_pdfs/efta01220934_first_image.jpeg), [`_first_png.png`](# carved_pdfs/efta01220934_first_png.png) | First image/PNG found in disk sectors |
-| [`EFTA01220934_gif1.gif`](# carved_pdfs/EFTA01220934_gif1.gif) | GIF carved from disk image |
-| [`EFTA01220934_jpeg1.jpg`](# carved_pdfs/EFTA01220934_jpeg1.jpg) ... [`_jpeg9.jpg`](# carved_pdfs/EFTA01220934_jpeg9.jpg) | 9 JPEGs carved from disk (2 corrupted) |
-| [`EFTA01220934_png1.png`](# carved_pdfs/EFTA01220934_png1.png), [`_png2.png`](# carved_pdfs/EFTA01220934_png2.png) | PNGs carved from disk image |
+| [`efta00593870_stripped.pdf`](carved_pdfs/efta00593870_stripped.pdf) | Null-stripped PDF shell (16KB) |
+| [`EFTA00597207_embedded_photo.jpg`](carved_pdfs/EFTA00597207_embedded_photo.jpg) | iPhone 5s photo recovered from bplist data |
+| [`EFTA00597207_pdftoppm-01.png`](carved_pdfs/EFTA00597207_pdftoppm-01.png) ... [`-10.png`](carved_pdfs/EFTA00597207_pdftoppm-10.png) | 10 pdftoppm render attempts (mostly blank — sectors overwritten) |
+| [`EFTA00645624_ccitt.bin`](carved_pdfs/EFTA00645624_ccitt.bin), [`_ccitt_raw.bin`](carved_pdfs/EFTA00645624_ccitt_raw.bin) | Raw CCITT Group 4 fax bitstreams |
+| [`EFTA00645624_decoded.png`](carved_pdfs/EFTA00645624_decoded.png) | Decoded fax page image |
+| [`EFTA00645624.tiff`](carved_pdfs/EFTA00645624.tiff) | TIFF-wrapped CCITT data |
+| [`EFTA01175426_full_ocr.txt`](carved_pdfs/EFTA01175426_full_ocr.txt) | Full OCR of 10 recovered pages |
+| [`EFTA01175426_page02.png`](carved_pdfs/EFTA01175426_page02.png) ... [`_page20.png`](carved_pdfs/EFTA01175426_page20.png) | 10 recovered fax page images |
+| [`EFTA01175426_repaired.pdf`](carved_pdfs/EFTA01175426_repaired.pdf) | Repaired PDF with recovered pages reinserted |
+| [`EFTA01220934_content.html`](carved_pdfs/EFTA01220934_content.html) | Dreamweaver HTML carved from disk |
+| [`EFTA01220934_content.rtf`](carved_pdfs/EFTA01220934_content.rtf) | RTF carved from disk |
+| [`efta01220934_first_image.jpeg`](carved_pdfs/efta01220934_first_image.jpeg), [`_first_png.png`](carved_pdfs/efta01220934_first_png.png) | First image/PNG found in disk sectors |
+| [`EFTA01220934_gif1.gif`](carved_pdfs/EFTA01220934_gif1.gif) | GIF carved from disk image |
+| [`EFTA01220934_jpeg1.jpg`](carved_pdfs/EFTA01220934_jpeg1.jpg) ... [`_jpeg9.jpg`](carved_pdfs/EFTA01220934_jpeg9.jpg) | 9 JPEGs carved from disk (2 corrupted) |
+| [`EFTA01220934_png1.png`](carved_pdfs/EFTA01220934_png1.png), [`_png2.png`](carved_pdfs/EFTA01220934_png2.png) | PNGs carved from disk image |

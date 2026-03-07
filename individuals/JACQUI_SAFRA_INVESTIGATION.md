@@ -300,12 +300,12 @@ This is substantively different from figures like Ehud Barak (25+ direct emails,
 
 # APPENDIX B: CROSS-REFERENCES
 
-- [ISRAEL_DEEP_DIVE_V2](/intelligence/ISRAEL_DEEP_DIVE_V2.md) — Section C: "Jacqui's Jerusalem Residence" (updated to identify Safra)
-- [FINAL_INVESTIGATION_REPORT](/overview/FINAL_INVESTIGATION_REPORT.md) — Brockman/Edge Foundation Pipeline section
-- [SCIENCE_NETWORK_COMPREHENSIVE_AUDIT](/scientists/SCIENCE_NETWORK_COMPREHENSIVE_AUDIT.md) — Brockman/Edge dinner network
-- [DAVID_SHAW_INVESTIGATION](/scientists/DAVID_SHAW_INVESTIGATION.md) — Edge dinner architecture
-- [JUNKERMANN_MC2_INVESTIGATION](/individuals/JUNKERMANN_MC2_INVESTIGATION.md) — Parallel Brockman-mediated relationship
-- [ROTHSCHILD_INVESTIGATION](/individuals/ROTHSCHILD_INVESTIGATION.md) — Parallel high-net-worth social contact
+- [ISRAEL_DEEP_DIVE_V2](../intelligence/ISRAEL_DEEP_DIVE_V2.md) — Section C: "Jacqui's Jerusalem Residence" (updated to identify Safra)
+- [FINAL_INVESTIGATION_REPORT](../overview/FINAL_INVESTIGATION_REPORT.md) — Brockman/Edge Foundation Pipeline section
+- [SCIENCE_NETWORK_COMPREHENSIVE_AUDIT](../scientists/SCIENCE_NETWORK_COMPREHENSIVE_AUDIT.md) — Brockman/Edge dinner network
+- [DAVID_SHAW_INVESTIGATION](../scientists/DAVID_SHAW_INVESTIGATION.md) — Edge dinner architecture
+- [JUNKERMANN_MC2_INVESTIGATION](../individuals/JUNKERMANN_MC2_INVESTIGATION.md) — Parallel Brockman-mediated relationship
+- [ROTHSCHILD_INVESTIGATION](../individuals/ROTHSCHILD_INVESTIGATION.md) — Parallel high-net-worth social contact
 
 ---
 

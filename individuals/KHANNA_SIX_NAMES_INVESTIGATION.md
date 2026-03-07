@@ -16,7 +16,7 @@ Six names were disclosed:
 | 2 | **Zurab Mikeladze** | Georgian oil/business figure | 0 hits across 1.38M documents (full corpus); **confirmed on [EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf) list (#10)** | NYPD complaint source, 2021 |
 | 3 | **Leonic Leonov** | Little publicly known | 0 hits across 1.38M documents (full corpus); **confirmed on [EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf) list (#14)** | NYPD complaint source, 2021 |
 | 4 | **Nicola Caputo** | Former EU Parliament member (Italy) | 0 hits for "Nicola Caputo" across 1.38M documents; **confirmed on [EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf) list (#17)** | NYPD complaint source, 2009 |
-| 5 | **Sultan Ahmed bin Sulayem** | Chairman/CEO of DP World (Dubai) | **5,026 documents** across full corpus (updated Feb 12, 2026; 2,292 in DS9), 10-year relationship (2009-2019), victim testimony, port infrastructure access, seized CD evidence | Extensive — see [DUBAI_SULAYEM_INVESTIGATION.md](/individuals/DUBAI_SULAYEM_INVESTIGATION.md) |
+| 5 | **Sultan Ahmed bin Sulayem** | Chairman/CEO of DP World (Dubai) | **5,026 documents** across full corpus (updated Feb 12, 2026; 2,292 in DS9), 10-year relationship (2009-2019), victim testimony, port infrastructure access, seized CD evidence | Extensive — see [DUBAI_SULAYEM_INVESTIGATION.md](../individuals/DUBAI_SULAYEM_INVESTIGATION.md) |
 | 6 | **Leslie Wexner** | Billionaire founder of L Brands/Victoria's Secret | **1,497 documents** across full corpus (updated Feb 12, 2026; 675 in DS9), FBI FD-302 victim statement of direct abuse, FBI "secondary co-conspirator" designation, 2007 Cordero v. VS/Wexner civil suit | Extensive — FBI witness statement, $100M+ misappropriation, Victoria's Secret pipeline |
 
 **Key finding**: Four of the six names (Nuara, Mikeladze, Leonov, Caputo) produce **zero results across the full 1,380,937-document corpus** (2,731,796 pages -- confirmed Feb 12, 2026 against expanded corpus nearly 3x the original). These names exist ONLY on the [EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf) co-conspirator list — they are genuinely absent from every other released document. By contrast, Wexner appears in **1,497 documents** and Sulayem in **5,026 documents**. The four lesser-known names' designation as "potential co-conspirators" traces to NYPD complaint filings spanning 2009-2021.
@@ -151,7 +151,7 @@ Like the other lesser-known names, no details about the underlying NYPD complain
 
 ### Evidence in EFTA Files — EXTENSIVE (40+ Documents)
 
-A full investigation has been completed: **[DUBAI_SULAYEM_INVESTIGATION.md](/individuals/DUBAI_SULAYEM_INVESTIGATION.md)**
+A full investigation has been completed: **[DUBAI_SULAYEM_INVESTIGATION.md](../individuals/DUBAI_SULAYEM_INVESTIGATION.md)**
 
 #### Key Evidence Summary:
 
@@ -208,7 +208,7 @@ A full investigation has been completed: **[DUBAI_SULAYEM_INVESTIGATION.md](/ind
 **Key reporting**: Bloomberg, Drop Site News, Middle East Eye, Newsweek, New Republic (see Sources section)
 
 ### Assessment
-Sultan bin Sulayem is the most extensively documented of the six names in the EFTA files. The documents show a decade-long relationship (2009-2019) involving direct communications, at least one documented visit to Epstein's island, financial transactions, victim testimony naming "a guy from Dubai — Sultan," a commercial port inquiry in the USVI, and connections to high-level Gulf officials. Sultan has not been charged with any crime in connection with the Epstein case. Rep. Massie identified him as the one "pretty high up in foreign government." See [DUBAI_SULAYEM_INVESTIGATION.md](/individuals/DUBAI_SULAYEM_INVESTIGATION.md) for the complete analysis.
+Sultan bin Sulayem is the most extensively documented of the six names in the EFTA files. The documents show a decade-long relationship (2009-2019) involving direct communications, at least one documented visit to Epstein's island, financial transactions, victim testimony naming "a guy from Dubai — Sultan," a commercial port inquiry in the USVI, and connections to high-level Gulf officials. Sultan has not been charged with any crime in connection with the Epstein case. Rep. Massie identified him as the one "pretty high up in foreign government." See [DUBAI_SULAYEM_INVESTIGATION.md](../individuals/DUBAI_SULAYEM_INVESTIGATION.md) for the complete analysis.
 
 ---
 
@@ -460,15 +460,15 @@ On February 10, 2026, all 519,548 PDFs across Datasets 1-12 were extracted via P
 
 | Report | Relevance |
 |--------|-----------|
-| [DUBAI_SULAYEM_INVESTIGATION.md](/individuals/DUBAI_SULAYEM_INVESTIGATION.md) | Complete 5,026-document investigation of Sultan bin Sulayem (updated Feb 12, 2026) |
-| [PROSECUTION_FAILURES_ANALYSIS.md](/institutional/PROSECUTION_FAILURES_ANALYSIS.md) | NPA architecture, CVRA violations, co-conspirator protection |
-| [EVIDENCE_COMPILATION.md](/evidence/EVIDENCE_COMPILATION.md) | Analysis of the 86-page prosecution memo ([EFTA02731082](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731082.pdf)) |
-| [FORENSIC_ACCT_4_JABWCPA_INSTITUTION1.md](/financial/FORENSIC_ACCT_4_JABWCPA_INSTITUTION1.md) | Victoria's Secret recruitment mechanism and financial flows |
-| [FINAL_INVESTIGATION_REPORT.md](/overview/FINAL_INVESTIGATION_REPORT.md) | FBI master briefing with all named individuals ([EFTA01660622](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660622.pdf)) |
-| [CBP_CORRUPTION_INVESTIGATION.md](/institutional/CBP_CORRUPTION_INVESTIGATION.md) | Customs bypass infrastructure (relevant to Sultan/DP World port access) |
-| [TRAFFICKING_ROUTES_INVESTIGATION.md](/victims/TRAFFICKING_ROUTES_INVESTIGATION.md) | Transport routes including USVI port infrastructure |
-| [LEON_BLACK_PROSECUTION_FAILURE.md](/individuals/LEON_BLACK_PROSECUTION_FAILURE.md) | Kate Caputo (Black's assistant) toured Google with Epstein; Black-Wexner financial nexus |
-| [INSTITUTIONAL_FAILURE_NARRATIVE.md](/overview/INSTITUTIONAL_FAILURE_NARRATIVE.md) | 1996-2024 chronological failure narrative including NPA co-conspirator protection |
+| [DUBAI_SULAYEM_INVESTIGATION.md](../individuals/DUBAI_SULAYEM_INVESTIGATION.md) | Complete 5,026-document investigation of Sultan bin Sulayem (updated Feb 12, 2026) |
+| [PROSECUTION_FAILURES_ANALYSIS.md](../institutional/PROSECUTION_FAILURES_ANALYSIS.md) | NPA architecture, CVRA violations, co-conspirator protection |
+| [EVIDENCE_COMPILATION.md](../evidence/EVIDENCE_COMPILATION.md) | Analysis of the 86-page prosecution memo ([EFTA02731082](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731082.pdf)) |
+| [FORENSIC_ACCT_4_JABWCPA_INSTITUTION1.md](../financial/FORENSIC_ACCT_4_JABWCPA_INSTITUTION1.md) | Victoria's Secret recruitment mechanism and financial flows |
+| [FINAL_INVESTIGATION_REPORT.md](../overview/FINAL_INVESTIGATION_REPORT.md) | FBI master briefing with all named individuals ([EFTA01660622](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01660622.pdf)) |
+| [CBP_CORRUPTION_INVESTIGATION.md](../institutional/CBP_CORRUPTION_INVESTIGATION.md) | Customs bypass infrastructure (relevant to Sultan/DP World port access) |
+| [TRAFFICKING_ROUTES_INVESTIGATION.md](../victims/TRAFFICKING_ROUTES_INVESTIGATION.md) | Transport routes including USVI port infrastructure |
+| [LEON_BLACK_PROSECUTION_FAILURE.md](../individuals/LEON_BLACK_PROSECUTION_FAILURE.md) | Kate Caputo (Black's assistant) toured Google with Epstein; Black-Wexner financial nexus |
+| [INSTITUTIONAL_FAILURE_NARRATIVE.md](../overview/INSTITUTIONAL_FAILURE_NARRATIVE.md) | 1996-2024 chronological failure narrative including NPA co-conspirator protection |
 
 ---
 

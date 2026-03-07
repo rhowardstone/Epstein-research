@@ -3,7 +3,7 @@
 ## Classification: Research Analysis of Publicly Released DOJ FOIA Documents (218GB Corpus)
 ## Date: February 8, 2026
 ## Databases Queried: OCR text extraction database, primary document text database, Dataset 10 document text database, image catalog database
-## Supersedes: [ISRAELI_INTELLIGENCE_DEEP_DIVE.md](/intelligence/ISRAELI_INTELLIGENCE_DEEP_DIVE.md) (Feb 6, 2026)
+## Supersedes: [ISRAELI_INTELLIGENCE_DEEP_DIVE.md](../intelligence/ISRAELI_INTELLIGENCE_DEEP_DIVE.md) (Feb 6, 2026)
 
 ---
 
@@ -299,7 +299,7 @@ Nicole Junkermann is a German-born investor, founder of NJF Holdings, and has be
   2. **Junkermann** is on the contact list alongside **Steve Bannon** and **Sultan Bin Sulayem** (chairman of DP World, connected to Dubai's ruling family)
   3. "3BIS" is an entity/group wanting to visit Epstein's island
   4. The email mentions Paris travel (Jan 22-31) and island travel (Feb 2-5)
-  5. **Sultan bin Sulayem** separately appears in [DUBAI_SULAYEM_INVESTIGATION.md](/individuals/DUBAI_SULAYEM_INVESTIGATION.md) directing his DP World executive to contact Epstein's USVI attorney about the "port of St Croix"
+  5. **Sultan bin Sulayem** separately appears in [DUBAI_SULAYEM_INVESTIGATION.md](../individuals/DUBAI_SULAYEM_INVESTIGATION.md) directing his DP World executive to contact Epstein's USVI attorney about the "port of St Croix"
 
 ---
 
@@ -424,7 +424,7 @@ The [EFTA01660651](https://www.justice.gov/epstein/files/DataSet%2010/EFTA016606
 - **[EFTA01933564](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01933564.pdf):** Epstein's reply: "yes, and Paul Allen" — confirming interest and requesting parallel outreach to Paul Allen (Microsoft co-founder, also present at the Vancouver dinner).
 - **Earlier pitch:** [EFTA00394883](https://www.justice.gov/epstein/files/DataSet%209/EFTA00394883.pdf) (Feb 26, 2013) — Brockman to Epstein: "Jacqui Safra is here with me. Wants to sell you his Jerusalem house in Talbieh neighborhood known as 'The Sherover House' across st from Jerusalem Theatre."
 
-- **Identification:** Jacob "Jacqui" Eli Safra (b. 1947), Swiss billionaire (~$5B), member of the Safra banking dynasty, owner of Encyclopaedia Britannica and Spring Mountain Vineyards. Safra acquired the Sherover property on Dubnov Street in the **Talbieh** neighborhood of Jerusalem in 1991 and expanded it in 2004. The property is across from the Jerusalem Theatre (built and donated by the Sherover family). Full investigation: [JACQUI_SAFRA_INVESTIGATION](/individuals/JACQUI_SAFRA_INVESTIGATION.md).
+- **Identification:** Jacob "Jacqui" Eli Safra (b. 1947), Swiss billionaire (~$5B), member of the Safra banking dynasty, owner of Encyclopaedia Britannica and Spring Mountain Vineyards. Safra acquired the Sherover property on Dubnov Street in the **Talbieh** neighborhood of Jerusalem in 1991 and expanded it in 2004. The property is across from the Jerusalem Theatre (built and donated by the Sherover family). Full investigation: [JACQUI_SAFRA_INVESTIGATION](../individuals/JACQUI_SAFRA_INVESTIGATION.md).
 
 - **Israel Relevance Assessment:** The Safra-Epstein connection is **social/financial**, not intelligence-related. Safra was part of Epstein's Edge Foundation dinner circuit alongside tech billionaires. The Jerusalem property discussion reflects Epstein's interest in Israeli real estate but does not connect to intelligence infrastructure. No evidence suggests the property sale was completed. Epstein separately stated: "I would not do biz with the safras, under any circumstances" ([EFTA02468988](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02468988.pdf)).
 
@@ -889,18 +889,18 @@ DS9 calendar entries reveal regular Drokova meetings with Epstein throughout 201
 # APPENDIX E: CROSS-REFERENCES TO PRIOR INVESTIGATIONS
 
 This report incorporates, consolidates, and extends findings from:
-- [ISRAELI_INTELLIGENCE_DEEP_DIVE.md](/intelligence/ISRAELI_INTELLIGENCE_DEEP_DIVE.md): Prior version of this analysis
-- [JUNKERMANN_MC2_INVESTIGATION.md](/individuals/JUNKERMANN_MC2_INVESTIGATION.md): Junkermann 10-year relationship, Leon Black introduction
-- [UNNAMED_PERSONS_INVESTIGATION.md](/individuals/UNNAMED_PERSONS_INVESTIGATION.md): "Foreign president" identified as Ehud Barak
-- [DILORIO_APOLLO_WHISTLEBLOWER.md](/financial/DILORIO_APOLLO_WHISTLEBLOWER.md): Schlaff/Alpha Capital connections
-- [PROSECUTION_FAILURES_ANALYSIS.md](/institutional/PROSECUTION_FAILURES_ANALYSIS.md): NPA architecture, Acosta deposition
-- [JACQUI_SAFRA_INVESTIGATION.md](/individuals/JACQUI_SAFRA_INVESTIGATION.md): Jacqui Safra identification, Jerusalem property, Edge Foundation circuit
+- [ISRAELI_INTELLIGENCE_DEEP_DIVE.md](../intelligence/ISRAELI_INTELLIGENCE_DEEP_DIVE.md): Prior version of this analysis
+- [JUNKERMANN_MC2_INVESTIGATION.md](../individuals/JUNKERMANN_MC2_INVESTIGATION.md): Junkermann 10-year relationship, Leon Black introduction
+- [UNNAMED_PERSONS_INVESTIGATION.md](../individuals/UNNAMED_PERSONS_INVESTIGATION.md): "Foreign president" identified as Ehud Barak
+- [DILORIO_APOLLO_WHISTLEBLOWER.md](../financial/DILORIO_APOLLO_WHISTLEBLOWER.md): Schlaff/Alpha Capital connections
+- [PROSECUTION_FAILURES_ANALYSIS.md](../institutional/PROSECUTION_FAILURES_ANALYSIS.md): NPA architecture, Acosta deposition
+- [JACQUI_SAFRA_INVESTIGATION.md](../individuals/JACQUI_SAFRA_INVESTIGATION.md): Jacqui Safra identification, Jerusalem property, Edge Foundation circuit
 - BLACKMAIL_INTELLIGENCE_INVESTIGATION.md: Earlier blackmail analysis
-- [DUBAI_SULAYEM_INVESTIGATION.md](/individuals/DUBAI_SULAYEM_INVESTIGATION.md): Sultan bin Sulayem, DP World, port of St Croix
+- [DUBAI_SULAYEM_INVESTIGATION.md](../individuals/DUBAI_SULAYEM_INVESTIGATION.md): Sultan bin Sulayem, DP World, port of St Croix
 - BANNON_CLINTON_EVIDENCE.md: Bannon-Epstein relationship, Barak-Bannon meeting
 - EHUD_BARAK_ISRAEL_INVESTIGATION.md: Earlier Barak analysis
 - CLASSIFIED_INTELLIGENCE_INVESTIGATION.md: SECRET/NOFORN documents
-- [CBP_CORRUPTION_INVESTIGATION.md](/institutional/CBP_CORRUPTION_INVESTIGATION.md): USVI access infrastructure
+- [CBP_CORRUPTION_INVESTIGATION.md](../institutional/CBP_CORRUPTION_INVESTIGATION.md): USVI access infrastructure
 
 ---
 

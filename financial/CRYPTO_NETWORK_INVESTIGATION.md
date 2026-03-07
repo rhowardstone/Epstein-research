@@ -77,7 +77,7 @@ Source: [EFTA00626207](https://www.justice.gov/epstein/files/DataSet%209/EFTA006
 
 Source: [EFTA00681240](https://www.justice.gov/epstein/files/DataSet%209/EFTA00681240.pdf) — same document also contains a Pierce/Farkas/Nasdaq agreement for a "Nasdaq Xtreme platform."
 
-Farkas forwarded Austin Hill's "Why Bitcoin Has Value" paper to Epstein ([EFTA00870319](https://www.justice.gov/epstein/files/DataSet%209/EFTA00870319.pdf)). Epstein kept an Apple Notes to-do item reading "farkas, bitcoin" ([EFTA00518681](https://www.justice.gov/epstein/files/DataSet%209/EFTA00518681.pdf) — [removed from justice.gov](../doj_audit/CONFIRMED_REMOVED.csv)).
+Farkas forwarded Austin Hill's "Why Bitcoin Has Value" paper to Epstein ([EFTA00870319](https://www.justice.gov/epstein/files/DataSet%209/EFTA00870319.pdf)). Epstein kept an Apple Notes to-do item reading "farkas, bitcoin" ([EFTA00518681](https://www.justice.gov/epstein/files/DataSet%209/EFTA00518681.pdf) — [removed from justice.gov](https://github.com/rhowardstone/Epstein-research-data/blob/main/doj_audit/CONFIRMED_REMOVED.csv)).
 
 ### 1.4 Steven Sinofsky — Most Frequent Bitcoin Correspondent (2013-2014)
 
@@ -474,7 +474,7 @@ One valid address found: `3Cr9TpVeRcgeg4zGhPEdzhC94HzuUScbHN` — zero transacti
 Media coverage cross-referenced for all claims. Investment amounts verified against both EFTA corpus (wire transfer records) and external reporting (Fortune, CoinDesk, Blockspace, The Logic, BitcoinProtocol.org).
 
 ### EFTA Removal Status
-Three EFTAs cited in this report have been [confirmed removed from justice.gov](../doj_audit/CONFIRMED_REMOVED.csv):
+Three EFTAs cited in this report have been [confirmed removed from justice.gov](https://github.com/rhowardstone/Epstein-research-data/blob/main/doj_audit/CONFIRMED_REMOVED.csv):
 - EFTA00518681 (Apple Notes "farkas, bitcoin") — removed
 - EFTA01681865 (Deutsche Bank Southern Financial presentation) — removed
 - EFTA01699932 (FBI case file) — removed
