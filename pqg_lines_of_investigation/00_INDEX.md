@@ -69,7 +69,7 @@ Each dossier below is a self-contained analysis of a specific gap in the prosecu
 
 ### Data Sources
 
-1. **Concordance DAT/OPT files** (12 datasets + House Estate + DOJ First Production): Parsed by `pqg_00_extract_concordance.py`, producing `concordance_complete.db` (1,385,519 documents, 2,788,208 pages).
+1. **Concordance DAT/OPT files** (12 datasets + House Estate + DOJ First Production): Parsed by `pqg_00_extract_concordance.py`, producing [`concordance_complete.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v5.1) (1,385,519 documents, 2,788,208 pages).
 
 2. **Full text corpus** (`full_text_corpus.db`, 6.3 GB): All page-level text from the DOJ production, searchable via FTS5.
 

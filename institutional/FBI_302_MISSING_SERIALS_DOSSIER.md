@@ -295,7 +295,7 @@ EFTA01684300, while using a different numbering system, reveals several categori
 
 ## Programmatic Corpus Search: All 136 Interview Serials
 
-A Python script searched all 2,770,154 pages of the corpus for documents stamped with each of the 136 interview serial numbers. Runtime: ~10 minutes. Full results in `fbi_302_gap_analysis.json`.
+A Python script searched all 2,770,154 pages of the corpus for documents stamped with each of the 136 interview serial numbers. Runtime: ~10 minutes. Full results in [`fbi_302_gap_analysis.json`](https://github.com/rhowardstone/epstein-research/blob/main/institutional/fbi_302_gap_analysis.json).
 
 ### High-Level Results
 

@@ -20,7 +20,7 @@ We performed a full-text search of the 2.77 million pages in `full_text_corpus.d
 
 ### Redaction Cross-Reference
 
-Every phone record EFTA was cross-referenced against our `redaction_analysis_v2.db` database (2.59 million detected redactions). For each document, we counted proper redactions (black bars), text-near-bar OCR leaks, and white rectangles. The result is a per-document redaction profile showing which phone records were protected and which were exposed.
+Every phone record EFTA was cross-referenced against our [`redaction_analysis_v2.db`](https://github.com/rhowardstone/Epstein-research-data/releases/download/v4.0/redaction_analysis_v2.db.gz) database (2.59 million detected redactions). For each document, we counted proper redactions (black bars), text-near-bar OCR leaks, and white rectangles. The result is a per-document redaction profile showing which phone records were protected and which were exposed.
 
 ### Phone Number Extraction and Enrichment
 
@@ -292,8 +292,8 @@ We identified approximately 20 numbers from corpus context. The remaining ~1,097
 ## Data
 
 - **Phone number dataset**: [phone_numbers_enriched.csv](https://github.com/rhowardstone/Epstein-research-data/blob/main/phone_numbers_enriched.csv) — 1,117 unique numbers with call counts, geographic data, and carrier information
-- **Redaction cross-reference**: `phone_records_redaction_crossref.csv` — 970 phone record documents with redaction counts
-- **Full phone records inventory**: `phone_records_inventory.json` — structured catalog of all 970 documents by category
+- **Redaction cross-reference**: [`phone_records_redaction_crossref.csv`](https://github.com/rhowardstone/epstein-research/blob/main/evidence/phone_records_redaction_crossref.csv) — 970 phone record documents with redaction counts
+- **Full phone records inventory**: [`phone_records_inventory.json`](https://github.com/rhowardstone/epstein-research/blob/main/evidence/phone_records_inventory.json) — structured catalog of all 970 documents by category
 
 **Disclaimer on phone number data:** All phone numbers in the CSV were extracted from publicly available federal documents on justice.gov (the DOJ's EFTA production). The geographic location, carrier, and line type columns were generated using Python's `phonenumbers` library, an open-source offline database based on public numbering plan (NANPA/ITU) assignments. This data reflects **current** numbering plan information — not necessarily the carriers or subscribers from 2004–2006 when these calls were placed. Phone numbers change hands. A number that was Epstein's in 2005 may belong to someone entirely unrelated today. Do not use this data to contact or harass anyone.
 

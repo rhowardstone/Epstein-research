@@ -160,9 +160,9 @@ The uniform distribution of R1 gaps is consistent with systematic review process
 
 The complete cross-reference data is available as CSV files suitable for analysis in Excel or any spreadsheet tool:
 
-- **`all_secondary_stamps.csv`** (1,192,725 rows): Every page in DS9-12 that carries a secondary stamp, with columns for all six numbering systems. One row per page.
-- **`r1_crossref.csv`** (645,222 rows): Document-level R1 mapping (page 0 only), with EFTA number, R1 number, dataset, and page count.
-- **`efta_underscore_crossref.csv`** (68,406 rows): EFTA_ (SDNY sequence) mapping with final EFTA number, page number, EFTA_ number, and SDNY_ number.
+- **[`all_secondary_stamps.csv`](https://github.com/rhowardstone/epstein-research/blob/main/institutional/all_secondary_stamps.csv)** (1,192,725 rows): Every page in DS9-12 that carries a secondary stamp, with columns for all six numbering systems. One row per page.
+- **[`r1_crossref.csv`](https://github.com/rhowardstone/epstein-research/blob/main/institutional/r1_crossref.csv)** (645,222 rows): Document-level R1 mapping (page 0 only), with EFTA number, R1 number, dataset, and page count.
+- **[`efta_underscore_crossref.csv`](https://github.com/rhowardstone/epstein-research/blob/main/institutional/efta_underscore_crossref.csv)** (68,406 rows): EFTA_ (SDNY sequence) mapping with final EFTA number, page number, EFTA_ number, and SDNY_ number.
 
 Column definitions for `all_secondary_stamps.csv`:
 
