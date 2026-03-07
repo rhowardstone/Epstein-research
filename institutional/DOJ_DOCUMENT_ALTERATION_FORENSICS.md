@@ -816,10 +816,10 @@ The following datasets underlie this report and are [available on GitHub](https:
 
 | File | Rows | Contents |
 |------|------|----------|
-| [`change_units_FINAL.csv`](https://github.com/rhowardstone/Epstein-research-data/blob/main/alteration_analysis/change_units_FINAL.csv) | 205,958 | Every classified change unit with before/after text, classification, justification, DOJ URL, and JDrive URL |
+| [`change_units_FINAL.csv`](https://github.com/rhowardstone/epstein-research/blob/main/institutional/change_units_FINAL.csv) | 205,958 | Every classified change unit with before/after text, classification, justification, DOJ URL, and JDrive URL |
 | [`removed_entities_export.csv`](https://github.com/rhowardstone/Epstein-research-data/blob/main/alteration_analysis/removed_entities_export.csv) | 146,210 | Every entity detected as removed, with corpus hit counts and registry matches |
-| [`visual_inspections_final.csv`](https://github.com/rhowardstone/Epstein-research-data/blob/main/alteration_analysis/visual_inspections_final.csv) | 2,190 | Claude visual inspection results for rendered document pairs |
-| `alteration_results.db` | 212,730 units | Full SQLite database with diff text, pixel-diff results, LLM analyses |
+| [`visual_inspections_final.csv`](https://github.com/rhowardstone/epstein-research/blob/main/institutional/visual_inspections_final.csv) | 2,190 | Claude visual inspection results for rendered document pairs |
+| [`alteration_results.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v5.1) | 212,730 units | Full SQLite database with diff text, pixel-diff results, LLM analyses (183 MB gzipped, in v5.1 release) |
 
 The LLM classifications were produced by a 32B-parameter model and should be treated as automated triage. We encourage researchers to verify individual findings against the source PDFs, which are accessible via both justice.gov and the [JDrive archive](https://jmail.world/drive). Any EFTA cited in this report can be independently compared using the [geeken.dev side-by-side viewer](https://justice.geeken.dev/).
 
