@@ -459,7 +459,7 @@ Several outlets have covered Epstein's crypto connections since the EFTA release
 ## Methodology
 
 ### Corpus Search
-FTS5 queries against `full_text_corpus.db` for: bitcoin, cryptocurrency, blockchain, coinbase, blockstream, bitmain, crypto, wallet, BTC, ethereum, dogecoin, ripple, litecoin, monero, zcash, bitstamp, kraken, binance, gemini. Results: 2,429 documents, 3,841 pages with substantive hits.
+FTS5 queries against [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v5.0) for: bitcoin, cryptocurrency, blockchain, coinbase, blockstream, bitmain, crypto, wallet, BTC, ethereum, dogecoin, ripple, litecoin, monero, zcash, bitstamp, kraken, binance, gemini. Results: 2,429 documents, 3,841 pages with substantive hits.
 
 ### Blockchain Verification
 All wallet addresses identified in the corpus were queried against:
@@ -479,7 +479,7 @@ Three EFTAs cited in this report have been [confirmed removed from justice.gov](
 - EFTA01681865 (Deutsche Bank Southern Financial presentation) — removed
 - EFTA01699932 (FBI case file) — removed
 
-All content cited from removed documents was read from `full_text_corpus.db` before removal and is accurately represented.
+All content cited from removed documents was read from [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v5.0) before removal and is accurately represented.
 
 ---
 

@@ -5,7 +5,7 @@
 **Updated**: March 5, 2026
 **Scope**: All 42,782 altered files identified across DOJ EFTA datasets 1-12
 **Pipeline**: Word-level diffing, pixel-diff visual verification (86,979 pages), page-level LLM classification (152,312 change units)
-**Databases**: `alteration_results.db` (8.2 GB, 212,730 change units), `full_text_corpus.db` (6.3 GB, 1.38M documents)
+**Databases**: `alteration_results.db` (8.2 GB, 212,730 change units), [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v5.0) (6.3 GB, 1.38M documents)
 
 ---
 
@@ -797,7 +797,7 @@ Section 2(c)(2) of the EFTA mandates that "[a]ll redactions must be accompanied 
 
 ### Verification
 
-Every EFTA number cited was verified against `full_text_corpus.db` for correct dataset assignment. All DOJ URLs confirmed accessible (HTTP 302 → 200 behind age gate). All JDrive URLs confirmed accessible. Protocol quotes verified against the [DOJ's published memorandum](https://www.justice.gov/media/1426281/dl). Statute quotes verified against the DOJ's [production letter](https://www.justice.gov/opa/media/1426091/dl). **All 56 documents cited in this report were visually verified** by rendering original and current PDF pages at 150 DPI and comparing them side by side. Of 76 rendered pages: 37 showed confirmed visual changes (black bars, page blackouts, content removal); 33 appeared visually identical (text-layer degradation only); 6 showed minor rendering differences with no substantive change. SAR BSA numbers verified from removed text content. Financial figures verified against source text in change units.
+Every EFTA number cited was verified against [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v5.0) for correct dataset assignment. All DOJ URLs confirmed accessible (HTTP 302 → 200 behind age gate). All JDrive URLs confirmed accessible. Protocol quotes verified against the [DOJ's published memorandum](https://www.justice.gov/media/1426281/dl). Statute quotes verified against the DOJ's [production letter](https://www.justice.gov/opa/media/1426091/dl). **All 56 documents cited in this report were visually verified** by rendering original and current PDF pages at 150 DPI and comparing them side by side. Of 76 rendered pages: 37 showed confirmed visual changes (black bars, page blackouts, content removal); 33 appeared visually identical (text-layer degradation only); 6 showed minor rendering differences with no substantive change. SAR BSA numbers verified from removed text content. Financial figures verified against source text in change units.
 
 ---
 

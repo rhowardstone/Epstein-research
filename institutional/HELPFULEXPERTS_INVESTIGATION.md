@@ -297,13 +297,13 @@ Despite triggering the first subpoena in the investigation, "helpfulexperts" nev
 
 ## Methodological Notes
 
-1. **Corpus search**: FTS5 and LIKE searches for "helpfulexperts" (one word), "helpful experts" (two words), and "@helpfulexperts" across all 2,770,154 pages of `full_text_corpus.db`. Only one page (EFTA00153743, page 5) contains any match.
+1. **Corpus search**: FTS5 and LIKE searches for "helpfulexperts" (one word), "helpful experts" (two words), and "@helpfulexperts" across all 2,770,154 pages of [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v5.0). Only one page (EFTA00153743, page 5) contains any match.
 
 2. **PQG cross-reference**: The Prosecutorial Query Graph database (257 subpoenas, 2,018 demand clauses) identifies EFTA00153743 as Subpoena 214 with 15 rider clauses, and flags the subsequent 524-day gap as Gap ID 750 (CRITICAL severity).
 
 3. **External research**: Wayback Machine (web.archive.org), live DNS lookups, WHOIS queries, Google searches for "helpfulexperts.com," "helpfulexperts," and "helpful experts" + Epstein all returned zero substantive results. The domain has no internet footprint beyond its DNS/WHOIS records.
 
-4. **Dataset verification**: All cited EFTAs verified against `documents` table in `full_text_corpus.db`. None appear on the DOJ confirmed-removal list (`doj_audit/CONFIRMED_REMOVED.csv`).
+4. **Dataset verification**: All cited EFTAs verified against `documents` table in [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v5.0). None appear on the DOJ confirmed-removal list (`doj_audit/CONFIRMED_REMOVED.csv`).
 
 5. **Media coverage**: Zero results as of February 24, 2026. No journalist, researcher, or commentator has ever publicly written about helpfulexperts.com, the July 2017 subpoena, USAO reference 2017R00550, or the pre-December 2018 phase of the SDNY investigation.
 

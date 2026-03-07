@@ -54,7 +54,7 @@ This index complements:
 - **Looking for a specific lawyer?** Use Ctrl+F / Cmd+F. Every lawyer with 10+ docs appears at least once in this index.
 - **Looking for all litigation involving a specific bank?** See §1.8 (Deutsche Bank), §1.9 (JPMorgan). For subpoenaed banks, see §1.13 (PQG Summary) and the [PQG Index](../pqg_lines_of_investigation/00_INDEX.md).
 - **Looking for co-conspirators / cooperators?** See §2.10.
-- **Want to verify a doc count?** All counts are `COUNT(DISTINCT efta_number)` queries against `full_text_corpus.db` — see Methodology for disambiguation rules.
+- **Want to verify a doc count?** All counts are `COUNT(DISTINCT efta_number)` queries against [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v5.0) — see Methodology for disambiguation rules.
 
 ---
 
@@ -621,7 +621,7 @@ The 52+ Epstein-side lawyers identified here are a floor, not a ceiling. Many at
 
 ### Counting Convention
 
-**"Doc Count"** throughout this report means: the number of distinct EFTA documents in `full_text_corpus.db` that contain at least one match to the entity's search string. Computed as `COUNT(DISTINCT efta_number) FROM pages WHERE text_content LIKE '%SearchTerm%'`. **"Pages"** means page-level matches (a single multi-page document may contribute multiple page hits). Unless otherwise noted, all figures are doc counts, not page counts.
+**"Doc Count"** throughout this report means: the number of distinct EFTA documents in [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v5.0) that contain at least one match to the entity's search string. Computed as `COUNT(DISTINCT efta_number) FROM pages WHERE text_content LIKE '%SearchTerm%'`. **"Pages"** means page-level matches (a single multi-page document may contribute multiple page hits). Unless otherwise noted, all figures are doc counts, not page counts.
 
 ### Disambiguation Rules
 
@@ -659,7 +659,7 @@ All EFTA citations link to the DOJ's public release:
 ```
 https://www.justice.gov/epstein/files/DataSet%20{N}/EFTA{NUMBER}.pdf
 ```
-Dataset numbers were verified against `full_text_corpus.db` for every cited document. Documents confirmed removed from justice.gov (per CONFIRMED_REMOVED.csv) are not linked.
+Dataset numbers were verified against [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v5.0) for every cited document. Documents confirmed removed from justice.gov (per CONFIRMED_REMOVED.csv) are not linked.
 
 ---
 

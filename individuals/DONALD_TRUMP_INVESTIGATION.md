@@ -745,4 +745,4 @@ Serial 3501.045 — the victim who identified Epstein from a photo that also sho
 
 ---
 
-*All EFTA references link to documents in the DOJ's Epstein Files Transparency Act release at [justice.gov/epstein](https://www.justice.gov/epstein). Database queries run against `full_text_corpus.db` (2,770,154 pages). This analysis relies on Claude Code running Opus 4.6, which can make mistakes.*
+*All EFTA references link to documents in the DOJ's Epstein Files Transparency Act release at [justice.gov/epstein](https://www.justice.gov/epstein). Database queries run against [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v5.0) (2,770,154 pages). This analysis relies on Claude Code running Opus 4.6, which can make mistakes.*

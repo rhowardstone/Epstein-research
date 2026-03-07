@@ -186,7 +186,7 @@ Several critical questions cannot be answered from the available corpus:
 
 ## Methodological Notes
 
-- All EFTA citations were verified against the `full_text_corpus.db` database. Dataset assignments were confirmed via SQL query.
+- All EFTA citations were verified against the [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v5.0) database. Dataset assignments were confirmed via SQL query.
 - The 284-page bill itself was transmitted as an email attachment (likely PDF) and was not extracted into the EFTA text corpus. Only the cover emails are available. All descriptions of the bill's contents are derived from what the drafters wrote about it in correspondence.
 - Quoted passages from the corpus are drawn from OCR-processed text. Where OCR artifacts are obvious (e.g., `=` characters from quoted-printable encoding), corrections are made silently when the intended text is unambiguous from context. Original OCR text is preserved in the database and can be verified at `epstein-data.com/full_text_corpus/pages?efta_number=EFTA...`.
 - William Blum's professional biography is drawn from publicly available firm websites: [Solomon Blum Heymann LLP](https://www.solblum.com/attorney/william-blum/) and [Kellerhals Ferguson Kroblin PLLC](https://www.kellfer.com/attorneys/william-l-blum/).

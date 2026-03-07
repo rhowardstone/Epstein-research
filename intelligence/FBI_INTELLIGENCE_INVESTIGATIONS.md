@@ -552,7 +552,7 @@ Several expected documents are absent:
 
 ## Methodology
 
-This report is based entirely on the DOJ's EFTA production (2.73 million pages across 12 datasets) plus FBI Vault and House Oversight materials. All EFTA citations were verified against the `full_text_corpus.db` database. All quoted text was read directly from the database, not from summaries.
+This report is based entirely on the DOJ's EFTA production (2.73 million pages across 12 datasets) plus FBI Vault and House Oversight materials. All EFTA citations were verified against the [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v5.0) database. All quoted text was read directly from the database, not from summaries.
 
 For areas overlapping with Israeli intelligence connections, this report cross-references the [Israel Deep Dive V2](../intelligence/ISRAEL_DEEP_DIVE_V2.md) and focuses on the structural FBI architecture rather than re-documenting claims already covered in that report.
 

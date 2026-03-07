@@ -3,7 +3,7 @@
 ## Methodology
 
 This registry was compiled via:
-1. FTS5 full-text search of `full_text_corpus.db` (2.77M pages across 12 datasets + DS98/DS99)
+1. FTS5 full-text search of [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v5.0) (2.77M pages across 12 datasets + DS98/DS99)
 2. Cross-reference with [`persons_registry.json`](https://github.com/rhowardstone/Epstein-research-data/blob/main/persons_registry.json) (1,538 persons, 203 with aliases)
 3. Cross-reference with [`knowledge_graph.db`](https://epstein-data.com/knowledge_graph) (524 entities)
 4. Targeted pattern searches for: "also known as", "a/k/a", "codename", "alias", "pseudonym", "Mr.", "Mrs.", "Dr.", "The Invisible", "Master", "Maestro", "Uncle", "Bossman", etc.

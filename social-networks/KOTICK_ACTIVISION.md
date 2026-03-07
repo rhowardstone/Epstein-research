@@ -338,6 +338,6 @@ These declinations, alongside acceptances of NYC dinners and Beverly Hills drink
 
 ## Methodology
 
-All quotes are transcribed directly from OCR'd text in the EFTA corpus via FTS5 search and page-level extraction from `full_text_corpus.db`. Dataset assignments are verified against the `documents` table. OCR artifacts (e.g., "woody alien" for "Woody Allen") are noted but not corrected in direct quotes. Every factual claim is tied to a specific EFTA number with a working justice.gov link.
+All quotes are transcribed directly from OCR'd text in the EFTA corpus via FTS5 search and page-level extraction from [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v5.0). Dataset assignments are verified against the `documents` table. OCR artifacts (e.g., "woody alien" for "Woody Allen") are noted but not corrected in direct quotes. Every factual claim is tied to a specific EFTA number with a working justice.gov link.
 
 Total corpus presence: 308 documents, 320 pages. Search terms: `kotick`, `bobby kotick`, `Kotick Bobby`.

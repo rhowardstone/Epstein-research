@@ -13,7 +13,7 @@ The most significant gap: **Robert Trivers** (943 documents, FBI FinCEN investig
 
 ## METHODOLOGY
 
-Every name was searched across `full_text_corpus.db` (1,380,937 documents, 2,731,796 pages, 4.79 GB). Document counts reflect unique EFTA numbers containing the search term. Context snippets were extracted for classification (direct email, calendar entry, contact list, news article, FBI document, etc.).
+Every name was searched across [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v5.0) (1,380,937 documents, 2,731,796 pages, 4.79 GB). Document counts reflect unique EFTA numbers containing the search term. Context snippets were extracted for classification (direct email, calendar entry, contact list, news article, FBI document, etc.).
 
 ---
 

@@ -367,7 +367,7 @@ A reliable full gap analysis would require either:
 ## Methodology
 
 ### Data Sources
-- **Full text corpus database** (`full_text_corpus.db`): 1,385,879 documents, 2,770,154 pages — FTS5 indexed
+- **Full text corpus database** ([`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v5.0)): 1,385,879 documents, 2,770,154 pages — FTS5 indexed
 - All three index documents read in full from the database, page by page
 
 ### Search Approach
@@ -427,4 +427,4 @@ The disclosure index explicitly notes it is "SUBJECT TO PROTECTIVE ORDER PARAGRA
 
 ---
 
-*All EFTA references link to documents in the DOJ's Epstein Files Transparency Act release at [justice.gov/epstein](https://www.justice.gov/epstein). Database queries run against `full_text_corpus.db` (2,770,154 pages). This analysis relies on Claude Code running Opus 4.6, which can make mistakes.*
+*All EFTA references link to documents in the DOJ's Epstein Files Transparency Act release at [justice.gov/epstein](https://www.justice.gov/epstein). Database queries run against [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v5.0) (2,770,154 pages). This analysis relies on Claude Code running Opus 4.6, which can make mistakes.*

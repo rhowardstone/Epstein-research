@@ -23,7 +23,7 @@ EFTA_00000478                                          [earlier EFTA number]
 EFTA00134897                                           [final EFTA number]
 ```
 
-The secondary stamps were extracted from the OCR text layer of 2.56 million pages across DS9, DS10, DS11, and DS12 using pattern matching against the `full_text_corpus.db` database. 1,192,725 pages carry at least one identifiable secondary stamp.
+The secondary stamps were extracted from the OCR text layer of 2.56 million pages across DS9, DS10, DS11, and DS12 using pattern matching against the [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v5.0) database. 1,192,725 pages carry at least one identifiable secondary stamp.
 
 ## The Numbering Systems
 
@@ -182,7 +182,7 @@ Column definitions for `all_secondary_stamps.csv`:
 
 ## Methodology
 
-All analysis was performed against `full_text_corpus.db`, a 6.3 GB SQLite database containing OCR-extracted text from all 2,770,154 pages of the EFTA production. Secondary stamps were identified using regular expression pattern matching against the text layer of each page. OCR artifacts (misread characters, spacing errors) were accounted for using fuzzy matching patterns that tolerate common OCR substitutions (D/O, B/6/I3, N/M, Y/C).
+All analysis was performed against [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v5.0), a 6.3 GB SQLite database containing OCR-extracted text from all 2,770,154 pages of the EFTA production. Secondary stamps were identified using regular expression pattern matching against the text layer of each page. OCR artifacts (misread characters, spacing errors) were accounted for using fuzzy matching patterns that tolerate common OCR substitutions (D/O, B/6/I3, N/M, Y/C).
 
 For R1 gap analysis, each document's R1 stamp on page 0 was treated as the starting page number, and the document's total page count was used to determine the R1 range it occupies. For EFTA_ gap analysis, each individual page's stamp was used directly since the EFTA_ numbers increment per-page.
 

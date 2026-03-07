@@ -23,7 +23,7 @@ No other public reporting has identified this data. Standard PDF processing pipe
 | PyMuPDF | `page_count = 0` |
 | Ghostscript | `Error: Couldn't initialise file` |
 | pdftoppm | 10 blank 90-byte PNGs |
-| Our `full_text_corpus.db` | `total_pages: 0` |
+| Our [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v5.0) | `total_pages: 0` |
 | Our `extract_full_corpus.py` | Skipped (no text layer) |
 
 Every bulk processing pipeline skips files with 0 extractable pages. With 2.6 million files
