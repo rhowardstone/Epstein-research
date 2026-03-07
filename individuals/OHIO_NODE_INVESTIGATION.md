@@ -1,7 +1,7 @@
 # The Ohio Node: Jim Atkins, the Columbus Network, and Maxwell's Weyerhaeuser Position
 
 **Updated**: March 7, 2026
-**Databases**: [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v4.0) (6.3 GB, 1.38M documents, 2.77M pages), [`concordance_complete.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v4.0) (729 MB)
+**Databases**: [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v5.0) (6.3 GB, 1.38M documents, 2.77M pages), [`concordance_complete.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v5.1) (729 MB)
 **Standard**: Every factual claim supported by EFTA document number with [justice.gov](https://www.justice.gov/epstein) URL, or external source URL
 **Methodology**: Full-text search (FTS5 + LIKE) across 2,770,154 pages; cross-reference with existing investigation reports; external source verification
 **Based on**: The investigative work of Troy Raymond Barile-Simleness — [The Ohio Node, Part II](https://thefalloutwithtbs.substack.com/p/the-ohio-node-the-intelligence-background) (The Fallout, March 7, 2026)
