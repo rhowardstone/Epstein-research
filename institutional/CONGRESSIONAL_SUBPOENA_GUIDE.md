@@ -158,6 +158,135 @@ Since February 28, 2026, the military conflict with Iran has consumed most publi
 
 ---
 
+# THE GAMEPLAN: UPCOMING DEPOSITIONS & TESTIMONY
+
+**As of March 7, 2026.** This is the action section — who is next, what the committee should ask, and what evidence backs each line of questioning. Full evidence inventories for each witness are in Part 3 below.
+
+## Subpoenaed — Content Involvement (Direct Witnesses)
+
+### DARREN INDYKE — March 5, 2026
+
+Estate co-executor, attorney, shell entity architect. Managed ALL Epstein financial structures. 25,719 documents in corpus. Will assert attorney-client privilege on everything.
+
+**Top 5 questions:**
+1. Walk us through the 95+ shell entities. What was the legitimate business purpose of each?
+2. You filed a DHS complaint about CBP Officer Routch ([EFTA00584279](https://www.justice.gov/epstein/files/DataSet%209/EFTA00584279.pdf)). What did you know about customs bypass at St. Thomas?
+3. Explain the $250K executor compensation in the will executed 2 days before death ([EFTA00019322](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019322.pdf)). When were you told about it?
+4. The 513-page privilege log: how many entries involve communications where you were a business participant, not just legal advisor?
+5. What was the Coinbase buyback, and what was Southern Trust's role? ([EFTA02171955](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02171955.pdf))
+
+**Countermeasure for privilege assertion:** Dual-role argument — Indyke was simultaneously attorney AND participant in the financial structure. Crime-fraud exception for communications furthering the shell entity network. Go around him: subpoena Deutsche Bank directly.
+
+→ Full profile: [Section 3.6](#36-darren-indyke--attorney--trustee--co-executor)
+
+---
+
+### RICHARD KAHN — March 11, 2026 (rescheduled from Feb 25)
+
+Co-executor, accountant. Managed entity balances ($159M documented). Administered trusts. Executed wire transfers.
+
+**Top 5 questions:**
+1. Where are the assets now? The estate was valued at $577M. Trace every disbursement since August 2019.
+2. Explain the HBRK Associates entity (575 Lexington Ave, 4th Floor). What was its purpose? ([EFTA02481016](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02481016.pdf))
+3. What was the Coinbase buyback via Blockchain Capital Insight? ([EFTA02533329](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02533329.pdf))
+4. You authorized wire transfers. Which entities received funds in the 30 days before Epstein's death?
+5. Who are the beneficiaries of The 1953 Trust?
+
+→ Full profile: [Section 3.7](#37-richard-kahn--accountant--co-executor)
+
+---
+
+## Subpoenaed — Institutional Oversight
+
+### PAM BONDI — AG, Department of Justice (TBD, subpoenaed March 4)
+
+Bondi is NOT subpoenaed for personal involvement — she is subpoenaed for the DOJ's handling of the Epstein files release. She oversees the department that:
+- Removed ~64,259 documents from justice.gov after publication
+- Missed the statutory EFTA deadline by 42 days
+- Withheld 1.46 million pages that were reviewed, stamped, and numbered but never released ([Secondary Bates Stamp analysis](SECONDARY_BATES_STAMP_ANALYSIS.md))
+- Defunded OCDETF (May 2025), destroying institutional knowledge about Operation Chain Reaction
+- Closed the investigation with 14 unnamed co-conspirators and zero charges after 13 years
+
+**Corpus evidence (DOJ conduct, not personal):**
+
+| EFTA | DS | Description |
+|------|----|-------------|
+| [EFTA01656324](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01656324.pdf) | 10 | DOJ planning Maxwell prison interview; Bondi quoted: "Investigate these troubling disclosures fully" |
+| [EFTA01655328](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01655328.pdf) | 10 | Bondi credited for declassifying investigative records |
+| [EFTA00143627](https://www.justice.gov/epstein/files/DataSet%209/EFTA00143627.pdf) | 9 | Victim correspondence referencing "recent engagement with Pam Bondi" |
+
+**Top 5 questions:**
+1. Why were 64,259 documents removed from justice.gov after publication? Provide the legal basis for each removal.
+2. The Secondary Bates Stamp analysis shows 1.46 million pages were reviewed and numbered but not released — a 58.9% withholding rate. What is the legal basis for withholding each page?
+3. Why was OCDETF defunded while Operation Chain Reaction — with 14 unnamed co-conspirators — remained open?
+4. You said "investigate these troubling disclosures fully." What investigations has your DOJ actually opened?
+5. Why has no co-conspirator been charged in over 7 years?
+
+**Likely response:** Will invoke executive privilege on internal DOJ deliberations. Will characterize document removals as "privacy protection." Will resist answering about OCDETF defunding.
+
+**Countermeasure:** The EFTA statute is explicit — Congress ordered full release. The removals postdate the statute. The question is compliance, not deliberative process.
+
+---
+
+## Voluntary Testimony — Scheduled
+
+### HOWARD LUTNICK — Commerce Secretary / Cantor Fitzgerald (TBD, closed-door)
+
+Lutnick has agreed to voluntary closed-door testimony. His connection to Epstein is documented across 247 EFTAs spanning 2011-2019. He has publicly understated the relationship; the corpus contradicts his characterization of "limited interaction."
+
+**Corpus evidence:**
+
+| EFTA | DS | Description |
+|------|----|-------------|
+| [EFTA02000416](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02000416.pdf) | 10 | Direct email scheduling Epstein-Lutnick phone call (March 2011); assistants coordinating |
+| [EFTA02155299](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02155299.pdf) | 10 | Groff coordinating St. Thomas island holiday visit with Lutnick (Nov 2012); caretakers CC'd |
+| [EFTA01648946](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01648946.pdf) | 10 | FBI Prominent Names: Lutnick "Ponzi schemes and money laundering" allegation; "Epstein sold Lutnick a home for $10" |
+| [EFTA00020515](https://www.justice.gov/epstein/files/DataSet%208/EFTA00020515.pdf) | 8 | FBI NTOC complaint: ex-BGC/Cantor employee alleging Lutnick financial irregularities connected to Epstein |
+| [EFTA00173881](https://www.justice.gov/epstein/files/DataSet%209/EFTA00173881.pdf) | 9 | FBI Enterprise Vetting Center memo (Jan 2025) reviewing Lutnick; finding: "We did not open an investigation" |
+| [EFTA00462552](https://www.justice.gov/epstein/files/DataSet%209/EFTA00462552.pdf) | 9 | UJA Wall Street Dinner honoring Lutnick (Dec 2017) — invitation forwarded to Epstein by John Paulson |
+| HOUSE_OVERSIGHT_027694 | 99 | iMessage from Epstein's phone (May 13, 2019): "Trump is coming to Lutnick's house Thursday" |
+
+**AdFin co-investment:** Epstein invested in AdFin Solutions Inc. through Southern Trust; Lutnick invested through Cantor Ventures. David Mitchell coordinated. The investment is documented across multiple EFTAs including [EFTA01900078](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01900078.pdf), [EFTA01746858](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01746858.pdf), [EFTA02097521](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02097521.pdf).
+
+**Top 5 questions:**
+1. You visited Epstein's island in December 2012. Who else was present? What did you observe?
+2. The FBI Prominent Names page says Epstein sold you a home for $10. Explain this transaction.
+3. You and Epstein co-invested in AdFin Solutions through separate LLCs. Did you know Southern Trust was Epstein's entity?
+4. The iMessage from Epstein's phone says "Trump is coming to Lutnick's house Thursday" (May 13, 2019). Describe the event.
+5. Why did you characterize your relationship as "limited interaction" when the corpus documents 247 references spanning 8 years?
+
+---
+
+### BILL GATES — May 19, 2026
+
+→ Full profile: [Section 3.24](#324-bill-gates--microsoft)
+
+### SARAH KELLEN — June 3, 2026 (voluntary request)
+
+→ Full profile: [Section 3.5](#35-sarah-kellen--kensington--schedulerco-conspirator)
+
+### LESLEY GROFF — June 9, 2026 (voluntary request)
+
+→ Full profile: [Section 3.1](#31-lesley-groff--executive-assistant-25-years)
+
+### LEON BLACK — TBD (voluntary, agreed)
+
+→ Full profile: [Section 3.17](#317-leon-black--apollo-global-management-168m-to-epstein)
+
+### KATHRYN RUEMMLER — TBD (voluntary, agreed)
+
+→ Full profile: [Section 3.16](#316-kathryn-ruemmler--white-house-counsel--epstein-trustee--goldman-sachs-gc)
+
+### DOUG BAND — TBD (voluntary, requested)
+
+→ Full profile: [Section 3.33](#333-doug-band--clinton-foundation)
+
+### TED WAITT — TBD (voluntary, requested)
+
+→ Full profile: [Section 3.49](#349-tom-pritzker--hyatt-hotels) *(see Clinton section for Waitt evidence)*
+
+---
+
 # PART 3: THE EVIDENCE INVENTORY
 
 Organized by priority tier. Every witness entry includes: location, subpoena status, documentary evidence with EFTA citations, recommended questions, and likely obstacles.
