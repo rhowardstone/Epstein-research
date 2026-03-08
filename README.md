@@ -18,6 +18,10 @@ Every factual claim in these reports traces back to specific EFTA document numbe
 **This is not opinion or speculation.** These reports synthesize what the documents themselves say, with sourcing. Where conclusions are drawn, the supporting evidence chain is cited. Where evidence is ambiguous, that is noted. If you notice any problems, please raise an ISSUE on this repository and it will be attended to promptly.
 
 ---
+### Install the full AI-powered Investigator
+You can also install my full Claude-powered Epstein Investigator setup yourself, by following the directions for the: [desktop install](https://epstein-data.com/investigate), or [CLI version](https://epstein-data.com/investigate_cli).
+
+---
 
 ### For Congressional Staff
 
