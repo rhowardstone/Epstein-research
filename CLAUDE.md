@@ -166,10 +166,28 @@ The searchable databases behind these reports: [rhowardstone/Epstein-research-da
 
 ---
 
+## Updating
+
+```bash
+# Pull new reports and data files
+git pull origin main
+```
+
+To check what's new on the remote **before** pulling:
+
+```bash
+git fetch origin main
+git log HEAD..origin/main --oneline
+```
+
+Always fetch from the remote before reporting what's changed — your local checkout may be behind.
+
+---
+
 ## Read-Only Distribution
 
 These repositories are distributed read-only. If you cloned them to investigate locally:
 
 - **Do not push, create branches, or submit pull requests.** Your copy is for local research only.
-- **Pull updates** with `git pull origin main` to get new reports and data.
+- **Pull updates** with `git pull origin main` to get new reports.
 - **All your work stays local.** Write findings to your own files outside the repo, or in a gitignored directory.
