@@ -50,6 +50,57 @@ Before publishing, web search every major finding to determine whether it has be
 
 ---
 
+## External Article Fact-Check Protocol
+
+When fact-checking an external article (journalist, Substack, researcher), use a five-table reconciliation structure. This catches errors that a claim-by-claim review misses — conflated addresses, reversed transactions, sourcing gaps.
+
+### Step 1: Extract Every Factual Claim
+
+Read the article and extract every assertion of fact: names, dates, amounts, quotes, relationships, events. Use exact wording. Do not summarize.
+
+### Step 2: Corpus Search + External Verification
+
+For each claim, run three checks:
+
+1. **Corpus search**: FTS5 + LIKE queries on `full_text_corpus.db`. Record EFTA numbers and page numbers.
+2. **External verification**: Web search for independent reporting, court filings, public records. Record URLs.
+3. **Cross-reference**: Check if corpus and external sources agree, and whether the article's characterization matches the underlying evidence.
+
+### Step 3: Build the Five Reconciliation Tables
+
+| Table | Contents | Purpose |
+|-------|----------|---------|
+| **Table 1: CONFIRMED** | Claims that are correct; our EFTA cite or external source | Shows what's solid ground |
+| **Table 2: ERRORS** | Claims that are factually wrong, with the correct facts and source | Identifies what must be fixed |
+| **Table 3: UNVERIFIED** | Claims we can't confirm or deny from available evidence | Shows sourcing limits |
+| **Table 4: THINGS WE HAVE THAT THE ARTICLE DOESN'T** | Corpus findings the article missed | Identifies what a proper report would add |
+| **Table 5: SOURCE DEEP DIVE** | Detailed inventory of source documents, what exists vs. what's missing | Shows methodological completeness |
+
+Each row should include: claim text, verdict, EFTA source (if any), external source (if any), and notes on nuance.
+
+### Step 4: Reconcile Contested Claims
+
+For each UNVERIFIED or INCORRECT claim, write a reconciliation section explaining:
+
+- What the article claims (exact wording)
+- What the corpus shows
+- What external sources show
+- Possible explanations for the discrepancy
+- What additional evidence would resolve it
+
+### Step 5: Viability Assessment
+
+Summarize: Could we write a properly-cited version of this article? Break it into:
+
+- **Strong ground**: Claims backed by corpus primary sources (EFTA documents)
+- **Solid ground**: Claims backed by external reporting but not in corpus
+- **Weak ground**: Claims that would need to be hedged, softened, or dropped
+- **New findings**: Evidence we have that the original article missed
+
+This structure makes it clear whether a topic merits a full investigation report, and exactly where the sourcing work is already done vs. still needed.
+
+---
+
 ## Witness/Person Briefing Algorithm
 
 For deep-dive reports on specific individuals:
