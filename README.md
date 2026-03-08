@@ -11,7 +11,7 @@ The content is intended **only for people 18+**, and only **at your own peril**.
 
 ### About This Repository
 
-This repository contains 160+ forensic analysis reports derived from the U.S. Department of Justice's release of Jeffrey Epstein investigation files — 218 GB across 12 datasets (plus FBI Vault and House Oversight materials), comprising 1,385,916 documents (2,791,400 pages), plus 3,226 non-PDF native files (video, audio, spreadsheets). The analysis involved full-text extraction and FTS5 indexing of every page, 2,587,102 redaction records, 1,530 audio/video transcripts, a 1,536-person entity registry, and cross-referenced entity relationships (524 entities, 2,096 connections).
+This repository contains 165+ forensic analysis reports derived from the U.S. Department of Justice's release of Jeffrey Epstein investigation files — 218 GB across 12 datasets (plus FBI Vault and House Oversight materials), comprising 1,385,916 documents (2,771,231 pages), plus 3,864 non-PDF native files (video, audio, spreadsheets). The analysis involved full-text extraction and FTS5 indexing of every page, 2,587,102 redaction records, 1,628 audio/video transcripts, a 1,614-person entity registry, and cross-referenced entity relationships (606 entities, 2,302 connections).
 
 Every factual claim in these reports traces back to specific EFTA document numbers (Epstein Files Task Force Archive). Click any linked EFTA number to attempt to view the original PDF on justice.gov.
 
@@ -57,7 +57,7 @@ Early investigation syntheses, gap detection, hidden domain analysis, and congre
 
 ---
 
-### Financial Forensics — 19 reports
+### Financial Forensics — 20 reports
 [`financial/`](financial/)
 
 Forensic accounting of Epstein's financial architecture: 95+ shell entities, $755M+ traced, Deutsche Bank KYC failures, Haze Trust drawdown, the Leon Black art-money pipeline, and post-death estate disposition. Highlights:
@@ -67,7 +67,7 @@ Forensic accounting of Epstein's financial architecture: 95+ shell entities, $75
 
 ---
 
-### Named Individuals — 27 reports
+### Named Individuals — 28 reports
 [`individuals/`](individuals/)
 
 Investigation dossiers on specific named persons in the Epstein corpus. Covers prosecution failures, financial entanglements, corroborated victim testimony, and de-redacted identities. Highlights:
@@ -94,17 +94,19 @@ Israeli intelligence links, FBI Confidential Human Source reports, Ehud Barak's 
 
 ---
 
-### Institutional Failures — 17 reports
+### Institutional Failures — 19 reports
 [`institutional/`](institutional/)
 
-How institutions failed, enabled, or actively participated: prosecution failures, DOJ document removals, CBP corruption, secondary Bates stamp analysis revealing 1.46M pages withheld, FBI 302 missing serials, German financial network architecture, USVI financial services legislation, DEA/OCDETF connections, and more. Highlights:
-- [DOJ Document Removal Audit](institutional/DOJ_DOCUMENT_REMOVAL_AUDIT.md) — 68,000+ PDFs removed from justice.gov after initial publication
+How institutions failed, enabled, or actively participated: prosecution failures, DOJ document removals and alterations, CBP corruption, secondary Bates stamp analysis revealing 1.46M pages withheld, FBI 302 missing serials, German financial network architecture, USVI financial services legislation, DEA/OCDETF connections, and more. Highlights:
+- [DOJ Document Alteration Forensics](institutional/DOJ_DOCUMENT_ALTERATION_FORENSICS.md) — 212,730 change units detected: names removed, emails deleted, surveillance records altered after publication
+- [DOJ Document Removal Audit](institutional/DOJ_DOCUMENT_REMOVAL_AUDIT.md) — ~64,259 PDFs removed from justice.gov after initial publication (67,784 confirmed 404, adjusted for ~5% false-positive rate)
 - [Secondary Bates Stamp Analysis](institutional/SECONDARY_BATES_STAMP_ANALYSIS.md) — six pre-production numbering systems reveal 57% of FBI device extractions never made it into the public release
+- [DS12 Expansion Analysis](institutional/DS12_EXPANSION_ANALYSIS.md) — 23 new documents quietly added to justice.gov in March 2026, including the proposed 60-count indictment that became the NPA
 - [CBP Corruption](institutional/CBP_CORRUPTION_INVESTIGATION.md) — de-redacted the officer who cleared Epstein's aircraft at St. Thomas for 7+ years
 
 ---
 
-### Evidence & Digital Forensics — 12 reports
+### Evidence & Digital Forensics — 13 reports
 [`evidence/`](evidence/)
 
 Device forensics (70+ devices, a 2005 computer image never examined by federal authorities), Apple Mail PLIST metadata, corrupted PDF byte-level recovery, FBI evidence binder analysis, MCC death investigation evidence, and online evidence trails. Highlights:
@@ -154,7 +156,7 @@ Exhaustive corpus searches for popular internet theories: Pizzagate, satanic rit
 
 ---
 
-### Methodology & Data Quality — 14 reports
+### Methodology & Data Quality — 12 reports + 2 audits
 [`methodology/`](methodology/) and [`audits/`](audits/)
 
 Evidence chain documentation, redaction analysis, data quality audits, lead verification, and corrections. Start with:
@@ -211,13 +213,13 @@ All analysis was performed locally against databases derived from the raw PDF co
 
 | Database | Size | Records | Contents |
 |----------|------|---------|----------|
-| full_text_corpus.db | 6.3 GB | 1,385,916 docs / 2,791,400 pages | Full text of every page of every document (PyMuPDF extraction + invisible OCR text layers) |
-| redaction_analysis_v2.db | 0.95 GB | 2,587,102 redactions / 638,416 docs | Spatial redaction analysis with text at each redaction's coordinates |
-| transcripts.db | 2.5 MB | 1,530 entries (375 with speech) | GPU-transcribed audio/video (faster-whisper large-v3 on A100) |
-| persons_registry.json | — | 1,536 persons | Unified entity registry from 3 sources |
-| knowledge_graph.db | — | 524 entities / 2,096 connections | Cross-referenced entity relationships |
+| full_text_corpus.db | 6.3 GB | 1,385,916 docs / 2,771,231 pages | Full text of every page of every document (PyMuPDF extraction + invisible OCR text layers) |
+| redaction_analysis_v2.db | 0.95 GB | 2,587,102 redactions / 849,655 docs | Spatial redaction analysis with text at each redaction's coordinates |
+| transcripts.db | 2.5 MB | 1,628 entries (435 with speech) | GPU-transcribed audio/video (faster-whisper large-v3 on A100) |
+| persons_registry.json | — | 1,614 persons | Unified entity registry from 9 sources |
+| knowledge_graph.db | — | 606 entities / 2,302 connections | Cross-referenced entity relationships |
 
-**[NATIVE_FILES_CATALOG.csv](NATIVE_FILES_CATALOG.csv)** — Complete inventory of all 3,226 non-PDF native files (video, audio, spreadsheets, images) across the DOJ release. Every non-PDF file has a corresponding PDF placeholder on DOJ; native files include 419 MCC surveillance videos (412+ hours), grand jury audio, prison phone calls, FBI interview recordings, and financial spreadsheets.
+**[NATIVE_FILES_CATALOG.csv](NATIVE_FILES_CATALOG.csv)** — Complete inventory of all 3,864 non-PDF native files (video, audio, spreadsheets, images) across the DOJ release. Every non-PDF file has a corresponding PDF placeholder on DOJ; native files include MCC surveillance videos, grand jury audio, prison phone calls, FBI interview recordings, and financial spreadsheets.
 
 For the complete evidence chain — what data exists, where it came from, and how to verify any finding — see [Corpus Inventory](methodology/CORPUS_INVENTORY.md).
 
