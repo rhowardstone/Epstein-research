@@ -460,6 +460,10 @@ The most prosecution-ready co-conspirators (Kellen, Marcinkova) were also victim
 | [EFTA00191587](https://www.justice.gov/epstein/files/DataSet%209/EFTA00191587.pdf) | Third Supplement to Prosecution Memorandum (2/19/08) -- victim deletions |
 | [EFTA01249021](https://www.justice.gov/epstein/files/DataSet%209/EFTA01249021.pdf) | FBI 302 -- "lent out" testimony re Dubins (8 pages, 9/9/2019) |
 
+### Related Reports
+
+- [MCC Inmate Witness Interviews](../evidence/MCC_INMATE_WITNESS_INTERVIEWS.md) — All 14 FBI inmate interviews documenting the guard negligence that led to the Noel/Thomas charges analyzed in Part II of this report.
+
 ---
 
 *Analysis compiled from forensic review of primary document text database, Dataset 10 document text database, OCR text extraction database, and full text corpus (all 12 datasets)*

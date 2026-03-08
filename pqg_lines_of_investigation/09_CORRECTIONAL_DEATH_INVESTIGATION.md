@@ -197,6 +197,12 @@ All citations reference documents in the DOJ EFTA production, accessible at `htt
 | [EFTA00079269](https://www.justice.gov/epstein/files/DataSet%209/EFTA00079269.pdf) | Representative MCC institutional subpoena (7 clauses) |
 | [EFTA01687787](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01687787.pdf) | Internal BOP email chains (post-death timeline editing, media inquiries) |
 
+### Related Reports
+
+- [MCC Inmate Witness Interviews](../evidence/MCC_INMATE_WITNESS_INTERVIEWS.md) — All 14 FBI inmate interviews from Case 90A-NY-3151227, recovered via multimodal image analysis. The witness testimony these subpoenas were meant to produce.
+- [Death Investigation Document Removal](../institutional/DEATH_INVESTIGATION_DOCUMENT_REMOVAL.md) — 3,034 pages of removed death investigation records, including the FBI FD-302 serial containing these interviews.
+- [4chan Paramedic Leak Investigation](../evidence/FOUR_CHAN_PARAMEDIC_INVESTIGATION.md) — Death-night digital evidence trail and guards' criminal case.
+
 ---
 
 *This dossier is part of the Prosecutorial Query Graph Lines of Investigation series. See [00_INDEX.md](00_INDEX.md) for methodology and the complete list of dossiers.*
