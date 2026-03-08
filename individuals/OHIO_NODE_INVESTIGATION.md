@@ -473,8 +473,8 @@ The Ohio Node series describes the Weyerhaeuser position as "10,000 shares." Cor
 ## 8. Methodology
 
 ### Databases Searched
-- `full_text_corpus.db` (6.3 GB): 1,385,879 documents, 2,770,154 pages. FTS5 and LIKE queries on all search terms.
-- `concordance_complete.db` (729 MB): Cross-reference metadata.
+- [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v5.0) (6.3 GB): 1,385,879 documents, 2,770,154 pages. FTS5 and LIKE queries on all search terms.
+- [`concordance_complete.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v5.1) (729 MB): Cross-reference metadata.
 - Existing investigation reports (168 reports across both repositories).
 
 ### External Sources
