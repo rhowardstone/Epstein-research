@@ -8,6 +8,19 @@ These reports are the analysis layer. The underlying data — searchable databas
 
 ---
 
+## First Session Bootstrap
+
+If this is your first time working with these files:
+
+1. **Read [METHODOLOGY.md](METHODOLOGY.md) and [WRITING_GUIDE.md](WRITING_GUIDE.md).** These contain the investigation pipeline, fact-checking rules, and writing standards. Memorize the key points.
+2. **Note the absolute paths** to both this repo and the companion data repo in your memories.
+3. **Verify database setup** by running the verification query in the data repo's CLAUDE.md.
+4. **Store a directory structure index** in your memories so you can navigate reports without re-scanning.
+
+These auxiliary files are kept separate from CLAUDE.md to save context window tokens. Read them once, internalize the rules, and refer back when needed.
+
+---
+
 ## Directory Map
 
 ### `overview/` — Start here (10 reports)
@@ -150,3 +163,13 @@ Or use this boundary table:
 ## Companion Repository
 
 The searchable databases behind these reports: [rhowardstone/Epstein-research-data](https://github.com/rhowardstone/Epstein-research-data) — 6.3 GB full-text corpus with FTS5 search, concordance metadata, redaction analysis, image descriptions, audio transcripts, and more. See that repo's CLAUDE.md for setup instructions and a SQL query cookbook.
+
+---
+
+## Read-Only Distribution
+
+These repositories are distributed read-only. If you cloned them to investigate locally:
+
+- **Do not push, create branches, or submit pull requests.** Your copy is for local research only.
+- **Pull updates** with `git pull origin main` to get new reports and data.
+- **All your work stays local.** Write findings to your own files outside the repo, or in a gitignored directory.
