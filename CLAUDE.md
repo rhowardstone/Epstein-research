@@ -113,15 +113,17 @@ grep -rl "EFTA01688067" --include="*.md" .
 
 ---
 
-## EFTA Document Links
+## Accessing Original PDFs
 
-Every EFTA number cited in these reports can be opened as a PDF on justice.gov:
+Every EFTA number cited in these reports can be opened as a PDF. The DOJ is the canonical source (requires age gate); two independent mirrors serve byte-identical raw PDFs with no gate.
 
-```
-https://www.justice.gov/epstein/files/DataSet%20{N}/EFTA{NUMBER}.pdf
-```
+| Source | URL Template | Notes |
+|--------|-------------|-------|
+| **DOJ** | `justice.gov/epstein/files/DataSet%20{N}/EFTA{NUMBER}.pdf` | Canonical. Requires dataset number + age gate. |
+| **RollCall** | `media-cdn.rollcall.com/epstein-files/EFTA{NUMBER}.pdf` | Raw PDF, no gate, no dataset needed. Full coverage. |
+| **Kino/JDrive** | `assets.getkino.com/documents/EFTA{NUMBER}.pdf` | Raw PDF, no gate. Missing DS12. |
 
-To find the correct dataset number, use the companion data repo's database:
+To find the correct dataset number for DOJ URLs, use the companion data repo's database:
 
 ```sql
 sqlite3 full_text_corpus.db "SELECT dataset FROM documents WHERE efta_number = 'EFTA00074206';"
