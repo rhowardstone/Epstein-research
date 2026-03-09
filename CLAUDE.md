@@ -121,7 +121,9 @@ Every EFTA number cited in these reports can be opened as a PDF. The DOJ is the 
 |--------|-------------|-------|
 | **DOJ** | `justice.gov/epstein/files/DataSet%20{N}/EFTA{NUMBER}.pdf` | Canonical. Requires dataset number + age gate. |
 | **RollCall** | `media-cdn.rollcall.com/epstein-files/EFTA{NUMBER}.pdf` | Raw PDF, no gate, no dataset needed. Full coverage. |
-| **Kino/JDrive** | `assets.getkino.com/documents/EFTA{NUMBER}.pdf` | Raw PDF, no gate. Missing DS12. |
+| **Kino/JDrive** | `assets.getkino.com/documents/EFTA{NUMBER}.pdf` | Raw PDF, no gate. DS1-7 + DS9-11. Missing DS12. |
+| **Kino/JDrive (DS8)** | `assets.getkino.com/documents/vol00008-official-doj-latest-efta{number}.pdf` | DS8 uses different naming. Note **lowercase** `efta`. |
+| **JMail Viewer** | `jmail.world/drive/EFTA{NUMBER}.pdf` (or `vol00008-...` for DS8) | Formatted viewer. Uses Kino CDN. |
 
 To find the correct dataset number for DOJ URLs, use the companion data repo's database:
 
