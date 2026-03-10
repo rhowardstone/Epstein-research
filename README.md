@@ -1,9 +1,9 @@
 # Epstein Files: Forensic Analysis Library
 ## Independent Analysis of the 218GB DOJ Jeffrey Epstein File Release
 
-Disclaimer: I am not an investigative journalist, I am a data scientist. *All* content within this repo must be taken with a grain of salt: it has not been independently verified by a human. It is primarily the result of Claude Opus 4.6 reviewing the searchable database I have established at: https://github.com/rhowardstone/Epstein-research-data
+Disclaimer: I am not an investigative journalist, I am a data scientist. *All* content within this repo (which feeds the frontend site at [epstein-data.com](https://epstein-data.com/)) must be taken with a grain of salt: it has not been independently verified by a human. It is primarily the result of Claude Opus 4.6 reviewing the searchable database I have established at: https://github.com/rhowardstone/Epstein-research-data
 
-Remember, there is a *reason* why journalists and investigators are so heavily trained and trusted. There are extensive protocols they take in order to ensure the information they put out is vetted. The average person does *not* have these skills. Do not reach *any* conclusions based solely on the content in this repo. The underlying data is available, and all source documents should be linked directly. If you see any inaccuracies, broken links, or anything else fishy - please don't hesitate to reach out by opening an issue.
+Remember, there is a *reason* why journalists and investigators are so heavily trained and trusted. There are extensive protocols they take in order to ensure the information they put out is vetted. The average person does *not* have these skills. Do not reach *any* conclusions based solely on the content in this repo. The underlying data is available, and all source documents should be linked directly. If you see any inaccuracies, broken links, or anything else fishy - please don't hesitate to reach out by opening an issue, or posting a comment at the end of the report on the website.
 
 Similarly, *please* remember to take care of yourself if you choose review these things. Be very careful when looking through this stuff. There is extensive training that people go through who do this for a living to make sure they properly self-care, decompress, and take breaks. It is *very* easy to get carried away, very easy to have emotional reactions. For example, data scientists who read CSAM-adjacent material are subject to mandatory maximum shift lengths, mandatory group therapy and debrief sessions with others who are going through the same data. Be good to yourself, be with friends, and **do not just pour through it without taking solid breaks**.
 
@@ -15,7 +15,7 @@ This repository contains 165+ forensic analysis reports derived from the U.S. De
 
 Every factual claim in these reports traces back to specific EFTA document numbers (Epstein Files Task Force Archive). Click any linked EFTA number to attempt to view the original PDF on justice.gov.
 
-**This is not opinion or speculation.** These reports synthesize what the documents themselves say, with sourcing. Where conclusions are drawn, the supporting evidence chain is cited. Where evidence is ambiguous, that is noted. If you notice any problems, please raise an ISSUE on this repository and it will be attended to promptly.
+**This is not opinion or speculation.** These reports synthesize what the documents themselves say, with sourcing. Where conclusions are drawn, the supporting evidence chain is cited. Where evidence is ambiguous, that is noted. If you notice any problems, please raise an ISSUE on this repository or post a comment on the report page at https://epstein-data.com/reports, and it will be attended to promptly.
 
 ---
 ### Install the full AI-powered Investigator
