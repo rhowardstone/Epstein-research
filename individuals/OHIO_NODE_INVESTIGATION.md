@@ -1,6 +1,6 @@
 # The Ohio Node: Jim Atkins, the Columbus Network, and Maxwell's Weyerhaeuser Position
 
-**Updated**: March 7, 2026
+**Updated**: March 10, 2026
 **Databases**: [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v5.0) (6.3 GB, 1.38M documents, 2.77M pages), [`concordance_complete.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v5.1) (729 MB)
 **Standard**: Every factual claim supported by EFTA document number with [justice.gov](https://www.justice.gov/epstein) URL, or external source URL
 **Methodology**: Full-text search (FTS5 + LIKE) across 2,770,154 pages; cross-reference with existing investigation reports; external source verification
@@ -35,15 +35,17 @@ The FD-302 records the second interview with the PROTECT SOURCE victim (Jane Doe
 
 Physical description: white male, gray hair, "big ears," hairy body. Possibly in his 50s in the early 1980s. Lived in Ohio. "Somehow associated with an Ohio university (unidentified); he may have been the Dean, or the 'money guy' at the school."
 
-**External identification**: An [obituary published by Keith Funeral and Cremation Services](https://www.keithfuneral.com/obituary/james-atkins) and [Legacy.com](https://www.legacy.com/us/obituaries/mcdowellnews/name/james-atkins-obituary?id=33079159) identifies **James "Jim" Wade Atkins** (born July 3, 1947, Marion, NC; died February 14, 2022, Preston Health Center, Bluffton, SC). The obituary confirms:
+**External identification**: A [1986 newspaper article](https://www.newspapers.com/image/841840976/?clipping_id=192604317) in *The Island Packet* (Hilton Head Island, SC; February 5, 1986, page 6; byline Nancy Rutter) identifies **Jimmy L. Atkins of Ohio** as the owner of the real estate company where the victim's mother worked, and as the person who filed criminal charges against her. The article reports that the SC Real Estate Commission found a shortage in the firm's escrow account — consistent with the FBI 302's description of Atkins helping the mother "fix her real estate books." The corporate entity was **Fort Mitchell Co.**, based in Fort Mitchell, Kentucky (directly across the Ohio River from Cincinnati).
 
-- **Military**: Army Security Agency, 1967-1971, one tour of duty in **Cu Chi, Vietnam** — a major Army base where ASA signals intelligence units ([16th RRU/372nd ASA Company, 303rd ASA Battalion](https://www.nasaa-home.org/1SIGNIT_&_ASA_History/history/ASA_Timeline_Vietnam.htm)) operated under 509th Radio Research Group / NSA operational command
-- **Education**: Attended **Ohio State University on the G.I. Bill**, graduating with a degree in business marketing — this is the "Ohio university" referenced in the FBI 302
-- **Employment**: **Weyerhaeuser Paper Company**, promoted from sales representative to regional manager over a 30-year career, managing plants in Nebraska, Ohio, Iowa, Virginia, and the Carolinas
-- **Residence**: Bluffton, SC (consistent with Hilton Head / Sea Islands area)
-- **Family**: Married Diane Gay Bergman, June 22, 1967; two sons including James Coran Atkins ([Court Atkins Group](https://courtatkins.com/team/james-c-atkins-aia-ncarb), architecture firm in Bluffton/Savannah)
+Florida corporate filings confirm Atkins as President and Director of two for-profit educational institutions in Cincinnati:
 
-**Age note**: Born 1947, Atkins would have been in his **mid-30s** in the early 1980s — not "in his 50s" as the victim recalled. Memory of age across four decades is commonly imprecise; the physical description (gray hair, big ears) and all other identifying details match.
+- **Betz College Inc.** — 7th & Vine Streets, Cincinnati, OH; [established November 30, 1977](https://florida.intercreditreport.com/company/betz-college-inc-839597); involuntarily dissolved December 16, 1981
+- **Betz Business School Inc.** — 630 Vine Street, Suite 202, Cincinnati, OH 45202; [established June 17, 1977](https://florida.intercreditreport.com/company/betz-business-school-inc-838620); involuntarily dissolved December 16, 1981
+- Both entities listed registered agent Joan Bush at 106 South Himes, Tampa, FL
+
+This matches the FBI 302 description of someone "associated with an Ohio university... may have been the Dean, or the 'money guy' at the school" — Atkins was not a dean at a traditional university but the **president of a for-profit college** in Cincinnati.
+
+**Previous identification (corrected)**: An earlier version of this report identified the subject as James "Jim" Wade Atkins (1947-2022) of Bluffton, SC, based on obituary matching. That identification was incorrect. While James Wade Atkins shared the Hilton Head area residence and an Ohio connection (he attended Ohio State on the G.I. Bill), he was a Weyerhaeuser Paper Company salesman — not an education administrator, real estate company owner, or person connected to the victim's mother's criminal case. The newspaper article's explicit identification of "Jimmy L. Atkins of Ohio" as the company owner, combined with the Betz College corporate records, supersedes the obituary match.
 
 - Owned or rented a residence on [redacted] Island (consistent with Hilton Head / Sea Islands, SC)
 - Described as a "rich prick [who would] throw his weight around and talk about money"
@@ -478,9 +480,9 @@ The Ohio Node series describes the Weyerhaeuser position as "10,000 shares." Cor
 - Existing investigation reports (168 reports across both repositories).
 
 ### External Sources
-- [Keith Funeral Services — James "Jim" Wade Atkins obituary](https://www.keithfuneral.com/obituary/james-atkins)
-- [Legacy.com — James Atkins obituary](https://www.legacy.com/us/obituaries/mcdowellnews/name/james-atkins-obituary?id=33079159)
-- [NASAA — ASA Narrative Timeline Vietnam](https://www.nasaa-home.org/1SIGNIT_&_ASA_History/history/ASA_Timeline_Vietnam.htm)
+- [*The Island Packet* — "Harbour Realty case continued again" (Feb 5, 1986, p. 6)](https://www.newspapers.com/image/841840976/?clipping_id=192604317) — identifies Jimmy L. Atkins of Ohio as owner of Harbour Realty & Rentals (via Fort Mitchell Co.) and filer of criminal charges against broker
+- [Florida corporate filing — Betz College Inc. (Jimmy L Atkins, President)](https://florida.intercreditreport.com/company/betz-college-inc-839597)
+- [Florida corporate filing — Betz Business School Inc. (Jimmy L Atkins, President)](https://florida.intercreditreport.com/company/betz-business-school-inc-838620)
 - [NBC4 Columbus — "Jeffrey Epstein made regular payments to Ohio State head of gynecology"](https://www.nbc4i.com/news/local-news/ohio-state-university/jeffrey-epstein-made-regular-payments-to-ohio-state-head-of-gynecology-records-show/)
 - [WOSU — "Ohio State OB-GYN received payments from Jeffrey Epstein's firm"](https://www.wosu.org/politics-government/2026-02-09/ohio-state-ob-gyn-received-payments-from-jeffrey-epsteins-firm-documents-show)
 - [WOSU — "Ohio State University says it is investigating OB-GYN"](https://www.wosu.org/politics-government/2026-02-16/ohio-state-university-says-it-is-investigating-ob-gyn-with-ties-to-jeffrey-epstein)
@@ -494,11 +496,10 @@ The Ohio Node series describes the Weyerhaeuser position as "10,000 shares." Cor
 - [NPR — JPMorgan $290M settlement](https://www.npr.org/2023/06/12/1181675580/epstein-jane-doe-1-290-million-settlement-jpmorgan-chase)
 - [NYDFS — Deutsche Bank $150M penalty](https://www.dfs.ny.gov/reports_and_publications/press_releases/pr202007071)
 - [NPR — Deutsche Bank $75M victim settlement](https://www.npr.org/2023/05/18/1176974676/deutsche-bank-settles-lawsuit-with-epstein-accusers-for-75-million)
-- [Court Atkins Group — James C. Atkins bio](https://courtatkins.com/team/james-c-atkins-aia-ncarb)
-- [Weyerhaeuser/IP 2008 asset sale (confirms Ohio/Carolinas plants)](https://investor.weyerhaeuser.com/2008-08-04-Weyerhaeuser-Completes-Sale-of-Assets-to-International-Paper)
+- [ClustrMaps — 630 Vine St, Cincinnati (Betz Business School address)](https://clustrmaps.com/a/6r9d2/)
 
 ### Search Terms
-Every name, entity, location, CUSIP, and keyword from the Ohio Node series was searched individually and in combination. Searches included: Jim Atkins, Atkins, Weyerhaeuser, Cecil, Kerney, Caplinger, New Albany, Landmark Land, Routch, Landon, Hilton Head, Sea Pines, Bluffton, Savannah, KSAV, Beaufort, South Carolina, Southern Air Transport, Bobby Ginn, Butcher, United Rentals, Bradley Jacobs, Strauss, Abercrombie, Jeffries, 962166 (CUSIP), gang stuff, power of attorney + Wexner.
+Every name, entity, location, CUSIP, and keyword from the Ohio Node series was searched individually and in combination. Searches included: Jim Atkins, Jimmy Atkins, Jimmy L. Atkins, Atkins, Betz College, Betz Business School, Fort Mitchell, Harbour Realty, Weyerhaeuser, Cecil, Kerney, Caplinger, New Albany, Landmark Land, Routch, Landon, Hilton Head, Sea Pines, Bluffton, Savannah, KSAV, Beaufort, South Carolina, Southern Air Transport, Bobby Ginn, Butcher, United Rentals, Bradley Jacobs, Strauss, Abercrombie, Jeffries, 962166 (CUSIP), gang stuff, power of attorney + Wexner.
 
 ### EFTA Verification
 All 10 EFTAs cited in the Ohio Node series were verified against the database for existence, dataset assignment, page count, and content. 9 of 10 verified as standalone documents; 1 (EFTA02731370) is a page-level Bates stamp within document EFTA02731361, and the cited text actually appears in a different document (EFTA02731420).
