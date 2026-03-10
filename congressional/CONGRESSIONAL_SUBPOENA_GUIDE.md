@@ -228,7 +228,7 @@ Co-executor, accountant, HBRK Associates principal. Managed entity balances ($15
 Bondi is NOT subpoenaed for personal involvement — she is subpoenaed for the DOJ's handling of the Epstein files release. She oversees the department that:
 - Removed ~64,259 documents from justice.gov after publication
 - Missed the statutory EFTA deadline by 42 days
-- Withheld 1.46 million pages that were reviewed, stamped, and numbered but never released ([Secondary Bates Stamp analysis](SECONDARY_BATES_STAMP_ANALYSIS.md))
+- Withheld 1.46 million pages that were reviewed, stamped, and numbered but never released ([Secondary Bates Stamp analysis](/reports/institutional/SECONDARY_BATES_STAMP_ANALYSIS.html))
 - Defunded OCDETF (May 2025), destroying institutional knowledge about Operation Chain Reaction
 - Closed the investigation with 14 unnamed co-conspirators and zero charges after 13 years
 
@@ -1849,7 +1849,7 @@ What Congress should subpoena beyond testimony.
 
 3. **All 149 FBI serials with zero published documents** — identified by cross-referencing the prosecution disclosure index ([EFTA00095751](https://www.justice.gov/epstein/files/DataSet%209/EFTA00095751.pdf)) against the corpus. The government's own records list these serials as existing; none appear in the public production.
 
-4. **The 1.46 million withheld pages** — identified by our [Secondary Bates Stamp analysis](SECONDARY_BATES_STAMP_ANALYSIS.md). Two trackable numbering systems (EFTA_R1_ and EFTA_) reveal 1,464,217 pages that were reviewed, stamped, and sequenced but not included in the public release. Combined withholding rate: 58.9%.
+4. **The 1.46 million withheld pages** — identified by our [Secondary Bates Stamp analysis](/reports/institutional/SECONDARY_BATES_STAMP_ANALYSIS.html). Two trackable numbering systems (EFTA_R1_ and EFTA_) reveal 1,464,217 pages that were reviewed, stamped, and sequenced but not included in the public release. Combined withholding rate: 58.9%.
 
 5. **853 pages of deleted phone records** — [EFTA01073204](https://www.justice.gov/epstein/files/DataSet%209/EFTA01073204.pdf), [EFTA01182476](https://www.justice.gov/epstein/files/DataSet%209/EFTA01182476.pdf).
 
@@ -2070,7 +2070,7 @@ Congress should demand complete CDRs from AT&T (account 0043811863) to reconstru
 
 ## 6.2 The 1.46 Million Withheld Pages
 
-Our [Secondary Bates Stamp analysis](SECONDARY_BATES_STAMP_ANALYSIS.md) identified two trackable numbering systems embedded in the published documents:
+Our [Secondary Bates Stamp analysis](/reports/institutional/SECONDARY_BATES_STAMP_ANALYSIS.html) identified two trackable numbering systems embedded in the published documents:
 
 | System | Pages reviewed | Pages released | Pages withheld | Rate |
 |--------|---------------|----------------|----------------|------|
@@ -2159,7 +2159,7 @@ Dataset numbers verified from `full_text_corpus.db` for every citation. The data
 # SEE ALSO
 
 - **[Missing FBI 302s: A Gap Analysis](FBI_302_MISSING_SERIALS_DOSSIER.md)** — The 136 interview serials, 3 with zero documents, and the 3501.045 case study showing >50% of sub-records missing
-- **[The Hidden Numbering System: Secondary Bates Stamps](SECONDARY_BATES_STAMP_ANALYSIS.md)** — How 1.46M pages were reviewed but withheld, across two trackable numbering systems
+- **[The Hidden Numbering System: Secondary Bates Stamps](/reports/institutional/SECONDARY_BATES_STAMP_ANALYSIS.html)** — How 1.46M pages were reviewed but withheld, across two trackable numbering systems
 - **[Prosecution Failures Analysis](PROSECUTION_FAILURES_ANALYSIS.md)** — The NPA immunity architecture, the narrowing pattern, and why no co-conspirator was charged
 - **[CBP Corruption Investigation](CBP_CORRUPTION_INVESTIGATION.md)** — Officer Routch, customs bypass, C-4 investigation
 - **[Phone Records Investigation](../evidence/PHONE_RECORDS_INVESTIGATION.md)** — 970 documents, Trump/Clinton calls, deleted records
