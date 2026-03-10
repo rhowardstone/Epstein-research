@@ -22,6 +22,7 @@
 !financial/*.md
 !individuals/
 !individuals/*.md
+!individuals/*.csv
 !victims/
 !victims/*.md
 !evidence/
