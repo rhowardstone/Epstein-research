@@ -1,7 +1,7 @@
 # FINAL INVESTIGATION REPORT
-# Forensic Analysis of the 218GB DOJ Jeffrey Epstein File Release
+# Systematic Analysis of the 218GB DOJ Jeffrey Epstein File Release
 
-> **Context:** This report was compiled on February 7, 2026 during the first two weeks of the investigation. It synthesizes findings available at that time. The project has since produced **150+ investigation reports** across 16 categories — including financial forensics, grand jury subpoena analysis, individual investigations, and government official searches that are not reflected here. For the complete catalog, see the [full report index](https://epstein-data.com/reports/).
+> **Context:** This report was compiled on February 7, 2026 during the first two weeks of the investigation. It synthesizes findings available at that time. The project has since produced **150+ investigation reports** across 16 categories — including financial analysis, grand jury subpoena analysis, individual investigations, and government official searches that are not reflected here. For the complete catalog, see the [full report index](https://epstein-data.com/reports/).
 
 **Classification:** INVESTIGATIVE SUMMARY
 **Date of Compilation:** February 7, 2026

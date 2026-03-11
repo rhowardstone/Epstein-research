@@ -61,7 +61,7 @@ Early investigation syntheses, gap detection, hidden domain analysis, and congre
 
 ---
 
-### Financial Forensics — 20 reports
+### Financial Analysis — 20 reports
 [`financial/`](financial/)
 
 Financial analysis of Epstein's financial architecture: 95+ shell entities, $755M+ traced, Deutsche Bank KYC failures, Haze Trust drawdown, the Leon Black art-money pipeline, and post-death estate disposition. Highlights:

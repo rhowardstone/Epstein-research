@@ -1,4 +1,4 @@
-# MASTER FORENSIC REPORT: DOJ EPSTEIN FILES
+# MASTER INVESTIGATION REPORT: DOJ EPSTEIN FILES
 # Consolidated Findings from Systematic Document Analysis
 
 > **Context:** This report was written on February 5–6, 2026, during the first week of the investigation. It covers findings from the initial redaction and text layer analysis. The project has since produced **150+ investigation reports** with substantially deeper analysis in every area covered here. For the complete catalog, see the [full report index](https://epstein-data.com/reports/).
