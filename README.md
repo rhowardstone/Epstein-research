@@ -1,4 +1,4 @@
-# Epstein Files: Forensic Analysis Library
+# Epstein Files: Investigation Report Library
 ## Independent Analysis of the 218GB DOJ Jeffrey Epstein File Release
 
 Disclaimer: I am not an investigative journalist, I am a data scientist. *All* content within this repo (which feeds the frontend site at [epstein-data.com](https://epstein-data.com/)) must be taken with a grain of salt: it has not been independently verified by a human. It is primarily the result of Claude Opus 4.6 reviewing the searchable database I have established at: https://github.com/rhowardstone/Epstein-research-data
@@ -11,7 +11,7 @@ The content is intended **only for people 18+**, and only **at your own peril**.
 
 ### About This Repository
 
-This repository contains 165+ forensic analysis reports derived from the U.S. Department of Justice's release of Jeffrey Epstein investigation files — 218 GB across 12 datasets (plus FBI Vault and House Oversight materials), comprising 1,385,916 documents (2,771,231 pages), plus 3,864 non-PDF native files (video, audio, spreadsheets). The analysis involved full-text extraction and FTS5 indexing of every page, 2,587,102 redaction records, 1,628 audio/video transcripts, a 1,614-person entity registry, and cross-referenced entity relationships (606 entities, 2,302 connections).
+This repository contains 165+ investigation reports derived from the U.S. Department of Justice's release of Jeffrey Epstein investigation files — 218 GB across 12 datasets (plus FBI Vault and House Oversight materials), comprising 1,385,916 documents (2,771,231 pages), plus 3,864 non-PDF native files (video, audio, spreadsheets). The analysis involved full-text extraction and FTS5 indexing of every page, 2,587,102 redaction records, 1,628 audio/video transcripts, a 1,614-person entity registry, and cross-referenced entity relationships (606 entities, 2,302 connections).
 
 Every factual claim in these reports traces back to specific EFTA document numbers (Epstein Files Task Force Archive). Click any linked EFTA number to attempt to view the original PDF on justice.gov.
 
@@ -64,9 +64,9 @@ Early investigation syntheses, gap detection, hidden domain analysis, and congre
 ### Financial Forensics — 20 reports
 [`financial/`](financial/)
 
-Forensic accounting of Epstein's financial architecture: 95+ shell entities, $755M+ traced, Deutsche Bank KYC failures, Haze Trust drawdown, the Leon Black art-money pipeline, and post-death estate disposition. Highlights:
+Financial analysis of Epstein's financial architecture: 95+ shell entities, $755M+ traced, Deutsche Bank KYC failures, Haze Trust drawdown, the Leon Black art-money pipeline, and post-death estate disposition. Highlights:
 - [Shell Entity Map](financial/SHELL_ENTITY_MAP.md) — complete map of 95+ entities across 10 categories under RM CODE 82289
-- [Black Art Machine](financial/TRANSACTION_CHAIN_BLACK_ART_MACHINE.md) — 15 forensic chains tracing $168M Black-to-Epstein, art pipeline and trafficking pipeline as one structure
+- [Black Art Machine](financial/TRANSACTION_CHAIN_BLACK_ART_MACHINE.md) — 15 transaction chains tracing $168M Black-to-Epstein, art pipeline and trafficking pipeline as one structure
 - [JABWCPA / Institution-1](financial/FORENSIC_ACCT_4_JABWCPA_INSTITUTION1.md) — de-redacted the FBI's pseudonymized CPA and bank via DS9
 
 ---
@@ -110,7 +110,7 @@ How institutions failed, enabled, or actively participated: prosecution failures
 
 ---
 
-### Evidence & Digital Forensics — 13 reports
+### Evidence & Digital Analysis — 13 reports
 [`evidence/`](evidence/)
 
 Device forensics (70+ devices, a 2005 computer image never examined by federal authorities), Apple Mail PLIST metadata, corrupted PDF byte-level recovery, FBI evidence binder analysis, MCC death investigation evidence, and online evidence trails. Highlights:
@@ -245,7 +245,7 @@ All processing scripts (36+ Python tools) used to build the databases live in th
 
 ## Disclaimer
 
-These reports constitute independent forensic analysis of publicly released government documents. They are not legal advice, not government publications, and not affiliated with any law enforcement agency. All findings are derived from documents released by the U.S. Department of Justice and are cited to specific EFTA document numbers that can be independently verified.
+These reports constitute independent analysis of publicly released government documents. They are not legal advice, not government publications, and not affiliated with any law enforcement agency. All findings are derived from documents released by the U.S. Department of Justice and are cited to specific EFTA document numbers that can be independently verified.
 
 Where the evidence is ambiguous or inconclusive, that is stated explicitly. Where claims from prior reporting were found to be incorrect upon verification, corrections are documented (see Lead Verification reports). Negative findings (searches that returned zero results) are reported with equal rigor to positive findings.
 
