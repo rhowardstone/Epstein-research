@@ -2,7 +2,7 @@
 
 A comprehensive directory of platforms, tools, and resources for searching, exploring, and analyzing the Jeffrey Epstein DOJ files released under the Epstein Files Transparency Act (EFTA), 2025-2026.
 
-Last updated: 2026-02-15
+Last updated: 2026-03-11
 
 ---
 
@@ -133,6 +133,7 @@ Last updated: 2026-02-15
 | Platform | URL | Description |
 |----------|-----|-------------|
 | **EpsteIn** (LinkedIn scanner) | [GitHub](https://github.com/cfinke/EpsteIn) | Scans your LinkedIn connections against the Epstein files. Local privacy. Uses DugganUSA API. Covered by 404 Media. |
+| **Unredact** | [GitHub](https://github.com/Alex-Gilbert/unredact) / [Video](https://www.youtube.com/watch?v=mKK9VPito-E) | Reverse-engineers redaction boxes using OCR, computer vision, and typography metrics to estimate redacted text. Open source. Creator: Alex Gilbert (ApgCodes). |
 | **DocETL Explorer** | [docetl.org](https://www.docetl.org/showcase/epstein-email-explorer) | AI analysis of 2,322 emails. Tone/topic analysis, entity extraction. Built for $8.04. |
 | **Epstein Files Browser** | [GitHub](https://github.com/RhysSullivan/epstein-files-browser) / [Live](https://epstein-files-browser.vercel.app/) | Browse/view files with celebrity recognition filtering. |
 
@@ -171,7 +172,7 @@ Last updated: 2026-02-15
 | Hugging Face Datasets | 6 |
 | Download/Archive Tools | 5 |
 | Archive.org Collections | 5 |
-| Specialty Tools | 3 |
+| Specialty Tools | 4 |
 | Community Hubs | 3 |
 | Guides/Meta-Resources | 5 |
-| **Total** | **78+** |
+| **Total** | **79+** |
