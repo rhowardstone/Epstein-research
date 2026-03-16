@@ -3,7 +3,7 @@
 ## Methodology
 
 This registry was compiled via:
-1. FTS5 full-text search of [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v5.0) (2.77M pages across 12 datasets + DS98/DS99)
+1. FTS5 full-text search of `full_text_corpus.db` (2.77M pages across 12 datasets + DS98/DS99)
 2. Cross-reference with [`persons_registry.json`](https://github.com/rhowardstone/Epstein-research-data/blob/main/persons_registry.json) (1,538 persons, 203 with aliases)
 3. Cross-reference with [`knowledge_graph.db`](https://epstein-data.com/knowledge_graph) (524 entities)
 4. Targeted pattern searches for: "also known as", "a/k/a", "codename", "alias", "pseudonym", "Mr.", "Mrs.", "Dr.", "The Invisible", "Master", "Maestro", "Uncle", "Bossman", etc.
@@ -374,6 +374,15 @@ In addition to Ann Rodriquez's "Bossman" (see above), other staff used "the boss
 ### "Super Sperm" — Maxwell to Prince Andrew
 
 - [EFTA02334330](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02334330.pdf) (DS11): Maxwell to "The Invisible Man": "Is it true you are having more children? I shall have to refer to you as **super sperm**!"
+
+### "Randy Andy" — Prince Andrew — CONFIRMED (widely known)
+
+Well-known British tabloid nickname for Prince Andrew, used within Epstein's circle:
+- [EFTA00098456](https://www.justice.gov/epstein/files/DataSet%209/EFTA00098456.pdf) (DS9) — Virginia Roberts declaration (Jan 21, 2015): "Epstein and Maxwell were making lewd jokes about '**Randy Andy**'" during second sexual encounter at 9 E 71st St, spring 2001
+- [EFTA01582921](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01582921.pdf) (DS10) — NY Post "Society Girl at Twits' End" (Dec 1, 2000): Maxwell's "relationship with '**Randy Andy**' is said to be platonic"
+- [EFTA01659446](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01659446.pdf) (DS10) — Steeple Times article: "50% now want **Randy Andy** banned from all royal events"
+
+Not a codename — a widely-known public nickname used in media and by Epstein/Maxwell as a sexual joke.
 
 ### "Russian Bomb" / "Atomic" — Young Woman's Workplace Nickname
 
@@ -896,6 +905,7 @@ Cross-referenced against mainstream media, Substacks, Reddit (r/epstein), and in
 | ProtonMail address inventory | Not compiled | 5 unique ProtonMail addresses + 3 key users documented | **Yes — completely original** |
 | Stein "Truth Robot LLC" | Not reported | Pseudonymous venture proposal with encrypted comms | **Yes — completely original** |
 | Deutsche Bank "Critical" risk | Known in broad terms | Continuous 2013–2019 monitoring, entity IDs, all aliases tracked | **Partially** |
+| "Randy Andy" = Prince Andrew | Widely known (tabloid nickname, used in Virginia Roberts declaration) | Documented with 3 EFTAs; Epstein/Maxwell used as sexual joke | No |
 | "Bubba" (disputed) | Widely reported (Snopes, NR, Advocate) | Mark Epstein denied Clinton reference | No |
 | "Boy Donald" | Reported (Defector, NBC) | Documented | No |
 | "The Duke" = Andrew display name | Reported ([Ellie Leonard](https://ellieleonard.substack.com/p/the-prince-andrew-emails-part-1)) | Corpus-verified with EFTAs + added to email handle table | No |

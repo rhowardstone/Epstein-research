@@ -466,12 +466,6 @@ Noel's attorney specifically asked "Who is the author of the 4Chan message produ
 
 9. **BOP suppression and prosecutorial deprioritization** are documented: Justin B. Long's "Do not reply to the reporter" order within hours, and an AUSA's "Don't worry about the 4chan records" email within 9 days.
 
-### Related Reports
-
-- [MCC Inmate Witness Interviews](MCC_INMATE_WITNESS_INTERVIEWS.md) — All 14 FBI inmate interviews recovered via multimodal image analysis of handwritten proffer notes. Provides the institutional eyewitness accounts of the death night that complement the digital evidence trail documented here.
-- [Death Investigation Document Removal](../institutional/DEATH_INVESTIGATION_DOCUMENT_REMOVAL.md) — 3,034 pages of removed death investigation records.
-- [PQG 09: Correctional Death Investigation](../pqg_lines_of_investigation/09_CORRECTIONAL_DEATH_INVESTIGATION.md) — Grand jury subpoena analysis for MCC staff.
-
 ---
 
 *Report compiled from forensic analysis of 4 databases containing 1.8M+ redaction records, 38K OCR records, 20K analyzed images, and 532MB of supplemental redaction data.*

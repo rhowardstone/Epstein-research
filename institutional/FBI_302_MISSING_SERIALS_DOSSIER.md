@@ -295,7 +295,7 @@ EFTA01684300, while using a different numbering system, reveals several categori
 
 ## Programmatic Corpus Search: All 136 Interview Serials
 
-A Python script searched all 2,770,154 pages of the corpus for documents stamped with each of the 136 interview serial numbers. Runtime: ~10 minutes. Full results in [`fbi_302_gap_analysis.json`](https://github.com/rhowardstone/epstein-research/blob/main/institutional/fbi_302_gap_analysis.json).
+A Python script searched all 2,770,154 pages of the corpus for documents stamped with each of the 136 interview serial numbers. Runtime: ~10 minutes. Full results in `fbi_302_gap_analysis.json`.
 
 ### High-Level Results
 
@@ -357,6 +357,8 @@ The prosecution disclosure index (EFTA00095751) *should* tell us exactly how man
 
 **What we CAN say**: The corpus search found **6 actual documents** for 3501.045, and our manual verification confirmed that **7 of 15 sub-records** exist as EFTA documents (the 7th — EFTA01245632, the crisis intake — didn't have "3501.045" in its OCR text, so the script missed it). That means **8 of 15 are missing**.
 
+**[UPDATE — March 5, 2026]:** The DS12 expansion published the 3 missing Interview 302s for serial 3501.045 ([EFTA02858481](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02858481.pdf), [EFTA02858491](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02858491.pdf), [EFTA02858495](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02858495.pdf)). The interview gap for this serial is now closed (10 of 15 sub-records published; 5 remaining items are agent notes and grand jury transcripts). This is the only victim serial for which the interview gap was addressed. See [DS12 Expansion Analysis](DS12_EXPANSION_ANALYSIS.md).
+
 A reliable full gap analysis would require either:
 1. Better OCR of EFTA00095751 (the original PDF is available at justice.gov)
 2. Manual review of all 63 pages
@@ -367,7 +369,7 @@ A reliable full gap analysis would require either:
 ## Methodology
 
 ### Data Sources
-- **Full text corpus database** ([`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v5.0)): 1,385,879 documents, 2,770,154 pages — FTS5 indexed
+- **Full text corpus database** (`full_text_corpus.db`): 1,385,879 documents, 2,770,154 pages — FTS5 indexed
 - All three index documents read in full from the database, page by page
 
 ### Search Approach
@@ -387,7 +389,9 @@ A reliable full gap analysis would require either:
 
 ### The Proven Gap (3501.045)
 
-For the one serial we audited manually, **more than half the records are missing**. The FBI's own disclosure index says 15 sub-records were produced to the Maxwell defense team. Only 7 appear in the EFTA production. The 3 missing FD-302 interview reports represent 3 separate FBI interviews with this victim — on June 7, August 20, and October 16, 2019 — that were conducted, documented, produced to the defense, and then not included in the public release.
+For the one serial we audited manually, **more than half the records were originally missing**. The FBI's own disclosure index says 15 sub-records were produced to the Maxwell defense team. Only 7 appeared in the initial EFTA production.
+
+**[UPDATE — March 5, 2026]:** The DS12 expansion published the 3 missing Interview 302s, bringing the count to 10 of 15 sub-records published. The interview gap for this serial is now fully closed. The 5 remaining unpublished items are agent notes (3501.045-002/-004/-006) and grand jury transcripts. This is the only victim serial for which the interview gap was addressed — all other serials retain their original gaps.
 
 ### The Scale of the Problem
 
@@ -427,4 +431,4 @@ The disclosure index explicitly notes it is "SUBJECT TO PROTECTIVE ORDER PARAGRA
 
 ---
 
-*All EFTA references link to documents in the DOJ's Epstein Files Transparency Act release at [justice.gov/epstein](https://www.justice.gov/epstein). Database queries run against [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v5.0) (2,770,154 pages). This analysis relies on Claude Code running Opus 4.6, which can make mistakes.*
+*All EFTA references link to documents in the DOJ's Epstein Files Transparency Act release at [justice.gov/epstein](https://www.justice.gov/epstein). Database queries run against `full_text_corpus.db` (2,770,154 pages). This analysis relies on Claude Code running Opus 4.6, which can make mistakes.*

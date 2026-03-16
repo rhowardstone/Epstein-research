@@ -5,14 +5,11 @@
 
 # Root files
 !README.md
-!CLAUDE.md
-!METHODOLOGY.md
-!WRITING_GUIDE.md
+!CONGRESSIONAL_READING_GUIDE.md
 !NATIVE_FILES_CATALOG.csv
 !COMMUNITY_PLATFORMS.md
 !FRENCH_CONNECTION_INVESTIGATION.md
 !.gitignore
-!LICENSE
 
 
 # Category folders and their .md contents
@@ -22,23 +19,20 @@
 !financial/*.md
 !individuals/
 !individuals/*.md
-!individuals/*.csv
 !victims/
 !victims/*.md
 !evidence/
 !evidence/*.md
-!evidence/phone_records_redaction_crossref.csv
-!evidence/phone_records_inventory.json
 !intelligence/
 !intelligence/*.md
 !institutional/
 !institutional/*.md
-!institutional/*.csv
-!institutional/fbi_302_gap_analysis.json
 !art/
 !art/*.md
 !methodology/
 !methodology/*.md
+!congressional/
+!congressional/*.md
 !internet-theories/
 !internet-theories/*.md
 !raw-dataset-analysis/
@@ -49,8 +43,6 @@
 !scientists/*.md
 !audits/
 !audits/*.md
-!congressional/
-!congressional/*.md
 !social-networks/
 !social-networks/*.md
 !pqg_lines_of_investigation/

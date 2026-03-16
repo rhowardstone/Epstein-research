@@ -1,4 +1,4 @@
-# MASTER INVESTIGATION REPORT: DOJ EPSTEIN FILES
+# MASTER FORENSIC REPORT: DOJ EPSTEIN FILES
 # Consolidated Findings from Systematic Document Analysis
 
 > **Context:** This report was written on February 5–6, 2026, during the first week of the investigation. It covers findings from the initial redaction and text layer analysis. The project has since produced **150+ investigation reports** with substantially deeper analysis in every area covered here. For the complete catalog, see the [full report index](https://epstein-data.com/reports/).
@@ -61,7 +61,7 @@ A analysis process using PDF analysis tools was used to:
 - **Medium confidence:** Partial text with OCR artifacts but recoverable meaning
 - **Low confidence:** Fragmentary characters that may represent OCR noise rather than actual redacted content
 
-The analysis focused on high and medium confidence extractions (hidden_text length > 3 characters). The corpus is useful for keyword searches identifying which documents mention specific terms. However, the vast majority of extracted text is OCR noise rather than genuinely exposed content. The 12 genuinely failed redaction overlays (exposing PLIST metadata) are documented separately in [PLIST_REDACTED_EMAILS_DEEP_DIVE.md](../evidence/PLIST_REDACTED_EMAILS_DEEP_DIVE.md).
+The analysis focused on high and medium confidence extractions (hidden_text length > 3 characters). The corpus is useful for keyword searches identifying which documents mention specific terms. However, the vast majority of extracted text is OCR noise rather than genuinely exposed content. The 12 genuinely failed redaction overlays (exposing PLIST metadata) are documented separately in [PLIST_REDACTED_EMAILS_DEEP_DIVE.md](/evidence/PLIST_REDACTED_EMAILS_DEEP_DIVE.md).
 
 ### 1.3 Limitations
 
@@ -187,7 +187,7 @@ The Haze Trust (Account N4G024943) held $49.5M in June 2018 and was drained to a
 | 10/03/2018 | $12,690,279.36 | **-$22,892,821** |
 | 11/14/2018 | $2,503,667.84 | **-$10,186,612** |
 
-A single debit of **$21,077,720.73** ([EFTA01427435](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01427435.pdf)) was flagged as a "LARGE TRANSACTION" -- roughly 50% of the total drawdown in one move.
+A daily deposit report dated September 2, 2017 ([EFTA01427435](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01427435.pdf)) shows Southern Trust Company Inc. carrying a balance of **$21,077,720.73**, listed under "LARGE, ZERO AND NEGATIVE BALANCES" for RM CODE 82289. This is a balance snapshot, not a single transaction, but it captures the account at roughly 50% of the total drawdown amount.
 
 ### 4.2 Where the Money Went
 
@@ -279,7 +279,7 @@ AML alerts on the Haze Trust reached the **"URGENT - THIRD REQUEST!!!!!"** level
 | November 28, 2018 | Miami Herald publishes "Perversion of Justice" |
 | July 6, 2019 | Epstein arrested |
 | Post-arrest 2019 | SAR finally filed covering 25 subjects |
-| January 2023 | Deutsche Bank pays $75M settlement to victims |
+| May 2023 | Deutsche Bank pays $75M settlement to victims |
 
 ### 6.4 Paul Barrett: Economic Partner, Not Merely a Banker
 
@@ -292,7 +292,7 @@ AML alerts on the Haze Trust reached the **"URGENT - THIRD REQUEST!!!!!"** level
 - **Zero compliance flags raised** during his institutional tenure
 - Post-DB: founded Alpha Group Capital LLC with direct Epstein financial backing
 
-**[Full details: [INVESTIGATION_2_DB_KYC_BREACH.md](../financial/INVESTIGATION_2_DB_KYC_BREACH.md), INVESTIGATION_7_BARRETT_REPORTS.md]**
+**[Full details: [INVESTIGATION_2_DB_KYC_BREACH.md](/financial/INVESTIGATION_2_DB_KYC_BREACH.md), INVESTIGATION_7_BARRETT_REPORTS.md]**
 
 ---
 
@@ -328,7 +328,7 @@ Kahn had **complete visibility** into the entire financial architecture. He was 
 - Managed complex derivatives trading including "Harvest Collateral Yield Enhancement Strategy"
 - Never raised a compliance flag during his institutional tenure managing accounts where the source of $500M+ in funds was undocumented
 
-**[Full details: [FORENSIC_ACCT_4_JABWCPA_INSTITUTION1.md](../financial/FORENSIC_ACCT_4_JABWCPA_INSTITUTION1.md), [INVESTIGATION_7_BARRETT_REPORTS.md](../financial/INVESTIGATION_7_BARRETT_REPORTS.md), INVESTIGATION_8_UNEXPLORED_NAMES.md]**
+**[Full details: [FORENSIC_ACCT_4_JABWCPA_INSTITUTION1.md](/financial/FORENSIC_ACCT_4_JABWCPA_INSTITUTION1.md), [INVESTIGATION_7_BARRETT_REPORTS.md](/financial/INVESTIGATION_7_BARRETT_REPORTS.md), INVESTIGATION_8_UNEXPLORED_NAMES.md]**
 
 ---
 
@@ -368,7 +368,7 @@ Based on reconstruction across all four variants, the following individuals are 
 
 **Critical observation:** Staley and Wexner were "(referred)" for investigation. Barr and Black were not. Barr was named in an unverified NTOC tip as "present during abuses" — the same Barr who oversaw the DOJ during Epstein's arrest, detention, death, and the Maxwell prosecution. The tip was never investigated or referred, and no recusal from the active prosecution occurred.
 
-**[Full details: [INVESTIGATION_1_BARR_NTOC.md](../individuals/INVESTIGATION_1_BARR_NTOC.md), INVESTIGATION_6_LEON_BLACK.md]**
+**[Full details: [INVESTIGATION_1_BARR_NTOC.md](/individuals/INVESTIGATION_1_BARR_NTOC.md), INVESTIGATION_6_LEON_BLACK.md]**
 
 ---
 
@@ -540,7 +540,7 @@ $350,000 was wired to NPA co-conspirators within 2-5 days of the story that reig
 
 **No obstruction charges were ever filed.**
 
-**[Full details: [INVESTIGATION_4_2018_WIRE_RECIPIENTS.md](../financial/INVESTIGATION_4_2018_WIRE_RECIPIENTS.md), FORENSIC_ACCT_5_CALENDAR_CORRELATION.md]**
+**[Full details: [INVESTIGATION_4_2018_WIRE_RECIPIENTS.md](/financial/INVESTIGATION_4_2018_WIRE_RECIPIENTS.md), FORENSIC_ACCT_5_CALENDAR_CORRELATION.md]**
 
 ---
 
@@ -654,7 +654,7 @@ These are confirmed structures on Epstein's island properties, maintained by his
 
 ### 16.3 Property Managers: Brice and Karen Gordon
 
-**Brice Gordon** and **Karen Gordon** served as island property managers with **New Zealand Defence Force** backgrounds. They appear in **826+ documents**, managing everything from construction to staffing to supply logistics.
+**Brice Gordon** and **Karen Gordon** served as island property managers with **New Zealand Defence Force** backgrounds. They appear across **10,000+ document pages**, managing everything from construction to staffing to supply logistics.
 
 Both left their positions after Epstein's death in August 2019 and their subsequent whereabouts are not documented. No indication the FBI pursued them as witnesses.
 
@@ -668,13 +668,15 @@ Both left their positions after Epstein's death in August 2019 and their subsequ
 
 ### 17.2 Content
 
-A Slovakian citizen working with Epstein was documented as **"attempting to blackmail powerful businessmen in New York."** Epstein "suggests names of individuals" and "offers to provide contacts."
+The document is a multi-page FBI intel summary covering multiple individuals. The blackmail reference appears in a 2015 section: a contact asks Epstein to look into the background of a woman who is **"attempting to blackmail powerful businessmen in New York."** Epstein replies that she is **"an escort"** and says he is **"surprised by her attempts at blackmail."**
 
-Additional names referenced are found in "Serial 984 with EPSTEIN (DATED: 1 August 2006)."
+Separately, the same document's 2014/2015 sections show Epstein "suggests names of individuals" and "offers to provide contacts" for unrelated meetings. These meeting-arrangement quotes are about a different thread and should not be read as part of the blackmail inquiry.
+
+The document also contains passport and visa information for a Slovakian citizen associated with Epstein, but this individual is distinct from the "escort" described in the blackmail passage.
 
 ### 17.3 Significance
 
-This is an FBI document describing an organized blackmail operation involving Epstein. It is consistent with -- but does not explicitly confirm -- the widely reported theory that Epstein operated a sexual blackmail/kompromat scheme. No state actor is named in the document.
+The blackmail passage shows Epstein being consulted as an expert on a woman blackmailing businessmen. He knew her background and her line of work. This is consistent with Epstein operating in overlapping circles of sex work, wealth, and leverage, but it does not describe Epstein himself running a blackmail operation. The document neither confirms nor refutes the widely reported theory that Epstein operated a sexual blackmail/kompromat scheme. No state actor is named.
 
 ---
 
@@ -682,7 +684,7 @@ This is an FBI document describing an organized blackmail operation involving Ep
 
 ### 18.1 Jojo and Lyn Fontanilla
 
-**826 appearances** across the document corpus. Court documents state they had knowledge of **"inappropriate conduct with underage girls."** They received membership interests in an Epstein entity through the trust. No prosecution.
+**14,000+ page appearances** across the document corpus. Court documents state they had knowledge of **"inappropriate conduct with underage girls."** They received membership interests in an Epstein entity through the trust. No prosecution.
 
 ### 18.2 Barry Josephson
 
@@ -759,7 +761,7 @@ This is the most significant finding of the entire analysis. The documents do no
 | $46.96M Haze Trust drawdown during active AML inquiry | No account freeze |
 | $350K wired to NPA co-conspirators after Herald exposure | No obstruction charges |
 | Paul Barrett managed accounts at JPM and DB, then left DB mid-2017 to found Alpha Group Capital LLC with Epstein funding | Zero compliance flags while at banks; became economic partner |
-| Fontanillas knew of "inappropriate conduct with underage girls" | No prosecution (826 appearances) |
+| Fontanillas knew of "inappropriate conduct with underage girls" | No prosecution (14,000+ page appearances) |
 | Barry Josephson discussed "casting girls," received $335K | No prosecution |
 | Maxwell SSN anomalies (CT prefix, "Military Record: YES") | Never investigated |
 | $500M+ in wealth with zero documented legitimate source | Not explained in any charging document |
@@ -1146,10 +1148,10 @@ A comprehensive content survey of all **10,594 PDFs** in Dataset 8 yielded the f
 
 | File | Subject |
 |------|---------|
-| [DS8_VERIFICATION.md](../raw-dataset-analysis/DS8_VERIFICATION.md) | 10-item verification of key claims with rendered PDF confirmation |
-| [DS8_NEW_LEADS.md](../raw-dataset-analysis/DS8_NEW_LEADS.md) | New names and leads identified from DS8 deep extraction |
-| [DS8_CONTENT_SURVEY.md](../raw-dataset-analysis/DS8_CONTENT_SURVEY.md) | Comprehensive DS8 document catalog and classification |
-| [DS8_MEDIA_CATALOG.md](../raw-dataset-analysis/DS8_MEDIA_CATALOG.md) | Updated with MCC surveillance footage analysis and camera position identification |
+| [DS8_VERIFICATION.md](/raw-dataset-analysis/DS8_VERIFICATION.md) | 10-item verification of key claims with rendered PDF confirmation |
+| [DS8_NEW_LEADS.md](/raw-dataset-analysis/DS8_NEW_LEADS.md) | New names and leads identified from DS8 deep extraction |
+| [DS8_CONTENT_SURVEY.md](/raw-dataset-analysis/DS8_CONTENT_SURVEY.md) | Comprehensive DS8 document catalog and classification |
+| [DS8_MEDIA_CATALOG.md](/raw-dataset-analysis/DS8_MEDIA_CATALOG.md) | Updated with MCC surveillance footage analysis and camera position identification |
 
 ---
 
@@ -1159,53 +1161,53 @@ A comprehensive content survey of all **10,594 PDFs** in Dataset 8 yielded the f
 
 | # | File | Size | Subject |
 |---|------|------|---------|
-| 1 | [INVESTIGATION_1_BARR_NTOC.md](../individuals/INVESTIGATION_1_BARR_NTOC.md) | 25K | William Barr NTOC filing and recusal failure |
-| 2 | [INVESTIGATION_2_DB_KYC_BREACH.md](../financial/INVESTIGATION_2_DB_KYC_BREACH.md) | 31K | Deutsche Bank KYC breach timeline |
-| 3 | [INVESTIGATION_3_HAZE_TRUST_AML.md](../financial/INVESTIGATION_3_HAZE_TRUST_AML.md) | 31K | Haze Trust AML inquiry |
-| 4 | [INVESTIGATION_4_2018_WIRE_RECIPIENTS.md](../financial/INVESTIGATION_4_2018_WIRE_RECIPIENTS.md) | 27K | November/December 2018 obstruction wires |
-| 5 | [INVESTIGATION_5_MAXWELL_SSN.md](../individuals/INVESTIGATION_5_MAXWELL_SSN.md) | 24K | Maxwell identity anomalies |
-| 6 | [INVESTIGATION_6_LEON_BLACK.md](../individuals/INVESTIGATION_6_LEON_BLACK.md) | 33K | Leon Black FBI investigation |
-| 7 | [INVESTIGATION_7_BARRETT_REPORTS.md](../financial/INVESTIGATION_7_BARRETT_REPORTS.md) | 34K | Paul Barrett weekly reporting |
-| 8 | [INVESTIGATION_8_UNEXPLORED_NAMES.md](../individuals/INVESTIGATION_8_UNEXPLORED_NAMES.md) | 44K | Unexplored names and disappeared witnesses |
+| 1 | [INVESTIGATION_1_BARR_NTOC.md](/individuals/INVESTIGATION_1_BARR_NTOC.md) | 25K | William Barr NTOC filing and recusal failure |
+| 2 | [INVESTIGATION_2_DB_KYC_BREACH.md](/financial/INVESTIGATION_2_DB_KYC_BREACH.md) | 31K | Deutsche Bank KYC breach timeline |
+| 3 | [INVESTIGATION_3_HAZE_TRUST_AML.md](/financial/INVESTIGATION_3_HAZE_TRUST_AML.md) | 31K | Haze Trust AML inquiry |
+| 4 | [INVESTIGATION_4_2018_WIRE_RECIPIENTS.md](/financial/INVESTIGATION_4_2018_WIRE_RECIPIENTS.md) | 27K | November/December 2018 obstruction wires |
+| 5 | [INVESTIGATION_5_MAXWELL_SSN.md](/individuals/INVESTIGATION_5_MAXWELL_SSN.md) | 24K | Maxwell identity anomalies |
+| 6 | [INVESTIGATION_6_LEON_BLACK.md](/individuals/INVESTIGATION_6_LEON_BLACK.md) | 33K | Leon Black FBI investigation |
+| 7 | [INVESTIGATION_7_BARRETT_REPORTS.md](/financial/INVESTIGATION_7_BARRETT_REPORTS.md) | 34K | Paul Barrett weekly reporting |
+| 8 | [INVESTIGATION_8_UNEXPLORED_NAMES.md](/individuals/INVESTIGATION_8_UNEXPLORED_NAMES.md) | 44K | Unexplored names and disappeared witnesses |
 
 ### Forensic Accounting Reports
 
 | # | File | Size | Subject |
 |---|------|------|---------|
-| 1 | [FORENSIC_ACCT_1_HAZE_DRAWDOWN.md](../financial/FORENSIC_ACCT_1_HAZE_DRAWDOWN.md) | 33K | $46.96M Haze Trust drawdown trace |
-| 2 | [FORENSIC_ACCT_2_MONEY_SOURCES.md](../financial/FORENSIC_ACCT_2_MONEY_SOURCES.md) | 28K | Money sources into Epstein accounts |
-| 3 | [FORENSIC_ACCT_3_INTER_ENTITY_FLOWS.md](../financial/FORENSIC_ACCT_3_INTER_ENTITY_FLOWS.md) | 32K | Inter-entity fund flow mapping |
-| 4 | [FORENSIC_ACCT_4_JABWCPA_INSTITUTION1.md](../financial/FORENSIC_ACCT_4_JABWCPA_INSTITUTION1.md) | — | JABWCPA and Institution-1 identification |
-| 5 | [FORENSIC_ACCT_5_CALENDAR_CORRELATION.md](../financial/FORENSIC_ACCT_5_CALENDAR_CORRELATION.md) | 38K | Calendar-to-transaction correlation |
-| 6 | [FORENSIC_ACCT_6_POST_DEATH_ASSETS.md](../financial/FORENSIC_ACCT_6_POST_DEATH_ASSETS.md) | 32K | Post-death estate disposition |
+| 1 | [FORENSIC_ACCT_1_HAZE_DRAWDOWN.md](/financial/FORENSIC_ACCT_1_HAZE_DRAWDOWN.md) | 33K | $46.96M Haze Trust drawdown trace |
+| 2 | [FORENSIC_ACCT_2_MONEY_SOURCES.md](/financial/FORENSIC_ACCT_2_MONEY_SOURCES.md) | 28K | Money sources into Epstein accounts |
+| 3 | [FORENSIC_ACCT_3_INTER_ENTITY_FLOWS.md](/financial/FORENSIC_ACCT_3_INTER_ENTITY_FLOWS.md) | 32K | Inter-entity fund flow mapping |
+| 4 | [FORENSIC_ACCT_4_JABWCPA_INSTITUTION1.md](/financial/FORENSIC_ACCT_4_JABWCPA_INSTITUTION1.md) | — | JABWCPA and Institution-1 identification |
+| 5 | [FORENSIC_ACCT_5_CALENDAR_CORRELATION.md](/financial/FORENSIC_ACCT_5_CALENDAR_CORRELATION.md) | 38K | Calendar-to-transaction correlation |
+| 6 | [FORENSIC_ACCT_6_POST_DEATH_ASSETS.md](/financial/FORENSIC_ACCT_6_POST_DEATH_ASSETS.md) | 32K | Post-death estate disposition |
 
 ### Prior Analysis Reports
 
 | File | Size | Subject |
 |------|------|---------|
-| [DS10_FORENSIC_ANALYSIS.md](../raw-dataset-analysis/DS10_FORENSIC_ANALYSIS.md) | 37K | Original DS10 deep forensic analysis |
-| [DS10_COMPLETE_FINDINGS.md](../raw-dataset-analysis/DS10_COMPLETE_FINDINGS.md) | — | Complete DS10 findings |
-| [DS10_ENTITY_EXTRACTION_REPORT.md](../raw-dataset-analysis/DS10_ENTITY_EXTRACTION_REPORT.md) | 141K | Entity extraction results |
-| [DS10_RECONSTRUCTED_PAGES.md](../raw-dataset-analysis/DS10_RECONSTRUCTED_PAGES.md) | 214K | Full page reconstructions |
-| [DS10_KEY_DOCUMENTS_DEEP_DIVE.md](../raw-dataset-analysis/DS10_KEY_DOCUMENTS_DEEP_DIVE.md) | 76K | Key document deep dives |
-| [DS10_COMPREHENSIVE_NAME_SEARCH.md](../raw-dataset-analysis/DS10_COMPREHENSIVE_NAME_SEARCH.md) | 30K | Name search results |
-| [HIDDEN_TEXT_COMPLETE_REVIEW.md](../methodology/HIDDEN_TEXT_COMPLETE_REVIEW.md) | — | Complete hidden text review |
+| [DS10_FORENSIC_ANALYSIS.md](/raw-dataset-analysis/DS10_FORENSIC_ANALYSIS.md) | 37K | Original DS10 deep forensic analysis |
+| [DS10_COMPLETE_FINDINGS.md](/raw-dataset-analysis/DS10_COMPLETE_FINDINGS.md) | — | Complete DS10 findings |
+| [DS10_ENTITY_EXTRACTION_REPORT.md](/raw-dataset-analysis/DS10_ENTITY_EXTRACTION_REPORT.md) | 141K | Entity extraction results |
+| [DS10_RECONSTRUCTED_PAGES.md](/raw-dataset-analysis/DS10_RECONSTRUCTED_PAGES.md) | 214K | Full page reconstructions |
+| [DS10_KEY_DOCUMENTS_DEEP_DIVE.md](/raw-dataset-analysis/DS10_KEY_DOCUMENTS_DEEP_DIVE.md) | 76K | Key document deep dives |
+| [DS10_COMPREHENSIVE_NAME_SEARCH.md](/raw-dataset-analysis/DS10_COMPREHENSIVE_NAME_SEARCH.md) | 30K | Name search results |
+| [HIDDEN_TEXT_COMPLETE_REVIEW.md](/methodology/HIDDEN_TEXT_COMPLETE_REVIEW.md) | — | Complete hidden text review |
 
 ### Gap Analysis Reports
 
 | File | Size | Subject |
 |------|------|---------|
-| [DS8_MEDIA_CATALOG.md](../raw-dataset-analysis/DS8_MEDIA_CATALOG.md) | 8K | Dataset 8: 419 surveillance videos (412.5 hrs), 62+ seized devices, 4 block-redacted CSVs |
-| [LUXURY_PURCHASES_ANALYSIS.md](../financial/LUXURY_PURCHASES_ANALYSIS.md) | 15K | Art (Rothko, Sotheby's, Christie's), blue diamonds, yachts, Hermes, $158M Leon Black |
+| [DS8_MEDIA_CATALOG.md](/raw-dataset-analysis/DS8_MEDIA_CATALOG.md) | 8K | Dataset 8: 419 surveillance videos (412.5 hrs), 62+ seized devices, 4 block-redacted CSVs |
+| [LUXURY_PURCHASES_ANALYSIS.md](/financial/LUXURY_PURCHASES_ANALYSIS.md) | 15K | Art (Rothko, Sotheby's, Christie's), blue diamonds, yachts, Hermes, $158M Leon Black |
 
 ### Deep Investigation Reports (February 6, 2026)
 
 | File | Subject |
 |------|---------|
-| [DS8_VERIFICATION.md](../raw-dataset-analysis/DS8_VERIFICATION.md) | 10-item verification of key claims with rendered PDF confirmation |
-| [DS8_NEW_LEADS.md](../raw-dataset-analysis/DS8_NEW_LEADS.md) | New names and leads identified from DS8 deep extraction |
-| [DS8_CONTENT_SURVEY.md](../raw-dataset-analysis/DS8_CONTENT_SURVEY.md) | Comprehensive DS8 document catalog and classification (10,594 PDFs) |
-| [DS8_MEDIA_CATALOG.md](../raw-dataset-analysis/DS8_MEDIA_CATALOG.md) | Updated: MCC surveillance footage analysis with camera position IDs |
+| [DS8_VERIFICATION.md](/raw-dataset-analysis/DS8_VERIFICATION.md) | 10-item verification of key claims with rendered PDF confirmation |
+| [DS8_NEW_LEADS.md](/raw-dataset-analysis/DS8_NEW_LEADS.md) | New names and leads identified from DS8 deep extraction |
+| [DS8_CONTENT_SURVEY.md](/raw-dataset-analysis/DS8_CONTENT_SURVEY.md) | Comprehensive DS8 document catalog and classification (10,594 PDFs) |
+| [DS8_MEDIA_CATALOG.md](/raw-dataset-analysis/DS8_MEDIA_CATALOG.md) | Updated: MCC surveillance footage analysis with camera position IDs |
 
 ### DS9 Scan Results
 

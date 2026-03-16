@@ -350,12 +350,6 @@ This report synthesizes material that overlaps with several previously published
 
 6. **Victim privacy**: No victim names or identifying information appear in this report. The death investigation documents concern Epstein, MCC staff, and institutional operations.
 
-### Related Reports
-
-- [MCC Inmate Witness Interviews](../evidence/MCC_INMATE_WITNESS_INTERVIEWS.md) — Multimodal transcription of all 14 FBI inmate interviews from Case 90A-NY-3151227. Provides the eyewitness testimony that these institutional records document from the records side.
-- [4chan Paramedic Leak Investigation](../evidence/FOUR_CHAN_PARAMEDIC_INVESTIGATION.md) — Death-night timeline, digital evidence, and guards' criminal case.
-- [PQG 09: Correctional Death Investigation](../pqg_lines_of_investigation/09_CORRECTIONAL_DEATH_INVESTIGATION.md) — All 24 grand jury subpoenas targeting MCC and the institutional subpoena gap.
-
 ---
 
 *The full text of all cited documents is available at [epstein-data.com/full_text_corpus](https://epstein-data.com/full_text_corpus). This analysis relies on Claude Code running Opus 4.6, which can make mistakes.*

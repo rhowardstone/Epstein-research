@@ -23,7 +23,7 @@ EFTA_00000478                                          [earlier EFTA number]
 EFTA00134897                                           [final EFTA number]
 ```
 
-The secondary stamps were extracted from the OCR text layer of 2.56 million pages across DS9, DS10, DS11, and DS12 using pattern matching against the [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v5.0) database. 1,192,725 pages carry at least one identifiable secondary stamp.
+The secondary stamps were extracted from the OCR text layer of 2.56 million pages across DS9, DS10, DS11, and DS12 using pattern matching against the `full_text_corpus.db` database. 1,192,725 pages carry at least one identifiable secondary stamp.
 
 ## The Numbering Systems
 
@@ -160,9 +160,9 @@ The uniform distribution of R1 gaps is consistent with systematic review process
 
 The complete cross-reference data is available as CSV files suitable for analysis in Excel or any spreadsheet tool:
 
-- **[`all_secondary_stamps.csv`](https://github.com/rhowardstone/epstein-research/blob/main/institutional/all_secondary_stamps.csv)** (1,192,725 rows): Every page in DS9-12 that carries a secondary stamp, with columns for all six numbering systems. One row per page.
-- **[`r1_crossref.csv`](https://github.com/rhowardstone/epstein-research/blob/main/institutional/r1_crossref.csv)** (645,222 rows): Document-level R1 mapping (page 0 only), with EFTA number, R1 number, dataset, and page count.
-- **[`efta_underscore_crossref.csv`](https://github.com/rhowardstone/epstein-research/blob/main/institutional/efta_underscore_crossref.csv)** (68,406 rows): EFTA_ (SDNY sequence) mapping with final EFTA number, page number, EFTA_ number, and SDNY_ number.
+- **`all_secondary_stamps.csv`** (1,192,725 rows): Every page in DS9-12 that carries a secondary stamp, with columns for all six numbering systems. One row per page.
+- **`r1_crossref.csv`** (645,222 rows): Document-level R1 mapping (page 0 only), with EFTA number, R1 number, dataset, and page count.
+- **`efta_underscore_crossref.csv`** (68,406 rows): EFTA_ (SDNY sequence) mapping with final EFTA number, page number, EFTA_ number, and SDNY_ number.
 
 Column definitions for `all_secondary_stamps.csv`:
 
@@ -173,7 +173,7 @@ Column definitions for `all_secondary_stamps.csv`:
 | total_pages | Total pages in this document |
 | page_number | Page number within the document (0-indexed) |
 | r1_number | EFTA_R1_ stamp number (FBI review sequence) |
-| sdny_efta_number | EFTA_ stamp number (SDNY production sequence) |
+| underscore_efta_number | EFTA_ stamp number (SDNY production sequence) |
 | sdny_case_number | SDNY_ stamp number (SDNY case sequence) |
 | jpm_sdny_number | JPM-SDNY- stamp number (JPMorgan production) |
 | db_sdny_number | DB-SDNY- stamp number (Deutsche Bank production) |
@@ -182,7 +182,7 @@ Column definitions for `all_secondary_stamps.csv`:
 
 ## Methodology
 
-All analysis was performed against [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v5.0), a 6.3 GB SQLite database containing OCR-extracted text from all 2,770,154 pages of the EFTA production. Secondary stamps were identified using regular expression pattern matching against the text layer of each page. OCR artifacts (misread characters, spacing errors) were accounted for using fuzzy matching patterns that tolerate common OCR substitutions (D/O, B/6/I3, N/M, Y/C).
+All analysis was performed against `full_text_corpus.db`, a 6.3 GB SQLite database containing OCR-extracted text from all 2,770,154 pages of the EFTA production. Secondary stamps were identified using regular expression pattern matching against the text layer of each page. OCR artifacts (misread characters, spacing errors) were accounted for using fuzzy matching patterns that tolerate common OCR substitutions (D/O, B/6/I3, N/M, Y/C).
 
 For R1 gap analysis, each document's R1 stamp on page 0 was treated as the starting page number, and the document's total page count was used to determine the R1 range it occupies. For EFTA_ gap analysis, each individual page's stamp was used directly since the EFTA_ numbers increment per-page.
 
