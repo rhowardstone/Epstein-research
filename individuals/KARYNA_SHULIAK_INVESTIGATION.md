@@ -146,6 +146,8 @@ This means **75%+ of Shuliak's reported income was not from dentistry.** The ban
 
 The 2019 periodic review requested **"SOW verification (SOW description) for Karyna Shuliak"** and asked to **"confirm if she has dual citizenship"** — attaching her ID documents ([EFTA01420941](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01420941.pdf) p.7-8, DS10).
 
+**Synthesis — The Compliance Thread**: Taken together, the Shuliak-related Deutsche Bank documents form a coherent pattern: the bank classified her accounts as "high risk" ([EFTA01356712](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01356712.pdf)), flagged an AML inquiry on a $50,000 Butterfly Trust wire asking "What is the purpose? What is the relationship?" ([EFTA01420385](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01420385.pdf) p.2), accepted "interior design" as the source of 75%+ of her income despite JSC Interiors having no visible revenue, and twelve days before Epstein's arrest, Stewart Oldfield ordered the destruction of returned account statements covering her joint account ([EFTA01420678](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01420678.pdf)). This is not a story about one compliance failure — it is a story about a bank that asked the right questions, received unsatisfactory answers, and continued processing the accounts. The Wyden/Senate Finance investigation into Deutsche Bank's Epstein AML failures has been reported; the Shuliak-specific compliance trail within it has not.
+
 > **What the documents show**: Deutsche Bank repeatedly flagged Shuliak's accounts as high-risk and asked compliance questions about her source of wealth, her relationship to the trust, and wire purposes. **What they do NOT show**: Whether the bank ever received satisfactory answers, or whether any of these compliance inquiries led to account restrictions or SARs filed with FinCEN.
 
 ### 3.9 1953 Trust / Estate Provisions (August 8, 2019)
@@ -166,14 +168,45 @@ Epstein's final trust document, signed two days before his death:
 
 ## 4. Operational Role
 
-### 4.1 Managing Other Women's Schedules
+### 4.1 The Compartmentalization: What Was Hidden From Karyna
 
-The most operationally significant documents show Shuliak managing the logistics of other young women in Epstein's orbit:
+The most operationally revealing documents are not those showing Shuliak managing others — they are those showing **Epstein and Groff actively hiding other women from her**.
 
-- **"Told Karyna to come at 8pm"** ([EFTA02032652](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02032652.pdf), DS10)
-- **"I will need karyna from 130 430"** ([EFTA02032914](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02032914.pdf), DS10)
-- Booking flights for unnamed women, coordinating with Lesley Groff
-- An unidentified woman complaining to Epstein: **"I called Karyna not to say I am busy, I called to ask whether I should ask your permission to come after my exams are over"** ([EFTA01928154](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01928154.pdf), DS10) — indicating Shuliak served as gatekeeper for access to Epstein
+In a single week in January 2017, Groff issued two separate secrecy directives:
+
+**1. A woman's flight from Moscow — kept secret from Karyna** (January 25, 2017):
+
+> "Re the ticket for [redacted]...we originally had her flying to NY from Moscow...then Jeffrey changed it completely and had her fly to Miami instead because he wanted to go to PB **FYI-this is all a secret from Karyna please...do not ask her anything about this girl or flights**"
+
+— Groff to Bella Klein, [EFTA02202489](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02202489.pdf), DS10. The same email shows Aeroflot ticket charges for Karyna alongside the hidden woman's ticket — both on the same AmEx account, but Karyna was not to know about the other traveler.
+
+**2. A laptop shipment to a woman in Barcelona — kept secret from Karyna** (January 20, 2017):
+
+> "Jeffrey wants it Fed Ex'd to [redacted] in Barcelona. Can you please take care of this?... **I would keep this a secret from Karyna please.**"
+
+— Groff to staff, [EFTA02202768](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02202768.pdf), DS10. (Thread continues at [EFTA02202812](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02202812.pdf) and [EFTA02203097](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02203097.pdf), DS10.)
+
+This pattern connects to what pilot Larry Visoski told a colleague in September 2014: **"Heads up, between you and I, he was telling Karyna a different time, You know what I mean!"** ([EFTA02097562](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02097562.pdf), DS11) — Epstein was concealing travel details from Shuliak, and his staff understood why.
+
+The "Inspector" nickname (see Section 4.8) now takes on fuller meaning: Shuliak was suspicious enough that Epstein's operation had to be compartmentalized around her. She was an insider who was simultaneously excluded from knowledge of other women.
+
+### 4.1.1 What Karyna DID Coordinate
+
+Despite the secrecy, Shuliak did serve as a travel and logistics contact for some women in Epstein's circle:
+
+- An unnamed woman told Groff: **"Yes, Karyna booked it for us for [redacted] yesterday"** ([EFTA02098456](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02098456.pdf), DS10, August 2014) — confirming Shuliak booked flights for at least some women
+- Groff designated Shuliak as the travel contact for a group trip: **"I'll have Karyna be your contact for this. Janusz thinks he can take all the girls and luggage, but Karyna can take note day of travel and let y'all know!!"** ([EFTA02116764](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02116764.pdf), DS10, January 2014)
+- Shuliak traveled regularly with other women — to Paris with "Jena" ([EFTA02070716](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02070716.pdf), DS10), on Groff-booked group flights ([EFTA02139419](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02139419.pdf), DS10), and to STT with another woman and cats ([EFTA02205807](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02205807.pdf), DS11)
+
+### 4.1.2 Gatekeeper for Access to Epstein
+
+An unidentified woman wrote to Epstein in May 2014:
+
+> "I called Karyna not to say I am busy, I called to ask whether I should ask your permission to come after my exams are over... And Karyna told me that u should not worry about it bc she wasn't sure if we were going at all because Jen is sick. She said that it would be probably just her and you."
+
+— [EFTA01928154](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01928154.pdf), DS10. Epstein had responded angrily: "how is it possible that i asked you to come with me yesterday, as i needed your help. you told me yes, then you didn't even write me, but told karyna that you were too busy, this is UNACCEPTABLE." The woman routed her communication through Karyna; Epstein expected direct communication.
+
+> **What the documents show**: Epstein operated a compartmentalized system in which Shuliak was trusted with some logistics but deliberately excluded from knowledge of specific women. Staff understood and enforced these boundaries. Other women sometimes deferred to Shuliak for access to Epstein. **What they do NOT show**: Whether Shuliak understood the nature of the women being hidden from her, or whether the secrecy was about jealousy management (consistent with the "Inspector" nickname) versus concealment of trafficking.
 
 ### 4.2 "Girls' Apartments" at 301 East 66th Street
 
@@ -215,9 +248,14 @@ Her Palm Beach address was 358 El Brillo Way (per LexisNexis, [EFTA01297922](htt
 
 ### 4.3 Staff Authority
 
-- **Gave days off to household staff**: "Sonam was given days off by Karyna" (per [ISRAELI_INTELLIGENCE_DEEP_DIVE](https://epstein-data.com/reports/intelligence/ISRAELI_INTELLIGENCE_DEEP_DIVE.html), citing DS10 documents)
-- **Hired maids**: "Karyna has a maid coming for an interview" ([EFTA02043912](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02043912.pdf), DS10 — email to Richard Kahn re "Gloria Viernes," Sept 2016)
-- **Coordinated with household staff** on cleaning, food, package deliveries ([EFTA02097620](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02097620.pdf), DS10)
+Shuliak held direct authority over household staff — a role Epstein explicitly delegated to her:
+
+- **Approved time off**: When Sonam Dema requested Thursday and Friday off, Groff forwarded to Epstein, who responded: **"ask karyna."** Shuliak replied: "I am fine with Sonam taking Thursday and Friday off. There is enough time to complete the work in the house." ([EFTA02327859](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02327859.pdf), DS11, November 2017; forwarding chain at [EFTA02327830](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02327830.pdf))
+- **Gave days off directly**: Merwin Dela Cruz to Groff: "Sonam was given days off by Karyna until Thursday" ([EFTA02278459](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02278459.pdf), DS11, March 2019)
+- **Managed cleaning assignments**: Shuliak to Groff: "Sonam is now cleaning all the apartments at 301, except for 11J so far, in the remaining time she is helping at 71st. Please include her on the schedule emails" ([EFTA02329098](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02329098.pdf), DS11, August 2017)
+- **Proposed vacation tracking policy**: Shuliak emailed Kahn and Groff about formalizing day-off tracking for all 71st Street staff ([EFTA02225899](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02225899.pdf), DS11, October 2017)
+- **Hired maids**: "Karyna has a maid coming for an interview" — Groff to Richard Kahn re "Gloria Viernes" ([EFTA02043912](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02043912.pdf), DS10, September 2016). Shuliak later reported to Kahn that Gloria accepted another offer ([EFTA02043913](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02043913.pdf), DS10)
+- **Coordinated with household staff** on cleaning, food, and package deliveries ([EFTA02097620](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02097620.pdf), DS10)
 
 ### 4.4 Travel Coordination
 
@@ -236,7 +274,7 @@ Epstein coordinated a group photo shoot at photographer Antoine Verglas's studio
 
 ### 4.7 Aviloop / Butterfly Trust $100K Wire
 
-On November 30, 2018, the **Butterfly Trust** wired **$100,000 to Aviloop LLC** ([EFTA01399622](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01399622.pdf), DS10 — Deutsche Bank memo). This is significant because Shuliak was a Butterfly Trust beneficiary and authorized signatory. An earlier email requested the $100K be structured as two separate payments — "one billed as commission for buyer representation in the purchase of the G-IV... another wire for pilot services for Hyperion air. It would also be safer if the transfer did not come from the account that only contains your name" ([EFTA01755638](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01755638.pdf), DS10). A JPMorgan statement shows "Book Transfer A/C: Karyna Shuliak" and "Book Transfer NC: Aviloop Llc" on the same Epstein account ([EFTA01483492](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01483492.pdf), DS10).
+On November 30, 2018, the **Butterfly Trust** wired **$100,000 to Aviloop LLC** ([EFTA01399622](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01399622.pdf), DS10 — Deutsche Bank memo). This is significant because Shuliak was a Butterfly Trust beneficiary and authorized signatory. An earlier email requested the $100K be structured as two separate payments — "one billed as commission for buyer representation in the purchase of the G-IV... another wire for pilot services for Hyperion air. It would also be safer if the transfer did not come from the account that only contains your name" ([EFTA01755638](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01755638.pdf), DS10). A JPMorgan statement for Epstein's account shows both a "Book Transfer A/C: Karyna Shuliak" ($6,000, Oct 13, 2011) and a "Book Transfer NC: Aviloop Llc" ($50,000, Oct 21, 2011) as separate outgoing transactions ([EFTA01483492](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01483492.pdf), DS10) — confirming both Shuliak and Aviloop drew from the same Epstein account, though the transfers were independent and on different dates.
 
 > **What the documents show**: The Butterfly Trust (where Shuliak was beneficiary) made a $100K payment to Aviloop, with explicit discussion of structuring the wire to obscure its source. **What they do NOT show**: Whether Shuliak was personally involved in approving or directing this specific payment.
 
@@ -298,9 +336,7 @@ This document, also analyzed in [INVESTIGATION_6_LEON_BLACK.md](individuals/INVE
 
 ### Gratitude America / Lithuanian Ballet Connection
 
-Leon Black's BV70 LLC paid $10 million to Gratitude America, an Epstein charity that in turn funded the Lithuanian National Ballet (NPO Baleto Teatras, VSJ Baleto Teatras). The Lithuanian ballet funding has been connected to Shuliak's Eastern European background in [FINAL_INVESTIGATION_REPORT](https://epstein-data.com/reports/overview/FINAL_INVESTIGATION_REPORT.html), though the specific mechanism of this connection is not documented in the corpus beyond the geographic coincidence.
-
-> **What the documents show**: Black's money flowed through Gratitude America to a Lithuanian cultural institution, and Shuliak had Lithuanian family ties. **What they do NOT show**: Whether Shuliak was involved in directing these payments or whether the Lithuanian connection is coincidental.
+Leon Black's BV70 LLC paid $10 million to Gratitude America, an Epstein charity that in turn funded the Lithuanian National Ballet (NPO Baleto Teatras, VSJ Baleto Teatras). The $10M Black → Gratitude America → Lithuanian ballet flow is documented in [TRANSACTION_CHAIN_BLACK_ART_MACHINE](https://epstein-data.com/reports/financial/TRANSACTION_CHAIN_BLACK_ART_MACHINE.html) and is significant as a financial finding in its own right. Shuliak had Lithuanian family ties (postal tracking number, ballet funding), but **no document in the corpus connects Shuliak to the Gratitude America payments or the Lithuanian ballet funding decision**. The geographic overlap alone does not establish a connection.
 
 ---
 
@@ -332,7 +368,7 @@ Each stage reduced Shuliak's dependency on Epstein for immigration status — bu
 ### 8.2 FBI Interview
 The only reference to FBI engagement with Shuliak is the August 14, 2019 SITREP scheduling her interview for August 16, 2019 ([EFTA00165446](https://www.justice.gov/epstein/files/DataSet%209/EFTA00165446.pdf), DS9). This was part of the **death investigation** (case 90A-NY-3151227), not the trafficking case.
 
-No FD-302 from any Shuliak interview appears in the corpus. The DOJ OIG report (23-085) discusses the phone call but does not reference a subsequent FBI interview of Shuliak. No public reporting has confirmed whether the interview occurred. The 302 may be sealed, withheld under EFTA exemptions, or the interview may not have taken place.
+No FD-302 from any Shuliak interview appears in the corpus. The DOJ OIG report (23-085) discusses the phone call in detail — the unsecured line, the BOP policy violation, the Northeast Regional Director calling it "extremely concerning" — but does not reference a subsequent FBI interview of Shuliak. This asymmetry is notable: the OIG documented the circumstances of the call but is silent on whether investigators followed up with the person Epstein chose to call in his final hours. No public reporting has confirmed whether the interview occurred. The 302 may be sealed, withheld under EFTA exemptions, or the interview may not have taken place.
 
 ### 8.3 Not Known to Have Testified
 Shuliak does not appear in Maxwell trial exhibits (DS12), though she appears in 4 DS12 pages related to her USVI dental license ([EFTA02808431](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02808431.pdf), [EFTA02814055](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02814055.pdf), [EFTA02814058](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02814058.pdf), DS12). She has not been identified as a witness in any deposition. **No civil lawsuits naming Shuliak as a defendant** have been identified.
@@ -425,9 +461,9 @@ Karyna Shuliak occupies a unique position in the Epstein corpus. She is simultan
 
 1. **A victim of Epstein's control system** — met him as a ~20-year-old foreign student on a precarious visa, subjected to sham marriage arranged by his lawyer, financially dependent for education and housing
 2. **A beneficiary of his wealth** — replaced Maxwell as trust beneficiary, received $550,000+ in documented wires, named primary estate heir
-3. **An operational participant** — managed other women's schedules, controlled access to Epstein, managed multiple apartments housing young women, served as authorized signer on financial entities
+3. **An operational participant** — coordinated travel for some women, served as gatekeeper for access to Epstein, managed cleaning staff across multiple apartments, served as authorized signer on financial entities — while simultaneously being **compartmentalized away from knowledge of other women** Epstein was flying in from Russia and elsewhere
 
-This duality — victim and participant — is common in trafficking organizations and does not resolve neatly. The corpus documents her trajectory from dependent young woman to embedded inner-circle member over approximately eight years (2011-2019), but does not reveal what she knew about the trafficking operation or when.
+This duality — victim and participant — is common in trafficking organizations and does not resolve neatly. The corpus documents her trajectory from dependent young woman to embedded inner-circle member over approximately eight years (2011-2019), but does not reveal what she knew about the trafficking operation or when. The compartmentalization evidence (Section 4.1) complicates any simple characterization: Epstein's staff were explicitly instructed to hide certain women and activities from Shuliak, suggesting she was not a fully informed participant — but the extent of her awareness cannot be determined from available documents.
 
 **The 40,061-document footprint has never been systematically analyzed.** This report represents a first pass. A comprehensive review of all Shuliak-related emails, financial records, and scheduling documents would likely reveal additional findings.
 
@@ -435,7 +471,7 @@ This duality — victim and participant — is common in trafficking organizatio
 
 ## 13. What This Report Adds
 
-We cross-referenced every finding in this report against the major external sources: Bloomberg (Feb 11 + Feb 14, 2026), Kyiv Independent, Meduza, CNN (Feb 20 + Mar 10), Daily Beast, Daily Mail/IBTimes, ABC News, Columbia Spectator, DOJ OIG Report 23-085, NBC News, NHPR, and Fox News. Of 22 key findings, **3 are already reported**, **4 are partially covered** (general concept exists externally but our specific EFTA-level detail is new), and **15 are novel to this investigation**.
+We cross-referenced every finding in this report against the major external sources: Bloomberg (Feb 11 + Feb 14, 2026), Kyiv Independent, Meduza, CNN (Feb 20 + Mar 10), Daily Beast, Daily Mail/IBTimes, ABC News, Columbia Spectator, DOJ OIG Report 23-085, NBC News, NHPR, and Fox News. Of 24 key findings, **3 are already reported**, **4 are partially covered** (general concept exists externally but our specific EFTA-level detail is new), and **17 are novel to this investigation**.
 
 The novel findings cluster into three areas:
 
@@ -481,12 +517,14 @@ Four standalone findings document Shuliak's role in Epstein's day-to-day operati
 
 | Finding | Source | Significance |
 |---------|--------|-------------|
+| **Compartmentalization — Moscow flight**: "this is all a secret from Karyna please...do not ask her anything about this girl or flights" | [EFTA02202489](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02202489.pdf) | Groff hiding a woman's Moscow→Miami travel from Shuliak, Jan 2017 |
+| **Compartmentalization — Barcelona laptop**: "I would keep this a secret from Karyna please" | [EFTA02202768](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02202768.pdf) | Separate secrecy directive in same week, different woman |
 | **Gatekeeper**: "I called Karyna... whether I should ask your permission to come" | [EFTA01928154](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01928154.pdf) | Unnamed woman defers to Shuliak for access to Epstein |
 | **Visoski concealment**: "he was telling Karyna a different time, You know what I mean!" | [EFTA02097562](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02097562.pdf) | Epstein hiding travel movements from his own girlfriend |
 | **Abdulhak/"Mr. Evil" phone number request**: asked Shuliak for a blonde girl's number | [EFTA01620096](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01620096.pdf) | Shuliak positioned as contact broker, June 2019 |
 | **Marcinkova tension**: "not wanting to fly karyna... you have broken our deal over and over" | [EFTA01896984](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01896984.pdf) | Maxwell-replacement dynamic. Marcinkova resentful. |
 
-These quotes appear nowhere in external reporting despite extensive coverage of Visoski (Maxwell trial), Marcinkova (CNN, Bloomberg sham marriages), and Abdulhak (Guardian, Al Bawaba).
+The compartmentalization findings are entirely novel. No external source has reported that Epstein's staff were instructed to hide other women from Shuliak. These quotes appear nowhere in external reporting despite extensive coverage of Visoski (Maxwell trial), Marcinkova (CNN, Bloomberg sham marriages), and Abdulhak (Guardian, Al Bawaba).
 
 ### 13.5 What Was Already Reported
 
@@ -515,6 +553,13 @@ For completeness: the **40,061 document count** (Bloomberg), the **$150K Februar
 | [EFTA01418809](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01418809.pdf) | 10 | Butterfly Trust beneficiary confirmation (Jan 2017) |
 | [EFTA01421286](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01421286.pdf) p.4 | 10 | Neptune LLC: Shuliak as Joint Account Holder & Auth Signatory |
 | [EFTA01424842](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01424842.pdf) p.4 | 10 | Authorized Signer list (HBRK, Indyke, Kahn, et al.) |
+| [EFTA02202489](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02202489.pdf) | 10 | Groff: "this is all a secret from Karyna please...do not ask her anything about this girl or flights" (Jan 2017) |
+| [EFTA02202768](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02202768.pdf) | 10 | Groff: laptop to woman in Barcelona — "I would keep this a secret from Karyna please" (Jan 2017) |
+| [EFTA02098456](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02098456.pdf) | 10 | "Yes, Karyna booked it for us" — confirming Shuliak booked flights for others (Aug 2014) |
+| [EFTA02116764](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02116764.pdf) | 10 | Groff: "I'll have Karyna be your contact... Janusz can take all the girls and luggage" (Jan 2014) |
+| [EFTA02327859](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02327859.pdf) | 11 | Epstein: "ask karyna" re Sonam's day off. Shuliak approves. (Nov 2017) |
+| [EFTA02329098](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02329098.pdf) | 11 | Shuliak: "Sonam is now cleaning all the apartments at 301" (Aug 2017) |
+| [EFTA02278459](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02278459.pdf) | 11 | Merwin: "Sonam was given days off by Karyna until Thursday" (Mar 2019) |
 | [EFTA02097562](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02097562.pdf) | 11 | Pilot Visoski: "he was telling Karyna a different time, You know what I mean!" |
 | [EFTA01928154](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01928154.pdf) | 10 | Unknown woman: "I called Karyna... whether I should ask your permission" |
 | [EFTA02032447](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02032447.pdf) | 10 | Shuliak Chase Visa card statement coordination |
