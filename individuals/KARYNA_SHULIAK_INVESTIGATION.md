@@ -57,7 +57,7 @@ By 2014, Shuliak had transitioned from dependent girlfriend to embedded financia
 - **2016-2019**: Operational management role (see Section 4)
 
 ### 2.6 The Last Days (August 2019)
-- **August 8, 2019**: Epstein signed the "1953 Trust" naming Shuliak as primary beneficiary — two days before his death ([EFTA01266168](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01266168.pdf), DS10)
+- **August 8, 2019**: Epstein renamed and restated the "2019 Trust" as **"The 1953 Trust"** (named for his birth year), with Shuliak as primary beneficiary — two days before his death ([EFTA00099303](https://www.justice.gov/epstein/files/DataSet%209/EFTA00099303.pdf), DS9 — $50M + $50M annuity). An earlier February 4, 2019 version of the same trust had named her at $100M ([EFTA01266168](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01266168.pdf), DS10)
 - **August 9, 2019**: Epstein's last phone call (~20 minutes, approximately 6:58–7:19 PM EDT) was to Shuliak, made from an unsecured and unrecorded line in a shower area intended for attorney communications. He told guards he was calling his deceased mother (Paula Epstein died April 1, 2004). An MCC supervisor facilitated the call in violation of BOP policy; the Northeast Regional Director later called it "extremely concerning." (DOJ Office of Inspector General Report 23-085, June 2023; [OIG full report](https://oig.justice.gov/sites/default/files/reports/23-085.pdf))
 - **August 14, 2019**: FBI SITREP (FOUO) states: "The interview of Karyna Shuliak has been tentatively scheduled for Friday, 8/16/2019" and "Members of the VCTF will continue to coordinate with the SDNY to facilitate the interview of Shuliak" ([EFTA00165446](https://www.justice.gov/epstein/files/DataSet%209/EFTA00165446.pdf), DS9, case 90A-NY-3151227)
 
@@ -150,15 +150,23 @@ The 2019 periodic review requested **"SOW verification (SOW description) for Kar
 
 > **What the documents show**: Deutsche Bank repeatedly flagged Shuliak's accounts as high-risk and asked compliance questions about her source of wealth, her relationship to the trust, and wire purposes. **What they do NOT show**: Whether the bank ever received satisfactory answers, or whether any of these compliance inquiries led to account restrictions or SARs filed with FinCEN.
 
-### 3.9 1953 Trust / Estate Provisions (August 8, 2019)
+### 3.9 The 1953 Trust / Estate Provisions
 
-Epstein's final trust document, signed two days before his death:
+Epstein's trust went through three versions: the original "Jeffrey E. Epstein 2019 Trust" (January 18, 2019), an amended version (February 4, 2019, [EFTA01266168](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01266168.pdf), DS10), and the final restatement renamed **"The 1953 Trust"** — after his birth year — signed August 8, 2019, two days before his death ([EFTA00099303](https://www.justice.gov/epstein/files/DataSet%209/EFTA00099303.pdf), DS9).
 
-**Paris Property**: All of Epstein's interest in 22 Avenue Foch, 75016, Paris — units on 2nd and 5th floors plus cellars, owned through SCI JEP (French company). Plus all household goods associated with the Paris Property. ([EFTA01266168](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01266168.pdf) p.11, DS10)
+The February 2019 version named Shuliak at **$100,000,000** ([EFTA01266168](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01266168.pdf), DS10). The August 8 version reduced this to **$50,000,000 plus a $50,000,000 annuity** — same total but restructured as a lump sum plus lifetime monthly payments ([EFTA00099303](https://www.justice.gov/epstein/files/DataSet%209/EFTA00099303.pdf) p.2, DS9). Shuliak is bequest #1 in the final version — listed before Indyke ($50M) and Kahn ($25M).
 
-**Residual Interest**: "KARYNA SHULIAK, upon... best efforts to sell any and [all property]" — proceeds of sale, principal and income ([EFTA01266168](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01266168.pdf) pp.15-16, DS10).
+Key provisions of the final 1953 Trust (all from [EFTA00099303](https://www.justice.gov/epstein/files/DataSet%209/EFTA00099303.pdf), DS9):
 
-**Beneficiary List** (p.6): Named alongside Lesley Katherine Groff, Nina Keita, Paul Crassner, David Mitchell, Mark Lloyd, and others.
+**All six properties** (Section 2.3(B)): Shuliak received all of Epstein's interest in the Paris property (22 Avenue Foch, via SCI JEP), Palm Beach (358 El Brillo Way, via Laurel Inc.), Little St. James (via Poplar Inc./Great St. Jim LLC), Great St. James (via Poplar Inc./Great St. Jim LLC), New Mexico (Zorro Ranch), and New York (9 East 71st Street) — plus all household goods for each property (p.10-11).
+
+**48 loose diamonds**: Individually identified by GIA certificate number, plus a rectangular-cut diamond ring (D Color, VS1 clarity, GIA #11197600). If Shuliak did not survive Epstein, the diamonds were to be sold and proceeds distributed per Section 2.4 (p.12).
+
+**Operating expense trust**: A dedicated trust (Article III, Section 3.1) funded at $5,000,000 per property to cover insurance, taxes, utilities, and maintenance for properties Shuliak personally occupied (pp.14-15).
+
+**Residual estate**: After all bequests, the residuary was distributed pro rata to beneficiaries #4-41 — but Shuliak, as #1, had already received the largest share (Section 2.4, p.12). If any property recipient declined, proceeds went to Shuliak (Section 2.3(B)(3), p.11).
+
+**Beneficiary list** (Section 2.3(A)): 53 numbered bequests including Lesley Katherine Groff ($2M), Lawrence Visoski ($2M), Ann Rodriquez ($2M), Luciano Fontanilla ($1M + property), and others. A $50M litigation reserve and $10M validity defense fund were set aside (pp.8-9).
 
 **Loan Forgiveness**: Both Steven Victor and Karyna Shuliak receive loan forgiveness in the will ([EFTA01266403](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01266403.pdf), DS10 — per PSEUDONYM_CODENAME_REGISTRY.md).
 
@@ -537,7 +545,8 @@ For completeness: the **40,061 document count** (Bloomberg), the **$150K Februar
 | EFTA | DS | Description |
 |------|----|-------------|
 | [EFTA01418923](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01418923.pdf) p.8 | 10 | Butterfly Trust amendment: DELETE Maxwell, ADD Shuliak (Nov 2014) |
-| [EFTA01266168](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01266168.pdf) | 10 | 1953 Trust — Shuliak as primary beneficiary, Paris property, residual interest (Aug 8, 2019) |
+| [EFTA00099303](https://www.justice.gov/epstein/files/DataSet%209/EFTA00099303.pdf) | 9 | The 1953 Trust (Aug 8, 2019 final version) — Shuliak $50M + $50M annuity, renamed from 2019 Trust |
+| [EFTA01266168](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01266168.pdf) | 10 | 2019 Trust (Feb 4, 2019 version) — Shuliak $100M, Paris property, residual interest |
 | [EFTA01421178](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01421178.pdf) | 10 | KYC: "dentistry represents less than 25% of Karyna's earnings" (Sep 2018) |
 | [EFTA01739169](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01739169.pdf) | 10 | Epstein: "rich please wire karyna 350k. she will sign the loan agreement" (Nov 2016) |
 | [EFTA01421199](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01421199.pdf) p.7 | 10 | SWIFT wire: $150,000 Butterfly Trust → Shuliak at JPMorgan (Feb 2019) |
@@ -584,5 +593,5 @@ For completeness: the **40,061 document count** (Bloomberg), the **$150K Februar
 3. **Who is the other joint account holder?** The "[redacted]" on Deutsche Bank account #489505
 4. **What was Shuliak's knowledge of the "girls' apartments"?** She managed cleaning schedules for multiple units housing unnamed young women
 5. **Why did Stewart Oldfield order return statements destroyed on June 24, 2019 — 12 days before Epstein's arrest?** ("Yes, please destroy" — [EFTA01420678](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01420678.pdf)) — was this routine document management or responsive to the looming investigation?
-6. **What happened to the estate bequests?** Paris property, $100M trust, 48 diamonds — current status of victim compensation vs. beneficiary claims
+6. **What happened to the estate bequests?** All six properties, $50M + $50M annuity, 48 loose diamonds + diamond ring — current status of victim compensation vs. beneficiary claims
 7. **The $350,000 "loan agreement"** — does this loan agreement exist elsewhere in the corpus? Was it a genuine loan or structured gift?
