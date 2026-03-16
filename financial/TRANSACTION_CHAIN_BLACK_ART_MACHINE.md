@@ -712,7 +712,7 @@ Per [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA0002701
 **PROSECUTORIAL SIGNIFICANCE:**
 BV70 LLC (Black's entity) funded Gratitude America, which then made donations to the Melanoma Research Alliance -- Black's OWN charity. This was a circular flow: Black -> Epstein entity -> Black's charity. The Dechert report acknowledged this: "Black also made a $10 million donation to Gratitude America in October 2015, which was a charitable organization affiliated with Epstein."
 
-But Gratitude America also funded Lithuanian ballet organizations (Baleto Teatras) -- entities connected to Karyna Shuliak, Epstein's Lithuanian girlfriend and Butterfly Trust beneficiary. Black's money, through Gratitude America, was funding both his own charity AND Epstein's personal relationships.
+But Gratitude America also funded Lithuanian ballet organizations (Baleto Teatras) -- entities connected to Karyna Shuliak, Epstein's Belarusian girlfriend and Butterfly Trust beneficiary (with Lithuanian family ties). Black's money, through Gratitude America, was funding both his own charity AND Epstein's personal relationships.
 
 ---
 

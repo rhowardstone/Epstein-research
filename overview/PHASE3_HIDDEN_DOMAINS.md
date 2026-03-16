@@ -84,7 +84,7 @@ Phase III searched for hidden connections across nine domain categories using ke
 - [EFTA02073960](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02073960.pdf), [EFTA02073991](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02073991.pdf), [EFTA02088574](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02088574.pdf), [EFTA02088580](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02088580.pdf) -- four additional documents
 - Named alongside Daphne Wallace in scheduling
 
-**Knowledge Graph Weight:** Ehud Barak associated_with Jeffrey Epstein = 14. Full corpus: 3,756 documents. Direct emails 2013-2016, apartment at 301 E 66th cleaned by Epstein staff (Mar 2019), "i dont work for mossad :)" (Dec 2017), week-long island stay Jan 2019, Bannon meeting brokered.
+**Knowledge Graph Weight:** Ehud Barak associated_with Jeffrey Epstein = 14. Full corpus: 3,756 documents. Direct emails 2013-2016, apartment at 301 E 66th cleaned by Epstein staff (Mar 2019), Epstein: "i dont work for mossad :)" (Dec 2018), week-long island stay Jan 2019, Bannon meeting brokered.
 
 ### Israeli Intelligence/Mossad
 - **[EFTA01652757](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01652757.pdf)** - References "FBI, MI6, CIA or Mossad" in connection with Epstein's death
@@ -481,13 +481,13 @@ Corrections integrated from revisit against full_text_corpus.db (1,380,937 docs,
 1. **Section B (Carbyne/Reporty, line 91):** Overturned from "No direct hits" to 50+ Carbyne, 324 Reporty, 11 Unit 8200, 23 Shin Bet, 4 Mega Group docs. Complete investment structure documented. FBI CHS FD-1023 intelligence claim identified. (Report #52 revisit)
 2. **Executive summary (Cuomo, line 17):** "Cuomo" is a victim surname (Tony Cuomo), not Governor Andrew Cuomo. (Session 8 finding)
 3. **Section D (Elon Musk, line 134):** Expanded from Knowledge Graph Weight 12 to 1,038 docs in full corpus. 15+ direct email exchanges 2012-2015. NTOC tip caveat added. (Report #54 revisit)
-4. **Section D (Bezos, line 138):** Overturned from "No hits" -- confirmed at 2004 Indian Summer dinner with Brin/Page. ([BIOTECH_SCIENCE_NETWORK_INVESTIGATION.md](../scientists/BIOTECH_SCIENCE_NETWORK_INVESTIGATION.md))
+4. **Section D (Bezos, line 138):** Overturned from "No hits" -- confirmed at 2004 Indian Summer dinner with Brin/Page. ([BIOTECH_SCIENCE_NETWORK_INVESTIGATION.md](/scientists/BIOTECH_SCIENCE_NETWORK_INVESTIGATION.md))
 5. **Section D (Zuckerberg, line 139):** Overturned from "No hits" -- attended Aug 2015 Palo Alto dinner. (Report #45 revisit)
 6. **Section N (Financial scope, lines 432/463):** Expanded from $85M/16+ entities to $755M+/95+ entities. (Reports #7-8 revisit)
 7. **Section J (Lutnick, line 358):** Overturned from peripheral (KGW 13) to inner circle -- 20+ DS9 docs, Little St. James family visit, same call list as Leon Black. (Report #21 revisit)
 8. **Section B (Barak, line 87):** Expanded from 18+ scheduling docs (KGW 14) to 3,756 documents. Direct emails, 301 E 66th apartment, island stay, Bannon meeting. (Report #52 revisit)
 9. **Section D (NTOC Musk tip, line 136):** Added caveat that this is an unverified caller report from the FBI hotline. (Report #56 revisit)
-10. **Section C (Larry Page, line 112):** Overturned from "No direct hits" -- confirmed at 2004 Indian Summer dinner. ([BIOTECH_SCIENCE_NETWORK_INVESTIGATION.md](../scientists/BIOTECH_SCIENCE_NETWORK_INVESTIGATION.md))
+10. **Section C (Larry Page, line 112):** Overturned from "No direct hits" -- confirmed at 2004 Indian Summer dinner. ([BIOTECH_SCIENCE_NETWORK_INVESTIGATION.md](/scientists/BIOTECH_SCIENCE_NETWORK_INVESTIGATION.md))
 11. **Items confirmed:** Leon Black as most-connected individual, Prominent Names document (all variants + 5th variant [EFTA00164939](https://www.justice.gov/epstein/files/DataSet%209/EFTA00164939.pdf)), Alexander brothers, shell company entities (expanded to 95+), evidence destruction indicators.
 
 *Cross-referenced with revisits #7, #8, #21, #45, #52, #54, #55, #56.*

@@ -1,7 +1,7 @@
 # FINAL INVESTIGATION REPORT
-# Systematic Analysis of the 218GB DOJ Jeffrey Epstein File Release
+# Forensic Analysis of the 218GB DOJ Jeffrey Epstein File Release
 
-> **Context:** This report was compiled on February 7, 2026 during the first two weeks of the investigation. It synthesizes findings available at that time. The project has since produced **150+ investigation reports** across 16 categories — including financial analysis, grand jury subpoena analysis, individual investigations, and government official searches that are not reflected here. For the complete catalog, see the [full report index](https://epstein-data.com/reports/).
+> **Context:** This report was compiled on February 7, 2026 during the first two weeks of the investigation. It synthesizes findings available at that time. The project has since produced **150+ investigation reports** across 16 categories — including financial forensics, grand jury subpoena analysis, individual investigations, and government official searches that are not reflected here. For the complete catalog, see the [full report index](https://epstein-data.com/reports/).
 
 **Classification:** INVESTIGATIVE SUMMARY
 **Date of Compilation:** February 7, 2026
@@ -364,7 +364,7 @@ $1M to Neoteny 3 LP, $1M+ direct to Ito across multiple payments (2014-2015). It
 
 **Gratitude America, Ltd -- Lithuanian Ballet and Cancer Research**
 
-Epstein entity making payments to NPO Baleto Teatras (Lithuanian National Ballet) and VSJ Baleto Teatras, as well as Cancer Research Wellness Institute. Connection to Karyna Shuliak (Lithuanian-born Butterfly Trust beneficiary) established through a "Hello from Vilnius" email ([EFTA02203371](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02203371.pdf)). Shuliak appears 20+ times in DS10 documents as trust beneficiary and signatory. Funded by $10M from BV70 LLC (Leon Black). ([EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf))
+Epstein entity making payments to NPO Baleto Teatras (Lithuanian National Ballet) and VSJ Baleto Teatras, as well as Cancer Research Wellness Institute. Connection to Karyna Shuliak (Belarusian-born Butterfly Trust beneficiary, with Lithuanian family ties) established through a "Hello from Vilnius" email ([EFTA02203371](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02203371.pdf)). Shuliak appears 20+ times in DS10 documents as trust beneficiary and signatory. Funded by $10M from BV70 LLC (Leon Black). ([EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf))
 
 **David Mitchell / Mitchell Holdings LLC (~$476K)**
 
@@ -1278,9 +1278,9 @@ Evidence grading scale:
 
 ### KARYNA SHULIAK
 **Documents:** 25+
-**Evidence Grade:** MODERATE -- Butterfly Trust beneficiary, Lithuanian connections, residence at intelligence nexus
+**Evidence Grade:** MODERATE -- Butterfly Trust beneficiary, Eastern European connections, residence at intelligence nexus
 **Key EFTA:** [EFTA01282297](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01282297.pdf) (Butterfly Trust beneficiary — replaced Maxwell in late 2014), [EFTA01378419](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01378419.pdf) (partial SSN at 301 E 66th)
-**Evidence:** Added as a beneficiary of the Butterfly Trust in late 2014, in the same instrument that deleted Maxwell as a beneficiary ([EFTA01282297](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01282297.pdf), page 16). Resided at 301 East 66th Street -- the same building housing MC2 model apartments, Ehud Barak's apartment, trafficking victims, and Epstein corporate entities ([EFTA01378419](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01378419.pdf), partial SSN documented). Lithuanian-born, connected to Gratitude America entity which made payments to NPO Baleto Teatras (Lithuanian National Ballet) and VSJ Baleto Teatras. "Hello from Vilnius" email establishing the Lithuanian connection ([EFTA02203371](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02203371.pdf)). Appears 20+ times in DS10 documents as trust beneficiary and signatory. Calendar entry: "Drive to Leon Blacks house with Karyna" ([EFTA01928406](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01928406.pdf)). Accompanied Epstein on the Marrakesh flight one week after the $25M Rothschild transfer in December 2015 -- "you and Karyna only" ([EFTA02477179](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02477179.pdf)). The fact that Shuliak replaced Maxwell as a Butterfly Trust beneficiary in the same instrument (late 2014) suggests a deliberate transition of Epstein's inner-circle trust structure.
+**Evidence:** Added as a beneficiary of the Butterfly Trust in late 2014, in the same instrument that deleted Maxwell as a beneficiary ([EFTA01282297](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01282297.pdf), page 16). Resided at 301 East 66th Street -- the same building housing MC2 model apartments, Ehud Barak's apartment, trafficking victims, and Epstein corporate entities ([EFTA01378419](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01378419.pdf), partial SSN documented). Belarusian-born (Minsk), with Lithuanian family ties ([Bloomberg](https://www.bloomberg.com/news/features/2026-02-14/epstein-files-sham-marriages-student-visas-used-to-keep-women-in-us), [Kyiv Independent](https://kyivindependent.com/the-belarusian-woman-at-the-center-of-epsteins-final-days/)). Connected to Gratitude America entity which made payments to NPO Baleto Teatras (Lithuanian National Ballet) and VSJ Baleto Teatras. "Hello from Vilnius" email establishing the Lithuanian family connection ([EFTA02203371](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02203371.pdf)). Appears 20+ times in DS10 documents as trust beneficiary and signatory. Calendar entry: "Drive to Leon Blacks house with Karyna" ([EFTA01928406](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01928406.pdf)). Accompanied Epstein on the Marrakesh flight one week after the $25M Rothschild transfer in December 2015 -- "you and Karyna only" ([EFTA02477179](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02477179.pdf)). The fact that Shuliak replaced Maxwell as a Butterfly Trust beneficiary in the same instrument (late 2014) suggests a deliberate transition of Epstein's inner-circle trust structure.
 
 ### BOB KERREY, Former Senator
 **Documents:** 5+
@@ -2471,7 +2471,7 @@ Reports produced during the investigation (as of initial compilation), with brie
 | # | Report | Description |
 |---|--------|-------------|
 | 34 | VICTIM_JOURNAL_FULL_EXTRACTION.md | Complete 13-page first journal reconstruction: Black, Mitchell, Summers, Dershowitz, 20+ names |
-| 35 | [BIOTECH_SCIENCE_NETWORK_INVESTIGATION.md](../scientists/BIOTECH_SCIENCE_NETWORK_INVESTIGATION.md) | Edge Foundation pipeline: Brin/Page/Bezos 2004 dinner, Seth Lloyd, George Church, Krauss, Minsky |
+| 35 | [BIOTECH_SCIENCE_NETWORK_INVESTIGATION.md](/scientists/BIOTECH_SCIENCE_NETWORK_INVESTIGATION.md) | Edge Foundation pipeline: Brin/Page/Bezos 2004 dinner, Seth Lloyd, George Church, Krauss, Minsky |
 | 36 | RICHARDSON_SDNY_COVERUP.md | Richardson "clearance" claim falsification, SDNY frustration, NM AG deferral, never subpoenaed |
 | 37 | DC_POWER_BROKERS_INVESTIGATION.md | Leonsis (filming), Pritzker (Hyatt), Josephson ($200K), Zuckerman, Bannon, AOL cluster |
 | 38 | HAUB_CHASIN_DEATH_THREATS.md | Karl Erivan Haub disappearance claims, Mark Epstein threats, Dana Chasin aviation intermediary |
@@ -2486,49 +2486,49 @@ Reports produced during the investigation (as of initial compilation), with brie
 
 | # | Report | Description |
 |---|--------|-------------|
-| 45 | [LEON_BLACK_PROSECUTION_FAILURE.md](../individuals/LEON_BLACK_PROSECUTION_FAILURE.md) | Complete prosecution timeline 2021-2024: SDNY + Manhattan DA failures, 4+ victims, video allegation |
+| 45 | [LEON_BLACK_PROSECUTION_FAILURE.md](/individuals/LEON_BLACK_PROSECUTION_FAILURE.md) | Complete prosecution timeline 2021-2024: SDNY + Manhattan DA failures, 4+ victims, video allegation |
 | 46 | PROMINENT_NAMES_COMPLETE_V2.md | Full extraction of FBI master briefing deck: all 21 pages, all named individuals with exact allegations |
 | 47 | SIEGEL_DILORIO_INVESTIGATION.md | Bill Siegel: 16 EFTA docs, victim journal identification. Dilorio: Apollo/Kushner SEC whistleblower |
-| 48 | [ALLRED_VICTIM_INTERVIEW.md](../victims/ALLRED_VICTIM_INTERVIEW.md) | 30-page FBI evidence package: victim born ~1985, 4 assaults before 18, 2 rapes, harem ideology, Brunel |
-| 49 | [WILLIAM_BARR_INVESTIGATION.md](../individuals/WILLIAM_BARR_INVESTIGATION.md) | 55+ documents: NTOC "present during abuses," father hired Epstein at Dalton, split recusal, K&E conflict |
-| 50 | [LUTNICK_DUBIN_INVESTIGATION.md](../individuals/LUTNICK_DUBIN_INVESTIGATION.md) | Lutnick: single NTOC tip (disgruntled employee). Dubin: 54 documents, "lent out," Eva described as present, 34+ flights |
-| 51 | [RUEMMLER_DEEP_DIVE.md](../individuals/RUEMMLER_DEEP_DIVE.md) | 29 documents: "Clinton Obama" warning, "Nigerian" placement, sealed indictment, Goldman Sachs trajectory |
-| 52 | [JUNKERMANN_MC2_INVESTIGATION.md](../individuals/JUNKERMANN_MC2_INVESTIGATION.md) | 10+ year relationship, Epstein brokered Black intro, Jan 2019 island, MC2 stranding Russian models |
-| 53 | [MARCINKOVA_INVESTIGATION.md](../individuals/MARCINKOVA_INVESTIGATION.md) | Near-zero full-name results in redaction databases (1 hit in DS10), $100K Aviloop wire, 124 flights |
+| 48 | [ALLRED_VICTIM_INTERVIEW.md](/victims/ALLRED_VICTIM_INTERVIEW.md) | 30-page FBI evidence package: victim born ~1985, 4 assaults before 18, 2 rapes, harem ideology, Brunel |
+| 49 | [WILLIAM_BARR_INVESTIGATION.md](/individuals/WILLIAM_BARR_INVESTIGATION.md) | 55+ documents: NTOC "present during abuses," father hired Epstein at Dalton, split recusal, K&E conflict |
+| 50 | [LUTNICK_DUBIN_INVESTIGATION.md](/individuals/LUTNICK_DUBIN_INVESTIGATION.md) | Lutnick: single NTOC tip (disgruntled employee). Dubin: 54 documents, "lent out," Eva described as present, 34+ flights |
+| 51 | [RUEMMLER_DEEP_DIVE.md](/individuals/RUEMMLER_DEEP_DIVE.md) | 29 documents: "Clinton Obama" warning, "Nigerian" placement, sealed indictment, Goldman Sachs trajectory |
+| 52 | [JUNKERMANN_MC2_INVESTIGATION.md](/individuals/JUNKERMANN_MC2_INVESTIGATION.md) | 10+ year relationship, Epstein brokered Black intro, Jan 2019 island, MC2 stranding Russian models |
+| 53 | [MARCINKOVA_INVESTIGATION.md](/individuals/MARCINKOVA_INVESTIGATION.md) | Near-zero full-name results in redaction databases (1 hit in DS10), $100K Aviloop wire, 124 flights |
 
 ### Session 9 Reports (54-66)
 
 | # | Report | Description |
 |---|--------|-------------|
-| 54 | [SESSION9_MASTER_FINDINGS.md](../overview/SESSION9_MASTER_FINDINGS.md) | Comprehensive session findings: CBP corruption, Austrian passport, victim census, shell entity map |
-| 55 | [FOUR_CHAN_PARAMEDIC_INVESTIGATION.md](../evidence/FOUR_CHAN_PARAMEDIC_INVESTIGATION.md) | 4chan death leak, hard drives removed 10:15 PM, guard DPAs dismissed, employee confession YouTube |
-| 56 | [ONLINE_EVIDENCE_INVESTIGATION.md](../evidence/ONLINE_EVIDENCE_INVESTIGATION.md) | r/maxwellhill screenshot in FBI serial, social media led to Maxwell via Borgerson-Angara-Tidewood shells |
-| 57 | [UNNAMED_PERSONS_INVESTIGATION.md](../individuals/UNNAMED_PERSONS_INVESTIGATION.md) | Foreign president = Ehud Barak (14+ docs), AOL cluster mapped, 34 journal names cross-referenced |
-| 58 | [CBP_CORRUPTION_INVESTIGATION.md](../institutional/CBP_CORRUPTION_INVESTIGATION.md) | Badge #CAS03223 self-incriminated, 7+ years clearing aircraft, FBI proffer sessions Oct-Nov 2020 |
-| 59 | [DILORIO_APOLLO_WHISTLEBLOWER.md](../financial/DILORIO_APOLLO_WHISTLEBLOWER.md) | ESWW shell/Epstein Financial Trust in same SEC filing as Apollo, SEC dropped probe, threatening calls |
-| 60 | [TRAFFICKING_ROUTES_INVESTIGATION.md](../victims/TRAFFICKING_ROUTES_INVESTIGATION.md) | Aircraft fleet, weekly cycling, MC2 ages 13-20, flight logs incomplete (pilots did not retroactively add names), victim "database" tracking |
-| 61 | [PROSECUTION_FAILURES_ANALYSIS.md](../institutional/PROSECUTION_FAILURES_ANALYSIS.md) | NPA architecture, Acosta deposition, blanket co-conspirator immunity expansion, named individual prosecution failures |
-| 62 | [SHELL_ENTITY_MAP.md](../financial/SHELL_ENTITY_MAP.md) | 95+ entities across 10 categories under RM CODE 82289 at Deutsche Bank |
-| 63 | [VICTIM_CENSUS.md](../victims/VICTIM_CENSUS.md) | Minimum 60-80 individually identified, likely 200+, USVI AG: "hundreds" |
-| 64 | [ISRAELI_INTELLIGENCE_DEEP_DIVE.md](../intelligence/ISRAELI_INTELLIGENCE_DEEP_DIVE.md) | 301 E 66th nexus, military base tour, Melvyn Kohn letters, FOIA intelligence exemption |
-| 65 | [CBP_RUEMMLER_REMAINING_LEADS.md](../institutional/CBP_RUEMMLER_REMAINING_LEADS.md) | CBP officer expanded, Ruemmler full 15-email trail, 3BIS active construction May 2019 |
-| 66 | [UNEXPLORED_DOCUMENT_MINING.md](../overview/UNEXPLORED_DOCUMENT_MINING.md) | Camera-in-clock confirmed, T-160 VHS never scanned, Boies/Pottinger extortion, 48 diamonds |
+| 54 | [SESSION9_MASTER_FINDINGS.md](/overview/SESSION9_MASTER_FINDINGS.md) | Comprehensive session findings: CBP corruption, Austrian passport, victim census, shell entity map |
+| 55 | [FOUR_CHAN_PARAMEDIC_INVESTIGATION.md](/evidence/FOUR_CHAN_PARAMEDIC_INVESTIGATION.md) | 4chan death leak, hard drives removed 10:15 PM, guard DPAs dismissed, employee confession YouTube |
+| 56 | [ONLINE_EVIDENCE_INVESTIGATION.md](/evidence/ONLINE_EVIDENCE_INVESTIGATION.md) | r/maxwellhill screenshot in FBI serial, social media led to Maxwell via Borgerson-Angara-Tidewood shells |
+| 57 | [UNNAMED_PERSONS_INVESTIGATION.md](/individuals/UNNAMED_PERSONS_INVESTIGATION.md) | Foreign president = Ehud Barak (14+ docs), AOL cluster mapped, 34 journal names cross-referenced |
+| 58 | [CBP_CORRUPTION_INVESTIGATION.md](/institutional/CBP_CORRUPTION_INVESTIGATION.md) | Badge #CAS03223 self-incriminated, 7+ years clearing aircraft, FBI proffer sessions Oct-Nov 2020 |
+| 59 | [DILORIO_APOLLO_WHISTLEBLOWER.md](/financial/DILORIO_APOLLO_WHISTLEBLOWER.md) | ESWW shell/Epstein Financial Trust in same SEC filing as Apollo, SEC dropped probe, threatening calls |
+| 60 | [TRAFFICKING_ROUTES_INVESTIGATION.md](/victims/TRAFFICKING_ROUTES_INVESTIGATION.md) | Aircraft fleet, weekly cycling, MC2 ages 13-20, flight logs incomplete (pilots did not retroactively add names), victim "database" tracking |
+| 61 | [PROSECUTION_FAILURES_ANALYSIS.md](/institutional/PROSECUTION_FAILURES_ANALYSIS.md) | NPA architecture, Acosta deposition, blanket co-conspirator immunity expansion, named individual prosecution failures |
+| 62 | [SHELL_ENTITY_MAP.md](/financial/SHELL_ENTITY_MAP.md) | 95+ entities across 10 categories under RM CODE 82289 at Deutsche Bank |
+| 63 | [VICTIM_CENSUS.md](/victims/VICTIM_CENSUS.md) | Minimum 60-80 individually identified, likely 200+, USVI AG: "hundreds" |
+| 64 | [ISRAELI_INTELLIGENCE_DEEP_DIVE.md](/intelligence/ISRAELI_INTELLIGENCE_DEEP_DIVE.md) | 301 E 66th nexus, military base tour, Melvyn Kohn letters, FOIA intelligence exemption |
+| 65 | [CBP_RUEMMLER_REMAINING_LEADS.md](/institutional/CBP_RUEMMLER_REMAINING_LEADS.md) | CBP officer expanded, Ruemmler full 15-email trail, 3BIS active construction May 2019 |
+| 66 | [UNEXPLORED_DOCUMENT_MINING.md](/overview/UNEXPLORED_DOCUMENT_MINING.md) | Camera-in-clock confirmed, T-160 VHS never scanned, Boies/Pottinger extortion, 48 diamonds |
 
 ### Session 10 Reports -- Art and Digital Forensics (67-77)
 
 | # | Report | Description |
 |---|--------|-------------|
-| 67 | [ART_INVESTIGATION_COMPLETE.md](../art/ART_INVESTIGATION_COMPLETE.md) | Unified art investigation (80KB, 1617 lines): $30.5M auction proceeds, Black $2.7B collection, 54 named art world figures, 72 sections |
-| 68 | [ART_INVESTIGATION_REDACTIONS.md](../art/ART_INVESTIGATION_REDACTIONS.md) | Sub-report: 165 queries across 3.4M redaction records for art-related hidden text |
-| 69 | [ART_INVESTIGATION_OCR_IMAGES.md](../art/ART_INVESTIGATION_OCR_IMAGES.md) | Sub-report: 53 queries across OCR + image databases for art documentation |
-| 70 | [ART_INVESTIGATION_WEB_RESEARCH.md](../art/ART_INVESTIGATION_WEB_RESEARCH.md) | Sub-report: 40+ web sources, 16 sections on art market connections |
-| 71 | [TRANSACTION_CHAIN_AUCTION_TO_DESTINATION.md](../financial/TRANSACTION_CHAIN_AUCTION_TO_DESTINATION.md) | Prosecutorial narrative: $30.5M Sotheby's/Christie's through Haze Trust to investment funds |
-| 72 | [TRANSACTION_CHAIN_BLACK_ART_MACHINE.md](../financial/TRANSACTION_CHAIN_BLACK_ART_MACHINE.md) | Prosecutorial narrative: 15 chains tracing $168M Black to Epstein, art/trafficking structural unity |
-| 73 | [TRANSACTION_CHAIN_THIRD_PARTY_ART.md](../financial/TRANSACTION_CHAIN_THIRD_PARTY_ART.md) | Prosecutorial narrative: Prytanee, Rothschild, Tudor, Gratitude America, Mitchell, art insurance |
-| 74 | [PLIST_FORENSIC_SEARCH.md](../evidence/PLIST_FORENSIC_SEARCH.md) | 460+ Apple Mail PLIST metadata documents, 2 email accounts, 9-year date range |
-| 75 | [PLIST_REDACTED_EMAILS_DEEP_DIVE.md](../evidence/PLIST_REDACTED_EMAILS_DEEP_DIVE.md) | 12 bad_overlay redactions: "I'm not a toy Jeffrey," neuroscience dinner, State Dept call for Mitchell |
-| 76 | [PLIST_TIMESTAMP_TRANSACTION_CORRELATION.md](../evidence/PLIST_TIMESTAMP_TRANSACTION_CORRELATION.md) | 420 timestamps vs financial dates: Tudor $13.5M strongest, 99-day PLIST gap (later corrected by DS9) |
-| 77 | [DEVICE_FORENSICS_COMPLETE.md](../evidence/DEVICE_FORENSICS_COMPLETE.md) | 70+ devices, 2005 computer NEVER searched, DVR failure, "FBI completely fucking us" processing |
+| 67 | [ART_INVESTIGATION_COMPLETE.md](/art/ART_INVESTIGATION_COMPLETE.md) | Unified art investigation (80KB, 1617 lines): $30.5M auction proceeds, Black $2.7B collection, 54 named art world figures, 72 sections |
+| 68 | [ART_INVESTIGATION_REDACTIONS.md](/art/ART_INVESTIGATION_REDACTIONS.md) | Sub-report: 165 queries across 3.4M redaction records for art-related hidden text |
+| 69 | [ART_INVESTIGATION_OCR_IMAGES.md](/art/ART_INVESTIGATION_OCR_IMAGES.md) | Sub-report: 53 queries across OCR + image databases for art documentation |
+| 70 | [ART_INVESTIGATION_WEB_RESEARCH.md](/art/ART_INVESTIGATION_WEB_RESEARCH.md) | Sub-report: 40+ web sources, 16 sections on art market connections |
+| 71 | [TRANSACTION_CHAIN_AUCTION_TO_DESTINATION.md](/financial/TRANSACTION_CHAIN_AUCTION_TO_DESTINATION.md) | Prosecutorial narrative: $30.5M Sotheby's/Christie's through Haze Trust to investment funds |
+| 72 | [TRANSACTION_CHAIN_BLACK_ART_MACHINE.md](/financial/TRANSACTION_CHAIN_BLACK_ART_MACHINE.md) | Prosecutorial narrative: 15 chains tracing $168M Black to Epstein, art/trafficking structural unity |
+| 73 | [TRANSACTION_CHAIN_THIRD_PARTY_ART.md](/financial/TRANSACTION_CHAIN_THIRD_PARTY_ART.md) | Prosecutorial narrative: Prytanee, Rothschild, Tudor, Gratitude America, Mitchell, art insurance |
+| 74 | [PLIST_FORENSIC_SEARCH.md](/evidence/PLIST_FORENSIC_SEARCH.md) | 460+ Apple Mail PLIST metadata documents, 2 email accounts, 9-year date range |
+| 75 | [PLIST_REDACTED_EMAILS_DEEP_DIVE.md](/evidence/PLIST_REDACTED_EMAILS_DEEP_DIVE.md) | 12 bad_overlay redactions: "I'm not a toy Jeffrey," neuroscience dinner, State Dept call for Mitchell |
+| 76 | [PLIST_TIMESTAMP_TRANSACTION_CORRELATION.md](/evidence/PLIST_TIMESTAMP_TRANSACTION_CORRELATION.md) | 420 timestamps vs financial dates: Tudor $13.5M strongest, 99-day PLIST gap (later corrected by DS9) |
+| 77 | [DEVICE_FORENSICS_COMPLETE.md](/evidence/DEVICE_FORENSICS_COMPLETE.md) | 70+ devices, 2005 computer NEVER searched, DVR failure, "FBI completely fucking us" processing |
 
 ### Codex Financial Analysis (78-84)
 

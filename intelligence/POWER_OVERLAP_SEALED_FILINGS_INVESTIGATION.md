@@ -702,7 +702,7 @@ The following contextual evidence remains relevant:
 - Kohn letters (unverified source) stating "certain parties ARE" intelligence-connected
 - Barak's military/intelligence background + 3,744 documents in full corpus
 - Maxwell's father (Robert Maxwell) known intelligence connections
-- Barak to Epstein: "you should make clear that i dont work for mossad :)" / Epstein: "unfortunately, not" ([EFTA01013272](https://www.justice.gov/epstein/files/DataSet%209/EFTA01013272.pdf), Dec 2018)
+- Epstein to Barak: "you should make clear that i dont work for mossad :)" / "unfortunately, not" — Barak replies: "You or I?" / Epstein: "that I dont :)" ([EFTA01013272](https://www.justice.gov/epstein/files/DataSet%209/EFTA01013272.pdf), Dec 17, 2018)
 
 The intelligence nexus is now documented through CHS reporting but remains unverified at the FBI conclusion level. The FD-1023 was filed under case numbers that include "INTELPRODS" (intelligence products), indicating it was processed through an intelligence channel rather than a criminal channel.
 

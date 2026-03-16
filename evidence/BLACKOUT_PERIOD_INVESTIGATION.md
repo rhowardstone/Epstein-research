@@ -668,7 +668,7 @@ Rather than "going dark," the DS9 evidence reveals Epstein continued operating w
 DS9 contains continuous daily jeevacation@gmail.com email activity throughout Nov 14, 2018 - Feb 21, 2019. Over 5,188 distinct documents reference jeevacation with dates during this period. Key documented emails during the alleged blackout:
 
 - **Dec 1-3, 2018:** Bedford trip with George Church, Seth Lloyd, Martin Nowak; conference call with Ruemmler/Wolff/Indyke ([EFTA00486083](https://www.justice.gov/epstein/files/DataSet%209/EFTA00486083.pdf))
-- **Dec 17, 2018:** Barak to Epstein: "i dont work for mossad :)" ([EFTA01013272](https://www.justice.gov/epstein/files/DataSet%209/EFTA01013272.pdf))
+- **Dec 17, 2018:** Epstein to Barak: "you should make clear that i dont work for mossad :)" / "unfortunately, not" — Barak: "You or I?" ([EFTA01013272](https://www.justice.gov/epstein/files/DataSet%209/EFTA01013272.pdf))
 - **Dec 21, 2018:** Summers: "Want to discuss the Donald at some point. Curious re Dersh" ([EFTA01010387](https://www.justice.gov/epstein/files/DataSet%209/EFTA01010387.pdf))
 - **Dec 25, 2018:** Epstein to Summers: "being asked for 3 names to replace mnuchin" ([EFTA01010526](https://www.justice.gov/epstein/files/DataSet%209/EFTA01010526.pdf))
 - **Jan 2, 2019:** Groff sends full January calendar ([EFTA00486718](https://www.justice.gov/epstein/files/DataSet%209/EFTA00486718.pdf))

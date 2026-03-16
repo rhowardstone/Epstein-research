@@ -275,7 +275,7 @@ STEP 6: Karyna Shuliak -- Butterfly Trust Beneficiary Connection
 - [EFTA01681865](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01681865.pdf): "Shuliak UBO" (Ultimate Beneficial Owner)
 - [EFTA01364303](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01364303.pdf): Shuliak address "ast 66th Str" (East 66th Street, NYC)
 - [EFTA01378419](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01378419.pdf): "SHULIAK KARYNA 301 E 66TH ST APT 10F" with partial SSN
-- Shuliak is of Lithuanian/Eastern European origin -- connecting to the Lithuanian ballet funding
+- Shuliak is Belarusian-born (Minsk), with Lithuanian family ties -- connecting to the Lithuanian ballet funding
 - 200+ Shuliak references across the database establish her deep integration into Epstein's operations
 
 STEP 7: DB production confirms Gratitude America as prosecutorial target
@@ -301,7 +301,7 @@ DESTINATION:
 - Internal checking transfers: $3,864,876+
 
 ### PROSECUTORIAL SIGNIFICANCE
-1. **BV70 LLC (Leon Black) --> Gratitude America ($10M) --> Lithuanian Ballet**: This creates a direct money trail from a billionaire's entity through Epstein's charity to a cultural institution connected to Epstein's Ukrainian/Lithuanian girlfriend (Shuliak)
+1. **BV70 LLC (Leon Black) --> Gratitude America ($10M) --> Lithuanian Ballet**: This creates a direct money trail from a billionaire's entity through Epstein's charity to a cultural institution connected to Epstein's Belarusian girlfriend (Shuliak, with Lithuanian family ties)
 2. **Fraudulent charitable reporting**: WSJ confirmed donations listed on tax forms were never received by named charities -- establishing charitable fraud
 3. **Butterfly Trust / Gratitude America co-management**: Both entities appear on the same Deutsche Bank RM CODE 82289 balance sheets, managed by the same people (Indyke, Kahn), with Shuliak as the link
 4. The Lithuanian ballet payments ($28,493) are small enough to avoid scrutiny but establish a pattern of using charitable vehicles for personal/relationship purposes

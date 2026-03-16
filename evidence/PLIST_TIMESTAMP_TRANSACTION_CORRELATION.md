@@ -181,7 +181,7 @@
 >
 > Key DS9 emails during the supposed gap:
 > - **Nov 14-15, 2018**: 15+ emails including architect travel, Apple Watch orders, Joscha Bach island trip
-> - **Dec 17, 2018**: Barak to Epstein: "you should make clear that i dont work for mossad :)" / Epstein: "unfortunately, not" ([EFTA01013272](https://www.justice.gov/epstein/files/DataSet%209/EFTA01013272.pdf))
+> - **Dec 17, 2018**: Epstein to Barak: "you should make clear that i dont work for mossad :)" / "unfortunately, not" — Barak: "You or I?" ([EFTA01013272](https://www.justice.gov/epstein/files/DataSet%209/EFTA01013272.pdf))
 > - **Dec 21-26, 2018**: Summers-Epstein exchange: "Want to discuss the Donald...Curious re Dersh" ([EFTA01009424](https://www.justice.gov/epstein/files/DataSet%209/EFTA01009424.pdf)); Moscow flight rescheduling ([EFTA00488235](https://www.justice.gov/epstein/files/DataSet%209/EFTA00488235.pdf)); fund transfers ([EFTA01010835](https://www.justice.gov/epstein/files/DataSet%209/EFTA01010835.pdf))
 > - **Jan 2-9, 2019**: Kahn to Epstein re Honeycomb Partners, Scott Link invoices, Boothbay fund returns ([EFTA01009628](https://www.justice.gov/epstein/files/DataSet%209/EFTA01009628.pdf), [EFTA01009503](https://www.justice.gov/epstein/files/DataSet%209/EFTA01009503.pdf), [EFTA01009065](https://www.justice.gov/epstein/files/DataSet%209/EFTA01009065.pdf))
 >

@@ -451,7 +451,7 @@ The following claims from CHS reporting can be **independently corroborated** us
 
 2. **Mossad debriefing Dershowitz**: The claim that "Mossad would then call Dershowitz to debrief" after Dershowitz-Epstein phone calls is single-source from S-00099701 and cannot be verified from the corpus.
 
-3. **Epstein "trained as a spy" under Barak**: Single-source from the same CHS. While Epstein's relationship with Ehud Barak is extensively documented in the corpus (including a [December 2018 email](https://www.justice.gov/epstein/files/DataSet%209/EFTA01013272.pdf) where Barak writes "you should make clear that i dont work for mossad :)" and Epstein responds "unfortunately, not"), this does not constitute evidence of a training relationship.
+3. **Epstein "trained as a spy" under Barak**: Single-source from the same CHS. While Epstein's relationship with Ehud Barak is extensively documented in the corpus (including a [December 2018 email](https://www.justice.gov/epstein/files/DataSet%209/EFTA01013272.pdf) where Epstein writes "you should make clear that i dont work for mossad :)" and "unfortunately, not" — Barak responds "You or I?" and Epstein clarifies "that I dont :)"), this does not constitute evidence of a training relationship.
 
 4. **Israeli state-sponsored operation**: The S-00104760 CHS's characterization of Epstein as "running an Israeli state-sponsored technology collection and extortion operation" is analytical conclusion, not first-hand observation. The FBI's closure codes assessed this reporting as containing open-source information that did not meet the DETAILED threshold.
 
@@ -552,9 +552,9 @@ Several expected documents are absent:
 
 ## Methodology
 
-This report is based entirely on the DOJ's EFTA production (2.73 million pages across 12 datasets) plus FBI Vault and House Oversight materials. All EFTA citations were verified against the [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v5.0) database. All quoted text was read directly from the database, not from summaries.
+This report is based entirely on the DOJ's EFTA production (2.73 million pages across 12 datasets) plus FBI Vault and House Oversight materials. All EFTA citations were verified against the `full_text_corpus.db` database. All quoted text was read directly from the database, not from summaries.
 
-For areas overlapping with Israeli intelligence connections, this report cross-references the [Israel Deep Dive V2](../intelligence/ISRAEL_DEEP_DIVE_V2.md) and focuses on the structural FBI architecture rather than re-documenting claims already covered in that report.
+For areas overlapping with Israeli intelligence connections, this report cross-references the [Israel Deep Dive V2](/intelligence/ISRAEL_DEEP_DIVE_V2.md) and focuses on the structural FBI architecture rather than re-documenting claims already covered in that report.
 
 **Analytical standard**: CHS reports (FD-1023s) are raw, unverified intelligence. As the FBI's own [disclaimer](https://www.newsguardrealitycheck.com/p/was-epstein-an-israeli-spy-newsguards) states: "Recording this information does not validate it, establish its credibility, or weigh it against other information." This report presents the structure of the FBI's intelligence investigations and the content of the source reporting without endorsing the claims made by individual sources. Where claims can be independently verified or contradicted, this is noted.
 
