@@ -1,6 +1,5 @@
 # Karyna Shuliak — Full Investigation Report
 
-## RESEARCH DRAFT — NOT FOR PUBLICATION
 ## Date: March 16, 2026
 
 ---
