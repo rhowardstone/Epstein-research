@@ -1,7 +1,7 @@
 # Congressional Subpoena Guide: Evidence Inventory & Practical Procedures
 ## Every Witness, Every Document, Every Obstacle
 
-Updated: March 7, 2026
+Updated: March 17, 2026
 Sources: EFTA corpus (1.39M documents, 2.77M pages), House Oversight public records, CRS reports, court filings
 Standard: Every material factual claim supported by EFTA document number with justice.gov URL, OR external source URL
 
@@ -126,24 +126,25 @@ Authorized Jul 23, 2025 by bipartisan voice vote (Federal Law Enforcement Subcom
 | Feb 18 | Les Wexner | In person, ~5 hrs ([video](https://epstein-data.com/depositions?v=wexner)) | "Duped by world-class con man." Video released Feb 19. |
 | Feb 26 | Hillary Clinton | In person, ~4.5 hrs ([video](https://epstein-data.com/depositions?v=hillary_clinton), [CNN](https://www.cnn.com/2026/03/02/politics/clinton-depositions-epstein-video)) | Called questions "repetitive." Members asked about Pizzagate and UFOs. Stormed out after Boebert leaked photo. |
 | Feb 27 | Bill Clinton | In person, ~4.5 hrs ([video](https://epstein-data.com/depositions?v=bill_clinton), [CNN](https://www.cnn.com/2026/03/02/politics/clinton-depositions-epstein-video)) | Denied knowledge of criminal conduct before 2008 NPA. Video released Mar 2. |
+| Mar 11 | Richard Kahn | In person, ~7 hrs | Closed-door deposition. Transcript/video not yet released. |
 
 ## 2.4 Scheduled
 
 | Date | Witness | Type | Source |
 |------|---------|------|--------|
-| Mar 11, 2026 | Richard Kahn | Subpoena deposition (rescheduled from Feb 25) | [Washington Examiner](https://www.washingtonexaminer.com/news/justice/4471621/house-oversight-delays-depositions-epstein-associates-march/) |
 | Mar 19, 2026 | Darren Indyke | Subpoena deposition (rescheduled from Mar 5) | [Washington Examiner](https://www.washingtonexaminer.com/news/justice/4471621/house-oversight-delays-depositions-epstein-associates-march/) |
-| Apr 16 – Jun 9 | Bill Gates | Transcribed interview (agreed) | [CBS News](https://www.cbsnews.com/news/bill-gates-asked-testify-house-committee-epstein-ties-kathryn-ruemmler-leon-black/) |
-| Apr 16 – Jun 9 | Kathryn Ruemmler | Transcribed interview (agreed) | [CBS News](https://www.cbsnews.com/news/bill-gates-asked-testify-house-committee-epstein-ties-kathryn-ruemmler-leon-black/) |
-| Apr 16 – Jun 9 | Leon Black | Transcribed interview (agreed) | [CBS News](https://www.cbsnews.com/news/bill-gates-asked-testify-house-committee-epstein-ties-kathryn-ruemmler-leon-black/) |
-| Apr 16 – Jun 9 | Sarah Kellen | Transcribed interview (letter sent, not confirmed) | [Oversight.house.gov](https://oversight.house.gov/release/chairman-comer-seeks-seven-transcribed-interviews-as-part-of-epstein-investigation/) |
-| Apr 16 – Jun 9 | Lesley Groff | Transcribed interview (letter sent, not confirmed) | [Oversight.house.gov](https://oversight.house.gov/release/chairman-comer-seeks-seven-transcribed-interviews-as-part-of-epstein-investigation/) |
-| Apr 16 – Jun 9 | Doug Band | Transcribed interview (letter sent, not confirmed) | [Oversight.house.gov](https://oversight.house.gov/release/chairman-comer-seeks-seven-transcribed-interviews-as-part-of-epstein-investigation/) |
-| Apr 16 – Jun 9 | Ted Waitt | Transcribed interview (letter sent, not confirmed) | [Oversight.house.gov](https://oversight.house.gov/release/chairman-comer-seeks-seven-transcribed-interviews-as-part-of-epstein-investigation/) |
-| TBD | Howard Lutnick | Closed-door testimony (agreed) | [DNYUZ](https://dnyuz.com/2026/03/03/commerce-secretary-lutnick-to-appear-before-house-panel-investigating-epstein/) |
-| TBD | Pam Bondi | Subpoena (passed 24-19, Mar 4) | [CBS News](https://www.cbsnews.com/news/pam-bondi-subpoena-jeffrey-epstein-house-oversight-committee/) |
+| Mar 26, 2026 | Tova Noel | Transcribed interview (MCC guard on duty night of death) | [Oversight.house.gov](https://oversight.house.gov/release/chairman-comer-seeks-transcribed-interview-with-epstein-prison-guard/) |
+| Apr 16, 2026 | Ted Waitt | Transcribed interview (letter sent, not confirmed) | [Oversight.house.gov](https://oversight.house.gov/release/chairman-comer-seeks-seven-transcribed-interviews-as-part-of-epstein-investigation/) |
+| Apr 21, 2026 | Kathryn Ruemmler | Transcribed interview (agreed) | [CBS News](https://www.cbsnews.com/news/bill-gates-asked-testify-house-committee-epstein-ties-kathryn-ruemmler-leon-black/) |
+| May 5, 2026 | Doug Band | Transcribed interview (letter sent, not confirmed) | [Oversight.house.gov](https://oversight.house.gov/release/chairman-comer-seeks-seven-transcribed-interviews-as-part-of-epstein-investigation/) |
+| May 13, 2026 | Leon Black | Transcribed interview (agreed) | [CBS News](https://www.cbsnews.com/news/bill-gates-asked-testify-house-committee-epstein-ties-kathryn-ruemmler-leon-black/) |
+| May 19, 2026 | Bill Gates | Transcribed interview (agreed) | [CBS News](https://www.cbsnews.com/news/bill-gates-asked-testify-house-committee-epstein-ties-kathryn-ruemmler-leon-black/) |
+| Jun 3, 2026 | Sarah Kellen | Transcribed interview (letter sent, not confirmed) | [Oversight.house.gov](https://oversight.house.gov/release/chairman-comer-seeks-seven-transcribed-interviews-as-part-of-epstein-investigation/) |
+| Jun 9, 2026 | Lesley Groff | Transcribed interview (letter sent, not confirmed) | [Oversight.house.gov](https://oversight.house.gov/release/chairman-comer-seeks-seven-transcribed-interviews-as-part-of-epstein-investigation/) |
+| TBD | Howard Lutnick | Closed-door testimony (agreed; "within 10 days" per Mar 11 letter) | [Fox News](https://www.foxnews.com/politics/house-oversight-committee-demands-depositions-bondi-lutnick-epstein-probe) |
+| TBD | Pam Bondi | Subpoena (passed 24-19, Mar 4; "within 30 days" — subpoena not yet formally issued by Comer) | [CBS News](https://www.cbsnews.com/news/pam-bondi-subpoena-jeffrey-epstein-house-oversight-committee/) |
 
-**Note on transcribed interviews:** Chairman Comer sent letters to all seven individuals on March 3, 2026 with testimony dates ranging from April 16 to June 9. Specific per-person dates have not been publicly disclosed. Gates, Ruemmler, and Black "quickly agreed to volunteer" ([CBS News](https://www.cbsnews.com/news/bill-gates-asked-testify-house-committee-epstein-ties-kathryn-ruemmler-leon-black/)); Kellen, Groff, Band, and Waitt received letters but their agreement has not been publicly confirmed.
+**Note on transcribed interviews:** Chairman Comer sent letters on March 3, 2026 with specific per-person dates (above, 10 a.m., Washington). Gates, Ruemmler, and Black "quickly agreed to volunteer" ([CBS News](https://www.cbsnews.com/news/bill-gates-asked-testify-house-committee-epstein-ties-kathryn-ruemmler-leon-black/)); Kellen, Groff, Band, and Waitt received letters but their agreement has not been publicly confirmed. Tova Noel letter sent March 13 ([Oversight.house.gov](https://oversight.house.gov/release/chairman-comer-seeks-transcribed-interview-with-epstein-prison-guard/)).
 
 ## 2.5 Operation Chain Reaction (Wyden)
 
