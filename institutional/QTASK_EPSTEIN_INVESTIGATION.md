@@ -112,19 +112,17 @@ Qtask held the internal communications about this arrangement — who knew what,
 
 **March 22, 2011:** Trustee moves to hold Von Wolfsheild **jointly and severally liable** for all Qtask sanctions (D.E. 1558).
 
-**Source:** [EFTA02769191](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02769191.pdf) *(not in local FTS corpus — sourced from full-text search of DOJ website)*; [EFTA00621390](https://www.justice.gov/epstein/files/DataSet%209/EFTA00621390.pdf)
+**Source:** [EFTA02769191](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02769191.pdf); [EFTA00621390](https://www.justice.gov/epstein/files/DataSet%209/EFTA00621390.pdf)
 
 ### What the Expert Found: Active Obstruction
 
-*The following details are drawn from [EFTA02769191](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02769191.pdf), the Trustee's Motion to Fix and Compel Payment (D.E. 1270), which summarizes Expert Robert Moody's report (D.E. 1241). This document is not in the local FTS corpus and has not been independently verified page-by-page — readers should confirm against the original PDF at the link above.*
+Expert Robert Moody's December 2010 report (D.E. 1241) documented not passive delay but active counter-measures. The Trustee's motion (D.E. 1270) summarizing his findings states:
 
-Expert Robert Moody's December 2010 report (D.E. 1241) documented not passive delay but active counter-measures. According to the Trustee's motion summarizing his findings:
-
-- Initial Qtask productions were "useless" — described as "essentially a run-on sentence of computer code"
-- **"Shadowbox" passwords had not been reset** — locking the trustee out of specific protected project spaces within Qtask
-- **Qtask was actively monitoring the Trustee's own investigation in real time**
-- Qtask was blocking broader access
-- Qtask had "stop[ped] even attempting to comply"
+- Initial Qtask productions were described as "CD/DVDs containing what essentially exists as the computer data version of a run-on sentence. The initial production consisted of a lot of computer code and data but no format or structure"
+- **"Shadowbox" passwords had not been reset**: "Access to the 'shadowbox' has been blocked. The Trustee still does not have the passwords associated with the individual user accounts."
+- **Qtask was actively monitoring the Trustee's investigation**: "Qtask is monitoring the Trustee's investigation. Through interviews, Qtask has acknowledged that it knows what and when the Trustee has accessed"
+- Qtask claimed to be a "gatekeeper" over its clients' data, refusing to produce it without their consent
+- Qtask had effectively stopped attempting to comply, calling the requests "too burdensome"
 
 The term "shadowbox" appears in the expert report and the trustee's motion; its precise technical meaning within the Qtask platform is the editors' interpretation based on context, not a definition provided in the filings.
 
@@ -283,9 +281,9 @@ The relationship between Epstein and Von Wolfsheild persisted long after the 201
 | Mar. 8, 2010 | Order to Compel (D.E. 411) — Qtask ignores | EFTA02769191 |
 | Mar. 23, 2010 | Brad Edwards deposition — confirms "an Epstein project" exists in Qtask | EFTA00599662 |
 | Aug. 13, 2010 | Court appoints Special Master — **Epstein subpoenas trustee to access Qtask data** | EFTA00206606 |
-| ~Oct. 2010 | Contempt order (D.E. 776) — $5,000/day fine begins | EFTA02769191 *(not in local corpus)* |
-| Dec. 13/17, 2010 | Expert Moody report: Qtask monitoring trustee, shadowbox passwords withheld, productions "useless" | EFTA02769191 *(not in local corpus)* |
-| Dec. 29, 2010 | Trustee seeks $25,000/day + incarceration + personal liability for Buschel (D.E. 1270) | EFTA02769191 *(not in local corpus)* |
+| ~Oct. 2010 | Contempt order (D.E. 776) — $5,000/day fine begins | EFTA02769191 |
+| Dec. 13/17, 2010 | Expert Moody report: Qtask monitoring trustee, shadowbox passwords withheld, productions "useless" | EFTA02769191 |
+| Dec. 29, 2010 | Trustee seeks $25,000/day + incarceration + personal liability for Buschel (D.E. 1270) | EFTA02769191 |
 | Jan. 15, 2011 | Epstein asks Von Wolfsheild: "how do i try qtask, is there a tutorial?" | EFTA01835022 |
 | Jan. 17, 2011 | Epstein and Von Wolfsheild exchange — Von Wolfsheild pitches Qtask for Epstein's personal use | EFTA01793279 |
 | Mar. 7, 2011 | Final Judgment against Qtask (D.E. 1529) | EFTA00621390 |
