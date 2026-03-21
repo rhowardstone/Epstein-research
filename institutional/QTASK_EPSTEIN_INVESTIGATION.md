@@ -60,7 +60,13 @@ When Brad Edwards joined RRA in approximately April 2009, he brought his Epstein
 - He said he did not invite Ken Jenne
 - He stated no outside-RRA person accessed his Epstein Qtask file
 
-**Sources:** [EFTA00599662](https://www.justice.gov/epstein/files/DataSet%209/EFTA00599662.pdf); [EFTA01089004](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01089004.pdf); [EFTA01100749](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01100749.pdf); [EFTA02775446](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02775446.pdf)
+Edwards testified under oath that he had three Epstein-related clients at RRA. Epstein later disputed this in a motion to compel a second deposition, citing new information:
+
+> "despite Edwards deposition testimony, Epstein has now learned that Edwards had five (5) Epstein related cases, not three (3) as he testified."
+
+The three cases Edwards acknowledged were Jane Doe, L.M., and E.W. — cases he had brought from his private practice ("Brad Edwards P.A.") to RRA, which Rothstein "feverishly marketed as part of his Ponzi scheme." The scope of the Epstein Qtask project — and what Rothstein could access — tracks directly with how many cases were actually there.
+
+**Sources:** [EFTA00599662](https://www.justice.gov/epstein/files/DataSet%209/EFTA00599662.pdf); [EFTA01089004](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01089004.pdf); [EFTA01100749](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01100749.pdf); [EFTA02775446](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02775446.pdf); [EFTA00728258](https://www.justice.gov/epstein/files/DataSet%209/EFTA00728258.pdf) (motion to compel second Edwards deposition, "five (5) Epstein related cases")
 
 ### Rothstein Was Specifically Invited Into the Epstein Cases
 
@@ -148,11 +154,11 @@ By April 2011, Von Wolfsheild was fighting this on five simultaneous legal front
 
 ### January 2011: Epstein Tries to Access Qtask
 
-On January 15, 2011, Reichart Von Wolfsheild was available by phone — and Epstein asked him directly: **"how do i try qtask, is there a tutorial?"**
+According to Brad Edwards's 2020 memoir *Relentless Pursuit*, Epstein invited Von Wolfsheild to his *Mindshift* conference on Little St. James Island in January 2011 — and there asked him directly to help access Edwards's Qtask datastore. Von Wolfsheild refused and subsequently reported the approach to Edwards. Edwards later wrote: *"It would have been a smart move had it worked, but it didn't. Reichart couldn't be bought by the bad guys."*
 
-Two days later, they exchanged emails about the platform. Von Wolfsheild pitched Qtask for Epstein's personal use, suggesting he invite "Susan's or someone you have organize stuff for your island." Epstein also asked about "Brock's contact info."
+Against this backdrop, on January 15, 2011, Epstein emailed Von Wolfsheild: **"how do i try qtask, is there a tutorial?"** Two days later they exchanged emails in which Von Wolfsheild pitched Qtask for Epstein's personal use, suggesting he invite "Susan's or someone you have organize stuff for your island."
 
-Epstein was trying to understand — and potentially access — the platform that held his own case files.
+*The memoir account and the EFTA emails are consistent: Epstein was probing for access to the platform and its data. The memoir is a secondary source; readers should weigh it accordingly.*
 
 **Sources:** [EFTA01835022](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01835022.pdf) (Jan. 15, 2011); [EFTA01793279](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01793279.pdf); [EFTA01791598](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01791598.pdf); [EFTA01792001](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01792001.pdf) (Jan. 17, 2011)
 
@@ -310,6 +316,10 @@ The contempt proceedings over Qtask data stretched from December 2009 through at
 
 Von Wolfsheild's July 2011 message to Epstein — "I was under the impression that BS [Berger Singerman] now has this info though" — suggests that by that point some data had reached the trustee's lawyers. What was produced, what was withheld, and whether any material was lost or deleted in the interim remains unknown from the available record.
 
+There is an additional complication: **Berger Singerman was disqualified from the Qtask clawback suit** by Judge Raymond Ray. The firm's IT director, Reinaldo "Rey" Leon, was formerly married to Rothstein's sister Ronni Leon — and it was Rey Leon who had pushed Rothstein to invest in Qtask in the first place. Rothstein had given the Leons approximately $337,503 in gifts (property taxes, cars, American Express bills, college tuition, Super Bowl trips). Judge Ray found that Leon could be both a clawback target and a witness in the Qtask proceedings, creating an impermissible conflict. Separately, firm partner Paul Singerman held investments in Gibraltar Bank, another clawback target. The firm pressing hardest for Qtask's data had a structural conflict with the very investment it was pursuing.
+
+**Source:** Broward Palm Beach New Times, "Judge Bounces Berger Singerman from Rothstein Bankruptcy Suit" (https://www.browardpalmbeach.com/news/judge-bounces-berger-singerman-from-rothstein-bankruptcy-suit-6464649)
+
 The Epstein-related Qtask projects — the "Epstein project" Edwards confirmed existed, the internal RRA communications about using victim cases as Ponzi instruments, and the record of who knew what — were never publicly disclosed. Whether the trustee received them and kept them sealed, or whether they were never fully produced, has not been established from available sources.
 
 ---
@@ -328,8 +338,8 @@ The Epstein-related Qtask projects — the "Epstein project" Edwards confirmed e
 
 6. **Did Epstein's own subpoena succeed?** The Special Master process (D.E. 888, Aug. 2010) reviewing Qtask data on Epstein's behalf — what did the privilege log contain, and what was ultimately produced to Epstein?
 
-7. **Von Wolfsheild's "Prolific" platform:** After settling with the trustee, Von Wolfsheild reportedly launched a functionally identical platform called "Prolific" and was accused of diverting Qtask users and their data to it — prompting further court action. If true, this bears directly on what the trustee actually received in the settlement. The full arc of this "Round 8" litigation deserves independent verification.
+7. **Von Wolfsheild's "Prolific" platform:** After settling with the trustee, Von Wolfsheild launched a functionally identical platform called "Prolific" (Prolific Publishing, Inc.) and the trustee accused him of diverting Qtask users and their data to it — prompting "Round 8" litigation. Von Wolfsheild's defense: "The users and the user data are not assets of Qtask and therefore could not be diverted." If users migrated their data to Prolific before the handover, the trustee may have received a shell. The full scope of what was ultimately transferred requires further investigation.
 
-8. **How many Epstein clients did Edwards have at RRA?** Edwards' deposition implies three Epstein-related clients; Epstein separately contended there were five. The scope of "the Epstein project" in Qtask tracks directly with this number. The discrepancy deserves resolution.
+8. **How many Epstein clients did Edwards have at RRA?** Edwards testified to three (Jane Doe, L.M., E.W.). Epstein's motion to compel a second deposition alleged five — documented in EFTA00728258. The two additional cases are unidentified in available records. The scope of what Qtask held tracks directly with this number.
 
 9. **Scherer's dual role: conflict or asset?** Scherer simultaneously represented Rothstein's investor-victims in the bankruptcy (and served on the Creditor's Committee) while receiving Epstein's private intelligence briefings as Epstein's civil attorney. These are not necessarily incompatible roles, but the full picture of what Scherer knew — and from which client — warrants examination.
