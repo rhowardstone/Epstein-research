@@ -318,7 +318,7 @@ Von Wolfsheild's July 2011 message to Epstein — "I was under the impression th
 
 There is an additional complication: **Berger Singerman was disqualified from the Qtask clawback suit** by Judge Raymond Ray. The firm's IT director, Reinaldo "Rey" Leon, was formerly married to Rothstein's sister Ronni Leon — and it was Rey Leon who had pushed Rothstein to invest in Qtask in the first place. Rothstein had given the Leons approximately $337,503 in gifts (property taxes, cars, American Express bills, college tuition, Super Bowl trips). Judge Ray found that Leon could be both a clawback target and a witness in the Qtask proceedings, creating an impermissible conflict. Separately, firm partner Paul Singerman held investments in Gibraltar Bank, another clawback target. The firm pressing hardest for Qtask's data had a structural conflict with the very investment it was pursuing.
 
-**Source:** Broward Palm Beach New Times, "Judge Bounces Berger Singerman from Rothstein Bankruptcy Suit" (https://www.browardpalmbeach.com/news/judge-bounces-berger-singerman-from-rothstein-bankruptcy-suit-6464649)
+**Source:** [Broward Palm Beach New Times, "Judge Bounces Berger Singerman from Rothstein Bankruptcy Suit"](https://www.browardpalmbeach.com/news/judge-bounces-berger-singerman-from-rothstein-bankruptcy-suit-6464649)
 
 The Epstein-related Qtask projects — the "Epstein project" Edwards confirmed existed, the internal RRA communications about using victim cases as Ponzi instruments, and the record of who knew what — were never publicly disclosed. Whether the trustee received them and kept them sealed, or whether they were never fully produced, has not been established from available sources.
 
