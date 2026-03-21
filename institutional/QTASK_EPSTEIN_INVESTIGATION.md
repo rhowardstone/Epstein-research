@@ -6,7 +6,7 @@
 
 ## Executive Summary
 
-Qtask, Inc. was a web-based project-centric collaboration platform co-founded by Reichart "Baron RK" Von Wolfsheild and funded with $7.5 million from Scott Rothstein's law firm, Rothstein Rosenfeldt Adler (RRA) — money derived from Rothstein's $1.4 billion Ponzi scheme. Inside RRA, Qtask served as a "secure" internal channel for communications Rothstein didn't want on the firm's regular servers. Brad Edwards — the attorney representing Epstein's victims — stored his Epstein case files on Qtask. Scott Rothstein was specifically invited into those files and, according to multiple sources, it was **the only case Rothstein asked to follow on Qtask**.
+Qtask, Inc. was a web-based project-centric collaboration platform co-founded by Reichart "Baron RK" Von Wolfsheild and funded with $7.5 million from Scott Rothstein's law firm, Rothstein Rosenfeldt Adler (RRA) — money derived from Rothstein's $1.4 billion Ponzi scheme. Inside RRA, Qtask served as a "secure" internal channel for communications Rothstein didn't want on the firm's regular servers. Brad Edwards — the attorney representing Epstein's victims — stored his Epstein case files on Qtask. Scott Rothstein was specifically invited into those files and, according to Epstein's own intelligence briefings to his attorney, it was **the only case Rothstein asked to follow on Qtask** — a claim sourced from what Epstein says Edwards's assistant Beth Williamson told him.
 
 When the bankruptcy trustee subpoenaed Qtask's records in December 2009, Qtask refused. The firm was held in contempt, fined $5,000/day, and threatened with incarceration. An expert report documented not just stonewalling but active counter-measures: Qtask was **monitoring the trustee's own investigation in real time**, withholding "shadowbox" passwords, and blocking access at every turn. The trustee later moved to increase fines to $25,000/day.
 
@@ -64,13 +64,15 @@ When Brad Edwards joined RRA in approximately April 2009, he brought his Epstein
 
 ### Rothstein Was Specifically Invited Into the Epstein Cases
 
-Edwards denied inviting Rothstein — but other evidence contradicts this. In a July 8, 2011 email to his attorney William Scherer, Epstein described the situation based on his own investigation:
+Edwards denied inviting Rothstein. Epstein disputed this in private correspondence with his own attorney. In a July 8, 2011 email to William Scherer, Epstein alleged:
 
-> "Scott Rothstein was 'invited in by Edwards on Qtask on the epstein cases — the only case scott asked to be included on.'"
+> "Scott was invited in by edwards on Qtask on the epstein cases. The only case scott asked to be included on."
 
-And separately, Epstein relayed intelligence from Beth Williamson, Edwards's own assistant:
+And in a December 10, 2011 brief to Scherer, Epstein relayed what he claimed Edwards's assistant Beth Williamson had told him:
 
-> "beth williamson, brads asst said that the only case rothstein followed on Qtask was the epstein cases"
+> "beth williamson, brads asst said that the only case rothstein followed on Qtask ws the epstein cases"
+
+*These are Epstein's allegations in private correspondence with his attorney — not sworn testimony or independently confirmed statements from Williamson.*
 
 **Sources:** [EFTA01858073](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01858073.pdf) (Epstein to Scherer, July 8, 2011); [EFTA01845805](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01845805.pdf); [EFTA00925741](https://www.justice.gov/epstein/files/DataSet%2010/EFTA00925741.pdf) (Epstein to Scherer, Dec. 10, 2011)
 
@@ -110,11 +112,13 @@ Qtask held the internal communications about this arrangement — who knew what,
 
 **March 22, 2011:** Trustee moves to hold Von Wolfsheild **jointly and severally liable** for all Qtask sanctions (D.E. 1558).
 
-**Source:** [EFTA02769191](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02769191.pdf); [EFTA00621390](https://www.justice.gov/epstein/files/DataSet%209/EFTA00621390.pdf)
+**Source:** [EFTA02769191](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02769191.pdf) *(not in local FTS corpus — sourced from full-text search of DOJ website)*; [EFTA00621390](https://www.justice.gov/epstein/files/DataSet%209/EFTA00621390.pdf)
 
 ### What the Expert Found: Active Obstruction
 
-Expert Robert Moody's December 2010 report (D.E. 1241) documented not passive delay but active counter-measures. According to filings summarizing his findings:
+*The following details are drawn from [EFTA02769191](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02769191.pdf), the Trustee's Motion to Fix and Compel Payment (D.E. 1270), which summarizes Expert Robert Moody's report (D.E. 1241). This document is not in the local FTS corpus and has not been independently verified page-by-page — readers should confirm against the original PDF at the link above.*
+
+Expert Robert Moody's December 2010 report (D.E. 1241) documented not passive delay but active counter-measures. According to the Trustee's motion summarizing his findings:
 
 - Initial Qtask productions were "useless" — described as "essentially a run-on sentence of computer code"
 - **"Shadowbox" passwords had not been reset** — locking the trustee out of specific protected project spaces within Qtask
@@ -174,7 +178,7 @@ Von Wolfsheild: "When ever there is a motion in front of the Judge that involves
 
 Then, on **May 18, 2011**, Von Wolfsheild sent the most significant disclosure:
 
-> "Berger Singerman want the projects in Qtask regarding YOU."
+> "It is interesting, your name finally came up. Berger Singerman want the projects in Qtask regarding YOU."
 
 He was flying back from Maui and about to start shooting a History Channel series. The trustee's lawyers — Berger Singerman — had specifically identified Epstein's Qtask projects as a target of their ongoing discovery.
 
@@ -218,14 +222,14 @@ When Epstein pressed again, Von Wolfsheild replied:
 
 ### July–December 2011: Epstein Briefs Scherer With Counter-Intelligence
 
-In parallel, Epstein was feeding detailed investigative intelligence to his own attorney, William R. Scherer. On **July 8, 2011**, Epstein's email to Scherer included:
+In parallel, Epstein was feeding detailed investigative intelligence to his own attorney, William R. Scherer. On **July 8, 2011**, Epstein's email to Scherer included his own account of events — presented here as Epstein's allegations, not independently confirmed facts:
 
 - Rothstein "needed Edwards to file complaints to show to investors"
-- Brad Edwards and David Jaffé filed a federal complaint on July 18 (234 pages) but **deliberately misspelled Epstein's name as "Espstein"** so it wouldn't appear on a PACER search
-- Beth Williamson (Edwards's assistant) should be interviewed by the USAO with immunity
-- Scott Rothstein "was invited in by Edwards on Qtask on the Epstein cases — the only case Scott asked to be included on"
+- Brad Edwards and David Jaffé filed a federal complaint on July 18 (234 pages) but "instruct beth williamson, not to serve me. they misspell Espstein. so that we would not find it on pacer" — Epstein's allegation that the misspelling was deliberate to avoid PACER detection
+- Beth Williamson (Edwards's assistant) "should be interviewed by the USAO, she will with immunity get you your deep pocket"
+- Scott Rothstein "was invited in by edwards on Qtask on the epstein cases. The only case scott asked to be included on" — Epstein's characterization, sourced (per his December briefing) from what Williamson told him
 
-On **December 10, 2011**, Epstein sent Scherer another detailed brief: "beth williamson, brads asst said that the only case rothstein followed on Qtask was the epstein cases." The email included investigative questions about Ken Jenne, Pat Roberts, property break-ins, the Alfredo Rodriguez matter, and strategies targeting Epstein's "high profile friends."
+On **December 10, 2011**, Epstein sent Scherer another brief relaying Williamson's account: "beth williamson, brads asst said that the only case rothstein followed on Qtask ws the epstein cases." The email included investigative questions about Ken Jenne, Pat Roberts, property break-ins, the Alfredo Rodriguez matter, and strategies targeting Epstein's "high profile friends." *Note: this is Epstein relaying what he claims Williamson told him — it is not a direct statement from Williamson.*
 
 **Sources:** [EFTA01858073](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01858073.pdf) (July 8, 2011, Epstein to Scherer); [EFTA01845805](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01845805.pdf); [EFTA00925741](https://www.justice.gov/epstein/files/DataSet%2010/EFTA00925741.pdf) (Dec. 10, 2011, Epstein to Scherer)
 
@@ -277,9 +281,9 @@ The relationship between Epstein and Von Wolfsheild persisted long after the 201
 | Mar. 8, 2010 | Order to Compel (D.E. 411) — Qtask ignores | EFTA02769191 |
 | Mar. 23, 2010 | Brad Edwards deposition — confirms "an Epstein project" exists in Qtask | EFTA00599662 |
 | Aug. 13, 2010 | Court appoints Special Master — **Epstein subpoenas trustee to access Qtask data** | EFTA00206606 |
-| ~Oct. 2010 | Contempt order (D.E. 776) — $5,000/day fine begins | EFTA02769191 |
-| Dec. 13/17, 2010 | Expert Moody report: Qtask monitoring trustee, shadowbox passwords withheld, productions "useless" | EFTA02769191 |
-| Dec. 29, 2010 | Trustee seeks $25,000/day + incarceration + personal liability for Buschel (D.E. 1270) | EFTA02769191 |
+| ~Oct. 2010 | Contempt order (D.E. 776) — $5,000/day fine begins | EFTA02769191 *(not in local corpus)* |
+| Dec. 13/17, 2010 | Expert Moody report: Qtask monitoring trustee, shadowbox passwords withheld, productions "useless" | EFTA02769191 *(not in local corpus)* |
+| Dec. 29, 2010 | Trustee seeks $25,000/day + incarceration + personal liability for Buschel (D.E. 1270) | EFTA02769191 *(not in local corpus)* |
 | Jan. 15, 2011 | Epstein asks Von Wolfsheild: "how do i try qtask, is there a tutorial?" | EFTA01835022 |
 | Jan. 17, 2011 | Epstein and Von Wolfsheild exchange — Von Wolfsheild pitches Qtask for Epstein's personal use | EFTA01793279 |
 | Mar. 7, 2011 | Final Judgment against Qtask (D.E. 1529) | EFTA00621390 |
