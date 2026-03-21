@@ -8,12 +8,12 @@
 
 ## NEW REPORTS CREATED THIS SESSION
 
-1. **[FOUR_CHAN_PARAMEDIC_INVESTIGATION.md](/evidence/FOUR_CHAN_PARAMEDIC_INVESTIGATION.md)** (30KB) - 4chan death leak, hard drives removed from SHU, guard DPAs
-2. **[ONLINE_EVIDENCE_INVESTIGATION.md](/evidence/ONLINE_EVIDENCE_INVESTIGATION.md)** (34KB) - r/maxwellhill, kidsquest, FOUO aerial photos, 288+ NTOC tips
-3. **[UNNAMED_PERSONS_INVESTIGATION.md](/individuals/UNNAMED_PERSONS_INVESTIGATION.md)** (27KB) - Foreign president = Barak, French hotel = Accor?, AOL cluster, 34 names mapped
-4. **[CBP_CORRUPTION_INVESTIGATION.md](/institutional/CBP_CORRUPTION_INVESTIGATION.md)** (32KB) - Named CBP officer, "everyone knew I was friends with Epstein", proffer sessions
-5. **[DILORIO_APOLLO_WHISTLEBLOWER.md](/financial/DILORIO_APOLLO_WHISTLEBLOWER.md)** (28KB) - ESWW shell company, Epstein-Black SEC filing, Kushner WH meeting
-6. **[TRAFFICKING_ROUTES_INVESTIGATION.md](/victims/TRAFFICKING_ROUTES_INVESTIGATION.md)** (37KB) - Aircraft fleet, routes, MC2 recruiting ages 13-20, victim database
+1. **[FOUR_CHAN_PARAMEDIC_INVESTIGATION.md](/reports/evidence/FOUR_CHAN_PARAMEDIC_INVESTIGATION.md)** (30KB) - 4chan death leak, hard drives removed from SHU, guard DPAs
+2. **[ONLINE_EVIDENCE_INVESTIGATION.md](/reports/evidence/ONLINE_EVIDENCE_INVESTIGATION.md)** (34KB) - r/maxwellhill, kidsquest, FOUO aerial photos, 288+ NTOC tips
+3. **[UNNAMED_PERSONS_INVESTIGATION.md](/reports/individuals/UNNAMED_PERSONS_INVESTIGATION.md)** (27KB) - Foreign president = Barak, French hotel = Accor?, AOL cluster, 34 names mapped
+4. **[CBP_CORRUPTION_INVESTIGATION.md](/reports/institutional/CBP_CORRUPTION_INVESTIGATION.md)** (32KB) - Named CBP officer, "everyone knew I was friends with Epstein", proffer sessions
+5. **[DILORIO_APOLLO_WHISTLEBLOWER.md](/reports/financial/DILORIO_APOLLO_WHISTLEBLOWER.md)** (28KB) - ESWW shell company, Epstein-Black SEC filing, Kushner WH meeting
+6. **[TRAFFICKING_ROUTES_INVESTIGATION.md](/reports/victims/TRAFFICKING_ROUTES_INVESTIGATION.md)** (37KB) - Aircraft fleet, routes, MC2 recruiting ages 13-20, victim database
 
 ---
 
@@ -190,7 +190,7 @@
 
 ## SESSION 9 CONTINUED FINDINGS (Post-Summary)
 
-### 12. Prosecution Failures Analysis ([PROSECUTION_FAILURES_ANALYSIS.md](/institutional/PROSECUTION_FAILURES_ANALYSIS.md) - 35KB)
+### 12. Prosecution Failures Analysis ([PROSECUTION_FAILURES_ANALYSIS.md](/reports/institutional/PROSECUTION_FAILURES_ANALYSIS.md) - 35KB)
 - **Architecture of Impunity**: NPA co-conspirator immunity clause was not in original draft, expanded during negotiations by the Kirkland & Ellis defense team
 - **Acosta deposition** ([EFTA00009016](https://www.justice.gov/epstein/files/DataSet%207/EFTA00009016.pdf)): "I did not recall focusing on the coconspirator provision"
 - **Dershowitz and the co-conspirator immunity timeline**: Dershowitz was part of the defense team that negotiated the NPA. Allegations against him emerged publicly in 2014 — years after the 2007-2008 NPA. Whether the blanket immunity was designed to protect any specific individual cannot be established from available documents.
@@ -395,7 +395,7 @@ Complete entity census compiled across all document collections. Key categories:
 - **Financial**: Financial Trust Company Inc (USVI, $212M assets), BV70 LLC ($50.5M)
 - **Investment Recipients**: Honeycomb ($64M), Boothbay ($38.25M), Valar/Thiel ($28.8M), Tudor Futures ($13.5M), Blockchain Capital, Coatue, Neoteny
 - **Maxwell**: Angara Trust (Maxwell as grantor)
-- Full entity map written to [SHELL_ENTITY_MAP.md](/financial/SHELL_ENTITY_MAP.md)
+- Full entity map written to [SHELL_ENTITY_MAP.md](/reports/financial/SHELL_ENTITY_MAP.md)
 
 ### 30. Victim Census - Minimum 60-80, Likely 200+
 - **FBI Miami (2005-2007)**: 28 originally identified, expanded to "well over 30"
@@ -404,7 +404,7 @@ Complete entity census compiled across all document collections. Key categories:
 - **Civil proceedings**: Jane Doe designations up to at least #43
 - **Masseuse list** from seized devices: "women and girls, some of which were identified minors"
 - **Victim journal names abusers**: Leon Black (physical assault), George Mitchell, Dan Snyder, Ted Leonsis (filmed), Steve Case, Jim Kimsey, Robert Colgan
-- Full census written to [VICTIM_CENSUS.md](/victims/VICTIM_CENSUS.md)
+- Full census written to [VICTIM_CENSUS.md](/reports/victims/VICTIM_CENSUS.md)
 
 ## UPDATED KEY DOCUMENT REFERENCES - Session 9 Final
 
@@ -878,7 +878,7 @@ Complete entity census compiled across all document collections. Key categories:
 ## SESSION 9 SUMMARY STATISTICS (UPDATED)
 
 - **Total new sections added**: 89+ (Sections 1-48 in earlier rounds, 49-75 in intermediate rounds, 76-81 art investigation, 82-89 PLIST/Cellebrite/digital forensics)
-- **New reports created this session**: 20 reports including [FINAL_INVESTIGATION_REPORT.md](/overview/FINAL_INVESTIGATION_REPORT.md) (3,041 lines), [INSTITUTIONAL_FAILURE_NARRATIVE.md](/overview/INSTITUTIONAL_FAILURE_NARRATIVE.md) (911 lines), [DUBAI_SULAYEM_INVESTIGATION.md](/individuals/DUBAI_SULAYEM_INVESTIGATION.md), [ROTHSCHILD_INVESTIGATION.md](/individuals/ROTHSCHILD_INVESTIGATION.md), [SENATOR_MITCHELL_INVESTIGATION.md](/individuals/SENATOR_MITCHELL_INVESTIGATION.md), [MITCHELL_CASCADE_INVESTIGATION.md](/individuals/MITCHELL_CASCADE_INVESTIGATION.md), [WECHSLER_BLACK_TRUST_INVESTIGATION.md](/financial/WECHSLER_BLACK_TRUST_INVESTIGATION.md), [BLACKOUT_PERIOD_INVESTIGATION.md](/evidence/BLACKOUT_PERIOD_INVESTIGATION.md), [DAVID_SHAW_INVESTIGATION.md](/scientists/DAVID_SHAW_INVESTIGATION.md), [RUSSIAN_WOMAN_SCOTT_IDENTIFICATION.md](/individuals/RUSSIAN_WOMAN_SCOTT_IDENTIFICATION.md), plus 10 earlier reports
+- **New reports created this session**: 20 reports including [FINAL_INVESTIGATION_REPORT.md](/reports/overview/FINAL_INVESTIGATION_REPORT.md) (3,041 lines), [INSTITUTIONAL_FAILURE_NARRATIVE.md](/reports/overview/INSTITUTIONAL_FAILURE_NARRATIVE.md) (911 lines), [DUBAI_SULAYEM_INVESTIGATION.md](/reports/individuals/DUBAI_SULAYEM_INVESTIGATION.md), [ROTHSCHILD_INVESTIGATION.md](/reports/individuals/ROTHSCHILD_INVESTIGATION.md), [SENATOR_MITCHELL_INVESTIGATION.md](/reports/individuals/SENATOR_MITCHELL_INVESTIGATION.md), [MITCHELL_CASCADE_INVESTIGATION.md](/reports/individuals/MITCHELL_CASCADE_INVESTIGATION.md), [WECHSLER_BLACK_TRUST_INVESTIGATION.md](/reports/financial/WECHSLER_BLACK_TRUST_INVESTIGATION.md), [BLACKOUT_PERIOD_INVESTIGATION.md](/reports/evidence/BLACKOUT_PERIOD_INVESTIGATION.md), [DAVID_SHAW_INVESTIGATION.md](/reports/scientists/DAVID_SHAW_INVESTIGATION.md), [RUSSIAN_WOMAN_SCOTT_IDENTIFICATION.md](/reports/individuals/RUSSIAN_WOMAN_SCOTT_IDENTIFICATION.md), plus 10 earlier reports
 - **Key new EFTA documents cited**: 400+
 - **Major discoveries**: 53 (see below)
 - **Major discoveries this session**:
