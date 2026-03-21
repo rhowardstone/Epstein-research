@@ -1,18 +1,18 @@
-# Qtask, Inc.: The Ponzi Firm's Secret Case Server
+# Qtask, Inc.: The Ponzi Firm's Document Platform and the Epstein Case Files
 
-## How a $7.5M Tech Startup Stored Jeffrey Epstein's Victim Files, Stonewalled the Bankruptcy Trustee for Two Years — and Triggered a Counter-Intelligence Operation by Epstein Himself
+## How a Tech Startup Funded by Rothstein's Law Firm Stored Epstein-Related Files, Stonewalled the Bankruptcy Trustee for Two Years — and Drew Epstein Into a Direct Effort to Identify and Recover Qtask Records
 
 ---
 
 ## Executive Summary
 
-Qtask, Inc. was a web-based project-centric collaboration platform co-founded by Reichart "Baron RK" Von Wolfsheild and funded with $7.5 million from Scott Rothstein's law firm, Rothstein Rosenfeldt Adler (RRA) — money derived from Rothstein's $1.4 billion Ponzi scheme. Inside RRA, Qtask served as a "secure" internal channel for communications Rothstein didn't want on the firm's regular servers. Brad Edwards — the attorney representing Epstein's victims — stored his Epstein case files on Qtask. Scott Rothstein was specifically invited into those files and, according to Epstein's own intelligence briefings to his attorney, it was **the only case Rothstein asked to follow on Qtask** — a claim sourced from what Epstein says Edwards's assistant Beth Williamson told him.
+Qtask, Inc. was a web-based project-centric collaboration platform co-founded by Reichart "Baron RK" Von Wolfsheild and funded with $7.5 million from Scott Rothstein's law firm, Rothstein Rosenfeldt Adler (RRA) — money derived from Rothstein's $1.2 billion Ponzi scheme. Inside RRA, Qtask served as a "secure" internal channel for communications Rothstein didn't want on the firm's regular servers. Brad Edwards — the attorney representing Epstein's victims — stored his Epstein case files on Qtask. Scott Rothstein was specifically invited into those files and, according to Epstein's own intelligence briefings to his attorney, it was **the only case Rothstein asked to follow on Qtask** — a claim sourced from what Epstein says Edwards's assistant Beth Williamson told him.
 
 When the bankruptcy trustee subpoenaed Qtask's records in December 2009, Qtask refused. The firm was held in contempt, fined $5,000/day, and threatened with incarceration. An expert report documented not just stonewalling but active counter-measures: Qtask was **monitoring the trustee's own investigation in real time**, withholding "shadowbox" passwords, and blocking access at every turn. The trustee later moved to increase fines to $25,000/day.
 
 Meanwhile, Jeffrey Epstein was running his own operation: in January 2011, he asked Von Wolfsheild how to sign into Qtask and try it himself. In May 2011, Von Wolfsheild alerted Epstein that the trustee's lawyers "want the projects in Qtask regarding YOU" — and Epstein responded the same day by offering Von Wolfsheild use of his New York guest apartments. By July 2011, Epstein was briefing his own lawyer William Scherer with detailed counter-intelligence: that Edwards had misspelled Epstein's name as "Espstein" when filing to avoid PACER detection, that Beth Williamson (Edwards's assistant) had confirmed "the only case Rothstein followed on Qtask was the Epstein cases," and that Epstein intended to call Williamson as a witness.
 
-The Qtask data was never fully produced to the trustee. What it contained — internal communications about the Ponzi scheme, files on Epstein's victims, and the record of who knew what — remains undisclosed.
+What the Qtask data contained — internal RRA communications about the Ponzi scheme, information about Epstein's victims, and the record of who knew what — has never been publicly disclosed. Von Wolfsheild eventually settled with the trustee, but what was actually produced in that settlement, and what was withheld or lost during the two-year non-compliance period, is not established in available public records.
 
 ---
 
@@ -126,7 +126,7 @@ Expert Robert Moody's December 2010 report (D.E. 1241) documented not passive de
 - Qtask was blocking broader access
 - Qtask had "stop[ped] even attempting to comply"
 
-The "shadowbox" references a Qtask internal access control feature — a protected workspace within the platform — whose passwords Qtask withheld specifically to prevent the trustee from accessing the Epstein-related projects.
+The term "shadowbox" appears in the expert report and the trustee's motion; its precise technical meaning within the Qtask platform is the editors' interpretation based on context, not a definition provided in the filings.
 
 **Source:** [EFTA02769191](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02769191.pdf) (Motion to Fix and Compel, citing D.E. 1241)
 
@@ -146,7 +146,7 @@ By April 2011, Von Wolfsheild was fighting this on five simultaneous legal front
 
 ---
 
-## Epstein's Counter-Intelligence Operation
+## Epstein's Effort to Identify and Recover Qtask Records
 
 ### January 2011: Epstein Tries to Access Qtask
 
@@ -182,11 +182,13 @@ Then, on **May 18, 2011**, Von Wolfsheild sent the most significant disclosure:
 
 He was flying back from Maui and about to start shooting a History Channel series. The trustee's lawyers — Berger Singerman — had specifically identified Epstein's Qtask projects as a target of their ongoing discovery.
 
-Epstein replied the **same day**:
+Epstein replied the **same day** — approximately four hours later:
 
 > "I have guest apts in new york that you are welcome to use."
 
 Von Wolfsheild accepted: "That is very cool of you to offer. Thank you :) I will tell you when I'm there, should you be in town then perhaps we can meet up again."
+
+*The documents establish the sequence — disclosure, then apartment offer, same day. The connection between the two is the reader's inference; the emails do not state a reason for the offer.*
 
 **Sources:**
 - [EFTA01778129](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01778129.pdf) (March 31 email, replayed in April thread)
@@ -260,11 +262,11 @@ The relationship between Epstein and Von Wolfsheild persisted long after the 201
 | **Scott Rothstein** | RRA Managing Partner (convicted, 50 years). Personal investor in Qtask; directed Ponzi communications through Qtask; invited into Brad Edwards's Epstein cases on the platform |
 | **Robert (Rob) Buschel** | Former RRA partner; Qtask's attorney throughout the bankruptcy proceedings; separately subject to sanctions motion |
 | **Russell Adler** | RRA partner who "brought Qtask in-house"; co-sold Rothstein on the investment |
-| **Brad Edwards** | RRA partner; maintained Epstein victim case files on Qtask; invited Rothstein into "an Epstein project" (contradicting his deposition testimony) |
-| **Beth Williamson** | Brad Edwards's assistant at RRA; told Epstein that Rothstein followed only the Epstein cases on Qtask; targeted by Epstein as a potential USAO immunity witness |
+| **Brad Edwards** | RRA partner; confirmed under oath that information about his Epstein clients was placed in a Qtask "Epstein project." Denied inviting Rothstein; Epstein disputed this in private correspondence. |
+| **Beth Williamson** | Brad Edwards's assistant at RRA. Epstein claimed she told him Rothstein followed only the Epstein cases on Qtask — an unverified, second-hand account; targeted by Epstein as a potential USAO immunity witness |
 | **Herbert Stettin** | Chapter 11 Trustee; pursued Qtask records for two years |
 | **Expert Robert Moody** | Filed expert report (D.E. 1241) documenting Qtask's active obstruction, including monitoring of the trustee's investigation |
-| **William R. Scherer** | Epstein's civil attorney in South Florida; received Epstein's counter-intelligence briefings on Qtask |
+| **William R. Scherer** | Epstein's civil attorney in South Florida; received Epstein's intelligence briefings on Qtask. Separately, Scherer also represented Rothstein's investor-victims (Razorback Funding et al.) and served on the Creditor's Committee in the RRA bankruptcy — giving him visibility into both sides of the Qtask dispute. |
 
 ---
 
@@ -304,11 +306,13 @@ The relationship between Epstein and Von Wolfsheild persisted long after the 201
 
 ---
 
-## What Was Never Produced
+## What Was and Was Not Produced
 
-The Qtask records — internal RRA communications about using Epstein victim cases as Ponzi instruments, the "Epstein project" in Qtask, the correspondence identifying who knew what about the scheme, the record of Rothstein's involvement in Epstein case strategy — were never fully produced to the bankruptcy trustee. The proceedings stretched from December 2009 through at least 2012, with Qtask appealing, seeking stays, and fighting at every stage.
+The contempt proceedings over Qtask data stretched from December 2009 through at least 2012, with Qtask appealing, seeking stays, and fighting at every stage. Von Wolfsheild ultimately entered settlement agreements with the trustee and handed over Qtask assets, per reporting on the RRA bankruptcy — but the scope of what the trustee actually received, and what was withheld during the two-year non-compliance period, is not fully established in available public records.
 
-Von Wolfsheild's parting message to Epstein in July 2011 — "I was under the impression that BS [Berger Singerman] now has this info though. Please, ATTACK THEM" — suggests the data may have been transferred to the trustee's lawyers by that point. But what was produced, what was withheld, and what was destroyed during the two-year non-compliance period remains unknown.
+Von Wolfsheild's July 2011 message to Epstein — "I was under the impression that BS [Berger Singerman] now has this info though" — suggests that by that point some data had reached the trustee's lawyers. What was produced, what was withheld, and whether any material was lost or deleted in the interim remains unknown from the available record.
+
+The Epstein-related Qtask projects — the "Epstein project" Edwards confirmed existed, the internal RRA communications about using victim cases as Ponzi instruments, and the record of who knew what — were never publicly disclosed. Whether the trustee received them and kept them sealed, or whether they were never fully produced, has not been established from available sources.
 
 ---
 
@@ -325,3 +329,9 @@ Von Wolfsheild's parting message to Epstein in July 2011 — "I was under the im
 5. **The PACER misspelling:** Epstein claimed Edwards filed a 234-page federal complaint in July 2009 misspelling his name as "Espstein" to avoid PACER detection. This is a specific verifiable claim.
 
 6. **Did Epstein's own subpoena succeed?** The Special Master process (D.E. 888, Aug. 2010) reviewing Qtask data on Epstein's behalf — what did the privilege log contain, and what was ultimately produced to Epstein?
+
+7. **Von Wolfsheild's "Prolific" platform:** After settling with the trustee, Von Wolfsheild reportedly launched a functionally identical platform called "Prolific" and was accused of diverting Qtask users and their data to it — prompting further court action. If true, this bears directly on what the trustee actually received in the settlement. The full arc of this "Round 8" litigation deserves independent verification.
+
+8. **How many Epstein clients did Edwards have at RRA?** Edwards' deposition implies three Epstein-related clients; Epstein separately contended there were five. The scope of "the Epstein project" in Qtask tracks directly with this number. The discrepancy deserves resolution.
+
+9. **Scherer's dual role: conflict or asset?** Scherer simultaneously represented Rothstein's investor-victims in the bankruptcy (and served on the Creditor's Committee) while receiving Epstein's private intelligence briefings as Epstein's civil attorney. These are not necessarily incompatible roles, but the full picture of what Scherer knew — and from which client — warrants examination.
