@@ -175,6 +175,10 @@ Maxwell's defense brief (Document 442, [EFTA00016206](https://www.justice.gov/ep
 
 Forensic examination notes ([EFTA00157492](https://www.justice.gov/epstein/files/DataSet%209/EFTA00157492.pdf)) confirm that GX-417 (the masseuse list) was one of three documents found anomalously at the root of the C drive — not in any user's Documents folder. The examiner flagged this as significant: *"2 reasons to be in C drive: either to hide it or to give another user easy access to it."* GX-417 is the only one of the three named in the available notes. Cross-referencing the GX exhibit series against the forensic notes did not identify the other two. Their contents are unknown.
 
+**5. What specifically did GX-419 show in the Windows "Registered Owner" and "Registered Organization" fields, and what is the creation date on GX-422-B?**
+
+GX-419 (Bates SDNY_GM_02762473) is the Windows system information exhibit for NYCO24350 — an Access Data AD Lab report showing, among other things, what name was entered into the Windows registry as the computer's registered owner and registered organization when the operating system was installed. The government planned to use this exhibit alongside GX-422-B (the embedded Word metadata for the Relationship Essay) to establish that the computer belonged to Maxwell. On November 27, 2021, the Maxwell defense filed a supplemental expert disclosure for certified forensic examiner Robert Kelso, specifically to contest the values in these fields ([EFTA00068559](https://www.justice.gov/epstein/files/DataSet%209/EFTA00068559.pdf)); Kelso's anticipated testimony was that "a particular value in one or more of these metadata fields, such as a version of person's name, does not necessarily mean that person authored the underlying documents or had any interaction with the documents." The defense's decision to retain an expert specifically to challenge these fields implies the government's exhibits showed something specific in them — presumably a name or identifier linking the computer to Maxwell. The exhibit content itself (the actual registry output and the creation date field from GX-422-B) is not in the searchable FTS5 corpus: these exhibits appear to have been produced as images rather than OCR-processed documents, and their specific values have not been confirmed from the available corpus.
+
 ---
 
 ## Reference Table
@@ -197,6 +201,7 @@ All primary sources cited in this document, with what each establishes and evide
 | FBI device inventory emails | [EFTA00157409](https://www.justice.gov/epstein/files/DataSet%209/EFTA00157409.pdf), [EFTA00157411](https://www.justice.gov/epstein/files/DataSet%209/EFTA00157411.pdf) | NYCO24349/24350 = Seagate IDE drives from Manhattan townhouse; NYCO24383 = VI iMac | Documented fact |
 | Forensic examination notes | [EFTA00157492](https://www.justice.gov/epstein/files/DataSet%209/EFTA00157492.pdf) | Dell computers; GX-417 at C drive root; three documents total at root | Documented fact |
 | Forensic examination notes | [EFTA00157523](https://www.justice.gov/epstein/files/DataSet%209/EFTA00157523.pdf) | GX-418, 420, 421, 422 created under "gmax" Windows user profile on NYCO24350 | Documented fact |
+| Defense expert disclosure (Kelso) | [EFTA00068559](https://www.justice.gov/epstein/files/DataSet%209/EFTA00068559.pdf) / [DOJ-OGR-00011194](https://www.justice.gov/epstein/files/OGR/DOJ-OGR-00011194.pdf) | Defense retained expert specifically to contest values in "Registered Organization" and "Registered Owner" fields of GX-419 and related exhibits | Documented fact |
 
 ---
 
