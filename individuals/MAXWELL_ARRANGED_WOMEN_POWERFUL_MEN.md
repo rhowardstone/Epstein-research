@@ -1,4 +1,4 @@
-# MAXWELL'S EXTERNAL PROCUREMENT PIPELINE
+# Maxwell Arranged Women for Powerful Men. The Jury Never Heard About It.
 ## Evidence from the Maxwell Trial Record That She Provided Access to Women for Influential Men in Addition to Her Conduct with Epstein
 
 ---
