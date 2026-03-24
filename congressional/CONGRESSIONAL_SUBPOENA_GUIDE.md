@@ -168,7 +168,7 @@ Since February 28, 2026, the military conflict with Iran has consumed most publi
 
 # THE GAMEPLAN: UPCOMING DEPOSITIONS & TESTIMONY
 
-**As of March 7, 2026.** This is the action section — who is next, what the committee should ask, and what evidence backs each line of questioning. Full evidence inventories for each witness are in Part 3 below.
+**As of March 24, 2026.** This is the action section — who is next, what the committee should ask, and what evidence backs each line of questioning. Full evidence inventories for each witness are in Part 3 below.
 
 ## Subpoenaed — Content Involvement (Direct Witnesses)
 
@@ -222,9 +222,33 @@ Co-executor, accountant, HBRK Associates principal. Managed entity balances ($15
 
 ---
 
+## Transcribed Interview — Death Investigation
+
+### TOVA NOEL — MCC Correctional Officer, March 26, 2026
+
+→ **[Full Witness Briefing](WITNESS_BRIEF_NOEL.md)** | [Section 3.64](#364-tova-noel--mcc-correctional-officer)
+
+One of two officers on SHU duty the night Epstein died. Indicted November 2019 (6 counts); DPA May 2021 (admitted falsifying records); charges dismissed January 2022. Appearance not confirmed — Comer: "If she doesn't, I'll subpoena her." As of March 2026, working as medical assistant in Westchester and being sued by a coworker for assault.
+
+**Three evidence threads the committee should pursue:**
+
+1. **The linen delivery.** At 10:40 PM, the FBI's video review shows an officer "believed to be Tova Noel" carrying linen or clothing to Epstein's tier — the last approach before his death 8 hours later. The cell contained excess linen ripped into strips and tied like a noose. Noel told OIG: "I never gave out linen — ever." ([EFTA01656152](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01656152.pdf) p.11; [EFTA01656708](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01656708.pdf) p.83)
+
+2. **The Google searches.** At 5:42 AM — 40 minutes before the body alarm — Noel searched "latest on Epstein in jail" on the MCC computer. She denied it to OIG: "I don't remember doing that." The computer forensic records are unambiguous. ([EFTA00062276](https://www.justice.gov/epstein/files/DataSet%209/EFTA00062276.pdf))
+
+3. **The money.** Chase Bank filed a SAR flagging 12 cash deposits into Noel's account, including $5,000 on July 30, 2019 — 10 days before Epstein's death. The DOJ/OIG never asked her about it. ([EFTA00124206](https://www.justice.gov/epstein/files/DataSet%209/EFTA00124206.pdf))
+
+**Supporting evidence:** An inmate (Rayshaun Jones) told the FBI that after the body was found, a female officer said: "If he is dead we're going to cover it up and she's going to have an alibi, my officers." Single source, handwritten proffer notes, chaotic moment — a lead for questioning, not a proven fact. ([EFTA00126075](https://www.justice.gov/epstein/files/DataSet%209/EFTA00126075.pdf))
+
+**Likely posture:** Will argue systemic negligence ("the whole system was broken") — supported by evidence. May invoke Fifth Amendment on financial questions (DPA covers the records charges, but corruption exposure is separate). Will likely not discuss the linen delivery or $5,000 deposit voluntarily. Her attorney (Jason Foy, Foy & Seplowitz) has characterized her as "another victim of Jeffrey Epstein's apparent act of suicide."
+
+**What the evidence does not show:** No document establishes what happened inside Epstein's cell between 10:40 PM and 6:30 AM. The Medical Examiner ruled suicide by hanging. The OIG found no one entered the tier. These are unresolved questions, not proof of wrongdoing.
+
+---
+
 ## Subpoenaed — Institutional Oversight
 
-### PAM BONDI — AG, Department of Justice (TBD, subpoenaed March 4)
+### PAM BONDI — AG, Department of Justice (April 14, 2026; subpoenaed March 17)
 
 Bondi is NOT subpoenaed for personal involvement — she is subpoenaed for the DOJ's handling of the Epstein files release. She oversees the department that:
 - Removed ~64,259 documents from justice.gov after publication
