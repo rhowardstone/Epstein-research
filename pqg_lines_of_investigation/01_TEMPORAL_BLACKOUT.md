@@ -185,7 +185,7 @@ The undated subpoenas represent a structural limitation: any subpoena among them
 
 ## Concordance Records During the Gap Period
 
-A search of the complete concordance database ([`concordance_complete.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v5.1), 1,385,519 documents) for records dated within the gap period (July 2017 through December 2018) yields only six results, all from the House Oversight collection (Epstein's personal email archive):
+A search of the complete concordance database ([`concordance_complete.db`](https://github.com/rhowardstone/Epstein-research-data/releases), 1,385,519 documents) for records dated within the gap period (July 2017 through December 2018) yields only six results, all from the House Oversight collection (Epstein's personal email archive):
 
 | Bates Number | Subject | From | Date |
 |--------------|---------|------|------|

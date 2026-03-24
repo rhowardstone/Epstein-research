@@ -5,7 +5,7 @@
 **Updated**: March 5, 2026
 **Scope**: All 42,782 altered files identified across DOJ EFTA datasets 1-12
 **Pipeline**: Word-level diffing, pixel-diff visual verification (86,979 pages), page-level LLM classification (152,312 change units)
-**Databases**: [`alteration_results.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v5.1) (8.2 GB, 212,730 change units), [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v5.0) (6.3 GB, 1.38M documents)
+**Databases**: [`alteration_results.db`](https://github.com/rhowardstone/Epstein-research-data/releases) (8.2 GB, 212,730 change units), [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases) (6.3 GB, 1.38M documents)
 
 ---
 
@@ -797,7 +797,7 @@ Section 2(c)(2) of the EFTA mandates that "[a]ll redactions must be accompanied 
 
 ### Verification
 
-Every EFTA number cited was verified against [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v4.0) for correct dataset assignment. All DOJ URLs confirmed accessible (HTTP 302 → 200 behind age gate). All JDrive URLs confirmed accessible. Protocol quotes verified against the [DOJ's published memorandum](https://www.justice.gov/media/1426281/dl). Statute quotes verified against the DOJ's [production letter](https://www.justice.gov/opa/media/1426091/dl). **All 56 documents cited in this report were visually verified** by rendering original and current PDF pages at 150 DPI and comparing them side by side. Of 76 rendered pages: 37 showed confirmed visual changes (black bars, page blackouts, content removal); 33 appeared visually identical (text-layer degradation only); 6 showed minor rendering differences with no substantive change. SAR BSA numbers verified from removed text content. Financial figures verified against source text in change units.
+Every EFTA number cited was verified against [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases) for correct dataset assignment. All DOJ URLs confirmed accessible (HTTP 302 → 200 behind age gate). All JDrive URLs confirmed accessible. Protocol quotes verified against the [DOJ's published memorandum](https://www.justice.gov/media/1426281/dl). Statute quotes verified against the DOJ's [production letter](https://www.justice.gov/opa/media/1426091/dl). **All 56 documents cited in this report were visually verified** by rendering original and current PDF pages at 150 DPI and comparing them side by side. Of 76 rendered pages: 37 showed confirmed visual changes (black bars, page blackouts, content removal); 33 appeared visually identical (text-layer degradation only); 6 showed minor rendering differences with no substantive change. SAR BSA numbers verified from removed text content. Financial figures verified against source text in change units.
 
 ---
 
@@ -819,7 +819,7 @@ The following datasets underlie this report and are [available on GitHub](https:
 | [`change_units_FINAL.csv`](https://github.com/rhowardstone/epstein-research/blob/main/institutional/change_units_FINAL.csv) | 205,958 | Every classified change unit with before/after text, classification, justification, DOJ URL, and JDrive URL |
 | [`removed_entities_export.csv`](https://github.com/rhowardstone/Epstein-research-data/blob/main/alteration_analysis/removed_entities_export.csv) | 146,210 | Every entity detected as removed, with corpus hit counts and registry matches |
 | [`visual_inspections_final.csv`](https://github.com/rhowardstone/epstein-research/blob/main/institutional/visual_inspections_final.csv) | 2,190 | Claude visual inspection results for rendered document pairs |
-| [`alteration_results.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v5.1) | 212,730 units | Full SQLite database with diff text, pixel-diff results, LLM analyses (183 MB gzipped, in v5.1 release) |
+| [`alteration_results.db`](https://github.com/rhowardstone/Epstein-research-data/releases) | 212,730 units | Full SQLite database with diff text, pixel-diff results, LLM analyses (183 MB gzipped, in v5.1 release) |
 
 The LLM classifications were produced by a 32B-parameter model and should be treated as automated triage. We encourage researchers to verify individual findings against the source PDFs, which are accessible via both justice.gov and the [JDrive archive](https://jmail.world/drive). Any EFTA cited in this report can be independently compared using the [geeken.dev side-by-side viewer](https://justice.geeken.dev/).
 

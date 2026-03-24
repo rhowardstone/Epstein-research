@@ -193,7 +193,7 @@ The email corpus covers an earlier period: 2009 through late 2018. The documente
 
 ## Methodological Notes
 
-- All EFTA citations were verified against the [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v5.0) database. Dataset assignments were confirmed via SQL query.
+- All EFTA citations were verified against the [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases) database. Dataset assignments were confirmed via SQL query.
 - Quoted passages are drawn from OCR-processed text. Where OCR artifacts are obvious (e.g., "$6M" rendered as "56M" in one instance, or `=` characters from quoted-printable encoding), corrections are made silently when the intended text is unambiguous from context. The OCR reads "56M" on page 1 of EFTA02442393, but the same email on page 0 contains the arithmetic: $11M total, $5M through Harvard, remainder external — confirming the figure is $6M. Original OCR text is preserved in the database and can be verified at `epstein-data.com/full_text_corpus/pages?efta_number=EFTA...`.
 - The document count of 2,831 was obtained by searching for pages containing "Barnaby Marsh" or "barnaby.marsh" and counting distinct EFTA numbers. Many of these are scheduling emails, calendar entries, and device forensic extractions that mention Marsh in passing. The substantive documents — those containing original correspondence with operational content — number approximately two to three dozen and are cited individually above.
 - Barnaby Marsh's professional biography is drawn from publicly available sources including his firm websites, his book publisher (Penguin Random House), and the Rhodes Scholars archive.

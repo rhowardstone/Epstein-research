@@ -14,7 +14,7 @@ The Federal Judicial Center (FJC) maintains the authoritative Biographical Direc
 
 **Key courts searched**: SDNY, SDFL, DDC, DNM, DVI, EDNY, NDNY, D.Conn., D.Mass. — the districts most connected to Epstein litigation.
 
-**Search method**: FTS5 full-text search of [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v5.0) (1,380,937 documents, 2,731,796 pages across all 12 DOJ datasets) using exact phrase matching on each judge's first and last name.
+**Search method**: FTS5 full-text search of [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases) (1,380,937 documents, 2,731,796 pages across all 12 DOJ datasets) using exact phrase matching on each judge's first and last name.
 
 ---
 
@@ -286,7 +286,7 @@ Note: Many D.C. district judge hits come from FBI daily briefings collected in t
 ## Methodology Notes
 
 - **Source**: Federal Judicial Center Biographical Directory of Article III Federal Judges (downloaded February 2026, updated nightly)
-- **Corpus**: [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v5.0) — 1,380,937 documents, 2,731,796 pages across all 12 DOJ Epstein datasets
+- **Corpus**: [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases) — 1,380,937 documents, 2,731,796 pages across all 12 DOJ Epstein datasets
 - **Search**: FTS5 exact phrase matching on "First Last" name pairs
 - **Context analysis**: Deep-read of all documents for judges with 5+ hits and all SCOTUS justices
 - **Limitations**: Exact phrase search means some name variants may be missed (e.g., "J. Roberts" would not match "John Roberts"). Conversely, common names produce false positives that required manual review.

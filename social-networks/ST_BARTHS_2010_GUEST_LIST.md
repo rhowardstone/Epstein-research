@@ -366,7 +366,7 @@ Steve Cohen is not one of the 43 guest list entries but is named in Siegal's cov
 EFTA02010594 (Dataset 10), with duplicates at EFTA01830988, EFTA01792909, and EFTA00900412.
 
 ### Corpus Search
-Each of the 43 names was searched using FTS5 exact phrase matching against the `pages_fts` index of [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v5.0) (2,770,154 pages across 1,385,879 documents). Page counts and document counts represent exact phrase matches only — related mentions using partial names or nicknames may exist beyond these counts.
+Each of the 43 names was searched using FTS5 exact phrase matching against the `pages_fts` index of [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases) (2,770,154 pages across 1,385,879 documents). Page counts and document counts represent exact phrase matches only — related mentions using partial names or nicknames may exist beyond these counts.
 
 ### Limitations
 - Page counts for common names (e.g., "David Geffen") may include institutional references (e.g., "David Geffen School of Medicine") that inflate the count

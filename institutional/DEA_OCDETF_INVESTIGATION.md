@@ -238,7 +238,7 @@ The operation name "Chain Reaction" appears in **zero** other documents across t
 
 ## Methodological Notes
 
-- All EFTA citations were verified against the [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v5.0) database. Dataset assignments were confirmed via SQL query.
+- All EFTA citations were verified against the [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases) database. Dataset assignments were confirmed via SQL query.
 - Document counts (e.g., "438 documents" for SLK Designs) represent distinct EFTA numbers containing the search term, not page counts.
 - Redacted names and identifying information from the DEA profile are not reproduced here. Where the profile redacts a name, this report uses "[redacted name]" or describes the individual by role.
 - Quoted passages from the corpus are drawn from OCR-processed text. Where OCR artifacts are obvious (e.g., garbled street numbers, transposed letters in names), corrections are made silently when the intended text is unambiguous from context. Original OCR text is preserved in the database and can be verified at `epstein-data.com/full_text_corpus/pages?efta_number=EFTA...`.

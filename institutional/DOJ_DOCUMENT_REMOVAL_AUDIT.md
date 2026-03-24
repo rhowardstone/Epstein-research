@@ -96,7 +96,7 @@ The DOJ's EFTA production consists of 1,380,941 documents organized across 12 da
 https://www.justice.gov/epstein/files/DataSet%20{N}/EFTA{NUMBER}.pdf
 ```
 
-Our corpus manifest was built from the [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases/tag/v5.0) database, which contains the complete text extraction of all documents in the production. The manifest includes every EFTA number and its dataset assignment.
+Our corpus manifest was built from the [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases) database, which contains the complete text extraction of all documents in the production. The manifest includes every EFTA number and its dataset assignment.
 
 ### Scanning Method
 
