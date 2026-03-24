@@ -134,6 +134,7 @@ Authorized Jul 23, 2025 by bipartisan voice vote (Federal Law Enforcement Subcom
 |------|---------|------|--------|
 | Mar 19, 2026 | Darren Indyke | Subpoena deposition (rescheduled from Mar 5) | [Washington Examiner](https://www.washingtonexaminer.com/news/justice/4471621/house-oversight-delays-depositions-epstein-associates-march/) |
 | Mar 26, 2026 | Tova Noel | Transcribed interview (MCC guard on duty night of death) | [Oversight.house.gov](https://oversight.house.gov/release/chairman-comer-seeks-transcribed-interview-with-epstein-prison-guard/) |
+| Apr 14, 2026 | Pam Bondi | Subpoena deposition (passed 24-19, Mar 4; formally issued Mar 17) | [AP News](https://apnews.com/article/justice-department-epstein-bondi-subpoena-a3baffeaba386ee2e6e5041b067b83d3) |
 | Apr 16, 2026 | Ted Waitt | Transcribed interview (letter sent, not confirmed) | [Oversight.house.gov](https://oversight.house.gov/release/chairman-comer-seeks-seven-transcribed-interviews-as-part-of-epstein-investigation/) |
 | Apr 21, 2026 | Kathryn Ruemmler | Transcribed interview (agreed) | [CBS News](https://www.cbsnews.com/news/bill-gates-asked-testify-house-committee-epstein-ties-kathryn-ruemmler-leon-black/) |
 | May 5, 2026 | Doug Band | Transcribed interview (letter sent, not confirmed) | [Oversight.house.gov](https://oversight.house.gov/release/chairman-comer-seeks-seven-transcribed-interviews-as-part-of-epstein-investigation/) |
@@ -142,9 +143,8 @@ Authorized Jul 23, 2025 by bipartisan voice vote (Federal Law Enforcement Subcom
 | Jun 3, 2026 | Sarah Kellen | Transcribed interview (letter sent, not confirmed) | [Oversight.house.gov](https://oversight.house.gov/release/chairman-comer-seeks-seven-transcribed-interviews-as-part-of-epstein-investigation/) |
 | Jun 9, 2026 | Lesley Groff | Transcribed interview (letter sent, not confirmed) | [Oversight.house.gov](https://oversight.house.gov/release/chairman-comer-seeks-seven-transcribed-interviews-as-part-of-epstein-investigation/) |
 | TBD | Howard Lutnick | Closed-door testimony (agreed; "within 10 days" per Mar 11 letter) | [Fox News](https://www.foxnews.com/politics/house-oversight-committee-demands-depositions-bondi-lutnick-epstein-probe) |
-| TBD | Pam Bondi | Subpoena (passed 24-19, Mar 4; "within 30 days" — subpoena not yet formally issued by Comer) | [CBS News](https://www.cbsnews.com/news/pam-bondi-subpoena-jeffrey-epstein-house-oversight-committee/) |
 
-**Note on transcribed interviews:** Chairman Comer sent letters on March 3, 2026 with specific per-person dates (above, 10 a.m., Washington). Gates, Ruemmler, and Black "quickly agreed to volunteer" ([CBS News](https://www.cbsnews.com/news/bill-gates-asked-testify-house-committee-epstein-ties-kathryn-ruemmler-leon-black/)); Kellen, Groff, Band, and Waitt received letters but their agreement has not been publicly confirmed. Tova Noel letter sent March 13 ([Oversight.house.gov](https://oversight.house.gov/release/chairman-comer-seeks-transcribed-interview-with-epstein-prison-guard/)).
+**Note on transcribed interviews:** Chairman Comer sent letters on March 3, 2026 with specific per-person dates (above, 10 a.m., Washington). Gates, Ruemmler, and Black "quickly agreed to volunteer" ([CBS News](https://www.cbsnews.com/news/bill-gates-asked-testify-house-committee-epstein-ties-kathryn-ruemmler-leon-black/)); Kellen, Groff, Band, and Waitt received letters but their agreement has not been publicly confirmed. Tova Noel letter sent March 13 ([Oversight.house.gov](https://oversight.house.gov/release/chairman-comer-seeks-transcribed-interview-with-epstein-prison-guard/)). Bondi subpoena formally issued March 17 with April 14 deposition date; DOJ called it "completely unnecessary" ([AP News](https://apnews.com/article/justice-department-epstein-bondi-subpoena-a3baffeaba386ee2e6e5041b067b83d3)).
 
 ## 2.5 Operation Chain Reaction (Wyden)
 
@@ -308,6 +308,11 @@ Lutnick has agreed to voluntary closed-door testimony ([DNYUZ](https://dnyuz.com
 ### DOUG BAND — Apr 16 – Jun 9 (letter sent, not confirmed)
 
 → Full profile: [Section 3.33](#333-doug-band--clinton-foundation)
+
+### TOVA NOEL — Mar 26 (letter sent Mar 13; "If she doesn't, I'll subpoena her" — Comer)
+
+→ Full witness brief: [WITNESS_BRIEF_NOEL.md](WITNESS_BRIEF_NOEL.md)
+→ Full profile: [Section 3.64](#364-tova-noel--mcc-correctional-officer)
 
 ### TED WAITT — Apr 16 – Jun 9 (letter sent, not confirmed)
 
@@ -1835,6 +1840,32 @@ Separate from Glen Dubin. Eva Dubin (née Andersson) had a long-term relationshi
 | [EFTA00146889](https://www.justice.gov/epstein/files/DataSet%209/EFTA00146889.pdf) | 9 | Iranian hacker extortion threats after Maxwell's arrest; Bitcoin-themed email addresses; FBI traced to Iranian IPs |
 
 FBI serial 3501.062. Can provide testimony on property management, financial flows, family knowledge of criminal conduct, and Michael Baden's autopsy findings.
+
+---
+
+### 3.64 TOVA NOEL — MCC Correctional Officer
+
+→ **Full witness brief:** [WITNESS_BRIEF_NOEL.md](WITNESS_BRIEF_NOEL.md)
+
+One of two officers on duty in the SHU the night Epstein died (Aug 9-10, 2019). Indicted November 2019 for falsifying records; entered DPA May 2021; charges dismissed January 2022. Scheduled for transcribed interview March 26, 2026. As of March 2026, working as medical assistant in Westchester and being sued by a coworker for assault.
+
+| EFTA | DS | Description |
+|------|----|-------------|
+| [EFTA01656708](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01656708.pdf) | 10 | OIG Investigation Report (128 pp.) — primary death investigation |
+| [EFTA01656152](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01656152.pdf) | 10 | FBI Briefing — 10:40 PM linen delivery: "A CO, believed to be Tova Noel, carried linen or inmate clothing up to the L Tier" |
+| [EFTA00062276](https://www.justice.gov/epstein/files/DataSet%209/EFTA00062276.pdf) | 9 | Computer forensics — 5:42 AM Google search "latest on Epstein in jail" |
+| [EFTA00124206](https://www.justice.gov/epstein/files/DataSet%209/EFTA00124206.pdf) | 9 | Chase Bank records (130 pp.) — SAR flagging 12 cash deposits including $5,000 on July 30, 2019 |
+| [EFTA00010968](https://www.justice.gov/epstein/files/DataSet%208/EFTA00010968.pdf) | 8 | Grand jury indictment — 6 counts |
+| [EFTA00023087](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023087.pdf) | 8 | Deferred prosecution agreement |
+| [EFTA00126075](https://www.justice.gov/epstein/files/DataSet%209/EFTA00126075.pdf) | 9 | Rayshaun Jones proffer — "cover it up" quote, "not doing rounds tonight" |
+| [EFTA00075342](https://www.justice.gov/epstein/files/DataSet%209/EFTA00075342.pdf) | 9 | FORTHWITH subpoena (Aug 14, 2019) — cellphone never produced |
+
+**Three priority questions:**
+1. At 10:40 PM, the FBI video shows an officer "believed to be" you carrying linen to Epstein's tier — the last approach before his death. You told OIG: "I never gave out linen — ever." Which is true?
+2. At 5:42 AM you searched "latest on Epstein in jail." You told OIG: "I don't remember doing that." The computer forensic records say otherwise. Explain.
+3. Chase Bank flagged $5,000 deposited into your account on July 30, 2019 — 10 days before Epstein's death. The DOJ/OIG never asked you about it. What was the source?
+
+**What the evidence does not show:** No document in the corpus establishes what happened inside Epstein's cell between 10:40 PM and 6:30 AM. The Medical Examiner ruled suicide by hanging. The OIG reviewed 400+ hours of video and found no one entered the tier. The linen delivery, Google searches, and bank deposits are unresolved questions — not proof of wrongdoing.
 
 ---
 
