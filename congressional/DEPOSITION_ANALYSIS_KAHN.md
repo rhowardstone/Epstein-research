@@ -20,6 +20,23 @@ This analysis is based on an automated transcription. Speaker labels are approxi
 
 ---
 
+## Executive Summary
+
+Epstein's accountant testified for 5.9 hours under congressional subpoena. Cross-checked against 2.77 million pages of source documents, six findings stand out:
+
+1. **Victims carved out four names from settlement releases** — Dershowitz and Prince Andrew (EVCP, $121M) and Leon Black and Jes Staley (mediation, $48M) — meaning victims specifically preserved the right to sue them. ([§1](#1-victim-settlement-carve-outs--dershowitz-andrew-black-staley))
+2. **Kahn wrote a visa letter on an Epstein foundation's letterhead** for a woman who had traveled with Epstein to visit Bill Gates in Seattle. The foundation, Enhanced Education, held $3M+ in JPMorgan cash ([EFTA01940002](https://epstein-data.com/full_text_corpus/pages?efta_number=EFTA01940002)). ([§3](#3-bill-gates-visa-letter))
+3. **Forums LLC — "set up by Maxwell and funded by Epstein"** — had a profit-sharing arrangement with Publicis for the 2005 Clinton Global Initiative. JPMorgan listed Forums alongside Maxwell's personal accounts ([EFTA01583816](https://epstein-data.com/full_text_corpus/pages?efta_number=EFTA01583816)). ([§7](#7-forums-llc-and-the-clinton-global-initiative))
+4. **Leon Black paid ≈$150 million** in fees. Both witnesses confirmed this independently under oath. A $22.5M wire from Black's BV70 LLC is documented in Deutsche Bank compliance records ([EFTA01423373](https://epstein-data.com/full_text_corpus/pages?efta_number=EFTA01423373)). ([§3](DEPOSITION_ANALYSIS_INDYKE.md#3-leon-black--158m-confirmed-10m-foundation-donation))
+5. **A career CPA claimed not to know the $10,000 federal reporting threshold** while Epstein's cash withdrawals ran at exactly $9,800. His counsel intervened. ([§9](#9-the-9800-cash-withdrawals--cpa-who-doesnt-know-the-threshold))
+6. **Jane Doe 4 testimony became disputed within 24 hours** — Kahn initially said she received a settlement, his attorney reversed the next day, then said he could "neither confirm nor deny." Democrats [demanded he "come clean."](https://oversightdemocrats.house.gov/news/press-releases/ranking-member-robert-garcia-rep-ro-khanna-joint-statement-on-deposition-of-epstein-accountant-richard-kahn) ([§8](#8-jane-doe-4--trump-allegation-settled))
+
+Six additional findings are tagged NEW DETAIL in the [summary table](#summary-of-previously-unreported-or-under-reported-findings). Cross-deposition contradictions with Indyke (who testified 8 days later) are documented in [§Cross-Deposition](#cross-deposition-contradictions-kahn-vs-indyke).
+
+**What this report does NOT do:** Treat sworn testimony as established fact. Kahn's testimony is self-serving in places, automated transcription carries proper-noun risk, and carve-outs/settlements do not prove the underlying allegations. Every section states what the documents do not show.
+
+---
+
 ## Who Richard Kahn Is
 
 Kahn is a CPA who managed Epstein's financial affairs from 2005–2019 through his firm HBRK Associates. He is co-executor of the estate and co-trustee of the 2019 Trust (with Darren Indyke). He handled tax returns, entity accounting, payroll across ~20 entities and ~10 payrolls, bank relationships, and financial reporting. He received a $25 million bequest in Epstein's trust.

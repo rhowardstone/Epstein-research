@@ -20,6 +20,23 @@ This analysis is based on an automated transcription. Speaker labels are approxi
 
 ---
 
+## Executive Summary
+
+Epstein's personal attorney of 23 years testified for 6.8 hours under congressional subpoena. Cross-checked against 2.77 million pages of source documents, six findings stand out:
+
+1. **Indyke admitted input on the NPA's co-conspirator language** — the blanket immunity clause that shielded unnamed individuals from federal prosecution. He was himself a potential co-conspirator given his role in cash withdrawals, immigration paperwork, and entity management. A lawyer who may have helped write his own shield. ([§14](#14-npa--input-on-co-conspirator-language))
+2. **Computer hard drives from Epstein properties were held by private investigators.** First sworn inner-circle confirmation. Indyke learned of them "through conversations with defense counsel" but does not know when they were removed or what was on them. ([§6](#6-computer-hard-drives-with-private-investigators))
+3. **Rep. Timmons confronted Indyke with an email** in which Epstein warned that immigration lawyer Biscardi "is going to flip on us." Indyke: "I have no idea." The email cannot be independently verified from the EFTA corpus — it may come from House subpoena compliance materials. ([§8](#8-marriage-and-immigration-allegations--lease-admissions-and-flip-email))
+4. **97 cash withdrawals of $7,500 each** from Deutsche Bank (2013–2017, total $725K+) were "not at the direction of Mr. Epstein" — Indyke claims he acted independently. The $7,500 is Deutsche Bank's branch limit, not the $10K federal threshold. ([§4](#4-the-725000-cash-withdrawal-pattern))
+5. **No law enforcement body ever questioned Indyke** — not the FBI, not the DOJ, not the SDNY team that prosecuted Maxwell. In 23 years as Epstein's attorney, he was never contacted and never volunteered information. ([§20](#20-law-enforcement-never-questioned-indyke))
+6. **"I drank the Kool-Aid."** The only moment in 6.8 hours approaching moral acknowledgment. He is not claiming ignorance — he is conceding that continuing required a form of self-deception. ([§21](#21-key-evasions-and-privilege-claims))
+
+Seven additional findings are tagged NEW DETAIL in the [summary table](#summary-of-previously-unreported-or-under-reported-findings). Cross-deposition contradictions with Kahn (who testified 8 days earlier) are documented in [§Cross-Deposition](#cross-deposition-contradictions-indyke-vs-kahn).
+
+**What this report does NOT do:** Treat sworn testimony as established fact. Indyke's testimony is self-serving in places, the "flip on us" email has not been independently located, and the automated transcription carries proper-noun risk. Every section states what the documents do not show.
+
+---
+
 ## Who Darren Indyke Is
 
 Indyke was Epstein's personal attorney for 23 years (1996–2019). He is co-executor of the estate and co-trustee of the 2019 Trust (with Richard Kahn). He handled transactional law, tax planning, entity creation, real estate, immigration-adjacent paperwork, and client-facing work for Epstein's advisory clients. He received a $50 million bequest in Epstein's trust — "matched only by his girlfriend, Karyna Shuliak."
