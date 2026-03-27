@@ -133,7 +133,6 @@ Authorized Jul 23, 2025 by bipartisan voice vote (Federal Law Enforcement Subcom
 
 | Date | Witness | Type | Source |
 |------|---------|------|--------|
-| ~~Mar 19, 2026~~ | ~~Darren Indyke~~ | ~~Subpoena deposition~~ | **COMPLETED** — moved to 2.3 |
 | TBD (was Mar 26) | Tova Noel | Transcribed interview — **POSTPONED**. Committee "continuing to communicate with her attorney." | [Oversight.house.gov](https://oversight.house.gov/release/chairman-comer-seeks-transcribed-interview-with-epstein-prison-guard/), [CNN](https://www.cnn.com/2026/03/26/politics/epstein-files-prison-officials-night-he-died) |
 | Apr 14, 2026 | Pam Bondi | Subpoena deposition (passed 24-19, Mar 4; formally issued Mar 17) | [AP News](https://apnews.com/article/justice-department-epstein-bondi-subpoena-a3baffeaba386ee2e6e5041b067b83d3) |
 | Apr 16, 2026 | Ted Waitt | Transcribed interview (letter sent, not confirmed) | [Oversight.house.gov](https://oversight.house.gov/release/chairman-comer-seeks-seven-transcribed-interviews-as-part-of-epstein-investigation/) |
