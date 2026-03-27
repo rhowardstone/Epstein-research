@@ -1,7 +1,7 @@
 # Congressional Subpoena Guide: Evidence Inventory & Practical Procedures
 ## Every Witness, Every Document, Every Obstacle
 
-Updated: March 17, 2026
+Updated: March 27, 2026
 Sources: EFTA corpus (1.39M documents, 2.77M pages), House Oversight public records, CRS reports, court filings
 Standard: Every material factual claim supported by EFTA document number with justice.gov URL, OR external source URL
 
@@ -126,14 +126,15 @@ Authorized Jul 23, 2025 by bipartisan voice vote (Federal Law Enforcement Subcom
 | Feb 18 | Les Wexner | In person, ~5 hrs ([video](https://epstein-data.com/depositions?v=wexner)) | "Duped by world-class con man." Video released Feb 19. |
 | Feb 26 | Hillary Clinton | In person, ~4.5 hrs ([video](https://epstein-data.com/depositions?v=hillary_clinton), [CNN](https://www.cnn.com/2026/03/02/politics/clinton-depositions-epstein-video)) | Called questions "repetitive." Members asked about Pizzagate and UFOs. Stormed out after Boebert leaked photo. |
 | Feb 27 | Bill Clinton | In person, ~4.5 hrs ([video](https://epstein-data.com/depositions?v=bill_clinton), [CNN](https://www.cnn.com/2026/03/02/politics/clinton-depositions-epstein-video)) | Denied knowledge of criminal conduct before 2008 NPA. Video released Mar 2. |
-| Mar 11 | Richard Kahn | In person, ~7 hrs | Closed-door deposition. Transcript/video not yet released. |
+| Mar 11 | Richard Kahn | In person, ~7 hrs ([video](https://epstein-data.com/depositions?v=richard_kahn)) | Named 5 Epstein payers: Wexner, Dubin, Sinofsky, Rothschilds, Black. "Was not aware of the terrible and unforgivable things that he did." Made contradictory statements about whether "Jane Doe 4" received estate settlement. Video released Mar 25. |
+| Mar 19 | Darren Indyke | In person, ~6.75 hrs ([video](https://epstein-data.com/depositions?v=darren_indyke)) | Denied "any knowledge whatsoever" of Epstein's crimes despite 20+ years as attorney. Confirmed existence of private investigator hard drives. Acknowledged withdrawing $7,500 at a time (totaling $700K+) but denied structuring. Rep. Dave Min: "not credible... very likely he perjured himself over and over again." Neither Indyke nor Kahn had ever been formally questioned by federal law enforcement. Video released Mar 25. |
 
 ## 2.4 Scheduled
 
 | Date | Witness | Type | Source |
 |------|---------|------|--------|
-| Mar 19, 2026 | Darren Indyke | Subpoena deposition (rescheduled from Mar 5) | [Washington Examiner](https://www.washingtonexaminer.com/news/justice/4471621/house-oversight-delays-depositions-epstein-associates-march/) |
-| Mar 26, 2026 | Tova Noel | Transcribed interview (MCC guard on duty night of death) | [Oversight.house.gov](https://oversight.house.gov/release/chairman-comer-seeks-transcribed-interview-with-epstein-prison-guard/) |
+| ~~Mar 19, 2026~~ | ~~Darren Indyke~~ | ~~Subpoena deposition~~ | **COMPLETED** — moved to 2.3 |
+| TBD (was Mar 26) | Tova Noel | Transcribed interview — **POSTPONED**. Committee "continuing to communicate with her attorney." | [Oversight.house.gov](https://oversight.house.gov/release/chairman-comer-seeks-transcribed-interview-with-epstein-prison-guard/), [CNN](https://www.cnn.com/2026/03/26/politics/epstein-files-prison-officials-night-he-died) |
 | Apr 14, 2026 | Pam Bondi | Subpoena deposition (passed 24-19, Mar 4; formally issued Mar 17) | [AP News](https://apnews.com/article/justice-department-epstein-bondi-subpoena-a3baffeaba386ee2e6e5041b067b83d3) |
 | Apr 16, 2026 | Ted Waitt | Transcribed interview (letter sent, not confirmed) | [Oversight.house.gov](https://oversight.house.gov/release/chairman-comer-seeks-seven-transcribed-interviews-as-part-of-epstein-investigation/) |
 | Apr 21, 2026 | Kathryn Ruemmler | Transcribed interview (agreed) | [CBS News](https://www.cbsnews.com/news/bill-gates-asked-testify-house-committee-epstein-ties-kathryn-ruemmler-leon-black/) |
@@ -144,7 +145,7 @@ Authorized Jul 23, 2025 by bipartisan voice vote (Federal Law Enforcement Subcom
 | Jun 9, 2026 | Lesley Groff | Transcribed interview (letter sent, not confirmed) | [Oversight.house.gov](https://oversight.house.gov/release/chairman-comer-seeks-seven-transcribed-interviews-as-part-of-epstein-investigation/) |
 | TBD | Howard Lutnick | Closed-door testimony (agreed; "within 10 days" per Mar 11 letter) | [Fox News](https://www.foxnews.com/politics/house-oversight-committee-demands-depositions-bondi-lutnick-epstein-probe) |
 
-**Note on transcribed interviews:** Chairman Comer sent letters on March 3, 2026 with specific per-person dates (above, 10 a.m., Washington). Gates, Ruemmler, and Black "quickly agreed to volunteer" ([CBS News](https://www.cbsnews.com/news/bill-gates-asked-testify-house-committee-epstein-ties-kathryn-ruemmler-leon-black/)); Kellen, Groff, Band, and Waitt received letters but their agreement has not been publicly confirmed. Tova Noel letter sent March 13 ([Oversight.house.gov](https://oversight.house.gov/release/chairman-comer-seeks-transcribed-interview-with-epstein-prison-guard/)). Bondi subpoena formally issued March 17 with April 14 deposition date; DOJ called it "completely unnecessary" ([AP News](https://apnews.com/article/justice-department-epstein-bondi-subpoena-a3baffeaba386ee2e6e5041b067b83d3)).
+**Note on transcribed interviews:** Chairman Comer sent letters on March 3, 2026 with specific per-person dates (above, 10 a.m., Washington). Gates, Ruemmler, and Black "quickly agreed to volunteer" ([CBS News](https://www.cbsnews.com/news/bill-gates-asked-testify-house-committee-epstein-ties-kathryn-ruemmler-leon-black/)); Kellen, Groff, Band, and Waitt received letters but their agreement has not been publicly confirmed. Tova Noel letter sent March 13 ([Oversight.house.gov](https://oversight.house.gov/release/chairman-comer-seeks-transcribed-interview-with-epstein-prison-guard/)); **did not appear March 26 — postponed, new date TBD**. Bondi subpoena formally issued March 17 with April 14 deposition date; DOJ called it "completely unnecessary" ([AP News](https://apnews.com/article/justice-department-epstein-bondi-subpoena-a3baffeaba386ee2e6e5041b067b83d3)); Democrats walked out of a Bondi briefing after she reportedly would not commit to compliance.
 
 ## 2.5 Operation Chain Reaction (Wyden)
 
@@ -155,12 +156,20 @@ Key facts:
 - Drug trafficking, illicit wire transfers, and Eastern European trafficking connections
 - 69-page 2015 memo (heavily redacted)
 - Investigation closed after 13 years with ZERO charges
-- Wyden sent letter Feb 25, 2026 with 2-week deadline for answers — no public response as of Mar 7
+- Wyden sent letter Feb 25, 2026 with 2-week deadline for answers — no public response
 - OCDETF itself was defunded in May 2025, meaning institutional knowledge may be permanently lost
+- **Mar 18, 2026:** Wyden accused DAG Todd Blanche of personally intervening to block DEA from releasing the unredacted 69-page memo. DEA Administrator Terry Cole was ready to provide it; Blanche stopped him. The memo is marked "unclassified" on every page — no classification basis for withholding. ([Wyden letter to Blanche](https://www.finance.senate.gov/imo/media/doc/letter_from_senator_wyden_to_dag_todd_blanche.pdf), [Bloomberg](https://www.bloomberg.com/news/articles/2026-03-18/senator-accuses-blanche-of-blocking-release-of-unredacted-epstein-document))
+- **Mar 3, 2026:** A Senate Republican blocked Wyden's bill mandating Treasury hand over Epstein bank records
 
 ([Wyden letter to DEA, Feb 25, 2026](https://www.finance.senate.gov/imo/media/doc/letter_from_senator_wyden_to_dea_2-25-26.pdf)) — ([Senate Finance Committee announcement](https://www.finance.senate.gov/ranking-members-news/wyden-questions-dea-over-mystery-epstein-investigation)) — ([CBS News coverage](https://www.cbsnews.com/news/jeffrey-epstein-dea-drug-trafficking-investigation-senator-wyden/))
 
-## 2.6 The War Context
+## 2.6 Senate Activity (Wyden / GAO)
+
+**Wyden → Leon Black (Mar 23, 2026):** Senate Finance Committee sent letter to Leon Black questioning "hush money" payments and surveillance of women revealed in Epstein files. Key findings: Black paid Epstein rates 30x higher than his elite tax advisors; $10M was papered over with a sham 501(c)(3); evidence that Epstein and associates were surveilling and paying off women on Black's behalf. Response deadline: April 13. ([Senate Finance press release](https://www.finance.senate.gov/continuing-epstein-investigation-wyden-questions-leon-black-over-new-revelations-in-epstein-files-appearance-of-hush-money-payments-and-surveillance-of-women), [letter PDF](https://www.finance.senate.gov/imo/media/doc/senator_wyden_letter_to_leon_black_redacted.pdf))
+
+**GAO Investigation Requested (Mar 11, 2026):** Bipartisan group — Senators Merkley (D-OR), Murkowski (R-AK), Lujan (D-NM), and Durbin (D-IL) — requested GAO review DOJ's handling of the EFTA release. Specifically asks whether the release "served to cover up child sexual abuse." Criticizes DOJ for exposing victim PII while heavily redacting information identifying powerful co-conspirators. GAO confirmed it received and is reviewing the request. ([Letter PDF](https://www.lujan.senate.gov/wp-content/uploads/2026/03/GAO-Epstein-Files-Redactions-Review-Letter.pdf), [CNBC](https://www.cnbc.com/2026/03/11/senators-epstein-files-investigation.html))
+
+## 2.7 The War Context
 
 Since February 28, 2026, the military conflict with Iran has consumed most public attention and media bandwidth. But the committee's work continues — the Bondi subpoena passed on March 4, during the war. Congressional investigations are committee-driven, not media-driven. They don't need headlines to function.
 
@@ -168,11 +177,11 @@ Since February 28, 2026, the military conflict with Iran has consumed most publi
 
 # THE GAMEPLAN: UPCOMING DEPOSITIONS & TESTIMONY
 
-**As of March 24, 2026.** This is the action section — who is next, what the committee should ask, and what evidence backs each line of questioning. Full evidence inventories for each witness are in Part 3 below.
+**As of March 27, 2026.** This is the action section — who is next, what the committee should ask, and what evidence backs each line of questioning. Full evidence inventories for each witness are in Part 3 below.
 
-## Subpoenaed — Content Involvement (Direct Witnesses)
+## Completed — Content Involvement (Direct Witnesses)
 
-### DARREN INDYKE — March 19, 2026 (rescheduled from March 5)
+### DARREN INDYKE — March 19, 2026 ✓ COMPLETED ([video](https://epstein-data.com/depositions?v=darren_indyke))
 
 → **[Full Witness Briefing](WITNESS_BRIEF_INDYKE.md)** | [Section 3.6](#36-darren-indyke--attorney--trustee--co-executor)
 
@@ -195,13 +204,15 @@ Estate co-executor, attorney, shell entity architect. Managed ALL Epstein financ
 
 **Countermeasure for privilege assertion:** Dual-role argument — Indyke was simultaneously attorney AND business participant: Treasurer of Gratitude America, co-Trustee of Haze Trust, POA on 10+ DB accounts, financial manager of LSJ LLC, wrote to DHS about aircraft customs procedures. Crime-fraud exception for communications furthering the shell entity network. Go around him: subpoena Deutsche Bank directly (already settled [$150M NYDFS](https://www.dfs.ny.gov/reports_and_publications/press_releases/pr202007071) + [$75M victim suit](https://www.reuters.com/legal/litigation/deutsche-bank-pay-75-million-settle-epstein-victims-lawsuit-2023-05-17/)).
 
+**DEPOSITION RESULTS (Mar 19, 2026):** Indyke testified for ~6.75 hours. Denied "any knowledge whatsoever" of Epstein's crimes despite 20+ years as his attorney. Confirmed existence of hard drives held by Epstein's private investigators. Acknowledged regularly withdrawing $7,500 at a time for Epstein (totaling $700K+) but denied structuring to avoid Treasury alerts. Could not give a straight answer about whether a Trump accuser received an estate settlement. Rep. Dave Min (D-CA): "not credible... very likely he perjured himself over and over again." Neither Indyke nor Kahn had ever been formally questioned by federal law enforcement prior to these depositions. ([CNN](https://www.cnn.com/2026/03/19/politics/darren-indyke-jeffrey-epstein-testimony), [CBS News](https://www.cbsnews.com/news/darren-indyke-jeffrey-epstein-lawyer-house-oversight-committee/), [NPR](https://www.npr.org/2026/03/20/nx-s1-5754619/epstein-files-lawyer-darren-indyke))
+
 ---
 
-### RICHARD KAHN — March 11, 2026 (rescheduled from Feb 25)
+### RICHARD KAHN — March 11, 2026 ✓ COMPLETED ([video](https://epstein-data.com/depositions?v=richard_kahn))
 
 → **[Full Witness Briefing](WITNESS_BRIEF_KAHN.md)** | [Section 3.7](#37-richard-kahn--accountant--co-executor)
 
-Co-executor, accountant, HBRK Associates principal. Managed entity balances ($159M documented across three accounts alone). Administered trusts. Executed virtually all wire transfers — FBI's Deutsche Bank 302 confirms wire requests "would generally come in from Richard Kahn." Never questioned by any law enforcement agency despite being named as "accomplice" and "key operative" by Senate Finance Committee.
+Co-executor, accountant, HBRK Associates principal. Managed entity balances ($159M documented across three accounts alone). Administered trusts. Executed virtually all wire transfers — FBI's Deutsche Bank 302 confirms wire requests "would generally come in from Richard Kahn." Never questioned by any law enforcement agency prior to this deposition — neither he nor Indyke had ever been formally interviewed by federal law enforcement despite being named as "accomplice" and "key operative" by Senate Finance Committee.
 
 **Key findings from deep dive:**
 - Directed $23M+ to Erika Kellerhals's USVI escrow account; email shows him choosing which of three $20M+ accounts to pull from ([EFTA02671293](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02671293.pdf))
@@ -220,15 +231,17 @@ Co-executor, accountant, HBRK Associates principal. Managed entity balances ($15
 
 **Countermeasure for privilege assertion:** Kahn is NOT a lawyer — accountant-client privilege does not exist under federal law. His co-executor Indyke may try to assert attorney-client privilege over joint communications, but the crime-fraud exception applies. Go around both: subpoena HBRK Associates Inc. corporate records directly (corporations have no Fifth Amendment privilege), and subpoena TD Bank/Deutsche Bank/JPMorgan independently.
 
+**DEPOSITION RESULTS (Mar 11, 2026):** Kahn testified for ~7 hours. Named five individuals/entities who paid Epstein: Wexner, Dubin, Sinofsky, the Rothschilds, and Leon Black. Claimed he "was not aware of the terrible and unforgivable things that he did to women and girls." Said he never saw transactions involving Trump or his family with Epstein. Made contradictory statements with his attorney about whether "Jane Doe 4" received an estate settlement — initially confirmed, then denied. Rep. James Walkinshaw (D-VA): Epstein's trafficking operation "would not have been possible without Richard Kahn." ([CNN](https://www.cnn.com/2026/03/11/politics/richard-kahn-epstein-accountant-house-deposition), [CBS News](https://www.cbsnews.com/news/richard-kahn-jeffrey-epstein-house-oversight-testimony/), [NPR](https://www.npr.org/2026/03/11/nx-s1-5745082/epstein-files-richard-kahn-deposition), [NBC](https://www.nbcnews.com/politics/congress/epstein-accountant-kahn-lawyer-indyke-never-interviewed-government-inv-rcna265024))
+
 ---
 
 ## Transcribed Interview — Death Investigation
 
-### TOVA NOEL — MCC Correctional Officer, March 26, 2026
+### TOVA NOEL — MCC Correctional Officer — **POSTPONED** (was March 26, 2026; new date TBD)
 
 → **[Full Witness Briefing](WITNESS_BRIEF_NOEL.md)** | [Section 3.64](#364-tova-noel--mcc-correctional-officer)
 
-One of two officers on SHU duty the night Epstein died. Indicted November 2019 (6 counts); DPA May 2021 (admitted falsifying records); charges dismissed January 2022. Appearance not confirmed — Comer: "If she doesn't, I'll subpoena her." As of March 2026, working as medical assistant in Westchester and being sued by a coworker for assault.
+One of two officers on SHU duty the night Epstein died. Indicted November 2019 (6 counts); DPA May 2021 (admitted falsifying records); charges dismissed January 2022. Scheduled for March 26 but **did not appear** — committee spokesperson confirmed postponement, "continuing to communicate with her attorney." No new date announced. Comer: "If she doesn't, I'll subpoena her." As of March 2026, working as medical assistant in Westchester and being sued by a coworker for assault.
 
 **Three evidence threads the committee should pursue:**
 
@@ -251,7 +264,7 @@ One of two officers on SHU duty the night Epstein died. Indicted November 2019 (
 ### PAM BONDI — AG, Department of Justice (April 14, 2026; subpoenaed March 17)
 
 Bondi is NOT subpoenaed for personal involvement — she is subpoenaed for the DOJ's handling of the Epstein files release. She oversees the department that:
-- Removed ~64,259 documents from justice.gov after publication
+- Removed ~64,259 documents from justice.gov after publication (since restored without explanation)
 - Missed the statutory EFTA deadline by 42 days
 - Withheld 1.46 million pages that were reviewed, stamped, and numbered but never released ([Secondary Bates Stamp analysis](/reports/institutional/SECONDARY_BATES_STAMP_ANALYSIS.html))
 - Defunded OCDETF (May 2025), destroying institutional knowledge about Operation Chain Reaction
@@ -266,13 +279,13 @@ Bondi is NOT subpoenaed for personal involvement — she is subpoenaed for the D
 | [EFTA00143627](https://www.justice.gov/epstein/files/DataSet%209/EFTA00143627.pdf) | 9 | Victim correspondence referencing "recent engagement with Pam Bondi" |
 
 **Top 5 questions:**
-1. Why were 64,259 documents removed from justice.gov after publication? Provide the legal basis for each removal.
+1. Why were ~64,259 documents removed from justice.gov after publication, then silently restored? Provide the legal basis for the removal and an accounting of the restoration process.
 2. The Secondary Bates Stamp analysis shows 1.46 million pages were reviewed and numbered but not released — a 58.9% withholding rate. What is the legal basis for withholding each page?
 3. Why was OCDETF defunded while Operation Chain Reaction — with 14 unnamed co-conspirators — remained open?
 4. You said "investigate these troubling disclosures fully." What investigations has your DOJ actually opened?
 5. Why has no co-conspirator been charged in over 7 years?
 
-**Likely response:** Will invoke executive privilege on internal DOJ deliberations. Will characterize document removals as "privacy protection." Will resist answering about OCDETF defunding.
+**Likely response:** Will invoke executive privilege on internal DOJ deliberations. Will characterize document removals as "privacy protection." Will resist answering about OCDETF defunding. Democrats walked out of a March briefing after Bondi reportedly would not commit to complying with the subpoena. Bondi told reporters she "made it crystal clear I will follow the law." ([NBC News](https://www.nbcnews.com/politics/justice-department/democrats-walk-pam-bondi-briefing-epstein-files-subpoena-compliance-rcna264219))
 
 **Countermeasure:** The EFTA statute is explicit — Congress ordered full release. The removals postdate the statute. The question is compliance, not deliberative process.
 
@@ -333,7 +346,7 @@ Lutnick has agreed to voluntary closed-door testimony ([DNYUZ](https://dnyuz.com
 
 → Full profile: [Section 3.33](#333-doug-band--clinton-foundation)
 
-### TOVA NOEL — Mar 26 (letter sent Mar 13; "If she doesn't, I'll subpoena her" — Comer)
+### TOVA NOEL — **POSTPONED** (was Mar 26; letter sent Mar 13; "If she doesn't, I'll subpoena her" — Comer)
 
 → Full witness brief: [WITNESS_BRIEF_NOEL.md](WITNESS_BRIEF_NOEL.md)
 → Full profile: [Section 3.64](#364-tova-noel--mcc-correctional-officer)
@@ -545,9 +558,9 @@ The people who moved the money. They can trace every dollar.
 
 **Location:** Delray Beach, FL (16065 Bristol Isle Way). Now a luxury real estate agent at Luxury Partners Realty ([LinkedIn](https://www.linkedin.com/in/darren-indyke/)). Left Parlatore Law Group (Timothy Parlatore's firm) in January 2026 after EFTA release.
 **Already subpoenaed?** Yes (Jan 7-8, 2026 committee vote)
-**Status:** March 19, 2026 deposition (rescheduled from March 5) ([Washington Examiner](https://www.washingtonexaminer.com/news/justice/4471621/house-oversight-delays-depositions-epstein-associates-march/))
+**Status:** **DEPOSED March 19, 2026** (~6.75 hrs). Video released Mar 25. ([video](https://epstein-data.com/depositions?v=darren_indyke), [CNN](https://www.cnn.com/2026/03/19/politics/darren-indyke-jeffrey-epstein-testimony), [NPR](https://www.npr.org/2026/03/20/nx-s1-5754619/epstein-files-lawyer-darren-indyke))
 **Attorney:** Daniel H. Weiner and Marc Weinstein, Hughes Hubbard & Reed LLP (cooperating posture — "accepted the subpoenas and intend to cooperate")
-**Likely response:** Attorney-client privilege on everything. Will invoke privilege exhaustively. Will NOT plead the Fifth — attorney says no criminal exposure.
+**Deposition result:** Denied "any knowledge whatsoever" of Epstein's crimes. Confirmed existence of hard drives held by Epstein's private investigators. Acknowledged regularly withdrawing $7,500 at a time (totaling $700K+) but denied structuring. Could not give a straight answer on whether a Trump accuser received an estate settlement. Rep. Dave Min (D-CA): "not credible... very likely he perjured himself over and over again." ([CBS News](https://www.cbsnews.com/news/darren-indyke-jeffrey-epstein-lawyer-house-oversight-committee/))
 **Why they matter:** He built the shell entity architecture. He managed every trust, every wire, every entity. ~25,500 documents in the corpus mention him — more than any other individual.
 
 **Critical findings:**
@@ -592,11 +605,11 @@ The people who moved the money. They can trace every dollar.
 
 **Location:** New York. Reportedly retired.
 **Already subpoenaed?** Yes (Jan 7-8, 2026 committee vote)
-**Status:** March 11, 2026 deposition (rescheduled from Feb 25)
+**Status:** **DEPOSED March 11, 2026** (~7 hrs). Video released Mar 25. ([video](https://epstein-data.com/depositions?v=richard_kahn), [CNN](https://www.cnn.com/2026/03/11/politics/richard-kahn-epstein-accountant-house-deposition), [NPR](https://www.npr.org/2026/03/11/nx-s1-5745082/epstein-files-richard-kahn-deposition))
 **Congressional counsel:** Daniel Ruzumna, Patterson Belknap Webb & Tyler LLP
 **Civil litigation counsel:** Daniel H. Weiner, Hughes Hubbard & Reed LLP (represents both co-executors)
 **Cooperating posture:** "Intends to testify." Co-executors produced "thousands of pages of documents, photographs, and other materials." $35M settlement with victim class (preliminary approval Mar 3, 2026) — no admission of misconduct.
-**Likely response:** Will invoke privilege selectively. Less legal basis than Indyke — accountant-client privilege does NOT exist under federal law.
+**Deposition result:** Named 5 Epstein payers: Wexner, Dubin, Sinofsky, Rothschilds, Black. Claimed "was not aware of the terrible and unforgivable things that he did." Said he never saw transactions involving Trump or his family. Made contradictory statements with attorney about Jane Doe 4 settlement. Neither Kahn nor Indyke had ever been formally questioned by federal law enforcement before these depositions. ([NBC News](https://www.nbcnews.com/politics/congress/epstein-accountant-kahn-lawyer-indyke-never-interviewed-government-inv-rcna265024))
 **Why they matter:** He managed $159M+ in documented entity balances. FBI's Deutsche Bank 302 confirms wire requests "would generally come in from Richard Kahn." Never questioned by any law enforcement agency.
 
 **Critical findings from witness briefing:**
@@ -872,7 +885,7 @@ Individuals with documented abuse allegations and financial relationships.
 | [EFTA01359500](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01359500.pdf) | 10 | Same Deutsche Bank officers as Epstein (RM Code 82289) |
 | [EFTA01477454](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01477454.pdf) | 10 | Shared DB portfolio |
 
-$62.5M USVI settlement. SDNY CRU decided "doesn't intend to open anything separate" (July 2023). DANY investigation closed without charges.
+$62.5M USVI settlement. SDNY CRU decided "doesn't intend to open anything separate" (July 2023). DANY investigation closed without charges. **Mar 23, 2026:** Senate Finance Committee (Wyden) sent letter questioning Black over "hush money" payments, surveillance of women, and rates 30x higher than elite advisors. $10M papered over with sham 501(c)(3). Response deadline: April 13. ([Letter PDF](https://www.finance.senate.gov/imo/media/doc/senator_wyden_letter_to_leon_black_redacted.pdf))
 
 $30.5M from BV70 LLC to Plan D LLC described as "in connection with an art transaction" — only $10M was ever repaid, meaning $20.5M of Black's money effectively subsidized Epstein's aircraft operations.
 
@@ -1026,7 +1039,7 @@ SDNY noted he was "so, so frustrating" to reach. Never subpoenaed before the fil
 | [EFTA00158466](https://www.justice.gov/epstein/files/DataSet%209/EFTA00158466.pdf) | 9 | Victim Associate FD-302 (Serial 636): secondhand account; Trump at Mar-a-Lago said "Oh she's a good one right" to ~15-year-old |
 | [EFTA00096192](https://www.justice.gov/epstein/files/DataSet%209/EFTA00096192.pdf) | 9 | Victim FD-302: Epstein told victim he would have taken her to Trump event "if she was 18" |
 | [EFTA00019101](https://www.justice.gov/epstein/files/DataSet%208/EFTA00019101.pdf) | 8 | Civil complaint (Doe v. Epstein): describes Epstein introducing 14-year-old to Trump at Mar-a-Lago |
-| [EFTA00089603](https://www.justice.gov/epstein/files/DataSet%209/EFTA00089603.pdf) | 9 | Victim's mother FD-302 (Stockholm): Trump's presence made her think "how could EPSTEIN be a criminal" — social proof facilitating grooming. **REMOVED FROM JUSTICE.GOV** |
+| [EFTA00089603](https://www.justice.gov/epstein/files/DataSet%209/EFTA00089603.pdf) | 9 | Victim's mother FD-302 (Stockholm): Trump's presence made her think "how could EPSTEIN be a criminal" — social proof facilitating grooming. (Previously removed from justice.gov; since restored.) |
 
 **Documentary evidence — Witness Testimony:**
 
@@ -1871,7 +1884,7 @@ FBI serial 3501.062. Can provide testimony on property management, financial flo
 
 → **Full witness brief:** [WITNESS_BRIEF_NOEL.md](WITNESS_BRIEF_NOEL.md)
 
-One of two officers on duty in the SHU the night Epstein died (Aug 9-10, 2019). Indicted November 2019 for falsifying records; entered DPA May 2021; charges dismissed January 2022. Scheduled for transcribed interview March 26, 2026. As of March 2026, working as medical assistant in Westchester and being sued by a coworker for assault.
+One of two officers on duty in the SHU the night Epstein died (Aug 9-10, 2019). Indicted November 2019 for falsifying records; entered DPA May 2021; charges dismissed January 2022. Scheduled for transcribed interview March 26, 2026 but **did not appear** — committee is "continuing to communicate with her attorney." No new date announced. As of March 2026, working as medical assistant in Westchester and being sued by a coworker for assault.
 
 | EFTA | DS | Description |
 |------|----|-------------|
@@ -2192,9 +2205,9 @@ Dataset numbers verified from `full_text_corpus.db` for every citation. The data
 - All EFTA numbers verified as existing in the database with correct dataset assignments
 - 490 EFTA URLs verified against `full_text_corpus.db` — all dataset assignments confirmed correct
 
-## Documents Removed from Justice.gov
+## Documents Previously Removed from Justice.gov (Since Restored)
 
-11 documents cited in this report have been removed from justice.gov since the original January 30, 2026 release. Their content was verified from our corpus before removal. Congress should demand their restoration and an explanation for each removal:
+11 documents cited in this report were removed from justice.gov after the original January 30, 2026 release. All ~64,259 removed documents have since been restored. The fact that they were removed and then restored without explanation remains relevant — Congress should demand an accounting of the removal and restoration process:
 
 | EFTA | Description | Context |
 |------|-------------|---------|
