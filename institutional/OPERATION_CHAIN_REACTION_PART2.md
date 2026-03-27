@@ -24,7 +24,7 @@ A systematic search of every OCDETF-related document in the 2.73-million-page EF
 
 ### The Document
 
-[EFTA00129058](https://www.justice.gov/epstein/files/DataSet%209/EFTA00129058.pdf) is a 27-page FBI pen register/trap and trace analysis memorandum, classified U//FOUO, dated May 16-17, 2011. It was drafted by an FBI Miami C-9 Squad agent under case 281A-MM-114129, operation name "STRIP DOWN."
+[EFTA00129058](https://www.justice.gov/epstein/files/DataSet%209/EFTA00129058.pdf) is a 27-page FBI pen register/trap and trace analysis memorandum, classified U//FOUO, dated May 16-17, 2011. It was drafted by an FBI Miami C-9 Squad agent under case [281A-MM-114129](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=281A-MM-114129), operation name "STRIP DOWN."
 
 The target is **Patricia Burnside**, whose phone was monitored from April 28 through May 16, 2011. Every number that called or was called by Burnside's phone was run against FBI case databases. The results document a dense set of cross-references spanning organized crime families, drug trafficking organizations, public corruption, and — on page 6 — the Epstein child prostitution investigation.
 
@@ -51,7 +51,7 @@ Burnside is identified in the memo as the **registered agent for the majority of
 
 > ZEDECK, along with BURNSIDE, are listed as the registered agent on the majority of companies belonging to BILOTTI and JACK E. GALARDI.
 
-**Leonard E. Zedeck** (Sunrise, Florida) is the other registered agent, whose phone was also captured in FBI case #281F-LV-39165 (criminal enterprise) and on Bilotti's own pen register.
+**Leonard E. Zedeck** (Sunrise, Florida) is the other registered agent, whose phone was also captured in FBI case [#281F-LV-39165](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=281F-LV-39165) (criminal enterprise) and on Bilotti's own pen register.
 
 ### The Bilotti/Galardi Network
 
@@ -59,18 +59,18 @@ Burnside is identified in the memo as the **registered agent for the majority of
 
 | Name | Role | FBI Case |
 |------|------|----------|
-| Anthony Trentacosta aka "Tony Pep" | Gambino member/associate | #245A-MM-84432 |
-| Frederick Massaro | Gambino member/associate | #245A-MM-84432 |
-| John Patrick Rogan | Gambino member/associate | #245A-MM-84432 |
-| William Anthony Dante | Gambino member/associate | #245A-MM-84432 |
-| Dominick Ignazio Alogna | **Gambino Captain** | #281A-MM-94770 |
-| James Auriemma | Alleged Gambino Soldier | #281A-MM-94770 |
-| Robert J. O'Connor | Captured on Bilotti's pen register | #281A-NY-258727-BC (Bonanno LCN) |
+| Anthony Trentacosta aka "Tony Pep" | Gambino member/associate | [#245A-MM-84432](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=245A-MM-84432) |
+| Frederick Massaro | Gambino member/associate | [#245A-MM-84432](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=245A-MM-84432) |
+| John Patrick Rogan | Gambino member/associate | [#245A-MM-84432](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=245A-MM-84432) |
+| William Anthony Dante | Gambino member/associate | [#245A-MM-84432](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=245A-MM-84432) |
+| Dominick Ignazio Alogna | **Gambino Captain** | [#281A-MM-94770](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=281A-MM-94770) |
+| James Auriemma | Alleged Gambino Soldier | [#281A-MM-94770](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=281A-MM-94770) |
+| Robert J. O'Connor | Captured on Bilotti's pen register | [#281A-NY-258727-BC](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=281A-NY-258727) (Bonanno LCN) |
 
 **Jack E. Galardi** is the owner of **Galardi South Enterprises (GSE)**, a [strip club empire](https://www.reviewjournal.com/entertainment/nightlife/topless-club-mogul-jack-galardi-dead-at-81/) that at one time encompassed some 30 topless cabarets, based in Miami (address: [redacted], Miami, FL 33162). His son Michael Galardi was [convicted in 2003 in Operation G-Sting](https://en.wikipedia.org/wiki/Operation_G-Sting), a federal corruption investigation into strip club bribes to politicians. GSE's phone number was captured in two additional FBI cases:
 
-- **#281A-MM-77849**: Two Camorra brothers from Naples, Italy, trafficking heroin in the Miami area (1996)
-- **#245D-MM-111628**: Violent gangs in the Davie, Florida area (2008)
+- **[#281A-MM-77849](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=281A-MM-77849)**: Two Camorra brothers from Naples, Italy, trafficking heroin in the Miami area (1996)
+- **[#245D-MM-111628](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=245D-MM-111628)**: Violent gangs in the Davie, Florida area (2008)
 
 ### The Palm Beach Strip Club
 
@@ -117,10 +117,10 @@ The pen register analysis references **35+ distinct FBI case numbers** spanning:
 | Italian LCN (Gambino, Colombo, Bonanno, Luchese) | 10+ | Gotti Jr., Alogna (Captain), Farese (made Colombo) |
 | Drug trafficking | 6+ | Camorra heroin, Cali cartel, Lazaro Vidal DTO, methamphetamine |
 | Financial crime | 4+ | Mortgage fraud, securities fraud |
-| Human trafficking/prostitution | 2 | Epstein (#031E-MM-108062), Asian prostitution (#281E-BS-95229) |
+| Human trafficking/prostitution | 2 | Epstein ([#031E-MM-108062](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=031E-MM-108062)), Asian prostitution ([#281E-BS-95229](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=281E-BS-95229)) |
 | Public corruption | 2 | Dean Trantalis (Ft. Lauderdale Commissioner), state judge bribery |
-| Foreign intelligence | 1 | Cuban Intelligence Service (#202B-MM-113683) |
-| Pharmaceutical theft | 1 | $70M Eli Lilly warehouse burglary (#087-NH-46813) |
+| Foreign intelligence | 1 | Cuban Intelligence Service ([#202B-MM-113683](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=202B-MM-113683)) |
+| Pharmaceutical theft | 1 | $70M Eli Lilly warehouse burglary ([#087-NH-46813](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=087-NH-46813)) |
 
 ### What This Does NOT Show
 
@@ -143,7 +143,7 @@ A comprehensive search of every OCDETF reference in the 2.73-million-page corpus
 | **Likquid Longhorn** | [NY-NYS-1106](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=NY-NYS-1106) | [245D-NY-7786783](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=245D-NY-7786783) | Nicholas Tartaglione (quadruple homicide DTO) | **Indirect** — Tartaglione was Epstein's cellmate during first neck injury (07/23/2019) |
 | New Blood | [NY-NYS-0879](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=NY-NYS-0879) | [245D-NY-307101](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=245D-NY-307101) | Yellow Tape Money Gang, Newburgh NY | None (incarcerated tipster cross-reference only) |
 | Heroin Mill | (paired with New Blood) | [245D-NY-2078552](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=245D-NY-2078552) | Southside Gang, Newburgh NY | None |
-| Trip Knot | [PA-CAE-0525](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=PA-CAE-0525) | [243H-WF-218208](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=243H-WF-218208) | Eurasian organizations / arms | Tangential (ARMS Reach vetting references Epstein) |
+| Trip Knot | [PA-CAE-0525](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=PA-CAE-0525) | [243H-WF-218208](https://www.justice.gov/epstein/files/DataSet%209/EFTA00129095.pdf) | Eurasian organizations / arms | Tangential (ARMS Reach vetting references Epstein) |
 | Helix Redux | — | [245C-NY-302765](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=245C-NY-302765) | Israeli National Police coordination | None confirmed |
 | Break-A-Wish | — | [245B-NY-2066405](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=245B-NY-2066405) | 45kg heroin seizure | None |
 | Whirling Dervish | — | [281C-NY-3289654](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=281C-NY-3289654) | Venezuelan money laundering | Same forensic accountant worked both cases |
@@ -163,15 +163,15 @@ The Epstein investigation used at least three FBI case number prefixes over time
 
 | Prefix | Meaning | Era |
 |--------|---------|-----|
-| **31E-NY-3027571** | Sex trafficking criminal enterprise | July 2019 (arrest/warrants) |
-| **50D-NY-3027571** | Special investigation | 2020-2021 (post-death, Maxwell phase) |
-| **SOD-NY-3027571** | Special Operations Division | 2020-2021 (Guardian complaints, evidence inventory) |
+| **[31E-NY-3027571](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=31E-NY-3027571)** | Sex trafficking criminal enterprise | July 2019 (arrest/warrants) |
+| **[50D-NY-3027571](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=50D-NY-3027571)** | Special investigation | 2020-2021 (post-death, Maxwell phase) |
+| **[SOD-NY-3027571](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=SOD-NY-3027571)** | Special Operations Division | 2020-2021 (Guardian complaints, evidence inventory) |
 
-A separate case number — **90A-NY-3151227** — was assigned to the death investigation specifically.
+A separate case number — **[90A-NY-3151227](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=90A-NY-3151227)** — was assigned to the death investigation specifically.
 
 ### The Tartaglione Overlap
 
-**Nicholas Tartaglione** — Epstein's cellmate during the first neck-injury incident on July 23, 2019 — was investigated under **Operation Likquid Longhorn** (OCDETF #NY-NYS-1106, case 245D-NY-7786783). Tartaglione, a former police officer, was [convicted of a quadruple homicide](https://www.justice.gov/usao-sdny/pr/former-police-officer-sentenced-four-consecutive-life-sentences-2016-quadruple-murder) connected to drug trafficking and sentenced to four consecutive life terms. His case was run by **Squad C-32** (Hudson Valley Safe Streets Task Force) at the FBI New York Field Office — the same squad that ran Operation New Blood and Operation Heroin Mill ([EFTA00174481](https://www.justice.gov/epstein/files/DataSet%209/EFTA00174481.pdf)).
+**Nicholas Tartaglione** — Epstein's cellmate during the first neck-injury incident on July 23, 2019 — was investigated under **Operation Likquid Longhorn** (OCDETF #[NY-NYS-1106](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=NY-NYS-1106), case [245D-NY-7786783](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=245D-NY-7786783)). Tartaglione, a former police officer, was [convicted of a quadruple homicide](https://www.justice.gov/usao-sdny/pr/former-police-officer-sentenced-four-consecutive-life-sentences-2016-quadruple-murder) connected to drug trafficking and sentenced to four consecutive life terms. His case was run by **Squad C-32** (Hudson Valley Safe Streets Task Force) at the FBI New York Field Office — the same squad that ran Operation New Blood and Operation Heroin Mill ([EFTA00174481](https://www.justice.gov/epstein/files/DataSet%209/EFTA00174481.pdf)).
 
 The Epstein case was run by **Squad C-20**. Both squads operated within FBI NYO's Criminal Division Branch C.
 
@@ -335,13 +335,13 @@ The corpus contains seven clusters of FD-794 forms (FBI operational expense requ
 **Early Investigation (2007)**:
 - [EFTA01728810](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01728810.pdf): **$340** to Delaware Secretary of State for certified corporate records of **JEGE, Inc.** (File #3284812) and **$946** for **Hyperion Air, Inc.** (File #2268758). Requested by AUSA for prosecution and potential **seizure of aircraft** registered to these entities. Authorized from FY 2007 Asset Forfeiture Fund.
 - [EFTA01689427](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01689427.pdf): **$306.50** to American Express/DATAMARK for subpoenaed financial records (9 hours at $17/hour labor + $207.50 reproduction).
-- [EFTA01688746](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01688746.pdf): Sprint phone bill reimbursement, case 31E-MM-108062 (JEFFREY EPSTEIN; GHISLAINE N. MAXWELL; WSTA - CHILD PROSTITUTION).
+- [EFTA01688746](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01688746.pdf): Sprint phone bill reimbursement, case [31E-MM-108062](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=31E-MM-108062) (JEFFREY EPSTEIN; GHISLAINE N. MAXWELL; WSTA - CHILD PROSTITUTION).
 
 **Reopened Investigation (2011)**:
 - [EFTA01688916](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01688916.pdf): FD-794 dated April 7, 2011 — confirming the Miami investigation was active in 2011, consistent with the DEA's OCDETF case opening in December 2010.
 
 **Maxwell Trial (2021)**:
-- [EFTA00038871](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038871.pdf): Reimbursement for trial witness meals on June 23, 2021, case 50D-NY-3027571. Program classification: **(RIRI) Violent Crimes Against Children**.
+- [EFTA00038871](https://www.justice.gov/epstein/files/DataSet%208/EFTA00038871.pdf): Reimbursement for trial witness meals on June 23, 2021, case [50D-NY-3027571](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=50D-NY-3027571). Program classification: **(RIRI) Violent Crimes Against Children**.
 
 The 2007 asset forfeiture requests targeting JEGE Inc. and Hyperion Air — the same entities flagged by the DEA eight years later — confirm that the FBI was pursuing Epstein's corporate infrastructure as early as 2007, before the NPA terminated the prosecution.
 
@@ -353,7 +353,7 @@ The document range EFTA00129000-00129999 contains 97 documents spanning 1,091 pa
 
 ### Glenn Straub and the Cuba Trafficking Allegation
 
-[EFTA00129165](https://www.justice.gov/epstein/files/DataSet%209/EFTA00129165.pdf) is a 2-page FD-302 from August 29, 2019, filed under case 318B-NH-2050945 (Glenn Straub financial fraud investigation). A witness reports that a man identified as "Danny" from Miami used advertisements on Telemundo to recruit girls from Cuba — approximately fifteen years old — and that Epstein "was not the only one" involved.
+[EFTA00129165](https://www.justice.gov/epstein/files/DataSet%209/EFTA00129165.pdf) is a 2-page FD-302 from August 29, 2019, filed under case [318B-NH-2050945](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=318B-NH-2050945) (Glenn Straub financial fraud investigation). A witness reports that a man identified as "Danny" from Miami used advertisements on Telemundo to recruit girls from Cuba — approximately fifteen years old — and that Epstein "was not the only one" involved.
 
 [EFTA00129169](https://www.justice.gov/epstein/files/DataSet%209/EFTA00129169.pdf) is a 5-page screenshot capture of text messages from the same witness, stating:
 
@@ -365,13 +365,13 @@ The messages also reference a trip Straub took to Cuba, a photo book he kept in 
 
 ### The Darknet Threat
 
-[EFTA00129366](https://www.justice.gov/epstein/files/DataSet%209/EFTA00129366.pdf) is a 13-page case file (9A-NY-3144791) documenting an anonymous darknet threat against Epstein victims. On July 25, 2019 — nineteen days after Epstein's arrest — a poster on a darknet forum announced "a planned execution of two of subject JEFFREY EPSTEIN's publicly named victims" and asked readers to provide their names, addresses, and phone numbers to "take everyone out."
+[EFTA00129366](https://www.justice.gov/epstein/files/DataSet%209/EFTA00129366.pdf) is a 13-page case file ([9A-NY-3144791](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=9A-NY-3144791)) documenting an anonymous darknet threat against Epstein victims. On July 25, 2019 — nineteen days after Epstein's arrest — a poster on a darknet forum announced "a planned execution of two of subject JEFFREY EPSTEIN's publicly named victims" and asked readers to provide their names, addresses, and phone numbers to "take everyone out."
 
-The FBI deployed **Online Covert Employee (OCE) #10179** to unmask the poster via Tor browser. International dissemination was authorized. The case was cross-referenced to **31E-NY-3027571** (EPSTEIN, JEFFREY; CHILD SEX TRAFFICKING).
+The FBI deployed **Online Covert Employee (OCE) #10179** to unmask the poster via Tor browser. International dissemination was authorized. The case was cross-referenced to **[31E-NY-3027571](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=31E-NY-3027571)** (EPSTEIN, JEFFREY; CHILD SEX TRAFFICKING).
 
 ### The Rodriguez Case File
 
-[EFTA00129379](https://www.justice.gov/epstein/files/DataSet%209/EFTA00129379.pdf) is a 258-page FBI case file (72-MM-113327) for the **Alfredo Rodriguez obstruction prosecution**. Rodriguez, a former Epstein employee, attempted to sell documents to attorney Bradley James Edwards for $50,000. The file contains the complete operational record: the $50,000 "show money" request from FBIHQ, the operational plan for the November 2, 2009 undercover meeting, FD-302s documenting the consent search of Rodriguez's vehicle, and the December 8, 2009 arrest.
+[EFTA00129379](https://www.justice.gov/epstein/files/DataSet%209/EFTA00129379.pdf) is a 258-page FBI case file ([72-MM-113327](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=72-MM-113327)) for the **Alfredo Rodriguez obstruction prosecution**. Rodriguez, a former Epstein employee, attempted to sell documents to attorney Bradley James Edwards for $50,000. The file contains the complete operational record: the $50,000 "show money" request from FBIHQ, the operational plan for the November 2, 2009 undercover meeting, FD-302s documenting the consent search of Rodriguez's vehicle, and the December 8, 2009 arrest.
 
 Buried in the file (page 230) is an FD-302 interview with **Robert Couturier**, an interior decorator who visited Epstein's USVI house in June 2010. Couturier states that Epstein showed him a room in which he wanted to place **"four beds and wanted to have it decorated in a very colorful palette for his girls."** Epstein then:
 
@@ -412,8 +412,8 @@ The core problem: the public has the summary layer but not the underlying financ
 The Congressional Subpoena Guide ([Section 4](https://epstein-data.com/reports/congressional/CONGRESSIONAL_SUBPOENA_GUIDE.html)) identifies the withheld FinCEN records as a priority. This report adds specificity:
 
 - The **three attachments** to EFTA00173953 (USAR, CTR, and CTR details for all 15 targets)
-- The **DEA case file C1-11-0049** (the underlying Chain Reaction investigation)
-- The **pen register subscriber identity** for the phone number connecting case 031E-MM-108062 to case 281A-MM-114129
+- The **DEA case file [C1-11-0049](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=C1-11-0049)** (the underlying Chain Reaction investigation)
+- The **pen register subscriber identity** for the phone number connecting case [031E-MM-108062](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=031E-MM-108062) to case [281A-MM-114129](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=281A-MM-114129)
 - The **case closure memorandum** for Operation Chain Reaction
 
 ---
