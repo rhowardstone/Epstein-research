@@ -138,16 +138,16 @@ A comprehensive search of every OCDETF reference in the 2.73-million-page corpus
 
 | Operation | OCDETF # | FBI Case | Subject | Epstein Connection |
 |-----------|----------|----------|---------|-------------------|
-| **Chain Reaction** | NY-NYS-0829 | DEA C1-11-0049 | Epstein + 14 associates (drug/wire fraud) | **Direct** — Epstein is Target 4 |
-| **Leap Year** | — | SDFL 2006R01181 | Epstein sex trafficking | **Direct** — original prosecution code name |
-| **Likquid Longhorn** | NY-NYS-1106 | 245D-NY-7786783 | Nicholas Tartaglione (quadruple homicide DTO) | **Indirect** — Tartaglione was Epstein's cellmate during first neck injury (07/23/2019) |
-| New Blood | NY-NYS-0879 | 245D-NY-307101 | Yellow Tape Money Gang, Newburgh NY | None (incarcerated tipster cross-reference only) |
-| Heroin Mill | (paired with New Blood) | 245D-NY-2078552 | Southside Gang, Newburgh NY | None |
-| Trip Knot | PA-CAE-0525 | 243H-WF-218208 | Eurasian organizations / arms | Tangential (ARMS Reach vetting references Epstein) |
-| Helix Redux | — | 245C-NY-302765 | Israeli National Police coordination | None confirmed |
-| Break-A-Wish | — | 245B-NY-2066405 | 45kg heroin seizure | None |
-| Whirling Dervish | — | 281C-NY-3289654 | Venezuelan money laundering | Same forensic accountant worked both cases |
-| Bad Harvest | — | 305A-NY-284063 | Child exploitation | None confirmed |
+| **Chain Reaction** | [NY-NYS-0829](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=NY-NYS-0829) | [DEA C1-11-0049](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=C1-11-0049) | Epstein + 14 associates (drug/wire fraud) | **Direct** — Epstein is Target 4 |
+| **Leap Year** | — | [SDFL 2006R01181](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=2006R01181) | Epstein sex trafficking | **Direct** — original prosecution code name |
+| **Likquid Longhorn** | [NY-NYS-1106](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=NY-NYS-1106) | [245D-NY-7786783](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=245D-NY-7786783) | Nicholas Tartaglione (quadruple homicide DTO) | **Indirect** — Tartaglione was Epstein's cellmate during first neck injury (07/23/2019) |
+| New Blood | [NY-NYS-0879](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=NY-NYS-0879) | [245D-NY-307101](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=245D-NY-307101) | Yellow Tape Money Gang, Newburgh NY | None (incarcerated tipster cross-reference only) |
+| Heroin Mill | (paired with New Blood) | [245D-NY-2078552](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=245D-NY-2078552) | Southside Gang, Newburgh NY | None |
+| Trip Knot | [PA-CAE-0525](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=PA-CAE-0525) | [243H-WF-218208](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=243H-WF-218208) | Eurasian organizations / arms | Tangential (ARMS Reach vetting references Epstein) |
+| Helix Redux | — | [245C-NY-302765](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=245C-NY-302765) | Israeli National Police coordination | None confirmed |
+| Break-A-Wish | — | [245B-NY-2066405](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=245B-NY-2066405) | 45kg heroin seizure | None |
+| Whirling Dervish | — | [281C-NY-3289654](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=281C-NY-3289654) | Venezuelan money laundering | Same forensic accountant worked both cases |
+| Bad Harvest | — | [305A-NY-284063](https://epstein-data.com/full_text_corpus/pages?_fts_table=pages_fts&_fts_pk=rowid&_search=305A-NY-284063) | Child exploitation | None confirmed |
 
 ### "Operation Leap Year" — The Forgotten Code Name
 
