@@ -1,8 +1,7 @@
-# Zorro Ranch: What 17,000 Pages Show About Epstein's New Mexico Compound
+# Zorro Ranch Investigation, Part 2: Inside the Compound
 
 **Category:** Institutional / Evidence Analysis
 **Date:** March 28, 2026
-**Status:** DRAFT — Source-checked against cited documents
 **See also:** [Part 1 — How SDNY Halted the Zorro Ranch Investigation](ZORRO_RANCH_INVESTIGATION_HALT.md)
 
 ---

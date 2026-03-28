@@ -3,7 +3,7 @@
 **Category:** Institutional Failure Analysis
 **Date:** March 11, 2026
 **Status:** Published
-**See also:** [Part 2 — What 17,000 Pages Show About the Ranch](ZORRO_RANCH_INVESTIGATION_PART2.md)
+**See also:** [Part 2 — Inside the Compound](ZORRO_RANCH_INVESTIGATION_PART2.md)
 
 ---
 
