@@ -19,7 +19,7 @@ In July 2019, prosecutors from the U.S. Attorney's Office for the Southern Distr
 
 This 10-page document is a multi-year email thread between Assistant United States Attorneys at SDNY (including Maurene Comey) and prosecutors at the U.S. Attorney's Office for the District of New Mexico. It is the primary documentary evidence of the halt.
 
-**Page 7** contains the critical passage. An SDNY AUSA writes to New Mexico colleagues on September 8, 2019:
+**Page 8** contains the critical passage. An SDNY AUSA writes to New Mexico colleagues on September 8, 2019:
 
 > "We spoke with the New Mexico AG's office back in July 2019. In essence, **they agreed to cease any investigation into sex trafficking** and share whatever they had gathered to date regarding sex trafficking activity with our office. We agreed that they were free to proceed with whatever other investigations (unrelated to sex trafficking) they may have concerning Epstein and told them that at the conclusion of our case, we would pass along any information we may have gathered about state crimes that were committed in their jurisdiction. **We have not communicated with anyone from the New Mexico AG's office since that conversation in July 2019.**"
 
@@ -27,7 +27,7 @@ The email does not characterize the arrangement as a request — it describes an
 
 ### What This Document Does Not Show
 
-The email chain does not reveal who at SDNY initiated the conversation with the NM AG's office, whether Main Justice (DOJ leadership under AG William Barr) directed or approved the halt, or whether any formal written agreement exists beyond what is described in this email. The names of the SDNY and DNM attorneys are redacted throughout. Page 9 references two SDNY colleagues by first name only — "Alison and Maurene" — likely AUSAs Alison Moe and Maurene Comey, who are publicly known to have handled the Epstein case at SDNY. The surname "Comey" does not appear in the document; the identification is based on case records.
+The email chain does not reveal who at SDNY initiated the conversation with the NM AG's office, whether Main Justice (DOJ leadership under AG William Barr) directed or approved the halt, or whether any formal written agreement exists beyond what is described in this email. The names of the SDNY and DNM attorneys are redacted throughout. Page 10 references two SDNY colleagues by first name only — "Alison and Maurene" — likely AUSAs Alison Moe and Maurene Comey, who are publicly known to have handled the Epstein case at SDNY. The surname "Comey" does not appear in the document; the identification is based on case records.
 
 ---
 
@@ -50,31 +50,31 @@ Jeffrey Epstein is found dead in his cell at the Metropolitan Correctional Cente
 
 ### August 16-17, 2019: New Mexico Reaches Out
 
-The DNM contacts SDNY requesting a follow-up call about "NM-related Epstein matters" (EFTA00019183, page 9). SDNY responds that they are starting a trial and suggests finding time the following week.
+The DNM contacts SDNY requesting a follow-up call about "NM-related Epstein matters" (EFTA00019183, page 10). SDNY responds that they are starting a trial and suggests finding time the following week.
 
 ### September 4-8, 2019: DNM Alerts SDNY About State Activity
 
-The DNM notifies SDNY that New Mexico state authorities are "moving forward with their own plans" regarding Epstein property. State Land Commissioner Stephanie Garcia Richard has revoked grazing leases held by Cypress Inc. (Epstein's corporate entity). The NM AG is quoted publicly saying he is investigating "in coordination with" SDNY (EFTA00019183, pages 7-8).
+The DNM notifies SDNY that New Mexico state authorities are "moving forward with their own plans" regarding Epstein property. State Land Commissioner Stephanie Garcia Richard has revoked grazing leases held by Cypress Inc. (Epstein's corporate entity). The NM AG is quoted publicly saying he is investigating "in coordination with" SDNY (EFTA00019183, pages 8-9).
 
 SDNY responds with the critical passage confirming the July 2019 agreement and noting they have not communicated with the NM AG since then.
 
 ### October 11, 2019: NM Submits Interview Questions
 
-The DNM sends SDNY a set of "New Mexico-specific questions" to be included in victim interviews, at SDNY's prior invitation. SDNY acknowledges receipt and notes they already cover these topics but will "keep in mind" New Mexico's interests (EFTA00019183, page 5).
+The DNM sends SDNY a set of "New Mexico-specific questions" to be included in victim interviews, at SDNY's prior invitation. SDNY acknowledges receipt and notes they already cover these topics but will "keep in mind" New Mexico's interests (EFTA00019183, page 6).
 
 ### November 19, 2019: Jane Doe 15 Reporting
 
-The DNM asks SDNY about CBS reporting concerning "Jane Doe 15" and Bill Clinton (EFTA00019183, page 5). The DNM also offers to assist with "any investigation into New Mexico-related matters, including the submission of any application for a search warrant" (page 6).
+The DNM asks SDNY about CBS reporting concerning "Jane Doe 15" and Bill Clinton (EFTA00019183, page 6). The DNM also offers to assist with "any investigation into New Mexico-related matters, including the submission of any application for a search warrant" (page 7).
 
 This offer is significant: it indicates that as of November 2019, no search warrant application for Zorro Ranch had been submitted.
 
 ### July 15, 2020: Maxwell Indictment
 
-The DNM congratulates SDNY on the Maxwell indictment and notes that New Mexico conduct formed the basis of an overt act. The DNM asks about "seizure/forfeiture of Epstein's NM property," which the NM U.S. Attorney John Anderson has "asked me to track" (EFTA00019183, page 3).
+The DNM congratulates SDNY on the Maxwell indictment and notes that New Mexico conduct formed the basis of an overt act. The DNM asks about "seizure/forfeiture of Epstein's NM property," which the NM U.S. Attorney John Anderson has "asked me to track" (EFTA00019183, page 4).
 
 ### May 2021: Press Coordination
 
-The DNM contacts SDNY because local news is reporting on NM-related Epstein matters. The NM U.S. Attorney's office states their USA "wants to make a statement, but we want to run this by you all and your PIO first" (EFTA00019183, pages 0-1). By this date, John Anderson had resigned (effective January 2, 2021); the email likely refers to his successor.
+The DNM contacts SDNY because local news is reporting on NM-related Epstein matters. The NM U.S. Attorney's office states their USA "wants to make a statement, but we want to run this by you all and your PIO first" (EFTA00019183, pages 1-2). By this date, John Anderson had resigned (effective January 2, 2021); the email likely refers to his successor.
 
 This final exchange illustrates the deference dynamic: two years after the halt, the NM U.S. Attorney's office still seeks SDNY's permission before making public statements about Epstein matters in their own jurisdiction.
 
@@ -102,7 +102,7 @@ The corpus contains extensive evidence that sexual abuse of minors occurred at Z
 
 ### Victim Testimony Under Oath
 
-**EFTA00019994 / EFTA00076185 / EFTA00080160** (page 74) — At the SDNY sentencing hearing, a Jane Doe stated:
+**EFTA00019994 / EFTA00076185 / EFTA00080160** (page 75) — At the SDNY sentencing hearing, a Jane Doe stated:
 
 > "In 2004, when I was 15 years old, I flew on Jeffrey Epstein's plane to Zorro Ranch, where I was sexual [sic] molested by him for many hours. What I remember most vividly was him explaining to me how beneficial the experience was for me and how much he was helping me to grow."
 
@@ -114,7 +114,7 @@ These photographs were seized from the Manhattan townhouse — not from Zorro Ra
 
 ### Maxwell Indictment
 
-**EFTA01659412** — The Government's Memorandum in Support of Detention for Ghislaine Maxwell (20 Cr. 330) references abuse at "Epstein's properties in New York, Florida, and New Mexico." The indictment itself, as quoted in FBI Albuquerque's tactical intelligence report (EFTA00129048, page 2), describes "a ranch in Santa Fe, New Mexico owned by Epstein (the 'New Mexico Residence')."
+**EFTA01659412** — The Government's Memorandum in Support of Detention for Ghislaine Maxwell (20 Cr. 330) references abuse at "Epstein's properties in New York, Florida, and New Mexico." The indictment itself, as quoted in FBI Albuquerque's tactical intelligence report (EFTA00129048, page 3), describes "a ranch in Santa Fe, New Mexico owned by Epstein (the 'New Mexico Residence')."
 
 ### FBI Tactical Intelligence Report
 
@@ -158,7 +158,7 @@ In 2019, the FBI executed search warrants at:
 - Little Saint James Island, U.S. Virgin Islands — **searched**
 - Zorro Ranch, Stanley, New Mexico — **not searched**
 
-The DNM explicitly offered to help prepare a search warrant application for Zorro Ranch in its November 2019 correspondence with SDNY (EFTA00019183, page 6):
+The DNM explicitly offered to help prepare a search warrant application for Zorro Ranch in its November 2019 correspondence with SDNY (EFTA00019183, page 7):
 
 > "As we mentioned on the phone, we are here to assist with any investigation into New Mexico-related matters, including the submission of any application for a search warrant."
 
