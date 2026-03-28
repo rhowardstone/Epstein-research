@@ -22,7 +22,7 @@ Where possible, claims rest on federal court filings, FBI interview transcripts,
 
 **The email archive reveals an actively managed operational site.** Named staff were screened by Epstein personally — including one whose husband was a deputy sheriff, which Epstein approved. His accountant scrutinized individual housekeeper salaries. A dedicated telecommunications system was built out over six years, from Sprint T1 lines to a licensed microwave relay to Sandia Crest, with equipment sourced through OneWeb founder Greg Wyler. The ranch operated through four corporate entities layered across three jurisdictions.
 
-**When outside contacts occurred, the alert system was immediate.** In 2011, a reporter called the reflexologist seeking information about Ghislaine Maxwell and Epstein. Ranch staff pipelined the reporter's details to Epstein within hours ([EFTA01790757](https://epstein-data.com/EFTA01790757)).
+**When outside contacts occurred, the alert system was fast.** In 2011, a reporter called the reflexologist seeking information about Ghislaine Maxwell and Epstein. By the next morning, ranch staff had pipelined the reporter's details to Epstein ([EFTA01790757](https://epstein-data.com/EFTA01790757)).
 
 **No evidence in the EFTA corpus supports claims** linking the ranch to PROMIS software, Sandia National Laboratories (the weapons research facility), Los Alamos, or Mossad operations. "Sandia Crest" appears exclusively as a telecommunications relay point. The absence of evidence in this corpus is not proof of falsehood, but it defines an evidentiary boundary: across 2.73 million pages of Epstein's own email, financial records, FBI files, and legal filings, none of these connections appear.
 
@@ -118,7 +118,7 @@ The reflexologist was introduced to the FBI by a colleague — a local psychothe
 
 ### The Reporter and the Reflexologist (March 2011)
 
-Ten years before the FBI finally interviewed this witness, Epstein's operation was already monitoring outside contacts. On March 12, 2011, Karen (ranch manager) emailed Epstein with the subject "FYI": the "reflextoligist - foot massages - at Zorro, was contacted by phone by a LA reporter yesterday who was looking for information on GM and yourself." The reflexologist "acknowledged nothing and asked how he got her number." Karen had Wendy forward the reporter's details to Epstein ([EFTA01790757](https://epstein-data.com/EFTA01790757)). The information pipeline ran from reflexologist → Zorro office → Karen → Epstein within hours. A reporter calling a service provider triggered an immediate alert to the principal.
+Ten years before the FBI finally interviewed this witness, Epstein's operation was already monitoring outside contacts. On March 12, 2011, Karen (ranch manager) emailed Epstein with the subject "FYI": the "reflextoligist - foot massages - at Zorro, was contacted by phone by a LA reporter yesterday who was looking for information on GM and yourself." The reflexologist "acknowledged nothing and asked how he got her number." Karen had Wendy forward the reporter's details to Epstein ([EFTA01790757](https://epstein-data.com/EFTA01790757)). The information pipeline ran from reflexologist → Zorro office → Karen → Epstein overnight. A reporter calling a service provider triggered an alert to the principal by the next morning.
 
 ### What This Interview Does and Does Not Show
 
