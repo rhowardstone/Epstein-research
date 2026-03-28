@@ -12,7 +12,7 @@ Federal court records establish that minors were brought to Jeffrey Epstein's Zo
 
 Yet Zorro Ranch — a 10,000-acre compound near Stanley, New Mexico — was never fully searched until March 2026. The FBI searched Epstein's Manhattan townhouse and Little Saint James in 2019. They did not search the ranch. The District of New Mexico offered to help prepare a search warrant that November. No application was submitted. The state's own investigation had already been shut down at SDNY's request the previous July. The property sat undisturbed for nearly seven years. Part 1 of this investigation documents [how that happened](ZORRO_RANCH_INVESTIGATION_HALT.md).
 
-This report — Part 2 — reconstructs what the EFTA corpus shows about the ranch itself: how it was built, staffed, funded, connected, and operated over 25 years. The corpus contains over 17,000 pages mentioning Zorro Ranch across legal filings, FBI materials, and Epstein's 2009–2019 Gmail archive. This appears to be one of the most comprehensive source-linked reconstructions of the property currently published.
+This report — Part 2 — reconstructs what the EFTA corpus shows about the ranch itself: how it was built, staffed, funded, connected, and operated over 25 years. The corpus contains over 17,000 pages mentioning Zorro Ranch across legal filings, FBI materials, and Epstein's 2009–2019 Gmail archive. This is a comprehensive source-linked reconstruction of the property.
 
 Where possible, claims rest on federal court filings, FBI interview transcripts, and official correspondence. Where the report draws on investigative journalism or books, that provenance is noted. Anonymous tips and unverified claims are identified as such and assessed skeptically.
 
@@ -26,7 +26,7 @@ Where possible, claims rest on federal court filings, FBI interview transcripts,
 
 **No evidence in the EFTA corpus supports claims** linking the ranch to PROMIS software, Sandia National Laboratories (the weapons research facility), Los Alamos, or Mossad operations. "Sandia Crest" appears exclusively as a telecommunications relay point. The absence of evidence in this corpus is not proof of falsehood, but it defines an evidentiary boundary: across 2.73 million pages of Epstein's own email, financial records, FBI files, and legal filings, none of these connections appear.
 
-This Part 2 focuses on the ranch itself — its operations, staff, infrastructure, and documented connection to abuse. [Part 1](ZORRO_RANCH_INVESTIGATION_HALT.md) details how the 2019 investigation was halted. Together they provide the most comprehensive source-linked reconstruction of Zorro Ranch available from the EFTA corpus.
+This Part 2 focuses on the ranch itself — its operations, staff, infrastructure, and documented connection to abuse. [Part 1](ZORRO_RANCH_INVESTIGATION_HALT.md) details how the 2019 investigation was halted. Together they provide a comprehensive source-linked reconstruction of Zorro Ranch from the EFTA corpus.
 
 ---
 
