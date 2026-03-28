@@ -49,7 +49,7 @@ This Part 2 focuses on the ranch itself — its operations, staff, infrastructur
 
 ### Acquisition
 
-Jeffrey Epstein acquired the property through the **Zorro Trust, an Ohio trust dated March 1, 1993** ([EFTA00310887](https://epstein-data.com/EFTA00310887), page 3 — Special Warranty Deed). The Special Warranty Deed records the transfer from the King family (then-Governor Bruce King). Separately, Epstein employee Larry Morrison recalled in a deposition: "I thought that part of the property the Zorro was built on was owned by Bill Richardson. He sold it to Jeffrey" ([EFTA01110271](https://epstein-data.com/EFTA01110271), page 43). Morrison's recollection has not been confirmed by deed records in the corpus; the hard documentary evidence shows the King family as grantor.
+Jeffrey Epstein acquired the property through the **Zorro Trust, an Ohio trust dated March 1, 1993** ([EFTA00310887, page 3](https://epstein-data.com/EFTA00310887#page=3) — Special Warranty Deed). The Special Warranty Deed records the transfer from the King family (then-Governor Bruce King). Separately, Epstein employee Larry Morrison recalled in a deposition: "I thought that part of the property the Zorro was built on was owned by Bill Richardson. He sold it to Jeffrey" ([EFTA01110271, page 43](https://epstein-data.com/EFTA01110271#page=43)). Morrison's recollection has not been confirmed by deed records in the corpus; the hard documentary evidence shows the King family as grantor.
 
 The **New Mexico State Land Office lease file** ([EFTA01305252](https://epstein-data.com/EFTA01305252), 418 pages, DS10) documents the ranch's full land footprint:
 
@@ -58,7 +58,7 @@ The **New Mexico State Land Office lease file** ([EFTA01305252](https://epstein-
 - **Land appraisals** dated May 22, 2012 (ADP-303, ADP-304)
 - **BLM assignments** for federal land parcels
 
-In an April 2019 iMessage exchange with a real estate agent about European properties, Epstein described the ranch as "my ranch in new mexico sits on 10,000 acres" and "best house in america," adding: "I have turned down 75m for my ranch" ([EFTA01612459](https://epstein-data.com/EFTA01612459), page 4).
+In an April 2019 iMessage exchange with a real estate agent about European properties, Epstein described the ranch as "my ranch in new mexico sits on 10,000 acres" and "best house in america," adding: "I have turned down 75m for my ranch" ([EFTA01612459, page 4](https://epstein-data.com/EFTA01612459#page=4)).
 
 ### Corporate Origin
 
@@ -82,7 +82,7 @@ The witness had **never been previously interviewed** by any law enforcement age
 
 ### The Property Before Completion
 
-During the early visits, the main house was still under construction. Epstein used a temporary structure — "almost like a log cabin or a mobile home" — that was "made to be very nice" ([EFTA00090036](https://epstein-data.com/EFTA00090036), page 37). The property grew into a "fifty-thousand square-foot house" with staff cabins and guesthouses ("there were all sorts of different homes, like, little cabins or guesthouses, where different staff would live" — page 56), horses, and multiple outbuildings.
+During the early visits, the main house was still under construction. Epstein used a temporary structure — "almost like a log cabin or a mobile home" — that was "made to be very nice" ([EFTA00090036, page 37](https://epstein-data.com/EFTA00090036#page=37)). The property grew into a "fifty-thousand square-foot house" with staff cabins and guesthouses ("there were all sorts of different homes, like, little cabins or guesthouses, where different staff would live" — page 56), horses, and multiple outbuildings.
 
 The witness entered through the back of the house, through a mudroom adjacent to the kitchen, and was not permitted in other areas: "I wasn't allowed in the rest of the house" (page 14). Sessions took place in a library off the kitchen or occasionally in Ghislaine's bedroom.
 
@@ -114,7 +114,7 @@ The witness could not recall who specifically presented the NDA but believed it 
 
 ### How the Witness Was Found
 
-The reflexologist was introduced to the FBI by a colleague — a local psychotherapist who also did massage work for Ghislaine Maxwell. FBI agents visited the colleague's Santa Fe home but did not find her; the reflexologist agreed to facilitate contact ([EFTA00090036](https://epstein-data.com/EFTA00090036), pages 46–47, 60).
+The reflexologist was introduced to the FBI by a colleague — a local psychotherapist who also did massage work for Ghislaine Maxwell. FBI agents visited the colleague's Santa Fe home but did not find her; the reflexologist agreed to facilitate contact ([EFTA00090036, pages 46–47](https://epstein-data.com/EFTA00090036#page=46), 60).
 
 ### The Reporter and the Reflexologist (March 2011)
 
@@ -199,7 +199,7 @@ The email corpus (DS10) documents coordination of visits to Zorro Ranch by sever
 | **Danny Hillis** | [EFTA01875156](https://epstein-data.com/EFTA01875156) | Lesley Groff checking with "Danny Hillis office regarding going to the ranch end of the month" |
 | **Joshua Cooper Ramo** | [EFTA02131073](https://epstein-data.com/EFTA02131073) | Invited to dinner at Zorro; also meeting "Martin" (likely Martin Nowak, Harvard evolutionary dynamics) |
 | **Ed Boyden** | [EFTA02131416](https://epstein-data.com/EFTA02131416) | MIT Media Lab, synthetic neurobiology — travel arrangements to ranch |
-| **Bill Richardson** | Multiple via Caitlin Wakefield (Richardson's office) | Governor of NM 2003–2011. Morrison recalled Richardson selling Epstein land ([EFTA01110271](https://epstein-data.com/EFTA01110271), p.43; unconfirmed by deed records). Santa Fe New Mexican [reported](https://www.santafenewmexican.com/news/local_news/records-show-gov-richardson-met-with-epstein-for-years-after-conviction/article_daf34b03-39af-4f6a-b016-5db73cc7f4b5.html) continued meetings post-conviction |
+| **Bill Richardson** | Multiple via Caitlin Wakefield (Richardson's office) | Governor of NM 2003–2011. Morrison recalled Richardson selling Epstein land ([EFTA01110271, p.43](https://epstein-data.com/EFTA01110271#page=43); unconfirmed by deed records). Santa Fe New Mexican [reported](https://www.santafenewmexican.com/news/local_news/records-show-gov-richardson-met-with-epstein-for-years-after-conviction/article_daf34b03-39af-4f6a-b016-5db73cc7f4b5.html) continued meetings post-conviction |
 | **Woody Allen** | [EFTA02155136](https://epstein-data.com/EFTA02155136), [EFTA02162000](https://epstein-data.com/EFTA02162000) | Lesley Groff provided ranch address to Caitlin Wakefield (Richardson's office), coordinating a possible visit |
 | **Greg Wyler** | [EFTA01975307](https://epstein-data.com/EFTA01975307) | Founder of O3b Networks and OneWeb. Helped source Motorola radio equipment for ranch (see [Section 5](#5-20102016-building-the-network)). Bloomberg [reported](https://www.bloomberg.com/news/articles/2026-02-06/epstein-was-adviser-behind-funding-of-starlink-rival-oneweb) Epstein advised Wyler on OneWeb fundraising — the telecom assistance was reciprocal |
 | **"Paula"** | [EFTA02006935](https://epstein-data.com/EFTA02006935) | Epstein arranged transportation; she declined and drove herself |
@@ -300,17 +300,17 @@ The Maxwell indictment (20 Cr. 330) contains the most detailed federal charging 
 
 > "Minor Victim-2 had flown into New Mexico from out of state at Epstein's invitation for the purpose of being groomed for and/or subjected to acts of sexual abuse. MAXWELL knew that Minor Victim-2 was under the age of 18 at the time. While in New Mexico, MAXWELL and Epstein took Minor Victim-2 to a movie and MAXWELL took Minor Victim-2 shopping. MAXWELL also discussed Minor Victim-2's school, classes, and family with Minor Victim-2."
 
-([EFTA01659394](https://epstein-data.com/EFTA01659394), pages 8–9 — Maxwell indictment, filed June 29, 2020)
+([EFTA01659394, pages 8–9](https://epstein-data.com/EFTA01659394#page=8) — Maxwell indictment, filed June 29, 2020)
 
-The superseding information (filed March 29, 2021) adds: "In New Mexico, MAXWELL began her efforts to groom Minor Victim-2 for abuse by Epstein by, among other things, providing an unsolicited massage to Minor Victim-2, during which Minor Victim-2 was topless. MAXWELL also encouraged Minor Victim-2 to massage Epstein" ([EFTA01659462](https://epstein-data.com/EFTA01659462), page 9).
+The superseding information (filed March 29, 2021) adds: "In New Mexico, MAXWELL began her efforts to groom Minor Victim-2 for abuse by Epstein by, among other things, providing an unsolicited massage to Minor Victim-2, during which Minor Victim-2 was topless. MAXWELL also encouraged Minor Victim-2 to massage Epstein" ([EFTA01659462, page 9](https://epstein-data.com/EFTA01659462#page=9)).
 
-The overt acts section charges that "In or about 1996, when Minor Victim-2 was under the age of 18, MAXWELL provided Minor Victim-2 with an unsolicited massage in New Mexico, during which Minor Victim-2 was topless" ([EFTA01659394](https://epstein-data.com/EFTA01659394), pages 11, 14). This conduct formed the basis of charged offenses in the federal case.
+The overt acts section charges that "In or about 1996, when Minor Victim-2 was under the age of 18, MAXWELL provided Minor Victim-2 with an unsolicited massage in New Mexico, during which Minor Victim-2 was topless" ([EFTA01659394, pages 11, 14](https://epstein-data.com/EFTA01659394#page=11)). This conduct formed the basis of charged offenses in the federal case.
 
 The Maxwell detention memo (20 Cr. 330) separately references abuse at "Epstein's properties in New York, Florida, and New Mexico" ([EFTA01659412](https://epstein-data.com/EFTA01659412)).
 
 ### Photographic Evidence: The Safe
 
-FBI agents searching Epstein's 71st Street Manhattan residence found, inside a safe in a third-floor closet, "several binders containing sleeves of compact discs, most of which are labeled with handwriting." The search warrant application describes: "One disc is marked 'Young [redacted].' Another disc is marked 'Nudes 00-24.' Another is marked 'Misc. Nudes.' Yet another is marked 'Girl Pics Nude.' Some discs contain the word 'Zorro' or 'LSJ.' For example, one disc is marked '**Dana Zorro Pics**'" ([EFTA01648851](https://epstein-data.com/EFTA01648851), page 7; [EFTA01262900](https://epstein-data.com/EFTA01262900), page 8). "Zorro" refers to Zorro Ranch and "LSJ" to Little Saint James.
+FBI agents searching Epstein's 71st Street Manhattan residence found, inside a safe in a third-floor closet, "several binders containing sleeves of compact discs, most of which are labeled with handwriting." The search warrant application describes: "One disc is marked 'Young [redacted].' Another disc is marked 'Nudes 00-24.' Another is marked 'Misc. Nudes.' Yet another is marked 'Girl Pics Nude.' Some discs contain the word 'Zorro' or 'LSJ.' For example, one disc is marked '**Dana Zorro Pics**'" ([EFTA01648851, page 7](https://epstein-data.com/EFTA01648851#page=7); [EFTA01262900, page 8](https://epstein-data.com/EFTA01262900#page=8)). "Zorro" refers to Zorro Ranch and "LSJ" to Little Saint James.
 
 These photographs were seized from Manhattan — not from Zorro Ranch itself, which was never searched until 2026.
 
@@ -334,7 +334,7 @@ The FBI Albuquerque tactical intelligence report ([EFTA00129048](https://epstein
 
 ### Financial Records: The Ranch Was Operational
 
-A 2004 expenditure report for "Jeffrey E. Epstein & Related Entities" includes a dedicated "Zorro" column showing **$63,803** in general (non-house) expenditures for that year, including **$10,603 for "Massage & Exercise"** and $2,474 for "Entertainment & Meals" ([EFTA01304421](https://epstein-data.com/EFTA01304421), page 2). The sentencing statement documents a 15-year-old victim being sexually abused at the ranch in 2004. The expenditure report shows the ranch was not only operational that year but was actively spending in the category of services through which the documented abuse occurred.
+A 2004 expenditure report for "Jeffrey E. Epstein & Related Entities" includes a dedicated "Zorro" column showing **$63,803** in general (non-house) expenditures for that year, including **$10,603 for "Massage & Exercise"** and $2,474 for "Entertainment & Meals" ([EFTA01304421, page 2](https://epstein-data.com/EFTA01304421#page=2)). The sentencing statement documents a 15-year-old victim being sexually abused at the ranch in 2004. The expenditure report shows the ranch was not only operational that year but was actively spending in the category of services through which the documented abuse occurred.
 
 ### What This Section Does Not Show
 
@@ -352,7 +352,7 @@ In July 2019, SDNY instructed the New Mexico Attorney General's office (AG Hecto
 
 > "In essence, they agreed to cease any investigation into sex trafficking and share whatever they had gathered to date regarding sex trafficking activity with our office."
 
-([EFTA00019183](https://epstein-data.com/EFTA00019183), page 8.) Page 10 references "Alison and Maurene" — likely AUSAs Alison Moe and Maurene Comey, who are publicly known to have handled the Epstein case at SDNY. Comey was [fired by the Trump DOJ in July 2025](https://www.cnn.com/2025/07/16/politics/maurene-comey-fired-sdny).
+([EFTA00019183, page 8](https://epstein-data.com/EFTA00019183#page=8).) Page 10 references "Alison and Maurene" — likely AUSAs Alison Moe and Maurene Comey, who are publicly known to have handled the Epstein case at SDNY. Comey was [fired by the Trump DOJ in July 2025](https://www.cnn.com/2025/07/16/politics/maurene-comey-fired-sdny).
 
 Former AG Balderas has stated that New Mexico provided SDNY with police reports, recorded witness interviews, correspondence, and documents related to Epstein's land leases — and received nothing in return. He described the arrangement as "a one-way relationship."
 
@@ -366,7 +366,7 @@ NM State Land Commissioner Stephanie Garcia Richard initiated cancellation of Cy
 
 ### November 2019: The Extortion Email and the Search Warrant That Wasn't
 
-The District of New Mexico explicitly offered to assist SDNY with a search warrant application for Zorro Ranch ([EFTA00019183](https://epstein-data.com/EFTA00019183), page 7). No application was submitted. No search occurred until March 10, 2026 — nearly seven years later.
+The District of New Mexico explicitly offered to assist SDNY with a search warrant application for Zorro Ranch ([EFTA00019183, page 7](https://epstein-data.com/EFTA00019183#page=7)). No application was submitted. No search occurred until March 10, 2026 — nearly seven years later.
 
 Separately, [EFTA00067066](https://epstein-data.com/EFTA00067066) (DS9, 2 pages) is an email forwarded to the FBI on November 25, 2019 by Albuquerque radio host Eddy Aragon. The original was sent from an encrypted ProtonMail account on November 21, 2019, by someone claiming to be "a former staff at the Zorro." It alleged that "two foreign girls were buried on orders of Jeffrey and Madam G" who "died by strangulation during rough, fetish sex."
 
