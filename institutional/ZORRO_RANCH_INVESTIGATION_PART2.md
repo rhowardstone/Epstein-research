@@ -354,7 +354,7 @@ In July 2019, SDNY instructed the New Mexico Attorney General's office (AG Hecto
 
 ([EFTA00019183, page 8](https://epstein-data.com/EFTA00019183#page=8).) Page 10 references "Alison and Maurene" — likely AUSAs Alison Moe and Maurene Comey, who are publicly known to have handled the Epstein case at SDNY. Comey was [fired by the Trump DOJ in July 2025](https://www.cnn.com/2025/07/16/politics/maurene-comey-fired-sdny).
 
-Former AG Balderas has stated that New Mexico provided SDNY with police reports, recorded witness interviews, correspondence, and documents related to Epstein's land leases — and received nothing in return. He described the arrangement as "a one-way relationship."
+Former AG Balderas has stated that New Mexico provided SDNY with police reports, recorded witness interviews, correspondence, and documents related to Epstein's land leases — and received nothing in return. He described the arrangement as ["a one-way relationship"](https://www.abqjournal.com/news/feds-asked-new-mexico-to-halt-its-epstein-probe/2990694) ([ABQ Journal, March 1, 2026](https://www.abqjournal.com/news/feds-asked-new-mexico-to-halt-its-epstein-probe/2990694)).
 
 ### August 10, 2019: Epstein's Death
 

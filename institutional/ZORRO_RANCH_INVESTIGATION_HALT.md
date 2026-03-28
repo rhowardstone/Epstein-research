@@ -88,7 +88,7 @@ Former NM AG Hector Balderas has stated publicly that New Mexico provided SDNY w
 - Correspondence among New Mexico state agencies
 - Documents related to Epstein's leasing of New Mexico public lands
 
-Balderas has stated he is "unaware that federal investigators ever provided any information back" to New Mexico. He described the arrangement as "a one-way relationship" that "gutted" New Mexico's investigation.
+Balderas has stated he is "unaware that federal investigators ever provided any information back" to New Mexico. He described the arrangement as ["a one-way relationship"](https://www.abqjournal.com/news/feds-asked-new-mexico-to-halt-its-epstein-probe/2990694) that ["gutted"](https://www.abqjournal.com/news/feds-asked-new-mexico-to-halt-its-epstein-probe/2990694) New Mexico's investigation ([ABQ Journal, March 1, 2026](https://www.abqjournal.com/news/feds-asked-new-mexico-to-halt-its-epstein-probe/2990694)).
 
 ### What This Section Does Not Show
 
