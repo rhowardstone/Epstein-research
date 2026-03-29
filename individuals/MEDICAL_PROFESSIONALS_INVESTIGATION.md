@@ -787,7 +787,7 @@ As of March 2026, several outlets have reported on Epstein's medical network:
 ## Methodology
 
 ### Sources Searched
-- **Full-text corpus** (2.73M pages, FTS5-indexed): Searched for all physician names, medical terms (doctor, physician, surgeon, gynecolog, psychiatrist, therapist, dentist, allergist, dermatologist, ophthalmologist, birth control, STD, gonorrhea, mandated reporter, prescription, pregnancy, nurse), and medical merchant names
+- **Full-text corpus** (2.91M pages, FTS5-indexed): Searched for all physician names, medical terms (doctor, physician, surgeon, gynecolog, psychiatrist, therapist, dentist, allergist, dermatologist, ophthalmologist, birth control, STD, gonorrhea, mandated reporter, prescription, pregnancy, nurse), and medical merchant names
 - **[EFTA01671962](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01671962.pdf)**: Full 9,824-page AmEx statement parsed for medical merchant charges (Orentreich, Marmur, Gerstner, Krumholz, Positano, HSS, Mount Sinai, OB-GYN, labs, pharmacies)
 - **Person registry** (1,538 persons with aliases — available at [Epstein-research-data](https://github.com/rhowardstone/Epstein-research-data)): Filtered for medical professionals (27 matches)
 - **Existing reports**: All investigation reports grepped for medical/doctor references

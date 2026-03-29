@@ -1,7 +1,7 @@
 # Epstein Files: Forensic Analysis Library
 ## Independent Analysis of the 218GB DOJ Jeffrey Epstein File Release
 
-Disclaimer: I am not an investigative journalist, I am a data scientist. *All* content within this repo must be taken with a grain of salt: it has not been independently verified by a human. It is primarily the result of Claude Opus 4.6 reviewing the searchable database I have established at: https://github.com/rhowardstone/Epstein-research-data
+Disclaimer: I am not an investigative journalist, I am a data scientist. *All* content within this repo must be taken with a grain of salt: it has not been independently verified by a human. It is primarily the result of Claude Opus 4.6 reviewing the searchable database I have established at [epstein-data.com](https://epstein-data.com), with source data at [Epstein-research-data](https://github.com/rhowardstone/Epstein-research-data)
 
 Remember, there is a *reason* why journalists and investigators are so heavily trained and trusted. There are extensive protocols they take in order to ensure the information they put out is vetted. The average person does *not* have these skills. Do not reach *any* conclusions based solely on the content in this repo. The underlying data is available, and all source documents should be linked directly. If you see any inaccuracies, broken links, or anything else fishy - please don't hesitate to reach out by opening an issue.
 

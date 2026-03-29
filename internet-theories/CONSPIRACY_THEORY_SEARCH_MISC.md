@@ -9,7 +9,7 @@
 - the image catalog database (images table - analysis of photographs/images)
 - full_text_corpus.db (1,380,937 docs, 2,731,796 pages — all 12 datasets, PyMuPDF extraction)
 
-**Methodology:** Every query was run against ALL databases. Results were cross-referenced and each finding was categorized by evidence strength. Updated February 2026 with results from the full text corpus (1.38M documents), which expanded coverage from ~519K to 1.38M documents. Where counts changed significantly, both old and new figures are noted. In all cases, the expanded corpus reinforced rather than contradicted the original findings.
+**Methodology:** Every query was run against ALL databases. Results were cross-referenced and each finding was categorized by evidence strength. Updated February 2026 with results from the full text corpus (1.42M documents), which expanded coverage from ~519K to 1.42M documents. Where counts changed significantly, both old and new figures are noted. In all cases, the expanded corpus reinforced rather than contradicted the original findings.
 
 ---
 
@@ -45,7 +45,7 @@
 
 - The "sundial" hit ([EFTA01973332](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01973332.pdf)) is an email subject line reading "Subject: Sundials DNA whatever" -- it appears to be a casual/dismissive email subject with no elaboration. **FALSE POSITIVE** for conspiracy purposes.
 - The image analysis database contains photographs from what appear to be Epstein properties showing elaborate interior decor including blue and white striped carpets, blue-trimmed hallways, and ornate furnishings ([EFTA00000207](https://www.justice.gov/epstein/files/DataSet%201/EFTA00000207.pdf), [EFTA00000209](https://www.justice.gov/epstein/files/DataSet%201/EFTA00000209.pdf), [EFTA00000214](https://www.justice.gov/epstein/files/DataSet%201/EFTA00000214.pdf), [EFTA00000224](https://www.justice.gov/epstein/files/DataSet%201/EFTA00000224.pdf), [EFTA00000248](https://www.justice.gov/epstein/files/DataSet%201/EFTA00000248.pdf), [EFTA00000251](https://www.justice.gov/epstein/files/DataSet%201/EFTA00000251.pdf)). These are consistent with known photographs of Epstein's residences but do NOT depict a temple or ritual space.
-- **Full corpus update (1.38M docs):** "temple + island" now returns 25 documents (DS9: 19, DS10: 5, DS11: 1). Context sampling confirms these are ALL meta-references to the conspiracy theory — tipster emails and news articles, not evidence for it. For example, [EFTA00165018](https://www.justice.gov/epstein/files/DataSet%209/EFTA00165018.pdf) (DS9) contains social media screenshots forwarded to the FBI where a tipster discusses "the underground temple on the island." This is someone REPORTING the theory, not evidence supporting it.
+- **Full corpus update (1.42M docs):** "temple + island" now returns 25 documents (DS9: 19, DS10: 5, DS11: 1). Context sampling confirms these are ALL meta-references to the conspiracy theory — tipster emails and news articles, not evidence for it. For example, [EFTA00165018](https://www.justice.gov/epstein/files/DataSet%209/EFTA00165018.pdf) (DS9) contains social media screenshots forwarded to the FBI where a tipster discusses "the underground temple on the island." This is someone REPORTING the theory, not evidence supporting it.
 - The term "temple" appears 3 times in redacted text across the entire v2 database, but NONE in conjunction with "island."
 - **Underground structures DO exist in the files.** The image catalog contains photographs of:
   - A "UTILITY BUNKER" on what appears to be rocky island terrain ([EFTA00003074](https://www.justice.gov/epstein/files/DataSet%201/EFTA00003074.pdf)) -- a spiral notebook labeled "UTILITY BUNKER" photographed on rocky ground
@@ -92,7 +92,7 @@
 
 **Full corpus update:** "Buried + island" now returns 43 documents across the expanded corpus. Context is Epstein's own burial arrangements (will/funeral), news articles about "buried" evidence or documents, and island construction references. No body disposal evidence was found.
 
-**Bottom Line:** There is ZERO evidence across 1.38M documents of bodies being buried on Epstein's island, disposed of in cement, or anyone being "disappeared." The burial references are all about Epstein's own funeral arrangements.
+**Bottom Line:** There is ZERO evidence across 1.42M documents of bodies being buried on Epstein's island, disposed of in cement, or anyone being "disappeared." The burial references are all about Epstein's own funeral arrangements.
 
 ---
 
@@ -182,7 +182,7 @@ This is the ONE conspiracy theory with the most substantial documentary support 
 
 Zero hits in the original four databases for any mind control terminology.
 
-**Full corpus update:** "Mind control" now returns 20 documents (DS9: 19, DS10: 1). These are NTOC tipster emails using the phrase "mind control" to describe Epstein's psychological abuse of victims, and victim interview transcripts using the same phrase colloquially. The Allred victim interview ([EFTA00004070](https://www.justice.gov/epstein/files/DataSet%203/EFTA00004070.pdf)) describes "mind control" as coercive psychological manipulation, consistent with the note below. MK-Ultra remains ZERO across 1.38M documents.
+**Full corpus update:** "Mind control" now returns 20 documents (DS9: 19, DS10: 1). These are NTOC tipster emails using the phrase "mind control" to describe Epstein's psychological abuse of victims, and victim interview transcripts using the same phrase colloquially. The Allred victim interview ([EFTA00004070](https://www.justice.gov/epstein/files/DataSet%203/EFTA00004070.pdf)) describes "mind control" as coercive psychological manipulation, consistent with the note below. MK-Ultra remains ZERO across 1.42M documents.
 
 **Note:** While Epstein's controlling behavior over victims IS extensively documented ([EFTA02731082](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731082.pdf) describes him controlling a victim's hair, clothing, weight, travel, and social contacts), this is described as coercive control/psychological abuse -- not "mind control" in the conspiracy theory sense.
 
@@ -510,7 +510,7 @@ Of the 25+ distinct conspiracy theories searched across all document collections
 - **2 theories have confirmed factual elements:** Bear Stearns employment and financial complexity are extensively documented; Trilateral Commission membership is confirmed across 602 documents including the actual invitation email
 - **19+ theories have ZERO evidence:** Celebrity connections (Oprah, Hanks, DeGeneres, Teigen, Legend, Diddy), mind control, bioweapons, reptilians, flat earth, Mattress Firm, dead man's switch, body disposal, island temple rituals, and cloning are entirely absent from over 1.38 million documents
 
-A 2.7x corpus expansion (519K to 1.38M documents) produced dramatically higher raw hit counts for many search terms but changed ZERO conclusions. The new hits are overwhelmingly news articles preserved in FBI case files, NTOC tipster emails referencing conspiracy theories, and mundane/legal usage. The "body double" finding is illustrative: 12 hits all refer to a silicone casting product used at Epstein properties, not a person.
+A 2.7x corpus expansion (519K to 1.42M documents) produced dramatically higher raw hit counts for many search terms but changed ZERO conclusions. The new hits are overwhelmingly news articles preserved in FBI case files, NTOC tipster emails referencing conspiracy theories, and mundane/legal usage. The "body double" finding is illustrative: 12 hits all refer to a silicone casting product used at Epstein properties, not a person.
 
 The overwhelming majority of internet conspiracy theories about Epstein have absolutely no basis in the DOJ files. The files are primarily composed of legal proceedings, financial records, law enforcement communications, victim statements, and prison records -- none of which contain the sensationalized elements that populate online conspiracy forums.
 

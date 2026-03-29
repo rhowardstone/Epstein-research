@@ -24,7 +24,7 @@ Where possible, claims rest on federal court filings, FBI interview transcripts,
 
 **When outside contacts occurred, the alert system was fast.** In 2011, a reporter called the reflexologist seeking information about Ghislaine Maxwell and Epstein. By the next morning, ranch staff had pipelined the reporter's details to Epstein ([EFTA01790757](https://epstein-data.com/EFTA01790757)).
 
-**No evidence in the EFTA corpus supports claims** linking the ranch to PROMIS software, Sandia National Laboratories (the weapons research facility), Los Alamos, or Mossad operations. "Sandia Crest" appears exclusively as a telecommunications relay point. The absence of evidence in this corpus is not proof of falsehood, but it defines an evidentiary boundary: across 2.73 million pages of Epstein's own email, financial records, FBI files, and legal filings, none of these connections appear.
+**No evidence in the EFTA corpus supports claims** linking the ranch to PROMIS software, Sandia National Laboratories (the weapons research facility), Los Alamos, or Mossad operations. "Sandia Crest" appears exclusively as a telecommunications relay point. The absence of evidence in this corpus is not proof of falsehood, but it defines an evidentiary boundary: across 2.91 million pages of Epstein's own email, financial records, FBI files, and legal filings, none of these connections appear.
 
 This Part 2 focuses on the ranch itself — its operations, staff, infrastructure, and documented connection to abuse. [Part 1](ZORRO_RANCH_INVESTIGATION_HALT.md) details how the 2019 investigation was halted. Together they provide a comprehensive source-linked reconstruction of Zorro Ranch from the EFTA corpus.
 
@@ -418,13 +418,13 @@ Separately from the 2019 ProtonMail email (Section 8), a different individual cl
 
 ## 10. What the Corpus Does Not Show
 
-This section addresses specific claims circulating in public discourse that are not supported by evidence in the 2.73 million-page EFTA corpus reviewed for this report. The absence of evidence in this corpus is not proof of falsehood — it defines an evidentiary boundary.
+This section addresses specific claims circulating in public discourse that are not supported by evidence in the 2.91 million-page EFTA corpus reviewed for this report. The absence of evidence in this corpus is not proof of falsehood — it defines an evidentiary boundary.
 
 ### PROMIS Software / Intelligence Operations
 
 Alisa Valdes has published a detailed article arguing that Robert Maxwell sold a Mossad-modified version of PROMIS surveillance software to Sandia National Laboratories in 1985, and that Ghislaine Maxwell subsequently led Epstein to purchase a ranch "located halfway between" Sandia and Los Alamos ([Alisa Writes, Substack](https://alisav.substack.com/p/ghislaine-maxwells-father-sold-bugged)). The article cites FBI counterintelligence files obtained through FOIA and the book *Robert Maxwell, Israel's Superspy* (Gordon Thomas & Martin Dillon, 2002).
 
-**In the 2.73 million-page EFTA corpus reviewed for this report, there are zero references** to PROMIS, Sandia National Laboratories (as a weapons research facility), Los Alamos National Laboratory, Mossad, or any intelligence operation in connection with Zorro Ranch. The term "Sandia" appears in ranch-related documents **exclusively** in the context of "Sandia Crest" — a telecommunications relay point used by CenturyLink and the ranch's microwave system (see Section 5). Sandia Crest is a geographic feature (the highest point of the Sandia Mountains at 10,679 feet) that hosts numerous commercial communications towers; it is not part of Sandia National Laboratories.
+**In the 2.91 million-page EFTA corpus reviewed for this report, there are zero references** to PROMIS, Sandia National Laboratories (as a weapons research facility), Los Alamos National Laboratory, Mossad, or any intelligence operation in connection with Zorro Ranch. The term "Sandia" appears in ranch-related documents **exclusively** in the context of "Sandia Crest" — a telecommunications relay point used by CenturyLink and the ranch's microwave system (see Section 5). Sandia Crest is a geographic feature (the highest point of the Sandia Mountains at 10,679 feet) that hosts numerous commercial communications towers; it is not part of Sandia National Laboratories.
 
 This does not disprove Valdes' thesis, which relies on sources outside the EFTA production. But the corpus — which contains Epstein's personal email from 2009–2019, financial records, FBI investigative files, and legal filings — provides no corroboration. Valdes' claims rest partly on published books and FOIA documents — credible secondary sources — and partly on inferential geographic reasoning that the corpus does not corroborate.
 
@@ -434,7 +434,7 @@ Zero results for "tunnel," "bunker," or "underground" co-occurring with "Zorro" 
 
 ### The $85 Million Lottery
 
-Valdes has also [reported](https://alisav.substack.com/p/yes-jeffrey-epsteins-zorro-ranch) that a "Zorro Trust" claimed an $85 million Powerball prize in Oklahoma in July 2008, identifying Brice Gordon as the ticket purchaser. Contemporary local reporting attributed the win to a different individual who set up a trust of the same name. The coincidence of the name "Zorro Trust" does not, by itself, establish a connection to Epstein. **This claim is not present in the 2.73 million-page EFTA corpus reviewed for this report, and the underlying connection to Epstein is disputed.**
+Valdes has also [reported](https://alisav.substack.com/p/yes-jeffrey-epsteins-zorro-ranch) that a "Zorro Trust" claimed an $85 million Powerball prize in Oklahoma in July 2008, identifying Brice Gordon as the ticket purchaser. Contemporary local reporting attributed the win to a different individual who set up a trust of the same name. The coincidence of the name "Zorro Trust" does not, by itself, establish a connection to Epstein. **This claim is not present in the 2.91 million-page EFTA corpus reviewed for this report, and the underlying connection to Epstein is disputed.**
 
 ### Complete Visitor List
 

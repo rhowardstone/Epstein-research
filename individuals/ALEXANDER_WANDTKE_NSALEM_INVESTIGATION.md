@@ -631,7 +631,7 @@ Whether these are the same person cannot be confirmed.
 ---
 
 *Report generated: 2026-02-08 (Revised 2026-02-12 with full-text corpus revisit)*
-*Total records searched: ~2.4 million across 6 databases + 1.38M full-text corpus documents (DS9/DS11)*
+*Total records searched: ~2.4 million across 6 databases + 1.42M full-text corpus documents (DS9/DS11)*
 *Web searches conducted: 10+*
 *Revisit new documents identified: 40+*
 *All file paths are absolute.*

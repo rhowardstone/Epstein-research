@@ -2,7 +2,7 @@
 
 ## A Guide to EFTA Corpus Evidence for French Investigators
 
-*Based on analysis of 2,731,838 pages across 12 DOJ datasets (EFTA), FBI Vault materials, and House Oversight productions.*
+*Based on analysis of 2,914,901 pages across 12 DOJ datasets (EFTA), FBI Vault materials, and House Oversight productions.*
 
 ---
 
@@ -417,4 +417,4 @@ The dataset number must be looked up from the EFTA range — see the [EFTA Datas
 
 ---
 
-*This report was compiled from the EFTA corpus (2,731,838 pages across 12 DOJ datasets) using full-text search, cross-referencing, and document analysis. All citations have been verified against the source documents. The report presents documentary evidence without drawing legal conclusions.*
+*This report was compiled from the EFTA corpus (2,914,901 pages across 12 DOJ datasets) using full-text search, cross-referencing, and document analysis. All citations have been verified against the source documents. The report presents documentary evidence without drawing legal conclusions.*

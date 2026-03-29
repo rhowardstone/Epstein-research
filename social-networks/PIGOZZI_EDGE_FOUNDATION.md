@@ -337,7 +337,7 @@ What the documents reveal is structural: how the Edge Foundation's science dinne
 
 ## Methodology
 
-Search terms: `pigozzi` (284 pages / 259 documents). All documents identified via case-insensitive text search of [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases) (2,731,838 pages across 1,385,879 documents). Edge Foundation overlap identified via co-occurrence search with `edge` and `brockman` (76 documents). Direct correspondence identified by sender/recipient email headers. Maxwell deposition from DS99 (House Oversight production).
+Search terms: `pigozzi` (284 pages / 259 documents). All documents identified via case-insensitive text search of [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases) (2,914,901 pages across 1,416,711 documents). Edge Foundation overlap identified via co-occurrence search with `edge` and `brockman` (76 documents). Direct correspondence identified by sender/recipient email headers. Maxwell deposition from DS99 (House Oversight production).
 
 ## Document Index
 

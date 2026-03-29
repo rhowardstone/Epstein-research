@@ -343,4 +343,4 @@ Many emails appear in multiple datasets (DS9, DS10, DS11) as separate EFTA numbe
 
 ---
 
-*Source: DOJ EFTA Production, Datasets 1-12 + House Oversight (DS99). All quotes are verbatim from the documents cited. This analysis was conducted using FTS5 full-text search across 2.73 million pages.*
+*Source: DOJ EFTA Production, Datasets 1-12 + House Oversight (DS99). All quotes are verbatim from the documents cited. This analysis was conducted using FTS5 full-text search across 2.91 million pages.*

@@ -385,7 +385,7 @@ These video files are interspersed among still photos (CIMG0546-CIMG0561), indic
 
 2. **"model_1.jpg" through "model_21.jpg"** -- 21 completely blacked-out image files in immediate proximity to CSAM-flagged media, with filenames suggesting "modeling" photographs. Given Epstein's MC2 recruitment of minors ages 13-20, these files warrant particular scrutiny.
 
-3. **"grapes" series files** -- 4+ completely blacked-out images with unusual filenames ("grapes7 copy.jpg" etc.) on the same CD section as CSAM. No document in the full 1.38M-document corpus references this naming convention; the filenames remain unexplained.
+3. **"grapes" series files** -- 4+ completely blacked-out images with unusual filenames ("grapes7 copy.jpg" etc.) on the same CD section as CSAM. No document in the full 1.42M-document corpus references this naming convention; the filenames remain unexplained.
 
 4. **~50+ optical media items across two binders** were never fully scanned during evidence processing. These were among the 55 discs found during the 22-box scanning operation that were copied 4x but not digitally processed.
 

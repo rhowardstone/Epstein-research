@@ -429,4 +429,4 @@ The financial dependency ($100K gifts, event funding, estate management) ensured
 
 ---
 
-*Source: DOJ EFTA Production, Datasets 1-12 + House Oversight (DS99). All quotes are verbatim from the documents cited. This analysis was conducted using FTS5 full-text search across 2.73 million pages.*
+*Source: DOJ EFTA Production, Datasets 1-12 + House Oversight (DS99). All quotes are verbatim from the documents cited. This analysis was conducted using FTS5 full-text search across 2.91 million pages.*

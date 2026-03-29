@@ -379,8 +379,8 @@ All basement references in the collection refer to:
 
 **Full corpus update (46 docs, DS8: 1, DS9: 25, DS10: 13, DS11: 7):** All are legal/journalistic usage: "snuff out" (extinguish/dismiss), "snuff box" (decorative item), tobacco/snuff product references. ZERO actual snuff film references.
 
-### 5.2 "murder video" -- ZERO HITS (confirmed across 1.38M documents)
-### 5.3 "kill" + "video" + "child" (combined) -- ZERO HITS (confirmed across 1.38M documents)
+### 5.2 "murder video" -- ZERO HITS (confirmed across 1.42M documents)
+### 5.3 "kill" + "video" + "child" (combined) -- ZERO HITS (confirmed across 1.42M documents)
 
 ---
 
@@ -440,8 +440,8 @@ This is a detailed shipping and purchasing log for Epstein's properties. It docu
 
 ### 8.1 "save the children" -- expanded in full corpus (generic phrase usage)
 ### 8.2 "SaveTheChildren" -- 0 original; **1 in full corpus** (DS9) -- likely a hashtag in a tipster email or news article
-### 8.3 "Sound of Freedom" -- ZERO HITS (confirmed across 1.38M documents)
-### 8.4 "Tim Ballard" -- ZERO HITS (confirmed across 1.38M documents)
+### 8.3 "Sound of Freedom" -- ZERO HITS (confirmed across 1.42M documents)
+### 8.4 "Tim Ballard" -- ZERO HITS (confirmed across 1.42M documents)
 ### 8.5 "Operation Underground" (Railroad) -- ZERO HITS
 
 **None of these terms connect to the conspiracy claims. The "save the children" expansion is from generic use of the phrase in legal filings and victim advocacy contexts.**
@@ -522,7 +522,7 @@ This is a detailed shipping and purchasing log for Epstein's properties. It docu
 
 The Pizzagate conspiracy theory posits that powerful elites use "coded food language" to discuss child abuse. The Epstein DOJ files document a real, proven case of a powerful elite (Epstein) who actually did abuse children -- and across 1,380,937 documents (870 containing the word "pizza"), there is not a single instance of coded food language. When Epstein's associates discussed his crimes, they used plain English. When witnesses described grooming, they described literal ice cream parlors and literal shopping trips. When the FBI documented evidence, they documented literal devices, literal properties, and literal financial transactions. And when Epstein wanted cheese pizza, his staff member offered him a menu and he ordered dinner.
 
-A 2.7x corpus expansion (519K to 1.38M documents) added pizza ordering by staff to the observation. The conspiracy theory's most iconic claim -- that "cheese pizza" is coded language -- is directly contradicted by its literal use in Epstein's actual food ordering. The real Epstein case, with its massages, recruitment networks, private islands, powerful connections, and institutional failures, is extensively documented in these files without any need for or evidence of food-based code words.
+A 2.7x corpus expansion (519K to 1.42M documents) added pizza ordering by staff to the observation. The conspiracy theory's most iconic claim -- that "cheese pizza" is coded language -- is directly contradicted by its literal use in Epstein's actual food ordering. The real Epstein case, with its massages, recruitment networks, private islands, powerful connections, and institutional failures, is extensively documented in these files without any need for or evidence of food-based code words.
 
 ---
 

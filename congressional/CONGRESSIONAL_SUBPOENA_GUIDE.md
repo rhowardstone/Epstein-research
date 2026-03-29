@@ -2,7 +2,7 @@
 ## Every Witness, Every Document, Every Obstacle
 
 Updated: March 27, 2026
-Sources: EFTA corpus (1.39M documents, 2.77M pages), House Oversight public records, CRS reports, court filings
+Sources: EFTA corpus (1.42M documents, 2.91M pages), House Oversight public records, CRS reports, court filings
 Standard: Every material factual claim supported by EFTA document number with justice.gov URL, OR external source URL
 
 ---
@@ -97,7 +97,7 @@ If a witness flees: no enforcement abroad. If they return to US jurisdiction, co
 | Dec 19, 2025 | First DOJ document release |
 | Jan 10, 2026 | Second release |
 | Jan 24, 2026 | Third release |
-| Jan 30, 2026 | Final bulk release (Datasets 1-12, 2.73M pages) |
+| Jan 30, 2026 | Final bulk release (Datasets 1-12, 2.91M pages) |
 
 ([Epstein Files Transparency Act, H.R. 4405](https://www.congress.gov/bill/119th-congress/house-bill/4405)) — ([Oversight Committee DOJ records release](https://oversight.house.gov/release/oversight-committee-releases-epstein-records-provided-by-the-department-of-justice/))
 
@@ -2177,7 +2177,7 @@ The 513-page privilege log filed by the estate is itself a document — it tells
 
 ## Sources
 
-**Primary:** EFTA corpus via `full_text_corpus.db` — 1,385,879 documents, 2,770,154 pages across 14 datasets (DS1-12, DS98, DS99). All EFTA citations verified against database with correct dataset assignments.
+**Primary:** EFTA corpus via `full_text_corpus.db` — 1,416,711 documents, 2,914,901 pages across 14 datasets (DS1-12, DS98, DS99). All EFTA citations verified against database with correct dataset assignments.
 
 **Secondary:**
 - `prosecutorial_query_graph.db` — subpoena/return analysis, rider clause fulfillment
@@ -2237,4 +2237,4 @@ Dataset numbers verified from `full_text_corpus.db` for every citation. The data
 
 ---
 
-*All EFTA references link to documents in the DOJ's Epstein Files Transparency Act release at [justice.gov/epstein](https://www.justice.gov/epstein). Database queries run against `full_text_corpus.db` (2,770,154 pages). Congressional procedure citations from public CRS reports and statutory sources. This analysis was compiled using Claude Code running Opus 4.6, which can make mistakes. Every EFTA citation has been verified against the database.*
+*All EFTA references link to documents in the DOJ's Epstein Files Transparency Act release at [justice.gov/epstein](https://www.justice.gov/epstein). Database queries run against `full_text_corpus.db` (2,914,901 pages). Congressional procedure citations from public CRS reports and statutory sources. This analysis was compiled using Claude Code running Opus 4.6, which can make mistakes. Every EFTA citation has been verified against the database.*

@@ -245,4 +245,4 @@ Congressional staff preparing for the June 9 interview should consider the follo
 
 ---
 
-*All citations verified against full_text_corpus.db (1,416,711 documents, 2.77M pages). EFTA links resolve to justice.gov.*
+*All citations verified against full_text_corpus.db (1,416,711 documents, 2.91M pages). EFTA links resolve to justice.gov.*

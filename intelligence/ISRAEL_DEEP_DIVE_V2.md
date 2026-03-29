@@ -23,7 +23,7 @@ This report is the definitive analysis of Israeli connections within the 218GB D
 
 6. **The Acosta "Intelligence Asset" Admission** -- A Daily Beast article in the FBI files states Acosta told Trump transition interviewers: "I was told Epstein 'belonged to intelligence' and to leave it alone." Under oath, Acosta carefully qualified his denial.
 
-**Corrected Findings (Full Corpus Expansion, Feb 12, 2026):** The original report's negative findings were based on the redaction and OCR databases. The full email corpus (1,380,937 docs across all 12 datasets) overturns several of these. **Carbyne** now yields 50 documents (25 DS9 + 25 DS11) and **Reporty** yields 324 documents (196 DS9 + 25 DS10 + 103 DS11), including complete investment structures and board reports. **Unit 8200** yields 11 documents and **Shin Bet** yields 23, likely from news articles forwarded within the email corpus. **Mega Group** yields 4 documents (likely false positives from Wikipedia/news). **Ben-Menashe** and **LAKAM** remain confirmed at ZERO across the full 1.38M-document corpus. Additionally, an FBI CHS FD-1023 document ([EFTA00090314](https://www.justice.gov/epstein/files/DataSet%209/EFTA00090314.pdf)) contains a source claim that Epstein "belonged to both U.S. and allied intelligence services" and "trained as a spy under" Barak -- see Part VII below.
+**Corrected Findings (Full Corpus Expansion, Feb 12, 2026):** The original report's negative findings were based on the redaction and OCR databases. The full email corpus (1,380,937 docs across all 12 datasets) overturns several of these. **Carbyne** now yields 50 documents (25 DS9 + 25 DS11) and **Reporty** yields 324 documents (196 DS9 + 25 DS10 + 103 DS11), including complete investment structures and board reports. **Unit 8200** yields 11 documents and **Shin Bet** yields 23, likely from news articles forwarded within the email corpus. **Mega Group** yields 4 documents (likely false positives from Wikipedia/news). **Ben-Menashe** and **LAKAM** remain confirmed at ZERO across the full 1.42M-document corpus. Additionally, an FBI CHS FD-1023 document ([EFTA00090314](https://www.justice.gov/epstein/files/DataSet%209/EFTA00090314.pdf)) contains a source claim that Epstein "belonged to both U.S. and allied intelligence services" and "trained as a spy under" Barak -- see Part VII below.
 
 ---
 
@@ -686,7 +686,7 @@ Christopher Dilorio's FBI filings connect Epstein to Israeli financial networks:
 ## The Gap Between Public Narrative and FBI Files (Revised Assessment):
 
 The public narrative connecting Epstein to Israeli intelligence relies heavily on:
-- Ari Ben-Menashe's claims (ABSENT from FBI files -- confirmed ZERO across 1.38M docs)
+- Ari Ben-Menashe's claims (ABSENT from FBI files -- confirmed ZERO across 1.42M docs)
 - Carbyne/Reporty connections (**NOW DOCUMENTED**: 374 documents in the email corpus establishing Epstein as an active Carbyne investor alongside Barak and Junkermann)
 - Mega Group theories (4 documents, likely Wikipedia/news references -- no operational connection)
 - Robert Maxwell's Mossad history (NOT referenced in FBI investigative documents)

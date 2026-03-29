@@ -176,7 +176,7 @@ The PQG identified 199 individuals with HIGH-frequency document presence who wer
 | Bill Clinton | 1,458 |
 | Bill Richardson | 1,253 |
 
-Document counts reflect name presence across the full text corpus (1.38M documents). A high count indicates investigative relevance, not necessarily culpability.
+Document counts reflect name presence across the full text corpus (1.42M documents). A high count indicates investigative relevance, not necessarily culpability.
 
 ---
 

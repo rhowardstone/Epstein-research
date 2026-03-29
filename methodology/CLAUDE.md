@@ -2,9 +2,9 @@
 
 ## What This Is
 
-165+ forensic analysis reports examining the DOJ's 2.73 million page Epstein case file release (January 30, 2026). Every claim in these reports cites specific EFTA document numbers that can be verified against the original PDFs on justice.gov.
+165+ forensic analysis reports examining the DOJ's 2.91 million page Epstein case file release (January 30, 2026). Every claim in these reports cites specific EFTA document numbers that can be verified against the original PDFs on justice.gov.
 
-These reports are the analysis layer. The underlying data — searchable databases of all 2.77 million pages — lives in the companion repo: [rhowardstone/Epstein-research-data](https://github.com/rhowardstone/Epstein-research-data).
+These reports are the analysis layer. The underlying data — searchable databases of all 2.91 million pages — lives in the companion repo: [rhowardstone/Epstein-research-data](https://github.com/rhowardstone/Epstein-research-data).
 
 ---
 

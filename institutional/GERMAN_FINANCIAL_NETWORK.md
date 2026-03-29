@@ -2,7 +2,7 @@
 
 ## Classification: Forensic Investigation Report
 ## Date: February 25, 2026
-## Database: full_text_corpus.db (1,385,879 documents, 2,770,154 pages)
+## Database: full_text_corpus.db (1,416,711 documents, 2,914,901 pages)
 
 ---
 

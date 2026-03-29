@@ -214,7 +214,7 @@ The EFTA-to-dataset mapping table is in the main [README](../README.md#efta-numb
 ## Processing Pipeline
 
 ```
-DOJ PDFs (194.5 GB, 1.38M files)
+DOJ PDFs (194.5 GB, 1.42M files)
     │
     ├─→ PyMuPDF text extraction ──→ full_text_corpus.db (6.08 GB)
     │       └─→ FTS5 full-text search index

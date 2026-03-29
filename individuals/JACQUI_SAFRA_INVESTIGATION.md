@@ -2,7 +2,7 @@
 
 ## Classification: Research Analysis of Publicly Released FBI FOIA Documents
 ## Date: February 13, 2026
-## Databases Queried: full_text_corpus.db (1.38M documents), redaction_analysis_v2.db, knowledge_graph.db, persons_registry.json
+## Databases Queried: full_text_corpus.db (1.42M documents), redaction_analysis_v2.db, knowledge_graph.db, persons_registry.json
 
 ---
 
@@ -309,4 +309,4 @@ This is substantively different from figures like Ehud Barak (25+ direct emails,
 
 ---
 
-*Report compiled from 1.38M-document full text corpus, 2.58M redaction records, and public source verification. All citations link to DOJ-hosted PDFs at justice.gov/epstein/files/.*
+*Report compiled from 1.42M-document full text corpus, 2.58M redaction records, and public source verification. All citations link to DOJ-hosted PDFs at justice.gov/epstein/files/.*

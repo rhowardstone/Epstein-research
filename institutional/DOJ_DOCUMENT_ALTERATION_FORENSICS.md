@@ -5,7 +5,7 @@
 **Updated**: March 5, 2026
 **Scope**: All 42,782 altered files identified across DOJ EFTA datasets 1-12
 **Pipeline**: Word-level diffing, pixel-diff visual verification (86,979 pages), page-level LLM classification (152,312 change units)
-**Databases**: [`alteration_results.db`](https://github.com/rhowardstone/Epstein-research-data/releases) (8.2 GB, 212,730 change units), [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases) (6.3 GB, 1.38M documents)
+**Databases**: [`alteration_results.db`](https://github.com/rhowardstone/Epstein-research-data/releases) (8.2 GB, 212,730 change units), [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases) (6.3 GB, 1.42M documents)
 
 ---
 

@@ -744,4 +744,4 @@ Total records searched: ~297,647 (147,451 + 116,434 + 33,762)
 ---
 
 *Investigation conducted using systematic database forensics across 218GB DOJ release. All EFTA numbers reference specific documents in the release.*
-*Revised 2026-02-12 with full-text corpus revisit (1.38M documents, DS9/DS11). Every individual shows expansion factors of 30x-720x. Key new additions: Musk 15+ email archive, Gromov (1,627 docs), Marsh 92nd St Y targeting list, Bach apartment stays, Diamandis full scheduling chain, Peshkin recruitment via Gromov.*
+*Revised 2026-02-12 with full-text corpus revisit (1.42M documents, DS9/DS11). Every individual shows expansion factors of 30x-720x. Key new additions: Musk 15+ email archive, Gromov (1,627 docs), Marsh 92nd St Y targeting list, Bach apartment stays, Diamandis full scheduling chain, Peshkin recruitment via Gromov.*

@@ -67,7 +67,7 @@ Last updated: 2026-03-11
 
 | Platform | URL | Description |
 |----------|-----|-------------|
-| **Epstein-research-data** (ours) | [GitHub](https://github.com/rhowardstone/Epstein-research-data) | All 12 DS processed. 1.38M docs, 2.73M pages. Full-text corpus, redaction DB, transcripts, person registry. |
+| **Epstein-research-data** (ours) | [GitHub](https://github.com/rhowardstone/Epstein-research-data) | All 12 DS processed. 1.42M docs, 2.91M pages. Full-text corpus, redaction DB, transcripts, person registry. |
 | **Epstein-research** (ours) | [GitHub](https://github.com/rhowardstone/Epstein-research) | 100+ forensic investigation reports, analysis scripts, replication package. |
 | **Epstein Archive** (Erik Veland) | [GitHub](https://github.com/ErikVeland/epstein-archive) / [epstein-docs.github.io](https://epstein-docs.github.io/) | 8,175 docs, 8,186 AI summaries, 12,243 people. Covered by 404 Media. |
 | **Epstein File Explorer** (Donnadieu) | [GitHub](https://github.com/Donnadieu/Epstein-File-Explorer) / [Live](https://epstein-file-explorer.fly.dev/) | All 12 DS. PDF viewer, people directory, D3 network, timeline, full-text search. |

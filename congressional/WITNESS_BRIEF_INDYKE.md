@@ -654,7 +654,7 @@ If Indyke stonewalls, Congress can obtain the same information from:
 
 ## METHODOLOGY
 
-- **Corpus search:** FTS5 + LIKE queries against full_text_corpus.db (6.3GB, 1,385,879 docs, 2,770,154 pages)
+- **Corpus search:** FTS5 + LIKE queries against full_text_corpus.db (6.3GB, 1,416,711 docs, 2,914,901 pages)
 - **EFTA verification:** Every EFTA cited was verified against the documents table (dataset confirmed, existence confirmed)
 - **External verification:** News sources cited with URLs; legal filings cited with case numbers
 - **Victim privacy:** No victim names included. Allegations referenced by EFTA number only.

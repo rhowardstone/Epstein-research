@@ -12,10 +12,10 @@ Six names were disclosed:
 
 | # | Name | Known Identity | Evidence in EFTA Files | Co-Conspirator Basis |
 |---|------|---------------|----------------------|---------------------|
-| 1 | **Salvatore Nuara** | NYPD detective; disciplined for escort service connection | 0 hits across 1.38M documents (full corpus); **confirmed on [EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf) list (#3)** | NYPD complaint source, 2010 |
-| 2 | **Zurab Mikeladze** | Georgian oil/business figure | 0 hits across 1.38M documents (full corpus); **confirmed on [EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf) list (#10)** | NYPD complaint source, 2021 |
-| 3 | **Leonic Leonov** | Little publicly known | 0 hits across 1.38M documents (full corpus); **confirmed on [EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf) list (#14)** | NYPD complaint source, 2021 |
-| 4 | **Nicola Caputo** | Former EU Parliament member (Italy) | 0 hits for "Nicola Caputo" across 1.38M documents; **confirmed on [EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf) list (#17)** | NYPD complaint source, 2009 |
+| 1 | **Salvatore Nuara** | NYPD detective; disciplined for escort service connection | 0 hits across 1.42M documents (full corpus); **confirmed on [EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf) list (#3)** | NYPD complaint source, 2010 |
+| 2 | **Zurab Mikeladze** | Georgian oil/business figure | 0 hits across 1.42M documents (full corpus); **confirmed on [EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf) list (#10)** | NYPD complaint source, 2021 |
+| 3 | **Leonic Leonov** | Little publicly known | 0 hits across 1.42M documents (full corpus); **confirmed on [EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf) list (#14)** | NYPD complaint source, 2021 |
+| 4 | **Nicola Caputo** | Former EU Parliament member (Italy) | 0 hits for "Nicola Caputo" across 1.42M documents; **confirmed on [EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf) list (#17)** | NYPD complaint source, 2009 |
 | 5 | **Sultan Ahmed bin Sulayem** | Chairman/CEO of DP World (Dubai) | **5,026 documents** across full corpus (updated Feb 12, 2026; 2,292 in DS9), 10-year relationship (2009-2019), victim testimony, port infrastructure access, seized CD evidence | Extensive — see [DUBAI_SULAYEM_INVESTIGATION.md](../individuals/DUBAI_SULAYEM_INVESTIGATION.md) |
 | 6 | **Leslie Wexner** | Billionaire founder of L Brands/Victoria's Secret | **1,497 documents** across full corpus (updated Feb 12, 2026; 675 in DS9), FBI FD-302 victim statement of direct abuse, FBI "secondary co-conspirator" designation, 2007 Cordero v. VS/Wexner civil suit | Extensive — FBI witness statement, $100M+ misappropriation, Victoria's Secret pipeline |
 
@@ -101,7 +101,7 @@ Nuara was likely named in Epstein's black book (the physical contact book seized
 - **CONFIRMED** on [EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf) co-conspirator list as **#10**, source: NYPD 2021
 
 ### Assessment
-Mikeladze's presence on a co-conspirator list derived from NYPD complaints does not, by itself, establish the nature of his connection to Epstein. The NYPD 2021 source date is notably late — this may represent a complaint filed after the 2019 arrest/death, possibly by a victim who came forward during the SDNY investigation. His complete absence from the full 1.38M-document corpus means he exists only on the [EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf) co-conspirator list, and no details about the NYPD complaint that generated this entry are available in the released files.
+Mikeladze's presence on a co-conspirator list derived from NYPD complaints does not, by itself, establish the nature of his connection to Epstein. The NYPD 2021 source date is notably late — this may represent a complaint filed after the 2019 arrest/death, possibly by a victim who came forward during the SDNY investigation. His complete absence from the full 1.42M-document corpus means he exists only on the [EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf) co-conspirator list, and no details about the NYPD complaint that generated this entry are available in the released files.
 
 ---
 
@@ -119,7 +119,7 @@ Mikeladze's presence on a co-conspirator list derived from NYPD complaints does 
 - **CONFIRMED** on [EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf) co-conspirator list as **#14**, source: NYPD 2021
 
 ### Assessment
-This is the most opaque of the six names. No public biographical information has been identified. Like Mikeladze, the NYPD 2021 source date suggests a post-arrest complaint. His complete absence from the full 1.38M-document corpus means he exists only on the [EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf) co-conspirator list, and no details about the underlying NYPD complaint are available.
+This is the most opaque of the six names. No public biographical information has been identified. Like Mikeladze, the NYPD 2021 source date suggests a post-arrest complaint. His complete absence from the full 1.42M-document corpus means he exists only on the [EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf) co-conspirator list, and no details about the underlying NYPD complaint are available.
 
 ---
 
@@ -197,7 +197,7 @@ A full investigation has been completed: **[DUBAI_SULAYEM_INVESTIGATION.md](../i
 - **Carbyne investment**: Both invested in Israeli cybersecurity firm Carbyne; discussed applications for "Dubai 911" and port security
 - **Israel-UAE diplomacy**: Epstein acted as informal bridge between Israel and UAE through Sulayem before the Abraham Accords
 
-**5,026 documents** reference Sulayem across the full 1.38M-document corpus (updated Feb 12, 2026; expanded from 1,379 in original report; 2,292 in DS9). **4,800 messages** between Sultan bin Sulayem and Epstein have been released by the DOJ.
+**5,026 documents** reference Sulayem across the full 1.42M-document corpus (updated Feb 12, 2026; expanded from 1,379 in original report; 2,292 in DS9). **4,800 messages** between Sultan bin Sulayem and Epstein have been released by the DOJ.
 
 **[Added Feb 12, 2026 -- New DS9 Sulayem Findings]:**
 - [EFTA00317396](https://www.justice.gov/epstein/files/DataSet%209/EFTA00317396.pdf): Official DP World letterhead invitation from Group CEO Mohammed Sharaf to Epstein for the Maritime Hall of Fame Awards honoring Sulayem (May 9, 2012) -- demonstrates corporate-level awareness of the relationship
@@ -620,4 +620,4 @@ All EFTA links point to the DOJ Epstein Library: https://www.justice.gov/epstein
 
 ---
 
-*Report compiled from full-corpus text extraction of 1,380,937 documents (2,731,796 pages) across Datasets 1-12, plus 3.4M+ document text database records, 21,859 analyzed images, direct PDF downloads from Dataset 9 ([EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf), [EFTA00175080](https://www.justice.gov/epstein/files/DataSet%209/EFTA00175080.pdf), [EFTA00666117](https://www.justice.gov/epstein/files/DataSet%209/EFTA00666117.pdf)), and public web sources. All six Khanna names are confirmed in the EFTA corpus. Four names (Nuara, Mikeladze, Leonov, Caputo) appear ONLY on the [EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf) co-conspirator list — their absence from the remaining 1.38M documents is definitive. Sultan bin Sulayem appears in 5,026 documents and Leslie Wexner in 1,497 documents (updated Feb 12, 2026).*
+*Report compiled from full-corpus text extraction of 1,380,937 documents (2,731,796 pages) across Datasets 1-12, plus 3.4M+ document text database records, 21,859 analyzed images, direct PDF downloads from Dataset 9 ([EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf), [EFTA00175080](https://www.justice.gov/epstein/files/DataSet%209/EFTA00175080.pdf), [EFTA00666117](https://www.justice.gov/epstein/files/DataSet%209/EFTA00666117.pdf)), and public web sources. All six Khanna names are confirmed in the EFTA corpus. Four names (Nuara, Mikeladze, Leonov, Caputo) appear ONLY on the [EFTA00077895](https://www.justice.gov/epstein/files/DataSet%209/EFTA00077895.pdf) co-conspirator list — their absence from the remaining 1.42M documents is definitive. Sultan bin Sulayem appears in 5,026 documents and Leslie Wexner in 1,497 documents (updated Feb 12, 2026).*

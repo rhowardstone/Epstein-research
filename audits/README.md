@@ -8,7 +8,7 @@ This directory contains systematic factual audits of the investigation reports i
 
 **Methodology:**
 1. Each report file is read in full and every claim, quote, and citation is catalogued
-2. Key claims are verified against source EFTA documents using SQL queries against [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases) (1.38M documents, 2.73M pages extracted from all 12 DOJ datasets)
+2. Key claims are verified against source EFTA documents using SQL queries against [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases) (1.42M documents, 2.91M pages extracted from all 12 DOJ datasets)
 3. Quotes attributed to specific EFTA documents are checked verbatim against the extracted text
 4. Five error patterns are specifically targeted:
    - Interpretive leaps presented as fact

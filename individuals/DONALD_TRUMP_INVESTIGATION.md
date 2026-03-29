@@ -69,7 +69,7 @@ Every document in this dossier was part of the DOJ's EFTA production or the Hous
 
 ## Document Inventory
 
-A search of 2,770,154 pages across the DOJ's EFTA production for "Donald Trump" and related terms identified the substantive investigative documents. Trump appears in ~2,350 EFTAs by exact name and ~7,200 by surname alone — most are duplicate copies, discovery cover sheets, or news clippings. What follows are the documents with original investigative content, organized by type.
+A search of 2,914,901 pages across the DOJ's EFTA production for "Donald Trump" and related terms identified the substantive investigative documents. Trump appears in ~2,350 EFTAs by exact name and ~7,200 by surname alone — most are duplicate copies, discovery cover sheets, or news clippings. What follows are the documents with original investigative content, organized by type.
 
 **Document counts:**
 - FD-302 witness/victim interviews with substantive Trump testimony: **~26 distinct interviews**
@@ -745,4 +745,4 @@ Serial 3501.045 — the victim who identified Epstein from a photo that also sho
 
 ---
 
-*All EFTA references link to documents in the DOJ's Epstein Files Transparency Act release at [justice.gov/epstein](https://www.justice.gov/epstein). Database queries run against [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases) (2,770,154 pages). This analysis relies on Claude Code running Opus 4.6, which can make mistakes.*
+*All EFTA references link to documents in the DOJ's Epstein Files Transparency Act release at [justice.gov/epstein](https://www.justice.gov/epstein). Database queries run against [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases) (2,914,901 pages). This analysis relies on Claude Code running Opus 4.6, which can make mistakes.*

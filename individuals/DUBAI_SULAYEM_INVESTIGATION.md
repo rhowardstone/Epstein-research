@@ -841,6 +841,6 @@ When combined with Tom Barrack's documented intermediary role between US and Gul
 
 ---
 
-**See also:** [KHANNA_SIX_NAMES_INVESTIGATION.md](../individuals/KHANNA_SIX_NAMES_INVESTIGATION.md) — Sultan bin Sulayem is one of the six names disclosed by Rep. Ro Khanna from the DOJ co-conspirator list. Full-text corpus search (1.38M documents across 12 datasets) found **5,277 documents** containing "Sulayem."
+**See also:** [KHANNA_SIX_NAMES_INVESTIGATION.md](../individuals/KHANNA_SIX_NAMES_INVESTIGATION.md) — Sultan bin Sulayem is one of the six names disclosed by Rep. Ro Khanna from the DOJ co-conspirator list. Full-text corpus search (1.42M documents across 12 datasets) found **5,277 documents** containing "Sulayem."
 
 *Report compiled from comprehensive search of all DOJ databases (1,380,937 documents / 2,731,796 pages across 12 datasets). 5,277 documents reference "Sulayem" across the full-text corpus. All EFTA numbers verified against source documents.*

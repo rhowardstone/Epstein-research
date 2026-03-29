@@ -12,7 +12,7 @@
 - full_text_corpus.db: 1,380,937 documents, 2,731,796 pages (all 12 datasets, PyMuPDF extraction)
 
 **Search Terms:** 65+ distinct search terms across 7 categories
-**Methodology:** Every term searched in every database. LIKE '%term%' used for maximum coverage. All hits reviewed in context. Updated February 2026 with full corpus results (1.38M documents). Where counts changed, both old and new figures are noted.
+**Methodology:** Every term searched in every database. LIKE '%term%' used for maximum coverage. All hits reviewed in context. Updated February 2026 with full corpus results (1.42M documents). Where counts changed, both old and new figures are noted.
 
 ---
 
@@ -96,7 +96,7 @@ The files DO contain real evidence of Epstein's actual crimes -- sex trafficking
 - `witchcraft` -- 0 results across all databases
 - `moloch` -- 0 original; **6 in full corpus** (DS9: 4, DS10: 2) -- garbled OCR text, no actual references to the deity
 - `Molech` -- 0 results across all databases
-- `Baphomet` -- 0 results across all databases (confirmed ZERO across 1.38M documents)
+- `Baphomet` -- 0 results across all databases (confirmed ZERO across 1.42M documents)
 - `eye of horus` -- 0 results across all databases
 - `all seeing eye` -- 0 results across all databases
 
@@ -118,9 +118,9 @@ The files DO contain real evidence of Epstein's actual crimes -- sex trafficking
 #### Original databases: ZERO HITS for most terms
 - `adrenochrome` -- 0 in original databases; **1 in full corpus** ([EFTA00165018](https://www.justice.gov/epstein/files/DataSet%209/EFTA00165018.pdf), DS9): a tipster forwarded social media conspiracy screenshots to the FBI. The screenshots contain conspiracy theory discussions mentioning "harvesting" and adrenochrome. This is someone REPORTING conspiracy theories, not evidence for them.
 - `adreno` -- 0 results in any database
-- `blood harvest` -- 0 results across all databases (confirmed ZERO across 1.38M documents)
+- `blood harvest` -- 0 results across all databases (confirmed ZERO across 1.42M documents)
 - `blood drink` -- 0 original; **1 in full corpus** -- same type of tipster/conspiracy meta-reference
-- `blood ritual` -- 0 results across all databases (confirmed ZERO across 1.38M documents)
+- `blood ritual` -- 0 results across all databases (confirmed ZERO across 1.42M documents)
 - `young blood` -- 0 results across all databases (but see parabiosis below)
 - `blood transfusion` -- 0 results
 - `pineal gland` -- 0 results
@@ -160,7 +160,7 @@ Tony Wyss-Coray's work at Stanford on parabiosis (connecting young and old circu
   - [EFTA00072947](https://www.justice.gov/epstein/files/DataSet%209/EFTA00072947.pdf) (DS9): Park Dietz CV listing "Cannibal Cop" forensic psychology presentation
   - Remaining hits are news articles about QAnon "cannibal elites" claims
 
-#### ZERO HITS (confirmed across 1.38M documents):
+#### ZERO HITS (confirmed across 1.42M documents):
 - `eat children` -- 0 results
 - `eat babies` -- 0 results
 - `baby eat` -- 0 results

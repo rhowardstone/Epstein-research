@@ -1,7 +1,7 @@
 # Singapore: What the Epstein Files Actually Show
 
 **Investigation date:** March 20, 2026
-**Databases queried:** `full_text_corpus.db`, `concordance_complete.db` (1.38M documents, 2.77M pages, Datasets 1–12)
+**Databases queried:** `full_text_corpus.db`, `concordance_complete.db` (1.42M documents, 2.91M pages, Datasets 1–12)
 **DOJ document URL format:** `https://www.justice.gov/epstein/files/DataSet%20{DATASET}/EFTA{NUMBER}.pdf`
 **External reporting reviewed:** Asia Sentinel, The Bureau News, Must Share News, Wire China, Bloomberg, CNN, NPR, PBS, Washington Post, Al Jazeera, Maxthon Blog, Reuters
 

@@ -16,7 +16,7 @@ The full extracted phone number dataset (1,117 numbers with call counts and geog
 
 ### Inventory
 
-We performed a full-text search of the 2.77 million pages in [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases) for phone-record indicators: carrier names (AT&T, Cingular, Sprint, T-Mobile, Verizon), document types (subpoena, cell site, subscriber), and billing terminology. Each document was classified into 25 categories (AT&T bills, cell site records, call detail records, subscriber information, etc.) and stored in a structured inventory.
+We performed a full-text search of the 2.91 million pages in [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases) for phone-record indicators: carrier names (AT&T, Cingular, Sprint, T-Mobile, Verizon), document types (subpoena, cell site, subscriber), and billing terminology. Each document was classified into 25 categories (AT&T bills, cell site records, call detail records, subscriber information, etc.) and stored in a structured inventory.
 
 ### Redaction Cross-Reference
 

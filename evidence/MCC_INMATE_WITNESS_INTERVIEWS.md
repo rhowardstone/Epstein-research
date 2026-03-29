@@ -340,7 +340,7 @@ Reyes's criminal case was 1:18-cr-00454-KPF before Judge Failla. A 47-page OIG i
 
 ### Why These Interviews Were Invisible
 
-The EFTA corpus contains 2.77 million pages of extracted text. Standard OCR works well on typed documents but fails catastrophically on handwriting. Across the 35 handwritten pages in these 14 interviews, the text extraction pipeline captured an average of **28 characters per page** — rendering them unsearchable. A keyword search for "Noel" or "rounds" or "breathe" returns zero hits from these pages.
+The EFTA corpus contains 2.91 million pages of extracted text. Standard OCR works well on typed documents but fails catastrophically on handwriting. Across the 35 handwritten pages in these 14 interviews, the text extraction pipeline captured an average of **28 characters per page** — rendering them unsearchable. A keyword search for "Noel" or "rounds" or "breathe" returns zero hits from these pages.
 
 The 132,505 pages in the corpus with fewer than 20 extracted characters (4.8% of the total) represent a systematic blind spot. The inmate interviews are among the most consequential documents hidden within it.
 

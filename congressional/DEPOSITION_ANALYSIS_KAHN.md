@@ -22,7 +22,7 @@ This analysis is based on an automated transcription. Speaker labels are approxi
 
 ## Executive Summary
 
-Epstein's accountant testified for 5.9 hours under congressional subpoena. Cross-checked against 2.77 million pages of source documents, six findings stand out:
+Epstein's accountant testified for 5.9 hours under congressional subpoena. Cross-checked against 2.91 million pages of source documents, six findings stand out:
 
 1. **Victims carved out four names from settlement releases** — Dershowitz and Prince Andrew (EVCP, $121M) and Leon Black and Jes Staley (mediation, $48M) — meaning victims specifically preserved the right to sue them. ([§1](#1-victim-settlement-carve-outs--dershowitz-andrew-black-staley))
 2. **Kahn wrote a visa letter on an Epstein foundation's letterhead** for a woman who had traveled with Epstein to visit Bill Gates in Seattle. The foundation, Enhanced Education, held $3M+ in JPMorgan cash ([EFTA01940002](https://epstein-data.com/full_text_corpus/pages?efta_number=EFTA01940002)). ([§3](#3-bill-gates-visa-letter))

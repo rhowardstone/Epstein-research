@@ -18,7 +18,7 @@ This investigation systematically searched 218GB of DOJ documents across four da
 6. **Wexner's attorney proffer** reveals Epstein stole "several hundred million dollars" and held power of attorney -- the financial genesis of Epstein's empire came from a co-founder of the Mega Group
 7. ~~**ZERO results** for Carbyne, Mega Group, Shin Bet, Aman, Unit 8200, or LAKAM~~ **OVERTURNED** — Full corpus: Carbyne 50, Reporty 324, Unit 8200 11, Shin Bet 23, Mega Group 4 docs. Only Ben-Menashe, Aman, and LAKAM remain at zero. See V2 report and Part X corrections below.
 
-> **[REVISIT UPDATE — Full Corpus Expansion]** Searching the complete 1.38M-document corpus (all 12 datasets) substantially expands several findings above. 301 E 66th Street now appears in **1,439 documents** (up from 4 in DS8 alone). **Ossa Properties LLC**, the corporate entity controlling 301 E 66th, appears in **784 documents** and was not mentioned in V1. **Paula Heil Fisher** (163 documents), absent from V1, bridges Epstein's personal life to the Israeli tech ecosystem through direct contact with Yehuda Zisapel. Blackmail references expand from 12 to **355 documents**. Additionally, an FBI CHS FD-1023 ([EFTA00090314](https://www.justice.gov/epstein/files/DataSet%209/EFTA00090314.pdf)) states Epstein "belonged to both U.S. and allied intelligence services" — discovered in the V2 revisit (Report #52). The V1 ZERO findings for Carbyne, Reporty, Mega Group, Unit 8200, and Shin Bet are all overturned by the V2 full-corpus search (see Part X corrections). Only Ben-Menashe and LAKAM remain at zero across the full corpus. A comprehensive V2 report exists at `ISRAEL_DEEP_DIVE_V2.md`.
+> **[REVISIT UPDATE — Full Corpus Expansion]** Searching the complete 1.42M-document corpus (all 12 datasets) substantially expands several findings above. 301 E 66th Street now appears in **1,439 documents** (up from 4 in DS8 alone). **Ossa Properties LLC**, the corporate entity controlling 301 E 66th, appears in **784 documents** and was not mentioned in V1. **Paula Heil Fisher** (163 documents), absent from V1, bridges Epstein's personal life to the Israeli tech ecosystem through direct contact with Yehuda Zisapel. Blackmail references expand from 12 to **355 documents**. Additionally, an FBI CHS FD-1023 ([EFTA00090314](https://www.justice.gov/epstein/files/DataSet%209/EFTA00090314.pdf)) states Epstein "belonged to both U.S. and allied intelligence services" — discovered in the V2 revisit (Report #52). The V1 ZERO findings for Carbyne, Reporty, Mega Group, Unit 8200, and Shin Bet are all overturned by the V2 full-corpus search (see Part X corrections). Only Ben-Menashe and LAKAM remain at zero across the full corpus. A comprehensive V2 report exists at `ISRAEL_DEEP_DIVE_V2.md`.
 
 ---
 
@@ -82,7 +82,7 @@ This means the former Prime Minister and Defense Minister of Israel maintained a
 - Epstein's corporate entities were registered (HBRK Associates, Suite 10F)
 - Epstein's girlfriend Karyna Shuliak resided (Apt 10F / 8H)
 
-> **[REVISIT UPDATE — 301 E 66th Street Full Corpus]** The full 1.38M-document corpus reveals **1,439 documents** referencing 301 E 66th Street (630 DS9, 647 DS10, 158 DS11), a 360x expansion from the 4 documents in DS8 alone. **Ossa Properties LLC** — the corporate entity controlling 301 E 66th — appears in **784 documents** (355 DS9, 291 DS10, 135 DS11), comparable in corpus frequency to Southern Trust or Haze Trust. This was not mentioned in V1 but is among the most frequently referenced Epstein entities in the full corpus. The building's centrality to operations is now documented at massive scale.
+> **[REVISIT UPDATE — 301 E 66th Street Full Corpus]** The full 1.42M-document corpus reveals **1,439 documents** referencing 301 E 66th Street (630 DS9, 647 DS10, 158 DS11), a 360x expansion from the 4 documents in DS8 alone. **Ossa Properties LLC** — the corporate entity controlling 301 E 66th — appears in **784 documents** (355 DS9, 291 DS10, 135 DS11), comparable in corpus frequency to Southern Trust or Haze Trust. This was not mentioned in V1 but is among the most frequently referenced Epstein entities in the full corpus. The building's centrality to operations is now documented at massive scale.
 
 ## B. The Full Ehud Barak Document Registry
 
@@ -414,7 +414,7 @@ This more sensitive report (classified LAW ENFORCEMENT SENSITIVE) covers Roderic
 
 # PART X: NEGATIVE FINDINGS -- WHAT WAS NOT FOUND
 
-The following searches returned ZERO results across the original 4 databases (OCR, primary text, DS10 text, image catalog). **[REVISIT CORRECTION]** The full-corpus search against all 12 datasets (1.38M documents) overturns several of these ZERO findings, as noted in the rightmost column:
+The following searches returned ZERO results across the original 4 databases (OCR, primary text, DS10 text, image catalog). **[REVISIT CORRECTION]** The full-corpus search against all 12 datasets (1.42M documents) overturns several of these ZERO findings, as noted in the rightmost column:
 
 | Search Term | V1 Result (4 DBs) | V2 Full Corpus Result | Notes |
 |-------------|-------------------|----------------------|-------|
@@ -424,8 +424,8 @@ The following searches returned ZERO results across the original 4 databases (OC
 | "Shin Bet" / "Shabak" | **ZERO** | ~~ZERO~~ **23 documents** (DS9:6, DS10:7, DS11:10) | All media/legal references |
 | "Aman" (as intelligence service) | **ZERO** (only as name) | Unchanged | |
 | "Unit 8200" | **ZERO** | ~~ZERO~~ **11 documents** (DS9:2, DS10:2, DS11:7) | All media articles referencing Israeli intelligence |
-| "LAKAM" | **ZERO** | Still **ZERO** | Confirmed across 1.38M documents |
-| "Ben-Menashe" | **ZERO** | Still **ZERO** | Confirmed across 1.38M documents |
+| "LAKAM" | **ZERO** | Still **ZERO** | Confirmed across 1.42M documents |
+| "Ben-Menashe" | **ZERO** | Still **ZERO** | Confirmed across 1.42M documents |
 | "Mossad" (as substantive reference) | **3 documents** | Expanded | All external correspondence, none from FBI investigation itself |
 | Brunel + Israel/Tel Aviv | **ZERO** | Unchanged | |
 | MC2 + Tel Aviv | **ZERO** | Unchanged | |
@@ -438,7 +438,7 @@ The following searches returned ZERO results across the original 4 databases (OC
 - ~~The absence of Mega Group is striking~~ Mega Group now appears in 4 documents, though references are limited to media and Kohn context
 - Israeli intelligence services (Shin Bet, Unit 8200) now appear in media/legal references within the corpus, though none in FBI investigative documents directly
 - MC2's documented Tel Aviv recruiting operations are still NOT referenced in the FBI files despite the agency's investigation of MC2
-- Only **Ben-Menashe and LAKAM** remain at true zero across the full 1.38M-document corpus
+- Only **Ben-Menashe and LAKAM** remain at true zero across the full 1.42M-document corpus
 
 ---
 
@@ -628,7 +628,7 @@ FISHER-ZISAPEL BRIDGE [REVISIT: New finding]
 | [EFTA02717864](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02717864.pdf) | N/A | Fisher-Zisapel Israel meeting email (copy) | DS11 (revisit) |
 
 **Total unique documents analyzed: 60+**
-**Databases searched: 4 (V1) + full corpus 1.38M documents across all 12 datasets (revisit)**
+**Databases searched: 4 (V1) + full corpus 1.42M documents across all 12 datasets (revisit)**
 
 ---
 

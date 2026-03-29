@@ -1,9 +1,9 @@
 # The Ohio Node: Jim Atkins, the Columbus Network, and Maxwell's Weyerhaeuser Position
 
 **Updated**: March 10, 2026
-**Databases**: [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases) (6.3 GB, 1.38M documents, 2.77M pages), [`concordance_complete.db`](https://github.com/rhowardstone/Epstein-research-data/releases) (729 MB)
+**Databases**: [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases) (6.3 GB, 1.42M documents, 2.91M pages), [`concordance_complete.db`](https://github.com/rhowardstone/Epstein-research-data/releases) (729 MB)
 **Standard**: Every factual claim supported by EFTA document number with [justice.gov](https://www.justice.gov/epstein) URL, or external source URL
-**Methodology**: Full-text search (FTS5 + LIKE) across 2,770,154 pages; cross-reference with existing investigation reports; external source verification
+**Methodology**: Full-text search (FTS5 + LIKE) across 2,914,901 pages; cross-reference with existing investigation reports; external source verification
 **Based on**: The investigative work of Troy Raymond Barile-Simleness — [The Ohio Node, Part II](https://thefalloutwithtbs.substack.com/p/the-ohio-node-the-intelligence-background) (The Fallout, March 7, 2026)
 
 ---
@@ -23,7 +23,7 @@
 
 ## 1. Jim Atkins — Complete Corpus Profile
 
-"Jim Atkins" appears in exactly **four documents** across the entire 2.73-million-page EFTA corpus. No other mentions exist. The name yields zero hits in any financial records, flight logs, contact lists, address books, or correspondence outside the documents described below.
+"Jim Atkins" appears in exactly **four documents** across the entire 2.91-million-page EFTA corpus. No other mentions exist. The name yields zero hits in any financial records, flight logs, contact lists, address books, or correspondence outside the documents described below.
 
 ### 1.1 FBI Interview #2 — EFTA02858481 (DS12, 10 pages)
 
@@ -337,7 +337,7 @@ The Ohio Node series states Landon "received quarterly payments from Epstein of 
 
 ### 4.8 Entities Not Found in Corpus
 
-The following names and entities from the Ohio Node series produce **zero hits** in the 2.73-million-page EFTA corpus:
+The following names and entities from the Ohio Node series produce **zero hits** in the 2.91-million-page EFTA corpus:
 
 | Search Term | Result |
 |-------------|--------|
@@ -475,7 +475,7 @@ The Ohio Node series describes the Weyerhaeuser position as "10,000 shares." Cor
 ## 8. Methodology
 
 ### Databases Searched
-- [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases) (6.3 GB): 1,385,879 documents, 2,770,154 pages. FTS5 and LIKE queries on all search terms.
+- [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases) (6.3 GB): 1,416,711 documents, 2,914,901 pages. FTS5 and LIKE queries on all search terms.
 - [`concordance_complete.db`](https://github.com/rhowardstone/Epstein-research-data/releases) (729 MB): Cross-reference metadata.
 - Existing investigation reports (168 reports across both repositories).
 

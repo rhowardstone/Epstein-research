@@ -4,7 +4,7 @@
 
 On February 23, 2026, [CBS News reported](https://www.cbsnews.com/news/jeffrey-epstein-files-dea-document-drug-trafficking-investigation/) the existence of a 69-page DEA document ([EFTA00173953](https://www.justice.gov/epstein/files/DataSet%209/EFTA00173953.pdf)) — an OCDETF Fusion Center Target Profile dated May 18, 2015, prepared under the operation name "Chain Reaction" (OCDETF case NY-NYS-0829). The document reveals a multi-agency drug trafficking investigation targeting 15 individuals, including Jeffrey Epstein, involving approximately $50 million in suspicious wire transfers linked to "illicit drug and/or prostitution activities" in the U.S. Virgin Islands and New York City.
 
-CBS reported the document's existence and key contents. This report cross-references every non-redacted entity, account number, shell company, bank, law enforcement query, and linked investigation from the DEA profile against the full 2.73-million-page EFTA corpus. The cross-referencing reveals operational infrastructure CBS could not have identified from the single document alone — including a seven-year shell company used for payroll (438 documents), an aviation entity integrated into a constellation of eight controlled companies (3,802 documents), unexplained same-day NCIC queries from two Secret Service divisions, and evidence that Epstein's legal team was actively attempting to circumvent the federal sex offender travel notification system.
+CBS reported the document's existence and key contents. This report cross-references every non-redacted entity, account number, shell company, bank, law enforcement query, and linked investigation from the DEA profile against the full 2.91-million-page EFTA corpus. The cross-referencing reveals operational infrastructure CBS could not have identified from the single document alone — including a seven-year shell company used for payroll (438 documents), an aviation entity integrated into a constellation of eight controlled companies (3,802 documents), unexplained same-day NCIC queries from two Secret Service divisions, and evidence that Epstein's legal team was actively attempting to circumvent the federal sex offender travel notification system.
 
 ---
 
@@ -36,7 +36,7 @@ The financial overview identifies suspicious activity reports totaling tens of m
 - Jeffrey Epstein is subject of **eight CTRs** (2 in 2011, 6 in 2010) totaling **$233,397**
 - Other targets are subjects of **22 CTRs** (2010-2013) totaling **$730,000**
 
-These recurring USAR amounts ($4,193,637 and $4,079,102) appear in **zero** other documents in the 2.73M-page corpus, indicating the underlying Suspicious Activity Reports were not included in the EFTA production.
+These recurring USAR amounts ($4,193,637 and $4,079,102) appear in **zero** other documents in the 2.91M-page corpus, indicating the underlying Suspicious Activity Reports were not included in the EFTA production.
 
 ---
 
@@ -103,7 +103,7 @@ The NCIC query log on page 23 of the DEA profile contains an unexplained finding
 
 The [Uniform Division](https://en.wikipedia.org/wiki/United_States_Secret_Service_Uniformed_Division) protects the White House complex and foreign diplomatic missions. The White House Division (now part of the Presidential Protective Division) protects the President and Vice President. Both divisions queried a registered sex offender on the same day during the Obama administration.
 
-No document in the 2.73-million-page corpus explains why these queries occurred. Possible explanations include advance screening for an event involving a protectee, a name appearing in connection with White House visitor logs, or a referral from another agency. The simultaneous query from two separate divisions suggests a coordinated check rather than a routine screening.
+No document in the 2.91-million-page corpus explains why these queries occurred. Possible explanations include advance screening for an event involving a protectee, a name appearing in connection with White House visitor logs, or a referral from another agency. The simultaneous query from two separate divisions suggests a coordinated check rather than a routine screening.
 
 ### 5. NCIC Query Log — Full Law Enforcement Interest
 
@@ -191,7 +191,7 @@ The ICE Las Vegas case notes: "Jeffrey EPSTEIN pled guilty on 06/30/2008 on char
 
 ### 11. Operation Chain Reaction — Zero Cross-References
 
-The operation name "Chain Reaction" appears in **zero** other documents across the 2.73-million-page corpus. This suggests the investigation was fully compartmented — its existence was not referenced in any other federal document included in the EFTA production.
+The operation name "Chain Reaction" appears in **zero** other documents across the 2.91-million-page corpus. This suggests the investigation was fully compartmented — its existence was not referenced in any other federal document included in the EFTA production.
 
 ---
 

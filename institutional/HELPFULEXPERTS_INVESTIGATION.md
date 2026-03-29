@@ -1,7 +1,7 @@
 # helpfulexperts.com — The First Subpoena and the Hidden Start of the SDNY Investigation
 
 *Investigation Report — February 24, 2026*
-*Based on forensic analysis of the DOJ EFTA production (2.73M pages) and external research*
+*Based on forensic analysis of the DOJ EFTA production (2.91M pages) and external research*
 
 ---
 
@@ -11,7 +11,7 @@ The first grand jury subpoena in the entire SDNY Epstein investigation was not a
 
 On July 13, 2017, Acting U.S. Attorney Joon H. Kim signed a grand jury subpoena to Google, Inc. requesting all accounts associated with the domain **helpfulexperts.com** — a Google Workspace email domain registered since December 2006 that has left virtually zero trace on the public internet. The subpoena was issued under USAO Reference No. **2017R00550**, citing 18 U.S.C. §§ 1341 and 1343 (mail fraud and wire fraud). A 180-day non-disclosure order, signed by Magistrate Judge Andrew J. Peck the previous day, prohibited Google from notifying anyone.
 
-This subpoena is the **only document in the entire 2.73M-page EFTA production that mentions helpfulexperts.com**. The domain never appears in any seized email, financial record, or investigative memo. Despite being registered for 19 years, it has zero Google search results, zero media mentions, and zero Wayback Machine content snapshots. Yet as of December 2025, someone is still paying to maintain it — with all four domain protection flags enabled.
+This subpoena is the **only document in the entire 2.91M-page EFTA production that mentions helpfulexperts.com**. The domain never appears in any seized email, financial record, or investigative memo. Despite being registered for 19 years, it has zero Google search results, zero media mentions, and zero Wayback Machine content snapshots. Yet as of December 2025, someone is still paying to maintain it — with all four domain protection flags enabled.
 
 Every public source — [PBS](https://www.pbs.org/newshour/politics/a-timeline-of-the-jeffrey-epstein-investigation-and-the-fight-to-make-the-governments-files-public), [NBC](https://www.nbcnews.com/news/us-news/jeffrey-epstein-investigation-timeline-n1033456), NPR, the [FBI's own records](https://www.justsecurity.org/132230/fbi-stand-down-directive-epstein-timeline/) — states that the SDNY Epstein investigation began on **December 6, 2018**, prompted by the Miami Herald's ["Perversion of Justice"](https://www.miamiherald.com/news/local/article220097825.html) series. This subpoena proves that SDNY had an **active grand jury investigation 17 months earlier**, operating under a different case number and different statutory authority. The public timeline of the Epstein investigation is wrong.
 
@@ -248,7 +248,7 @@ The phrase "subpoenas we cut at the beginning of the case for Epstein's email ac
 
 3. **What Google produced in response.** No return for this subpoena exists in the corpus. It may be sealed under the separate case number 2017R00550.
 
-4. **Why the domain has zero internet presence.** A Google Workspace domain registered since 2006, actively maintained through 2025, with full email infrastructure — and yet no email from or to @helpfulexperts.com appears anywhere in the 2.73M-page production, and no trace of it exists on the public internet. This level of invisibility is consistent with a domain used exclusively for private communication.
+4. **Why the domain has zero internet presence.** A Google Workspace domain registered since 2006, actively maintained through 2025, with full email infrastructure — and yet no email from or to @helpfulexperts.com appears anywhere in the 2.91M-page production, and no trace of it exists on the public internet. This level of invisibility is consistent with a domain used exclusively for private communication.
 
 5. **Who is still maintaining the domain.** Someone renewed helpfulexperts.com as recently as December 23, 2025, and has all four domain protection flags enabled. Nineteen years of registration fees for a domain that serves no visible content.
 
@@ -272,7 +272,7 @@ The domain's technical profile — Google Workspace email, Google Hosted Service
 
 ### 4. Total Compartmentalization
 
-Despite triggering the first subpoena in the investigation, "helpfulexperts" never appears in any of the 2.73M pages of seized communications, financial records, or investigative materials. Whatever role this domain played, it was compartmentalized from Epstein's other documented activities. No email from @helpfulexperts.com appears in any seized device, email account, or financial record in the production.
+Despite triggering the first subpoena in the investigation, "helpfulexperts" never appears in any of the 2.91M pages of seized communications, financial records, or investigative materials. Whatever role this domain played, it was compartmentalized from Epstein's other documented activities. No email from @helpfulexperts.com appears in any seized device, email account, or financial record in the production.
 
 ---
 
@@ -297,7 +297,7 @@ Despite triggering the first subpoena in the investigation, "helpfulexperts" nev
 
 ## Methodological Notes
 
-1. **Corpus search**: FTS5 and LIKE searches for "helpfulexperts" (one word), "helpful experts" (two words), and "@helpfulexperts" across all 2,770,154 pages of [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases). Only one page (EFTA00153743, page 5) contains any match.
+1. **Corpus search**: FTS5 and LIKE searches for "helpfulexperts" (one word), "helpful experts" (two words), and "@helpfulexperts" across all 2,914,901 pages of [`full_text_corpus.db`](https://github.com/rhowardstone/Epstein-research-data/releases). Only one page (EFTA00153743, page 5) contains any match.
 
 2. **PQG cross-reference**: The Prosecutorial Query Graph database (257 subpoenas, 2,018 demand clauses) identifies EFTA00153743 as Subpoena 214 with 15 rider clauses, and flags the subsequent 524-day gap as Gap ID 750 (CRITICAL severity).
 

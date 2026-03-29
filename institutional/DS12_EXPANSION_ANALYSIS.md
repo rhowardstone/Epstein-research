@@ -355,7 +355,7 @@ This report covers material that intersects with several existing analyses:
 
 - **[Death Investigation Document Removal](https://epstein-data.com/reports/institutional/DEATH_INVESTIGATION_DOCUMENT_REMOVAL.html)**: The MCC grand jury materials in DS12 add to the death investigation record. See that report for the 16 death investigation documents still removed from justice.gov.
 
-- **[FBI 302 Missing Serials Dossier](https://epstein-data.com/reports/institutional/FBI_302_MISSING_SERIALS_DOSSIER.html)**: Gap analysis of the 1.38M-row master interview list versus published FD-302s. The DS12 expansion fills some of those gaps.
+- **[FBI 302 Missing Serials Dossier](https://epstein-data.com/reports/institutional/FBI_302_MISSING_SERIALS_DOSSIER.html)**: Gap analysis of the 1.42M-row master interview list versus published FD-302s. The DS12 expansion fills some of those gaps.
 
 - **[Secondary Bates Stamp Analysis](https://epstein-data.com/reports/institutional/SECONDARY_BATES_STAMP_ANALYSIS.html)**: The numbering system that made NPR's 53-page gap analysis possible.
 

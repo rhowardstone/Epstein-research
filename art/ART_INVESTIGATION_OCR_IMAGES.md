@@ -815,7 +815,7 @@ In the art inventory, Turner's "Seascape: Folkestone" ($80M) is held by Pent Hol
 
 ### Rowlands -- Notable Absence
 
-Despite being named in Section 5 as a key art figure who "sourced and disposed art" for Epstein and was owed "substantial" fees, Rowlands appears in only **2 documents** across the entire 1.38M-document corpus (DS8:1, DS10:1). This could indicate most Rowlands dealings were conducted verbally, his records were among those not seized, or he used a different name/title in correspondence.
+Despite being named in Section 5 as a key art figure who "sourced and disposed art" for Epstein and was owed "substantial" fees, Rowlands appears in only **2 documents** across the entire 1.42M-document corpus (DS8:1, DS10:1). This could indicate most Rowlands dealings were conducted verbally, his records were among those not seized, or he used a different name/title in correspondence.
 
 ---
 

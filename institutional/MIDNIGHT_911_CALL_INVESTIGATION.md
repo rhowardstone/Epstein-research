@@ -4,7 +4,7 @@
 **Investigation Date:** February 17, 2026
 **Primary Source:** DOJ-OGR-00031174 (135 pages, Public Records Request No. 17-295, dated 07/26/17; from [FBI Vault, Epstein Part 09](https://vault.fbi.gov/jeffrey-epstein), DS99)
 **Corroborating Copies:** [EFTA01333459](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01333459.pdf) (DS10, 18 pages), [EFTA02729035](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02729035.pdf) (DS11, 4 pages), [EFTA00260438](https://www.justice.gov/epstein/files/DataSet%209/EFTA00260438.pdf) (DS9), [EFTA00187583](https://www.justice.gov/epstein/files/DataSet%209/EFTA00187583.pdf) (DS9)
-**Databases Searched:** full_text_corpus (1.39M documents, 2.77M pages), concordance_complete (1.38M rows)
+**Databases Searched:** full_text_corpus (1.42M documents, 2.91M pages), concordance_complete (1.38M rows)
 
 ---
 
@@ -193,7 +193,7 @@ One separate incident in the corpus documents a victim being "transported to the
 
 ## PART 5: WHAT THE RECORD DOES NOT SHOW
 
-This investigation searched the full text corpus (2.77 million pages across all 14 datasets) for any documentation of what occurred during this 911 call. The following searches returned no relevant results:
+This investigation searched the full text corpus (2.91 million pages across all 14 datasets) for any documentation of what occurred during this 911 call. The following searches returned no relevant results:
 
 - No Palm Beach Fire Rescue dispatch records for 358 El Brillo Way on August 21, 2002
 - No hospital admission or EMS transport records for that date
@@ -203,7 +203,7 @@ This investigation searched the full text corpus (2.77 million pages across all 
 
 The phone number associated with the call (561-655-7629) is confirmed as Epstein's primary Palm Beach line in the household emergency contact sheets and other documents. The address is confirmed as Epstein's primary Palm Beach residence. The call was placed via 911.
 
-Beyond these facts, the CAD record is a closed system. It documents that a sick-person call occurred, that an officer was dispatched, that he arrived, that the call was coded as "no report," and that no further record was created. The identity of the sick person, the nature of the illness, and the outcome of the officer's response are not documented anywhere in the 2.73 million pages of the EFTA production.
+Beyond these facts, the CAD record is a closed system. It documents that a sick-person call occurred, that an officer was dispatched, that he arrived, that the call was coded as "no report," and that no further record was created. The identity of the sick person, the nature of the illness, and the outcome of the officer's response are not documented anywhere in the 2.91 million pages of the EFTA production.
 
 ---
 
@@ -229,7 +229,7 @@ Call #1 is the only entry in this history with both conditions: no narrative AND
 
 ## METHODOLOGY
 
-This report was produced through systematic querying of the EFTA full text corpus (6.3 GB, 1,385,879 documents, 2,770,154 pages) and the concordance database (729 MB, 1.38 million rows). All five copies of the CAD record were cross-referenced to resolve OCR artifacts. The complete 135-page CAD history document (DOJ-OGR-00031174) was read in full to establish the baseline for narrative presence across all logged calls. Original page images were inspected to verify data points where OCR was ambiguous.
+This report was produced through systematic querying of the EFTA full text corpus (6.3 GB, 1,416,711 documents, 2,914,901 pages) and the concordance database (729 MB, 1.38 million rows). All five copies of the CAD record were cross-referenced to resolve OCR artifacts. The complete 135-page CAD history document (DOJ-OGR-00031174) was read in full to establish the baseline for narrative presence across all logged calls. Original page images were inspected to verify data points where OCR was ambiguous.
 
 All documents cited are available through the DOJ's EFTA production at [justice.gov/epstein](https://www.justice.gov/epstein/) or through the House Oversight production at [archive.org](https://archive.org/details/@us_house_judiciary_committee).
 

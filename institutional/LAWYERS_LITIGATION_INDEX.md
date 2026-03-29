@@ -3,7 +3,7 @@
 ## A comprehensive index of legal actors and litigation in the EFTA corpus
 
 Updated: March 2026
-Scope: 1.39M documents, 2.77M pages across 12 DOJ datasets + DS98 (FBI Vault) + DS99 (House Oversight)
+Scope: 1.42M documents, 2.91M pages across 12 DOJ datasets + DS98 (FBI Vault) + DS99 (House Oversight)
 Databases: full_text_corpus.db, prosecutorial_query_graph.db, concordance_complete.db, persons_registry.json
 
 **Machine-readable data**: [LEGAL_ACTORS.csv](https://github.com/rhowardstone/Epstein-research/blob/main/institutional/LEGAL_ACTORS.csv) (129 entries, 12 columns) | [LITIGATION_MATTERS.csv](https://github.com/rhowardstone/Epstein-research/blob/main/institutional/LITIGATION_MATTERS.csv) (37 cases, 15 columns)
@@ -567,7 +567,7 @@ The corpus reveals the scale of attorney-client privilege deployment:
 | "CERTIFICATE OF SERVICE" pages | 2,385 |
 | "Esq" / "Esquire" pages | 18,515 |
 
-**548,831 pages** — roughly 20% of the entire 2.77M-page corpus — invoke attorney-client privilege. This extraordinary volume reflects the dual reality of the Epstein archive: it is simultaneously a criminal investigation file and a record of the legal apparatus built to resist that investigation.
+**548,831 pages** — roughly 20% of the entire 2.91M-page corpus — invoke attorney-client privilege. This extraordinary volume reflects the dual reality of the Epstein archive: it is simultaneously a criminal investigation file and a record of the legal apparatus built to resist that investigation.
 
 Privilege log management was an active, ongoing process. Emails show Darren Indyke receiving calendar reminders: "remind D: Privilege log re attorney's bills, Lilly to advise" ([EFTA02171955](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02171955.pdf)) — referencing Lilly Ann Sanchez's role in managing privilege assertions.
 
@@ -613,7 +613,7 @@ The 52+ Epstein-side lawyers identified here are a floor, not a ceiling. Many at
 
 ### Data Sources
 
-1. **full_text_corpus.db** (6.3 GB): All page-level text from the DOJ EFTA production. 1,385,879 documents, 2,770,154 pages. FTS5 full-text search index.
+1. **full_text_corpus.db** (6.3 GB): All page-level text from the DOJ EFTA production. 1,416,711 documents, 2,914,901 pages. FTS5 full-text search index.
 2. **prosecutorial_query_graph.db** (2.5 MB): 257 subpoenas, 2,018 demand clauses, 779 investigative gaps.
 3. **concordance_complete.db** (729 MB): Cross-reference metadata including author/custodian fields.
 4. **persons_registry.json**: 1,536 persons, 42 in "legal" category.

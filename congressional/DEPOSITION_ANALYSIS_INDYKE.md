@@ -22,7 +22,7 @@ This analysis is based on an automated transcription. Speaker labels are approxi
 
 ## Executive Summary
 
-Epstein's personal attorney of 23 years testified for 6.8 hours under congressional subpoena. Cross-checked against 2.77 million pages of source documents, six findings stand out:
+Epstein's personal attorney of 23 years testified for 6.8 hours under congressional subpoena. Cross-checked against 2.91 million pages of source documents, six findings stand out:
 
 1. **Indyke admitted input on the NPA's co-conspirator language** — the blanket immunity clause that shielded unnamed individuals from federal prosecution. He was himself a potential co-conspirator given his role in cash withdrawals, immigration paperwork, and entity management. A lawyer who may have helped write his own shield. ([§14](#14-npa--input-on-co-conspirator-language))
 2. **Computer hard drives from Epstein properties were held by private investigators.** First sworn inner-circle confirmation. Indyke learned of them "through conversations with defense counsel" but does not know when they were removed or what was on them. ([§6](#6-computer-hard-drives-with-private-investigators))
