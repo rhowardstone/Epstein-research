@@ -167,7 +167,7 @@ The Bannon-Epstein relationship ran approximately January 2018 through Epstein's
 
 ### 2019: The Island Meeting and the End
 
-**January 14, 2019:** A documented meeting on Epstein's island brought together **Sultan bin Sulayem**, **Steve Bannon**, **Ehud Barak**, **Nicole Junkermann**, and **Jabor Al Thani** (Qatar). Reported by **Drop Site News** (Grim and Hussain, January 14, 2026).
+**January 14, 2019:** A documented meeting on Epstein's island brought together **Sultan bin Sulayem**, **Steve Bannon**, **Ehud Barak**, **Nicole Junkermann**, and **Jabor Al Thani** (Qatar). Reported by **Drop Site News** (Grim and Hussain, [January 14, 2026](https://www.dropsitenews.com/p/jeffrey-epstein-united-arab-emirates-sultan-sulayem-dubai-dp-world)).
 
 **February 2019:** Barak met Bannon at Epstein's residence.
 
