@@ -2,7 +2,7 @@
 
 **Status:** Active — police report obtained via OPRA request
 **Date:** April 3, 2026 (updated from March 24, 2026)
-**Contributors:** Greg Conners (tip, OPRA filing, research)
+**Contributors:** [Greg Conners](https://gregconners.substack.com) (tip, OPRA filing, research)
 **Corpus hits:** 154 pages mentioning "Will Ford"
 **Source provenance:** All documents originate from Lesley Groff's email accounts, captured in DS9–DS11
 
