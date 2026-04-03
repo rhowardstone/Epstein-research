@@ -1,7 +1,8 @@
 # Will Ford and the Groff Circle
 
-**Status:** Based on a reader tip
-**Date:** March 24, 2026
+**Status:** Active — police report obtained via OPRA request
+**Date:** April 3, 2026 (updated from March 24, 2026)
+**Contributors:** Greg Conners (tip, OPRA filing, research)
 **Corpus hits:** 154 pages mentioning "Will Ford"
 **Source provenance:** All documents originate from Lesley Groff's email accounts, captured in DS9–DS11
 
@@ -13,7 +14,9 @@ In March 2011, Lesley Groff — Jeffrey Epstein's executive assistant of approxi
 
 The friend was Will Ford, a financial professional whom Lesley described in a 2012 email as "a client of Ike's" — Ike Groff, her husband, who ran the brokerage firm Tourmaline Partners. The relationship is documented in Lesley's own words ([EFTA02170494](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02170494.pdf)). The corpus contains eight years of Ford-Groff correspondence (2011–2019): dinners, a wedding invitation, business development leads, and a daily email list that kept the circle in constant contact. Within that correspondence, Epstein was a known, discussable, shared subject inside the Groff household — not a workplace secret Lesley kept from her personal life.
 
-This report distinguishes between what the documents directly show, what they strongly suggest, and what remains unknown. The emails establish contact patterns, social familiarity, and explicit references to Epstein. They do not, on their own, establish criminal conduct by Ford or independent knowledge by Groff of specific abuse. Biographical details (Coast Guard Academy, CFA, Royal Capital Management) are sourced from Ford's obituary and email disclaimers in the corpus; they have not been independently verified against military or SEC records.
+On September 26, 2019 — seven weeks after Epstein's death at the Metropolitan Correctional Center — Will Ford was found dead at his home in Mountainside, New Jersey, hanging from his back deck with a bedsheet around his neck. A police report obtained in March 2026 via OPRA request (Mountainside PD incident I-2019-011069) confirms the method and documents that Ford was "known to be suicidal" with a doctor's appointment scheduled for that day. He was 47.
+
+This report distinguishes between what the documents directly show, what they strongly suggest, and what remains unknown. The emails establish contact patterns, social familiarity, and explicit references to Epstein. They do not, on their own, establish criminal conduct by Ford or firsthand knowledge by Groff of specific crimes. Awareness of Epstein's public notoriety is not the same thing as knowledge of his abuse, and this report does not conflate the two. The police report documents that Ford was in acute mental health crisis at the time of his death. Biographical details (Coast Guard Academy, CFA, Royal Capital Management) are sourced from Ford's obituary and email disclaimers in the corpus; they have not been independently verified against military or SEC records.
 
 ---
 
@@ -21,7 +24,7 @@ This report distinguishes between what the documents directly show, what they st
 
 William Russell Ford (1972–2019) graduated with high honors from the United States Coast Guard Academy in 1994, served as a lieutenant until 1999, and earned an MBA from Boston University while still in uniform. He moved into trading at Lehman Brothers, earned his CFA designation in 2002, and rose to Chief Operating Officer of Royal Capital Management, LLC. He left Wall Street in 2017 and spent his final years owning and managing RV parks and cabin resorts in Northern California and New Jersey under the name GRRV.
 
-His emails throughout the corpus carry dual institutional disclaimers — Royal Capital Management and Tourmaline Partners, LLC — indicating some form of ongoing affiliation with Ike Groff's Stamford, Connecticut brokerage. As late as April 2019, two years after leaving Wall Street, Ford sent emails under a Tourmaline Partners address ([EFTA02285833](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02285833.pdf)). Whether his Tourmaline connection was a registered position, an advisory arrangement, or simply a legacy email footer is not established in the corpus.
+His emails throughout the corpus carry dual institutional disclaimers — Royal Capital Management and Tourmaline Partners, LLC — suggesting some ongoing affiliation with Ike Groff's Stamford, Connecticut brokerage, or at minimum continued use of Tourmaline's email infrastructure. As late as April 2019, two years after leaving Wall Street, Ford sent emails under a Tourmaline Partners address ([EFTA02285833](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02285833.pdf)). Whether his Tourmaline connection was a registered position, an advisory arrangement, or simply a legacy email footer is not established in the corpus.
 
 Ford ran a daily mass email list — "tidbits & quotes" — sent to a BCC list of clients, friends, and professional contacts from at least 2011 through May 2019. The content was motivational quotes, trivia, financial commentary, journalism clippings, TED Talks, and commencement speeches. The list functioned as social glue: it kept Ford's network in daily contact and gave the Groffs a regular touchpoint with his world. Both Ike and Lesley received these emails, forwarded them to each other, and responded with commentary.
 
@@ -41,7 +44,7 @@ Two minutes later, at 1:26 PM, Lesley replied:
 
 ([EFTA00436269](https://www.justice.gov/epstein/files/DataSet%209/EFTA00436269.pdf), [EFTA02190656](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02190656.pdf))
 
-The "he" is not identified by name. The most obvious candidate is Epstein himself — Lesley was his executive assistant, the article was about him, and she had been told the day before it would appear. The other plausible sources are narrow: Epstein's PR handler or an attorney monitoring press. No PR handler or media attorney appears elsewhere in Groff's correspondence, while Epstein does throughout. Managing awareness of incoming press is a standard function for someone in Lesley's role, and taken alone this would not be remarkable. What makes it significant is what follows in the next two years.
+The record does not identify "he" by name. In context, Epstein is the most natural reading — Lesley was his executive assistant, the article was about him, and she had been told the day before it would appear — though a lawyer or PR intermediary cannot be excluded. No PR handler or media attorney appears elsewhere in Groff's correspondence, while Epstein does throughout. Managing awareness of incoming press is a standard function for someone in Lesley's role, and taken alone this would not be remarkable. What makes it significant is what follows in the next two years.
 
 Two weeks later, on April 6, Ford forwarded a New York Times article about Thomas Barrack Jr.'s Colony Capital to Ike Groff and a colleague named Neal Shah ([EFTA00435939](https://www.justice.gov/epstein/files/DataSet%209/EFTA00435939.pdf)). This is the earliest evidence of Ford as a financial-content curator within the network — a role that intensified over the following years.
 
@@ -147,17 +150,45 @@ Then silence. In the corpus, Ford's eight-year email trail simply stops.
 
 ---
 
-## September 2019
+## Summer–Fall 2019: Two Deaths
 
-Jeffrey Epstein was arrested on July 6, 2019 and found dead in his cell at the Metropolitan Correctional Center on August 10. The medical examiner ruled suicide by hanging.
+Jeffrey Epstein was arrested on July 6, 2019 and found dead in his cell at the Metropolitan Correctional Center on August 10. The New York City medical examiner ruled suicide by hanging. The manner of death — a bedsheet ligature in a federal detention facility — has been the subject of sustained public scrutiny.
 
-Will Ford died on September 26, 2019, at age 47. His obituary, published in the Eureka, California *Times-Standard*, says he "died suddenly" in Mountainside, New Jersey — consistent with where his partner Heather White lived (Brooklyn) and the New York metro commuter belt. He is survived by three children, his partner, his parents, two siblings, and a former wife. Memorial donations were directed to the American Foundation for Suicide Prevention and to Imagine Center for Coping With Loss in Mountainside. ([Obituary](https://www.legacy.com/us/obituaries/times-standard/name/will-ford-obituary?id=8484552))
+### Will Ford's Death: The Police Report
 
-The AFSP memorial donation is a strong public signal of manner of death, though not an official confirmation. No public cause-of-death record has been located. An OPRA request to Mountainside Police Department or Union County Medical Examiner would yield the incident report; neither has been filed.
+Will Ford died on September 26, 2019, at age 47 — seven weeks after Epstein's death, eleven weeks after Epstein's arrest. His obituary, published in the Eureka, California *Times-Standard*, says he "died suddenly" in Mountainside, New Jersey. He is survived by three children (Reilly, Kyra, and Selah, with former wife Lora Brown Ford), his partner Heather White of Brooklyn, his parents John and Charline Ford of Willits, California, a brother Larney (Arcata, CA), and a sister Amy (McKinleyville, CA). Memorial donations were directed to the American Foundation for Suicide Prevention and to Imagine Center for Coping With Loss in Mountainside. ([Obituary](https://www.legacy.com/us/obituaries/times-standard/name/will-ford-obituary?id=8484552))
 
-This report does not assert any link between Ford's death and Epstein's. What it establishes is the documentary record: Ford was close enough to the Groffs to raise the prospect of Ike joining Epstein in some capacity, professionally intertwined with Ike's firm for nearly a decade, and embedded in a social circle where Epstein's name, press coverage, and orbit were openly discussed.
+On March 31, 2026, the Mountainside Police Department fulfilled an OPRA (Open Public Records Act) request filed by contributor Greg Conners. The response is a three-page **Sudden Death Investigative Report**, incident number **I-2019-011069**, heavily redacted but containing the following confirmed details:
 
-The answer to what Ford knew is not in these files.
+**The call.** At 13:38 on September 26, 2019, Mountainside PD received an "ASSIST PUBLIC - CHECK WELFARE" call. Ford's girlfriend had called police because he was **"known to be suicidal"** and had been **"scheduled to meet [redacted] and his doctor [redacted] in the city regarding the matter."** When Ford failed to appear for that appointment, his girlfriend was prompted to call police.
+
+**The discovery.** Officers Yasinski and Patrolman Matthew Carleo (Badge #0087) responded. They knocked on the front door; no answer. They checked the garage — Ford's car was parked inside and was not running. They proceeded to the backyard, where they found Ford **"hanging from the balcony of his back deck with a bed sheet wrapped around his neck."** Officer Yasinski checked for signs of life. Body discovered at 13:50.
+
+**The response.** The scale of the departmental response was notable for a municipal police force. Officer Yasinski called for a detective and administration. The following personnel responded to the scene:
+
+| Officer | Rank/Role | Badge |
+|---------|-----------|-------|
+| Matthew Carleo | Patrolman (reporting officer) | 0087 |
+| Yasinski | Officer (co-responding) | — |
+| Shaun M. Bendik | Detective Corporal (report supervisor) | 0063 |
+| Michael Jackson | Detective Sergeant | — |
+| Joseph Giannuzzi | Chief of Police | — |
+| Ernesto M. Hernandez | Medical Examiner, Union County | — |
+| [Unnamed] | Overlook Hospital | — |
+
+All evidence was "documented and photographed."
+
+**Notifications.** Corporal Bendik and Carleo went to notify Ford's former wife. She was not home; they spoke with her boyfriend. Simultaneously, a family member (likely the former wife) drove through town, saw patrol cars outside Ford's house, stopped, and was told by Sergeant Jackson. She called her mother, who arrived shortly after. Ford's parents in California were notified via Corporal Norton, who asked local authorities to deliver the notification in person. Sergeant Jackson instructed all parties not to enter the home until Ford's parents gave permission.
+
+### What the Report Does Not Show
+
+The report's medical history, list of medications, next of kin, and most identifying details are fully redacted under OPRA exemptions. The pronouncement section (who officially declared death, at what time) is redacted. The "Reporting Officer's Observations" section — which would describe the physical scene — is entirely redacted. We do not have the Union County Medical Examiner's report, which would contain cause and manner of death; a separate request has not yet been filed.
+
+### Context
+
+Ford's death involved a bedsheet ligature, the same method reported in Epstein's death seven weeks earlier. The police report documents that Ford was "known to be suicidal" and had a doctor's appointment that day specifically "regarding the matter" — consistent with documented, active suicidality. People do use bedsheets in residential suicides; the method is not extraordinary on its own.
+
+This report does not assert a causal link between the two deaths. What it establishes is the documentary record: Ford was socially close to Ike and Lesley Groff over eight years; Ford had a business relationship with Ike through Tourmaline Partners; and Ford was sufficiently comfortable with the Groffs to raise the subject of "joining Jeff" in 2013. Within that relationship, Epstein's name, press coverage, and orbit were openly discussed. The answer to what Ford knew is not in these files. A county-level records request to the Union County Medical Examiner's Office may yield additional detail.
 
 ---
 
@@ -169,16 +200,20 @@ The Ford correspondence complicates that posture.
 
 She had advance notice of a Daily Beast article headlined with the word "pedophile" and told her husband she'd been briefed the day before. Two years later, when her husband showed her an instant message in which a friend asked why he hadn't "joined Jeff," she responded with curiosity, not confusion. In 2015, Ike sent her yet another Epstein article, and she apparently received it without comment — or at least without comment preserved in the corpus.
 
-None of this proves criminal knowledge or knowledge of trafficking. Managing media awareness is part of being an executive assistant. Finding a friend's career question "incredibly interesting" is not a crime. But the cumulative picture — advance press briefings, engaged reaction to a conversation about joining Epstein's orbit, repeated Epstein media monitoring as a couple — documents awareness of Epstein's notoriety and a degree of normalized discussion around him inside the Groff household. That is hard to square with any portrayal of Groff as isolated from the broader implications of Epstein's public scandal.
+None of this proves criminal knowledge or knowledge of trafficking. Awareness of a boss's notoriety is not the same thing as firsthand knowledge of his crimes. Managing media awareness is part of being an executive assistant. Finding a friend's career question "incredibly interesting" is not a crime. But the cumulative picture — advance press briefings, engaged reaction to a conversation about joining Epstein's orbit, repeated Epstein media monitoring as a couple — documents awareness of Epstein's notoriety and a degree of normalized discussion around him inside the Groff household. One isolated forward could be dismissed as workplace spillover. A pattern across four years is harder to wave away. That pattern is hard to square with any portrayal of Groff as isolated from the broader implications of Epstein's public scandal.
 
 Congressional staff preparing for the June 9 interview should consider the following questions:
 
+**On the Epstein correspondence:**
+
 1. **"Who told you the Daily Beast article would be published?"** — referencing EFTA00436269, March 25, 2011.
-2. **"What did you understand Will Ford meant when he asked your husband why he hadn't 'joined Jeff'?"** — referencing EFTA00392829, April 3, 2013.
-3. **"Did your husband meet with Will Ford on the Tuesday night referenced in the instant message? What was discussed?"**
-4. **"In what capacity did your husband interact with Jeffrey Epstein, if at all?"**
-5. **"Were you or your husband aware of any financial relationship between Ike Groff — or Tourmaline Partners — and Jeffrey Epstein or any Epstein-controlled entity?"**
-6. **"How often did you and your husband discuss Epstein's media coverage or legal exposure?"**
+2. **"In the April 3, 2013 exchange, did you understand 'Jeff' to mean Jeffrey Epstein?"** — referencing EFTA00392829. Establish the referent before arguing over the verb.
+3. **"What did you understand Will Ford meant when he asked your husband why he hadn't 'joined Jeff'?"** — same exchange.
+4. **"Did your husband meet with Will Ford on the Tuesday night referenced in the instant message? What was discussed?"**
+5. **"In what capacity did your husband interact with Jeffrey Epstein, if at all?"**
+6. **"Were you or your husband aware of any financial relationship between Ike Groff — or Tourmaline Partners — and Jeffrey Epstein or any Epstein-controlled entity?"**
+7. **"How often did you and your husband discuss Epstein's media coverage or legal exposure?"**
+
 
 ---
 
@@ -186,9 +221,11 @@ Congressional staff preparing for the June 9 interview should consider the follo
 
 | Name | Role in this story | Key documents |
 |------|-------------------|---------------|
-| **Will Ford** (1972–2019) | Coast Guard Academy grad; COO of Royal Capital Mgmt; client of Ike Groff at Tourmaline Partners; later GRRV (RV parks). Died suddenly September 26, 2019, Mountainside, NJ. | Throughout; [obituary](https://www.legacy.com/us/obituaries/times-standard/name/will-ford-obituary?id=8484552) |
+| **Will Russell Ford** (1972–2019) | Coast Guard Academy '94 (civil engineering, high honors); Lt., USCG; BU MBA '99; CFA '02; Lehman Brothers trader; COO of Royal Capital Mgmt; client of Ike Groff at Tourmaline Partners; later GRRV (RV parks). Member, Mountainside Planning Board (per [obituary](https://www.legacy.com/us/obituaries/times-standard/name/will-ford-obituary?id=8484552)). Died by hanging (bedsheet) September 26, 2019, Mountainside, NJ. | Throughout; [obituary](https://www.legacy.com/us/obituaries/times-standard/name/will-ford-obituary?id=8484552); Mountainside PD I-2019-011069 |
 | **Ike Groff** | Tourmaline Partners, LLC (Stamford, CT). Ford's professional associate and social friend. Lesley's husband. | Throughout |
 | **Lesley Groff** | Epstein's executive assistant (~25 years). Ike's wife. Scheduled for congressional testimony June 9, 2026. | [EFTA00436269](https://www.justice.gov/epstein/files/DataSet%209/EFTA00436269.pdf), [EFTA00392829](https://www.justice.gov/epstein/files/DataSet%209/EFTA00392829.pdf), [EFTA02074606](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02074606.pdf) |
+| **Heather White** | Ford's partner at time of death. Brooklyn, NY. Called Mountainside PD for welfare check. | Obituary; Mountainside PD I-2019-011069 |
+| **Lora Brown Ford** | Ford's former wife. Mountainside, NJ. Three children: Reilly, Kyra, Selah. | Obituary; Mountainside PD I-2019-011069 |
 | **Jenny Rogers** | Ford's partner (2012–2015 emails). Sold Gulfstream jets. Not mentioned in obituary. | [EFTA02170494](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02170494.pdf), [EFTA02083363](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02083363.pdf) |
 | **Evan & Ingrid Wax** | Social circle; recurring dinner companions and wedding guests. | [EFTA02115670](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02115670.pdf), [EFTA02133826](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02133826.pdf), [EFTA02285833](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02285833.pdf) |
 | **Seth & Alison Hoenig** | Social/professional circle. | [EFTA02115670](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02115670.pdf), [EFTA02109653](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02109653.pdf) |
@@ -196,6 +233,18 @@ Congressional staff preparing for the June 9 interview should consider the follo
 | **Ray & Carly Alvarez** | Social/professional circle. | [EFTA02109653](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02109653.pdf) |
 | **Deric Senne** | Ford's former Lehman colleague; business lead for Tourmaline via Dubai family office. | [EFTA02058003](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02058003.pdf) |
 | **Jena Masquelier** | Engaged recipient on Ford's email list. | [EFTA02155569](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02155569.pdf) |
+
+### Mountainside PD — Responding Officers (I-2019-011069)
+
+| Officer | Rank | Badge/ID | Role |
+|---------|------|----------|------|
+| Matthew Carleo | Patrolman | 0087 | Reporting officer; discovered body |
+| Yasinski | Officer | — | Co-responding; checked for signs of life |
+| Shaun M. Bendik | Detective Corporal | 0063 | Report supervisor |
+| Michael Jackson | Detective Sergeant | — | Scene assessment |
+| Joseph Giannuzzi | Chief of Police | — | Scene assessment |
+| Norton | Corporal | — | Notification to parents (via California local authorities) |
+| Ernesto M. Hernandez | Medical Examiner | — | Union County ME's Office; pronounced death |
 
 ---
 
@@ -245,4 +294,13 @@ Congressional staff preparing for the June 9 interview should consider the follo
 
 ---
 
-*All citations verified against full_text_corpus.db (1,416,711 documents, 2.91M pages). EFTA links resolve to justice.gov.*
+## Pending
+
+- **Union County Medical Examiner report** — separate OPRA/records request not yet filed. Would yield official cause and manner of death, toxicology, and autopsy findings if performed.
+- **County-level police report** — Greg notes a second OPRA request to the county is outstanding.
+- **Abu Dhabi EFTAs** (verified in corpus): [EFTA02420850](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02420850.pdf) (6 pages) and [EFTA02421026](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02421026.pdf) (2 pages) — Lesley Groff coordinating international lodging for Epstein and a traveling companion at the Nov 2010 IPI/UAE Sir Bani Yas Forum in Abu Dhabi. Groff describes the companion's role in travel-assistant terms: "[name redacted] is only coming to escort Jeffrey on the trip as assistant and we absolutely know she will not be attending any of the events/meetings." Note: "escort" here is used in the travel-companion sense, not the sex-work sense — Groff is explaining the companion's limited role to event organizers. Greg also cites a 2016 Woody Allen audition arrangement — EFTA TBD. To be incorporated in next update.
+- **Ford's email trail gap** — last documented email is May 9, 2019. No emails between Epstein's arrest (July 6) and Ford's death (September 26) are in the corpus. Whether Ford was in contact with the Groffs during this period is unknown.
+
+---
+
+*All citations verified against full_text_corpus.db (1,416,711 documents, 2.91M pages). EFTA links resolve to justice.gov. Police report sourced from Mountainside PD OPRA response dated March 31, 2026.*
