@@ -294,6 +294,12 @@ Congressional staff preparing for the June 9 interview should consider the follo
 
 ---
 
+## Related Coverage
+
+- Greg Conners, ["A Second Suicide leads to Lesley Groff"](https://gregconners.substack.com/p/a-second-suicide-leads-to-lesley), Substack, April 1, 2026. Based on findings from our investigation; Conners filed the OPRA request and wrote the Substack article.
+
+---
+
 ## Pending
 
 - **Union County Medical Examiner report** — separate OPRA/records request not yet filed. Would yield official cause and manner of death, toxicology, and autopsy findings if performed.
