@@ -54,7 +54,7 @@ about motion for fees/costs.
 **Content:** San Mateo County Superior Court probate order — "Order Approving Modification
 of Trust." Involves the Elisa Zaffaroni irrevocable trust (dated April 15, 1989), trustee succession
 rules, J.P. Morgan Trust Company as corporate co-trustee, and a $4.1 million principal distribution
-for a Tiburon, CA residence. References David Packard and the Zaffaroni family. Faxed from
+for a Tiburon, CA residence. References David Packard, Esq. (attorney for the Zaffaroni family conservatorship) and the Zaffaroni family. Faxed from
 "Academic Affairs" at 972-883-6764 (UT Dallas area code), dated March 22, 2012/2014.
 
 **Recovered files:**
@@ -149,7 +149,7 @@ contained the page cross-reference data were overwritten. Instead, 8 disk sector
 **Apple macOS AddressBook.app binary property list records** — one contact per 4096-byte sector.
 
 **8 Contacts Recovered:**
-1. **[?] Sussman** — Phone: (713) 478-6444 (Houston, TX)
+1. **[?] Sussman** — Phone: (713) 478-6444 (Houston, TX) — identified as Steve Susman of [Susman Godfrey LLP](https://www.susmangodfrey.com/attorneys/stephen-d-susman-1941-2020/) (died 2020); firm represented FTC in Epstein's lawsuit against D.B. Zwirn
 2. **Karim Wade** — Email: ME@micatti.gouv.sn (Senegalese government)
 3. **Jacquie [?]** — Email: Jacquie@greenislandgardens.net
 4. **Gwendolyn Beck** — Email: GBeck111@aol.com
@@ -159,7 +159,7 @@ contained the page cross-reference data were overwritten. Instead, 8 disk sector
 8. **Jean-Luc [?]** — Phone: 1 (646) 961-8500 (NYC), +33 648 519 751 (France) — Email: 2jeanluc@gmail.com
 
 Cross-references with persons registry: Gwendolyn Beck (known associate), Jay Lefkowitz (Epstein attorney),
-Michael Wolff (journalist), Gerald Sussman.
+Michael Wolff (journalist), Steve Susman (Susman Godfrey LLP).
 
 **Also recovered:** 1 photograph taken with an **iPhone 5s on August 3, 2014, at 9:38:27 AM** (iOS 7.1.2).
 Recovered as 640x480 thumbnail; original was 3264x2448.
