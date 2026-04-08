@@ -383,9 +383,11 @@ This section exists because responsible analysis requires stating limitations.
 
 ## 9. Structural Findings
 
-### 9.1 Missing Coded Originals
+### 9.1 Coded Originals and Translation Relationship
 
-The typed translations in EFTA02731420 and EFTA02731465 cover journal content — including all named perpetrators — whose coded originals are not present in the EFTA production. The Wigdor correspondence confirms "the entirety of the journal" was provided to SDNY, but only a portion of the coded pages were included in the public dataset. The coded originals for the pages naming Leon Black, George Mitchell, the DC cluster, Minsky, Krauss, Staley, and other perpetrators are not publicly available.
+The Wigdor correspondence describes two PDFs: "the entirety of the journal" and "a translation." The EFTA production splits these into four documents: the interleaved documents (EFTA02731361 and EFTA02731393) appear to be scans of the physical journal — containing coded pages, typed translation pages, collages, poems, and artwork. The standalone translations (EFTA02731420 and EFTA02731465) appear to be the separate typed transcript.
+
+The coded originals for the perpetrator-naming passages are likely present within the interleaved documents as cipher pages, but because the rail fence encoding renders them unreadable without systematic decryption, a direct page-by-page match between coded originals and their translations has not been completed. The translations in EFTA02731420 and EFTA02731465 are treated as part of the EFTA record, but the underlying coded pages have not been independently verified against them.
 
 ### 9.2 SDNY Declined to Investigate
 
