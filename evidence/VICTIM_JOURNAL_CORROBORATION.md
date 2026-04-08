@@ -16,7 +16,7 @@
 4. [Complete Name Inventory](#4-complete-name-inventory)
 5. [Corroboration Analysis: Names with Independent Evidence](#5-corroboration-analysis-names-with-independent-evidence)
 6. [Possible Public Matches for Washington-Area Names](#6-possible-public-matches-for-washington-area-names)
-7. [Names Without Independent Corpus Evidence](#7-names-without-independent-corpus-evidence)
+7. [Names With Partial or No Independent Corpus Evidence](#7-names-with-partial-or-no-independent-corpus-evidence)
 8. [What the Journal Does Not Prove](#8-what-the-journal-does-not-prove)
 9. [Structural Findings](#9-structural-findings)
 10. [Methodology](#10-methodology)
@@ -164,11 +164,7 @@ For each name below, the journal's claim is stated first, followed by what the E
 
 **Journal claim** ([EFTA02731431](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731420.pdf), p. 12): "even old senators like George Mitchell who you think would be good like a grandpa are bad."
 
-**Independent source** — [EFTA02857849](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02857849.pdf) (pp. 3–5): The same FD-302 cited above describes the Brazilian victim being trafficked to George Mitchell. She was flown to a presidential suite at the Beverly Hills Hotel where she "met a man named GEORGE MITCHELL" who was on the phone with Epstein. Mitchell was described as "slim and very old... gray hair but not much hair... He told [her] that he worked in politics." She was subsequently sent to the Four Seasons in Washington, DC, where "EPSTEIN sent her to DC."
-
-**What is corroborated**: Two independent victims (the journal author and the Brazilian victim in EFTA02857849) describe Mitchell as elderly and involved in Epstein's trafficking operation. The journal's "like a grandpa" description is independently consistent with the 302's "very old... smiled... very nice."
-
-**What is not corroborated**: The journal does not specify what Mitchell did. The 302 describes sexual encounters. They may describe different types of encounters or the same type.
+**Independent source** — [EFTA02857849](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02857849.pdf) (pp. 3–5): The same FD-302 cited above describes the Brazilian victim being trafficked to George Mitchell at the Beverly Hills Hotel — "slim and very old... gray hair but not much hair... He told [her] that he worked in politics." Two independent victims describe Mitchell as elderly and involved in Epstein's operation; the journal's "like a grandpa" is consistent with the 302's "very old... smiled... very nice." The journal does not specify what Mitchell did; the 302 describes sexual encounters.
 
 ### 5.3 Jim Atkins
 
@@ -184,90 +180,70 @@ For each name below, the journal's claim is stated first, followed by what the E
 
 **Journal claim** ([EFTA02731469](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731465.pdf), p. 5): "The disgusting Mr. staley if anyone ever calls me tinkerbell again I will lose my mind / He left bloody marks on my arms from his belt and thought he had had the right to call me that when he has ears as big as a dumbo."
 
-**Independent sources**: The EFTA corpus contains approximately 7,250 page references to Jes Staley. [EFTA00161693](https://www.justice.gov/epstein/files/DataSet%209/EFTA00161693.pdf) (DS9) reproduces a news item stating that "Staley exchanged more than 1,200 emails with Epstein and that these included photographs of young women sent by the convicted criminal." Multiple direct emails between Epstein and Staley appear in the corpus (EFTA00940747, EFTA00741744, EFTA01301012, among others).
+**Independent sources**: ~7,250 corpus pages reference Staley. [EFTA00161693](https://www.justice.gov/epstein/files/DataSet%209/EFTA00161693.pdf) reports Staley exchanged 1,200+ emails with Epstein including "photographs of young women." Direct Epstein-Staley emails appear throughout the corpus (EFTA00940747, EFTA00741744, EFTA01301012, among others). The UK FCA investigated Staley over this relationship; he resigned as Barclays CEO in 2021.
 
-**What is corroborated**: Staley's close, documented relationship with Epstein, including 1,200+ emails and photographs of young women. The UK Financial Conduct Authority investigated Staley over his Epstein relationship, and he resigned as Barclays CEO in 2021.
-
-**What is not corroborated**: The belt marks, the "tinkerbell" nickname, and the physical description ("ears as big as a dumbo") are unique to the journal. No other corpus document describes physical abuse by Staley.
+**What is not corroborated**: The belt marks, "tinkerbell" nickname, and physical description ("ears as big as a dumbo") are unique to the journal.
 
 ### 5.5 Marvin Minsky
 
 **Journal claim** ([EFTA02731469](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731465.pdf), p. 5): "martin minsky are gross." The first name is misspelled (Martin for Marvin).
 
-**Independent sources**: Direct emails between Minsky and Epstein appear at [EFTA00923827](https://www.justice.gov/epstein/files/DataSet%209/EFTA00923827.pdf) (conference planning) and [EFTA00988093](https://www.justice.gov/epstein/files/DataSet%209/EFTA00988093.pdf) (introduction). [EFTA00564935](https://www.justice.gov/epstein/files/DataSet%209/EFTA00564935.pdf) shows Epstein instructing staff to "coordinate with the Minskys, krause, marvin, church, novak" for a conference. The email is sent to Cecile de Jongh (then-First Lady of the US Virgin Islands), implying the conference was on or near Little Saint James, but the document does not explicitly state the location. The Maxwell deposition ([EFTA02846680](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02846680.pdf), pp. 102–103) confirms Maxwell knew Minsky as part of Epstein's circle.
+**Independent sources**: Direct Minsky-Epstein emails at [EFTA00923827](https://www.justice.gov/epstein/files/DataSet%209/EFTA00923827.pdf) (conference planning) and [EFTA00988093](https://www.justice.gov/epstein/files/DataSet%209/EFTA00988093.pdf) (introduction). [EFTA00564935](https://www.justice.gov/epstein/files/DataSet%209/EFTA00564935.pdf) shows Epstein instructing staff to "coordinate with the Minskys, krause, marvin, church, novak" for a conference emailed to Cecile de Jongh (then-First Lady of the US Virgin Islands). The Maxwell deposition ([EFTA02846680](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02846680.pdf), pp. 102–103) confirms Maxwell knew Minsky as part of Epstein's circle.
 
-**What is corroborated**: Minsky's documented relationship with Epstein, including island visits and conference co-planning.
-
-**What is not corroborated**: The abuse allegation is unique to the journal within the EFTA corpus. Virginia Giuffre's 2015 declaration (publicly reported but not as a primary document in the EFTA production) contains a separate allegation about Minsky.
+**What is not corroborated**: The abuse allegation is unique to the journal within the EFTA corpus. Virginia Giuffre's 2015 declaration (publicly reported but not in the EFTA production as a primary document) contains a separate allegation about Minsky.
 
 ### 5.6 Lawrence Krauss
 
 **Journal claim** ([EFTA02731469](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731465.pdf), p. 5): "Mr. Sauerkraut krauss... are gross."
 
-**Independent sources**: [HOUSE_OVERSIGHT_018227](https://wikiepstein.com/) through HOUSE_OVERSIGHT_018229 (DS99) are Skype call logs between `jeevacation` (Epstein) and `lawkrauss` (Lawrence Krauss) showing direct video calls in July–August 2017. [EFTA00564935](https://www.justice.gov/epstein/files/DataSet%209/EFTA00564935.pdf) lists "krause" alongside "marvin" and "novak" for a conference coordinated through Cecile de Jongh (then-First Lady of the US Virgin Islands).
+**Independent sources**: Skype call logs ([HOUSE_OVERSIGHT_018227](https://wikiepstein.com/) through 018229, DS99) show direct video calls between `jeevacation` (Epstein) and `lawkrauss` (Krauss) in July–August 2017. [EFTA00564935](https://www.justice.gov/epstein/files/DataSet%209/EFTA00564935.pdf) lists "krause" alongside "marvin" and "novak" for the same USVI conference. Krauss was separately investigated for sexual misconduct unrelated to Epstein ([BuzzFeed News, 2018](https://www.buzzfeednews.com/article/peteraldhous/lawrence-krauss-sexual-harassment-allegations)).
 
-**What is corroborated**: Krauss's personal relationship with Epstein, including direct video calls and island conference attendance. Note that Krauss was separately investigated for sexual misconduct unrelated to Epstein ([BuzzFeed News, 2018](https://www.buzzfeednews.com/article/peteraldhous/lawrence-krauss-sexual-harassment-allegations)).
-
-**What is not corroborated**: The abuse allegation in the journal is the only claim of Krauss involvement in Epstein's trafficking within the EFTA corpus.
+**What is not corroborated**: The journal's abuse allegation is the only claim of Krauss involvement in Epstein's trafficking within the corpus.
 
 ### 5.7 Martin Nowak ("Mr. Novak")
 
 **Journal claim** ([EFTA02731469](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731465.pdf), p. 5): "but I felt sort of sorry for Mr. Novak. He was as uncomfortable as me."
 
-**Proposed identification**: Martin Nowak, director of Harvard's Program for Evolutionary Dynamics (PED). The Polish surname "Nowak" is pronounced with a "v" sound, making the journal's "Novak" a standard phonetic rendering.
+**Proposed identification**: Martin Nowak, director of Harvard's Program for Evolutionary Dynamics (PED). "Nowak" is pronounced with a "v" sound in Polish, making the journal's "Novak" a standard phonetic rendering.
 
-**Independent sources**: Epstein donated $6.5 million to establish Nowak's PED at Harvard in 2003 — the exact period of the journal. Epstein maintained a personal office in Nowak's lab and used it over 40 times — all documented visits occurred after 2010, well after his 2008 conviction. Harvard sanctioned Nowak in 2021 and closed the PED; Nowak was placed on administrative leave again in February 2026 ([Harvard Magazine](https://www.harvardmagazine.com/2021/03/martin-nowak-sanctioned-for-jeffrey-epstein-involvement)). [EFTA00564935](https://www.justice.gov/epstein/files/DataSet%209/EFTA00564935.pdf) lists "novak" (same phonetic spelling) alongside Minsky and Krauss for a conference coordinated through Cecile de Jongh in the US Virgin Islands.
+**Independent sources**: Epstein donated $6.5 million to establish Nowak's PED at Harvard in 2003 — the exact period of the journal. [EFTA00564935](https://www.justice.gov/epstein/files/DataSet%209/EFTA00564935.pdf) lists "novak" alongside Minsky and Krauss for the same USVI conference. Harvard sanctioned Nowak in 2021 and closed the PED ([Harvard Magazine](https://www.harvardmagazine.com/2021/03/martin-nowak-sanctioned-for-jeffrey-epstein-involvement)).
 
-**What is corroborated**: Nowak's extensively documented financial and personal relationship with Epstein during the journal's timeframe, including island visits.
+**What is not corroborated**: The journal describes Novak as "uncomfortable" — distinct from the other names, which are described as active participants. No corpus document describes Nowak in a trafficking context.
 
-**What is not corroborated**: The journal describes Novak as "uncomfortable" — a characterization distinct from the other names, which are described as active participants. This detail neither confirms nor denies involvement; it records the victim's perception. No other corpus document describes Nowak in a trafficking context.
-
-**Identification confidence**: Identity as Harvard's Martin Nowak: HIGHLY PROBABLE. Status as Epstein associate: CONFIRMED. Status as trafficking participant: uncorroborated in the corpus. The phonetic match, the timeline (2003), and the corpus co-listing with Minsky and Krauss — who appear in the same journal sentence — make this the strongest identification among proposed names.
+**Identification confidence**: HIGHLY PROBABLE as Harvard's Martin Nowak. The phonetic match, the timeline (2003), and the corpus co-listing with Minsky and Krauss — who appear in the same journal sentence — make this the strongest identification among proposed names.
 
 ### 5.8 Dan Snyder
 
 **Journal claim** ([EFTA02731424](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731420.pdf), p. 5): "Joe Gibbs is so nice but Dan Snyder is a pig! A red skin hoggett(sp?)!" Also named in the "flights of horror" passage (p. 12).
 
-**Independent source**: [EFTA01416472](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01416472.pdf) (DS10) is an art gallery event list that includes "Dan Snyder and Karl Schreiber — dinner and preview" alongside "Jeffrey Epstein — preview." This places Snyder and Epstein at the same art event, independent of the journal.
-
-**What is corroborated**: Snyder and Epstein attended the same art event. The corpus does not contain further evidence of their relationship.
-
-**What is not corroborated**: The abuse allegation and "flights of horror" are unique to the journal.
+**Independent source**: [EFTA01416472](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01416472.pdf) is an art gallery event list including "Dan Snyder and Karl Schreiber — dinner and preview" alongside "Jeffrey Epstein — preview." This places them at the same event but does not establish a closer relationship. The abuse allegation and "flights of horror" are unique to the journal.
 
 ### 5.9 Steve Case
 
 **Journal claim** ([EFTA02731431](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731420.pdf), p. 12): Named in the "flights of horror" passage alongside Leonsis, Snyder, the Gregorys, and Colgan.
 
-**Independent sources**: [EFTA02548313](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02548313.pdf) (DS11) is a John Brockman mass email cc'ing Steve Case, Jeff Bezos, Paul Allen, and Jeffrey Epstein. [EFTA02673024](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02673024.pdf) shows a Twitter notification in Epstein's inbox that @SteveCase tweeted.
-
-**What is corroborated**: Case appeared in Epstein's intellectual/social network via Brockman's Edge Foundation circle.
-
-**What is not corroborated**: The abuse allegation and "flights of horror" are unique to the journal. Appearing on the same email list does not establish the type of relationship the journal describes.
+**Independent sources**: [EFTA02548313](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02548313.pdf) is a John Brockman mass email cc'ing Steve Case, Jeff Bezos, Paul Allen, and Jeffrey Epstein. [EFTA02673024](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02673024.pdf) shows a @SteveCase Twitter notification in Epstein's inbox. These place Case in Epstein's Edge Foundation circle but do not establish the relationship the journal describes. The "flights of horror" allegation is unique to the journal.
 
 ### 5.10 Additional Confirmed Names
 
 The following names are extensively documented in the EFTA corpus and require no detailed corroboration analysis here:
 
-- **Alan Dershowitz** ("Allen Douschewitz"): Giuffre depositions, civil case, extensive corpus documentation
-- **Bill Clinton** ("the old president... Chelsea"): Flight logs, extensive corpus
-- **Prince Andrew** ("Andrew is like his brother in this way"): Civil settlement, sworn testimony
-- **Jean-Luc Brunel** ("disgusting pig with bad breath"): Extensive corpus, died in custody February 2022
-- **Larry Summers**: Documented Epstein associate, Vicky Ward article ([EFTA01334040](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01334040.pdf))
-- **Harvey Weinstein** ("fat pig Weinstein"): Social circle co-occurrence only in corpus; no direct Epstein trafficking connection documented
+- **Alan Dershowitz** ("Allen Douschewitz"): Giuffre depositions ([EFTA02846680](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02846680.pdf)), civil case filings, extensive corpus documentation (~9,400 page hits)
+- **Bill Clinton** ("the old president... Chelsea"): Flight logs ([EFTA00074206](https://www.justice.gov/epstein/files/DataSet%209/EFTA00074206.pdf)), Epstein emails, extensive corpus documentation
+- **Prince Andrew** ("Andrew is like his brother in this way"): Giuffre civil settlement, sworn testimony ([EFTA02846680](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02846680.pdf)), extensive corpus documentation
+- **Jean-Luc Brunel** ("disgusting pig with bad breath"): Epstein emails, victim testimony, extensive corpus (~7,000 page hits); died in custody February 2022
+- **Larry Summers**: Documented Epstein associate, Vicky Ward article ([EFTA01334040](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01334040.pdf)), direct Epstein emails in corpus
+- **Harvey Weinstein** ("fat pig Weinstein"): Social circle co-occurrence — Epstein's text messages reference Weinstein ([EFTA01615580](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01615580.pdf)), and Epstein's calendar lists events with Weinstein ([EFTA01990615](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01990615.pdf)). No direct Epstein trafficking connection documented
 
 ### 5.11 Dana Chasin ("Mr. Dana")
 
 **Journal claim** ([EFTA02731425](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731420.pdf), p. 6): "For being a Rockefeller that plane Mr. Dana had me on was scary! Both he and Larry Summers are fucking disgusting!"
 
-**Proposed identification**: A Democratic political consultant with documented Rockefeller family ties through marriage and a Washington, DC base.
+**Independent source** — [EFTA02731721](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731721.pdf) (DS12, p. 2): Attorney notes from Wigdor LLP partner Jeanne Christensen describing a **different** client's allegations state: "Dana Chasin (Rockefeller's) small prop plane the last time to Epstein's NYC townhouse." A separate victim, through separate attorney correspondence, independently names the same individual with the same Rockefeller aircraft detail — providing the surname "Chasin" that the journal omits.
 
-**Corpus evidence**: The name "Chasin" does not appear anywhere in the 2.91 million-page EFTA corpus. No independent document in the production connects Dana Chasin to Epstein.
+**What is not corroborated**: The abuse allegation ("fucking disgusting") is unique to the journal; EFTA02731721 describes transport only. No Epstein email, flight log, or financial record references Chasin. A "Philip Chasin" appears in a LinkedIn notification to Lesley Groff ([EFTA02147745](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02147745.pdf)); relationship to Dana Chasin unknown.
 
-**What supports the identification**: The journal describes a "Mr. Dana" who has a plane and a Rockefeller connection. The proposed match is the only publicly known individual named "Dana" with a documented Rockefeller family connection. The combination of first name + Rockefeller + private aircraft is distinctive.
-
-**What is not corroborated**: The journal does not provide a surname. The identification rests entirely on the combination of "Dana" + "Rockefeller" + "plane" matching a single known individual's profile. No EFTA document mentions Chasin in any context. No independent victim, flight log, financial record, or email in the corpus connects Chasin to Epstein.
-
-**Identification confidence**: SPECULATIVE. The combination of identifying details is suggestive, but without any independent corpus evidence, this identification cannot be elevated above speculative.
+**Identification confidence**: CORROBORATED for transport role by independent victim's attorney statement.
 
 ---
 
@@ -279,7 +255,7 @@ The journal names several individuals by surname only ("Mr. Rails," "Mr. Ein," e
 
 ### 6.1 "Mr. Rails" → Mitchell Rales
 
-**Basis**: Mitchell Rales co-founded Danaher Corporation and is based in the Washington, DC area. He was president of the National Gallery of Art (2019–2024) and co-founded Glenstone museum. He joined the [Washington Commanders ownership group](https://www.commanders.com/team/front-office-roster/ownership-group) alongside Mark Ein (another proposed journal name). House Oversight documents ([HOUSE_OVERSIGHT_005548](https://wikiepstein.com/)) contain a handwritten entry "DEMO flight MITCHEL RALES" on N908GM ("Air Ghislaine") dated July 17, 2008 — 17 days after Epstein's Florida sex crime conviction. [First reported by Kait Justice](https://kaitjustice.substack.com/p/billionaire-mitchell-rales-in-flight).
+**Basis**: Mitchell Rales co-founded Danaher Corporation and is based in the Washington, DC area. He was president of the National Gallery of Art (2019–2024) and co-founded Glenstone museum. He joined the [Washington Commanders ownership group](https://www.commanders.com/team/front-office-roster/ownership-group) alongside Mark Ein (another proposed journal name). [Kait Justice reported](https://kaitjustice.substack.com/p/billionaire-mitchell-rales-in-flight) a handwritten entry "DEMO flight MITCHEL RALES" on N908GM ("Air Ghislaine") dated July 17, 2008 — 17 days after Epstein's Florida sex crime conviction, citing House Oversight document HOUSE_OVERSIGHT_005548. Note: this document is not present in our searchable full-text corpus (it may be an image-only page or ingestion gap), so the claim relies on Justice's external reporting rather than independent corpus verification.
 
 **Uncertainty**: The journal uses only "Mr. Rails." Mitchell Rales has a brother, Steven Rales, who is also based in the DC area. The surname "Rails" as a phonetic rendering of "Rales" is plausible but not confirmed. The flight log entry establishes Mitchell Rales on an Epstein aircraft in 2008, but the journal describes events from 2001–2004. No corpus document places either Rales brother in a trafficking context.
 
@@ -287,7 +263,7 @@ The journal names several individuals by surname only ("Mr. Rails," "Mr. Ein," e
 
 ### 6.2 "Mr. Ein" → Mark Ein
 
-**Basis**: Mark Ein is a Washington, DC-based venture capitalist. He appears in the journal alongside "Mr. Rails" in the passage "Mr. Rails and Mr. Ein [clipping: blood on their hands]." Ein and Mitchell Rales are both part of the Washington Commanders ownership group, establishing a documented social connection between the two proposed identifications. The EFTA corpus contains emails forwarding NYJTL (New York Junior Tennis & Learning) event invitations to Epstein's jeevacation@gmail.com that reference Mark Ein as an honorary chair — though these are from 2016, post-journal.
+**Basis**: Mark Ein is a Washington, DC-based venture capitalist. He appears in the journal alongside "Mr. Rails" in the passage "Mr. Rails and Mr. Ein [clipping: blood on their hands]." Ein and Mitchell Rales are both part of the Washington Commanders ownership group, establishing a documented social connection between the two proposed identifications. The EFTA corpus contains NYJTL (New York Junior Tennis & Learning) fundraising emails forwarded to Epstein's jeevacation@gmail.com that list "Mark Ein" as Honorary Chair ([EFTA01739226](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01739226.pdf), [EFTA01738594](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01738594.pdf), [EFTA01743439](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01743439.pdf)) — though these are from 2016, post-journal. Separately, NYJTL returned Epstein's $50,000 donation as inconsistent with their gift acceptance policy ([EFTA00590920](https://www.justice.gov/epstein/files/DataSet%209/EFTA00590920.pdf)).
 
 **Uncertainty**: "Ein" is an uncommon but not unique surname. The corpus emails are from 2016 and do not establish a 2001–2004 connection. No corpus document places Ein in a trafficking context.
 
@@ -297,15 +273,17 @@ The journal names several individuals by surname only ("Mr. Rails," "Mr. Ein," e
 
 **Basis**: George Vradenburg (note: the public figure spells it "Vradenburg"; the journal writes "vradenberg") was Executive Vice President for Global and Strategic Policy at AOL Time Warner from January 2001 through late 2003 — precisely the journal's timeframe. He chaired the Phillips Collection for 14 years (2002–2016) and is a member of the Council on Foreign Relations and the Economic Club of Washington. He appears in the journal alongside "Mr. Rails" and "Mr. Ein."
 
-**Uncertainty**: The spelling differs slightly ("berg" vs "burg"). No corpus document mentions Vradenburg outside the journal. No public record connects him to Epstein.
+**Corpus evidence**: Three documents ([EFTA01195741](https://www.justice.gov/epstein/files/DataSet%209/EFTA01195741.pdf), [EFTA01195689](https://www.justice.gov/epstein/files/DataSet%209/EFTA01195689.pdf), [EFTA01071546](https://www.justice.gov/epstein/files/DataSet%209/EFTA01071546.pdf)) mention "George Vradenburg" in Alzheimer's healthcare policy context. These are policy documents that appear to have been forwarded within Epstein's circle, not direct correspondence.
 
-**Confidence**: POSSIBLE, based on the near-exact phonetic match and the AOL/DC milieu. No independent evidence connects Vradenburg to Epstein.
+**Uncertainty**: The spelling differs slightly ("berg" vs "burg"). The corpus documents mentioning Vradenburg are healthcare policy articles, not personal contact records. No public record connects him to Epstein.
+
+**Confidence**: POSSIBLE, based on the near-exact phonetic match and the AOL/DC milieu. The corpus documents place Vradenburg's name in Epstein's files but do not establish a personal connection.
 
 ### 6.4 "Mr. Kimsey" → James V. Kimsey
 
 **Basis**: James V. Kimsey (1939–2016) was the co-founder and first CEO of America Online (AOL). He was a major Washington, DC philanthropist and social figure. The journal states "Mr. Kimsey is deranged." He appears in the same "flights of horror" passage as Mr. Case (Steve Case was AOL's co-founder and succeeded Kimsey as CEO) and Mr. Leonsis (Ted Leonsis was an AOL executive).
 
-**Uncertainty**: No corpus document outside the journal connects Kimsey to Epstein. Kimsey died in 2016. No public record of an Epstein connection exists.
+**Uncertainty**: Kimsey's name appears once in the corpus on an "Illuminati Families" conspiracy list ([EFTA01082667](https://www.justice.gov/epstein/files/DataSet%209/EFTA01082667.pdf)) that was forwarded through Epstein's files — this is not a connection to Epstein, just a mass-circulated document. No personal correspondence, contact record, flight log, or email in the corpus connects Kimsey to Epstein. Kimsey died in 2016. No public record of an Epstein connection exists.
 
 **Confidence**: POSSIBLE, based on the AOL milieu coherence. No independent evidence connects Kimsey to Epstein.
 
@@ -313,17 +291,15 @@ The journal names several individuals by surname only ("Mr. Rails," "Mr. Ein," e
 
 **Basis**: Ted Leonsis was an AOL executive and is the owner of the Washington Capitals and Washington Wizards. The journal names him three times: in the "flights of horror" passage (p. 12 of EFTA02731420), and twice in EFTA02731465 — "Why would they all allow Mr. Leonsis wait this long? Why would he bring a friend and make a video?" and the procedure/blood passage.
 
-**Uncertainty**: No corpus document outside the journal connects Leonsis to Epstein's trafficking. Leonsis appears in incidental financial news in the corpus but not in any Epstein contact record, email, or flight log.
+**Uncertainty**: No corpus document outside the journal connects Leonsis to Epstein's trafficking. Leonsis appears in incidental news clips in the corpus — a journalist's bio mentioning "Capital's owner Ted Leonsis" alongside Dan Snyder ([EFTA00315128](https://www.justice.gov/epstein/files/DataSet%209/EFTA00315128.pdf)) and a market summary about Groupon appointing Leonsis ([EFTA02146320](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02146320.pdf)) — but not in any Epstein contact record, email, or flight log.
 
 **Confidence**: The identification of "Mr. Leonsis" as Ted Leonsis is straightforward (the surname is uncommon). Whether the person named in the journal is the same Ted Leonsis who is the public sports team owner is unverified by independent corpus evidence.
 
-### 6.6 "Mr. Sant" → Roger Sant (Proposed)
+### 6.6 "Mr. Sant" → Unresolved
 
-**Basis**: Roger Sant (born 1931) co-founded AES Corporation and was the Smithsonian Institution's first Board Chair (2001–2013). He is a central figure in Washington, DC philanthropy. His wife, Victoria Sant, served on the National Gallery of Art board (where Mitchell Rales is president) and the Phillips Collection board (where George Vradenburg served as chair).
+**Journal claim** ([EFTA02731426](https://www.justice.gov/epstein/files/DataSet%2012/EFTA02731420.pdf), p. 7): Listed among men who "are not who they say! Run run run!"
 
-**Uncertainty**: No corpus document mentions Roger Sant in any Epstein context. No public record connects him to Epstein. His age (~70 during the journal period) is noted. The identification rests entirely on the surname match and the DC institutional cluster coherence.
-
-**Confidence**: SPECULATIVE. The institutional overlaps with other proposed identifications are notable but circumstantial.
+No corpus document mentions anyone named Sant in an Epstein context. No public record connects any individual named Sant to Epstein. No candidate has been identified with sufficient evidence to propose a match. The name is listed here for completeness but no identification is offered.
 
 ### 6.7 "Ms. Vicki" → Unresolved
 
@@ -333,13 +309,29 @@ This describes a facilitator or handler with operations in Florida and Californi
 
 ### 6.8 The Cluster as a Whole
 
-Several proposed matches above fit a real early-2000s Washington social and institutional milieu: AOL executives (Case, Kimsey, Leonsis, Vradenburg), DC-area billionaires (Rales), DC investors (Ein), a Virginia congressman (Goodlatte), Washington NFL figures (Snyder, Gibbs), and DC philanthropists (Sant). These individuals are documented in public records as moving in overlapping social, institutional, and philanthropic circles.
+Several proposed matches above fit a real early-2000s Washington social and institutional milieu: AOL executives (Case, Kimsey, Leonsis, Vradenburg), DC-area billionaires (Rales), DC investors (Ein), a Virginia congressman (Goodlatte), and Washington NFL figures (Snyder, Gibbs). These individuals are documented in public records as moving in overlapping social, institutional, and philanthropic circles.
 
-That coherence suggests the author may have had knowledge of an authentic network, but it does not independently verify that each proposed match is correct or that each person participated in abuse. The journal's "Joe Gibbs is so nice" demonstrates the author differentiated between people she perceived as benign and people she described as abusers — the names cluster socially, but the allegations do not apply uniformly.
+However, the strength of evidence varies sharply within this cluster. **Steve Case** has documented Epstein network ties (Brockman/Edge Foundation emails). **Mitchell Rales** has a flight log entry on an Epstein aircraft (per external reporting). **Mark Ein** appears in NYJTL fundraising emails forwarded to Epstein. For the remainder — **Kimsey, Leonsis, and Vradenburg** — no Epstein contact record, email, or flight log exists in the 2.91 million-page corpus. Their proposed identifications rest entirely on surname matches and the social coherence of the cluster itself. Network fit alone does not verify an identification.
+
+The journal's "Joe Gibbs is so nice" demonstrates the author differentiated between people she perceived as benign and people she described as abusers — the names cluster socially, but the allegations do not apply uniformly.
 
 ---
 
-## 7. Names Without Independent Corpus Evidence
+## 7. Names With Partial or No Independent Corpus Evidence
+
+### 7.1 Names with corpus presence but no trafficking corroboration
+
+The following names appear in the journal AND in independent corpus documents establishing an Epstein connection, but no corpus document corroborates the journal's trafficking allegations.
+
+**Mr. Glickman** — "That my mom lied about Mr. Glickman all the time... Now he is dead." A "Ron Glickman" appears in an email to Epstein ([EFTA01758783](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01758783.pdf)): "ron glickman seemed nice (friendwise), he si friends with soros." Ron Glickman also appears on Epstein's personal call list ([EFTA02423056](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02423056.pdf), [EFTA02422351](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02422351.pdf)) alongside Dick Merkin and Marshall Rose. Whether the journal's "Mr. Glickman" is the same Ron Glickman is unknown — the journal provides no first name and describes him as dead. A "Donald Glickman" also appears in Deutsche Bank wealth management records as a prospect.
+
+**Mr. Conway** — Named in the journal without further context. A "John Conway" appears on Epstein's 2009 dinner guest list ([EFTA01780819](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01780819.pdf)) alongside Christine Maxwell, Brock Pierce, Rich Roberts, Gerry Sussman, and Al Seckel — all documented Epstein science network members. This is likely mathematician John Horton Conway (1937–2020). A separate "John Conway" appears as a hotel manager at The Cove, Atlantis, Bahamas ([EFTA02012930](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02012930.pdf)) — a hospitality employee, not necessarily relevant. The journal provides no first name.
+
+**Mr. Jacobson** — "but so does Jeffrey and Mr. Jacobson." A "Joe Jacobson" (MIT Media Lab professor) appears in multiple Joi Ito/Epstein scheduling emails ([EFTA01965812](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01965812.pdf), [EFTA01969381](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01969381.pdf), [EFTA01773532](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01773532.pdf), [EFTA02136463](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02136463.pdf)). He appears on Epstein's visit schedule alongside Seth Lloyd, Martin Nowak, Larry Summers, and Neri Oxman — all documented Epstein science associates. Whether the journal's "Mr. Jacobson" is MIT's Joe Jacobson is unknown.
+
+**Mr. Goodlatte** — "not who they say" list. Bob Goodlatte (R-VA) was a U.S. Representative for Virginia's 6th District (1993–2019). He appears in corpus news clips about FBI/DOJ oversight ([EFTA00160924](https://www.justice.gov/epstein/files/DataSet%209/EFTA00160924.pdf)) and immigration legislation, but only in his official capacity. No corpus document connects him to Epstein personally. The journal names him alongside DC-area figures, and a Virginia congressman fits the geographic cluster, but the identification rests on surname and geography alone.
+
+### 7.2 Names without independent corpus evidence
 
 The following names appear only in the journal. No independent EFTA document confirms their identity or connection to Epstein.
 
@@ -347,9 +339,9 @@ The following names appear only in the journal. No independent EFTA document con
 |------|----------------|---------------|
 | Mr. Colgan | "Why did Mr. Colgan agree to this!" / "flights of horror" list | 0 relevant independent hits |
 | The Gregorys | "flights of horror" list (plural — a couple) | 0 relevant hits |
-| Mr. Cecchi | "not who they say" list | 0 hits outside journal |
-| Mr. Mora | "not who they say" list | 0 hits outside journal (all OCR noise) |
-| Mr. Mody | "not who they say" list | 0 hits outside journal (all Moody's rating agency) |
+| Mr. Cecchi | "not who they say" list | 0 relevant hits (art inventory "Cecchi" is an artist, not a person match) |
+| Mr. Mora | "not who they say" list | 0 relevant hits (all OCR noise) |
+| Mr. Mody | "not who they say" list | 0 relevant hits (all Moody's rating agency) |
 | Mr. Caruthers | "will hurt you especially if Ghislaine is busy" | 0 relevant hits |
 | Mr. Islam | Same passage as Caruthers | Mike Islam (Core Club restaurant manager) appears in Epstein staff emails ([EFTA01746728](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01746728.pdf)); same person unconfirmed |
 | Mr. Robert + wife Jill | Recruited victim at a party | 0 relevant hits (no surname given) |
@@ -360,6 +352,7 @@ The following names appear only in the journal. No independent EFTA document con
 | Mr. Ludwig | "not who they say" list | Dr. Robert L. Ludwig (Epstein's radiologist, [EFTA01735277](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01735277.pdf)) exists in corpus; same person unconfirmed |
 | Joe Gibbs | "so nice" (contrast with Snyder) | Joe Gibbs Racing aircraft waiver in Epstein files ([EFTA00521006](https://www.justice.gov/epstein/files/DataSet%209/EFTA00521006.pdf)); context unclear |
 | Tracy | "Hope no relation to Tracy!" (re: Summers) | 0 relevant hits |
+| Mr. Sant | "not who they say" list | 0 relevant hits; see Section 6.6 |
 
 ---
 
