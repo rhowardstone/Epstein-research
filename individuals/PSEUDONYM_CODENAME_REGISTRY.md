@@ -1,6 +1,6 @@
 # Pseudonym, Codename & Encrypted Communications Registry
 
-> **Correction (April 2026).** The "MacGyver" codename was previously identified in this registry as **Benjamin Brafman** (HIGH CONFIDENCE). That identification was wrong. The correct identification is **Reid Weingarten** — established by a direct correspondence chain involving survivor-attorney Stan Pottinger ([EFTA00637474](https://www.justice.gov/epstein/files/DataSet%209/EFTA00637474.pdf), [EFTA02661816](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02661816.pdf)) and a July 2018 Mayo Clinic spine-surgery timeline match ([EFTA01004338](https://www.justice.gov/epstein/files/DataSet%209/EFTA01004338.pdf)). See the updated MacGyver entry in Part 1 and the resolved row in Part 8.
+> **Correction (April 2026).** The "MacGyver" codename was previously identified in this registry as **Benjamin Brafman** (HIGH CONFIDENCE). That identification was wrong. The correct identification is **Reid Weingarten** — established by (a) a direct correspondence chain involving survivor-attorney Stan Pottinger ([EFTA00637474](https://www.justice.gov/epstein/files/DataSet%209/EFTA00637474.pdf), [EFTA02661816](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02661816.pdf)), (b) a Sep 5 2016 same-day Ruemmler→Epstein→Weingarten chain about journalist Jeffrey Toobin ([EFTA02451579](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02451579.pdf), [EFTA00819238](https://www.justice.gov/epstein/files/DataSet%209/EFTA00819238.pdf)), and (c) a July 2018 Mayo Clinic spine-surgery timeline match ([EFTA01004338](https://www.justice.gov/epstein/files/DataSet%209/EFTA01004338.pdf)). See the updated MacGyver entry in Part 1 and the resolved row in Part 8.
 
 ## Methodology
 
@@ -106,6 +106,16 @@ Weingarten personally received the Pottinger message; nine months later, Ruemmle
 
 Later in the same thread (EFTA02661816), Epstein forwards a message from Ruemmler accusing Weingarten of treating her like *"less than a human being"* and being *"predatory and abusive,"* with Weingarten complaining that Ruemmler wants *"an apology"* — consistent with the *"trap I fell with MacGyver"* betrayal language elsewhere in the MacGyver thread.
 
+**Decisive evidence — Toobin triangulation (Sep 5, 2016)**
+
+A single-day three-way chain settles the identification independently of the Pottinger evidence:
+
+- **11:09 AM** — **Ruemmler to Epstein** ([EFTA02451579](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02451579.pdf)): *"Can you find out what McGyver told Toobin so it appears that we are half-way coordinated when I talk to him?"*
+- **12:20 PM** (71 minutes later) — **Epstein to Weingarten** ([EFTA00819238](https://www.justice.gov/epstein/files/DataSet%209/EFTA00819238.pdf)): *"have you heard anything from toobin or is he waiting on us"*
+- **Sep 6, 11:48 AM** — **Weingarten to Epstein** (same EFTA00819238): *"Have not heard from toobin...assume he is waiting on us"*
+
+Ruemmler asks what McGyver told Toobin. Epstein relays the same question to Weingarten. Weingarten answers. Same journalist (CNN/New Yorker's Jeffrey Toobin), same conversation, same day, one-hour lag. McGyver is the person Epstein asks when Ruemmler asks about McGyver — i.e., **Weingarten**. Credit: Katie Chenoweth (community).
+
 **Medical-timeline corroboration — July/August 2018**
 
 - **Jul 31, 2018**: Reid Weingarten undergoes spine surgery at Mayo Clinic. A colleague's update quotes Weingarten post-op: *"Reid is awake... he said 'the big dawg is back!'"* ([EFTA01004338](https://www.justice.gov/epstein/files/DataSet%209/EFTA01004338.pdf))
@@ -126,6 +136,8 @@ Ruemmler and Weingarten's long-rumored personal relationship explains the person
 
 **Full key documents**:
 - [EFTA00637474](https://www.justice.gov/epstein/files/DataSet%209/EFTA00637474.pdf) (DS9) — Apr 28, 2016: **Weingarten receives Pottinger message**
+- [EFTA02451579](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02451579.pdf) (DS11) — Sep 5, 2016: **Ruemmler: "what McGyver told Toobin"**
+- [EFTA00819238](https://www.justice.gov/epstein/files/DataSet%209/EFTA00819238.pdf) (DS9) — Sep 5–6, 2016: **Epstein asks Weingarten about Toobin; Weingarten answers**
 - [EFTA02664944](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02664944.pdf) (DS11) — Jan 11, 2017: "similar mannerisms between Trump and McGyver"
 - [EFTA02474628](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02474628.pdf) (DS11) — Jan 22, 2016: "talking to macgiver, disturbs me"
 - [EFTA02386479](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02386479.pdf) (DS11) — Jan 23, 2016: "he is very close to being a psychopath"
