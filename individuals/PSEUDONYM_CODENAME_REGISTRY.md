@@ -1,5 +1,7 @@
 # Pseudonym, Codename & Encrypted Communications Registry
 
+> **Correction (April 2026).** The "MacGyver" codename was previously identified in this registry as **Benjamin Brafman** (HIGH CONFIDENCE). That identification was wrong. The correct identification is **Reid Weingarten** — established by a direct correspondence chain involving survivor-attorney Stan Pottinger ([EFTA00637474](https://www.justice.gov/epstein/files/DataSet%209/EFTA00637474.pdf), [EFTA02661816](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02661816.pdf)) and a July 2018 Mayo Clinic spine-surgery timeline match ([EFTA01004338](https://www.justice.gov/epstein/files/DataSet%209/EFTA01004338.pdf)). See the updated MacGyver entry in Part 1 and the resolved row in Part 8.
+
 ## Methodology
 
 This registry was compiled via:
@@ -88,67 +90,60 @@ This registry was compiled via:
 
 ---
 
-### "MacGyver" / "Macgiver" (The Lawyer) → Benjamin Brafman — HIGH CONFIDENCE
+### "MacGyver" / "McGyver" / "Macgiver" (The Lawyer) → Reid Weingarten — CONFIRMED
 
-A person discussed extensively in emails between Jeffrey Epstein and Kathryn Ruemmler (former Obama White House Counsel), 2015–2018. The corpus contains TWO DISTINCT uses of "MacGyver": (1) a carpenter/handyman on Little St. James, and (2) a defense attorney discussed by Epstein and Ruemmler. This entry covers the attorney.
+A person discussed extensively in emails between Jeffrey Epstein and Kathryn Ruemmler (former Obama White House Counsel), 2015–2018. The corpus contains TWO DISTINCT uses of "MacGyver": (1) a carpenter/handyman on Little St. James, and (2) a defense attorney — **Reid Weingarten**, senior partner at Steptoe & Johnson — discussed by Epstein and Ruemmler. This entry covers the attorney.
 
-**External consensus (Defector, American Prospect, CNN, multiple Substacks): MacGyver = Donald Trump**
+**Decisive evidence — Pottinger correspondence chain**
 
-Based primarily on [EFTA02664944](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02664944.pdf) (DS11, Jan 11, 2017): Ruemmler: "Not to disturb you, but I am struck by the similar mannerisms between Trump and McGyver." Defector (Nov 18, 2025) interpreted this as Ruemmler joking that Trump reminds her of the TV character MacGyver. No major outlet has questioned this identification.
+The identification is established by tracing survivor-attorney Stan Pottinger's contact through the Epstein/Weingarten/Ruemmler thread. Pottinger worked with Boies and Edwards representing Epstein's victims.
 
-**Corpus-based counter-argument: MacGyver = Benjamin Brafman (defense attorney)**
+- [EFTA00637474](https://www.justice.gov/epstein/files/DataSet%209/EFTA00637474.pdf) (DS9, Apr 28, 2016) — **Reid Weingarten to Jeffrey E.**: *"Pottinger left another message...it was actually filed 2 days ago....it is 'so out there' that no one has run with it...she is working with Jerry springer's producer and trying to sell the story....will try to get the complaint"*
 
-The "similar mannerisms" email COMPARES Trump to MacGyver, implying they are different people who share traits. Other emails describe MacGyver in terms that fit a defense attorney, not a politician:
+- [EFTA02661816](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02661816.pdf) (DS11, Jan 23, 2017) — **Kathryn Ruemmler to Jeffrey E.**: *"This is the one that Pottinger went to McGyver about?"*
 
-- "Was asked and passed" to represent Eric Schneiderman ([EFTA02446582](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02446582.pdf)) — you "ask" a lawyer to take your case; politicians don't represent defendants
-- "Macgiver loves representing misogynists — he empathizes with and relates to them" — language describing a defense attorney's practice
-- "even more fitting would be macgiver defending" ([EFTA02503163](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02503163.pdf)) — legal defense context
-- "Don't be too charmed/persuaded by your boy....or you will fall into trap I fell with MacGyver" ([EFTA02597845](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02597845.pdf), Jul 9, 2018) — Ruemmler personally "fell into a trap" with MacGyver
-- "he is very close to being a psychopath -- he has no conscience" ([EFTA02386479](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02386479.pdf)) — Epstein agrees: "talking to macgiver, disturbs me, and that takes a lot"
-- "Am I being a total bitch by not sending MacGyver a note or something? Obviously I don't wish him ill will. Jail, yes, but no paralysis." ([EFTA02600187](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02600187.pdf), Aug 2, 2018)
-- "I am sending a plane to take him home" ([EFTA02599423](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02599423.pdf), Aug 3, 2018) — Epstein sends a plane for MacGyver after a medical setback, relaying his restrictions: "no booze, driving, lifting, working, seapaddling, or really anything but walking for 3 fucking months"
+Weingarten personally received the Pottinger message; nine months later, Ruemmler asks Epstein whether a new Pottinger matter is "the one that Pottinger went to McGyver about." Since Weingarten is the documented recipient of the Pottinger contact, **McGyver = Weingarten**.
 
-**The Bannon iMessage clincher** — [EFTA01615580](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01615580.pdf) (DS10, Jan 20, 2019): Epstein and Steve Bannon discuss Harvey Weinstein:
-- Epstein: "Harvey Weinstein, like Donald can't find anyone to be his lawyer"
-- Bannon: "Yes alex spiro and burck both have worked with **Ben** and say Harvey can't handle that he is going away for 20 years"
-- Epstein: "Yes but like djt. He told **ben** how to fight it and made some horrific mistakes. instead of letting the girl that was a proven fake wait until trial. That would have damaged all, he wanted it out in the press that she was untruthful. Amateur bully"
+Later in the same thread (EFTA02661816), Epstein forwards a message from Ruemmler accusing Weingarten of treating her like *"less than a human being"* and being *"predatory and abusive,"* with Weingarten complaining that Ruemmler wants *"an apology"* — consistent with the *"trap I fell with MacGyver"* betrayal language elsewhere in the MacGyver thread.
 
-**"Ben" = Benjamin Brafman.** Brafman had just separated from Weinstein (Jan 2019). Alex Spiro later became Weinstein's attorney. "Burck" = William Burck, another prominent defense attorney. Epstein critiques Brafman's strategy — saying Brafman told Weinstein how to fight but Weinstein was an "amateur bully" who wouldn't save the credibility attack for trial. This proves Epstein knew Brafman well enough to discuss legal strategy with Bannon by first name.
+**Medical-timeline corroboration — July/August 2018**
 
-**Evidence summary for Brafman identification**:
+- **Jul 31, 2018**: Reid Weingarten undergoes spine surgery at Mayo Clinic. A colleague's update quotes Weingarten post-op: *"Reid is awake... he said 'the big dawg is back!'"* ([EFTA01004338](https://www.justice.gov/epstein/files/DataSet%209/EFTA01004338.pdf))
+- **Aug 2, 2018**: Ruemmler to Epstein re: MacGyver: *"Jail, yes, but no paralysis."* ([EFTA02600187](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02600187.pdf)) — spine-surgery risk language
+- **Aug 3, 2018**: Epstein: *"I am sending a plane to take him home... from macgiver I get this: no booze, driving, lifting, working, seapaddling, or really anything but walking for 3 fucking months"* — same thread references *"mayo"* as the location ([EFTA02599423](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02599423.pdf)). Mayo Clinic + 3-month walking-only recovery matches Weingarten's spine surgery exactly.
 
-| Evidence | Match |
-|----------|-------|
-| Defense attorney known to both Epstein and Ruemmler | YES — Brafman is one of NYC's most prominent defense attorneys |
-| Represented Harvey Weinstein (hired Nov 2017, split Jan 2019) | YES — "MacGyver loves representing misogynists" (May 2018) |
-| Was asked to represent Schneiderman (May 2018) and declined | PLAUSIBLE — conflict of interest (Schneiderman's AG office investigated Weinstein) |
-| "Ben" reference in Bannon iMessage (Jan 2019) | YES — Brafman discussed by first name in Weinstein context |
-| March 2018: "even more fitting would be macgiver defending" | Perfect timing — Brafman was already Weinstein's attorney |
-| Ruemmler had personal relationship ("traumatized," "fell into trap") | Consistent — both were prominent in NYC legal community |
-| Epstein sent a plane for MacGyver (Aug 2018) | Indicates person of stature |
-| Represented DSK (2011) — DSK article in corpus | EFTA01839062 — Brafman successfully defended DSK |
-| Dershowitz named Brafman as volunteer attorney in Giuffre case | YES — "Ben Brafman is one of the leading criminal lawyers... He has volunteered to help me" ([EFTA00601154](https://www.justice.gov/epstein/files/DataSet%209/EFTA00601154.pdf)) |
-| Aleph Institute newsletter in Epstein's inbox | YES — Brafman received Champion of Hope Award ([EFTA00703171](https://www.justice.gov/epstein/files/DataSet%209/EFTA00703171.pdf)) |
-| Brafman and "MacGyver" never co-occur in same document | YES — consistent with same person (you don't use a codename AND real name together) |
-| "Similar mannerisms" to Trump | Both are brash, confident New Yorkers — comparison implies different people |
+**Relationship context — Ruemmler/Weingarten**
+
+Ruemmler and Weingarten's long-rumored personal relationship explains the personal-betrayal language: *"fall into trap I fell with MacGyver"* ([EFTA02597845](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02597845.pdf), Jul 9, 2018), *"still traumatized by the Macgyver thing"* ([EFTA02702868](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02702868.pdf), Apr 20, 2016), and *"Macgiver? Are you f\*ing kidding me???!!!"* ([EFTA02388935](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02388935.pdf), May 23, 2017).
+
+**Weingarten in Epstein's orbit — corpus evidence**
+
+- Weingarten was Epstein's SDNY defense attorney in 2019 ([EFTA00030184](https://www.justice.gov/epstein/files/DataSet%209/EFTA00030184.pdf), listing "Martin Weinberg / Reid Weingarten / Marc Fernich")
+- Direct Epstein-Weingarten correspondence since at least Jan 2012 re: Kazakh contacts ([EFTA00422046](https://www.justice.gov/epstein/files/DataSet%209/EFTA00422046.pdf))
+- Epstein's "notes to self" emails pair "weingarten, ruemmler." as a unit across at least five documents ([EFTA01621272](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01621272.pdf), [EFTA02379917](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02379917.pdf), [EFTA02488023](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02488023.pdf), [EFTA02487601](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02487601.pdf), [EFTA02713507](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02713507.pdf))
+- "reid to call" — Epstein to Ruemmler, Sep 30, 2017 ([EFTA02592468](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02592468.pdf)) — "Reid" understood without clarification
+- Weingarten's legal career matches the MacGyver descriptors: a career white-collar defender at Steptoe & Johnson who has represented Jeffrey Skilling, Sheldon Silver, John Rowland, and Roger Clemens — fitting "Macgiver loves representing misogynists" ([EFTA02446582](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02446582.pdf), May 7, 2018) and the "similar mannerisms between Trump and McGyver" ([EFTA02664944](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02664944.pdf), Jan 11, 2017) comparison
 
 **Full key documents**:
-- [EFTA02664944](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02664944.pdf) (DS11) — Jan 11, 2017: "I am struck by the similar mannerisms between Trump and McGyver"
-- [EFTA02474628](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02474628.pdf) (DS11) — Jan 22, 2016: "talking to macgiver, disturbs me, and that takes a lot"
+- [EFTA00637474](https://www.justice.gov/epstein/files/DataSet%209/EFTA00637474.pdf) (DS9) — Apr 28, 2016: **Weingarten receives Pottinger message**
+- [EFTA02664944](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02664944.pdf) (DS11) — Jan 11, 2017: "similar mannerisms between Trump and McGyver"
+- [EFTA02474628](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02474628.pdf) (DS11) — Jan 22, 2016: "talking to macgiver, disturbs me"
 - [EFTA02386479](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02386479.pdf) (DS11) — Jan 23, 2016: "he is very close to being a psychopath"
-- [EFTA02702868](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02702868.pdf) (DS11) — Apr 20, 2016: "I am still traumatized by the Macgyver thing."
-- [EFTA02453156](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02453156.pdf) (DS11) — Aug 15, 2016: "I think you should work with macgyver on this. I don't/can't trust him. He is a bad guy who cares only about himself."
+- [EFTA02702868](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02702868.pdf) (DS11) — Apr 20, 2016: "still traumatized by the Macgyver thing"
+- [EFTA02453156](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02453156.pdf) (DS11) — Aug 15, 2016: "work with macgyver... He is a bad guy who cares only about himself"
+- [EFTA02458543](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02458543.pdf) (DS11) — Jul 11, 2016: "you and MacGyver are such kindred spirits"
+- [EFTA02661816](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02661816.pdf) (DS11) — Jan 23, 2017: **"this is the one that Pottinger went to McGyver about?"**
 - [EFTA02388935](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02388935.pdf) (DS11) — May 23, 2017: "Macgiver? Are you f*ing kidding me???!!!"
 - [EFTA02503163](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02503163.pdf) (DS11) — Mar 15, 2018: "even more fitting would be macgiver defending"
-- [EFTA02446168](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02446168.pdf) (DS11) — May 7, 2018: Epstein: "rpersented by macgiver" (re: Schneiderman)
-- [EFTA02446582](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02446582.pdf) (DS11) — May 7, 2018: "Was asked and passed. Macgiver loves representing misogynists"
-- [EFTA02458543](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02458543.pdf) (DS11) — Jul 11, 2016: "No wonder you and MacGyver are such kindred spirits....no surgery"
-- [EFTA02597845](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02597845.pdf) (DS11) — Jul 9, 2018: "Don't be too charmed/persuaded by your boy....or you will fall into trap I fell with MacGyver"
-- [EFTA02600187](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02600187.pdf) (DS11) — Aug 2, 2018: "Jail, yes, but no paralysis."
-- [EFTA02599423](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02599423.pdf) (DS11) — Aug 3, 2018: "I am sending a plane to take him home"
-- [EFTA01615580](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01615580.pdf) (DS10) — Jan 20, 2019: "Ben" / Brafman discussed with Bannon re: Weinstein
+- [EFTA02446582](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02446582.pdf) (DS11) — May 7, 2018: "Macgiver loves representing misogynists"
+- [EFTA02597845](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02597845.pdf) (DS11) — Jul 9, 2018: "fall into trap I fell with MacGyver"
+- [EFTA01004338](https://www.justice.gov/epstein/files/DataSet%209/EFTA01004338.pdf) (DS9) — Jul 31, 2018: **Weingarten spine surgery at Mayo**
+- [EFTA02600187](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02600187.pdf) (DS11) — Aug 2, 2018: "Jail, yes, but no paralysis"
+- [EFTA02599423](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02599423.pdf) (DS11) — Aug 3, 2018: "plane to take him home... macgiver... mayo"
 
-**DISTINCT FROM**: "MacGyver" the island worker — a carpenter on Little Saint James ([EFTA02487807](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02487807.pdf), DS11: "Can I hire an extra carpenter for 2 weeks to help Sylvester and Macgyver on the Master Bedroom and Library Roof?"; [EFTA00495911](https://www.justice.gov/epstein/files/DataSet%209/EFTA00495911.pdf), DS9: "Brian" described as "the ultimate 'Macgyver' with regard to the unending requirements for immediate fixes," $300/day worker)
+**Previously considered: Benjamin Brafman (ruled out).** An earlier version of this registry identified MacGyver as Brafman, based on a "Ben" reference in a Bannon iMessage ([EFTA01615580](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01615580.pdf), Jan 20, 2019) in which Epstein and Bannon discuss Harvey Weinstein's defense. That identification conflated two separate conversations: "Ben" in the Bannon exchange refers to Brafman in the specific context of Weinstein's defense, not as the MacGyver codename. No Brafman/Pottinger connection and no Brafman/Ruemmler personal relationship is documented in the corpus. Ruled out by the Pottinger correspondence chain and medical timeline above.
+
+**DISTINCT FROM**: "MacGyver" the island worker — a carpenter on Little Saint James ([EFTA02487807](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02487807.pdf), DS11: "Can I hire an extra carpenter for 2 weeks to help Sylvester and Macgyver on the Master Bedroom and Library Roof?"; [EFTA00495911](https://www.justice.gov/epstein/files/DataSet%209/EFTA00495911.pdf), DS9: "Brian" described as "the ultimate 'Macgyver' with regard to the unending requirements for immediate fixes," $300/day worker).
 
 ---
 
@@ -878,7 +873,7 @@ Cross-referenced against mainstream media, Substacks, Reddit (r/epstein), and in
 | "Dr. Evil" = Dr. Steven Victor | Not reported anywhere | Full identification with smoking gun (EFTA01991050), $20K free treatment pipeline, 12+ documents | **Yes — completely original** |
 | "MEGAMELSY" = Dr. Melanie Walker | Not reported as codename | Full identification with 7+ proofs, WEF/Gates/Sinofsky triangulation | **Yes — completely original** |
 | "Mr. Alien" = Woody Allen | Not reported | Carlyle Hotel clarinet reference | **Yes — completely original** |
-| "MacGyver" = Benjamin Brafman | External consensus says Trump (Defector, Prospect) | Brafman identification via "Ben" Bannon iMessage + 10-point evidence table | **Yes — counter-analysis is original** |
+| "MacGyver" = Reid Weingarten | External consensus says Trump (Defector, Prospect) | Weingarten identification via Pottinger correspondence chain (EFTA00637474 → EFTA02661816), Mayo spine-surgery timeline match (EFTA01004338), and Epstein's "weingarten, ruemmler" notes-to-self pattern | **Yes — completely original** |
 | "The Apprentice" (contracts) | Tim Barker ([Our Time Substack, Feb 21 2026](https://ourtime.substack.com/p/notes-on-epstein-contract-with-the)) | Barker published one contract; we document 12-15 signed copies as systemic pattern | **Partially** |
 | "Jeffery Edwards" | Not reported | Epstein email alias, questioned by childhood friend | **Yes — completely original** |
 | MARIUS ROBERT FORTELNI | Passport seizure reported; FBI 2025 emails NOT | FBI internal scramble to document passport, FORTELNI identity in Austrian records | **Partially** |
@@ -992,7 +987,7 @@ Social media and some outlets claimed various food terms in the Epstein files we
 
 | Claimed Codename | Corpus Finding | Status |
 |------------------|----------------|--------|
-| "MacGyver" | Ruemmler COMPARED Trump to MacGyver ("similar mannerisms") — implies they are different people. Corpus evidence points to Benjamin Brafman (see Part 1) | **DISPUTED** — see MacGyver entry above |
+| "MacGyver" | Ruemmler COMPARED Trump to MacGyver ("similar mannerisms") — implies they are different people. Corpus evidence identifies MacGyver as Reid Weingarten (see Part 1), corroborated by the Pottinger correspondence chain and July 2018 Mayo spine-surgery timeline | **RESOLVED — MacGyver = Weingarten, not Trump** |
 | "The Donald" | Used openly by Epstein, Bannon, Mandelson, Ruemmler, Soon-Yi Previn, Landon Thomas Jr. | **Public nickname, NOT a codename** |
 | "Boy Donald" | Mark Epstein to Jeffrey: "what is your boy Donald up to now?" | **Casual nickname from brother, NOT a codename** |
 | "Bubba" | Mark Epstein email; Mark later denied it referred to Clinton | **Disputed, NOT confirmed as Trump** |
@@ -1000,10 +995,10 @@ Social media and some outlets claimed various food terms in the Epstein files we
 | "The big guy" | CONFIRMED in corpus: Weingarten to Epstein re: "hard facts that are very difficult for the big guy to explain" ([HOUSE_OVERSIGHT_032821](https://epstein-data.com/full_text_corpus/pages?efta_number=HOUSE_OVERSIGHT_032821)); Landon Thomas: "Maybe even the big guy gives it a read... from the failing NYT" ([EFTA02367893](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02367893.pdf)). **BUT ALSO**: Fiszel to Kahn: "Does the big guy have any friends?" = Epstein in financial context ([EFTA01031195](https://www.justice.gov/epstein/files/DataSet%209/EFTA01031195.pdf)) | **NOT a codename** — context-dependent phrase (= Trump in political contexts, = Epstein in financial contexts) |
 | "That dog that hasn't barked" | Epstein to Maxwell, Apr 2, 2011 | **Sherlock Holmes literary reference, NOT a codename** |
 
-**Conclusion**: The corpus does not support the existence of a secret Trump codename. Trump was discussed by name thousands of times. The "MacGyver" identification (Defector) rests on one email that actually COMPARES Trump to MacGyver, and the corpus evidence points to a defense attorney instead. Per our POTUS protocol: all evidence presented for both interpretations; no conclusion drawn; labeled DISPUTED where ambiguous.
+**Conclusion**: The corpus does not support the existence of a secret Trump codename. Trump was discussed by name thousands of times. The "MacGyver" identification (Defector) rests on one email that actually COMPARES Trump to MacGyver; the corpus evidence identifies MacGyver as Epstein's defense attorney **Reid Weingarten** (see the MacGyver entry in Part 1 for the Pottinger correspondence chain and Mayo spine-surgery timeline). Per our POTUS protocol: all evidence presented for each interpretation; no conclusion drawn where ambiguous.
 
 ---
 
-*Registry compiled and updated Feb 26, 2026. Systematic deep-dive: 6 query groups across 2.91M pages, 23 external sources scraped, 85+ internet claims catalogued and verified against corpus. Batch 2: Dr. Evil = Dr. Steven Victor (CONFIRMED), MEGAMELSY = Dr. Melanie Walker (CONFIRMED), MacGyver = Benjamin Brafman (HIGH CONFIDENCE), 5 ProtonMail addresses inventoried, Shmitka Air/Freedom Air entity chain mapped, 21-account JPMorgan cluster documented, Rubin "Just Jeff" pseudonym proposal documented. Batch 3: Full Skype audit (620 pages), novelty verification (7/10 findings original), internet claims cross-reference (31 CONFIRMED, 22 DEBUNKED, 2 DISPUTED, 3 UNCONFIRMED). Added: "The Duke" display name, 9-entry abbreviation table, Brafman/Dershowitz evidence, Adriana Mucinska alias, littlestjeff Yahoo AMT data, 3 plain-text passwords, 7 food codes debunked with EFTAs, 8 Sekolapedia codes debunked, George C. = George Church correction.*
+*Registry compiled and updated Feb 26, 2026. Systematic deep-dive: 6 query groups across 2.91M pages, 23 external sources scraped, 85+ internet claims catalogued and verified against corpus. Batch 2: Dr. Evil = Dr. Steven Victor (CONFIRMED), MEGAMELSY = Dr. Melanie Walker (CONFIRMED), MacGyver = Reid Weingarten (CONFIRMED — corrected April 2026 from earlier Brafman identification; see correction note at top), 5 ProtonMail addresses inventoried, Shmitka Air/Freedom Air entity chain mapped, 21-account JPMorgan cluster documented, Rubin "Just Jeff" pseudonym proposal documented. Batch 3: Full Skype audit (620 pages), novelty verification (7/10 findings original), internet claims cross-reference (31 CONFIRMED, 22 DEBUNKED, 2 DISPUTED, 3 UNCONFIRMED). Added: "The Duke" display name, 9-entry abbreviation table, Adriana Mucinska alias, littlestjeff Yahoo AMT data, 3 plain-text passwords, 7 food codes debunked with EFTAs, 8 Sekolapedia codes debunked, George C. = George Church correction.*
 
 *All identifications are based solely on documents in the public EFTA corpus unless otherwise noted. External sources are cited with URLs for independent verification. CONFIRMED identifications have multiple independent documentary proofs. PROBABLE identifications have strong but circumstantial evidence. UNCONFIRMED entries document the codename's existence without claiming to know who is behind it. Where external consensus and corpus analysis diverge, both interpretations are presented.*
