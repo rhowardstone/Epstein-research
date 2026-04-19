@@ -391,6 +391,24 @@ Well-known British tabloid nickname for Prince Andrew, used within Epstein's cir
 
 Not a codename — a widely-known public nickname used in media and by Epstein/Maxwell as a sexual joke.
 
+### "PA" → Prince Andrew — CONFIRMED (used by David Stern)
+
+Royal-entourage lobbyist David Stern used two-letter codenames "PA" and "F" when corresponding with Epstein about Andrew and Sarah Ferguson. The pair appears together in a single email, which locks both identifications:
+
+- [EFTA01779935](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01779935.pdf) (DS10) — Aug 29, 2010: Stern to Epstein: "**PA** wants to know if you spoke to **F.** during the last couple of days?"
+- [EFTA01779984](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01779984.pdf) (DS10) — May 17, 2010: Stern to Epstein: "You agree for me to accept **PA** meeting invitation on 7 June?"
+- [EFTA02021305](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02021305.pdf) (DS10) — Jun 6, 2012: Stern writing of **PA**: "Great events with PA these last few days. Very interesting since his mummy only appeared with her eldest & his family" — "his mummy" = Queen Elizabeth II; "eldest" = Prince Charles.
+
+*Credit: Katie Chenoweth (community, Apr 18 2026).*
+
+### "F" → Sarah Ferguson, Duchess of York — CONFIRMED (used by David Stern)
+
+Same shorthand system as "PA" above. In addition to the paired appearance in [EFTA01779935](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01779935.pdf):
+
+- [EFTA01856418](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01856418.pdf) (DS10) — Sep 11, 2011: Stern to Epstein: "pic of **F** from friday. not the prettiest sight...." — the email links to a Daily Mail article whose URL (`...Princess-Beatrice-graduates-Goldsmiths-Prince-Andrew-Sarah-Ferguson-watch...`) contains "Sarah-Ferguson", locking the referent.
+
+*Credit: Katie Chenoweth (community, Apr 18 2026).*
+
 ### "Russian Bomb" / "Atomic" — Young Woman's Workplace Nickname
 
 - [EFTA01616998](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01616998.pdf) (DS10) — Jun 25, 2019 Skype: Woman tells Epstein: "They gave me a nickname at work... **RUSSIAN BOMB**". Epstein responds: "**Atomic**."
@@ -435,6 +453,19 @@ Epstein was literally godfather to Darren Indyke's twins and had a "goddaughter"
 ### "Said the spider to.." — Epstein Self-Reference to Bannon
 
 - [EFTA01615114](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01615114.pdf) (DS10) — Jun 3, 2018 Skype chat: Epstein opens conversation with Bannon: "Said the spider to.. where ru?"
+
+### "WJC wjc" (email sender header) → Bill Clinton's BlackBerry, operated by Doug Band — CONFIRMED
+
+Across 2002 correspondence with Ghislaine Maxwell ("G. Max"), a recurring email header pattern appears on both the `To:` and `From:` lines: **`(WJC wjc)[@]`** (or the abbreviated `WJC wjc`). `WJC` = William Jefferson Clinton; the address is a Cingular imcingular.com BlackBerry (`16180476.<id>@imcingular.com`). In-thread content establishes the operator is **Doug Band**, not Clinton himself:
+
+- [EFTA02333550](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02333550.pdf) (DS11) — Oct 11, 2002: "(WJC wjc)" writes to G. Max: "Julie would like andrews address to send a ty for dinner for clinton" — author speaks OF Clinton in the third person while using the WJC header.
+- [EFTA02333590](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02333590.pdf) (DS11): Maxwell to "(WJC wjc)[@]": "oh **Douglas** - oh **Douglas** - wherefore art though Douglas" — the "WJC wjc" counterpart is addressed by name as Douglas.
+- [EFTA02333508](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02333508.pdf), [EFTA02333561](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02333561.pdf), [EFTA02333563](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02333563.pdf), [EFTA02333568](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02333568.pdf), [EFTA02333574](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02333574.pdf), [EFTA02333603](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02333603.pdf) — further messages to/from `WJC wjc` across 2002 with pet names "Booboo", "devil booby", social logistics for "your boss" (events for which Band was Clinton's advance man), confirming the pattern.
+- [EFTA02333504](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02333504.pdf) — Apr 19, 2002: "(WJC wjc)" re: "It came out last night in the london tabloids" — operator is tracking media on Clinton's behalf.
+
+The significance is evidentiary: emails FROM `(WJC wjc)` that *read* as if sent from Bill Clinton's address were written by Doug Band using Clinton's BlackBerry credentials. Clinton's personal authorship of any individual 2002 message in this thread cannot be inferred from the header alone.
+
+*Credit: Katie Chenoweth (community, Apr 18 2026).*
 
 ---
 
