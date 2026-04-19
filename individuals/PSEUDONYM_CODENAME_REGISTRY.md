@@ -114,7 +114,7 @@ A single-day three-way chain settles the identification independently of the Pot
 - **12:20 PM** (71 minutes later) — **Epstein to Weingarten** ([EFTA00819238](https://www.justice.gov/epstein/files/DataSet%209/EFTA00819238.pdf)): *"have you heard anything from toobin or is he waiting on us"*
 - **Sep 6, 11:48 AM** — **Weingarten to Epstein** (same EFTA00819238): *"Have not heard from toobin...assume he is waiting on us"*
 
-Ruemmler asks what McGyver told Toobin. Epstein relays the same question to Weingarten. Weingarten answers. Same journalist (CNN/New Yorker's Jeffrey Toobin), same conversation, same day, one-hour lag. McGyver is the person Epstein asks when Ruemmler asks about McGyver — i.e., **Weingarten**. Credit: Katie Chenoweth (community).
+Ruemmler asks what McGyver told Toobin. Epstein relays the same question to Weingarten. Weingarten answers. Same journalist (CNN/New Yorker's Jeffrey Toobin), same conversation, same day, one-hour lag. McGyver is the person Epstein asks when Ruemmler asks about McGyver — i.e., **Weingarten**.
 
 **Medical-timeline corroboration — July/August 2018**
 
@@ -399,15 +399,11 @@ Royal-entourage lobbyist David Stern used two-letter codenames "PA" and "F" when
 - [EFTA01779984](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01779984.pdf) (DS10) — May 17, 2010: Stern to Epstein: "You agree for me to accept **PA** meeting invitation on 7 June?"
 - [EFTA02021305](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02021305.pdf) (DS10) — Jun 6, 2012: Stern writing of **PA**: "Great events with PA these last few days. Very interesting since his mummy only appeared with her eldest & his family" — "his mummy" = Queen Elizabeth II; "eldest" = Prince Charles.
 
-*Credit: Katie Chenoweth (community, Apr 18 2026).*
-
 ### "F" → Sarah Ferguson, Duchess of York — CONFIRMED (used by David Stern)
 
 Same shorthand system as "PA" above. In addition to the paired appearance in [EFTA01779935](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01779935.pdf):
 
 - [EFTA01856418](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01856418.pdf) (DS10) — Sep 11, 2011: Stern to Epstein: "pic of **F** from friday. not the prettiest sight...." — the email links to a Daily Mail article whose URL (`...Princess-Beatrice-graduates-Goldsmiths-Prince-Andrew-Sarah-Ferguson-watch...`) contains "Sarah-Ferguson", locking the referent.
-
-*Credit: Katie Chenoweth (community, Apr 18 2026).*
 
 ### "Russian Bomb" / "Atomic" — Young Woman's Workplace Nickname
 
@@ -476,7 +472,24 @@ Celina Dubin — daughter of Glenn Dubin and Eva Andersson-Dubin (Epstein's form
 - Epstein authorizing large Amex gift cards for Celina's birthday: [EFTA01899637](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01899637.pdf), [EFTA01899903](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01899903.pdf), [EFTA01899840](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01899840.pdf) (Mar 2013: $19,000 + $25,000).
 - Photo files labeled `120820 CelinaDubin_XXX.jpg` exchanged between Lesley Groff and Epstein ([EFTA01888450](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01888450.pdf), [EFTA01888589](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01888589.pdf)).
 
-*Credit: "Unc" lead initially raised by **Heather** (community, Apr 18 2026); resolved to Celina/Glenn Dubin here.*
+
+### "Poppi" → Glenn Dubin — CONFIRMED
+
+Bidirectional pet-nickname with "Unc": Glenn Dubin signs off as "poppi" to Epstein, and Epstein uses "poppi" to refer to Glenn when writing to family or assistants. This is the counterpart to Celina/Glenn's "Unc" for Epstein.
+
+**Self-signoff by Glenn Dubin**:
+- [EFTA01256057](https://www.justice.gov/epstein/files/DataSet%209/EFTA01256057.pdf) (Oct 1 2008): Glenn Dubin to Epstein + Jes Staley: *"**unc**, two very interesting pieces about the credit crisis. take care, **poppi**"* — same message locks both nicknames.
+- [EFTA01300051](https://www.justice.gov/epstein/files/DataSet%209/EFTA01300051.pdf) — further Dubin signoff as "poppi".
+
+**Epstein uses "poppi" to refer to Glenn Dubin** (third-person / addressee):
+- [EFTA01842566](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01842566.pdf): Epstein: *"I am taking **poppi** to see Icons art at 5"* — scheduling line about Dubin.
+- [EFTA01901827](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01901827.pdf), [EFTA01904961](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01904961.pdf) (Feb 15 2013, `To: Dubin, Glenn`): *"**poppi**, Larry Summers, his wife, Woody Allen and soon yi will be at the house..."* — Epstein addressing Glenn as "poppi" in salutation.
+- [EFTA02028120](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02028120.pdf), [EFTA01777797](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01777797.pdf) (Apr 3 2011): Epstein: *"can you have **poppi** call me"* — request to assistant/Eva to route a call.
+- [EFTA01783646](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01783646.pdf) (Sep 14 2016, to Eva Dubin): *"how **poppi**? mom?"* — family check-in.
+- [EFTA01752024](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01752024.pdf): *"screen woodys next movie on wed with **poppi**"*.
+- [EFTA01761771](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01761771.pdf), [EFTA01761589](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01761589.pdf) — further guest-list / household threads referring to Glenn as "poppi".
+
+**How to search**: the bare term `poppi` is distinctive (not a common OCR artifact) and reliably co-occurs with Dubin/Epstein/Eva/Celina threads. Treat any "poppi" hit in a Dubin-adjacent thread as a Glenn Dubin reference.
 
 ### "WJC wjc" (email sender header) → Bill Clinton's BlackBerry, operated by Doug Band — CONFIRMED
 
@@ -488,8 +501,6 @@ Across 2002 correspondence with Ghislaine Maxwell ("G. Max"), a recurring email 
 - [EFTA02333504](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02333504.pdf) — Apr 19, 2002: "(WJC wjc)" re: "It came out last night in the london tabloids" — operator is tracking media on Clinton's behalf.
 
 The significance is evidentiary: emails FROM `(WJC wjc)` that *read* as if sent from Bill Clinton's address were written by Doug Band using Clinton's BlackBerry credentials. Clinton's personal authorship of any individual 2002 message in this thread cannot be inferred from the header alone.
-
-*Credit: Katie Chenoweth (community, Apr 18 2026).*
 
 ---
 
