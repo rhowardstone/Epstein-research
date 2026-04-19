@@ -454,6 +454,30 @@ Epstein was literally godfather to Darren Indyke's twins and had a "goddaughter"
 
 - [EFTA01615114](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01615114.pdf) (DS10) — Jun 3, 2018 Skype chat: Epstein opens conversation with Bannon: "Said the spider to.. where ru?"
 
+### "Unc" / "Uncle F Jeffrey Epstein" → Epstein (via Celina Dubin & Glenn Dubin) — CONFIRMED
+
+Celina Dubin — daughter of Glenn Dubin and Eva Andersson-Dubin (Epstein's former girlfriend) — used "Unc" as her pet name for Epstein across 2010–2015 correspondence. Epstein referred to Celina as his "goddaughter" ([EFTA01744268](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01744268.pdf), Jan 5 2016: *"I made a promise to my goddaughter that I would not be godfather to anyone else"*).
+
+**Celina's email**: `ninibini91@aol.com` (12 corpus docs).
+
+**Key messages**:
+- [EFTA00736181](https://www.justice.gov/epstein/files/DataSet%209/EFTA00736181.pdf) (Jul 25 2010): Celina to Epstein: *"Aww! You're the best, **Unc**. Should we order stuff in Paris?"* — Epstein replies: *"for fifteen years, I have bought you something, each time I went to paris since you were 1 year old... for graduation, I am going to give you a credit card"* — sibling "Jordan" (Jordan Dubin) also referenced.
+- [EFTA01990773](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01990773.pdf) (Jun 2 2011): Epstein sends `To: celina` → Celina replies `To: "Uncle F Jeffrey Epstein" <jeevacation@gmail.com>` — locks the display-name pattern.
+- [EFTA01866960](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01866960.pdf) (May 30 2011): Epstein to Richard Kahn, `Cc: celina`; Celina forwards with: *"To: Uncle F Jeffrey Epstein"*.
+- [EFTA02025154](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02025154.pdf) (Oct 19 2012): *"Hey **Unc**!! How's Paris? ... I submitted my application to Harvard on Monday! Also do you know the status with those modeling jobs..."*.
+- [EFTA01750532](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01750532.pdf) (Mar 31 2014, birthday): *"THANKS **UNC**! 100% forever and ever. You are the greatest."*.
+- [EFTA00865139](https://www.justice.gov/epstein/files/DataSet%209/EFTA00865139.pdf) (Feb 2 2015): *"Thanks **Unc**. The flu is the worst..."*.
+
+**Glenn Dubin also used "unc"** for Epstein:
+- [EFTA01256057](https://www.justice.gov/epstein/files/DataSet%209/EFTA01256057.pdf) (Oct 1 2008): Glenn Dubin to Epstein and Jes Staley: *"**unc**, two very interesting pieces about the credit crisis. take care, **poppi**"*.
+
+**Family / financial corroboration**:
+- Eva Dubin on gift ideas for Celina: [EFTA02032167](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02032167.pdf) (May 13 2012): *"I have a great idea for Celina instead of a creditcard"* — matches Epstein's 2010 credit-card plan.
+- Epstein authorizing large Amex gift cards for Celina's birthday: [EFTA01899637](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01899637.pdf), [EFTA01899903](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01899903.pdf), [EFTA01899840](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01899840.pdf) (Mar 2013: $19,000 + $25,000).
+- Photo files labeled `120820 CelinaDubin_XXX.jpg` exchanged between Lesley Groff and Epstein ([EFTA01888450](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01888450.pdf), [EFTA01888589](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01888589.pdf)).
+
+*Credit: "Unc" lead initially raised by **Heather** (community, Apr 18 2026); resolved to Celina/Glenn Dubin here.*
+
 ### "WJC wjc" (email sender header) → Bill Clinton's BlackBerry, operated by Doug Band — CONFIRMED
 
 Across 2002 correspondence with Ghislaine Maxwell ("G. Max"), a recurring email header pattern appears on both the `To:` and `From:` lines: **`(WJC wjc)[@]`** (or the abbreviated `WJC wjc`). `WJC` = William Jefferson Clinton; the address is a Cingular imcingular.com BlackBerry (`16180476.<id>@imcingular.com`). In-thread content establishes the operator is **Doug Band**, not Clinton himself:
