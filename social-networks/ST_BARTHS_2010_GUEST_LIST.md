@@ -260,7 +260,7 @@ These individuals appear primarily or exclusively on the guest list documents, w
 | 13 | Phil Falcone | 7 | 7 | Guest list variants only |
 | 23 | Raymond McGuire | 6 | 6 | Guest list variants only |
 | 21 | Kevin Warsh | 5 | 5 | Guest list variants only |
-| 21 | Jane Lauder | 5 | 5 | Guest list variants only |
+| 21 | Jane Lauder | 5 | 5 | Daughter of Ronald Lauder. See [individuals/RONALD_LAUDER_INVESTIGATION.md](../individuals/RONALD_LAUDER_INVESTIGATION.md) |
 | 2 | Arthur Altschul | 4 | 4 | Guest list variants only |
 | 22 | Ben Lambert | 3 | 3 | Guest list variants only |
 | 43 | Jimmy Tisch | 1 | 1 | Single guest list mention |
