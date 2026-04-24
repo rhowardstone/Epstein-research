@@ -247,6 +247,10 @@ FEATURED = {
         "How the Clinton-Epstein relationship actually functioned: Maxwell as intermediary, Band as operational counterpart, Epstein as diplomatic back-channel. The motorcade-to-plane pipeline, a $250K payment request routed through Maxwell, Google founders at Epstein's house vetted by Clinton's office, Ivory Coast military airbase access, and the coordinated January 2015 denial campaign. 41 EFTA citations, 6 unreported threads.",
     "individuals/MEDICAL_PROFESSIONALS_INVESTIGATION.md":
         "48 physicians, dentists, and medical providers across 23,000+ EFTA documents. The Moskowitz gonorrhea thread (mandated reporting evasion), Dr. Evil's $20K free-treatment pipeline, $725 hair consultations and Black Amex receipts for young women, the Columbia dental education pipeline, a psychiatrist sued by an Epstein accuser, zero medical subpoenas issued, and the Mount Sinai institutional network. Every claim cited to specific EFTA documents.",
+    "evidence/DEFECTIVE_REDACTIONS_PUBLIC_GUIDE.md":
+        "How to recover redacted text from Jeffrey Epstein court filings — a plain-language guide for journalists and researchers. DOJ published thousands of court PDFs in Dec 2025 with black-bar redactions drawn over visible text; the hidden content comes back on copy/paste. 719 recoverable fragments confirmed across 7 cases (Giuffre v. Maxwell, USVI v. JPMorgan, U.S. v. Maxwell, Estate of Epstein, Aronberg, CBP TECS, cert petition), cross-validated with two independent methods.",
+    "evidence/DEFECTIVE_REDACTIONS_TECHNICAL_REPORT.md":
+        "Technical analysis of the DOJ's defective-redaction vulnerability — PDF rendering-mode flaws, geometric text recovery, and full 7-case catalog. 740 initial fragments, 719 retained after cross-validation using Lee Drake's open-source `unredact` tool as an independent structural detector. Complementary failure modes: pixel method catches image-baked bars, structural method catches narrow inline bars. Full triage of all 138 method-divergent pages included.",
 }
 
 SKIP_FILES = {
