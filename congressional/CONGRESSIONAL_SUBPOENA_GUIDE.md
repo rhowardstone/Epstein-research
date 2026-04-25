@@ -17,7 +17,7 @@ A practical guide for non-lawyers to the mechanics of compelling testimony befor
 
 Under House rules adopted in 1995 and carried forward since, the chair of a standing committee can issue subpoenas unilaterally — no committee vote required. ([House Rule XI, clause 2(m)(1)](https://www.govinfo.gov/content/pkg/HMAN-118/pdf/HMAN-118.pdf))
 
-Committee votes to authorize subpoenas add bipartisan legitimacy, which is the approach the House Oversight Committee has taken for the Epstein investigation. The Jan 7-8, 2026 votes for Wexner, Indyke, and Kahn followed this model. The Mar 4 Bondi subpoena (24-19, Mace motion with 5 Republican crossovers) demonstrated the committee can reach bipartisan consensus even on politically sensitive targets.
+Committee votes to authorize subpoenas add bipartisan legitimacy, which is the approach the House Oversight Committee has taken for the Epstein investigation. The Jan 7, 2026 vote for Wexner, Indyke, and Kahn followed this model. The Mar 4 Bondi subpoena (24-19, Mace motion with 5 Republican crossovers) demonstrated the committee can reach bipartisan consensus even on politically sensitive targets.
 
 No evidentiary burden exists for Congressional subpoenas. The standard is "legislative purpose" — Congress need only show the inquiry relates to a subject on which legislation could be enacted. The Epstein investigation easily satisfies this: it relates to sex trafficking enforcement, federal prosecution oversight, prison safety, and financial regulation. ([Watkins v. United States, 354 U.S. 178 (1957)](https://supreme.justia.com/cases/federal/us/354/178/))
 
@@ -105,12 +105,13 @@ If a witness flees: no enforcement abroad. If they return to US jurisdiction, co
 
 ## 2.2 Subpoenas Issued
 
-Authorized Jul 23, 2025 by bipartisan voice vote (Federal Law Enforcement Subcommittee, motion by Rep. Perry). ([Cover letters PDF](https://oversight.house.gov/wp-content/uploads/2025/08/2025.08.05-Subpoena-Cover-Letters.pdf))
+The August 2025 batch was authorized by a Jul 23, 2025 bipartisan voice vote (Federal Law Enforcement Subcommittee, motion by Rep. Perry — [cover letters PDF](https://oversight.house.gov/wp-content/uploads/2025/08/2025.08.05-Subpoena-Cover-Letters.pdf)). The Wexner / Indyke / Kahn subpoenas required a separate Jan 7, 2026 full-committee vote, and the Bondi subpoena a separate Mar 4, 2026 vote (24-19, Mace motion).
 
 | Date | Target | Type | Outcome |
 |------|--------|------|---------|
 | [Aug 5, 2025](https://oversight.house.gov/release/chairman-comer-subpoenas-bill-and-hillary-clinton-former-u-s-attorneys-general-and-fbi-directors-and-records-related-to-jeffrey-epstein/) | DOJ records | Document subpoena | DOJ began compliance Aug 18; 33,295 pages released Sep 2 |
 | [Aug 25, 2025](https://oversight.house.gov/wp-content/uploads/2025/08/2025.08.25-Subpoena-Cover-Letter-to-Epstein-Estate.pdf) | Epstein Estate records | Document subpoena | Estate complied; [records released Sep 8](https://oversight.house.gov/release/oversight-committee-releases-records-provided-by-the-epstein-estate-chairman-comer-provides-statement/) |
+| Aug 25, 2025 | [Alexander Acosta](https://en.wikipedia.org/wiki/Alexander_Acosta) | Deposition subpoena (added after [initial Aug 5 batch left him off](https://www.axios.com/2025/08/05/jeffrey-epstein-files-alex-acosta-subpoena)) | **Testified** Sep 19. [Transcript released Oct 17.](https://oversight.house.gov/release/oversight-committee-releases-acosta-transcript/) |
 | [Aug 5, 2025](https://oversight.house.gov/release/chairman-comer-subpoenas-bill-and-hillary-clinton-former-u-s-attorneys-general-and-fbi-directors-and-records-related-to-jeffrey-epstein/) | [Bill Clinton](https://www.cnn.com/2025/08/05/politics/subpoenas-doj-epstein-files-clintons-barr-mueller-garland-congress), [Hillary Clinton](https://www.cnn.com/2025/08/05/politics/subpoenas-doj-epstein-files-clintons-barr-mueller-garland-congress) | Deposition subpoenas | Defied for months; [held in contempt](https://oversight.house.gov/release/oversight-committee-republicans-and-democrats-hold-bill-and-hillary-clinton-in-contempt-for-defying-lawful-subpoenas/); [eventually caved](https://oversight.house.gov/release/chairman-comer-announces-the-clintons-caved-will-appear-for-depositions/). Depositions Feb 26-27. |
 | [Aug 5, 2025](https://oversight.house.gov/release/chairman-comer-subpoenas-bill-and-hillary-clinton-former-u-s-attorneys-general-and-fbi-directors-and-records-related-to-jeffrey-epstein/) | [Barr](https://www.foxnews.com/politics/ex-bush-attorney-general-faces-house-oversight-questions-controversial-epstein-deal) | Deposition subpoena | **Testified** Aug 18. [Transcript released Sep 16.](https://oversight.house.gov/wp-content/uploads/2025/09/Barr-Transcript.pdf) |
 | [Aug 5, 2025](https://oversight.house.gov/release/chairman-comer-subpoenas-bill-and-hillary-clinton-former-u-s-attorneys-general-and-fbi-directors-and-records-related-to-jeffrey-epstein/) | Comey, Lynch, Holder, Garland, Sessions, Gonzales | Deposition subpoenas | All submitted written declarations claiming no relevant knowledge. Committee accepted in lieu of testimony. |
@@ -118,7 +119,7 @@ Authorized Jul 23, 2025 by bipartisan voice vote (Federal Law Enforcement Subcom
 | [Jan 7, 2026](https://oversightdemocrats.house.gov/news/press-releases/ranking-member-robert-garcia-statement-on-forcing-subpoenas-of-epstein-co-conspirator-les-wexner-and-epstein-estate-executors-darren-indyke-and-richard-kahn) | [Les Wexner, Darren Indyke, Richard Kahn](https://www.cbsnews.com/news/epstein-wexner-indyke-kahn-testify-house-oversight-committee/) | Committee voice vote; [subpoenas formally issued Jan 24](https://oversightdemocrats.house.gov/news/press-releases/ranking-member-robert-garcia-statement-after-subpoenas-formally-issued-to-epstein-associates-les-wexner-darren-indyke-and-richard-kahn) | Wexner deposed Feb 18. Kahn/Indyke rescheduled (see 2.4). |
 | [Mar 4, 2026](https://www.cbsnews.com/news/pam-bondi-subpoena-jeffrey-epstein-house-oversight-committee/) | [Pam Bondi](https://www.nbcnews.com/politics/justice-department/pam-bondi-subpoenaed-testify-epstein-files-house-oversight-committee-rcna261779) | Committee vote 24-19 (Mace motion; Boebert, Burchett, Cloud, Perry crossed); subpoena formally issued [Mar 17](https://www.cnn.com/2026/03/17/politics/pam-bondi-subpoena-house-comer-epstein) | **DEFIED.** Trump fired Bondi April 2; DOJ told committee April 8 the subpoena no longer obligates her. Did not appear April 14. Dems moving toward contempt; Comer non-committal. ([Axios](https://www.axios.com/2026/04/08/pam-bondi-epstein-house-oversight-subpoena), [Time](https://time.com/article/2026/04/09/pam-bondi-jeffrey-epstein-house-oversight-testimony/)) |
 
-**No new subpoenas have been issued since March 17, 2026.** All subsequent witness engagements (Lutnick, Gates, Waitt, Ruemmler, Black, Band, Kellen, Groff, Noel) are **voluntary "transcribed interview" letters** — no compulsory force. Comer publicly threatened to subpoena Tova Noel after her March 26 no-show ("If she doesn't, I'll subpoena her"); a month later, no subpoena has been issued.
+**Bondi is the only compulsory subpoena issued in the spring 2026 cycle.** The seven voluntary "transcribed interview" letters (Gates, Ruemmler, Black, Kellen, Groff, Band, Waitt) had gone out two weeks earlier, on March 3; a separate voluntary letter to Tova Noel went out March 13; Lutnick was added separately and confirmed April 6. Every current witness engagement other than Bondi's defied subpoena is voluntary — no compulsory force, no enforcement leverage if a witness cancels. Comer publicly threatened to subpoena Tova Noel after her March 26 no-show ("If she doesn't, I'll subpoena her"); a month later, no subpoena has been issued.
 
 ## 2.3 Depositions Completed
 
@@ -577,7 +578,7 @@ The people who moved the money. They can trace every dollar.
 → **[Full Witness Briefing](WITNESS_BRIEF_INDYKE.md)** (70+ EFTAs, 20 deposition questions, counter-strategies)
 
 **Location:** Delray Beach, FL (16065 Bristol Isle Way). Now a luxury real estate agent at Luxury Partners Realty ([LinkedIn](https://www.linkedin.com/in/darren-indyke/)). Left Parlatore Law Group (Timothy Parlatore's firm) in January 2026 after EFTA release.
-**Already subpoenaed?** Yes (Jan 7-8, 2026 committee vote)
+**Already subpoenaed?** Yes (Jan 7, 2026 committee vote)
 **Status:** **DEPOSED March 19, 2026** (~6.75 hrs). Video released Mar 25. ([video](https://epstein-data.com/depositions?v=darren_indyke), [CNN](https://www.cnn.com/2026/03/19/politics/darren-indyke-jeffrey-epstein-testimony), [NPR](https://www.npr.org/2026/03/20/nx-s1-5754619/epstein-files-lawyer-darren-indyke))
 **Attorney:** Daniel H. Weiner and Marc Weinstein, Hughes Hubbard & Reed LLP (cooperating posture — "accepted the subpoenas and intend to cooperate")
 **Deposition result:** Denied "any knowledge whatsoever" of Epstein's crimes. Confirmed existence of hard drives held by Epstein's private investigators. Acknowledged regularly withdrawing $7,500 at a time (totaling $700K+) but denied structuring. Could not give a straight answer on whether a Trump accuser received an estate settlement. Rep. Dave Min (D-CA): "not credible... very likely he perjured himself over and over again." ([CBS News](https://www.cbsnews.com/news/darren-indyke-jeffrey-epstein-lawyer-house-oversight-committee/))
@@ -624,7 +625,7 @@ The people who moved the money. They can trace every dollar.
 → **[Full Witness Briefing](WITNESS_BRIEF_KAHN.md)**
 
 **Location:** New York. Reportedly retired.
-**Already subpoenaed?** Yes (Jan 7-8, 2026 committee vote)
+**Already subpoenaed?** Yes (Jan 7, 2026 committee vote)
 **Status:** **DEPOSED March 11, 2026** (~7 hrs). Video released Mar 25. ([video](https://epstein-data.com/depositions?v=richard_kahn), [CNN](https://www.cnn.com/2026/03/11/politics/richard-kahn-epstein-accountant-house-deposition), [NPR](https://www.npr.org/2026/03/11/nx-s1-5745082/epstein-files-richard-kahn-deposition))
 **Congressional counsel:** Daniel Ruzumna, Patterson Belknap Webb & Tyler LLP
 **Civil litigation counsel:** Daniel H. Weiner, Hughes Hubbard & Reed LLP (represents both co-executors)
@@ -762,7 +763,7 @@ The people who had the case and didn't bring it — or who influenced those deci
 ### 3.13 ALEXANDER ACOSTA — US Attorney, Southern District of Florida (2005-2009)
 
 **Location:** FL. Former Labor Secretary (resigned July 2019); former Dean of FIU College of Law (2009-2017).
-**Already subpoenaed?** Yes ([Aug 5, 2025](https://oversight.house.gov/release/chairman-comer-subpoenas-bill-and-hillary-clinton-former-u-s-attorneys-general-and-fbi-directors-and-records-related-to-jeffrey-epstein/) batch)
+**Already subpoenaed?** Yes — Aug 25, 2025 (added after the [initial Aug 5 batch left him off](https://www.axios.com/2025/08/05/jeffrey-epstein-files-alex-acosta-subpoena))
 **Status:** Testified Sep 19, 2025 ([transcript](https://drive.google.com/file/d/1CtE3pRovhmz8pLDZEtR-vKe87UVT4TLO/view)). Also testified at 2019 Senate confirmation hearings, where he was never asked about the co-conspirator immunity expansion.
 **Likely response:** Will testify. Already on record extensively. No Fifth Amendment basis.
 **Why they matter:** He signed the Non-Prosecution Agreement that gave blanket immunity to named and unnamed co-conspirators — an unprecedented provision.
@@ -2258,4 +2259,4 @@ Dataset numbers verified from `full_text_corpus.db` for every citation. The data
 
 ---
 
-*All EFTA references link to documents in the DOJ's Epstein Files Transparency Act release at [justice.gov/epstein](https://www.justice.gov/epstein). Database queries run against `full_text_corpus.db` (2,914,901 pages). Congressional procedure citations from public CRS reports and statutory sources. This analysis was compiled using Claude Code running Opus 4.6, which can make mistakes. Every EFTA citation has been verified against the database.*
+*All EFTA references link to documents in the DOJ's Epstein Files Transparency Act release at [justice.gov/epstein](https://www.justice.gov/epstein). Database queries run against `full_text_corpus.db` (2,914,901 pages). Congressional procedure citations from public CRS reports and statutory sources. This analysis was compiled using Claude Code, which can make mistakes. Every EFTA citation has been verified against the database.*
