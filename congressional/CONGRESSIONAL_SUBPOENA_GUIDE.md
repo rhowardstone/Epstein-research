@@ -1,9 +1,11 @@
 # Congressional Subpoena Guide: Evidence Inventory & Practical Procedures
 ## Every Witness, Every Document, Every Obstacle
 
-Updated: March 27, 2026
+Updated: April 25, 2026
 Sources: EFTA corpus (1.42M documents, 2.91M pages), House Oversight public records, CRS reports, court filings
 Standard: Every material factual claim supported by EFTA document number with justice.gov URL, OR external source URL
+
+> **April 2026 status note:** The investigation has stalled procedurally. Pam Bondi defied her April 14 deposition subpoena; DOJ argues the subpoena was rendered void when Trump fired her on April 2. Tova Noel did not appear March 26 (voluntary). Kathryn Ruemmler's April 21 voluntary interview did not occur — the committee paused public hearings the same week, converting to closed-door "roundtables" that bar subpoena motions. Bondi is the **only person under compulsory subpoena** in the current docket; everyone else (Lutnick, Gates, Waitt, Ruemmler, Black, Band, Kellen, Groff, Noel) is **voluntary** under a "transcribed interview" letter. The next confirmed appearance is Ted Waitt on April 30 (voluntary). ([HuffPost: Oversight ditches hearings to dodge subpoena votes](https://www.huffpost.com/entry/epstein-files-house-oversight-committee-pam-bondi_n_69e79cdbe4b0ff46b411885e); [The Hill: Democrats fume over lack of hearings](https://thehill.com/homenews/house/5844128-democrats-oversight-hearings-epstein-bondi/); [Apr 17 Democratic memo on roundtable conversion](https://oversightdemocrats.house.gov/imo/media/doc/2026-04-17demmemorecogrroundtables.pdf))
 
 ---
 
@@ -114,7 +116,9 @@ Authorized Jul 23, 2025 by bipartisan voice vote (Federal Law Enforcement Subcom
 | [Aug 5, 2025](https://oversight.house.gov/release/chairman-comer-subpoenas-bill-and-hillary-clinton-former-u-s-attorneys-general-and-fbi-directors-and-records-related-to-jeffrey-epstein/) | Comey, Lynch, Holder, Garland, Sessions, Gonzales | Deposition subpoenas | All submitted written declarations claiming no relevant knowledge. Committee accepted in lieu of testimony. |
 | [Aug 5, 2025](https://oversight.house.gov/release/chairman-comer-subpoenas-bill-and-hillary-clinton-former-u-s-attorneys-general-and-fbi-directors-and-records-related-to-jeffrey-epstein/) | Mueller | Deposition subpoena | Withdrawn — committee learned Mueller has health issues precluding testimony. |
 | [Jan 7, 2026](https://oversightdemocrats.house.gov/news/press-releases/ranking-member-robert-garcia-statement-on-forcing-subpoenas-of-epstein-co-conspirator-les-wexner-and-epstein-estate-executors-darren-indyke-and-richard-kahn) | [Les Wexner, Darren Indyke, Richard Kahn](https://www.cbsnews.com/news/epstein-wexner-indyke-kahn-testify-house-oversight-committee/) | Committee voice vote; [subpoenas formally issued Jan 24](https://oversightdemocrats.house.gov/news/press-releases/ranking-member-robert-garcia-statement-after-subpoenas-formally-issued-to-epstein-associates-les-wexner-darren-indyke-and-richard-kahn) | Wexner deposed Feb 18. Kahn/Indyke rescheduled (see 2.4). |
-| [Mar 4, 2026](https://www.cbsnews.com/news/pam-bondi-subpoena-jeffrey-epstein-house-oversight-committee/) | [Pam Bondi](https://www.nbcnews.com/politics/justice-department/pam-bondi-subpoenaed-testify-epstein-files-house-oversight-committee-rcna261779) | Committee vote 24-19 (Mace motion; Boebert, Burchett, Cloud, Perry crossed) | Pending. |
+| [Mar 4, 2026](https://www.cbsnews.com/news/pam-bondi-subpoena-jeffrey-epstein-house-oversight-committee/) | [Pam Bondi](https://www.nbcnews.com/politics/justice-department/pam-bondi-subpoenaed-testify-epstein-files-house-oversight-committee-rcna261779) | Committee vote 24-19 (Mace motion; Boebert, Burchett, Cloud, Perry crossed); subpoena formally issued [Mar 17](https://www.cnn.com/2026/03/17/politics/pam-bondi-subpoena-house-comer-epstein) | **DEFIED.** Trump fired Bondi April 2; DOJ told committee April 8 the subpoena no longer obligates her. Did not appear April 14. Dems moving toward contempt; Comer non-committal. ([Axios](https://www.axios.com/2026/04/08/pam-bondi-epstein-house-oversight-subpoena), [Time](https://time.com/article/2026/04/09/pam-bondi-jeffrey-epstein-house-oversight-testimony/)) |
+
+**No new subpoenas have been issued since March 17, 2026.** All subsequent witness engagements (Lutnick, Gates, Waitt, Ruemmler, Black, Band, Kellen, Groff, Noel) are **voluntary "transcribed interview" letters** — no compulsory force. Comer publicly threatened to subpoena Tova Noel after her March 26 no-show ("If she doesn't, I'll subpoena her"); a month later, no subpoena has been issued.
 
 ## 2.3 Depositions Completed
 
@@ -129,22 +133,26 @@ Authorized Jul 23, 2025 by bipartisan voice vote (Federal Law Enforcement Subcom
 | Mar 11 | Richard Kahn | In person, ~7 hrs ([video](https://epstein-data.com/depositions?v=richard_kahn)) | Named 5 Epstein payers: Wexner, Dubin, Sinofsky, Rothschilds, Black. "Was not aware of the terrible and unforgivable things that he did." Made contradictory statements about whether "Jane Doe 4" received estate settlement. Video released Mar 25. |
 | Mar 19 | Darren Indyke | In person, ~6.75 hrs ([video](https://epstein-data.com/depositions?v=darren_indyke)) | Denied "any knowledge whatsoever" of Epstein's crimes despite 20+ years as attorney. Confirmed existence of private investigator hard drives. Acknowledged withdrawing $7,500 at a time (totaling $700K+) but denied structuring. Rep. Dave Min: "not credible... very likely he perjured himself over and over again." Neither Indyke nor Kahn had ever been formally questioned by federal law enforcement. Video released Mar 25. |
 
-## 2.4 Scheduled
+## 2.4 Calendar — What Happened, What Didn't
 
-| Date | Witness | Type | Source |
-|------|---------|------|--------|
-| TBD (was Mar 26) | Tova Noel | Transcribed interview — **POSTPONED**. Committee "continuing to communicate with her attorney." | [Oversight.house.gov](https://oversight.house.gov/release/chairman-comer-seeks-transcribed-interview-with-epstein-prison-guard/), [CNN](https://www.cnn.com/2026/03/26/politics/epstein-files-prison-officials-night-he-died) |
-| Apr 14, 2026 | Pam Bondi | Subpoena deposition (passed 24-19, Mar 4; formally issued Mar 17) | [AP News](https://apnews.com/article/justice-department-epstein-bondi-subpoena-a3baffeaba386ee2e6e5041b067b83d3) |
-| Apr 16, 2026 | Ted Waitt | Transcribed interview (letter sent, not confirmed) | [Oversight.house.gov](https://oversight.house.gov/release/chairman-comer-seeks-seven-transcribed-interviews-as-part-of-epstein-investigation/) |
-| Apr 21, 2026 | Kathryn Ruemmler | Transcribed interview (agreed) | [CBS News](https://www.cbsnews.com/news/bill-gates-asked-testify-house-committee-epstein-ties-kathryn-ruemmler-leon-black/) |
-| May 5, 2026 | Doug Band | Transcribed interview (letter sent, not confirmed) | [Oversight.house.gov](https://oversight.house.gov/release/chairman-comer-seeks-seven-transcribed-interviews-as-part-of-epstein-investigation/) |
-| May 13, 2026 | Leon Black | Transcribed interview (agreed) | [CBS News](https://www.cbsnews.com/news/bill-gates-asked-testify-house-committee-epstein-ties-kathryn-ruemmler-leon-black/) |
-| May 19, 2026 | Bill Gates | Transcribed interview (agreed) | [CBS News](https://www.cbsnews.com/news/bill-gates-asked-testify-house-committee-epstein-ties-kathryn-ruemmler-leon-black/) |
-| Jun 3, 2026 | Sarah Kellen | Transcribed interview (letter sent, not confirmed) | [Oversight.house.gov](https://oversight.house.gov/release/chairman-comer-seeks-seven-transcribed-interviews-as-part-of-epstein-investigation/) |
-| Jun 9, 2026 | Lesley Groff | Transcribed interview (letter sent, not confirmed) | [Oversight.house.gov](https://oversight.house.gov/release/chairman-comer-seeks-seven-transcribed-interviews-as-part-of-epstein-investigation/) |
-| TBD | Howard Lutnick | Closed-door testimony (agreed; "within 10 days" per Mar 11 letter) | [Fox News](https://www.foxnews.com/politics/house-oversight-committee-demands-depositions-bondi-lutnick-epstein-probe) |
+**As of April 25, 2026.** Three of the seven March 3 letter recipients had dates fall in late March / early-to-mid April. None of those interviews has occurred. The April 21 Ruemmler interview was paused as part of the committee's broader hearings-to-roundtables conversion, and the May/June dates are now in question.
 
-**Note on transcribed interviews:** Chairman Comer sent letters on March 3, 2026 with specific per-person dates (above, 10 a.m., Washington). Gates, Ruemmler, and Black "quickly agreed to volunteer" ([CBS News](https://www.cbsnews.com/news/bill-gates-asked-testify-house-committee-epstein-ties-kathryn-ruemmler-leon-black/)); Kellen, Groff, Band, and Waitt received letters but their agreement has not been publicly confirmed. Tova Noel letter sent March 13 ([Oversight.house.gov](https://oversight.house.gov/release/chairman-comer-seeks-transcribed-interview-with-epstein-prison-guard/)); **did not appear March 26 — postponed, new date TBD**. Bondi subpoena formally issued March 17 with April 14 deposition date; DOJ called it "completely unnecessary" ([AP News](https://apnews.com/article/justice-department-epstein-bondi-subpoena-a3baffeaba386ee2e6e5041b067b83d3)); Democrats walked out of a Bondi briefing after she reportedly would not commit to compliance.
+| Date | Witness | Type | Outcome |
+|------|---------|------|---------|
+| Mar 26, 2026 | Tova Noel | Voluntary transcribed interview (letter Mar 13) | **DID NOT APPEAR.** Committee "continuing to communicate with her attorney." Comer: "If she doesn't, I'll subpoena her." No subpoena issued. ([Oversight.house.gov](https://oversight.house.gov/release/chairman-comer-seeks-transcribed-interview-with-epstein-prison-guard/), [CNN](https://www.cnn.com/2026/03/26/politics/epstein-files-prison-officials-night-he-died)) |
+| Apr 14, 2026 | Pam Bondi | **Compulsory subpoena** (Mar 4 vote 24-19; formally issued Mar 17) | **DID NOT APPEAR.** Trump fired Bondi Apr 2. DOJ Asst AG Patrick Davis wrote committee Apr 8 that the subpoena, issued in her professional capacity, "no longer obligates" her after firing. Democrats pushing contempt; Comer non-committal. ([CNBC](https://www.cnbc.com/2026/04/08/jeffrey-epstein-pam-bondi-house-oversight.html), [Axios](https://www.axios.com/2026/04/08/pam-bondi-epstein-house-oversight-subpoena)) |
+| Apr 16, 2026 | Ted Waitt | Voluntary transcribed interview (letter Mar 3) | **RESCHEDULED to April 30, 2026.** Voluntary; appearance not yet occurred. ([NPR](https://www.npr.org/2026/04/08/nx-s1-5777585/bill-gates-pam-bondi-epstein-house-oversight)) |
+| Apr 21, 2026 | Kathryn Ruemmler | Voluntary transcribed interview (agreed) | **DID NOT OCCUR.** Hearing paused as part of committee's conversion to closed-door "roundtables" to block further subpoena motions. No new date set. ([HuffPost](https://www.huffpost.com/entry/epstein-files-house-oversight-committee-pam-bondi_n_69e79cdbe4b0ff46b411885e), [The Hill](https://thehill.com/homenews/house/5844128-democrats-oversight-hearings-epstein-bondi/)) |
+| May 5, 2026 | Doug Band | Voluntary transcribed interview (letter Mar 3) | Pending; no public confirmation of agreement. ([Oversight.house.gov](https://oversight.house.gov/release/chairman-comer-seeks-seven-transcribed-interviews-as-part-of-epstein-investigation/)) |
+| May 6, 2026 | Howard Lutnick | Voluntary transcribed interview (agreed) | Confirmed Apr 6. Lutnick "proactively agreed to appear voluntarily" per Comer. ([CNBC](https://www.cnbc.com/2026/04/06/jeffrey-epstein-howard-lutnick-house-oversight-interview.html)) |
+| May 13, 2026 | Leon Black | Voluntary transcribed interview (agreed) | Originally agreed; status unclear given hearings pause. ([CBS News](https://www.cbsnews.com/news/bill-gates-asked-testify-house-committee-epstein-ties-kathryn-ruemmler-leon-black/)) |
+| Jun 3, 2026 | Sarah Kellen | Voluntary transcribed interview (letter Mar 3) | Pending; no public confirmation. ([Oversight.house.gov](https://oversight.house.gov/release/chairman-comer-seeks-seven-transcribed-interviews-as-part-of-epstein-investigation/)) |
+| Jun 9, 2026 | Lesley Groff | Voluntary transcribed interview (letter Mar 3) | Pending; no public confirmation. ([Oversight.house.gov](https://oversight.house.gov/release/chairman-comer-seeks-seven-transcribed-interviews-as-part-of-epstein-investigation/)) |
+| Jun 10, 2026 | Bill Gates | Voluntary transcribed interview (agreed; rescheduled from May 19) | Confirmed Apr 7. ([CNBC](https://www.cnbc.com/2026/04/07/jeffrey-epstein-bill-gates-house-oversight.html), [NPR](https://www.npr.org/2026/04/08/nx-s1-5777585/bill-gates-pam-bondi-epstein-house-oversight)) |
+
+**Important context — the procedural pause.** On April 17, 2026, the committee's Democratic ranking members released a [memo](https://oversightdemocrats.house.gov/imo/media/doc/2026-04-17demmemorecogrroundtables.pdf) documenting that since Bondi defied her subpoena, Republicans have replaced public hearings with closed-door "roundtables." Roundtables prevent any committee member from making subpoena motions or contempt motions on the record. Since Garcia became Ranking Member in July 2025, the committee has issued 18 subpoenas, all bipartisan — the conversion appears designed to stop that pattern. The result: voluntary witnesses can now cancel without facing the realistic threat of a follow-up subpoena.
+
+**Voluntary vs. compulsory — why this matters.** Bondi was the only person on the calendar under a compulsory subpoena, and she defied it without consequence. Everyone else is voluntary: they can cancel at any time, plead the Fifth in person without showing up at all, or simply not respond. Comer publicly threatened to subpoena Tova Noel after her March 26 no-show; one month later, no subpoena has been issued.
 
 ## 2.5 Operation Chain Reaction (Wyden)
 
@@ -176,7 +184,9 @@ Since February 28, 2026, the military conflict with Iran has consumed most publi
 
 # THE GAMEPLAN: UPCOMING DEPOSITIONS & TESTIMONY
 
-**As of March 27, 2026.** This is the action section — who is next, what the committee should ask, and what evidence backs each line of questioning. Full evidence inventories for each witness are in Part 3 below.
+**As of April 25, 2026.** This is the action section — who is next, what the committee should ask, and what evidence backs each line of questioning. Full evidence inventories for each witness are in Part 3 below.
+
+**The active calendar shrank in April.** Bondi defied her April 14 subpoena; Ruemmler's April 21 voluntary interview was paused with the conversion to roundtables; Tova Noel didn't appear March 26. The next confirmed appearance is **Ted Waitt, April 30** (voluntary, not subpoenaed). Howard Lutnick is set for **May 6** (voluntary). Bill Gates was rescheduled from May 19 to **June 10**. Leon Black's May 13 status is unclear given the hearings pause. Doug Band, Sarah Kellen, and Lesley Groff have not publicly confirmed.
 
 ## Completed — Content Involvement (Direct Witnesses)
 
@@ -236,11 +246,11 @@ Co-executor, accountant, HBRK Associates principal. Managed entity balances ($15
 
 ## Transcribed Interview — Death Investigation
 
-### TOVA NOEL — MCC Correctional Officer — **POSTPONED** (was March 26, 2026; new date TBD)
+### TOVA NOEL — MCC Correctional Officer — **DID NOT APPEAR** (was March 26, 2026; voluntary letter, no subpoena)
 
 → **[Full Witness Briefing](WITNESS_BRIEF_NOEL.md)** | [Section 3.64](#364-tova-noel--mcc-correctional-officer)
 
-One of two officers on SHU duty the night Epstein died. Indicted November 2019 (6 counts); DPA May 2021 (admitted falsifying records); charges dismissed January 2022. Scheduled for March 26 but **did not appear** — committee spokesperson confirmed postponement, "continuing to communicate with her attorney." No new date announced. Comer: "If she doesn't, I'll subpoena her." As of March 2026, working as medical assistant in Westchester and being sued by a coworker for assault.
+One of two officers on SHU duty the night Epstein died. Indicted November 2019 (6 counts); DPA May 2021 (admitted falsifying records); charges dismissed January 2022. Scheduled for March 26 (voluntary transcribed interview, not a subpoena) but **did not appear**. Committee spokesperson confirmed: "continuing to communicate with her attorney." No new date announced. Comer publicly stated "If she doesn't, I'll subpoena her" — one month later, no subpoena has been issued. As of March 2026, working as medical assistant in Westchester and being sued by a coworker for assault.
 
 **Three evidence threads the committee should pursue:**
 
@@ -260,9 +270,11 @@ One of two officers on SHU duty the night Epstein died. Indicted November 2019 (
 
 ## Subpoenaed — Institutional Oversight
 
-### PAM BONDI — AG, Department of Justice (April 14, 2026; subpoenaed March 17)
+### PAM BONDI — Former AG, Department of Justice — **SUBPOENA DEFIED** (was April 14, 2026)
 
-Bondi is NOT subpoenaed for personal involvement — she is subpoenaed for the DOJ's handling of the Epstein files release. She oversees the department that:
+**Status update (April 25, 2026):** Bondi was the only person on the active spring 2026 calendar under compulsory subpoena (everyone else — Lutnick, Gates, Waitt, Ruemmler, Black, Band, Kellen, Groff, Noel — is voluntary). Trump fired her April 2, 2026. Assistant Attorney General Patrick Davis wrote the committee that the subpoena, issued to Bondi in her professional capacity as Attorney General, "no longer obligates" her after her removal. She did not appear April 14. Democrats — led by Ranking Member Garcia, with Rep. Mace (who originally moved the subpoena) reinforcing that Bondi "cannot escape accountability simply because she no longer holds the office" — are pressing for contempt proceedings; Comer has not committed to bringing them. The committee has not issued a new subpoena to Bondi in her personal capacity. ([CNBC](https://www.cnbc.com/2026/04/08/jeffrey-epstein-pam-bondi-house-oversight.html), [Time](https://time.com/article/2026/04/09/pam-bondi-jeffrey-epstein-house-oversight-testimony/), [Foreign Policy Journal](https://www.foreignpolicyjournal.com/2026/04/20/epstein-files-democrats-move-toward-contempt-as-pam-bondi-defies-subpoena-and-oversight-battle-escalates/))
+
+Bondi was NOT subpoenaed for personal involvement — she was subpoenaed for the DOJ's handling of the Epstein files release. She oversaw the department that:
 - Removed ~64,259 documents from justice.gov after publication (since restored without explanation)
 - Missed the statutory EFTA deadline by 42 days
 - Withheld 1.46 million pages that were reviewed, stamped, and numbered but never released ([Secondary Bates Stamp analysis](/reports/institutional/SECONDARY_BATES_STAMP_ANALYSIS.html))
@@ -290,13 +302,19 @@ Bondi is NOT subpoenaed for personal involvement — she is subpoenaed for the D
 
 ---
 
-## Transcribed Interviews — Requested by Chairman Comer (March 3, 2026)
+## Voluntary Transcribed Interviews — Requested by Chairman Comer (March 3, 2026)
 
-On March 3, 2026, Chairman Comer sent letters to seven individuals requesting transcribed interviews with dates ranging from April 16 to June 9. Gates, Ruemmler, and Black agreed; Kellen, Groff, Band, and Waitt have not publicly confirmed. ([Oversight.house.gov](https://oversight.house.gov/release/chairman-comer-seeks-seven-transcribed-interviews-as-part-of-epstein-investigation/)) ([CBS News](https://www.cbsnews.com/news/bill-gates-asked-testify-house-committee-epstein-ties-kathryn-ruemmler-leon-black/))
+On March 3, 2026, Chairman Comer sent letters to seven individuals requesting **voluntary transcribed interviews** — not subpoenas — with dates ranging from April 16 to June 9. **Status update (April 25, 2026):**
+- **Gates, Ruemmler, Black** agreed; only Black's May 13 remains pending. Ruemmler's April 21 was paused by the committee, and Gates was rescheduled from May 19 to June 10.
+- **Kellen, Groff, Band, Waitt** received letters but have not publicly confirmed agreement, except Waitt who is now scheduled April 30.
+- **Lutnick** added separately; confirmed May 6.
+- **Tova Noel** added separately (March 13 letter); did not appear March 26.
 
-### HOWARD LUTNICK — Commerce Secretary / Cantor Fitzgerald (TBD, closed-door)
+None of the above is under compulsory subpoena. The original letters, dates, and reporting: ([Oversight.house.gov](https://oversight.house.gov/release/chairman-comer-seeks-seven-transcribed-interviews-as-part-of-epstein-investigation/)) ([CBS News](https://www.cbsnews.com/news/bill-gates-asked-testify-house-committee-epstein-ties-kathryn-ruemmler-leon-black/))
 
-Lutnick has agreed to voluntary closed-door testimony ([DNYUZ](https://dnyuz.com/2026/03/03/commerce-secretary-lutnick-to-appear-before-house-panel-investigating-epstein/)). His connection to Epstein is documented across 247 EFTAs spanning 2011-2019. He has publicly understated the relationship; the corpus contradicts his characterization of "limited interaction."
+### HOWARD LUTNICK — Commerce Secretary / Cantor Fitzgerald (May 6, 2026 — voluntary)
+
+Lutnick has confirmed for May 6 closed-door testimony — "proactively agreed to appear voluntarily" per Comer ([CNBC, Apr 6](https://www.cnbc.com/2026/04/06/jeffrey-epstein-howard-lutnick-house-oversight-interview.html)). His connection to Epstein is documented across 247 EFTAs spanning 2011-2019. He has publicly understated the relationship; the corpus contradicts his characterization of "limited interaction."
 
 **Corpus evidence:**
 
@@ -321,37 +339,40 @@ Lutnick has agreed to voluntary closed-door testimony ([DNYUZ](https://dnyuz.com
 
 ---
 
-### BILL GATES — Apr 16 – Jun 9 (agreed)
+### BILL GATES — Jun 10, 2026 (voluntary; rescheduled from May 19)
 
 → Full profile: [Section 3.24](#324-bill-gates--microsoft)
 
-### KATHRYN RUEMMLER — Apr 16 – Jun 9 (agreed)
+### KATHRYN RUEMMLER — Apr 21 PAUSED (voluntary; no new date)
 
+April 21 voluntary interview did not occur — committee paused hearings to avoid bipartisan subpoena votes. No rescheduled date announced as of April 25, 2026.
 → Full profile: [Section 3.16](#316-kathryn-ruemmler--white-house-counsel--epstein-trustee--goldman-sachs-gc)
 
-### LEON BLACK — Apr 16 – Jun 9 (agreed)
+### LEON BLACK — May 13, 2026 (voluntary; status uncertain)
 
+Originally agreed; status unclear given the committee's hearings pause.
 → Full profile: [Section 3.17](#317-leon-black--apollo-global-management-168m-to-epstein)
 
-### SARAH KELLEN — Apr 16 – Jun 9 (letter sent, not confirmed)
+### SARAH KELLEN — Jun 3, 2026 (voluntary; not publicly confirmed)
 
 → Full profile: [Section 3.5](#35-sarah-kellen--kensington--schedulerco-conspirator)
 
-### LESLEY GROFF — Apr 16 – Jun 9 (letter sent, not confirmed)
+### LESLEY GROFF — Jun 9, 2026 (voluntary; not publicly confirmed)
 
 → Full profile: [Section 3.1](#31-lesley-groff--executive-assistant-25-years)
 
-### DOUG BAND — Apr 16 – Jun 9 (letter sent, not confirmed)
+### DOUG BAND — May 5, 2026 (voluntary; not publicly confirmed)
 
 → Full profile: [Section 3.33](#333-doug-band--clinton-foundation)
 
-### TOVA NOEL — **POSTPONED** (was Mar 26; letter sent Mar 13; "If she doesn't, I'll subpoena her" — Comer)
+### TOVA NOEL — **DID NOT APPEAR** (was Mar 26; voluntary letter Mar 13; Comer threatened subpoena, none issued)
 
 → Full witness brief: [WITNESS_BRIEF_NOEL.md](WITNESS_BRIEF_NOEL.md)
 → Full profile: [Section 3.64](#364-tova-noel--mcc-correctional-officer)
 
-### TED WAITT — Apr 16 – Jun 9 (letter sent, not confirmed)
+### TED WAITT — Apr 30, 2026 (voluntary; rescheduled from Apr 16)
 
+Next confirmed appearance on the calendar. Voluntary, not subpoenaed.
 → No dedicated section. Evidence appears in [Section 3.23 Bill Clinton](#323-bill-clinton--former-president) (Waitt relayed Clinton messages to Maxwell).
 
 ---
@@ -371,8 +392,8 @@ These are the people who ran the operation day-to-day. Their testimony would bre
 ### 3.1 LESLEY GROFF — Executive Assistant (~25 years)
 
 **Location:** New Canaan, CT
-**Already subpoenaed?** Transcribed interview letter sent (not confirmed)
-**Status:** Apr 16 – Jun 9 range ([Oversight.house.gov](https://oversight.house.gov/release/chairman-comer-seeks-seven-transcribed-interviews-as-part-of-epstein-investigation/))
+**Already subpoenaed?** No — voluntary transcribed interview letter sent Mar 3, 2026; agreement not publicly confirmed
+**Status:** Scheduled June 9, 2026 (voluntary). ([Oversight.house.gov](https://oversight.house.gov/release/chairman-comer-seeks-seven-transcribed-interviews-as-part-of-epstein-investigation/))
 **Likely response:** Will testify. Career staff, not a principal. Cooperated with SDNY (proffer sessions documented). But will avoid incriminating herself — may invoke Fifth on scheduling-of-minors questions.
 **Why they matter:** She was the nerve center. Every meeting, every flight, every visitor went through Groff.
 
@@ -511,8 +532,8 @@ Post-Miami Herald payments: Aviloop LLC received $145K+. Government characterize
 
 **Location:** NC/NYC/Miami Beach. Divorced Brian Vickers December 2025. Runs SLK Designs.
 **Phone:** (917) 855-3363 (this was Epstein's former primary cell phone number, now registered to Kellen)
-**Already subpoenaed?** Transcribed interview letter sent (not confirmed)
-**Status:** Apr 16 – Jun 9 range ([Oversight.house.gov](https://oversight.house.gov/release/chairman-comer-seeks-seven-transcribed-interviews-as-part-of-epstein-investigation/))
+**Already subpoenaed?** No — voluntary transcribed interview letter sent Mar 3, 2026; agreement not publicly confirmed
+**Status:** Scheduled June 3, 2026 (voluntary). ([Oversight.house.gov](https://oversight.house.gov/release/chairman-comer-seeks-seven-transcribed-interviews-as-part-of-epstein-investigation/))
 **Likely response:** Fifth Amendment on anything incriminating. She is a named NPA co-conspirator and faces potential criminal exposure for scheduling abuse sessions.
 **Why they matter:** She scheduled the victims. She is the link between the names and the abuse.
 
@@ -827,10 +848,10 @@ PQG analysis shows the co-conspirator immunity clause was NOT in the original NP
 
 ### 3.16 KATHRYN RUEMMLER — White House Counsel → Epstein Trustee → Goldman Sachs GC
 
-**Location:** NY (Goldman Sachs)
-**Already subpoenaed?** No — agreed to transcribed interview ([CBS News](https://www.cbsnews.com/news/bill-gates-asked-testify-house-committee-epstein-ties-kathryn-ruemmler-leon-black/))
-**Status:** Apr 16 – Jun 9 range
-**Likely response:** Will testify carefully. She's a sophisticated attorney and will draw precise lines.
+**Location:** NY (resigned from Goldman Sachs over Epstein ties)
+**Already subpoenaed?** No — agreed to **voluntary** transcribed interview ([CBS News](https://www.cbsnews.com/news/bill-gates-asked-testify-house-committee-epstein-ties-kathryn-ruemmler-leon-black/))
+**Status:** Was scheduled April 21, 2026 — **DID NOT OCCUR.** Committee paused public hearings the same week, converting to closed-door roundtables to block subpoena votes after Bondi defied her own subpoena. No new date announced as of April 25, 2026.
+**Likely response:** Will testify carefully if rescheduled. She's a sophisticated attorney and will draw precise lines.
 **Why they matter:** She went from White House Counsel to named trustee on Epstein's 2018 Trust to General Counsel of Goldman Sachs. The pathway raises questions about what intelligence Epstein provided.
 
 **Documentary evidence:**
@@ -861,8 +882,8 @@ Individuals with documented abuse allegations and financial relationships.
 ### 3.17 LEON BLACK — Apollo Global Management ($168M+ to Epstein)
 
 **Location:** NY.
-**Already subpoenaed?** No — agreed to transcribed interview ([CBS News](https://www.cbsnews.com/news/bill-gates-asked-testify-house-committee-epstein-ties-kathryn-ruemmler-leon-black/))
-**Status:** Apr 16 – Jun 9 range
+**Already subpoenaed?** No — agreed to **voluntary** transcribed interview ([CBS News](https://www.cbsnews.com/news/bill-gates-asked-testify-house-committee-epstein-ties-kathryn-ruemmler-leon-black/))
+**Status:** Scheduled May 13, 2026 — status uncertain given the committee's hearings pause that took out Ruemmler (Apr 21). Wyden Senate Finance letter (Mar 23) demanded response by April 13 on "hush money" payments and surveillance allegations.
 **Likely response:** Will testify with extensive counsel. Will claim all payments were for legitimate advisory services. Will deny personal knowledge of criminal conduct.
 **Why they matter:** $168M in documented payments, 4+ victims alleging assault, $62.5M USVI settlement, and same Deutsche Bank officers managed both his and Epstein's accounts.
 
@@ -1203,8 +1224,8 @@ SDNY noted he was "so, so frustrating" to reach. Never subpoenaed before the fil
 ### 3.24 BILL GATES — Microsoft
 
 **Location:** WA/NY.
-**Already subpoenaed?** No — agreed to transcribed interview ([CBS News](https://www.cbsnews.com/news/bill-gates-asked-testify-house-committee-epstein-ties-kathryn-ruemmler-leon-black/))
-**Status:** Apr 16 – Jun 9 range.
+**Already subpoenaed?** No — agreed to **voluntary** transcribed interview ([CBS News](https://www.cbsnews.com/news/bill-gates-asked-testify-house-committee-epstein-ties-kathryn-ruemmler-leon-black/))
+**Status:** Scheduled June 10, 2026 (rescheduled from May 19). ([CNBC, Apr 7](https://www.cnbc.com/2026/04/07/jeffrey-epstein-bill-gates-house-oversight.html))
 **Likely response:** Will testify carefully. Will characterize meetings as related to philanthropy.
 **Why they matter:** Multiple meetings documented. Financial flows through C.O.U.Q. Foundation → Enhanced Education in corpus. Gates Foundation Deputy Director's "private donor engagement" with Epstein post-conviction. Boris Nikolic (Gates's science adviser) said it was "more interesting at Jeffrey's than at CGI." Gates Foundation internal memorial email was the most extreme visual alteration in the entire corpus — the entire page blacked out.
 
@@ -1417,8 +1438,8 @@ Left a $1.5M JPMorgan career to work for Epstein. Managed Epstein's investment p
 ### 3.33 DOUG BAND — Clinton Foundation
 
 **Location:** NY.
-**Already subpoenaed?** Transcribed interview letter sent (not confirmed)
-**Status:** Apr 16 – Jun 9 range.
+**Already subpoenaed?** No — voluntary transcribed interview letter sent Mar 3, 2026; agreement not publicly confirmed
+**Status:** Scheduled May 5, 2026 (voluntary). ([Oversight.house.gov](https://oversight.house.gov/release/chairman-comer-seeks-seven-transcribed-interviews-as-part-of-epstein-investigation/))
 **Likely response:** Will testify carefully. Will emphasize distance from Epstein.
 **Why they matter:** Band was Clinton's "body man" and the Clinton Foundation's key operative. He coordinated Clinton's schedule through Maxwell — including meetings at Epstein's residences, Prince Andrew social events, and CGI fundraising.
 
