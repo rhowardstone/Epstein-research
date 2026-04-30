@@ -573,8 +573,10 @@ The FBI's search warrant for Epstein's electronic devices ([EFTA00101065](https:
 | `slv525@icloud.com` | iCloud | **Sarah L. Vickers** alias — FBI warrant target | FBI warrant |
 | Financial alias: **Sarah Kensington** | Wachovia bank | $6K wire transfer, ref: "deposit tanning carpets (helicopter)" | [EFTA01579108](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01579108.pdf) |
 | Legal alias: **Sarah Vickers** | Court docs | Married name/alias | [EFTA01070810](https://www.justice.gov/epstein/files/DataSet%209/EFTA01070810.pdf) ([OCR](https://epstein-data.com/full_text_corpus/pages?efta_number=EFTA01070810)) |
+| Credit-bureau variant: **Sarah Bink** | Deutsche Bank due-diligence report | Surname variant returned on her SSN profile (241-53-XXXX, DOB 5/1979) | [EFTA01296720](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01296720.pdf) p.53, Bates SDNY_GM_00059555 |
+| Credit-bureau variant: **Sarah Bonk** | Deutsche Bank due-diligence report | Surname variant returned on her SSN profile | [EFTA01296720](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01296720.pdf) p.53 |
 
-**Note**: The "525" appears across ALL her accounts (`sarahk525`, `slv525`), serving as a consistent identifier across legal name changes.
+**Note**: The "525" appears across ALL her accounts (`sarahk525`, `slv525`), serving as a consistent identifier across legal name changes. The Deutsche Bank due-diligence report (EFTA01296720) returned 4 surname variants for her SSN — Bonk, Bink, Vickers, Kensington — likely PEP-database / credit-bureau typo variants surfaced by the bank's KYC search, not aliases she actively used.
 
 #### Lesley Groff (Personal Assistant)
 
@@ -844,7 +846,7 @@ Additional linked entities: Southern Trust Company (transferred to Deutsche Bank
 |--------|-------------|--------|
 | Prince Andrew | Andrew Albert Christian Edward, Duke of York | [EFTA00022062](https://www.justice.gov/epstein/files/DataSet%208/EFTA00022062.pdf) (DOJ MLAT request to UK) |
 | Nadia Marcinkova | Nadia Marcinko | [EFTA01070810](https://www.justice.gov/epstein/files/DataSet%209/EFTA01070810.pdf) ([OCR](https://epstein-data.com/full_text_corpus/pages?efta_number=EFTA01070810)) |
-| Sarah Kellen | Sarah Kensington, Sarah Vickers | [EFTA01070810](https://www.justice.gov/epstein/files/DataSet%209/EFTA01070810.pdf) ([OCR](https://epstein-data.com/full_text_corpus/pages?efta_number=EFTA01070810)), [EFTA01579108](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01579108.pdf) |
+| Sarah Kellen | Sarah Kensington, Sarah Vickers, Sarah Bink, Sarah Bonk | [EFTA01070810](https://www.justice.gov/epstein/files/DataSet%209/EFTA01070810.pdf) ([OCR](https://epstein-data.com/full_text_corpus/pages?efta_number=EFTA01070810)), [EFTA01579108](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01579108.pdf), [EFTA01296720](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01296720.pdf) p.53 |
 | Adriana Ross | Adriana Mucinska | [EFTA01338104](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01338104.pdf) ([OCR](https://epstein-data.com/full_text_corpus/pages?efta_number=EFTA01338104)) (grand jury subpoena: "Adriana Mucinska"), [EFTA01465149](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01465149.pdf) ([OCR](https://epstein-data.com/full_text_corpus/pages?efta_number=EFTA01465149)) (NPA/NDA: "Adriana Ross") |
 | Virginia Giuffre | Virginia Roberts | Multiple court documents |
 | David Copperfield | David Seth Kotkin | [`persons_registry.json`](https://github.com/rhowardstone/Epstein-research-data/blob/main/persons_registry.json) |
