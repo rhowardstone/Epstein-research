@@ -111,6 +111,8 @@ FEATURED = {
         "Deposition prep for Darren K. Indyke — Epstein's personal attorney, co-executor, and trustee of a $577M estate. 70+ EFTA citations: $800K cash withdrawals, $12.6M IOLA trust, 13.7M ruble Moscow wire, witness tampering evidence, and 20 evidence-backed deposition questions.",
     "congressional/WITNESS_BRIEF_KAHN.md":
         "Deposition prep for Richard D. Kahn — Epstein's accountant, HBRK Associates co-principal, and co-executor. $159M in managed entity balances, $47.3M TD Bank SAR, $50K cash withdrawal, $23M to USVI escrow, the employment lock-in provision that silenced witnesses for two years, and 20 deposition questions.",
+    "individuals/ROED_LARSEN_FAMILY_INVESTIGATION.md":
+        "25+ years of documented contact between Epstein and former UN envoy Terje Rød-Larsen, his wife Norwegian diplomat Mona Juul, and their son Edward — IPI funding, Avenue Foch visits, a Gates Foundation intervention, and a $5M provision in Epstein's will.",
     "evidence/1B136_INVESTIGATION.md":
         "The FBI rushed 34 agents to review an 85 GB Epstein hard drive after congressional pressure — escalating to the Director, AG, and DAG. Then it left 10.5 terabytes of backup tapes untouched, citing warrant requirements. 44 source documents.",
     "institutional/ZORRO_RANCH_INVESTIGATION_HALT.md":
