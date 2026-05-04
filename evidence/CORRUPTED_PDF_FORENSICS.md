@@ -53,7 +53,7 @@ Offset 260KB-882KB: Compressed data (original PDF page images, irrecoverable)
 
 | # | Name | Affiliation | Registry Match |
 |---|------|-------------|----------------|
-| 1 | [?] Sussman | Houston, TX | Gerald Sussman |
+| 1 | [?] Sussman | Houston, TX — Steve Susman, [Susman Godfrey LLP](https://www.susmangodfrey.com/attorneys/stephen-d-susman-1941-2020/) (died 2020) | Steve Susman |
 | 2 | Karim Wade | Senegalese government (.gouv.sn) | — |
 | 3 | Jacquie [?] | Green Island Gardens | — |
 | 4 | Gwendolyn Beck | — | Known Epstein associate |
@@ -61,6 +61,8 @@ Offset 260KB-882KB: Compressed data (original PDF page images, irrecoverable)
 | 6 | Michael Wolff | Journalist | Michael Wolff (author) |
 | 7 | J. Robert Strang | Investigative Management Group | — |
 | 8 | Jean-Luc [?] | NYC + France phone numbers | — |
+
+**Corroboration:** The Sussman identification is corroborated by [EFTA01139496](https://epstein-data.com/EFTA01139496), a Susman Godfrey LLP holiday party invitation found elsewhere in the corpus, confirming Epstein's connection to the firm. The (713) area code matches Houston, TX, where Susman Godfrey is headquartered. The firm represented FTC in Epstein's lawsuit against D.B. Zwirn & Co.
 
 **Photograph recovered:**
 - **Device:** Apple iPhone 5s running iOS 7.1.2
@@ -115,7 +117,7 @@ main xref table and Pages tree object.
 **Content:** San Mateo County Superior Court probate order — "Order Approving Modification
 of Trust" for the Elisa Zaffaroni irrevocable trust (dated April 15, 1989). Involves trustee
 succession, J.P. Morgan Trust Company as corporate co-trustee, a $4.1M principal distribution
-for a Tiburon, CA residence. References David Packard (Hewlett-Packard) and the Zaffaroni
+for a Tiburon, CA residence. References David Packard, Esq. (attorney for the Zaffaroni family conservatorship) and the Zaffaroni
 family. Faxed from "Academic Affairs" at UT Dallas (972-883-6764), March 2012/2014.
 
 **Recovery method:** All PDF tools failed on the truncated xref. Regex-scanned the raw file

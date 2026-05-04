@@ -434,6 +434,37 @@ Maxwell used "sweet pea" for at least two people:
 
 - [EFTA01617845](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01617845.pdf) (DS10) — Skype: "I am so sick **Jeffreychka**" — Russian-language affectionate form of Jeffrey, used by a Russian-speaking woman
 
+### "Jeffy" — Used by Multiple Correspondents (2009–2011)
+
+- [EFTA02437365](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02437365.pdf) (DS11) — Sep 27, 2009: *"**Jeffy** / Good yontif to you. Shall I come visit on Monday?"* — from "Paul"
+- [EFTA01866319](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01866319.pdf) (DS10), [EFTA01993262](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01993262.pdf) (DS10) — Jun 4, 2011: *"I don't need anything **Jeffy** :) I miss you though! You'll be back soon right?"*
+- [EFTA01784675](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01784675.pdf) (DS10) — Aug 8, 2011: *"**Jeffy**! I miss you. Xoxo"*
+
+**Variant in legal documents**: "**Jeffy E. Epstein**" appears as the named-party signature line in his own LLC operating agreement ([EFTA01295547](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01295547.pdf), DS10) — likely informal-document casualness or typo carried into the executed document. (Distinct from the derisive "Mr. Jeffy Poo" — see below.)
+
+### "Mr. Jeffy Poo" — Derisive (Tip-Line Voicemail)
+
+Distinct from "Jeffy" — used in a citizen tip-line voicemail (presumably to the FBI) alleging Epstein tax/foundation misconduct involving Western Digital bonds and the Wexner family's Ohio State connections.
+
+- [EFTA00083881](https://www.justice.gov/epstein/files/DataSet%208/EFTA00083881.pdf) (DS8, voicemail transcript): *"... So somebody I guess just felt generous to help **Mr. Jeffy Poo** not have a $1.2 million one-fourth. He made a $1.3 million loss on his bonds. That is tax fraud or he's lying on his foundation statement..."*
+
+### "Sneaky" / "Sneaky dog" — Affectionate (Female Correspondent, 2013–2018)
+
+A recurring affectionate nickname used by an unnamed young female correspondent across multiple years. Same correspondent voice across uses (student, exams, project deadlines; co-occurs in threads with Karyna Shuliak).
+
+- [EFTA01754397](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01754397.pdf) (DS10) — Sep 26, 2013: *"Morning **sneaky dog**! I'm at school now but I will be at the lunch w Kerry"*
+- [EFTA01874050](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01874050.pdf) (DS10) — Jul 24, 2012 thread context (related correspondence)
+- [EFTA01927293](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01927293.pdf) (DS10) — Apr 1, 2014: *"**Sneaky dog**! How r u?"*
+- [EFTA01928680](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01928680.pdf) (DS10) — Apr 7, 2014: *"**Sneaky dog**, I am at the house"*
+- [EFTA01928020](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01928020.pdf) (DS10) — Apr 20, 2014: *"sleeping with my **sneaky dog**"*
+- [EFTA02538649](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02538649.pdf) (DS11) — Jan 12–16, 2018: *"Hi **Sneaky dog**, Hope you slept well... Sneaky let me know when you talk to Terje"*
+
+### "Bear" — Family Childhood Nickname
+
+Per [The Daily Beast, "Jeffrey Epstein's Coney Island Days"](https://www.thedailybeast.com/jeffrey-epsteins-coney-island-days-from-math-nerd-to-arrogant-prick/): *"Within the family, Epstein was nicknamed **Bear**, while Mark was called Puggie."* Brooklyn / Sea Gate childhood era.
+
+Not corpus-attested in the EFTA production (which begins post-childhood); included for biographical completeness.
+
 ### "Frog" — Childhood Friend (Epstein's Circle)
 
 - [EFTA01975467](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01975467.pdf) (DS10) — Nov 14, 2012: "**Frog's** been terrific." Referenced alongside "Warren" who "calls himself dead man walking." Context: childhood neighborhood (Sea Gate, Brooklyn).
@@ -554,6 +585,9 @@ The FBI's search warrant for Epstein's electronic devices ([EFTA00101065](https:
 | `gmax@ellmax.com` | Custom domain | Variant (FBI warrant) | FBI warrant |
 | `gmaxl@instantemail.t-mobile.co.uk` | T-Mobile UK | Mobile email | Corpus |
 | Display: `G-Max` / `GMAX` / `Gx` | Signature | Signs emails "Gx" | Dozens |
+| Display: `MAXWELL, GHILANE` | Spelling variant | Edward Jay Epstein's address-book misspelling of "Ghislaine" — appears as the To: field across his 2001–2003 correspondence | [EFTA02334685](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02334685.pdf), [EFTA02332454](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02332454.pdf), [EFTA02333703](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02333703.pdf), [EFTA02332458](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02332458.pdf), [EFTA00578730](https://www.justice.gov/epstein/files/DataSet%209/EFTA00578730.pdf) |
+
+**Cross-search note**: A corpus search for "Ghislaine" alone will MISS the GHILANE-spelled emails. Edward Jay Epstein (the journalist; no relation to Jeffrey) is the source of this consistent misspelling.
 
 #### Prince Andrew
 
@@ -938,6 +972,25 @@ Epstein explicitly refused to have his name used in a PR/search-engine optimizat
 - Proposed "Truth Robot LLC" entity
 - Discussed "like minded women" — Epstein asked who would join "your club"
 - Follow-up: Was the entity actually formed? What investments were made?
+
+---
+
+## Part 6c: OCR Artifacts and Spelling Variants
+
+These are NOT codenames or aliases — they are scanning errors in OCR'd corpus pages. Listed here so corpus searchers know what strings to look for and what they actually represent. (See also: GHILANE in Part 3, Jeffy E. Epstein in Part 2.)
+
+### "Vilest" — OCR Misread of "West"
+
+The OCR engine consistently misreads "**W**" as "**V**" in some scanned PBPD reports, FBI listings, and a LinkedIn email footer, producing strings like:
+- *"**Vilest** Palm Beach FL"* (= "West Palm Beach FL") — appears across PBPD address blocks, e.g. [EFTA01689692](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01689692.pdf), [EFTA01699895](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01699895.pdf), [EFTA01366273](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01366273.pdf)
+- *"**Vilest** your message settings"* (= "Visit your message settings") — LinkedIn email footer in [EFTA02181235](https://www.justice.gov/epstein/files/DataSet%2010/EFTA02181235.pdf)
+- ~20 additional documents with similar W→V misreads in scanned address blocks
+
+Not a person, not an alias. Search for `Vilest Palm` to find OCR-derived PBPD records you might miss with `West Palm` alone.
+
+### "Bear Steams" — OCR Misread of "Bear Stearns"
+
+Where the corpus shows "Bear Steams" (e.g., [EFTA01655047](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01655047.pdf)), this is the bank Bear Stearns. Not the family nickname "Bear" — that's a separate entry in Part 2.
 
 ---
 
