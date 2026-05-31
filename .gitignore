@@ -1,0 +1,58 @@
+# === EVERYTHING is ignored by default ===
+*
+
+# === Only allow these specific files and folders ===
+
+# Root files
+!README.md
+!CONGRESSIONAL_READING_GUIDE.md
+!NATIVE_FILES_CATALOG.csv
+!COMMUNITY_PLATFORMS.md
+!FRENCH_CONNECTION_INVESTIGATION.md
+!SINGAPORE_INVESTIGATION.md
+!.gitignore
+
+
+# Category folders and their .md contents
+!overview/
+!overview/*.md
+!financial/
+!financial/*.md
+!individuals/
+!individuals/*.md
+!victims/
+!victims/*.md
+!evidence/
+!evidence/*.md
+!intelligence/
+!intelligence/*.md
+!institutional/
+!institutional/*.md
+!art/
+!art/*.md
+!methodology/
+!methodology/*.md
+!congressional/
+!congressional/*.md
+!internet-theories/
+!internet-theories/*.md
+!raw-dataset-analysis/
+!raw-dataset-analysis/*.md
+!government-officials/
+!government-officials/*.md
+!scientists/
+!scientists/*.md
+!audits/
+!audits/*.md
+!social-networks/
+!social-networks/*.md
+!pqg_lines_of_investigation/
+!pqg_lines_of_investigation/[0-9][0-9]_*.md
+
+# Recovered forensic evidence (binary files from corrupted PDF analysis)
+!recovered_corrupted_pdfs/
+!recovered_corrupted_pdfs/README.md
+!recovered_corrupted_pdfs/github_release/
+!recovered_corrupted_pdfs/github_release/**
+!recovered_corrupted_pdfs/carved_pdfs/
+!recovered_corrupted_pdfs/carved_pdfs/**
