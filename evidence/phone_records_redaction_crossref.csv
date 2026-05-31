@@ -1,0 +1,971 @@
+efta,dataset,pages,category,description,has_redactions,total_redactions,proper_redaction,text_near_bar
+EFTA01310387,10,129,att_subscriber_info,AT&T subscriber information return — Jeffrey Epstein,True,8050,7988,62
+EFTA01335806,10,1263,att_cingular_bill,AT&T Wireless phone bill,True,7402,4659,2743
+EFTA01708056,10,100,cell_site_records,Cell site location information (CSLI) order/records,True,3134,3108,26
+EFTA01708288,10,100,cell_site_records,Cell site location information (CSLI) order/records,True,2905,2900,5
+EFTA01311066,10,186,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),True,2402,2394,8
+EFTA01707747,10,100,cell_site_records,Cell site location information (CSLI) order/records,True,2046,2032,14
+EFTA01707847,10,100,cell_site_records,Cell site location information (CSLI) order/records,True,1956,1944,12
+EFTA01705297,10,100,att_cingular_bill,AT&T Wireless phone bill,True,1184,1139,45
+EFTA01714415,10,36,cell_site_records,Cell site location information (CSLI) order/records,True,1140,1137,3
+EFTA01308739,10,42,cingular_response_cover,Cingular National Compliance Center response cover (File Code 229007),True,1111,794,317
+EFTA01705903,10,100,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,1083,959,124
+EFTA01710581,10,37,cell_site_records,Cell site location information (CSLI) order/records,True,1074,1073,1
+EFTA01707585,10,100,cell_site_records,Cell site location information (CSLI) order/records,True,1070,1056,14
+EFTA01661403,10,100,cell_site_records,Cell site location information (CSLI) order/records,True,1008,1000,8
+EFTA01724450,10,100,att_cingular_bill,AT&T Wireless phone bill,True,927,814,113
+EFTA01717667,10,100,cingular_response_cover,Cingular National Compliance Center response cover (File Code 229703),True,908,762,146
+EFTA01705590,10,100,att_cingular_bill,AT&T Wireless phone bill,True,813,748,65
+EFTA01719336,10,100,call_detail_records,Itemized call detail records,True,723,661,62
+EFTA01707184,10,100,att_cingular_bill,AT&T Wireless phone bill,True,684,618,66
+EFTA01707685,10,62,cell_site_records,Cell site location information (CSLI) order/records,True,680,678,2
+EFTA00007301,4,100,call_detail_records,Itemized call detail records,True,668,622,46
+EFTA01705397,10,100,att_cingular_bill,AT&T Wireless phone bill,True,542,499,43
+EFTA01657411,10,14,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,508,493,15
+EFTA01724850,10,100,att_subscriber_info,AT&T subscriber information return,True,489,407,82
+EFTA01724950,10,100,att_cingular_bill,Cingular Wireless phone bill,True,475,391,84
+EFTA01707084,10,100,att_cingular_bill,AT&T Wireless phone bill,True,467,403,64
+EFTA01706605,10,100,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,True,464,383,81
+EFTA01694126,10,100,sprint_records,Sprint phone records,True,464,345,119
+EFTA01719436,10,100,call_detail_records,Itemized call detail records,True,460,430,30
+EFTA01708750,10,100,nextel_records,Nextel/Sprint phone records,True,454,362,92
+EFTA01698632,10,68,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,True,449,418,31
+EFTA01717767,10,100,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,422,344,78
+EFTA01657335,10,12,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,413,400,13
+EFTA01696704,10,100,fbi_subpoena_telecom,FBI subpoena to Sprint,True,395,232,163
+EFTA00007401,4,100,call_detail_records,Itemized call detail records,True,387,363,24
+EFTA01718790,10,38,evidence_envelope,FBI evidence envelope (toll records / phone company returns) (case MM),True,377,253,124
+EFTA01338549,10,112,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (415M-MM-113529),True,361,170,191
+EFTA01696890,10,83,call_detail_records,Itemized call detail records,True,353,342,11
+EFTA00006687,4,83,call_detail_records,Itemized call detail records,True,347,318,29
+EFTA01691225,10,100,cell_site_records,Cell site location information (CSLI) order/records,True,346,291,55
+EFTA01661003,10,100,tmobile_records,T-Mobile phone records,True,336,134,202
+EFTA01706505,10,100,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),True,326,262,64
+EFTA01716192,10,92,evidence_envelope,FBI evidence envelope (toll records / phone company returns) (case 31E-MM-108062),True,320,258,62
+EFTA01708488,10,62,cell_site_records,Cell site location information (CSLI) order/records,True,316,312,4
+EFTA00006770,4,100,evidence_envelope,FBI evidence envelope (toll records / phone company returns) (case 31E-MM-108062),True,306,248,58
+EFTA01696973,10,100,evidence_envelope,FBI evidence envelope (toll records / phone company returns) (case 31E-MM-108062),True,306,245,61
+EFTA00006870,4,100,metropcs_cdr,MetroPCS call detail records,True,302,243,59
+EFTA00006970,4,100,metropcs_cdr,MetroPCS call detail records,True,301,275,26
+EFTA01692376,10,100,metropcs_cdr,MetroPCS call detail records,True,301,294,7
+EFTA01697073,10,100,metropcs_cdr,MetroPCS call detail records,True,300,244,56
+EFTA01697173,10,100,metropcs_cdr,MetroPCS call detail records,True,300,275,25
+EFTA01657425,10,14,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,297,275,22
+EFTA01312207,10,54,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,True,289,237,52
+EFTA01657399,10,12,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,282,259,23
+EFTA01706236,10,69,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,True,277,247,30
+EFTA01692526,10,100,call_detail_records,Itemized call detail records,True,256,170,86
+EFTA01705690,10,37,att_cingular_bill,Cingular Wireless phone bill,True,253,211,42
+EFTA01707384,10,100,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),True,251,208,43
+EFTA01707284,10,100,att_cingular_bill,Cingular Wireless phone bill,True,248,218,30
+EFTA01312310,10,49,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,True,243,200,43
+EFTA01722314,10,100,att_cingular_bill,Cingular Wireless phone bill,True,243,195,48
+EFTA01725050,10,100,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),True,225,168,57
+EFTA01708388,10,100,cell_site_records,Cell site location information (CSLI) order/records,True,224,222,2
+EFTA01312261,10,49,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,True,221,167,54
+EFTA01715342,10,100,evidence_envelope,FBI evidence envelope (toll records / phone company returns) (case MM),True,217,128,89
+EFTA01715131,10,100,sprint_records,Sprint phone records,True,217,216,1
+EFTA01725652,10,100,call_detail_records,Itemized call detail records,True,216,181,35
+EFTA01657359,10,14,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,212,195,17
+EFTA01657373,10,12,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,211,198,13
+EFTA01305889,10,14,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,210,194,16
+EFTA01714451,10,100,att_cingular_bill,AT&T Wireless phone bill,True,210,166,44
+EFTA01724650,10,100,cell_site_records,Cell site location information (CSLI) order/records,True,208,205,3
+EFTA01657385,10,14,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,202,191,11
+EFTA01691475,10,100,cell_site_records,Cell site location information (CSLI) order/records,True,188,164,24
+EFTA01698532,10,100,call_detail_records,Itemized call detail records,True,180,141,39
+EFTA01691625,10,89,cell_site_records,Cell site location information (CSLI) order/records,True,178,148,30
+EFTA01692775,10,100,att_cingular_bill,Cingular Wireless phone bill,True,176,137,39
+EFTA00014767,8,55,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,True,171,127,44
+EFTA00023673,8,7,message_pad,Message pad exhibit (phone messages),True,170,110,60
+EFTA01696804,10,49,fbi_subpoena_telecom,FBI subpoena to Sprint,True,168,98,70
+EFTA01719536,10,42,call_detail_records,Itemized call detail records,True,166,154,12
+EFTA01312467,10,53,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,True,157,120,37
+EFTA01696853,10,37,fbi_subpoena_telecom,FBI subpoena to Cingular/AT&T (case 31E-MM-108062),True,149,85,64
+EFTA01338438,10,43,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (06),True,147,85,62
+EFTA01714551,10,37,att_cingular_bill,Cingular Wireless phone bill,True,139,120,19
+EFTA01316468,10,78,att_subscriber_info,AT&T subscriber information return,True,138,137,1
+EFTA01312359,10,51,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,True,134,131,3
+EFTA01657347,10,12,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,134,113,21
+EFTA00023957,8,5,message_pad,Message pad exhibit (phone messages),True,133,92,41
+EFTA01707484,10,100,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),True,132,110,22
+EFTA01312410,10,57,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,True,130,94,36
+EFTA01713579,10,48,call_detail_records,AT&T/Cingular itemized call detail records,True,129,88,41
+EFTA01308424,10,47,while_you_were_out,"""While You Were Out"" phone message slips",True,128,51,77
+EFTA01692270,10,25,call_detail_records,Itemized call detail records,True,124,63,61
+EFTA01706003,10,33,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,123,106,17
+EFTA01725150,10,100,tmobile_records,T-Mobile phone records,True,123,85,38
+EFTA01716740,10,100,call_detail_records,Itemized call detail records,True,119,118,1
+EFTA00014822,8,54,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,True,118,79,39
+EFTA00007501,4,42,call_detail_records,Itemized call detail records,True,118,111,7
+EFTA01711574,10,81,call_detail_records,Itemized call detail records,True,118,64,54
+EFTA01692476,10,50,metropcs_cdr,MetroPCS call detail records,True,113,82,31
+EFTA00030021,8,14,pen_register_order,Pen register / trap and trace order,True,112,79,33
+EFTA01697792,10,34,call_detail_records,Itemized call detail records,True,110,80,30
+EFTA00015738,8,14,pen_register_order,Pen register / trap and trace order,True,107,63,44
+EFTA00014718,8,49,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,True,106,71,35
+EFTA01723616,10,36,bellsouth_records,BellSouth phone records,True,106,68,38
+EFTA01690675,10,100,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),True,103,94,9
+EFTA00032205,8,5,message_pad,Message pad exhibit (phone messages),True,102,66,36
+EFTA00030986,8,5,message_pad,Message pad exhibit (phone messages),True,102,60,42
+EFTA01702952,10,100,pen_register_order,Pen register / trap and trace order,True,102,84,18
+EFTA01695439,10,92,call_detail_records,Itemized call detail records,True,101,70,31
+EFTA00023952,8,5,message_pad,Message pad exhibit (phone messages),True,99,55,44
+EFTA01692725,10,50,call_detail_records,Itemized call detail records,True,97,71,26
+EFTA01305801,10,14,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,True,91,82,9
+EFTA00030888,8,4,gj_subpoena_telecom,Grand jury subpoena to telecom provider,True,91,55,36
+EFTA01683288,10,12,sprint_records,Sprint phone records,True,88,50,38
+EFTA01697273,10,16,metropcs_cdr,MetroPCS call detail records,True,87,69,18
+EFTA01711145,10,100,sprint_records,Sprint phone records,True,87,84,3
+EFTA01338481,10,38,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (Records),True,83,43,40
+EFTA01705827,10,76,call_detail_records,Itemized call detail records,True,80,75,5
+EFTA01716640,10,100,evidence_envelope,FBI evidence envelope (toll records / phone company returns) (case 31E-MM-108062),True,79,63,16
+EFTA01310974,10,16,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,78,68,10
+EFTA01308926,10,78,call_detail_records,AT&T/Cingular itemized call detail records,True,77,67,10
+EFTA00030861,8,4,gj_subpoena_telecom,Grand jury subpoena to telecom provider,True,72,39,33
+EFTA01725252,10,100,evidence_envelope,FBI evidence envelope (toll records / phone company returns) (case 31E-MM-108062),True,70,43,27
+EFTA01716840,10,100,call_detail_records,Itemized call detail records,True,67,61,6
+EFTA01305863,10,12,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,65,58,7
+EFTA00007070,4,16,metropcs_cdr,MetroPCS call detail records,True,65,47,18
+EFTA01690614,10,61,att_cingular_bill,Cingular Wireless phone bill,True,64,59,5
+EFTA01694932,10,29,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),True,64,37,27
+EFTA01707947,10,32,cell_site_records,Cell site location information (CSLI) order/records,True,64,64,0
+EFTA01708256,10,32,cell_site_records,Cell site location information (CSLI) order/records,True,64,61,3
+EFTA01695161,10,29,call_detail_records,Itemized call detail records,True,63,57,6
+EFTA01692626,10,99,call_detail_records,Itemized call detail records,True,62,38,24
+EFTA01338670,10,248,cingular_response_cover,Cingular National Compliance Center response cover (File Code 743763),True,61,37,24
+EFTA02728621,11,27,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),True,60,40,20
+EFTA01657551,10,14,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,True,57,48,9
+EFTA01311777,10,37,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),True,56,19,37
+EFTA01657581,10,12,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,True,55,48,7
+EFTA01309709,10,12,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,54,46,8
+EFTA01657493,10,16,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,54,42,12
+EFTA01698089,10,100,evidence_envelope,FBI evidence envelope (toll records / phone company returns) (case 31E-MM-108062),True,54,34,20
+EFTA01339015,10,27,sprint_records,Sprint phone records,True,54,7,47
+EFTA01695061,10,100,call_detail_records,Itemized call detail records,True,53,49,4
+EFTA01718674,10,38,pen_register_order,Pen register / trap and trace order,True,53,47,6
+EFTA01694320,10,100,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),True,52,43,9
+EFTA01339254,10,27,sprint_records,Sprint phone records,True,52,7,45
+EFTA01339176,10,25,sprint_records,Sprint phone records,True,50,5,45
+EFTA01310864,10,12,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,49,44,5
+EFTA01338393,10,28,cingular_response_cover,Cingular National Compliance Center response cover (File Code 718920),True,49,39,10
+EFTA01305827,10,14,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,True,48,40,8
+EFTA01309735,10,12,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,48,36,12
+EFTA01657535,10,16,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,48,32,16
+EFTA01311684,10,43,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),True,48,16,32
+EFTA01310932,10,16,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,47,37,10
+EFTA01311539,10,14,att_cingular_bill,AT&T Wireless phone bill,True,47,36,11
+EFTA01305841,10,12,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,True,46,38,8
+EFTA01716172,10,20,call_detail_records,AT&T/Cingular itemized call detail records,True,46,38,8
+EFTA01725452,10,100,call_detail_records,Itemized call detail records,True,46,12,34
+EFTA00011489,8,5,gj_subpoena_telecom,Grand jury subpoena to telecom provider,True,46,32,14
+EFTA00006387,4,100,call_detail_records,Itemized call detail records,True,45,3,42
+EFTA01310033,10,12,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,44,38,6
+EFTA01310357,10,12,att_cingular_bill,Cingular Wireless phone bill,True,44,36,8
+EFTA01339042,10,22,sprint_records,Sprint phone records,True,44,1,43
+EFTA01657565,10,16,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,42,31,11
+EFTA01727001,10,86,call_detail_records,AT&T/Cingular itemized call detail records,True,42,41,1
+EFTA01265168,10,5,att_subscriber_info,AT&T subscriber information return — Scott Borgerson,True,42,26,16
+EFTA00013455,8,2,pen_register_order,Pen register / trap and trace order,True,42,25,17
+EFTA01310137,10,16,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,41,37,4
+EFTA01310255,10,8,att_cingular_bill,Cingular Wireless phone bill,True,41,27,14
+EFTA01719578,10,100,call_detail_records,Itemized call detail records,True,41,36,5
+EFTA01722514,10,86,call_detail_records,AT&T/Cingular itemized call detail records,True,41,41,0
+EFTA01309847,10,12,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,40,33,7
+EFTA01310199,10,14,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,40,32,8
+EFTA01339156,10,20,sprint_records,Sprint phone records,True,40,1,39
+EFTA01333870,10,7,subscriber_info_return,Telecom subscriber information return,True,40,33,7
+EFTA01657465,10,14,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,True,39,33,6
+EFTA01716384,10,100,att_subscriber_info,AT&T subscriber information return,True,39,17,22
+EFTA01310167,10,16,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,38,32,6
+EFTA01310235,10,10,att_cingular_bill,Cingular Wireless phone bill,True,38,27,11
+EFTA01657643,10,16,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,38,27,11
+EFTA01709288,10,100,call_detail_records,AT&T/Cingular itemized call detail records,True,38,38,0
+EFTA01339352,10,20,sprint_records,Sprint phone records,True,38,1,37
+EFTA01657521,10,14,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,37,26,11
+EFTA01657593,10,14,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,37,27,10
+EFTA01715442,10,30,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),True,37,26,11
+EFTA01725852,10,100,call_detail_records,Itemized call detail records,True,37,3,34
+EFTA01309761,10,14,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,36,32,4
+EFTA01316007,10,12,att_cingular_bill,AT&T Wireless phone bill,True,36,28,8
+EFTA00017139,8,4,att_subscriber_info,AT&T subscriber information return — Scott Borgerson,True,36,24,12
+EFTA00016605,8,2,pen_register_order,Pen register / trap and trace order,True,36,24,12
+EFTA01310183,10,16,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,35,24,11
+EFTA01316221,10,16,att_cingular_bill,AT&T Wireless phone bill,True,35,26,9
+EFTA01315989,10,10,att_cingular_bill,Cingular Wireless phone bill,True,34,29,5
+EFTA01657451,10,14,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,34,21,13
+EFTA01691964,10,100,call_detail_records,Itemized call detail records,True,34,22,12
+EFTA00020978,8,5,gj_subpoena_telecom,Grand jury subpoena to telecom provider,True,34,7,27
+EFTA01310097,10,14,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,33,30,3
+EFTA01657479,10,14,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,33,25,8
+EFTA01657509,10,12,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,True,33,28,5
+EFTA01657617,10,14,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,33,22,11
+EFTA00022489,8,14,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,True,32,27,5
+EFTA01316207,10,14,att_cingular_bill,AT&T Wireless phone bill,True,32,25,7
+EFTA00013446,8,2,pen_register_order,Pen register / trap and trace order,True,32,20,12
+EFTA01333776,10,32,call_detail_records,AT&T/Cingular itemized call detail records,True,31,1,30
+EFTA01706942,10,100,call_detail_records,Itemized call detail records,True,31,19,12
+EFTA01657631,10,12,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,True,30,23,7
+EFTA01657671,10,12,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,30,21,9
+EFTA01310876,10,14,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,29,27,2
+EFTA01310990,10,16,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,29,20,9
+EFTA01729592,10,48,call_detail_records,Itemized call detail records,True,29,19,10
+EFTA01309573,10,13,att_cingular_bill,Cingular Wireless phone bill,True,28,4,24
+EFTA01309817,10,16,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,28,25,3
+EFTA01657439,10,12,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,28,21,7
+EFTA01657607,10,10,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,True,28,21,7
+EFTA01333752,10,23,call_detail_records,AT&T/Cingular itemized call detail records,True,28,4,24
+EFTA01709188,10,100,call_detail_records,AT&T/Cingular itemized call detail records,True,28,28,0
+EFTA01343838,10,4,att_subscriber_info,AT&T subscriber information return — Scott Borgerson,True,28,18,10
+EFTA01699578,10,5,gj_subpoena_telecom,Grand jury subpoena to Verizon,True,28,11,17
+EFTA01338918,10,28,sprint_records,Sprint phone records,True,28,28,0
+EFTA01339112,10,15,sprint_records,Sprint phone records,True,28,0,28
+EFTA01339301,10,28,sprint_records,Sprint phone records,True,28,28,0
+EFTA01726544,10,59,pen_register_order,Pen register / trap and trace order,True,28,28,0
+EFTA01309833,10,14,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,27,22,5
+EFTA01705497,10,93,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),True,27,26,1
+EFTA01698845,10,100,call_detail_records,Itemized call detail records,True,27,26,1
+EFTA01309645,10,12,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,True,26,19,7
+EFTA01727470,10,20,cingular_response_cover,Cingular National Compliance Center response cover (File Code 406658),True,26,22,4
+EFTA01311569,10,12,att_cingular_bill,AT&T Wireless phone bill,True,25,15,10
+EFTA01316047,10,14,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,25,22,3
+EFTA00029895,8,4,message_pad,Message pad exhibit (phone messages),True,25,5,20
+EFTA01310832,10,12,att_cingular_bill,AT&T Wireless phone bill,True,24,20,4
+EFTA01311040,10,12,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,24,21,3
+EFTA01309873,10,154,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),True,24,18,6
+EFTA01697289,10,100,call_detail_records,Itemized call detail records,True,24,3,21
+EFTA00023026,8,4,gj_subpoena_telecom,Grand jury subpoena to AT&T,True,24,14,10
+EFTA01309605,10,14,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,True,23,23,0
+EFTA01309631,10,14,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,True,23,23,0
+EFTA01309803,10,14,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,True,23,19,4
+EFTA01309859,10,14,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,True,23,22,1
+EFTA01310057,10,14,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,23,22,1
+EFTA01310071,10,12,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,23,20,3
+EFTA01310375,10,12,att_cingular_bill,Cingular Wireless phone bill,True,23,19,4
+EFTA01311252,10,154,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),True,23,17,6
+EFTA00007253,4,48,call_detail_records,Itemized call detail records,True,23,16,7
+EFTA01334722,10,17,att_verification,AT&T verification of authenticity cover sheet,True,23,1,22
+EFTA01334113,10,5,cingular_response_cover,Cingular National Compliance Center response cover (File Code 158886),True,23,18,5
+EFTA01721087,10,7,cingular_response_cover,Cingular National Compliance Center response cover,True,23,9,14
+EFTA01310045,10,12,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,22,16,6
+EFTA01310153,10,14,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,22,21,1
+EFTA01316025,10,10,att_cingular_bill,Cingular Wireless phone bill,True,22,19,3
+EFTA01316103,10,10,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,True,22,19,3
+EFTA01657659,10,12,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,22,19,3
+EFTA01715472,10,100,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),True,22,16,6
+EFTA01338661,10,9,fbi_subpoena_telecom,FBI subpoena to AT&T,True,22,14,8
+EFTA01309697,10,12,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,21,20,1
+EFTA01309775,10,14,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,21,17,4
+EFTA01310271,10,12,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,21,21,0
+EFTA01310297,10,14,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,True,21,17,4
+EFTA01311018,10,10,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,True,21,19,2
+EFTA01265164,10,4,att_subscriber_info,AT&T subscriber information return — Scott Borgerson,True,21,10,11
+EFTA01334118,10,5,cingular_response_cover,Cingular National Compliance Center response cover (File Code 158886),True,21,15,6
+EFTA01705727,10,100,tmobile_records,T-Mobile phone records,True,21,18,3
+EFTA01310335,10,12,att_cingular_bill,Cingular Wireless phone bill,True,20,19,1
+EFTA01339201,10,20,sprint_records,Sprint phone records,True,20,20,0
+EFTA01708156,10,100,cell_site_records,Cell site location information (CSLI) order/records,True,20,20,0
+EFTA01310323,10,12,att_cingular_bill,AT&T Wireless phone bill,True,19,16,3
+EFTA01310904,10,14,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,True,19,16,3
+EFTA01310918,10,14,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,19,18,1
+EFTA01706895,10,47,call_detail_records,Itemized call detail records,True,19,15,4
+EFTA01714184,10,100,call_detail_records,Itemized call detail records,True,19,10,9
+EFTA01725752,10,100,call_detail_records,Itemized call detail records,True,19,4,15
+EFTA01309721,10,14,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,18,18,0
+EFTA01310223,10,12,att_cingular_bill,AT&T Wireless phone bill,True,18,13,5
+EFTA01310311,10,12,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,True,18,13,5
+EFTA01310948,10,12,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,True,18,15,3
+EFTA01316075,10,14,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,True,18,13,5
+EFTA01311581,10,89,call_detail_records,AT&T/Cingular itemized call detail records,True,18,16,2
+EFTA00021736,8,3,gj_subpoena_telecom,Grand jury subpoena to AT&T,True,18,9,9
+EFTA01310263,10,8,att_cingular_bill,AT&T Wireless phone bill,True,17,13,4
+EFTA01311006,10,12,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,True,17,16,1
+EFTA01310213,10,10,att_cingular_bill,AT&T Wireless phone bill,True,16,13,3
+EFTA01311028,10,12,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,16,11,5
+EFTA01316173,10,8,att_cingular_bill,Cingular Wireless phone bill,True,16,14,2
+EFTA01717867,10,2,att_cingular_bill,Cingular Wireless phone bill,True,16,13,3
+EFTA01316243,10,225,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),True,16,14,2
+EFTA01705108,10,100,call_detail_records,Itemized call detail records,True,16,9,7
+EFTA01334108,10,5,cingular_response_cover,Cingular National Compliance Center response cover (File Code 152886),True,16,14,2
+EFTA01315977,10,12,att_cingular_bill,AT&T Wireless phone bill,True,15,12,3
+EFTA01316035,10,12,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,15,15,0
+EFTA00006487,4,100,call_detail_records,Itemized call detail records,True,15,5,10
+EFTA01682132,10,3,cingular_response_cover,Cingular National Compliance Center response cover (File Code 270996),True,15,8,7
+EFTA01697989,10,100,evidence_envelope,FBI evidence envelope (toll records / phone company returns) (case 31E-MM-108062),True,15,14,1
+EFTA01707979,10,75,call_detail_records,Itemized call detail records,True,14,13,1
+EFTA01725352,10,100,call_detail_records,Itemized call detail records,True,14,7,7
+EFTA01723763,10,100,evidence_envelope,FBI evidence envelope (toll records / phone company returns) (case 31E),True,14,13,1
+EFTA01333031,10,23,bellsouth_records,BellSouth phone records,True,14,7,7
+EFTA01316546,10,1,subscriber_info_return,Telecom subscriber information return,True,14,13,1
+EFTA01310844,10,6,att_cingular_bill,AT&T Wireless phone bill,True,13,13,0
+EFTA01698700,10,100,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),True,13,9,4
+EFTA00006587,4,100,call_detail_records,Itemized call detail records,True,13,1,12
+EFTA01725552,10,100,call_detail_records,Itemized call detail records,True,13,4,9
+EFTA01266114,10,3,metropcs_cdr,MetroPCS call detail records,True,13,8,5
+EFTA01338976,10,13,sprint_records,Sprint phone records,True,13,13,0
+EFTA01332994,10,9,bellsouth_records,BellSouth phone records,True,13,13,0
+EFTA00030992,8,3,message_pad,Message pad exhibit (phone messages),True,12,1,11
+EFTA01266128,10,5,tmobile_records,T-Mobile phone records,True,12,5,7
+EFTA01310369,10,6,att_cingular_bill,Cingular Wireless phone bill,True,11,9,2
+EFTA01310858,10,6,att_cingular_bill,AT&T Wireless phone bill,True,11,7,4
+EFTA01316237,10,6,att_cingular_bill,Cingular Wireless phone bill,True,11,9,2
+EFTA01661303,10,100,call_detail_records,Itemized call detail records,True,11,9,2
+EFTA01266120,10,1,metropcs_cdr,MetroPCS call detail records,True,11,9,2
+EFTA01312001,10,200,att_subscriber_info,AT&T subscriber information return,True,11,9,2
+EFTA00008008,4,7,cingular_response_cover,Cingular National Compliance Center response cover (File Code 153497),True,11,2,9
+EFTA01333910,10,4,cingular_response_cover,Cingular National Compliance Center response cover (File Code 132919),True,11,6,5
+EFTA01311448,10,4,att_cingular_bill,Cingular Wireless phone bill,True,10,4,6
+EFTA01705250,10,47,call_detail_records,Itemized call detail records,True,10,9,1
+EFTA00020372,8,20,pen_register_order,Pen register / trap and trace order,True,10,5,5
+EFTA00026494,8,24,pen_register_order,Pen register / trap and trace order,True,10,10,0
+EFTA01311531,10,4,att_cingular_bill,Cingular Wireless phone bill,True,9,7,2
+EFTA01311535,10,4,att_cingular_bill,Cingular Wireless phone bill,True,9,7,2
+EFTA01316159,10,14,att_cingular_bill,AT&T Wireless phone bill,True,9,6,3
+EFTA01316181,10,14,att_cingular_bill,AT&T Wireless phone bill,True,9,8,1
+EFTA01310516,10,247,call_detail_records,AT&T/Cingular itemized call detail records,True,9,8,1
+EFTA01691814,10,100,call_detail_records,Itemized call detail records,True,9,3,6
+EFTA01266124,10,4,gj_subpoena_telecom,Grand jury subpoena to T-Mobile,True,9,4,5
+EFTA00016349,8,24,pen_register_order,Pen register / trap and trace order,True,9,9,0
+EFTA01310123,10,14,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,8,6,2
+EFTA01315999,10,4,att_cingular_bill,Cingular Wireless phone bill,True,8,7,1
+EFTA01316019,10,6,att_cingular_bill,AT&T Wireless phone bill,True,8,7,1
+EFTA01311929,10,8,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),True,8,5,3
+EFTA01692259,10,11,call_detail_records,Itemized call detail records,True,8,2,6
+EFTA00017125,8,3,gj_subpoena_telecom,Grand jury subpoena to AT&T,True,8,3,5
+EFTA00021707,8,2,gj_subpoena_telecom,Grand jury subpoena to AT&T,True,8,3,5
+EFTA01326113,10,3,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (72-MM-NEW),True,8,2,6
+EFTA01326125,10,3,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (72-MM-NEW),True,8,2,6
+EFTA01305853,10,10,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,True,7,3,4
+EFTA01316061,10,14,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,True,7,6,1
+EFTA01316089,10,14,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,True,7,6,1
+EFTA01690775,10,100,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),True,7,7,0
+EFTA01691914,10,50,call_detail_records,Itemized call detail records,True,7,2,5
+EFTA01716584,10,56,call_detail_records,Itemized call detail records,True,7,6,1
+EFTA01342826,10,1,att_subscriber_info,AT&T subscriber information return — Scott Borgerson,True,7,3,4
+EFTA01326119,10,3,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (72-MM-NEW),True,7,1,6
+EFTA01326104,10,3,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (72-MM-NEW),True,7,2,5
+EFTA01326131,10,3,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (72-MM-NEW),True,7,2,5
+EFTA01264031,10,9,cell_site_records,Cell site location information (CSLI) order/records,True,7,0,7
+EFTA01316547,10,1,subscriber_info_return,Telecom subscriber information return,True,7,5,2
+EFTA01309747,10,14,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,6,6,0
+EFTA01706305,10,100,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,True,6,6,0
+EFTA01690353,10,100,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),True,6,4,2
+EFTA01707042,10,42,call_detail_records,Itemized call detail records,True,6,1,5
+EFTA01312201,10,1,att_subscriber_info,AT&T subscriber information return,True,6,6,0
+EFTA01326122,10,3,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (72-MM-NEW),True,6,1,5
+EFTA01326134,10,3,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (72-MM-NEW),True,6,1,5
+EFTA01326116,10,3,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (72-MM-NEW),True,6,2,4
+EFTA01316147,10,12,att_cingular_bill,Cingular Wireless phone bill,True,5,5,0
+EFTA01316195,10,12,att_cingular_bill,Cingular Wireless phone bill,True,5,0,5
+EFTA01690514,10,100,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),True,5,4,1
+EFTA01695339,10,100,call_detail_records,Itemized call detail records,True,5,4,1
+EFTA01324892,10,2,att_subscriber_info,AT&T subscriber information return — CARLOS MOYA,True,5,4,1
+EFTA01326101,10,3,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (72-MM-NEW),True,5,2,3
+EFTA01326128,10,3,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (72-MM-NEW),True,5,0,5
+EFTA01326110,10,3,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (72-MM-NEW),True,5,1,4
+EFTA01326107,10,3,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (72-MM-NEW),True,5,1,4
+EFTA01338519,10,30,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (Records),True,5,3,2
+EFTA01307704,10,1,fbi_ec_toll,FBI EC requesting toll/call detail records,True,5,1,4
+EFTA00024238,8,10,message_pad,Message pad exhibit (phone messages) — GX-1-A through GX-4-K,True,5,2,3
+EFTA02729123,11,12,bellsouth_records,BellSouth phone records,True,5,5,0
+EFTA00018663,8,33,cell_site_records,Cell site location information (CSLI) order/records,True,5,4,1
+EFTA01334087,10,2,nextel_records,Nextel/Sprint phone records,True,5,3,2
+EFTA01305815,10,12,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,True,4,0,4
+EFTA01305875,10,14,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,4,0,4
+EFTA01310850,10,8,att_cingular_bill,AT&T Wireless phone bill,True,4,2,2
+EFTA01311553,10,16,att_cingular_bill,AT&T Wireless phone bill,True,4,0,4
+EFTA01311747,10,30,att_cingular_bill,Cingular Wireless phone bill,True,4,3,1
+EFTA00021038,8,11,message_pad,Message pad exhibit (phone messages) — GX-1-A through GX-4-F,True,4,3,1
+EFTA01302113,10,1,comcast_records,Comcast phone/internet records,True,4,3,1
+EFTA01595397,10,1,comcast_records,Comcast phone/internet records,True,4,2,2
+EFTA01690975,10,100,cell_site_records,Cell site location information (CSLI) order/records,True,4,3,1
+EFTA01309657,10,12,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,3,0,3
+EFTA01309669,10,14,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,3,0,3
+EFTA01309683,10,14,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,3,0,3
+EFTA01310890,10,14,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,3,2,1
+EFTA01316003,10,4,att_cingular_bill,Cingular Wireless phone bill,True,3,3,0
+EFTA01311814,10,37,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),True,3,1,2
+EFTA01311890,10,34,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),True,3,1,2
+EFTA01722600,10,16,call_detail_records,AT&T/Cingular itemized call detail records,True,3,3,0
+EFTA01263330,10,2,att_subscriber_info,AT&T subscriber information return,True,3,3,0
+EFTA00015189,8,1,cingular_response_cover,Cingular National Compliance Center response cover (File Code 227815),True,3,2,1
+EFTA01326046,10,1,tmobile_records,T-Mobile phone records,True,3,0,3
+EFTA01326048,10,1,tmobile_records,T-Mobile phone records,True,3,0,3
+EFTA01309789,10,14,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,2,1,1
+EFTA01310347,10,10,att_cingular_bill,AT&T Wireless phone bill,True,2,0,2
+EFTA01312202,10,5,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,True,2,2,0
+EFTA01315967,10,10,att_cingular_bill,AT&T Wireless phone bill,True,2,2,0
+EFTA01333947,10,2,att_cingular_bill,Cingular Wireless phone bill,True,2,0,2
+EFTA01311486,10,45,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),True,2,1,1
+EFTA01690453,10,61,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),True,2,2,0
+EFTA01661503,10,100,call_detail_records,AT&T/Cingular itemized call detail records,True,2,2,0
+EFTA01705208,10,42,call_detail_records,Itemized call detail records,True,2,0,2
+EFTA01709088,10,100,call_detail_records,AT&T/Cingular itemized call detail records,True,2,1,1
+EFTA01709444,10,100,call_detail_records,AT&T/Cingular itemized call detail records,True,2,2,0
+EFTA01264394,10,2,att_subscriber_info,AT&T subscriber information return,True,2,1,1
+EFTA01326089,10,1,fbi_ec_toll,FBI EC requesting toll/call detail records,True,2,0,2
+EFTA00037921,8,1,message_pad,Message pad exhibit (phone messages),True,2,2,0
+EFTA00022197,8,2,message_pad,Message pad exhibit (phone messages),True,2,2,0
+EFTA01595381,10,1,comcast_records,Comcast phone/internet records,True,2,1,1
+EFTA01596065,10,1,comcast_records,Comcast phone/internet records,True,2,1,1
+EFTA01718723,10,3,pen_register_order,Pen register / trap and trace order,True,2,0,2
+EFTA01310960,10,14,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,True,1,0,1
+EFTA01316123,10,14,att_cingular_bill,Cingular Wireless phone bill,True,1,0,1
+EFTA01311412,10,36,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),True,1,1,0
+EFTA01333884,10,1,call_detail_records,Itemized call detail records,True,1,0,1
+EFTA01697692,10,100,call_detail_records,Itemized call detail records,True,1,1,0
+EFTA01342679,10,1,metropcs_cdr,MetroPCS call detail records,True,1,1,0
+EFTA01304656,10,3,cingular_response_cover,Cingular National Compliance Center response cover (File Code 153497),True,1,1,0
+EFTA01333877,10,4,sprint_records,Sprint phone records,True,1,1,0
+EFTA01263102,10,10,tmobile_records,T-Mobile phone records,True,1,1,0
+EFTA01596069,10,1,comcast_records,Comcast phone/internet records,True,1,0,1
+EFTA01263112,10,5,pen_register_order,Pen register / trap and trace order,True,1,1,0
+EFTA01266133,10,1,cell_site_records,Cell site location information (CSLI) order/records,True,1,0,1
+EFTA00068996,9,14,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA00087123,9,9,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA00201407,9,10,att_cingular_bill,AT&T Wireless phone bill,False,0,0,0
+EFTA00201417,9,8,att_cingular_bill,Cingular Wireless phone bill,False,0,0,0
+EFTA00201425,9,12,att_cingular_bill,AT&T Wireless phone bill,False,0,0,0
+EFTA00201437,9,10,att_cingular_bill,AT&T Wireless phone bill,False,0,0,0
+EFTA00201447,9,4,att_cingular_bill,Cingular Wireless phone bill,False,0,0,0
+EFTA00201451,9,8,att_cingular_bill,AT&T Wireless phone bill,False,0,0,0
+EFTA00201459,9,8,att_cingular_bill,Cingular Wireless phone bill,False,0,0,0
+EFTA00201467,9,6,att_cingular_bill,AT&T Wireless phone bill,False,0,0,0
+EFTA00201473,9,4,att_cingular_bill,Cingular Wireless phone bill,False,0,0,0
+EFTA00201477,9,8,att_cingular_bill,AT&T Wireless phone bill,False,0,0,0
+EFTA00201485,9,12,att_cingular_bill,AT&T Wireless phone bill,False,0,0,0
+EFTA00201497,9,6,att_cingular_bill,AT&T Wireless phone bill,False,0,0,0
+EFTA00201503,9,6,att_cingular_bill,AT&T Wireless phone bill,False,0,0,0
+EFTA00201509,9,8,att_cingular_bill,AT&T Wireless phone bill,False,0,0,0
+EFTA00201517,9,6,att_cingular_bill,AT&T Wireless phone bill,False,0,0,0
+EFTA00201523,9,10,att_cingular_bill,Cingular Wireless phone bill,False,0,0,0
+EFTA00201533,9,12,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA00201545,9,14,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA00201559,9,14,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA00201573,9,14,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA00201587,9,14,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA00201601,9,12,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA00201613,9,14,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA00201627,9,12,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA00201639,9,10,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA00201649,9,12,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA00201661,9,12,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA00201673,9,12,att_cingular_bill,AT&T Wireless phone bill,False,0,0,0
+EFTA00201685,9,12,att_cingular_bill,Cingular Wireless phone bill,False,0,0,0
+EFTA00201697,9,10,att_cingular_bill,AT&T Wireless phone bill,False,0,0,0
+EFTA00201707,9,14,att_cingular_bill,Cingular Wireless phone bill,False,0,0,0
+EFTA00201721,9,10,att_cingular_bill,AT&T Wireless phone bill,False,0,0,0
+EFTA00201731,9,12,att_cingular_bill,Cingular Wireless phone bill,False,0,0,0
+EFTA00201743,9,14,att_cingular_bill,AT&T Wireless phone bill,False,0,0,0
+EFTA00201757,9,10,att_cingular_bill,Cingular Wireless phone bill,False,0,0,0
+EFTA00201767,9,12,att_cingular_bill,AT&T Wireless phone bill,False,0,0,0
+EFTA00201779,9,10,att_cingular_bill,Cingular Wireless phone bill,False,0,0,0
+EFTA00201789,9,12,att_cingular_bill,AT&T Wireless phone bill,False,0,0,0
+EFTA00201801,9,14,att_cingular_bill,AT&T Wireless phone bill,False,0,0,0
+EFTA00201815,9,8,att_cingular_bill,Cingular Wireless phone bill,False,0,0,0
+EFTA00201823,9,14,att_cingular_bill,AT&T Wireless phone bill,False,0,0,0
+EFTA00201837,9,12,att_cingular_bill,Cingular Wireless phone bill,False,0,0,0
+EFTA00201849,9,14,att_cingular_bill,AT&T Wireless phone bill,False,0,0,0
+EFTA00201863,9,8,att_cingular_bill,Cingular Wireless phone bill,False,0,0,0
+EFTA00201871,9,16,att_cingular_bill,AT&T Wireless phone bill,False,0,0,0
+EFTA00202112,9,6,att_cingular_bill,Cingular Wireless phone bill,False,0,0,0
+EFTA00202118,9,12,att_cingular_bill,AT&T Wireless phone bill,False,0,0,0
+EFTA00202130,9,12,att_cingular_bill,Cingular Wireless phone bill,False,0,0,0
+EFTA00202747,9,4,att_cingular_bill,Cingular Wireless phone bill,False,0,0,0
+EFTA00202751,9,4,att_cingular_bill,Cingular Wireless phone bill,False,0,0,0
+EFTA00203020,9,28,att_cingular_bill,Cingular Wireless phone bill,False,0,0,0
+EFTA00203048,9,30,att_cingular_bill,Cingular Wireless phone bill,False,0,0,0
+EFTA00203813,9,14,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA00203827,9,12,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA00203839,9,16,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA00203855,9,12,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA00203867,9,12,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA00203879,9,12,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA00203891,9,14,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA00203905,9,14,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA00203919,9,12,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA00203931,9,14,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA00203945,9,14,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA00203959,9,16,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA00203975,9,14,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA00203989,9,16,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA00204005,9,16,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA00204021,9,14,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA00242118,9,14,att_cingular_bill,Cingular Wireless phone bill,False,0,0,0
+EFTA00242132,9,14,att_cingular_bill,Cingular Wireless phone bill,False,0,0,0
+EFTA00242147,9,15,att_cingular_bill,Cingular Wireless phone bill,False,0,0,0
+EFTA00242162,9,10,att_cingular_bill,Cingular Wireless phone bill,False,0,0,0
+EFTA00242172,9,19,att_cingular_bill,Cingular Wireless phone bill,False,0,0,0
+EFTA01221669,9,8,att_cingular_bill,Cingular Wireless phone bill,False,0,0,0
+EFTA01257920,9,14,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA01257934,9,14,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA01257948,9,14,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA01257962,9,12,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA01257974,9,16,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA01257990,9,12,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA01258002,9,10,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA01258012,9,12,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA01258153,9,16,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA01258169,9,8,att_cingular_bill,AT&T Wireless phone bill,False,0,0,0
+EFTA01258177,9,6,att_cingular_bill,AT&T Wireless phone bill,False,0,0,0
+EFTA01258183,9,6,att_cingular_bill,AT&T Wireless phone bill,False,0,0,0
+EFTA01258189,9,14,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA01258203,9,14,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA01258217,9,12,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA01258229,9,12,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA01258241,9,8,att_cingular_bill,Cingular Wireless phone bill,False,0,0,0
+EFTA01258394,9,4,att_cingular_bill,Cingular Wireless phone bill,False,0,0,0
+EFTA01258398,9,6,att_cingular_bill,AT&T Wireless phone bill,False,0,0,0
+EFTA01258404,9,12,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA01258416,9,12,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA01258428,9,12,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA01258440,9,16,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA01258456,9,14,att_cingular_bill,AT&T Wireless phone bill,False,0,0,0
+EFTA01258496,9,28,att_cingular_bill,Cingular Wireless phone bill,False,0,0,0
+EFTA01258542,9,57,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA01258599,9,55,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA01258654,9,31,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA01259448,9,10,att_cingular_bill,AT&T Wireless phone bill,False,0,0,0
+EFTA01259458,9,14,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA01259472,9,12,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA01259484,9,12,att_cingular_bill,AT&T Wireless phone bill,False,0,0,0
+EFTA01259496,9,8,att_cingular_bill,Cingular Wireless phone bill,False,0,0,0
+EFTA01309619,10,12,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA01310083,10,14,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA01310111,10,12,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA01310283,10,14,att_cingular_bill,Cingular Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA01311052,10,14,att_cingular_bill,AT&T Wireless phone bill — Jeffrey Epstein account,False,0,0,0
+EFTA01316113,10,10,att_cingular_bill,AT&T Wireless phone bill,False,0,0,0
+EFTA01316137,10,10,att_cingular_bill,AT&T Wireless phone bill,False,0,0,0
+EFTA00201887,9,225,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),False,0,0,0
+EFTA00202142,9,300,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),False,0,0,0
+EFTA00202442,9,154,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),False,0,0,0
+EFTA00202602,9,30,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),False,0,0,0
+EFTA00202632,9,36,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),False,0,0,0
+EFTA00202668,9,34,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),False,0,0,0
+EFTA00202702,9,45,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),False,0,0,0
+EFTA00202755,9,24,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),False,0,0,0
+EFTA00202779,9,30,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),False,0,0,0
+EFTA00202809,9,26,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),False,0,0,0
+EFTA00202938,9,43,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),False,0,0,0
+EFTA00202981,9,19,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),False,0,0,0
+EFTA00203000,9,20,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),False,0,0,0
+EFTA00203115,9,37,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),False,0,0,0
+EFTA00203152,9,39,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),False,0,0,0
+EFTA00203191,9,34,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),False,0,0,0
+EFTA00203225,9,5,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),False,0,0,0
+EFTA00203230,9,8,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),False,0,0,0
+EFTA00204164,9,145,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),False,0,0,0
+EFTA00260340,9,81,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),False,0,0,0
+EFTA01221801,9,3,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),False,0,0,0
+EFTA01258249,9,145,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),False,0,0,0
+EFTA01715972,10,100,att_cingular_bill,AT&T/Cingular phone records (billing/subscriber data),False,0,0,0
+DOJ-OGR-00031093,99,81,call_detail_records,AT&T/Cingular itemized call detail records,False,0,0,0
+EFTA00202835,9,89,call_detail_records,AT&T/Cingular itemized call detail records,False,0,0,0
+EFTA00203238,9,11,call_detail_records,AT&T/Cingular itemized call detail records,False,0,0,0
+EFTA00204309,9,247,call_detail_records,AT&T/Cingular itemized call detail records,False,0,0,0
+EFTA00522587,9,11,call_detail_records,AT&T/Cingular itemized call detail records,False,0,0,0
+EFTA00791039,9,68,call_detail_records,Itemized call detail records,False,0,0,0
+EFTA01220376,9,64,call_detail_records,AT&T/Cingular itemized call detail records,False,0,0,0
+EFTA01262345,9,22,call_detail_records,AT&T/Cingular itemized call detail records,False,0,0,0
+EFTA01262387,9,13,call_detail_records,Itemized call detail records,False,0,0,0
+EFTA01695290,10,49,call_detail_records,Itemized call detail records,False,0,0,0
+EFTA01716940,10,20,call_detail_records,Itemized call detail records,False,0,0,0
+EFTA00153452,9,1,metropcs_cdr,MetroPCS call detail records,False,0,0,0
+EFTA00153457,9,2,metropcs_cdr,MetroPCS call detail records,False,0,0,0
+EFTA00240154,9,1,metropcs_cdr,MetroPCS call detail records,False,0,0,0
+EFTA00240173,9,1,metropcs_cdr,MetroPCS call detail records,False,0,0,0
+EFTA00240178,9,1,metropcs_cdr,MetroPCS call detail records,False,0,0,0
+EFTA00240196,9,1,metropcs_cdr,MetroPCS call detail records,False,0,0,0
+EFTA00240206,9,2,metropcs_cdr,MetroPCS call detail records,False,0,0,0
+EFTA00240214,9,1,metropcs_cdr,MetroPCS call detail records,False,0,0,0
+EFTA00240227,9,1,metropcs_cdr,MetroPCS call detail records,False,0,0,0
+EFTA00240247,9,1,metropcs_cdr,MetroPCS call detail records,False,0,0,0
+EFTA00240259,9,1,metropcs_cdr,MetroPCS call detail records,False,0,0,0
+EFTA00240272,9,1,metropcs_cdr,MetroPCS call detail records,False,0,0,0
+EFTA00240275,9,1,metropcs_cdr,MetroPCS call detail records,False,0,0,0
+EFTA00240279,9,1,metropcs_cdr,MetroPCS call detail records,False,0,0,0
+EFTA00240283,9,1,metropcs_cdr,MetroPCS call detail records,False,0,0,0
+EFTA00240287,9,1,metropcs_cdr,MetroPCS call detail records,False,0,0,0
+EFTA00240299,9,1,metropcs_cdr,MetroPCS call detail records,False,0,0,0
+EFTA00240302,9,1,metropcs_cdr,MetroPCS call detail records,False,0,0,0
+EFTA00240305,9,1,metropcs_cdr,MetroPCS call detail records,False,0,0,0
+EFTA00240309,9,1,metropcs_cdr,MetroPCS call detail records,False,0,0,0
+EFTA00240313,9,1,metropcs_cdr,MetroPCS call detail records,False,0,0,0
+EFTA00240328,9,1,metropcs_cdr,MetroPCS call detail records,False,0,0,0
+EFTA00240334,9,1,metropcs_cdr,MetroPCS call detail records,False,0,0,0
+EFTA00240349,9,1,metropcs_cdr,MetroPCS call detail records,False,0,0,0
+EFTA00240378,9,1,metropcs_cdr,MetroPCS call detail records,False,0,0,0
+EFTA00240397,9,1,metropcs_cdr,MetroPCS call detail records,False,0,0,0
+EFTA00240400,9,1,metropcs_cdr,MetroPCS call detail records,False,0,0,0
+EFTA00240405,9,2,metropcs_cdr,MetroPCS call detail records,False,0,0,0
+EFTA00277125,9,1,metropcs_cdr,MetroPCS call detail records,False,0,0,0
+EFTA01176581,9,2,metropcs_cdr,MetroPCS call detail records,False,0,0,0
+EFTA01342680,10,2,metropcs_cdr,MetroPCS call detail records,False,0,0,0
+EFTA00075285,9,5,att_subscriber_info,AT&T subscriber information return — Scott Borgerson,False,0,0,0
+EFTA00096455,9,7,att_subscriber_info,AT&T subscriber information return,False,0,0,0
+EFTA00100589,9,7,att_subscriber_info,AT&T subscriber information return,False,0,0,0
+EFTA00129314,9,4,att_subscriber_info,AT&T subscriber information return — KARYNA B,False,0,0,0
+EFTA00152190,9,1,att_subscriber_info,AT&T subscriber information return — Scott Borgerson,False,0,0,0
+EFTA00152191,9,1,att_subscriber_info,AT&T subscriber information return — Scott Borgerson,False,0,0,0
+EFTA00204035,9,129,att_subscriber_info,AT&T subscriber information return — Jeffrey Epstein,False,0,0,0
+EFTA00277320,9,1,att_subscriber_info,AT&T subscriber information return — Scott Borgerson,False,0,0,0
+EFTA00277321,9,2,att_subscriber_info,AT&T subscriber information return — Scott Borgerson,False,0,0,0
+EFTA00277477,9,4,att_subscriber_info,AT&T subscriber information return — Scott Borgerson,False,0,0,0
+EFTA00277481,9,5,att_subscriber_info,AT&T subscriber information return — Scott Borgerson,False,0,0,0
+EFTA01244683,9,1,att_subscriber_info,AT&T subscriber information return — CHRISTINA Wa,False,0,0,0
+EFTA01244684,9,5,att_subscriber_info,AT&T subscriber information return — Jeffrey Epstein,False,0,0,0
+EFTA01244689,9,1,att_subscriber_info,AT&T subscriber information return — CARLOS MOYA,False,0,0,0
+EFTA01258024,9,129,att_subscriber_info,AT&T subscriber information return — Jeffrey Epstein,False,0,0,0
+EFTA01264598,10,2,att_subscriber_info,AT&T subscriber information return,False,0,0,0
+EFTA00040087,9,2,att_verification,AT&T verification of authenticity cover sheet (Matter ID 448193),False,0,0,0
+EFTA00097921,9,17,att_verification,AT&T verification of authenticity cover sheet,False,0,0,0
+EFTA00099024,9,2,att_verification,AT&T verification of authenticity cover sheet (Matter ID 448193),False,0,0,0
+EFTA00240536,9,248,cingular_response_cover,Cingular National Compliance Center response cover,False,0,0,0
+EFTA00257503,9,100,cingular_response_cover,Cingular National Compliance Center response cover (File Code 229007),False,0,0,0
+EFTA00260685,9,100,cingular_response_cover,Cingular National Compliance Center response cover (File Code 153496),False,0,0,0
+EFTA01258539,9,3,cingular_response_cover,Cingular National Compliance Center response cover (File Code 406658),False,0,0,0
+EFTA01262109,9,2,cingular_response_cover,Cingular National Compliance Center response cover,False,0,0,0
+EFTA01262382,9,5,cingular_response_cover,Cingular National Compliance Center response cover (File Code 158886),False,0,0,0
+EFTA00080618,9,2,gj_subpoena_telecom,Grand jury subpoena to AT&T,False,0,0,0
+EFTA00084140,9,4,gj_subpoena_telecom,Grand jury subpoena to T-Mobile,False,0,0,0
+EFTA00092855,9,4,gj_subpoena_telecom,Grand jury subpoena to T-Mobile (Ref 2019R01059.),False,0,0,0
+EFTA00092859,9,4,gj_subpoena_telecom,Grand jury subpoena to Sprint (Ref 2019R0159.),False,0,0,0
+EFTA00092863,9,4,gj_subpoena_telecom,Grand jury subpoena to Verizon (Ref 2019R0159.),False,0,0,0
+EFTA00092867,9,4,gj_subpoena_telecom,Grand jury subpoena to AT&T (Ref 2019R01059.),False,0,0,0
+EFTA00102000,9,4,gj_subpoena_telecom,Grand jury subpoena to telecom provider,False,0,0,0
+EFTA00102045,9,5,gj_subpoena_telecom,Grand jury subpoena to AT&T,False,0,0,0
+EFTA00102050,9,4,gj_subpoena_telecom,Grand jury subpoena to Verizon,False,0,0,0
+EFTA00108862,9,2,gj_subpoena_telecom,Grand jury subpoena to AT&T,False,0,0,0
+EFTA00108864,9,1,gj_subpoena_telecom,Grand jury subpoena to AT&T,False,0,0,0
+EFTA00108865,9,1,gj_subpoena_telecom,Grand jury subpoena to AT&T,False,0,0,0
+EFTA00123458,9,4,gj_subpoena_telecom,Grand jury subpoena to AT&T (Ref JE08112019.),False,0,0,0
+EFTA00123469,9,4,gj_subpoena_telecom,Grand jury subpoena to Comcast (Ref 2019R0159.),False,0,0,0
+EFTA00123473,9,4,gj_subpoena_telecom,Grand jury subpoena to Verizon (Ref 2019R0159.),False,0,0,0
+EFTA00123477,9,4,gj_subpoena_telecom,Grand jury subpoena to AT&T (Ref 2019R01059.),False,0,0,0
+EFTA00123554,9,5,gj_subpoena_telecom,Grand jury subpoena to AT&T,False,0,0,0
+EFTA00124341,9,1,gj_subpoena_telecom,Grand jury subpoena to Sprint,False,0,0,0
+EFTA00125018,9,6,gj_subpoena_telecom,Grand jury subpoena to Verizon,False,0,0,0
+EFTA00125026,9,3,gj_subpoena_telecom,Grand jury subpoena to Verizon (Ref 2019R0159.),False,0,0,0
+EFTA00129269,9,1,gj_subpoena_telecom,Grand jury subpoena to Sprint,False,0,0,0
+EFTA00133985,9,1,gj_subpoena_telecom,Grand jury subpoena to Sprint,False,0,0,0
+EFTA00134039,9,112,gj_subpoena_telecom,Grand jury subpoena to Comcast,False,0,0,0
+EFTA00146783,9,2,gj_subpoena_telecom,Grand jury subpoena to Verizon,False,0,0,0
+EFTA00146785,9,2,gj_subpoena_telecom,Grand jury subpoena to Verizon,False,0,0,0
+EFTA00146787,9,2,gj_subpoena_telecom,Grand jury subpoena to Verizon,False,0,0,0
+EFTA00146789,9,2,gj_subpoena_telecom,Grand jury subpoena to Verizon,False,0,0,0
+EFTA00146796,9,1,gj_subpoena_telecom,Grand jury subpoena to Verizon,False,0,0,0
+EFTA00151593,9,4,gj_subpoena_telecom,Grand jury subpoena to Verizon,False,0,0,0
+EFTA00151597,9,4,gj_subpoena_telecom,Grand jury subpoena to T-Mobile,False,0,0,0
+EFTA00152440,9,4,gj_subpoena_telecom,Grand jury subpoena to AT&T,False,0,0,0
+EFTA00152448,9,4,gj_subpoena_telecom,Grand jury subpoena to T-Mobile,False,0,0,0
+EFTA00152452,9,4,gj_subpoena_telecom,Grand jury subpoena to Verizon,False,0,0,0
+EFTA00152456,9,4,gj_subpoena_telecom,Grand jury subpoena to AT&T,False,0,0,0
+EFTA00152460,9,4,gj_subpoena_telecom,Grand jury subpoena to AT&T,False,0,0,0
+EFTA00152464,9,4,gj_subpoena_telecom,Grand jury subpoena to Verizon,False,0,0,0
+EFTA00152468,9,4,gj_subpoena_telecom,Grand jury subpoena to T-Mobile,False,0,0,0
+EFTA00153346,9,1,gj_subpoena_telecom,Grand jury subpoena to T-Mobile,False,0,0,0
+EFTA00153347,9,4,gj_subpoena_telecom,Grand jury subpoena to T-Mobile,False,0,0,0
+EFTA00172175,9,4,gj_subpoena_telecom,Grand jury subpoena to Sprint,False,0,0,0
+EFTA00240103,9,1,gj_subpoena_telecom,Grand jury subpoena to Verizon,False,0,0,0
+EFTA00240104,9,1,gj_subpoena_telecom,Grand jury subpoena to Verizon,False,0,0,0
+EFTA00242192,9,100,gj_subpoena_telecom,Grand jury subpoena to Verizon,False,0,0,0
+EFTA00242292,9,57,gj_subpoena_telecom,Grand jury subpoena to Verizon,False,0,0,0
+EFTA00270332,9,1,gj_subpoena_telecom,Grand jury subpoena to AT&T,False,0,0,0
+EFTA00277131,9,4,gj_subpoena_telecom,Grand jury subpoena to T-Mobile,False,0,0,0
+EFTA00277135,9,1,gj_subpoena_telecom,Grand jury subpoena to T-Mobile,False,0,0,0
+EFTA00277496,9,3,gj_subpoena_telecom,Grand jury subpoena to AT&T,False,0,0,0
+EFTA01083955,9,5,gj_subpoena_telecom,Grand jury subpoena to AT&T,False,0,0,0
+EFTA01657282,10,2,gj_subpoena_telecom,Grand jury subpoena to AT&T,False,0,0,0
+HOUSE_OVERSIGHT_018872,99,1,gj_subpoena_telecom,Grand jury subpoena to Cingular,False,0,0,0
+EFTA00129288,9,5,fbi_subpoena_telecom,FBI subpoena to AT&T,False,0,0,0
+EFTA00240102,9,1,fbi_subpoena_telecom,FBI subpoena to Verizon,False,0,0,0
+EFTA00240784,9,9,fbi_subpoena_telecom,FBI subpoena to AT&T,False,0,0,0
+EFTA00269505,9,1,fbi_subpoena_telecom,FBI subpoena to Cingular/AT&T,False,0,0,0
+HOUSE_OVERSIGHT_012197,99,1,fbi_subpoena_telecom,FBI subpoena to telecom provider,False,0,0,0
+EFTA00239940,9,1,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (06),False,0,0,0
+EFTA00239795,9,1,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request,False,0,0,0
+EFTA00239791,9,1,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (06),False,0,0,0
+EFTA00240055,9,1,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request,False,0,0,0
+EFTA00239939,9,1,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (06),False,0,0,0
+EFTA00239895,9,43,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (06),False,0,0,0
+EFTA00241271,9,1,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request,False,0,0,0
+EFTA00239790,9,1,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request,False,0,0,0
+EFTA00240056,9,1,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (06),False,0,0,0
+EFTA00240114,9,30,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (06),False,0,0,0
+EFTA00240016,9,38,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (06),False,0,0,0
+EFTA00240144,9,1,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request,False,0,0,0
+EFTA00239938,9,1,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request,False,0,0,0
+EFTA00239789,9,1,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request,False,0,0,0
+EFTA00239852,9,43,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (06),False,0,0,0
+EFTA00240145,9,2,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request,False,0,0,0
+EFTA00240424,9,112,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (415M-MM-113529),False,0,0,0
+EFTA00239797,9,1,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (06),False,0,0,0
+EFTA00240054,9,1,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request,False,0,0,0
+EFTA00239796,9,1,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request,False,0,0,0
+EFTA00108833,9,7,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (72-MM-113327),False,0,0,0
+EFTA00108840,9,2,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request,False,0,0,0
+EFTA00129645,9,286,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request,False,0,0,0
+EFTA00108842,9,3,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request,False,0,0,0
+EFTA00270311,9,3,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (72-MM-NEW),False,0,0,0
+EFTA00270323,9,3,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (72-MM-NEW),False,0,0,0
+EFTA00270281,9,3,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (72-MM-NEW),False,0,0,0
+EFTA00270299,9,3,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (72-MM-NEW),False,0,0,0
+EFTA00270302,9,3,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (72-MM-NEW),False,0,0,0
+EFTA00270290,9,3,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (72-MM-NEW),False,0,0,0
+EFTA00270284,9,3,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (72-MM-NEW),False,0,0,0
+EFTA00270296,9,3,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (72-MM-NEW),False,0,0,0
+EFTA00270317,9,3,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (72-MM-NEW),False,0,0,0
+EFTA00270305,9,3,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (72-MM-NEW),False,0,0,0
+EFTA00270320,9,3,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (72-MM-NEW),False,0,0,0
+EFTA00270308,9,3,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (72-MM-NEW),False,0,0,0
+EFTA00270287,9,3,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (72-MM-NEW),False,0,0,0
+EFTA00270293,9,3,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (72-MM-NEW),False,0,0,0
+EFTA00270314,9,3,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (72-MM-NEW),False,0,0,0
+EFTA01261113,9,3,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (72-MM-NEW),False,0,0,0
+EFTA00108785,9,2,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request,False,0,0,0
+EFTA00108773,9,7,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (72-MM-113327),False,0,0,0
+EFTA00108756,9,3,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request,False,0,0,0
+EFTA00108715,9,2,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request,False,0,0,0
+EFTA00108727,9,2,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request,False,0,0,0
+EFTA00108796,9,3,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request,False,0,0,0
+EFTA00108825,9,3,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request,False,0,0,0
+EFTA00108741,9,3,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request,False,0,0,0
+EFTA00108794,9,2,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request,False,0,0,0
+EFTA00108732,9,7,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (72-MM-113327),False,0,0,0
+EFTA00108823,9,2,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request,False,0,0,0
+EFTA00108811,9,2,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request,False,0,0,0
+EFTA00108806,9,2,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request,False,0,0,0
+EFTA00108720,9,7,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (72-MM-113327),False,0,0,0
+EFTA00108768,9,3,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request,False,0,0,0
+EFTA00108744,9,2,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request,False,0,0,0
+EFTA00108782,9,3,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request,False,0,0,0
+EFTA00108766,9,2,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request,False,0,0,0
+EFTA00108749,9,7,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (72-MM-113327),False,0,0,0
+EFTA00108799,9,7,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (72-MM-113327),False,0,0,0
+EFTA00108625,9,1,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request,False,0,0,0
+EFTA00108830,9,3,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request,False,0,0,0
+EFTA00108759,9,7,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (72-MM-113327),False,0,0,0
+EFTA00108627,9,1,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request,False,0,0,0
+EFTA00108771,9,2,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request,False,0,0,0
+EFTA00108787,9,7,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (72-MM-113327),False,0,0,0
+EFTA01261116,9,3,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (72-MM-NEW),False,0,0,0
+EFTA00108746,9,3,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request,False,0,0,0
+EFTA00108780,9,2,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request,False,0,0,0
+EFTA00108708,9,7,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (72-MM-113327),False,0,0,0
+EFTA00108828,9,2,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request,False,0,0,0
+EFTA00108729,9,3,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request,False,0,0,0
+EFTA00108808,9,3,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request,False,0,0,0
+EFTA00108717,9,3,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request,False,0,0,0
+EFTA00108816,9,7,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request (72-MM-113327),False,0,0,0
+EFTA00108813,9,3,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request,False,0,0,0
+EFTA00108739,9,2,fbi_baleen_sweep,FBI Baleen Sweep toll records processing request,False,0,0,0
+EFTA00261437,9,47,fbi_toll_analysis,FBI toll records analysis / intelligence product,False,0,0,0
+EFTA00269452,9,1,fbi_ec_toll,FBI EC requesting toll/call detail records,False,0,0,0
+EFTA00269459,9,1,fbi_ec_toll,FBI EC requesting toll/call detail records,False,0,0,0
+EFTA00269461,9,1,fbi_ec_toll,FBI EC requesting toll/call detail records,False,0,0,0
+EFTA00269465,9,1,fbi_ec_toll,FBI EC requesting toll/call detail records,False,0,0,0
+EFTA00269468,9,1,fbi_ec_toll,FBI EC requesting toll/call detail records,False,0,0,0
+EFTA00269470,9,1,fbi_ec_toll,FBI EC requesting toll/call detail records,False,0,0,0
+EFTA00269471,9,1,fbi_ec_toll,FBI EC requesting toll/call detail records,False,0,0,0
+EFTA00269473,9,1,fbi_ec_toll,FBI EC requesting toll/call detail records,False,0,0,0
+EFTA00269475,9,1,fbi_ec_toll,FBI EC requesting toll/call detail records,False,0,0,0
+EFTA00269476,9,1,fbi_ec_toll,FBI EC requesting toll/call detail records,False,0,0,0
+EFTA00269481,9,1,fbi_ec_toll,FBI EC requesting toll/call detail records,False,0,0,0
+EFTA00269502,9,1,fbi_ec_toll,FBI EC requesting toll/call detail records,False,0,0,0
+EFTA00269509,9,1,fbi_ec_toll,FBI EC requesting toll/call detail records,False,0,0,0
+EFTA00269511,9,1,fbi_ec_toll,FBI EC requesting toll/call detail records,False,0,0,0
+EFTA00269515,9,1,fbi_ec_toll,FBI EC requesting toll/call detail records,False,0,0,0
+EFTA00269518,9,1,fbi_ec_toll,FBI EC requesting toll/call detail records,False,0,0,0
+EFTA00269522,9,1,fbi_ec_toll,FBI EC requesting toll/call detail records,False,0,0,0
+EFTA00269523,9,1,fbi_ec_toll,FBI EC requesting toll/call detail records,False,0,0,0
+EFTA00270036,9,1,fbi_ec_toll,FBI EC requesting toll/call detail records,False,0,0,0
+EFTA00270040,9,1,fbi_ec_toll,FBI EC requesting toll/call detail records,False,0,0,0
+EFTA00270043,9,1,fbi_ec_toll,FBI EC requesting toll/call detail records,False,0,0,0
+EFTA00270046,9,1,fbi_ec_toll,FBI EC requesting toll/call detail records,False,0,0,0
+EFTA00270058,9,1,fbi_ec_toll,FBI EC requesting toll/call detail records,False,0,0,0
+EFTA00270060,9,1,fbi_ec_toll,FBI EC requesting toll/call detail records,False,0,0,0
+EFTA00270064,9,1,fbi_ec_toll,FBI EC requesting toll/call detail records,False,0,0,0
+EFTA00270067,9,1,fbi_ec_toll,FBI EC requesting toll/call detail records,False,0,0,0
+EFTA00270069,9,1,fbi_ec_toll,FBI EC requesting toll/call detail records,False,0,0,0
+EFTA00270073,9,1,fbi_ec_toll,FBI EC requesting toll/call detail records,False,0,0,0
+EFTA00270079,9,1,fbi_ec_toll,FBI EC requesting toll/call detail records,False,0,0,0
+EFTA00270087,9,1,fbi_ec_toll,FBI EC requesting toll/call detail records,False,0,0,0
+EFTA00270090,9,1,fbi_ec_toll,FBI EC requesting toll/call detail records,False,0,0,0
+EFTA00270092,9,1,fbi_ec_toll,FBI EC requesting toll/call detail records,False,0,0,0
+EFTA00270094,9,1,fbi_ec_toll,FBI EC requesting toll/call detail records,False,0,0,0
+EFTA00270096,9,1,fbi_ec_toll,FBI EC requesting toll/call detail records,False,0,0,0
+EFTA00270101,9,1,fbi_ec_toll,FBI EC requesting toll/call detail records,False,0,0,0
+EFTA00270116,9,1,fbi_ec_toll,FBI EC requesting toll/call detail records,False,0,0,0
+EFTA00270117,9,1,fbi_ec_toll,FBI EC requesting toll/call detail records,False,0,0,0
+EFTA00270118,9,1,fbi_ec_toll,FBI EC requesting toll/call detail records,False,0,0,0
+EFTA00270120,9,1,fbi_ec_toll,FBI EC requesting toll/call detail records,False,0,0,0
+EFTA00270121,9,1,fbi_ec_toll,FBI EC requesting toll/call detail records,False,0,0,0
+EFTA00270125,9,1,fbi_ec_toll,FBI EC requesting toll/call detail records,False,0,0,0
+EFTA00270126,9,1,fbi_ec_toll,FBI EC requesting toll/call detail records,False,0,0,0
+EFTA00270146,9,1,fbi_ec_toll,FBI EC requesting toll/call detail records,False,0,0,0
+EFTA00270179,9,1,fbi_ec_toll,FBI EC requesting toll/call detail records,False,0,0,0
+EFTA00270262,9,1,fbi_ec_toll,FBI EC requesting toll/call detail records,False,0,0,0
+HOUSE_OVERSIGHT_021569,99,1,fbi_ec_toll,FBI EC requesting toll/call detail records (31E-MM-108062),False,0,0,0
+EFTA00096566,9,1,evidence_envelope,FBI evidence envelope (toll records / phone company returns) (case 72-MM-113327),False,0,0,0
+EFTA00791148,9,1,evidence_envelope,FBI evidence envelope (toll records / phone company returns) (case 31E-MM-108062),False,0,0,0
+EFTA00020532,8,3,message_pad,Message pad exhibit (phone messages),False,0,0,0
+EFTA00084113,9,3,message_pad,Message pad exhibit (phone messages),False,0,0,0
+EFTA00085040,9,10,message_pad,Message pad exhibit (phone messages) — GX-1-A through GX-4-K,False,0,0,0
+EFTA00088936,9,8,message_pad,Message pad exhibit (phone messages) — GX-1-C through GX-57-S,False,0,0,0
+EFTA00092267,9,4,message_pad,Message pad exhibit (phone messages),False,0,0,0
+EFTA00090941,9,10,message_pad,Message pad exhibit (phone messages) — GX-1-A through GX-4-K,False,0,0,0
+EFTA00068417,9,12,message_pad,Message pad exhibit (phone messages) — GX-1-B through GX-3-K,False,0,0,0
+EFTA00075841,9,2,message_pad,Message pad exhibit (phone messages),False,0,0,0
+EFTA00068540,9,11,message_pad,Message pad exhibit (phone messages) — GX-1-A through GX-4-F,False,0,0,0
+EFTA00102171,9,4,message_pad,Message pad exhibit (phone messages),False,0,0,0
+EFTA00102168,9,3,message_pad,Message pad exhibit (phone messages),False,0,0,0
+EFTA00164738,9,1,message_pad,Message pad exhibit (phone messages),False,0,0,0
+EFTA00164551,9,1,message_pad,Message pad exhibit (phone messages),False,0,0,0
+EFTA00102166,9,2,message_pad,Message pad exhibit (phone messages),False,0,0,0
+EFTA00104845,9,3,message_pad,Message pad exhibit (phone messages),False,0,0,0
+EFTA00124342,9,2,sprint_records,Sprint phone records,False,0,0,0
+EFTA00129266,9,2,sprint_records,Sprint phone records,False,0,0,0
+EFTA00129270,9,4,sprint_records,Sprint phone records,False,0,0,0
+EFTA00240793,9,5,sprint_records,Sprint phone records,False,0,0,0
+EFTA00240798,9,25,sprint_records,Sprint phone records,False,0,0,0
+EFTA00240823,9,26,sprint_records,Sprint phone records,False,0,0,0
+EFTA00240849,9,20,sprint_records,Sprint phone records,False,0,0,0
+EFTA00240895,9,30,sprint_records,Sprint phone records,False,0,0,0
+EFTA00240925,9,22,sprint_records,Sprint phone records,False,0,0,0
+EFTA00240947,9,7,sprint_records,Sprint phone records,False,0,0,0
+EFTA00240982,9,22,sprint_records,Sprint phone records,False,0,0,0
+EFTA00241004,9,23,sprint_records,Sprint phone records,False,0,0,0
+EFTA00241057,9,23,sprint_records,Sprint phone records,False,0,0,0
+EFTA00241080,9,20,sprint_records,Sprint phone records,False,0,0,0
+EFTA00241100,9,23,sprint_records,Sprint phone records,False,0,0,0
+EFTA00241123,9,33,sprint_records,Sprint phone records,False,0,0,0
+EFTA00241156,9,27,sprint_records,Sprint phone records,False,0,0,0
+EFTA00241183,9,20,sprint_records,Sprint phone records,False,0,0,0
+EFTA00241203,9,25,sprint_records,Sprint phone records,False,0,0,0
+EFTA00241228,9,22,sprint_records,Sprint phone records,False,0,0,0
+EFTA00241250,9,20,sprint_records,Sprint phone records,False,0,0,0
+EFTA01262731,9,26,sprint_records,Sprint phone records,False,0,0,0
+EFTA01339221,10,33,sprint_records,Sprint phone records,False,0,0,0
+EFTA01339281,10,20,sprint_records,Sprint phone records,False,0,0,0
+EFTA01711345,10,18,sprint_records,Sprint phone records,False,0,0,0
+EFTA00072585,9,1,tmobile_records,T-Mobile phone records,False,0,0,0
+EFTA00072587,9,6,tmobile_records,T-Mobile phone records,False,0,0,0
+EFTA00151601,9,1,tmobile_records,T-Mobile phone records,False,0,0,0
+EFTA00153453,9,4,tmobile_records,T-Mobile phone records,False,0,0,0
+EFTA00153459,9,5,tmobile_records,T-Mobile phone records,False,0,0,0
+EFTA00155439,9,6,tmobile_records,T-Mobile phone records,False,0,0,0
+EFTA00203078,9,37,tmobile_records,T-Mobile phone records,False,0,0,0
+EFTA00277126,9,5,tmobile_records,T-Mobile phone records,False,0,0,0
+EFTA01247286,9,1,tmobile_records,T-Mobile phone records,False,0,0,0
+EFTA01249910,9,1,tmobile_records,T-Mobile phone records,False,0,0,0
+EFTA01331534,10,1,tmobile_records,T-Mobile phone records,False,0,0,0
+EFTA01331535,10,6,tmobile_records,T-Mobile phone records,False,0,0,0
+EFTA01342682,10,5,tmobile_records,T-Mobile phone records,False,0,0,0
+EFTA00125015,9,3,verizon_records,Verizon phone records,False,0,0,0
+EFTA00307761,9,6,verizon_records,Verizon phone records,False,0,0,0
+EFTA00203681,9,67,911_records,911 call records,False,0,0,0
+EFTA00269839,9,1,911_records,911 call records,False,0,0,0
+EFTA00623159,9,2,911_records,911 call records,False,0,0,0
+EFTA00801828,9,10,911_records,911 call records,False,0,0,0
+EFTA01248791,9,1,911_records,911 call records,False,0,0,0
+EFTA01249801,9,3,911_records,911 call records,False,0,0,0
+EFTA01250585,9,1,911_records,911 call records,False,0,0,0
+EFTA01334184,10,12,bellsouth_records,BellSouth phone records,False,0,0,0
+EFTA01334196,10,12,bellsouth_records,BellSouth phone records,False,0,0,0
+EFTA00133182,9,167,comcast_records,Comcast phone/internet records,False,0,0,0
+EFTA00258315,9,3,comcast_records,Comcast phone/internet records,False,0,0,0
+EFTA00805555,9,5,comcast_records,Comcast phone/internet records,False,0,0,0
+HOUSE_OVERSIGHT_022746,99,1,ds99_phone_records,Cellphone usage/call log (DS99),False,0,0,0
+HOUSE_OVERSIGHT_022844,99,1,ds99_phone_records,Cellphone usage/call log (DS99),False,0,0,0
+HOUSE_OVERSIGHT_022863,99,1,ds99_phone_records,Cellphone usage/call log (DS99),False,0,0,0
+HOUSE_OVERSIGHT_022894,99,1,ds99_phone_records,Cellphone usage/call log (DS99),False,0,0,0
+HOUSE_OVERSIGHT_023627,99,1,ds99_phone_records,Cellphone usage/call log (DS99),False,0,0,0
+HOUSE_OVERSIGHT_024229,99,1,ds99_phone_records,Cellphone usage/call log (DS99),False,0,0,0
+HOUSE_OVERSIGHT_030454,99,1,ds99_phone_records,Cellphone usage/call log (DS99),False,0,0,0
+HOUSE_OVERSIGHT_030456,99,1,ds99_phone_records,Cellphone usage/call log (DS99),False,0,0,0
+HOUSE_OVERSIGHT_030458,99,1,ds99_phone_records,Cellphone usage/call log (DS99),False,0,0,0
+HOUSE_OVERSIGHT_030512,99,1,ds99_phone_records,Cellphone usage/call log (DS99),False,0,0,0
+HOUSE_OVERSIGHT_030514,99,1,ds99_phone_records,Cellphone usage/call log (DS99),False,0,0,0
+HOUSE_OVERSIGHT_030516,99,1,ds99_phone_records,Cellphone usage/call log (DS99),False,0,0,0
+HOUSE_OVERSIGHT_030587,99,1,ds99_phone_records,Cellphone usage/call log (DS99),False,0,0,0
+DOJ-OGR-00000353,99,2,ds99_phone_records,Cellphone usage/call log (DS99),False,0,0,0
+DOJ-OGR-00000443,99,2,ds99_phone_records,Cellphone usage/call log (DS99),False,0,0,0
+DOJ-OGR-00030719,99,82,ds99_phone_records,Cingular subscriber information (DS99),False,0,0,0
+DOJ-OGR-00031411,99,111,ds99_phone_records,Cellphone usage/call log (DS99),False,0,0,0
+EFTA00040593,9,5,pen_register_order,Pen register / trap and trace order,False,0,0,0
+EFTA00072407,9,14,pen_register_order,Pen register / trap and trace order,False,0,0,0
+EFTA00072423,9,15,pen_register_order,Pen register / trap and trace order,False,0,0,0
+EFTA00073438,9,24,pen_register_order,Pen register / trap and trace order,False,0,0,0
+EFTA00074886,9,4,pen_register_order,Pen register / trap and trace order,False,0,0,0
+EFTA00080555,9,20,pen_register_order,Pen register / trap and trace order,False,0,0,0
+EFTA00082556,9,3,pen_register_order,Pen register / trap and trace order,False,0,0,0
+EFTA00085061,9,2,pen_register_order,Pen register / trap and trace order,False,0,0,0
+EFTA00090608,9,2,pen_register_order,Pen register / trap and trace order,False,0,0,0
+EFTA00091719,9,20,pen_register_order,Pen register / trap and trace order,False,0,0,0
+EFTA00091750,9,14,pen_register_order,Pen register / trap and trace order,False,0,0,0
+EFTA00091764,9,5,pen_register_order,Pen register / trap and trace order,False,0,0,0
+EFTA00096012,9,20,pen_register_order,Pen register / trap and trace order,False,0,0,0
+EFTA00099135,9,5,pen_register_order,Pen register / trap and trace order,False,0,0,0
+EFTA00100600,9,24,pen_register_order,Pen register / trap and trace order,False,0,0,0
+EFTA00129058,9,27,pen_register_order,Pen register / trap and trace order,False,0,0,0
+EFTA00129085,9,10,pen_register_order,Pen register / trap and trace order,False,0,0,0
+EFTA00149892,9,2,pen_register_order,Pen register / trap and trace order,False,0,0,0
+EFTA00152284,9,5,pen_register_order,Pen register / trap and trace order,False,0,0,0
+EFTA00152347,9,24,pen_register_order,Pen register / trap and trace order,False,0,0,0
+EFTA00153603,9,3,pen_register_order,Pen register / trap and trace order,False,0,0,0
+EFTA00173764,9,5,pen_register_order,Pen register / trap and trace order,False,0,0,0
+EFTA00173775,9,4,pen_register_order,Pen register / trap and trace order,False,0,0,0
+EFTA00173779,9,4,pen_register_order,Pen register / trap and trace order,False,0,0,0
+EFTA00173783,9,3,pen_register_order,Pen register / trap and trace order,False,0,0,0
+EFTA00173786,9,4,pen_register_order,Pen register / trap and trace order,False,0,0,0
+EFTA00173790,9,3,pen_register_order,Pen register / trap and trace order,False,0,0,0
+EFTA00173793,9,2,pen_register_order,Pen register / trap and trace order,False,0,0,0
+EFTA01072646,9,149,pen_register_order,Pen register / trap and trace order,False,0,0,0
+EFTA01251052,9,7,pen_register_order,Pen register / trap and trace order,False,0,0,0
+EFTA01251062,9,53,pen_register_order,Pen register / trap and trace order,False,0,0,0
+EFTA01262784,10,7,pen_register_order,Pen register / trap and trace order,False,0,0,0
+EFTA01262791,10,7,pen_register_order,Pen register / trap and trace order,False,0,0,0
+EFTA01262798,10,7,pen_register_order,Pen register / trap and trace order,False,0,0,0
+EFTA01659653,10,46,pen_register_order,Pen register / trap and trace order,False,0,0,0
+EFTA00066569,9,1,cell_site_records,Cell site location information (CSLI) order/records,False,0,0,0
+EFTA00129274,9,13,cell_site_records,Cell site location information (CSLI) order/records,False,0,0,0
+EFTA00133987,9,51,cell_site_records,Cell site location information (CSLI) order/records,False,0,0,0
+EFTA00153464,9,1,cell_site_records,Cell site location information (CSLI) order/records,False,0,0,0
+EFTA00158008,9,3,cell_site_records,Cell site location information (CSLI) order/records,False,0,0,0
+EFTA00681636,9,4,cell_site_records,Cell site location information (CSLI) order/records,False,0,0,0
+EFTA01246406,9,4,cell_site_records,Cell site location information (CSLI) order/records,False,0,0,0
+EFTA01251194,9,9,cell_site_records,Cell site location information (CSLI) order/records,False,0,0,0
+EFTA01297637,10,3,cell_site_records,Cell site location information (CSLI) order/records,False,0,0,0
+EFTA01342687,10,1,cell_site_records,Cell site location information (CSLI) order/records,False,0,0,0
+EFTA01487203,10,1,cell_site_records,Cell site location information (CSLI) order/records,False,0,0,0
+EFTA01487206,10,1,cell_site_records,Cell site location information (CSLI) order/records,False,0,0,0
+EFTA01584409,10,1,cell_site_records,Cell site location information (CSLI) order/records,False,0,0,0
+EFTA01690875,10,100,cell_site_records,Cell site location information (CSLI) order/records,False,0,0,0
+EFTA01691075,10,50,cell_site_records,Cell site location information (CSLI) order/records,False,0,0,0
+EFTA01691125,10,100,cell_site_records,Cell site location information (CSLI) order/records,False,0,0,0
+EFTA01691325,10,50,cell_site_records,Cell site location information (CSLI) order/records,False,0,0,0
+EFTA01691375,10,100,cell_site_records,Cell site location information (CSLI) order/records,False,0,0,0
+EFTA01691575,10,50,cell_site_records,Cell site location information (CSLI) order/records,False,0,0,0
+EFTA01723347,10,100,cell_site_records,Cell site location information (CSLI) order/records,False,0,0,0
+EFTA00124336,9,1,nextel_records,Nextel/Sprint phone records,False,0,0,0
+EFTA00129287,9,1,nextel_records,Nextel/Sprint phone records,False,0,0,0
+EFTA00203259,9,55,nextel_records,Nextel/Sprint phone records,False,0,0,0
+EFTA00203314,9,57,nextel_records,Nextel/Sprint phone records,False,0,0,0
+EFTA00203371,9,58,nextel_records,Nextel/Sprint phone records,False,0,0,0
+EFTA00203429,9,55,nextel_records,Nextel/Sprint phone records,False,0,0,0
+EFTA00203484,9,63,nextel_records,Nextel/Sprint phone records,False,0,0,0
+EFTA00203547,9,68,nextel_records,Nextel/Sprint phone records,False,0,0,0
+EFTA00203615,9,66,nextel_records,Nextel/Sprint phone records,False,0,0,0
+EFTA00203748,9,65,nextel_records,Nextel/Sprint phone records,False,0,0,0
+EFTA00731269,9,1,preservation_letter,Preservation letter to AT&T,False,0,0,0
+HOUSE_OVERSIGHT_018232,99,1,preservation_letter,Preservation letter to AT&T,False,0,0,0
+HOUSE_OVERSIGHT_025247,99,1,preservation_letter,Preservation letter to Sprint,False,0,0,0
+HOUSE_OVERSIGHT_012048,99,1,subscriber_info_return,Telecom subscriber information return,False,0,0,0
+HOUSE_OVERSIGHT_015032,99,1,subscriber_info_return,Telecom subscriber information return,False,0,0,0
+HOUSE_OVERSIGHT_016221,99,1,subscriber_info_return,Telecom subscriber information return,False,0,0,0
+HOUSE_OVERSIGHT_016804,99,1,subscriber_info_return,Telecom subscriber information return,False,0,0,0
+HOUSE_OVERSIGHT_017088,99,1,subscriber_info_return,Telecom subscriber information return,False,0,0,0
+HOUSE_OVERSIGHT_018119,99,1,subscriber_info_return,Telecom subscriber information return — Jeffrey Epstein,False,0,0,0
+HOUSE_OVERSIGHT_018158,99,1,subscriber_info_return,Telecom subscriber information return — Jeffrey Epstein,False,0,0,0
+HOUSE_OVERSIGHT_032068,99,1,subscriber_info_return,Telecom subscriber information return — Jeffrey Epstein,False,0,0,0
