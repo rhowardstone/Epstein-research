@@ -308,9 +308,10 @@ MOVED_FILES = {
     "congressional/CONGRESSIONAL_SUBPOENA_GUIDE.md": "institutional/CONGRESSIONAL_SUBPOENA_GUIDE.md",
 }
 
-# Earliest provable dates for reports written before the 2026-02-18 bulk git push.
-# Evidence: zip export timestamps (all 2026-02-12 07:23) + Python script mtimes (Feb 5).
-# Files NOT listed here were added after Feb 12 and have accurate git dates.
+# Earliest provable dates for all reports.
+# Pre-Feb-18 evidence: zip export timestamps (all 2026-02-12 07:23) + Python script mtimes (Feb 5).
+# Post-Feb-18 dates: recovered from Wayback Machine snapshot of epstein-data.com/reports/
+# after a 2026-05-31 history squash destroyed individual commit timestamps.
 DATE_OVERRIDES = {
     # --- 3 files provably existing by Feb 5 (referenced in Python scripts with that mtime) ---
     "raw-dataset-analysis/DS10_KEY_DOCUMENTS_DEEP_DIVE.md": "2026-02-05",
@@ -424,6 +425,119 @@ DATE_OVERRIDES = {
     "victims/TRAFFICKING_ROUTES_INVESTIGATION.md": "2026-02-12",
     "victims/VICTIM_CENSUS.md": "2026-02-12",
     "victims/VICTIM_LEADS_VERIFICATION.md": "2026-02-12",
+    # --- Post-Feb-12 reports: dates from Wayback Machine (2026-04-24 snapshot) ---
+    # Feb 18
+    "FRENCH_CONNECTION_INVESTIGATION.md": "2026-02-18",
+    "individuals/JACQUI_SAFRA_INVESTIGATION.md": "2026-02-18",
+    "congressional/CONGRESSIONAL_ADDENDUM.md": "2026-02-18",
+    # Feb 19
+    "social-networks/GEFFEN_INVESTIGATION.md": "2026-02-19",
+    "social-networks/KOTICK_ACTIVISION.md": "2026-02-19",
+    "social-networks/PIGOZZI_EDGE_FOUNDATION.md": "2026-02-19",
+    "social-networks/PEGGY_SIEGAL_PIPELINE.md": "2026-02-19",
+    "social-networks/REUBEN_BROTHERS_SIREN_CHERNOY.md": "2026-02-19",
+    "social-networks/ST_BARTHS_2010_GUEST_LIST.md": "2026-02-19",
+    # Feb 21
+    "institutional/DOJ_DOCUMENT_REMOVAL_AUDIT.md": "2026-02-21",
+    # Feb 23
+    "individuals/BARNABY_MARSH_INVESTIGATION.md": "2026-02-23",
+    "institutional/USVI_FINANCIAL_SERVICES_LEGISLATION.md": "2026-02-23",
+    "institutional/DEA_OCDETF_INVESTIGATION.md": "2026-02-23",
+    "institutional/STT_AVIATION_INFRASTRUCTURE_CONTROL.md": "2026-02-23",
+    # Feb 24
+    "institutional/GERMAN_FINANCIAL_NETWORK.md": "2026-02-24",
+    "institutional/DEATH_INVESTIGATION_DOCUMENT_REMOVAL.md": "2026-02-24",
+    "institutional/HELPFULEXPERTS_INVESTIGATION.md": "2026-02-24",
+    "individuals/EMAD_HANNA_HBRK_INVESTIGATION.md": "2026-02-24",
+    # Feb 25
+    "individuals/SHAHER_ABDULHAK_MR_EVIL_INVESTIGATION.md": "2026-02-25",
+    # Feb 26
+    "intelligence/FBI_INTELLIGENCE_INVESTIGATIONS.md": "2026-02-26",
+    "individuals/PSEUDONYM_CODENAME_REGISTRY.md": "2026-02-26",
+    "institutional/ITALIAN_CONNECTIONS_INVESTIGATION.md": "2026-02-26",
+    "institutional/FBI_302_MISSING_SERIALS_DOSSIER.md": "2026-02-26",
+    "institutional/SECONDARY_BATES_STAMP_ANALYSIS.md": "2026-02-26",
+    "institutional/EPSTEIN_STORAGE_UNITS_INVESTIGATION.md": "2026-02-26",
+    "institutional/VILLA_ARABESQUE_BOEING_727_INVESTIGATION.md": "2026-02-26",
+    "individuals/ROBERT_TRIVERS_INVESTIGATION.md": "2026-02-26",
+    # Feb 27
+    "individuals/BILL_CLINTON_INVESTIGATION.md": "2026-02-27",
+    # Feb 28
+    "individuals/DONALD_TRUMP_INVESTIGATION.md": "2026-02-28",
+    # Mar 2
+    "individuals/TIM_COLLINS_BANKING_NETWORK.md": "2026-03-02",
+    # Mar 3
+    "institutional/DOJ_DOCUMENT_ALTERATION_FORENSICS.md": "2026-03-03",
+    # Mar 4
+    "evidence/PHONE_RECORDS_INVESTIGATION.md": "2026-03-04",
+    # Mar 5
+    "institutional/LAWYERS_LITIGATION_INDEX.md": "2026-03-05",
+    # Mar 6
+    "financial/CRYPTO_NETWORK_INVESTIGATION.md": "2026-03-06",
+    "institutional/DS12_EXPANSION_ANALYSIS.md": "2026-03-06",
+    # Mar 7
+    "individuals/OHIO_NODE_INVESTIGATION.md": "2026-03-07",
+    "congressional/WITNESS_BRIEF_INDYKE.md": "2026-03-07",
+    "congressional/WITNESS_BRIEF_KAHN.md": "2026-03-07",
+    "congressional/CONGRESSIONAL_SUBPOENA_GUIDE.md": "2026-03-07",
+    # Mar 8
+    "evidence/MCC_INMATE_WITNESS_INTERVIEWS.md": "2026-03-08",
+    # Mar 10
+    "individuals/MICHAEL_WOLFF_INVESTIGATION.md": "2026-03-10",
+    # Mar 11
+    "institutional/ZORRO_RANCH_INVESTIGATION_HALT.md": "2026-03-11",
+    # Mar 16
+    "individuals/KARYNA_SHULIAK_INVESTIGATION.md": "2026-03-16",
+    # Mar 17
+    "individuals/MEDICAL_PROFESSIONALS_INVESTIGATION.md": "2026-03-17",
+    # Mar 20
+    "institutional/QTASK_EPSTEIN_INVESTIGATION.md": "2026-03-20",
+    "SINGAPORE_INVESTIGATION.md": "2026-03-20",
+    # Mar 23
+    "individuals/MAXWELL_ARRANGED_WOMEN_POWERFUL_MEN.md": "2026-03-23",
+    # Mar 24
+    "congressional/DEPOSITION_ANALYSIS_INDYKE.md": "2026-03-24",
+    "congressional/DEPOSITION_ANALYSIS_KAHN.md": "2026-03-24",
+    "congressional/WITNESS_BRIEF_NOEL.md": "2026-03-24",
+    "individuals/WILL_FORD_INVESTIGATION.md": "2026-03-24",
+    "individuals/EMMY_TAYLER_INVESTIGATION.md": "2026-03-24",
+    # Mar 27
+    "institutional/OPERATION_CHAIN_REACTION_PART2.md": "2026-03-27",
+    # Mar 28
+    "intelligence/NO_KINGS_ROYALTY_WORLD_LEADERS.md": "2026-03-28",
+    "institutional/ZORRO_RANCH_INVESTIGATION_PART2.md": "2026-03-28",
+    # Apr 7
+    "evidence/VICTIM_JOURNAL_CORROBORATION.md": "2026-04-07",
+    "evidence/1B136_INVESTIGATION.md": "2026-04-07",
+    # Apr 22
+    "individuals/RONALD_LAUDER_INVESTIGATION.md": "2026-04-22",
+    # Apr 24
+    "evidence/DEFECTIVE_REDACTIONS_TECHNICAL_REPORT.md": "2026-04-24",
+    "evidence/DEFECTIVE_REDACTIONS_PUBLIC_GUIDE.md": "2026-04-24",
+    # Apr 30
+    "individuals/ROED_LARSEN_FAMILY_INVESTIGATION.md": "2026-04-30",
+    # --- Feb 18 bulk-push files (display as "February 2026" via format_date_display) ---
+    "pqg_lines_of_investigation/00_INDEX.md": "2026-02-18",
+    "pqg_lines_of_investigation/01_TEMPORAL_BLACKOUT.md": "2026-02-18",
+    "pqg_lines_of_investigation/02_REDACTED_TARGETS.md": "2026-02-18",
+    "pqg_lines_of_investigation/03_TECH_COMPANY_GAPS.md": "2026-02-18",
+    "pqg_lines_of_investigation/04_TRAVEL_RECORDS_GAP.md": "2026-02-18",
+    "pqg_lines_of_investigation/05_DEUTSCHE_BANK_COMPLIANCE.md": "2026-02-18",
+    "pqg_lines_of_investigation/06_FINANCIAL_NO_RETURNS.md": "2026-02-18",
+    "pqg_lines_of_investigation/07_INDIVIDUAL_SUBPOENAS.md": "2026-02-18",
+    "pqg_lines_of_investigation/08_CRYPTO_DEAD_END.md": "2026-02-18",
+    "pqg_lines_of_investigation/09_CORRECTIONAL_DEATH_INVESTIGATION.md": "2026-02-18",
+    "pqg_lines_of_investigation/10_SCOPE_EVOLUTION.md": "2026-02-18",
+    "scientists/SCIENCE_NETWORK_COMPREHENSIVE_AUDIT.md": "2026-02-18",
+    "audits/FACTUAL_ACCURACY_AUDIT.md": "2026-02-18",
+    "audits/README.md": "2026-02-18",
+    "congressional/congressional_priority_list.md": "2026-02-18",
+    "methodology/MISSING_EFTA_ANALYSIS.md": "2026-02-18",
+    "institutional/MIDNIGHT_911_CALL_INVESTIGATION.md": "2026-02-18",
+    # --- May 2026 (post-Apr-30 snapshot, pre-squash) ---
+    "individuals/PRINCE_ANDREW_INVESTIGATION.md": "2026-05-30",
+    "congressional/WITNESS_BRIEF_LUTNICK.md": "2026-05-14",
+    "congressional/WITNESS_BRIEF_WAITT.md": "2026-05-14",
 }
 
 
