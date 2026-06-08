@@ -25,6 +25,23 @@ except ImportError:
 
 REPO_DIR = Path(sys.argv[1]) if len(sys.argv) > 1 else Path("/opt/datasette-data/reports-repo")
 OUT_DIR = Path(sys.argv[2]) if len(sys.argv) > 2 else Path("/opt/datasette-data/reports-html")
+NAVBAR_PATH = Path("/opt/datasette-data/templates/_navbar.html")
+
+_NAVBAR_FALLBACK = """<div class="r-topbar">
+  <a href="/" class="r-topbar-home">Home</a>
+  <div class="r-topbar-links">
+    <a href="https://www.congress.gov/119/plaws/publ38/PLAW-119publ38.htm" target="_blank">EFTA</a>
+    <span class="bar-dot"></span>
+    <a href="https://www.justice.gov/epstein/doj-disclosures" target="_blank">DOJ Production</a>
+  </div>
+</div>"""
+
+def _load_navbar():
+    if NAVBAR_PATH.exists():
+        return NAVBAR_PATH.read_text(encoding="utf-8")
+    return _NAVBAR_FALLBACK
+
+_NAVBAR_HTML = None  # loaded lazily on first build
 
 # Category display names and order
 CATEGORIES = {
@@ -642,7 +659,11 @@ def render_report(md_text, title, description, category, category_label, rel_pat
     # report_path for chat widget: "individuals/BILL_CLINTON_INVESTIGATION" (no .md)
     rp = rel_path.rsplit(".", 1)[0] if "." in rel_path else rel_path
 
-    return REPORT_TEMPLATE.format(
+    global _NAVBAR_HTML
+    if _NAVBAR_HTML is None:
+        _NAVBAR_HTML = _load_navbar()
+
+    result = REPORT_TEMPLATE.format(
         title=html.escape(title),
         description=html.escape(description or title),
         category=html.escape(category),
@@ -652,6 +673,7 @@ def render_report(md_text, title, description, category, category_label, rel_pat
         date_meta=date_meta,
         report_path=rp,
     )
+    return result.replace("__NAVBAR__", _NAVBAR_HTML)
 
 
 def render_index(reports_by_cat, start_here=None):
@@ -713,11 +735,16 @@ def render_index(reports_by_cat, start_here=None):
             sections += f'</a>\n'
         sections += f'</div>\n</div>\n'
 
-    return INDEX_TEMPLATE.format(
+    global _NAVBAR_HTML
+    if _NAVBAR_HTML is None:
+        _NAVBAR_HTML = _load_navbar()
+
+    result = INDEX_TEMPLATE.format(
         sections=sections,
         count=sum(len(v) for v in reports_by_cat.values()),
         cat_count=len(reports_by_cat),
     )
+    return result.replace("__NAVBAR__", _NAVBAR_HTML)
 
 
 # ===== Templates =====
@@ -1066,14 +1093,7 @@ body.chat-open .r-feedback {{ margin-right: 380px; }}
 </style>
 </head>
 <body>
-<div class="r-topbar">
-  <a href="/" class="r-topbar-home">Home</a>
-  <div class="r-topbar-links">
-    <a href="https://www.congress.gov/119/plaws/publ38/PLAW-119publ38.htm" target="_blank">EFTA</a>
-    <span class="bar-dot"></span>
-    <a href="https://www.justice.gov/epstein/doj-disclosures" target="_blank">DOJ Production</a>
-  </div>
-</div>
+__NAVBAR__
 <nav class="r-nav">
   <a href="/">Home</a>
   <span class="sep">/</span>
@@ -1612,14 +1632,7 @@ body.ri-listmode .ri-list-table {{ display: block; }}
 </style>
 </head>
 <body>
-<div class="r-topbar">
-  <a href="/" class="r-topbar-home">Home</a>
-  <div class="r-topbar-links">
-    <a href="https://www.congress.gov/119/plaws/publ38/PLAW-119publ38.htm" target="_blank">EFTA</a>
-    <span class="bar-dot"></span>
-    <a href="https://www.justice.gov/epstein/doj-disclosures" target="_blank">DOJ Production</a>
-  </div>
-</div>
+__NAVBAR__
 <div class="ri-hero">
   <h1>Investigation Reports</h1>
   <p>Forensic analysis of the DOJ's EFTA production. Each report is built from primary source documents with specific EFTA citations.</p>
