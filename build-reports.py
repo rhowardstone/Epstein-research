@@ -105,6 +105,8 @@ FEATURED = {
         "Midnight 911 call at 358 El Brillo Way (Aug 2002) — three CAD record anomalies: no narrative, no EMS dispatch, no disposition.",
     "congressional/CONGRESSIONAL_SUBPOENA_GUIDE.md":
         "64 witnesses, 426 EFTA citations, practical procedures — every subpoena target, every document demand, every obstacle and countermeasure for the House Oversight investigation.",
+    "congressional/DEPOSITION_ANALYSIS_NOEL.md":
+        "What the guard on duty the night Epstein died said under 18 USC §1001 liability — 4 hours of congressional testimony cross-referenced against 2.91M pages. Falsified training records, the unidentified 'flash of orange,' an eight-hour gap with no verified SHU count, 12 JPMorgan-flagged deposits, and an unreported inmate moved onto Epstein's SHU unit the same evening his cellmate was removed.",
     "congressional/DEPOSITION_ANALYSIS_INDYKE.md":
         "What Epstein's personal attorney said under oath — 6.8 hours of sworn testimony analyzed against 2.77M pages. NPA co-conspirator input, computer hard drives with PIs, $725K structured cash, sham marriage admissions, and the 'Kool-Aid' moment.",
     "congressional/DEPOSITION_ANALYSIS_KAHN.md":
