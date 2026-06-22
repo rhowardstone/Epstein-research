@@ -17,7 +17,7 @@ Then the exchange that drew every headline. Epstein: <span class="text-msg">"Hes
 Plaskett then questioned Cohen about Rhona Graff, Trump's longtime executive assistant. Epstein replied: <span class="text-msg">"Good work."</span>
 
 <div class="callout green">
-<p><strong>Timezone resolution.</strong> The <a href="https://www.washingtonpost.com/politics/2025/11/14/epstein-text-messages-cohen-house-hearing/">Washington Post</a> rendered the texts in Pacific time, <a href="https://abcnews.go.com/US/house-votes-censuring-plaskett-epstein-texts/story?id=127670527">ABC</a> in Eastern. The corpus settles it: the call-detail record (<a href="https://epstein-data.com/EFTA01612400">EFTA01612400</a>) is stamped <strong>UTC+0000</strong>. "Are you chewing" at <strong>15:41:42 UTC</strong> = 10:41 a.m. Eastern (ABC) = 7:41 a.m. Pacific (Post). The accounts are consistent once normalized.</p>
+<p><strong>Timezone resolution.</strong> The <a href="https://www.washingtonpost.com/politics/2025/11/14/epstein-text-messages-cohen-house-hearing/">Washington Post</a> rendered the texts in Pacific time, <a href="https://abcnews.go.com/US/house-votes-censuring-plaskett-epstein-texts/story?id=127670527">ABC</a> in Eastern. The corpus settles it: the call-detail record (<a href="https://epstein-data.com/EFTA01612400">EFTA01612400</a>) is stamped <strong>UTC+0000</strong>. "Are you chewing" at <strong>15:41:42 UTC</strong> = 10:41 a.m. Eastern (ABC) = 7:41 a.m. Pacific (Post).</p>
 </div>
 
 <div class="callout amber">
@@ -36,20 +36,20 @@ Plaskett is the window into that machine. She is not, on the available evidence,
 
 ### 1999–2018 · ~$300 million in tax benefits
 
-**[DOCUMENTED FACT]** Epstein's primary Virgin Islands entity, Financial Trust Company (FTC), received approximately **$219,835,233** in tax benefits between 1999 and 2012 — the figure sourced from the JPMorgan memorandum of law (corpus summary filings at [EFTA02814815](https://epstein-data.com/EFTA02814815) and [EFTA02815448](https://epstein-data.com/EFTA02815448)). His successor entity, Southern Trust Company (STC), received an additional **~$80,576,235** between 2013 and 2018. Some outlets report "$300 million"; others report "$219.8 million." Both are defensible — the difference is whether one counts FTC alone or FTC+STC combined.
+Epstein's primary Virgin Islands entity, Financial Trust Company (FTC), received approximately **$219,835,233** in tax benefits between 1999 and 2012 — the figure sourced from the JPMorgan memorandum of law (corpus summary filings at [EFTA02814815](https://epstein-data.com/EFTA02814815) and [EFTA02815448](https://epstein-data.com/EFTA02815448)). His successor entity, Southern Trust Company (STC), received an additional **~$80,576,235** between 2013 and 2018. Some outlets report "$300 million"; others report "$219.8 million." Both are defensible — the difference is whether one counts FTC alone or FTC+STC combined.
 
 The Economic Development Authority (EDA) was the government body that administered these benefits. That is where Stacey Plaskett enters the institutional timeline: she served as **general counsel to the EDA from 2007 to 2012**, during part of the window in which Epstein's entities were drawing those benefits. This is the most consequential and most contested item on the timeline. Two cautions:
 
 - The phrasing "the EDA granted $219.8M while Plaskett was general counsel" is temporally true but says nothing about her personal role. Plaskett has **denied approving any tax rebates for Epstein** ([Washington Free Beacon, Feb. 2026](https://freebeacon.com/democrats/dem-rep-stacey-plaskett-visited-epstein-at-office-he-used-to-scam-virgin-islands-government-out-of-hundreds-of-millions-of-dollars-records-show/)).
-- The corpus confirms the EDC program was under press scrutiny by 2011 — *Newsweek*'s Wayne Barrett pressed pointed questions about Epstein's residency and benefits ([EFTA00640384](https://epstein-data.com/EFTA00640384)) — but those questions were directed at the **Governor's office**, not Plaskett. The [Free Beacon](https://freebeacon.com/democrats/dem-rep-stacey-plaskett-visited-epstein-at-office-he-used-to-scam-virgin-islands-government-out-of-hundreds-of-millions-of-dollars-records-show/) cites meeting notes stating Plaskett "fielded requests in prior circumstances" and would "redact" and respond only to written questions, but these notes do not appear in the EFTA corpus and cannot be independently verified here.
+- The corpus confirms the EDC program was under press scrutiny by 2011 — journalist Wayne Barrett pressed pointed questions about Epstein's residency and benefits ([EFTA00640384](https://epstein-data.com/EFTA00640384)) — but those questions were directed at the **Governor's office**, not Plaskett. The [Free Beacon](https://freebeacon.com/democrats/dem-rep-stacey-plaskett-visited-epstein-at-office-he-used-to-scam-virgin-islands-government-out-of-hundreds-of-millions-of-dollars-records-show/) cites meeting notes stating Plaskett "fielded requests in prior circumstances" and would "redact" and respond only to written questions, but these notes do not appear in the EFTA corpus and cannot be independently verified here.
 
 ### The engine: Cecile de Jongh
 
-The person who made Epstein's political operation function was not Plaskett. It was **Cecile de Jongh** — the sitting First Lady of the Virgin Islands, who simultaneously served as the paid office manager of Epstein's local companies for eight years. She straddled government and Epstein's private operation: routing donations, managing his local entities, certifying his residency, and coaching him on which contributions to handle carefully.
+The person who made Epstein's political operation function was not Plaskett. It was **Cecile de Jongh** — the sitting First Lady of the Virgin Islands, who simultaneously served as the paid office manager of Epstein's local companies. She straddled government and Epstein's private operation: routing donations, managing his local entities, certifying his residency, and coaching him on which contributions to handle carefully.
 
 ### June 30, 2009 · The residency certification
 
-**[DOCUMENTED FACT — primary source in hand]** While Epstein was incarcerated in a Florida jail for soliciting a minor, de Jongh signed a certification attesting that he was a **"bona fide resident"** of the Virgin Islands — a document tied to Financial Trust Company's EDC benefits ([EFTA02814836](https://epstein-data.com/EFTA02814836), p. 12; filing summary at [EFTA02815448](https://epstein-data.com/EFTA02815448), p. 79).
+While Epstein was incarcerated in a Florida jail for soliciting a minor, de Jongh signed a certification attesting that he was a **"bona fide resident"** of the Virgin Islands — a document tied to Financial Trust Company's EDC benefits ([EFTA02814836](https://epstein-data.com/EFTA02814836), p. 12; filing summary at [EFTA02815448](https://epstein-data.com/EFTA02815448), p. 79).
 
 One signed page contains the entire transaction. Officials were willing to attest to legal fictions to keep the tax benefits flowing. The money was the prize. The politicians were the maintenance cost.
 
@@ -59,13 +59,13 @@ One signed page contains the entire transaction. Officials were willing to attes
 
 ### 2012 · The introduction
 
-In her May 9, 2023 deposition, Plaskett testified she met Epstein in person for the first time during her 2012 campaign, introduced by attorney **Erika Kellerhals** as a potential donor ([EFTA02807627](https://epstein-data.com/EFTA02807627)). Kellerhals — to whom Epstein reportedly planned to leave $2 million — is the connective tissue: Plaskett worked at **Kellerhals Ferguson Kroblin PLLC** in 2013–2014, when Epstein was a firm client ([Lee Fang, June 2023](https://www.leefang.com/p/house-democrat-worked-for-epsteins); [Free Beacon, Feb. 2026](https://freebeacon.com/democrats/dem-rep-stacey-plaskett-visited-epstein-at-office-he-used-to-scam-virgin-islands-government-out-of-hundreds-of-millions-of-dollars-records-show/)). She testified she performed no work for Epstein or his businesses, but confirmed he was a client during her time there.
+In her May 9, 2023 deposition, Plaskett testified she met Epstein in person for the first time during her 2012 campaign, introduced by attorney **Erika Kellerhals** as a potential donor ([EFTA02807627](https://epstein-data.com/EFTA02807627)). Kellerhals — to whom Epstein [planned to bequeath $2 million](https://freebeacon.com/democrats/dem-rep-stacey-plaskett-visited-epstein-at-office-he-used-to-scam-virgin-islands-government-out-of-hundreds-of-millions-of-dollars-records-show/) in his will — is the connective tissue: Plaskett worked at **Kellerhals Ferguson Kroblin PLLC** in 2013–2014, when Epstein was a firm client ([Lee Fang, June 2023](https://www.leefang.com/p/house-democrat-worked-for-epsteins); [Free Beacon, Feb. 2026](https://freebeacon.com/democrats/dem-rep-stacey-plaskett-visited-epstein-at-office-he-used-to-scam-virgin-islands-government-out-of-hundreds-of-millions-of-dollars-records-show/)). She testified she performed no work for Epstein or his businesses, but confirmed he was a client during her time there.
 
 That is the architecture of how Epstein's political investments began: a law firm where he was a client introduced a candidate to him as a donor. Before Plaskett had won anything, her career was already being routed through Epstein's network.
 
 ### June 19, 2014 · "We would have a friend in Stacey"
 
-**[DOCUMENTED FACT — primary source in hand]** Cecile de Jongh emailed Epstein under the subject "Confidential" ([EFTA00640324](https://epstein-data.com/EFTA00640324); near-duplicate [EFTA01917563](https://epstein-data.com/EFTA01917563)). Its operative lines: his "help is needed" to elect Plaskett; her primary opponent Shawn Malone "is nasty and needs to be defeated"; and the phrase that captures the entire operation — **"we would have a friend in Stacey."**
+Cecile de Jongh emailed Epstein under the subject "Confidential" ([EFTA00640324](https://epstein-data.com/EFTA00640324); near-duplicate [EFTA01917563](https://epstein-data.com/EFTA01917563)). Its operative lines: his "help is needed" to elect Plaskett; her primary opponent Shawn Malone "is nasty and needs to be defeated"; and the phrase that captures the entire operation — **"we would have a friend in Stacey."**
 
 <div class="pullquote">The damning word is "we." The sitting First Lady is not writing as a private citizen. She is speaking <em>for an apparatus</em>, treating Epstein's money as a tool of the territory's political class and a friendly delegate as a return on investment.</div>
 
@@ -87,7 +87,7 @@ Epstein was not cultivating one politician. He was cultivating the territory's p
 
 ### The deposition table
 
-**[DOCUMENTED FACT — sworn deposition]** In Plaskett's May 9, 2023 deposition ([EFTA02807627](https://epstein-data.com/EFTA02807627); related segments [EFTA02815040](https://epstein-data.com/EFTA02815040), [EFTA02812412](https://epstein-data.com/EFTA02812412), [EFTA02813483](https://epstein-data.com/EFTA02813483)), the campaign-finance figures were confirmed verbatim:
+In Plaskett's May 9, 2023 deposition ([EFTA02807627](https://epstein-data.com/EFTA02807627); related segments [EFTA02815040](https://epstein-data.com/EFTA02815040), [EFTA02812412](https://epstein-data.com/EFTA02812412), [EFTA02813483](https://epstein-data.com/EFTA02813483)), the campaign-finance figures were confirmed verbatim:
 
 | Donor | Amount | As characterized in the deposition |
 |-------|-------:|-------------------------------------|
@@ -119,7 +119,7 @@ The **DCCC solicitation** clarifies a widely mischaracterized episode. The JPMor
 
 ### What she said she knew
 
-**[CREDIBLE ALLEGATION — deposition reporting]** [St. Thomas Source](https://stthomassource.com/content/2023/06/01/jpmorgan-digs-into-plasketts-epsteins-ties-in-deposition/), relying on partial deposition materials, reports that Plaskett said she had heard Epstein traveled to the Virgin Islands with young women, but **did not recall whether she heard that before or after the September 2018 meeting**. She also testified she **never met Epstein at Little St. James**.
+[St. Thomas Source](https://stthomassource.com/content/2023/06/01/jpmorgan-digs-into-plasketts-epsteins-ties-in-deposition/), relying on partial deposition materials, reports that Plaskett said she had heard Epstein traveled to the Virgin Islands with young women, but **did not recall whether she heard that before or after the September 2018 meeting**. She also testified she **never met Epstein at Little St. James**.
 
 In [June 2023](https://newsfeed.wtjx.org/podcast/wtjx-newsfeed/2025-11-22/stacey-plaskett-and-jeffrey-epstein-a-timeline), Plaskett told WTJX-FM she wished she had not taken Epstein's contributions and said she had not been aware of the nature of the charges when he first contributed. In September 2023, she told the Virgin Islands Consortium she knew Epstein had been convicted of "something" but argued the full extent of his crimes was not evident at the time and that he still appeared to have legitimate business activity.
 
@@ -137,9 +137,9 @@ Read as character rather than conspiracy, the texts reveal something more human 
 
 ### May 15, 2019 · The last meeting
 
-**[DOCUMENTED FACT]** Less than two months before Epstein's federal arrest, Kellerhals arranged a meeting between Plaskett and Epstein at Southern Trust Company for Friday, May 17, at 10 a.m. — Plaskett arriving in St. Thomas that morning and due at the University by noon ([EFTA00494836](https://epstein-data.com/EFTA00494836), [EFTA00494822](https://epstein-data.com/EFTA00494822), [EFTA00494834](https://epstein-data.com/EFTA00494834)). This corroborates, from primary documents, the [Free Beacon](https://freebeacon.com/democrats/dem-rep-stacey-plaskett-visited-epstein-at-office-he-used-to-scam-virgin-islands-government-out-of-hundreds-of-millions-of-dollars-records-show/)'s later reporting of a May 2019 meeting. (A reported *January* 2019 meeting remains uncorroborated in the corpus.)
+Less than two months before Epstein's federal arrest, Kellerhals arranged a meeting between Plaskett and Epstein at Southern Trust Company for Friday, May 17, at 10 a.m. — Plaskett arriving in St. Thomas that morning and due at the University by noon ([EFTA00494836](https://epstein-data.com/EFTA00494836), [EFTA00494822](https://epstein-data.com/EFTA00494822), [EFTA00494834](https://epstein-data.com/EFTA00494834)). This corroborates, from primary documents, the [Free Beacon](https://freebeacon.com/democrats/dem-rep-stacey-plaskett-visited-epstein-at-office-he-used-to-scam-virgin-islands-government-out-of-hundreds-of-millions-of-dollars-records-show/)'s later reporting of a May 2019 meeting. (A reported *January* 2019 meeting remains uncorroborated in the corpus.)
 
-That means the last documented meeting arrangement between Plaskett and Epstein was **51 days before his federal arrest**. Kellerhals was still the intermediary. Southern Trust was still the venue. The system was still running.
+That means the last documented meeting arrangement between Plaskett and Epstein was **50 days before his federal arrest**. Kellerhals was still the intermediary. Southern Trust was still the venue. The system was still running.
 
 ---
 
@@ -155,7 +155,7 @@ Ruled a suicide in his Manhattan cell.
 
 ### January 2020 – December 2022 · Denise George and the estate
 
-**[DOCUMENTED FACT]** On January 15, 2020, Virgin Islands Attorney General **Denise George** sued the Epstein Estate, co-executors Darren Indyke and Richard Kahn, and ten Epstein entities under anti-criminal enterprise, sex-trafficking, child exploitation, and fraud statutes, alleging a conspiracy that trafficked and abused victims on Little St. James.
+On January 15, 2020, Virgin Islands Attorney General **Denise George** sued the Epstein Estate, co-executors Darren Indyke and Richard Kahn, and ten Epstein entities under anti-criminal enterprise, sex-trafficking, child exploitation, and fraud statutes, alleging a conspiracy that trafficked and abused victims on Little St. James.
 
 The case settled for **$105 million** in cash plus half the proceeds from the sale of Little St. James, plus $450,000 in environmental remediation for Great St. James. The settlement was announced on **December 1, 2022** ([USVI DOJ press release](https://usvidoj.com/u-s-virgin-islands-attorney-general-settles-sex-trafficking-case-against-estate-of-jeffrey-epstein-and-co-defendants-for-over-105-million/)). That date is load-bearing: it places the settlement, the JPMorgan filing, and the firing of the attorney general all inside a four-week window.
 
@@ -165,12 +165,12 @@ George escalated. She filed suit against JPMorgan Chase, alleging the bank enabl
 
 ### December 31, 2022 · George is fired
 
-**[CREDIBLE ALLEGATION — external reporting]** Four days after suing JPMorgan, Governor **Albert Bryan** terminated George. According to reporting, she found out on New Year's Eve when Bryan's security detail delivered a letter of termination ([St. Thomas Source, Jan. 1, 2023](https://stthomassource.com/content/2023/01/01/attorney-general-denise-george-removed-from-post/); [AP via PBS, Jan. 3, 2023](https://www.pbs.org/newshour/nation/u-s-virgin-islands-fires-attorney-general-in-jeffrey-epstein-cases); [George's own account, Sep. 2023](https://stthomassource.com/content/2023/09/25/denise-george-breaks-silence-around-epstein-case-and-her-firing/)). Bryan offered no detailed public explanation at the time.
+Four days after suing JPMorgan, Governor **Albert Bryan** terminated George. According to reporting, she found out on New Year's Eve when Bryan's security detail delivered a letter of termination ([St. Thomas Source, Jan. 1, 2023](https://stthomassource.com/content/2023/01/01/attorney-general-denise-george-removed-from-post/); [AP via PBS, Jan. 3, 2023](https://www.pbs.org/newshour/nation/u-s-virgin-islands-fires-attorney-general-in-jeffrey-epstein-cases); [George's own account, Sep. 2023](https://stthomassource.com/content/2023/09/25/denise-george-breaks-silence-around-epstein-case-and-her-firing/)). Bryan offered no detailed public explanation at the time.
 
-Context makes the timing corrosive. Bryan had served as chairman of the EDA board from 2007 to 2014 and signed Epstein's benefit certificates in that capacity. He was himself later deposed in the JPMorgan case. An FBI memo surfaced in January 2026 in which George alleged Bryan had pressured her to grant Epstein a waiver from sex-offender travel-reporting rules, accused her of "going after people who are members of our team," and instructed her to settle the estate case for a lower $80 million because the estate "just wanted to clear people" ([St. Thomas Source, Jan. 30, 2026](https://stthomassource.com/content/2026/01/30/i-cant-get-you-to-let-this-go-epstein-documents-shed-light-on-former-v-i-attorney-generals-ouster/)). Bryan's own characterization of the affair: "If we never mention Jeffrey Epstein again, that would be good for me."
+Context makes the timing corrosive. Bryan had served as chairman of the EDA board — the body that administered Epstein's tax benefits — and signed benefit certificates in that capacity ([St. Thomas Source, Sep. 2023](https://stthomassource.com/content/2023/09/25/denise-george-breaks-silence-around-epstein-case-and-her-firing/)). He was himself later deposed in the JPMorgan case. An [FBI memo surfaced in January 2026](https://stthomassource.com/content/2026/01/30/i-cant-get-you-to-let-this-go-epstein-documents-shed-light-on-former-v-i-attorney-generals-ouster/) in which George alleged Bryan had pressured her to grant Epstein a waiver from sex-offender travel-reporting rules, initially told her to pursue the estate case ("He's dead go for it"), then reversed course and pressured her to settle for $80 million, telling her: "originally when I said go ahead I didn't think it was going to go this far. I can't get you to let this go?"
 
 <div class="callout blue">
-<p><span class="tier q">The George arc and why it matters.</span> The one prosecutor who tried to hold the machine accountable was fired — on New Year's Eve — by the governor who had been part of the apparatus that built it. She had just won the largest monetary settlement in Virgin Islands history. She was terminated days after escalating to JPMorgan. The George/Bryan episode is covered primarily by external reporting, not corpus-confirmed documents. It is included here because it is the structural context that makes the rest of the timeline intelligible: this is what happened when someone pushed back.</p>
+<p><strong>The George arc and why it matters.</strong> The one prosecutor who tried to hold the machine accountable was fired — on New Year's Eve — by the governor who had been part of the apparatus that built it. She had just won the largest monetary settlement in Virgin Islands history. She was terminated days after escalating to JPMorgan. The George/Bryan episode is covered primarily by external reporting, not corpus-confirmed documents. It is included here because it is the structural context that makes the rest of the timeline intelligible: this is what happened when someone pushed back.</p>
 </div>
 
 ### May 9, 2023 · The deposition
@@ -186,7 +186,7 @@ JPMorgan settled for **$75 million** — with the successor AG, not George.
 Six women [sued current and former VI officials](https://www.virginislandsdailynews.com/news/n-y-judge-allows-epstein-victims-claims-against-plaskett-to-proceed/article_8a027d6c-5213-4ff6-b4ae-c2bcfcba6bb6.html) — including Plaskett, former Governors de Jongh and Mapp, former AG Frazer, and former senators White and Dowe — alleging they made the territory a safe haven for Epstein.
 
 <div class="callout green">
-<p><span class="tier fact">Outcome — essential for fairness.</span> Judge Arun Subramanian dismissed the RICO and official-capacity claims against Plaskett, dismissed <em>all</em> claims against <em>every other</em> defendant, and let only individual-capacity claims against Plaskett proceed — on the narrow ground that her New York townhouse visit gave New York courts personal jurisdiction over her specifically. In July 2024, Plaskett filed an aggressive sanctions motion calling the allegations false and misrepresented, seeking penalties against the plaintiff's attorney. The parties then stipulated dismissal <strong>with prejudice</strong>, and the court closed the case on Sept. 23, 2025. <strong>The suit against her ended with no finding of liability and cannot be refiled.</strong> Any version of this timeline that omits the with-prejudice dismissal would be materially unfair.</p>
+<p><strong>Outcome — essential for fairness.</strong> Judge Arun Subramanian dismissed the RICO and official-capacity claims against Plaskett, dismissed <em>all</em> claims against <em>every other</em> defendant, and let only individual-capacity claims against Plaskett proceed — on the narrow ground that her New York townhouse visit gave New York courts personal jurisdiction over her specifically. In July 2024, Plaskett filed an aggressive sanctions motion calling the allegations false and misrepresented, seeking penalties against the plaintiff's attorney. The parties then stipulated dismissal <strong>with prejudice</strong>, and the court closed the case on Sept. 23, 2025. <strong>The suit against her ended with no finding of liability and cannot be refiled.</strong> Any version of this timeline that omits the with-prejudice dismissal would be materially unfair.</p>
 </div>
 
 ### November 12–19, 2025 · The firestorm
@@ -194,13 +194,13 @@ Six women [sued current and former VI officials](https://www.virginislandsdailyn
 House Oversight released estate materials Nov. 12, including the hearing-day text logs. The [Washington Post broke the timestamp match Nov. 14](https://www.washingtonpost.com/politics/2025/11/14/epstein-text-messages-cohen-house-hearing/).
 
 - **Nov. 17:** The White House published "Where Is Democrats' Transparency on Epstein?", pressing the DCCC-$30,000 and "friend in Stacey" points. (As documented above, the DCCC figure is more precisely "attempted and refused.")
-- **Nov. 18:** Rep. Ralph Norman introduced [**H.Res.888**](https://www.congress.gov/bill/119th-congress/house-resolution/888/text) to censure Plaskett and strip her from the Intelligence Committee.
+- **Nov. 18:** Republicans introduced [**H.Res.888**](https://www.congress.gov/bill/119th-congress/house-resolution/888/text) to censure Plaskett and strip her from the Intelligence Committee.
 - **Nov. 18:** Rep. James Comer requested Epstein-related documents from VI AG Gordon Rhea.
-- **The vote:** A Democratic motion to refer the matter to Ethics failed **213–214**; the censure itself failed **214–209**. Three Republicans crossed over; three voted "present." Per [Axios](https://www.axios.com/2025/11/18/stacey-plaskett-epstein-files-house-intelligence), the crossovers were linked to a deal to spare Rep. Cory Mills a parallel censure. Plaskett kept her Intelligence seat.
+- **The vote:** The censure failed **209–214**, with three Republicans crossing over and three voting "present" ([ABC](https://abcnews.go.com/US/house-votes-censuring-plaskett-epstein-texts/story?id=127670527); [CNN](https://www.cnn.com/2025/11/19/politics/gop-failed-censure-vote-plaskett-mills)). Per [Axios](https://www.axios.com/2025/11/18/stacey-plaskett-epstein-files-house-intelligence), the crossovers were linked to a deal to spare Rep. Cory Mills a parallel censure. Plaskett kept her Intelligence seat.
 
-**Plaskett's defense, stated fairly:** Epstein was a *constituent*; she received "innumerable" texts during the hearing from staff, constituents, and the public, Epstein among them; she does not need questioning advice "from any individual"; the censure was "rooted in partisanship, not facts" and a distraction from releasing the Epstein files, which she says she has supported in full. Ranking member Jamie Raskin called it "guilt by association," noting the released documents did not name a recipient. Plaskett appeared on [CNN's *The Situation Room* on November 19](https://www.cnn.com/2025/11/19/politics/gop-failed-censure-vote-plaskett-mills), declining to directly answer whether she regretted the texts and saying she was "moving forward."
+**Plaskett's defense, stated fairly:** Epstein was a *constituent*; she received "innumerable" texts during the hearing from staff, constituents, and the public, Epstein among them; she does not need questioning advice "from any individual"; the censure was "rooted in partisanship, not facts" and a distraction from releasing the Epstein files, which she says she has supported in full. Democrats noted the released documents did not on their face name the recipient. Plaskett appeared on CNN's *The Situation Room* on November 19, declining to directly answer whether she regretted the texts and saying she was "moving forward" ([WTJX](https://newsfeed.wtjx.org/podcast/wtjx-newsfeed/2025-11-22/stacey-plaskett-and-jeffrey-epstein-a-timeline)).
 
-The Epstein Files Transparency Act (Public Law 119-38) — the statute that produced this corpus — passed the same week. Plaskett is reported to be weighing a run for VI governor.
+The Epstein Files Transparency Act — the statute that produced this corpus — passed the same week. Plaskett is [reportedly weighing a run for VI governor](https://freebeacon.com/democrats/dem-rep-stacey-plaskett-visited-epstein-at-office-he-used-to-scam-virgin-islands-government-out-of-hundreds-of-millions-of-dollars-records-show/).
 
 ---
 
@@ -213,7 +213,7 @@ This is not a story about two people. It is a story about a network. The documen
 </div>
 
 <div class="char-card">
-<strong>Erika Kellerhals — the access broker.</strong> Attorney who introduced Plaskett to Epstein as a donor in 2012. Coordinated meetings in 2014 and again in May 2019 — the last documented meeting arrangement, 51 days before his arrest. The hinge between law-firm legitimacy and Epstein's private operation.
+<strong>Erika Kellerhals — the access broker.</strong> Attorney who introduced Plaskett to Epstein as a donor in 2012. Coordinated meetings in 2014 and again in May 2019 — the last documented meeting arrangement, 50 days before his arrest. The hinge between law-firm legitimacy and Epstein's private operation.
 </div>
 
 <div class="char-card">
@@ -221,7 +221,7 @@ This is not a story about two people. It is a story about a network. The documen
 </div>
 
 <div class="char-card">
-<strong>Albert Bryan — the wall.</strong> Governor who served as EDA board chairman during Epstein's benefit era, signed benefit certificates, and later fired the attorney general who pursued the estate and JPMorgan. "If we never mention Jeffrey Epstein again, that would be good for me."
+<strong>Albert Bryan — the wall.</strong> Governor who served as EDA board chairman during Epstein's benefit era, signed benefit certificates, and later fired the attorney general who pursued the estate and JPMorgan. Told George, according to an <a href="https://stthomassource.com/content/2026/01/30/i-cant-get-you-to-let-this-go-epstein-documents-shed-light-on-former-v-i-attorney-generals-ouster/">FBI memo</a>: "I can't get you to let this go?"
 </div>
 
 <div class="char-card">
@@ -251,25 +251,12 @@ This is not a story about two people. It is a story about a network. The documen
 | $219.8M FTC tax benefits | **Confirmed** via filing | [EFTA02815448](https://epstein-data.com/EFTA02815448) |
 | July 2018 reception in Epstein schedule | **Confirmed, corpus supplement** | [EFTA01006168](https://epstein-data.com/EFTA01006168) |
 | Jane Doe suit dismissed w/ prejudice | **Confirmed** (public docket) | [VI Daily News](https://www.virginislandsdailynews.com/news/n-y-judge-allows-epstein-victims-claims-against-plaskett-to-proceed/article_8a027d6c-5213-4ff6-b4ae-c2bcfcba6bb6.html) |
-| Censure failed 214–209 | **Confirmed** | [Congress.gov](https://www.congress.gov/bill/119th-congress/house-resolution/888/text), [Axios](https://www.axios.com/2025/11/18/stacey-plaskett-epstein-files-house-intelligence), [ABC](https://abcnews.go.com/US/house-votes-censuring-plaskett-epstein-texts/story?id=127670527) |
+| Censure failed 209–214 | **Confirmed** | [Congress.gov](https://www.congress.gov/bill/119th-congress/house-resolution/888/text), [ABC](https://abcnews.go.com/US/house-votes-censuring-plaskett-epstein-texts/story?id=127670527), [CNN](https://www.cnn.com/2025/11/19/politics/gop-failed-censure-vote-plaskett-mills) |
 | Barrett "records request to Plaskett" | **Not supported** — directed at Governor | [EFTA00640384](https://epstein-data.com/EFTA00640384) |
 | Jan. 2019 Southern Trust meeting | *Unconfirmed in corpus* | [Free Beacon](https://freebeacon.com/democrats/dem-rep-stacey-plaskett-visited-epstein-at-office-he-used-to-scam-virgin-islands-government-out-of-hundreds-of-millions-of-dollars-records-show/) only |
 | Estate settlement: Dec. 1, 2022 | **Confirmed** | [USVI DOJ press release](https://usvidoj.com/u-s-virgin-islands-attorney-general-settles-sex-trafficking-case-against-estate-of-jeffrey-epstein-and-co-defendants-for-over-105-million/) |
 | George fired after JPMorgan suit | *External reporting* | [St. Thomas Source](https://stthomassource.com/content/2023/01/01/attorney-general-denise-george-removed-from-post/), [AP via PBS](https://www.pbs.org/newshour/nation/u-s-virgin-islands-fires-attorney-general-in-jeffrey-epstein-cases) |
 | Bryan pressured George (FBI memo) | *External reporting* | [St. Thomas Source, Jan. 2026](https://stthomassource.com/content/2026/01/30/i-cant-get-you-to-let-this-go-epstein-documents-shed-light-on-former-v-i-attorney-generals-ouster/) |
-
----
-
-## Source discrepancies
-
-- **Estate settlement date** — WTJX's timeline carries "December 1, 2020"; the actual announcement was **December 1, 2022** per the [USVI DOJ press release](https://usvidoj.com/u-s-virgin-islands-attorney-general-settles-sex-trafficking-case-against-estate-of-jeffrey-epstein-and-co-defendants-for-over-105-million/). The correct year creates the four-week window (settlement → JPMorgan suit → George fired) that reveals the institutional response.
-- **$219.8M vs. $300M** — not a conflict; FTC-only vs. FTC+STC combined. State which.
-- **735 vs. 737 votes** — trivial primary-margin discrepancy between [WTJX](https://newsfeed.wtjx.org/podcast/wtjx-newsfeed/2025-11-22/stacey-plaskett-and-jeffrey-epstein-a-timeline) and [Lee Fang](https://www.leefang.com/p/house-democrat-worked-for-epsteins).
-- **Exhibit numbering** — WTJX's "Exhibit 13" vs. "JPMC Ex. 210" for the de Jongh email; different filing of origin.
-- **Timezone** — canonical UTC per [EFTA01612400](https://epstein-data.com/EFTA01612400); footnote ET/PT conversions.
-- **DCCC "$30,000"** — the White House framing elides that the DCCC *rejected* the $30,000; corpus/filing show attempted-and-refused.
-- **"Recipient not named"** — identification was journalistic timestamp-matching, not a labeled field in the documents.
-- **Barrett 2011** — corrected: directed at the Governor's office, not Plaskett.
 
 ---
 
@@ -350,5 +337,3 @@ The real story is not whether Plaskett colluded. It is how a man *bought a terri
 [VI Daily News — Jane Doe suit](https://www.virginislandsdailynews.com/news/n-y-judge-allows-epstein-victims-claims-against-plaskett-to-proceed/article_8a027d6c-5213-4ff6-b4ae-c2bcfcba6bb6.html);
 [Black Star News](https://blackstarnews.com/which-corrupt-u-s-virgin-islands-officials-aided-jeffrey-epstein/) (Mar. 2026);
 Tax Notes / JPMorgan memorandum; Reuters.
-
-**Methodology note:** This synthesis was produced by integrating three independent AI analyses (ChatGPT, Claude, Grok) that each queried the EFTA corpus and external sources separately, then cross-checking their findings. Where all three converge on a corpus document, the claim is strongest. Where only one surfaced a document ID, it is flagged for independent verification. The narrative framing reflects a secondary meta-analysis across all three drafts. Corpus OCR can contain errors in scanned documents; redacted entities are AI-reconstructed leads, not used as fact here. Corpus absence is not proof of non-existence.
