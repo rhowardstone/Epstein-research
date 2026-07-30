@@ -465,11 +465,21 @@ A recurring affectionate nickname used by an unnamed young female correspondent 
 
 Per [The Daily Beast, "Jeffrey Epstein's Coney Island Days"](https://www.thedailybeast.com/jeffrey-epsteins-coney-island-days-from-math-nerd-to-arrogant-prick/): *"Within the family, Epstein was nicknamed **Bear**, while Mark was called Puggie."* Brooklyn / Sea Gate childhood era.
 
-Not corpus-attested in the EFTA production (which begins post-childhood); included for biographical completeness.
+The nickname also survives once in the corpus: in [EFTA00773312](https://www.justice.gov/epstein/files/DataSet%209/EFTA00773312.pdf) (DS9) — Aug 3, 2009, an old associate (Maurice Sherman) opens an email "**Bear** Epstien?", showing the childhood nickname persisted into adulthood among longtime contacts. *(Corpus occurrence flagged by reader "Maja," Jul 2026; verified.)*
 
-### "Frog" — Childhood Friend (Epstein's Circle)
+### "Frog" — Dr. Michael Buchholtz (Epstein Childhood Friend)
 
-- [EFTA01975467](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01975467.pdf) (DS10) — Nov 14, 2012: "**Frog's** been terrific." Referenced alongside "Warren" who "calls himself dead man walking." Context: childhood neighborhood (Sea Gate, Brooklyn).
+**"Frog" is Dr. Michael Buchholtz** ("Mike"), a New York oncologist and one of Epstein's core childhood friends (the group also included **Warren Eisenstein** and **Terry Kafka**). Multiple corpus documents support the identification:
+
+- [EFTA01975467](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01975467.pdf) (DS10) — Nov 14, 2012: "**Frog's** been terrific," referenced alongside "Warren."
+- [EFTA01761142](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01761142.pdf) (DS10) — Warren: "booked the 24th for a matinee on Bwy with **Frog & Mary** (her birthday)." Buchholtz is married to Dr. Mary Uricchio.
+- [EFTA02534456](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02534456.pdf) (DS11) — Dec 2010: Eva Dubin corrects herself, "Melissa is **Buchholz** niece, not Neutral!!"; Epstein replies he "said **frog** not neutral" — directly equating "frog" with the Buchholz family (and distinguishing it from the separate "Neutral" codename).
+- [EFTA01936846](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01936846.pdf) (DS10) — "Getting to together with **Dr Frog** tonight." (Buchholtz is an M.D.)
+- [EFTA01977900](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01977900.pdf) (DS10) — Terry Kafka: "The visit by **Frog** was terrific."
+- [EFTA01976533](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01976533.pdf) (DS10) — Warren quotes an email from "**FROG Office**" relaying his cancer details; "Frog," an oncologist, advised Warren through his illness. Warren Eisenstein's [obituary](https://www.dignitymemorial.com/obituaries/richardson-tx/warren-eisentein-5873624) names his "lifelong friends and soul mates: **Dr. Michael Buchholtz** (NY), Jeffrey Epstein (NY), Terry Kafka (Dallas)..."
+- [EFTA02332441](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02332441.pdf) (DS11) — Maxwell's Birthday-Book roster of "Warren's people — Terry, Neutral [aka Jeff Nier], **the frog**, Joe [Zucca], and **Michael Buccholtz**" conflates the nicknames (she assembled the book in 2002 without having met the men).
+
+The childhood friend group is also captured in EFTA01170955 (image-only in this production; per the pre-redacted version it names Buchholtz, Kafka, and Eisenstein). *(Identification and evidence contributed by reader "Maja," Jul 2026; each citation verified against the corpus.)*
 
 ### "Godfather" — Epstein (Multiple Contexts)
 
