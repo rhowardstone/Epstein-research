@@ -61,7 +61,7 @@ Trivers himself itemized the financial relationship in a remarkable email to Eps
 
 In January 2012, Trivers emailed Epstein asking for the foundation's address: "can you give me an address with zip for your Foundation that kindly gave me $25,000 in 2010? i only have it listed as COUG Foundation in NYC. the IRS on my 990 PF is asking for the exact address." ([EFTA02548850](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02548850.pdf))
 
-**Enhanced Education Foundation** ("ELF") — The successor vehicle after C.O.U.Q. shut down. Linked to the [J. Epstein VI Foundation](https://en.wikipedia.org/wiki/Jeffrey_Epstein_VI_Foundation), which also funded Lawrence Krauss's Origins Project at ASU ($250,000, 2010-2017) and George Church's work at Harvard. Made the now-broken $30 million pledge to Harvard's Program for Evolutionary Dynamics (only $6.5M delivered).
+**Enhanced Education Foundation** ("ELF") — The successor vehicle after C.O.U.Q. shut down. It is not merely *linked* to the [J. Epstein VI Foundation](https://en.wikipedia.org/wiki/Jeffrey_Epstein_VI_Foundation) — it **is** that foundation: corpus records show "J. EPSTEIN VIRGIN ISLANDS FOUNDATION, INC. (a/k/a ENHANCED EDUCATION)" ([EFTA01362078](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01362078.pdf), DS10), i.e. Enhanced Education is the operating name of the J. Epstein VI Foundation. That foundation also funded Lawrence Krauss's Origins Project at ASU ($250,000, 2010-2017) and George Church's work at Harvard. *(a/k/a correction contributed by reader "Maja," Jul 2026; verified.)* Made the now-broken $30 million pledge to Harvard's Program for Evolutionary Dynamics (only $6.5M delivered).
 
 ### The HBRK Pipeline
 
