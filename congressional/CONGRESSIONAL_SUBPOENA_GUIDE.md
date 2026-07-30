@@ -166,7 +166,7 @@ As of July 29, 2026. All 12 transcript PDFs are hosted and searchable at [epstei
 | # | Witness | Role | Compelled? | Date | Released |
 |---|---------|------|-----------|------|----------|
 | 1 | William Barr | Former AG | Subpoena | Aug 18, 2025 | [Transcript](https://epstein-data.com/depositions?v=barr) (Sep 16) |
-| 2 | Alexander Acosta | Former SDFL U.S. Atty / Labor Sec. (Epstein NPA) | Subpoena (added Aug 25) | Sep 19, 2025 | Transcript (Oct 17) |
+| 2 | Alexander Acosta | Former SDFL U.S. Atty / Labor Sec. (Epstein NPA) | Subpoena (added Aug 25) | Sep 19, 2025 | Transcript (Oct 17) — committee-hosted only on a restricted Google Drive; not mirrorable |
 | 3 | Ghislaine Maxwell | Convicted co-conspirator | Subpoena | Feb 9, 2026 | [Video](https://epstein-data.com/depositions?v=maxwell) (pled 5th) |
 | 4 | Les Wexner | Epstein's chief financial benefactor | Subpoena | Feb 18, 2026 | [Video](https://epstein-data.com/depositions?v=wexner) |
 | 5 | Hillary Clinton | Former Sec. of State | Subpoena (contempt) | Feb 26, 2026 | [Video](https://epstein-data.com/depositions?v=hillary_clinton) |
