@@ -11,7 +11,7 @@ Defaults:
     output_dir: /opt/datasette-data/reports-html
 """
 
-import os, sys, re, html, subprocess, json
+import os, sys, re, html, subprocess, json, sqlite3
 from pathlib import Path
 from datetime import datetime, timezone
 from email.utils import format_datetime
@@ -25,23 +25,20 @@ except ImportError:
 
 REPO_DIR = Path(sys.argv[1]) if len(sys.argv) > 1 else Path("/opt/datasette-data/reports-repo")
 OUT_DIR = Path(sys.argv[2]) if len(sys.argv) > 2 else Path("/opt/datasette-data/reports-html")
-NAVBAR_PATH = Path("/opt/datasette-data/templates/_navbar.html")
 
-_NAVBAR_FALLBACK = """<div class="r-topbar">
-  <a href="/" class="r-topbar-home">Home</a>
-  <div class="r-topbar-links">
-    <a href="https://www.congress.gov/119/plaws/publ38/PLAW-119publ38.htm" target="_blank">EFTA</a>
-    <span class="bar-dot"></span>
-    <a href="https://www.justice.gov/epstein/doj-disclosures" target="_blank">DOJ Production</a>
-  </div>
-</div>"""
+# --hits-db flag for comment count badges
+HITS_DB = None
+for _i, _arg in enumerate(sys.argv):
+    if _arg == "--hits-db" and _i + 1 < len(sys.argv):
+        HITS_DB = sys.argv[_i + 1]
+if HITS_DB is None:
+    _default_hits = Path("/opt/datasette-data/hits.db")
+    if _default_hits.exists():
+        HITS_DB = str(_default_hits)
 
-def _load_navbar():
-    if NAVBAR_PATH.exists():
-        return NAVBAR_PATH.read_text(encoding="utf-8")
-    return _NAVBAR_FALLBACK
-
-_NAVBAR_HTML = None  # loaded lazily on first build
+# Load shared navbar HTML (if available)
+_NAVBAR_PATH = Path(__file__).parent / "templates" / "_navbar.html"
+NAVBAR_HTML = _NAVBAR_PATH.read_text() if _NAVBAR_PATH.exists() else ""
 
 # Category display names and order
 CATEGORIES = {
@@ -69,7 +66,7 @@ CATEGORIES = {
 # Hand-written descriptions for homepage cards (auto-extraction is unreliable)
 FEATURED = {
     "overview/MASTER_REPORT.md":
-        "Consolidated findings from 2.73M pages across 12 DOJ datasets — financial networks, shell entities, key operators, and prosecution failures.",
+        "Consolidated findings from 2.91M pages across 12 DOJ datasets — financial networks, shell entities, key operators, and prosecution failures.",
     "financial/SHELL_ENTITY_MAP.md":
         "Complete map of 95+ shell entities under Deutsche Bank RM CODE 82289, compiled from 6 forensic sources.",
     "evidence/DEVICE_FORENSICS_COMPLETE.md":
@@ -78,8 +75,6 @@ FEATURED = {
         "Tracing the origins of Epstein's wealth through hidden text, extracted entities, and reconstructed financial pages.",
     "individuals/INVESTIGATION_6_LEON_BLACK.md":
         "Leon Black's $158M+ in payments to Epstein, Apollo Global Management ties, and three years of FBI investigation.",
-    "individuals/PRINCE_ANDREW_INVESTIGATION.md":
-        "Everything the EFTA corpus shows on Prince Andrew (Andrew Mountbatten-Windsor): the 'Invisible Man' Pipex emails, the 2020 MLAT request to the UK, the FBI 'Prominent Names' briefing, the Ferguson debt paperwork in Epstein's files, and what the documents do — and do not — prove.",
     "internet-theories/CONSPIRACY_THEORY_SEARCH_PIZZAGATE.md":
         "Exhaustive search of 1.38M documents finds zero evidence for Pizzagate claims. Here's what the data actually shows.",
     "institutional/PROSECUTION_FAILURES_ANALYSIS.md":
@@ -94,6 +89,10 @@ FEATURED = {
         "Definitive analysis of Israeli connections within the 218GB DOJ corpus — Ehud Barak, defense contracts, and intelligence ties.",
     "intelligence/FBI_INTELLIGENCE_INVESTIGATIONS.md":
         "The FBI had at least five intelligence cases on Epstein — foreign intelligence, election influence, and external agency coordination at SECRET//ORCON//NOFORN.",
+    "intelligence/NO_KINGS_ROYALTY_WORLD_LEADERS.md":
+        "Every documented connection between Epstein and royalty, heads of state, and senior officials across eight countries — from Prince Andrew's 2001 emails to a 2019 island meeting with Bannon, Barak, and Qatar. Chronological, with evidentiary categories separating confirmed meetings from proposals and name-drops.",
+    "individuals/EMMY_TAYLER_INVESTIGATION.md":
+        "SDNY called her 'potentially the most critical person in the case.' The FBI called her a 'witness/co-conspirator.' Media said she fled. The documents show she sat for a 29-page interview over three days in London.",
     "individuals/WILLIAM_BARR_INVESTIGATION.md":
         "William Barr in the FBI files — NTOC filing, recusal decisions, and MCC oversight during Epstein's final days.",
     "individuals/ROTHSCHILD_INVESTIGATION.md":
@@ -122,24 +121,12 @@ FEATURED = {
         "Midnight 911 call at 358 El Brillo Way (Aug 2002) — three CAD record anomalies: no narrative, no EMS dispatch, no disposition.",
     "congressional/CONGRESSIONAL_SUBPOENA_GUIDE.md":
         "64 witnesses, 426 EFTA citations, practical procedures — every subpoena target, every document demand, every obstacle and countermeasure for the House Oversight investigation.",
-    "congressional/DEPOSITION_ANALYSIS_NOEL.md":
-        "What the guard on duty the night Epstein died said under 18 USC §1001 liability — 4 hours of congressional testimony cross-referenced against 2.91M pages. Falsified training records, the unidentified 'flash of orange,' an eight-hour gap with no verified SHU count, 12 JPMorgan-flagged deposits, and an unreported inmate moved onto Epstein's SHU unit the same evening his cellmate was removed.",
-    "congressional/DEPOSITION_ANALYSIS_INDYKE.md":
-        "What Epstein's personal attorney said under oath — 6.8 hours of sworn testimony analyzed against 2.77M pages. NPA co-conspirator input, computer hard drives with PIs, $725K structured cash, sham marriage admissions, and the 'Kool-Aid' moment.",
-    "congressional/DEPOSITION_ANALYSIS_KAHN.md":
-        "What Epstein's accountant said under oath — 5.9 hours of sworn testimony analyzed against 2.77M pages. Bill Gates visa letters, victim settlement carve-outs (Black, Staley), Forums LLC/Clinton, bank impersonation, and disputed Jane Doe 4 testimony.",
     "congressional/WITNESS_BRIEF_INDYKE.md":
         "Deposition prep for Darren K. Indyke — Epstein's personal attorney, co-executor, and trustee of a $577M estate. 70+ EFTA citations: $800K cash withdrawals, $12.6M IOLA trust, 13.7M ruble Moscow wire, witness tampering evidence, and 20 evidence-backed deposition questions.",
     "congressional/WITNESS_BRIEF_KAHN.md":
         "Deposition prep for Richard D. Kahn — Epstein's accountant, HBRK Associates co-principal, and co-executor. $159M in managed entity balances, $47.3M TD Bank SAR, $50K cash withdrawal, $23M to USVI escrow, the employment lock-in provision that silenced witnesses for two years, and 20 deposition questions.",
-    "congressional/WITNESS_BRIEF_LUTNICK.md":
-        "Deposition prep for Howard Lutnick — Commerce Secretary and Cantor Fitzgerald CEO — measured against the May 6, 2026 transcript. 89 documents cited: his own \"Hi Jeff\" email initiating the December 2012 island visit he called \"inexplicable,\" the $10 deed chain at 11 East 71st Street, 26 FBI NY case-file hits and three SARs the Bureau declined to investigate, and the Sep 2013 \"Mr. T\" term sheet.",
-    "congressional/WITNESS_BRIEF_WAITT.md":
-        "Deposition prep for Ted Waitt — Gateway Computers founder — measured against the April 30, 2026 transcript. 55 EFTAs + 2 DOJ-OGR cited: a $7,211,238 lump-sum wire to Ghislaine Maxwell, ~$720K in monthly wires to an Indyke-controlled LLC during Epstein's incarceration, an AMEX Centurion sub-account for Maxwell, and two 2020 FBI tips that named him by name.",
-    "individuals/ROED_LARSEN_FAMILY_INVESTIGATION.md":
-        "25+ years of documented contact between Epstein and former UN envoy Terje Rød-Larsen, his wife Norwegian diplomat Mona Juul, and their son Edward — IPI funding, Avenue Foch visits, a Gates Foundation intervention, and a $5M provision in Epstein's will.",
-    "evidence/1B136_INVESTIGATION.md":
-        "The FBI rushed 34 agents to review an 85 GB Epstein hard drive after congressional pressure — escalating to the Director, AG, and DAG. Then it left 10.5 terabytes of backup tapes untouched, citing warrant requirements. 44 source documents.",
+    "congressional/WITNESS_BRIEF_KELLEN.md":
+        "Sarah Kellen's House Oversight testimony (May 21, 2026) cross-referenced against the corpus — 55 testable claims, 47 corroborated, zero contradicted. Independent FBI witness confirms her 'cold sheets' code word. Named abusers: Fekkai, Levine, Demarchelier. Evidence destruction detailed: computer removal before raid, Valentine's Day 2006 directory gathering with Indyke and Lefcourt present.",
     "institutional/ZORRO_RANCH_INVESTIGATION_HALT.md":
         "How SDNY prosecutors ordered New Mexico to cease its sex trafficking investigation into Zorro Ranch in July 2019 — one month before Epstein's death. No search warrant was ever executed. The ranch was not searched until March 2026.",
     "pqg_lines_of_investigation/00_INDEX.md":
@@ -198,6 +185,8 @@ FEATURED = {
         "Third-party money flows through Epstein entities disguised as art transactions — auction records, gallery payments, and shell company routes.",
     "raw-dataset-analysis/DS10_INTERIM_FINDINGS.md":
         "Interim analysis of Dataset 10 during the initial full-corpus scan — key documents flagged for deep investigation.",
+    "institutional/QTASK_EPSTEIN_INVESTIGATION.md":
+        "The Rothstein Ponzi firm's secret document server held Epstein victim case files — and Epstein personally subpoenaed the bankruptcy trustee to access them while emailing the company's founder during contempt proceedings.",
     "raw-dataset-analysis/DS8_CONTENT_SURVEY.md":
         "Content survey of Dataset 8 — DOJ/USAO internal communications, media files, and native spreadsheet records.",
     "raw-dataset-analysis/DS8_MEDIA_CATALOG.md":
@@ -214,12 +203,16 @@ FEATURED = {
         "Reliability audit of extracted evidence — source verification, framing corrections, and confidence ratings for key claims.",
     "individuals/UNNAMED_PERSONS_INVESTIGATION.md":
         "Investigation of unnamed individuals referenced in key victim testimony — cross-referenced against flight logs and financial records.",
+    "victims/ALLRED_VICTIM_INTERVIEW.md":
+        "FBI FD-340c evidence intake and victim interview records — attorney-facilitated disclosures and investigative follow-up documentation.",
     "scientists/DAVID_SHAW_INVESTIGATION.md":
         "David E. Shaw investigation — billionaire D.E. Shaw & Co. founder, financial ties to Epstein, and scientific funding network overlap.",
     "internet-theories/CONSPIRACY_THEORY_SEARCH_OCCULT.md":
         "Exhaustive search for occult and ritual abuse claims across 3.5M+ records and 4 databases. Evidence assessment for each theory.",
     "FRENCH_CONNECTION_INVESTIGATION.md":
         "Guide to EFTA corpus evidence for French investigators — the modeling pipeline, Avenue Foch, Jack Lang/Prytanee LLC, Fabrice Aidan, Frederic Chaslin, and Deutsche Bank financial flows.",
+    "SINGAPORE_INVESTIGATION.md":
+        "Four unreported findings from Epstein's Singapore correspondence: Jes Staley flying to Singapore to win GIC as a sovereign-fund client, floating a JPMorgan division relocation, a second Lee Kuan Yew reference, and Singapore named in a financial council proposal in a thread linked to Prince Andrew. Full fact-check and source table across Datasets 9–11.",
     "social-networks/REUBEN_BROTHERS_SIREN_CHERNOY.md":
         "David and Simon Reuben introduced to Epstein via Peggy Siegal in March 2010 — the same day a warning about Michael Chernoy arrived. Deutsche Bank flagged 'Reuben Brothers Ltd' as RED.",
     "social-networks/ST_BARTHS_2010_GUEST_LIST.md":
@@ -239,7 +232,7 @@ FEATURED = {
     "institutional/STT_AVIATION_INFRASTRUCTURE_CONTROL.md":
         "Epstein's private aviation ecosystem at St. Thomas — shell entities, fuel wars, an FBO acquisition attempt, informants at the Jet Center, and the governor's wife leaking Port Authority intel. When Black Diamond Capital tried to buy the Jet Center, Epstein's pilot surveilled their Learjet within hours.",
     "institutional/DEA_OCDETF_INVESTIGATION.md":
-        "A 69-page DEA target profile reveals 'Operation Chain Reaction' — 15 targets, $50M in suspicious transfers, 10 federal agencies. Cross-referenced against 2.73M pages: SLK Designs payroll shell (438 docs), Hyperion Air entity web (3,802 docs), unexplained Secret Service double-query, and Epstein's lawyer calling Angel Watch 89 days before arrest.",
+        "A 69-page DEA target profile reveals 'Operation Chain Reaction' — 15 targets, $50M in suspicious transfers, 10 federal agencies. Cross-referenced against 2.91M pages: SLK Designs payroll shell (438 docs), Hyperion Air entity web (3,802 docs), unexplained Secret Service double-query, and Epstein's lawyer calling Angel Watch 89 days before arrest.",
     "institutional/USVI_FINANCIAL_SERVICES_LEGISLATION.md":
         "A 284-page financial services bill drafted by Epstein's private Wall Street attorney for the USVI Governor — designed to replicate Ireland's corporate tax structures in the Virgin Islands. Epstein forwarded the bill; Governor Mapp replied 'Got it, thanks.' The bill has never been reported.",
     "individuals/BARNABY_MARSH_INVESTIGATION.md":
@@ -270,24 +263,13 @@ FEATURED = {
         "Every pseudonym, codename, email alias, and encrypted channel in the 2.77M-page corpus — 13 confirmed codenames, 85+ internet claims verified, 22 debunked with specific EFTA evidence, and 273 citations fact-checked against the database. Includes the Dr. Evil identification (Dr. Steven Victor), MEGAMELSY = Melanie Walker, MacGyver = Benjamin Brafman counter-analysis, Disney princess exchange, entity shells, plain-text passwords, and systematic debunking of Beefeater food codes and Sekolapedia conspiracy claims.",
     "individuals/BILL_CLINTON_INVESTIGATION.md":
         "How the Clinton-Epstein relationship actually functioned: Maxwell as intermediary, Band as operational counterpart, Epstein as diplomatic back-channel. The motorcade-to-plane pipeline, a $250K payment request routed through Maxwell, Google founders at Epstein's house vetted by Clinton's office, Ivory Coast military airbase access, and the coordinated January 2015 denial campaign. 41 EFTA citations, 6 unreported threads.",
-    "individuals/MEDICAL_PROFESSIONALS_INVESTIGATION.md":
-        "48 physicians, dentists, and medical providers across 23,000+ EFTA documents. The Moskowitz gonorrhea thread (mandated reporting evasion), Dr. Evil's $20K free-treatment pipeline, $725 hair consultations and Black Amex receipts for young women, the Columbia dental education pipeline, a psychiatrist sued by an Epstein accuser, zero medical subpoenas issued, and the Mount Sinai institutional network. Every claim cited to specific EFTA documents.",
-    "evidence/DEFECTIVE_REDACTIONS_PUBLIC_GUIDE.md":
-        "How to recover redacted text from Jeffrey Epstein court filings — a plain-language guide for journalists and researchers. DOJ published thousands of court PDFs in Dec 2025 with black-bar redactions drawn over visible text; the hidden content comes back on copy/paste. 719 recoverable fragments confirmed across 7 cases (Giuffre v. Maxwell, USVI v. JPMorgan, U.S. v. Maxwell, Estate of Epstein, Aronberg, CBP TECS, cert petition), cross-validated with two independent methods.",
-    "evidence/DEFECTIVE_REDACTIONS_TECHNICAL_REPORT.md":
-        "Technical analysis of the DOJ's defective-redaction vulnerability — PDF rendering-mode flaws, geometric text recovery, and full 7-case catalog. 740 initial fragments, 719 retained after cross-validation using Lee Drake's open-source `unredact` tool as an independent structural detector. Complementary failure modes: pixel method catches image-baked bars, structural method catches narrow inline bars. Full triage of all 138 method-divergent pages included.",
+    "individuals/MAXWELL_ARRANGED_WOMEN_POWERFUL_MEN.md":
+        "Emails recovered from Epstein's seized hard drives show Maxwell arranging access to women for influential men beyond Epstein — including Prince Andrew and Clinton aide Doug Band. Prosecutors assembled them as trial exhibits; a judge excluded every one before the jury saw them. The FBI's sworn interpretations, SDNY's explicit identification of both men by name, and the full chain of custody remain in the public court record.",
+    "individuals/RONALD_LAUDER_INVESTIGATION.md":
+        "Friends Ventures LLC — the 2014 Epstein-structured entity holding a $25M Kurt Schwitters painting for Ronald Lauder and Leon Black as 50/50 co-owners, with Epstein coordinating its tax and partnership filings through 2016 and a documented $12.5M succession-purchase plan on Black's death. Plus a May 2017 'just left my house' email, an August 2017 scheduled lunch, a January 2019 Abidjan iMessage, and multi-year Peggy Siegal social-list presence — 463 deduped documents sorted into what is operational, what is incidental, and what the corpus does NOT show.",
 }
 
-SKIP_FILES = {
-    "COMMUNITY_PLATFORMS.md",
-    "scratchpad_maxwell_external_procurement_pipeline.md",
-}
-# Living documents that shouldn't show a publish date
-NO_DATE_FILES = {
-    "CLAUDE.md",
-    "WRITING_GUIDE.md",
-    "METHODOLOGY.md",
-}
+SKIP_FILES = {"COMMUNITY_PLATFORMS.md"}
 START_HERE_FILE = "README.md"  # Rendered as a prominent banner above categories
 
 
@@ -306,37 +288,53 @@ MOVED_FILES = {
     "congressional/CONGRESSIONAL_ADDENDUM.md": "CONGRESSIONAL_ADDENDUM.md",
     "congressional/congressional_priority_list.md": "congressional_priority_list.md",
     "congressional/CONGRESSIONAL_SUBPOENA_GUIDE.md": "institutional/CONGRESSIONAL_SUBPOENA_GUIDE.md",
+    "individuals/MAXWELL_ARRANGED_WOMEN_POWERFUL_MEN.md": "individuals/MAXWELL_EXTERNAL_PROCUREMENT_PIPELINE.md",
 }
 
-# Earliest provable dates for all reports.
-# Pre-Feb-18 evidence: zip export timestamps (all 2026-02-12 07:23) + Python script mtimes (Feb 5).
-# Post-Feb-18 dates: recovered from Wayback Machine snapshot of epstein-data.com/reports/
-# after a 2026-05-31 history squash destroyed individual commit timestamps.
+# Earliest provable dates for reports written before the 2026-02-18 bulk git push.
+# Evidence: zip export timestamps (all 2026-02-12 07:23) + Python script mtimes (Feb 5).
+# Files NOT listed here were added after Feb 12 and have accurate git dates.
 DATE_OVERRIDES = {
-    # --- 3 files provably existing by Feb 5 (referenced in Python scripts with that mtime) ---
-    "raw-dataset-analysis/DS10_KEY_DOCUMENTS_DEEP_DIVE.md": "2026-02-05",
-    "methodology/DEC2025_REDACTION_COMPARISON.md": "2026-02-05",
-    "raw-dataset-analysis/DS10_ENTITY_EXTRACTION_REPORT.md": "2026-02-05",
-    # --- All remaining files from the Feb 12 export zip ---
-    "congressional/CONGRESSIONAL_FOLLOWUP_NEW_FINDINGS.md": "2026-02-12",
-    "congressional/CONGRESSIONAL_READING_GUIDE.md": "2026-02-12",
-    "congressional/CONGRESS_RAW_EFTA_LIST.md": "2026-02-12",
+    "FRENCH_CONNECTION_INVESTIGATION.md": "2026-02-18",
+    "SINGAPORE_INVESTIGATION.md": "2026-03-20",
     "art/ART_INVESTIGATION_COMPLETE.md": "2026-02-12",
     "art/ART_INVESTIGATION_OCR_IMAGES.md": "2026-02-12",
     "art/ART_INVESTIGATION_REDACTIONS.md": "2026-02-12",
     "art/ART_INVESTIGATION_WEB_RESEARCH.md": "2026-02-12",
+    "audits/FACTUAL_ACCURACY_AUDIT.md": "2026-02-18",
+    "audits/README.md": "2026-02-18",
+    "congressional/CONGRESSIONAL_ADDENDUM.md": "2026-02-18",
+    "congressional/CONGRESSIONAL_FOLLOWUP_NEW_FINDINGS.md": "2026-02-12",
+    "congressional/CONGRESSIONAL_READING_GUIDE.md": "2026-02-12",
+    "congressional/CONGRESSIONAL_SUBPOENA_GUIDE.md": "2026-03-07",
+    "congressional/CONGRESS_RAW_EFTA_LIST.md": "2026-02-12",
+    "congressional/DEPOSITION_ANALYSIS_INDYKE.md": "2026-03-24",
+    "congressional/DEPOSITION_ANALYSIS_KAHN.md": "2026-03-24",
+    "congressional/WITNESS_BRIEF_INDYKE.md": "2026-03-07",
+    "congressional/WITNESS_BRIEF_KAHN.md": "2026-03-07",
+    "congressional/WITNESS_BRIEF_LUTNICK.md": "2026-05-14",
+    "congressional/WITNESS_BRIEF_NOEL.md": "2026-03-24",
+    "congressional/WITNESS_BRIEF_WAITT.md": "2026-05-14",
+    "congressional/congressional_priority_list.md": "2026-02-18",
+    "evidence/1B136_INVESTIGATION.md": "2026-04-07",
     "evidence/BLACKOUT_PERIOD_INVESTIGATION.md": "2026-02-12",
     "evidence/CORRUPTED_PDF_FORENSICS.md": "2026-02-12",
+    "evidence/DEFECTIVE_REDACTIONS_PUBLIC_GUIDE.md": "2026-04-24",
+    "evidence/DEFECTIVE_REDACTIONS_TECHNICAL_REPORT.md": "2026-04-24",
     "evidence/DEVICE_FORENSICS_COMPLETE.md": "2026-02-12",
     "evidence/EFTA00004800_DEEP_DIVE.md": "2026-02-12",
     "evidence/EVIDENCE_COMPILATION.md": "2026-02-12",
     "evidence/FOUR_CHAN_PARAMEDIC_INVESTIGATION.md": "2026-02-12",
     "evidence/GABRIELLA_RICO_JIMENEZ_INVESTIGATION.md": "2026-02-12",
     "evidence/MAXWELL_FIREARMS_LICENSE_INVESTIGATION.md": "2026-02-12",
+    "evidence/MCC_INMATE_WITNESS_INTERVIEWS.md": "2026-03-08",
     "evidence/ONLINE_EVIDENCE_INVESTIGATION.md": "2026-02-12",
+    "evidence/PHONE_RECORDS_INVESTIGATION.md": "2026-03-04",
     "evidence/PLIST_FORENSIC_SEARCH.md": "2026-02-12",
     "evidence/PLIST_REDACTED_EMAILS_DEEP_DIVE.md": "2026-02-12",
     "evidence/PLIST_TIMESTAMP_TRANSACTION_CORRELATION.md": "2026-02-12",
+    "evidence/VICTIM_JOURNAL_CORROBORATION.md": "2026-04-07",
+    "financial/CRYPTO_NETWORK_INVESTIGATION.md": "2026-03-06",
     "financial/DILORIO_APOLLO_WHISTLEBLOWER.md": "2026-02-12",
     "financial/FORENSIC_ACCT_1_HAZE_DRAWDOWN.md": "2026-02-12",
     "financial/FORENSIC_ACCT_2_MONEY_SOURCES.md": "2026-02-12",
@@ -364,40 +362,83 @@ DATE_OVERRIDES = {
     "government-officials/REPUBLICAN_HOUSE.md": "2026-02-12",
     "government-officials/REPUBLICAN_SENATE.md": "2026-02-12",
     "individuals/ALEXANDER_WANDTKE_NSALEM_INVESTIGATION.md": "2026-02-12",
+    "individuals/BARNABY_MARSH_INVESTIGATION.md": "2026-02-23",
+    "individuals/BILL_CLINTON_INVESTIGATION.md": "2026-02-27",
+    "individuals/DONALD_TRUMP_INVESTIGATION.md": "2026-02-28",
     "individuals/DUBAI_SULAYEM_INVESTIGATION.md": "2026-02-12",
+    "individuals/EMAD_HANNA_HBRK_INVESTIGATION.md": "2026-02-24",
+    "individuals/EMMY_TAYLER_INVESTIGATION.md": "2026-03-24",
     "individuals/INVESTIGATION_1_BARR_NTOC.md": "2026-02-12",
     "individuals/INVESTIGATION_5_MAXWELL_SSN.md": "2026-02-12",
     "individuals/INVESTIGATION_6_LEON_BLACK.md": "2026-02-12",
     "individuals/INVESTIGATION_8_UNEXPLORED_NAMES.md": "2026-02-12",
+    "individuals/JACQUI_SAFRA_INVESTIGATION.md": "2026-02-18",
     "individuals/JUNKERMANN_MC2_INVESTIGATION.md": "2026-02-12",
+    "individuals/KARYNA_SHULIAK_INVESTIGATION.md": "2026-03-16",
     "individuals/KHANNA_SIX_NAMES_INVESTIGATION.md": "2026-02-12",
     "individuals/LEON_BLACK_PROSECUTION_FAILURE.md": "2026-02-12",
     "individuals/LUTNICK_DUBIN_INVESTIGATION.md": "2026-02-12",
     "individuals/MARCINKOVA_INVESTIGATION.md": "2026-02-12",
+    "individuals/MAXWELL_ARRANGED_WOMEN_POWERFUL_MEN.md": "2026-03-23",
+    "individuals/MEDICAL_PROFESSIONALS_INVESTIGATION.md": "2026-03-17",
+    "individuals/MICHAEL_WOLFF_INVESTIGATION.md": "2026-03-10",
     "individuals/MITCHELL_CASCADE_INVESTIGATION.md": "2026-02-12",
+    "individuals/OHIO_NODE_INVESTIGATION.md": "2026-03-07",
+    "individuals/PRINCE_ANDREW_INVESTIGATION.md": "2026-05-30",
+    "individuals/PSEUDONYM_CODENAME_REGISTRY.md": "2026-02-26",
+    "individuals/ROBERT_TRIVERS_INVESTIGATION.md": "2026-02-26",
+    "individuals/ROED_LARSEN_FAMILY_INVESTIGATION.md": "2026-04-30",
+    "individuals/RONALD_LAUDER_INVESTIGATION.md": "2026-04-22",
     "individuals/ROTHSCHILD_INVESTIGATION.md": "2026-02-12",
     "individuals/RUEMMLER_DEEP_DIVE.md": "2026-02-12",
     "individuals/RUSSIAN_WOMAN_SCOTT_IDENTIFICATION.md": "2026-02-12",
     "individuals/SENATOR_MITCHELL_INVESTIGATION.md": "2026-02-12",
+    "individuals/SHAHER_ABDULHAK_MR_EVIL_INVESTIGATION.md": "2026-02-25",
+    "individuals/TIM_COLLINS_BANKING_NETWORK.md": "2026-03-02",
     "individuals/UNNAMED_PERSONS_INVESTIGATION.md": "2026-02-12",
     "individuals/WILLIAM_BARR_INVESTIGATION.md": "2026-02-12",
+    "individuals/WILL_FORD_INVESTIGATION.md": "2026-03-24",
     "institutional/CBP_CORRUPTION_INVESTIGATION.md": "2026-02-12",
     "institutional/CBP_RUEMMLER_REMAINING_LEADS.md": "2026-02-12",
+    "institutional/DEATH_INVESTIGATION_DOCUMENT_REMOVAL.md": "2026-02-24",
+    "institutional/DEA_OCDETF_INVESTIGATION.md": "2026-02-23",
+    "institutional/DOJ_DOCUMENT_ALTERATION_FORENSICS.md": "2026-03-03",
+    "institutional/DOJ_DOCUMENT_REMOVAL_AUDIT.md": "2026-02-21",
+    "institutional/DS12_EXPANSION_ANALYSIS.md": "2026-03-06",
+    "institutional/EPSTEIN_STORAGE_UNITS_INVESTIGATION.md": "2026-02-26",
+    "institutional/FBI_302_MISSING_SERIALS_DOSSIER.md": "2026-02-26",
+    "institutional/GERMAN_FINANCIAL_NETWORK.md": "2026-02-24",
+    "institutional/HELPFULEXPERTS_INVESTIGATION.md": "2026-02-24",
+    "institutional/ITALIAN_CONNECTIONS_INVESTIGATION.md": "2026-02-26",
+    "institutional/LAWYERS_LITIGATION_INDEX.md": "2026-03-05",
+    "institutional/MIDNIGHT_911_CALL_INVESTIGATION.md": "2026-02-18",
+    "institutional/OPERATION_CHAIN_REACTION_PART2.md": "2026-03-27",
     "institutional/PROSECUTION_FAILURES_ANALYSIS.md": "2026-02-12",
+    "institutional/QTASK_EPSTEIN_INVESTIGATION.md": "2026-03-20",
+    "institutional/SECONDARY_BATES_STAMP_ANALYSIS.md": "2026-02-26",
+    "institutional/STT_AVIATION_INFRASTRUCTURE_CONTROL.md": "2026-02-23",
+    "institutional/USVI_FINANCIAL_SERVICES_LEGISLATION.md": "2026-02-23",
+    "institutional/VILLA_ARABESQUE_BOEING_727_INVESTIGATION.md": "2026-02-26",
+    "institutional/ZORRO_RANCH_INVESTIGATION_HALT.md": "2026-03-11",
+    "institutional/ZORRO_RANCH_INVESTIGATION_PART2.md": "2026-03-28",
+    "intelligence/FBI_INTELLIGENCE_INVESTIGATIONS.md": "2026-02-26",
     "intelligence/ISRAELI_INTELLIGENCE_DEEP_DIVE.md": "2026-02-12",
     "intelligence/ISRAEL_DEEP_DIVE_V2.md": "2026-02-12",
+    "intelligence/NO_KINGS_ROYALTY_WORLD_LEADERS.md": "2026-03-28",
     "intelligence/POWER_OVERLAP_SEALED_FILINGS_INVESTIGATION.md": "2026-02-12",
     "internet-theories/CONSPIRACY_THEORY_SEARCH_MISC.md": "2026-02-12",
     "internet-theories/CONSPIRACY_THEORY_SEARCH_OCCULT.md": "2026-02-12",
     "internet-theories/CONSPIRACY_THEORY_SEARCH_PIZZAGATE.md": "2026-02-12",
     "methodology/CORPUS_INVENTORY.md": "2026-02-12",
     "methodology/DATA_QUALITY_AUDIT.md": "2026-02-12",
+    "methodology/DEC2025_REDACTION_COMPARISON.md": "2026-02-05",
     "methodology/DEFECTIVE_REDACTION_FINDINGS.md": "2026-02-12",
     "methodology/EVIDENCE_RELIABILITY_AUDIT.md": "2026-02-12",
     "methodology/HIDDEN_TEXT_COMPLETE_REVIEW.md": "2026-02-12",
     "methodology/LEAD_VERIFICATION_PART1.md": "2026-02-12",
     "methodology/LEAD_VERIFICATION_PART2.md": "2026-02-12",
     "methodology/LEAD_VERIFICATION_REPORT.md": "2026-02-12",
+    "methodology/MISSING_EFTA_ANALYSIS.md": "2026-02-18",
     "methodology/REDACTION_ASYMMETRY_ANALYSIS.md": "2026-02-12",
     "methodology/REDACTION_TEXT_LAYER_ANALYSIS.md": "2026-02-12",
     "overview/ANALYSIS_SUMMARY.md": "2026-02-12",
@@ -410,113 +451,6 @@ DATE_OVERRIDES = {
     "overview/PHASE4_BRIEFING_KIT.md": "2026-02-12",
     "overview/SESSION9_MASTER_FINDINGS.md": "2026-02-12",
     "overview/UNEXPLORED_DOCUMENT_MINING.md": "2026-02-12",
-    "raw-dataset-analysis/DS10_COMPLETE_FINDINGS.md": "2026-02-12",
-    "raw-dataset-analysis/DS10_COMPREHENSIVE_NAME_SEARCH.md": "2026-02-12",
-    "raw-dataset-analysis/DS10_FORENSIC_ANALYSIS.md": "2026-02-12",
-    "raw-dataset-analysis/DS10_INTERIM_FINDINGS.md": "2026-02-12",
-    "raw-dataset-analysis/DS10_RECONSTRUCTED_PAGES.md": "2026-02-12",
-    "raw-dataset-analysis/DS8_CONTENT_SURVEY.md": "2026-02-12",
-    "raw-dataset-analysis/DS8_MEDIA_CATALOG.md": "2026-02-12",
-    "raw-dataset-analysis/DS8_NEW_LEADS.md": "2026-02-12",
-    "raw-dataset-analysis/DS8_VERIFICATION.md": "2026-02-12",
-    "recovered_corrupted_pdfs/README.md": "2026-02-12",
-    "scientists/BIOTECH_SCIENCE_NETWORK_INVESTIGATION.md": "2026-02-12",
-    "scientists/DAVID_SHAW_INVESTIGATION.md": "2026-02-12",
-    "victims/TRAFFICKING_ROUTES_INVESTIGATION.md": "2026-02-12",
-    "victims/VICTIM_CENSUS.md": "2026-02-12",
-    "victims/VICTIM_LEADS_VERIFICATION.md": "2026-02-12",
-    # --- Post-Feb-12 reports: dates from Wayback Machine (2026-04-24 snapshot) ---
-    # Feb 18
-    "FRENCH_CONNECTION_INVESTIGATION.md": "2026-02-18",
-    "individuals/JACQUI_SAFRA_INVESTIGATION.md": "2026-02-18",
-    "congressional/CONGRESSIONAL_ADDENDUM.md": "2026-02-18",
-    # Feb 19
-    "social-networks/GEFFEN_INVESTIGATION.md": "2026-02-19",
-    "social-networks/KOTICK_ACTIVISION.md": "2026-02-19",
-    "social-networks/PIGOZZI_EDGE_FOUNDATION.md": "2026-02-19",
-    "social-networks/PEGGY_SIEGAL_PIPELINE.md": "2026-02-19",
-    "social-networks/REUBEN_BROTHERS_SIREN_CHERNOY.md": "2026-02-19",
-    "social-networks/ST_BARTHS_2010_GUEST_LIST.md": "2026-02-19",
-    # Feb 21
-    "institutional/DOJ_DOCUMENT_REMOVAL_AUDIT.md": "2026-02-21",
-    # Feb 23
-    "individuals/BARNABY_MARSH_INVESTIGATION.md": "2026-02-23",
-    "institutional/USVI_FINANCIAL_SERVICES_LEGISLATION.md": "2026-02-23",
-    "institutional/DEA_OCDETF_INVESTIGATION.md": "2026-02-23",
-    "institutional/STT_AVIATION_INFRASTRUCTURE_CONTROL.md": "2026-02-23",
-    # Feb 24
-    "institutional/GERMAN_FINANCIAL_NETWORK.md": "2026-02-24",
-    "institutional/DEATH_INVESTIGATION_DOCUMENT_REMOVAL.md": "2026-02-24",
-    "institutional/HELPFULEXPERTS_INVESTIGATION.md": "2026-02-24",
-    "individuals/EMAD_HANNA_HBRK_INVESTIGATION.md": "2026-02-24",
-    # Feb 25
-    "individuals/SHAHER_ABDULHAK_MR_EVIL_INVESTIGATION.md": "2026-02-25",
-    # Feb 26
-    "intelligence/FBI_INTELLIGENCE_INVESTIGATIONS.md": "2026-02-26",
-    "individuals/PSEUDONYM_CODENAME_REGISTRY.md": "2026-02-26",
-    "institutional/ITALIAN_CONNECTIONS_INVESTIGATION.md": "2026-02-26",
-    "institutional/FBI_302_MISSING_SERIALS_DOSSIER.md": "2026-02-26",
-    "institutional/SECONDARY_BATES_STAMP_ANALYSIS.md": "2026-02-26",
-    "institutional/EPSTEIN_STORAGE_UNITS_INVESTIGATION.md": "2026-02-26",
-    "institutional/VILLA_ARABESQUE_BOEING_727_INVESTIGATION.md": "2026-02-26",
-    "individuals/ROBERT_TRIVERS_INVESTIGATION.md": "2026-02-26",
-    # Feb 27
-    "individuals/BILL_CLINTON_INVESTIGATION.md": "2026-02-27",
-    # Feb 28
-    "individuals/DONALD_TRUMP_INVESTIGATION.md": "2026-02-28",
-    # Mar 2
-    "individuals/TIM_COLLINS_BANKING_NETWORK.md": "2026-03-02",
-    # Mar 3
-    "institutional/DOJ_DOCUMENT_ALTERATION_FORENSICS.md": "2026-03-03",
-    # Mar 4
-    "evidence/PHONE_RECORDS_INVESTIGATION.md": "2026-03-04",
-    # Mar 5
-    "institutional/LAWYERS_LITIGATION_INDEX.md": "2026-03-05",
-    # Mar 6
-    "financial/CRYPTO_NETWORK_INVESTIGATION.md": "2026-03-06",
-    "institutional/DS12_EXPANSION_ANALYSIS.md": "2026-03-06",
-    # Mar 7
-    "individuals/OHIO_NODE_INVESTIGATION.md": "2026-03-07",
-    "congressional/WITNESS_BRIEF_INDYKE.md": "2026-03-07",
-    "congressional/WITNESS_BRIEF_KAHN.md": "2026-03-07",
-    "congressional/CONGRESSIONAL_SUBPOENA_GUIDE.md": "2026-03-07",
-    # Mar 8
-    "evidence/MCC_INMATE_WITNESS_INTERVIEWS.md": "2026-03-08",
-    # Mar 10
-    "individuals/MICHAEL_WOLFF_INVESTIGATION.md": "2026-03-10",
-    # Mar 11
-    "institutional/ZORRO_RANCH_INVESTIGATION_HALT.md": "2026-03-11",
-    # Mar 16
-    "individuals/KARYNA_SHULIAK_INVESTIGATION.md": "2026-03-16",
-    # Mar 17
-    "individuals/MEDICAL_PROFESSIONALS_INVESTIGATION.md": "2026-03-17",
-    # Mar 20
-    "institutional/QTASK_EPSTEIN_INVESTIGATION.md": "2026-03-20",
-    "SINGAPORE_INVESTIGATION.md": "2026-03-20",
-    # Mar 23
-    "individuals/MAXWELL_ARRANGED_WOMEN_POWERFUL_MEN.md": "2026-03-23",
-    # Mar 24
-    "congressional/DEPOSITION_ANALYSIS_INDYKE.md": "2026-03-24",
-    "congressional/DEPOSITION_ANALYSIS_KAHN.md": "2026-03-24",
-    "congressional/WITNESS_BRIEF_NOEL.md": "2026-03-24",
-    "individuals/WILL_FORD_INVESTIGATION.md": "2026-03-24",
-    "individuals/EMMY_TAYLER_INVESTIGATION.md": "2026-03-24",
-    # Mar 27
-    "institutional/OPERATION_CHAIN_REACTION_PART2.md": "2026-03-27",
-    # Mar 28
-    "intelligence/NO_KINGS_ROYALTY_WORLD_LEADERS.md": "2026-03-28",
-    "institutional/ZORRO_RANCH_INVESTIGATION_PART2.md": "2026-03-28",
-    # Apr 7
-    "evidence/VICTIM_JOURNAL_CORROBORATION.md": "2026-04-07",
-    "evidence/1B136_INVESTIGATION.md": "2026-04-07",
-    # Apr 22
-    "individuals/RONALD_LAUDER_INVESTIGATION.md": "2026-04-22",
-    # Apr 24
-    "evidence/DEFECTIVE_REDACTIONS_TECHNICAL_REPORT.md": "2026-04-24",
-    "evidence/DEFECTIVE_REDACTIONS_PUBLIC_GUIDE.md": "2026-04-24",
-    # Apr 30
-    "individuals/ROED_LARSEN_FAMILY_INVESTIGATION.md": "2026-04-30",
-    # --- Feb 18 bulk-push files (display as "February 2026" via format_date_display) ---
     "pqg_lines_of_investigation/00_INDEX.md": "2026-02-18",
     "pqg_lines_of_investigation/01_TEMPORAL_BLACKOUT.md": "2026-02-18",
     "pqg_lines_of_investigation/02_REDACTED_TARGETS.md": "2026-02-18",
@@ -528,16 +462,31 @@ DATE_OVERRIDES = {
     "pqg_lines_of_investigation/08_CRYPTO_DEAD_END.md": "2026-02-18",
     "pqg_lines_of_investigation/09_CORRECTIONAL_DEATH_INVESTIGATION.md": "2026-02-18",
     "pqg_lines_of_investigation/10_SCOPE_EVOLUTION.md": "2026-02-18",
+    "raw-dataset-analysis/DS10_COMPLETE_FINDINGS.md": "2026-02-12",
+    "raw-dataset-analysis/DS10_COMPREHENSIVE_NAME_SEARCH.md": "2026-02-12",
+    "raw-dataset-analysis/DS10_ENTITY_EXTRACTION_REPORT.md": "2026-02-05",
+    "raw-dataset-analysis/DS10_FORENSIC_ANALYSIS.md": "2026-02-12",
+    "raw-dataset-analysis/DS10_INTERIM_FINDINGS.md": "2026-02-12",
+    "raw-dataset-analysis/DS10_KEY_DOCUMENTS_DEEP_DIVE.md": "2026-02-05",
+    "raw-dataset-analysis/DS10_RECONSTRUCTED_PAGES.md": "2026-02-12",
+    "raw-dataset-analysis/DS8_CONTENT_SURVEY.md": "2026-02-12",
+    "raw-dataset-analysis/DS8_MEDIA_CATALOG.md": "2026-02-12",
+    "raw-dataset-analysis/DS8_NEW_LEADS.md": "2026-02-12",
+    "raw-dataset-analysis/DS8_VERIFICATION.md": "2026-02-12",
+    "recovered_corrupted_pdfs/README.md": "2026-02-12",
+    "scientists/BIOTECH_SCIENCE_NETWORK_INVESTIGATION.md": "2026-02-12",
+    "scientists/DAVID_SHAW_INVESTIGATION.md": "2026-02-12",
     "scientists/SCIENCE_NETWORK_COMPREHENSIVE_AUDIT.md": "2026-02-18",
-    "audits/FACTUAL_ACCURACY_AUDIT.md": "2026-02-18",
-    "audits/README.md": "2026-02-18",
-    "congressional/congressional_priority_list.md": "2026-02-18",
-    "methodology/MISSING_EFTA_ANALYSIS.md": "2026-02-18",
-    "institutional/MIDNIGHT_911_CALL_INVESTIGATION.md": "2026-02-18",
-    # --- May 2026 (post-Apr-30 snapshot, pre-squash) ---
-    "individuals/PRINCE_ANDREW_INVESTIGATION.md": "2026-05-30",
-    "congressional/WITNESS_BRIEF_LUTNICK.md": "2026-05-14",
-    "congressional/WITNESS_BRIEF_WAITT.md": "2026-05-14",
+    "social-networks/GEFFEN_INVESTIGATION.md": "2026-02-19",
+    "social-networks/KOTICK_ACTIVISION.md": "2026-02-19",
+    "social-networks/PEGGY_SIEGAL_PIPELINE.md": "2026-02-19",
+    "social-networks/PIGOZZI_EDGE_FOUNDATION.md": "2026-02-19",
+    "social-networks/REUBEN_BROTHERS_SIREN_CHERNOY.md": "2026-02-19",
+    "social-networks/ST_BARTHS_2010_GUEST_LIST.md": "2026-02-19",
+    "victims/ALLRED_VICTIM_INTERVIEW.md": "2026-02-12",
+    "victims/TRAFFICKING_ROUTES_INVESTIGATION.md": "2026-02-12",
+    "victims/VICTIM_CENSUS.md": "2026-02-12",
+    "victims/VICTIM_LEADS_VERIFICATION.md": "2026-02-12",
 }
 
 
@@ -559,23 +508,6 @@ def get_git_dates(repo_dir):
                 current_date = line  # Full ISO timestamp (e.g. 2026-02-26T07:09:37-05:00)
             elif current_date and line.endswith(".md"):
                 dates[line] = current_date
-    except Exception:
-        pass
-    # Fallback: for any .md file in repo without a date, use git log --follow to trace renames
-    try:
-        for md_path in sorted(Path(repo_dir).rglob("*.md")):
-            rel = str(md_path.relative_to(repo_dir))
-            if rel.startswith(".") or rel.startswith("_"):
-                continue
-            if rel not in dates and md_path.name not in NO_DATE_FILES:
-                follow = subprocess.run(
-                    ["git", "log", "--follow", "--format=%aI", "--diff-filter=A", "--", rel],
-                    cwd=repo_dir, capture_output=True, text=True, timeout=10
-                )
-                for fline in follow.stdout.strip().split("\n"):
-                    fline = fline.strip()
-                    if fline.startswith("20") and "T" in fline:
-                        dates[rel] = fline  # oldest add date via --follow
     except Exception:
         pass
     # Carry forward dates for files moved between directories
@@ -710,22 +642,6 @@ def linkify_efta(html_text):
     return "".join(result)
 
 
-def fix_efta_links(html_text):
-    """Ensure all EFTA/HOUSE_OVERSIGHT viewer links open in a new tab."""
-    # Match <a href="/EFTA..." or <a href="https://epstein-data.com/EFTA..." without target=
-    html_text = re.sub(
-        r'<a\s+href="(/(?:EFTA\d{8}|HOUSE_OVERSIGHT_\d{6}))"(?![^>]*target=)',
-        r'<a href="\1" target="_blank" rel="noopener"',
-        html_text,
-    )
-    html_text = re.sub(
-        r'<a\s+href="(https://epstein-data\.com/(?:EFTA\d{8}|HOUSE_OVERSIGHT_\d{6}))"(?![^>]*target=)',
-        r'<a href="\1" target="_blank" rel="noopener"',
-        html_text,
-    )
-    return html_text
-
-
 def fix_md_links(html_text, current_dir):
     """Rewrite .md links to .html links."""
     def replace_link(m):
@@ -760,7 +676,6 @@ def render_report(md_text, title, description, category, category_label, rel_pat
     body = md_obj.convert(md_text)
     body = rewrite_efta_links(body)
     body = linkify_efta(body)
-    body = fix_efta_links(body)
     body = fix_md_links(body, os.path.dirname(rel_path))
 
     date_html = ""
@@ -773,10 +688,6 @@ def render_report(md_text, title, description, category, category_label, rel_pat
     # report_path for chat widget: "individuals/BILL_CLINTON_INVESTIGATION" (no .md)
     rp = rel_path.rsplit(".", 1)[0] if "." in rel_path else rel_path
 
-    global _NAVBAR_HTML
-    if _NAVBAR_HTML is None:
-        _NAVBAR_HTML = _load_navbar()
-
     result = REPORT_TEMPLATE.format(
         title=html.escape(title),
         description=html.escape(description or title),
@@ -787,10 +698,11 @@ def render_report(md_text, title, description, category, category_label, rel_pat
         date_meta=date_meta,
         report_path=rp,
     )
-    return result.replace("__NAVBAR__", _NAVBAR_HTML)
+    return result.replace("<!--NAVBAR-->", NAVBAR_HTML)
 
 
-def render_index(reports_by_cat, start_here=None):
+def render_index(reports_by_cat, start_here=None, comment_counts=None):
+    comment_counts = comment_counts or {}
     """Render the index page."""
     sections = ""
     # "Start Here" banner for README
@@ -808,7 +720,7 @@ def render_index(reports_by_cat, start_here=None):
         cat_label = CATEGORIES[cat_key]
         reports = sorted(reports_by_cat[cat_key], key=lambda r: r["title"])
         sections += f'<div class="ri-section" id="cat-{cat_key}">\n'
-        sections += f'<h2><a href="#cat-{cat_key}" class="ri-section-link">{html.escape(cat_label)}<span class="ri-link-icon" title="Copy link to this section">#</span></a></h2>\n'
+        sections += f'<h2>{html.escape(cat_label)}</h2>\n'
         sections += f'<div class="ri-grid">\n'
         for r in reports:
             desc = html.escape(r["description"]) if r["description"] else ""
@@ -816,12 +728,15 @@ def render_index(reports_by_cat, start_here=None):
             added = html.escape(r.get("git_date", ""))
             eftas = r.get("efta_count", 0)
             words = r.get("word_count", 0)
+            cc = comment_counts.get("/reports/" + r["href"], 0)
+            badge = f'  <span class="ri-badge">\U0001F4AC {cc}</span>\n' if cc else ""
             sections += f'<a class="ri-card" href="{html.escape(r["href"])}" data-added="{added}" data-eftas="{eftas}" data-words="{words}" data-cat="{html.escape(cat_label)}">\n'
             sections += f'  <div class="ri-title">{html.escape(r["title"])}</div>\n'
             if desc:
                 sections += f'  <div class="ri-desc">{desc}</div>\n'
             if date_str:
                 sections += f'  <div class="ri-card-date">{html.escape(date_str)}</div>\n'
+            sections += badge
             sections += f'</a>\n'
         sections += f'</div>\n</div>\n'
 
@@ -832,7 +747,7 @@ def render_index(reports_by_cat, start_here=None):
         cat_label = cat_key.replace("-", " ").replace("_", " ").title()
         reports = sorted(reports_by_cat[cat_key], key=lambda r: r["title"])
         sections += f'<div class="ri-section" id="cat-{cat_key}">\n'
-        sections += f'<h2><a href="#cat-{cat_key}" class="ri-section-link">{html.escape(cat_label)}<span class="ri-link-icon" title="Copy link to this section">#</span></a></h2>\n'
+        sections += f'<h2>{html.escape(cat_label)}</h2>\n'
         sections += f'<div class="ri-grid">\n'
         for r in reports:
             desc = html.escape(r["description"]) if r["description"] else ""
@@ -840,25 +755,24 @@ def render_index(reports_by_cat, start_here=None):
             added = html.escape(r.get("git_date", ""))
             eftas = r.get("efta_count", 0)
             words = r.get("word_count", 0)
+            cc = comment_counts.get("/reports/" + r["href"], 0)
+            badge = f'  <span class="ri-badge">\U0001F4AC {cc}</span>\n' if cc else ""
             sections += f'<a class="ri-card" href="{html.escape(r["href"])}" data-added="{added}" data-eftas="{eftas}" data-words="{words}" data-cat="{html.escape(cat_label)}">\n'
             sections += f'  <div class="ri-title">{html.escape(r["title"])}</div>\n'
             if desc:
                 sections += f'  <div class="ri-desc">{desc}</div>\n'
             if date_str:
                 sections += f'  <div class="ri-card-date">{html.escape(date_str)}</div>\n'
+            sections += badge
             sections += f'</a>\n'
         sections += f'</div>\n</div>\n'
-
-    global _NAVBAR_HTML
-    if _NAVBAR_HTML is None:
-        _NAVBAR_HTML = _load_navbar()
 
     result = INDEX_TEMPLATE.format(
         sections=sections,
         count=sum(len(v) for v in reports_by_cat.values()),
         cat_count=len(reports_by_cat),
     )
-    return result.replace("__NAVBAR__", _NAVBAR_HTML)
+    return result.replace("<!--NAVBAR-->", NAVBAR_HTML)
 
 
 # ===== Templates =====
@@ -882,6 +796,7 @@ REPORT_TEMPLATE = """<!DOCTYPE html>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<script src="/assets/theme-shift.js"></script>
 <style>
 :root {{
   --ink: #0c0f14; --paper: #f5f2ec; --paper-warm: #ece7dd;
@@ -1035,6 +950,38 @@ body {{ background: var(--paper); color: var(--ink); font-family: var(--font-bod
 .r-feedback button:hover {{ background: #1a1f2e; }}
 #cf-status {{
   font-family: var(--font-mono); font-size: 0.72rem; color: var(--muted);
+}}
+.ri-badge {{
+  display: inline-block; margin-top: 4px;
+  font-family: var(--font-mono); font-size: 0.62rem;
+  color: var(--muted); letter-spacing: 0.02em;
+}}
+.r-comments {{
+  max-width: 820px; margin: 0 auto; padding: 0 1.5rem 1.5rem;
+  margin-top: 2rem; border-top: 1px solid var(--border); padding-top: 2rem;
+}}
+.r-comments h3 {{
+  font-family: var(--font-mono); font-size: 0.72rem;
+  color: var(--muted); letter-spacing: 0.06em;
+  text-transform: uppercase; margin: 0 0 1rem;
+}}
+.r-comment {{
+  padding: 0.75rem 0; border-bottom: 1px solid var(--border-light);
+}}
+.r-comment-meta {{
+  display: flex; align-items: baseline; gap: 0.5rem; margin-bottom: 0.3rem;
+}}
+.r-comment-name {{
+  font-family: var(--font-body); font-weight: 600; font-size: 0.82rem; color: var(--ink);
+}}
+.r-comment-name.anon {{ font-weight: 400; color: var(--muted); font-style: italic; }}
+.r-comment-date {{
+  font-family: var(--font-mono); font-size: 0.66rem; color: var(--muted-light);
+  letter-spacing: 0.03em;
+}}
+.r-comment-body {{
+  font-size: 0.86rem; line-height: 1.6; color: #2a2520;
+  white-space: pre-wrap; word-break: break-word;
 }}
 .r-footer {{
   text-align: center; padding: 2rem 1rem; border-top: 1px solid var(--border);
@@ -1207,7 +1154,7 @@ body.chat-open .r-feedback {{ margin-right: 380px; }}
 </style>
 </head>
 <body>
-__NAVBAR__
+<!--NAVBAR-->
 <nav class="r-nav">
   <a href="/">Home</a>
   <span class="sep">/</span>
@@ -1222,18 +1169,14 @@ __NAVBAR__
 <article class="r-content">
 {body}
 </article>
-<div class="r-feedback">
-  <details>
-    <summary>Flag an error or leave a note</summary>
-    <form id="cf" autocomplete="off">
-      <input type="text" id="cf-name" placeholder="Name (optional)" maxlength="100">
-      <textarea id="cf-body" placeholder="Spotted an error? Have additional context? Let us know." maxlength="5000" rows="3" required></textarea>
-      <div class="cf-row">
-        <button type="submit">Submit</button>
-        <span id="cf-status"></span>
-      </div>
-    </form>
-  </details>
+<div class="r-comments" id="r-comments">
+  <h3>Reader Notes</h3>
+  <div id="r-comments-list"></div>
+  <form id="cf" autocomplete="off">
+    <input type="text" id="cf-name" placeholder="Name (optional)" maxlength="100">
+    <textarea id="cf-body" placeholder="Spotted an error? Have additional context? Leave a note." maxlength="5000" rows="3" required></textarea>
+    <div class="cf-row"><button type="submit">Submit</button><span id="cf-status"></span></div>
+  </form>
 </div>
 <div class="r-footer">
   <a href="https://github.com/rhowardstone/Epstein-research-data/">Source Data</a>
@@ -1258,24 +1201,40 @@ document.querySelectorAll('.r-content table').forEach(function(t){{
   t.parentNode.insertBefore(w,t);w.appendChild(t);
 }});
 (function(){{
+  var list=document.getElementById('r-comments-list');
   var f=document.getElementById('cf'),s=document.getElementById('cf-status');
-  if(!f)return;
+  if(!f||!list)return;
+  function fmtDate(ts){{
+    var d=new Date(ts*1000);
+    return d.toLocaleDateString('en-US',{{year:'numeric',month:'short',day:'numeric'}});
+  }}
+  function esc(t){{return t.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}}
+  function renderComment(c){{
+    var div=document.createElement('div');div.className='r-comment';
+    var nameClass=c.name?'r-comment-name':'r-comment-name anon';
+    var nameText=c.name?esc(c.name):'Anonymous';
+    div.innerHTML='<div class="r-comment-meta"><span class="'+nameClass+'">'+nameText+'</span><span class="r-comment-date">'+fmtDate(c.ts)+'</span></div><div class="r-comment-body">'+esc(c.body)+'</div>';
+    return div;
+  }}
+  fetch('/api/page-comments?p='+encodeURIComponent(location.pathname))
+    .then(function(r){{return r.json();}})
+    .then(function(comments){{
+      comments.forEach(function(c){{list.appendChild(renderComment(c));}});
+    }}).catch(function(){{}});
   f.addEventListener('submit',function(e){{
     e.preventDefault();
     var body=document.getElementById('cf-body').value.trim();
     if(!body)return;
+    var name=document.getElementById('cf-name').value.trim();
     s.textContent='Sending...';s.style.color='var(--muted)';
     fetch('/api/comment',{{
       method:'POST',
       headers:{{'Content-Type':'application/json'}},
-      body:JSON.stringify({{
-        page:location.pathname,
-        name:document.getElementById('cf-name').value.trim(),
-        text:body
-      }})
+      body:JSON.stringify({{page:location.pathname,name:name,text:body}})
     }}).then(function(r){{
       if(r.ok){{
         s.textContent='Thank you!';s.style.color='var(--accent)';
+        list.appendChild(renderComment({{name:name,body:body,ts:Math.floor(Date.now()/1000)}}));
         document.getElementById('cf-body').value='';
         document.getElementById('cf-name').value='';
       }}else if(r.status===429){{
@@ -1547,6 +1506,7 @@ INDEX_TEMPLATE = """<!DOCTYPE html>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<script src="/assets/theme-shift.js"></script>
 <style>
 :root {{
   --ink: #0c0f14; --paper: #f5f2ec; --paper-warm: #ece7dd;
@@ -1621,16 +1581,6 @@ body {{ background: var(--paper); color: var(--ink); font-family: var(--font-bod
   color: var(--ink); margin: 0 0 0.75rem; padding-bottom: 0.5rem;
   border-bottom: 2px solid var(--ink); letter-spacing: -0.01em;
 }}
-.ri-section-link {{
-  color: inherit; text-decoration: none;
-}}
-.ri-section-link:hover {{ color: var(--accent); }}
-.ri-link-icon {{
-  font-family: var(--font-mono); font-size: 0.8rem; font-weight: 400;
-  color: var(--muted-light); margin-left: 6px; opacity: 0;
-  transition: opacity 0.15s;
-}}
-.ri-section-link:hover .ri-link-icon {{ opacity: 1; }}
 .ri-grid {{
   display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
   gap: 1px; background: var(--border); border: 1px solid var(--border);
@@ -1746,7 +1696,7 @@ body.ri-listmode .ri-list-table {{ display: block; }}
 </style>
 </head>
 <body>
-__NAVBAR__
+<!--NAVBAR-->
 <div class="ri-hero">
   <h1>Investigation Reports</h1>
   <p>Forensic analysis of the DOJ's EFTA production. Each report is built from primary source documents with specific EFTA citations.</p>
@@ -1811,20 +1761,6 @@ __NAVBAR__
   var debounce = null;
   var currentView = localStorage.getItem('ri-view') || 'grid';
   var listSortCol = 'added', listSortDir = 'desc';
-
-  // Section anchor link copy
-  document.querySelectorAll('.ri-link-icon').forEach(function(icon) {{
-    icon.addEventListener('click', function(e) {{
-      e.preventDefault();
-      e.stopPropagation();
-      var link = icon.closest('.ri-section-link');
-      var url = window.location.origin + window.location.pathname + link.getAttribute('href');
-      navigator.clipboard.writeText(url).then(function() {{
-        icon.textContent = '\u2713';
-        setTimeout(function() {{ icon.textContent = '#'; }}, 1200);
-      }});
-    }});
-  }});
 
   // Build list table rows from card data, linked via _row/_card refs
   var rows = [];
@@ -1990,6 +1926,8 @@ def main():
             continue
         if rel.parts[0].startswith("."):
             continue
+        if rel.name.startswith("scratchpad_"):
+            continue
 
         # Determine category
         if len(rel.parts) > 1:
@@ -2055,7 +1993,19 @@ def main():
             break
 
     # Render index
-    index_html = render_index(reports_by_cat, start_here=start_here)
+    # Load comment counts from hits.db (if available)
+    comment_counts = {}
+    if HITS_DB and Path(HITS_DB).exists():
+        try:
+            hdb = sqlite3.connect(HITS_DB)
+            for _page, _cnt in hdb.execute("SELECT page, COUNT(*) FROM comments GROUP BY page"):
+                comment_counts[_page] = _cnt
+            hdb.close()
+            if comment_counts:
+                print(f"Loaded comment counts for {len(comment_counts)} pages from {HITS_DB}")
+        except Exception as _e:
+            print(f"Warning: could not read hits.db: {_e}")
+    index_html = render_index(reports_by_cat, start_here=start_here, comment_counts=comment_counts)
     index_path = OUT_DIR / "index.html"
     if not index_path.exists() or index_path.read_text(encoding="utf-8") != index_html:
         index_path.write_text(index_html, encoding="utf-8")
