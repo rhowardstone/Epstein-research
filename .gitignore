@@ -46,7 +46,6 @@
 !audits/*.md
 !audits/page-count/
 !audits/page-count/*.csv
-!audits/page-count/*.md
 !social-networks/
 !social-networks/*.md
 !pqg_lines_of_investigation/
