@@ -50,7 +50,7 @@ The article he was reacting to reported that a college student "gave Epstein a m
 
 Under questioning, Staley characterized his own 2006 email for the record. "I think he denied the ages, which, you know, looking back, is an admission of guilt." Asked whether he believed Epstein could have mistaken a 14-year-old for an adult, Staley said no, then added, "I think I gave him the benefit of the doubt" ([tr. p.120](https://epstein-data.com/assets/transcripts/staley.pdf#page=120)).
 
-A year later, in an August 27, 2007 email to Erdoes about a Hamptons concert, Staley wrote that "the age difference between husbands and wifes would have fit in well with Jeffrey. What a joke" ([EFTA02811410](https://epstein-data.com/EFTA02811410); [tr. p.121](https://epstein-data.com/assets/transcripts/staley.pdf#page=121)). The bank's contemporaneous handling of the account is captured in an internal "Rapid Response Team" record dated October 17, 2006 ([EFTA02812987](https://epstein-data.com/EFTA02812987)).
+A year later, in an August 27, 2007 email to Erdoes about a Hamptons concert, Staley wrote that "the age difference between husbands and wifes would have fit in well with Jeffrey. What a joke" ([EFTA02811409](https://epstein-data.com/EFTA02811409); [tr. p.121](https://epstein-data.com/assets/transcripts/staley.pdf#page=121)). The bank's contemporaneous handling of the account is captured in an internal "Rapid Response Team" record dated October 17, 2006 ([EFTA02812987](https://epstein-data.com/EFTA02812987)).
 
 This is where the FCA finding lands. The committee told Staley the regulator "doubted you were surprised at the arrest given all of the reports and allegations that you were aware of." Staley disputed the 2006 date but conceded the point for 2010: "in 2010, I would not have been surprised by the allegations... He had pleaded guilty, and he had gone to jail" ([tr. p.82–83](https://epstein-data.com/assets/transcripts/staley.pdf#page=82)).
 
@@ -131,7 +131,7 @@ The pattern is the finding. On the specific sexual-assault allegation, the recor
 | "Most honest of people" email, Mar. 5, 2011 | **Confirmed, primary doc** | [EFTA00905750](https://epstein-data.com/EFTA00905750) |
 | Epstein's one-word reply "family" | **Confirmed** (via filing) | [EFTA02808649](https://epstein-data.com/EFTA02808649) p.8 |
 | "So painful to read" / "denies the ages," Jul. 26, 2006 | **Confirmed, primary doc** | [EFTA02818597](https://epstein-data.com/EFTA02818597) |
-| "Fit in well with Jeffrey. What a joke," Aug. 2007 | **Confirmed, primary doc** | [EFTA02811410](https://epstein-data.com/EFTA02811410) |
+| "Fit in well with Jeffrey. What a joke," Aug. 2007 | **Confirmed, primary doc** | [EFTA02811409](https://epstein-data.com/EFTA02811409) |
 | Confidential Dubai deal, "use with discretion" | **Confirmed, primary doc** | [EFTA02410534](https://epstein-data.com/EFTA02410534) |
 | "The CEO wants to meet," Jul. 2015 | **Confirmed, primary doc** | [EFTA00850787](https://epstein-data.com/EFTA00850787) |
 | Recommended JPMorgan open Maxwell's account | **Confirmed, primary doc** | [EFTA01582859](https://epstein-data.com/EFTA01582859) |
@@ -151,7 +151,7 @@ The pattern is the finding. On the specific sexual-assault allegation, the recor
 | **Jul. 23, 2006** | Epstein arrested in Florida (soliciting a minor) | Public record |
 | **Jul. 26, 2006** | Erdoes "So painful to read"; Staley "denies the ages" | [EFTA02818597](https://epstein-data.com/EFTA02818597) |
 | **Oct. 17, 2006** | JPMorgan "Rapid Response Team" record on Epstein | [EFTA02812987](https://epstein-data.com/EFTA02812987) |
-| **Aug. 2007** | "Fit in well with Jeffrey. What a joke" | [EFTA02811410](https://epstein-data.com/EFTA02811410) |
+| **Aug. 2007** | "Fit in well with Jeffrey. What a joke" | [EFTA02811409](https://epstein-data.com/EFTA02811409) |
 | **Jun. 2008** | Epstein pleads guilty | Public record |
 | **Aug. 2008** | "I will miss stopping by your office for advice" | [EFTA01299999](https://epstein-data.com/EFTA01299999) |
 | **Nov. 1, 2009** | "Hot tub" email (Zorro Ranch, per testimony) | [EFTA00768032](https://epstein-data.com/EFTA00768032) |
@@ -189,7 +189,7 @@ The pattern is the finding. On the specific sexual-assault allegation, the recor
 [EFTA00905750](https://epstein-data.com/EFTA00905750),
 [EFTA02808649](https://epstein-data.com/EFTA02808649),
 [EFTA02818597](https://epstein-data.com/EFTA02818597),
-[EFTA02811410](https://epstein-data.com/EFTA02811410),
+[EFTA02811409](https://epstein-data.com/EFTA02811409),
 [EFTA02812987](https://epstein-data.com/EFTA02812987),
 [EFTA01299999](https://epstein-data.com/EFTA01299999),
 [EFTA01300356](https://epstein-data.com/EFTA01300356),
