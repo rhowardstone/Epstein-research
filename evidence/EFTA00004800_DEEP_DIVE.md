@@ -27,7 +27,7 @@ This document is part of a sequential series: [EFTA00004663](https://www.justice
 - **GSJ** = Great Saint James (Epstein's second island)
 - **PB** = Palm Beach (Epstein's Florida residence)
 - **N SALEM** / **North Salem** = North Salem, New York (Epstein-connected property)
-- **LSJE, LLC** = Little Saint James Enterprises, LLC (6100 Red Hook Quarters, Suite B-3, St. Thomas, VI 00802)
+- **LSJE, LLC** = Little Saint James Employees, LLC (6100 Red Hook Quarters, Suite B-3, St. Thomas, VI 00802) [EFTA01269548, page 16](https://epstein-data.com/EFTA01269548#page=16)
 - **SK** = Likely Shuliak, Karyna (Epstein's last girlfriend, Butterfly Trust beneficiary)
 - **MISC LSJ** = Miscellaneous Little Saint James photos
 
