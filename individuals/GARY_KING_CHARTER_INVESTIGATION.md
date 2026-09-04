@@ -131,12 +131,12 @@ That letter was also copied to the Santa Fe County Sheriff. It is the document E
 
 ### August 20 · The attorney general's office sets the meeting
 
-The next day, an assistant in the New Mexico attorney general's office emailed Epstein's scheduler, **Lesley Groff**, from an nmag.gov address, under the subject line "MEETNG WITH AG GARY KING IN SANTA FE."
+The next day, an assistant in the New Mexico attorney general's office emailed Epstein's scheduler, **Lesley Groff**, from ewood@nmag.gov, under the subject line "MEETNG WITH AG GARY KING IN SANTA FE."
 
 > Here are the arrangement we spoke about on the telephone just awhile ago -
 > AG King can meet with Mr. Ebstein at 3:30 p.m. on August 28th.
 
-The message gives the restaurant, Jinja in the De Vargas Shopping Center at 510 North Guadalupe Street, and two sets of driving directions. It is signed "Lisa Wood." The sender line renders her name as "Wood, Elise" and an earlier message in the chain as "Wood, Elisa." A follow-up at 3:08 pm that afternoon adds one line: "P.S. AG King's cell number is," followed by a redaction. Groff forwarded the confirmation onward on August 24, noting that she had already sent it the week before to Brice and to a recipient whose name is redacted. Epstein forwarded the whole chain to himself on the morning of the meeting ([EFTA00779086](https://epstein-data.com/EFTA00779086)).
+The message gives the restaurant, "Jinja Bar and Bistro located in the De Vargas Shopping Center @ 510 No. Guadalupe Street," and two sets of driving directions. The header gives the sender as "Wood, Elisa" and the message is signed "Lisa Wood." A follow-up at 3:08 pm that afternoon adds one line: "P.S. AG King's cell number is," followed by a redaction. Groff forwarded the confirmation onward on August 24, noting that she had already sent it the week before to Brice and to a recipient whose name is redacted. Epstein forwarded the whole chain to himself on the morning of the meeting ([EFTA00779086](https://epstein-data.com/EFTA00779086)).
 
 The public account of that meeting is King's. He told Reuters he met Epstein only once, at Jinja in 2010, that they drank tea, that Epstein offered condolences after his father's death, and that they briefly discussed Epstein's dealings with the Santa Fe Institute. Bruce King had died on November 13, 2009, nine months before the meeting.
 
@@ -342,7 +342,7 @@ The bank did not say these companies were Epstein's because they gave to King. I
 
 When prosecutors screened the Epstein material for attorney-client privilege, they ran a list of law firm names, lawyer names and email domains against 1,189,846 documents. The report is titled "Privilege Terms_02.14.2020" ([EFTA00099346](https://epstein-data.com/EFTA00099346)).
 
-The report's three columns are documents with hits, documents with hits including the rest of each family, and unique hits. The term **Gary w/2 King**, meaning those two words within two words of each other, returned 151, 302 and 147. The law firm term "Gary King Law" returned zero, zero and zero.
+The report's columns, as printed, are "Documents with hits," "Documents with hits, including Family," and "Unique hits." The term **Gary w/2 King**, meaning those two words within two words of each other, returned 151, 302 and 147. The law firm term "Gary King Law" returned zero, zero and zero.
 
 On the same list sit the New Mexico lawyers who did Epstein's state work: "Rothstein Donatelli" and the domain rothsteinlaw.com, which is Schoenburg's firm; "Sutin Thayer & Brown"; and the Santa Fe firm "Katz Herdman MacGillivray & Fullerton," whose letterhead in the corpus gives a Santa Fe post office box ([EFTA01349431](https://epstein-data.com/EFTA01349431)).
 
@@ -451,7 +451,7 @@ King is now president of the New Mexico Children's Foundation, according to the 
 | A victim complaint reached the AG's office, 2007-2014 | Not in corpus | none |
 | Deutsche Bank's only negative media on JEGE and Neptune was the 2014 King story | Documented | EFTA01296377; EFTA01296884 |
 | Deutsche Bank identified four Epstein entities to SDNY partly by their King contributions | Documented, page images | EFTA01681865 pp.33-34 |
-| "Gary w/2 King" appears on SDNY's Feb 2020 privilege term list, 151 documents | Documented | EFTA00099346 p.4 |
+| "Gary w/2 King" appears on SDNY's Feb 2020 privilege term list, 151 documents | Documented, page image | EFTA00099346, page 5 (Bates EFTA00099350) |
 | The 2004 land office file on the Zorro lease is routed to Jerry King | Documented | EFTA01305252 pp.307, 321, 322-323 |
 | Jerry King disclosed interests in two of the three 1993 selling companies | External record | NMPolitics.net, Sept 7, 2009; EFTA01305252 p.414 |
 | Jerry King acted improperly on the lease file | Not established | none |
@@ -501,7 +501,7 @@ King is now president of the New Mexico Children's Foundation, according to the 
 | Jun 15, 2017 | Deutsche Bank due diligence on JEGE: only negative media is the 2014 King story | EFTA01296377 |
 | Sept 12, 2019 | Deutsche Bank tells SDNY that four entities appear Epstein-controlled, citing the King contributions | EFTA01681865 pp.33-34 |
 | Jul 18, 2019 | Judge Berman: the court asked for the DPS application materials and received none | EFTA00039383 p.20 |
-| Feb 14, 2020 | "Gary w/2 King" on SDNY's privilege term list, 151 documents | EFTA00099346 p.4 |
+| Feb 14, 2020 | "Gary w/2 King" on SDNY's privilege term list, 151 documents | EFTA00099346, Bates EFTA00099350 |
 
 ## Source key
 
