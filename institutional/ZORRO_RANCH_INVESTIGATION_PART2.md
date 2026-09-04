@@ -411,7 +411,7 @@ Separately from the 2019 ProtonMail email (Section 8), a different individual cl
 ### Political Fallout
 
 - **Bill Richardson's name removed** from University of New Mexico Hospital building amid Epstein file revelations ([KOB-TV](https://www.kob.com/new-mexico/former-gov-bill-richardsons-name-removed-from-unmh-building-amid-epstein-file-questions/))
-- **Gary King** (Bruce King's son, NM AG 2006–2014) accepted $35,600 in campaign donations from Epstein during his 2014 gubernatorial bid — the largest outside donation — which he returned after press reporting ([US News/Reuters, March 21, 2026](https://www.usnews.com/news/world/articles/2026-03-21/as-new-mexico-investigates-questions-are-raised-about-epsteins-links-to-the-powerful))
+- **Gary King** (Bruce King's son, NM AG 2006–2014) accepted $35,600 in campaign donations from seven Epstein-linked companies during his 2014 gubernatorial bid, plus $10,400 from Epstein's lawyer and accountant, and reported refunding the companies after press reporting (see [Gary King charter investigation](../individuals/GARY_KING_CHARTER_INVESTIGATION.md)) ([US News/Reuters, March 21, 2026](https://www.usnews.com/news/world/articles/2026-03-21/as-new-mexico-investigates-questions-are-raised-about-epsteins-links-to-the-powerful))
 - **March 9 protest**: Hundreds caravanned from Albuquerque to Zorro Ranch over International Women's Day weekend demanding justice for survivors ([KUNM](https://www.kunm.org/public-health-new-mexico/2026-03-11/protesters-at-zorro-ranch-demand-justice-for-survivors-on-international-womens-day))
 
 ---
