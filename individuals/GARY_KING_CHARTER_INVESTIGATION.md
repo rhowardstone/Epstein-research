@@ -10,7 +10,7 @@ The outline of the September 8, 2014 flight has been public since February 2026.
 
 This report reads the same emails against the charter operator's written quote, which the coverage did not cite, and against the trip sheet, the campaign's original 2014 finance filings and the state's contribution database, which the coverage cited for totals but did not compare with Epstein's figures. Together they show a fare that was split on paper, with the campaign's share paid in full and Epstein's share arriving as two corporate contributions.
 
-It then does what the coverage has not done, which is to read the rest of the file. Four bodies of record sit around the charter and have gone unused. The campaign's own 2004 federal filings name Ghislaine Maxwell as a donor. The state's sex offender file on Epstein, and the flight manifests for August 2010, put the reported lunch inside a five week sequence. Deutsche Bank's compliance records and a September 2019 presentation to federal prosecutors use King's name to identify four of Epstein's shell companies. And the land office file on the ranch lease is addressed, over and over, to the attorney general's cousin.
+It then does what the coverage has not done, which is to read the rest of the file. Four bodies of record sit around the charter and have gone unused. The campaign's own 2004 federal filings name Ghislaine Maxwell as a donor. The state's sex offender file on Epstein, and the flight manifests for August 2010, put the reported meeting inside the weeks the state spent deciding whether he had to register. Deutsche Bank's compliance records and a September 2019 presentation to federal prosecutors use King's name to identify four of Epstein's shell companies. And the land office file on the ranch lease is addressed, over and over, to the attorney general's cousin.
 
 ### What the coverage has said
 
@@ -89,9 +89,9 @@ One correction belongs here, because it has been repeated for a decade. In Septe
 
 ---
 
-## II. 2010: the registry file, and the lunch
+## II. 2010: the registry file, and the meeting
 
-The meeting at Jinja has been reported. NM Political Report established in February 2026 that "a staffer in the New Mexico Attorney General's Office reached out to Epstein and his assistant using official government emails to arrange for an afternoon meeting for Epstein 'with AG Gary King' at a Santa Fe restaurant," and King has given his account of it to Reuters. What has not been published is the calendar around it. The same DOJ release holds the state's sex offender file on Epstein and the flight manifests for the two trips he made to New Mexico that month. Read in order, they show the state telling Epstein to register on July 23 and telling him he did not have to on August 19, with his two trips to New Mexico bracketing that decision and the attorney general's meeting set the day after it.
+The meeting at Jinja has been reported. Contemporaneous emails put it at 3:30 pm, later moved to 4:30, and King has described it as tea, so this report calls it a meeting rather than a lunch. NM Political Report established in February 2026 that "a staffer in the New Mexico Attorney General's Office reached out to Epstein and his assistant using official government emails to arrange for an afternoon meeting for Epstein 'with AG Gary King' at a Santa Fe restaurant," and King has given his account of it to Reuters. What has not been published is the calendar around it. The same DOJ release holds the state's sex offender file on Epstein and the flight manifests for the two trips he made to New Mexico that month. Read in order, they show the state sending Epstein a registration notice on July 23, which his lawyer was then told was a form letter rather than a determination, and telling him on August 19 that he did not have to register, with his two trips to New Mexico bracketing that decision and the attorney general's meeting set the day after it.
 
 ### July 23 · The state tells him to register
 
@@ -121,7 +121,7 @@ The state's review was still open when he landed. Chacon did not write again for
 
 On August 17 at 2:11 am Epstein moved his own schedule up a day. "lets move up schedule 1 day„ tarry should fly in tuesday , today„ go to gunnision wed. arrive new york wed night." A staff member confirmed the next morning, "Wheelsup still 9am tomorrow morning to Gunnison?" ([EFTA00757727](https://epstein-data.com/EFTA00757727)). The manifests show the aircraft leaving Albuquerque for Gunnison, Colorado on August 18 and continuing to Teterboro the same day, with Epstein, a passenger listed only as "Nick," and three redacted names aboard ([HOUSE_OVERSIGHT_006119](https://epstein-data.com/HOUSE_OVERSIGHT_006119), [HOUSE_OVERSIGHT_006118](https://epstein-data.com/HOUSE_OVERSIGHT_006118)).
 
-### August 19 · The state changes its mind
+### August 19 · The state decides he need not register
 
 The day after he left the state, Chacon wrote again to the Zorro Ranch address.
 
@@ -460,7 +460,7 @@ King is now president of the New Mexico Children's Foundation, according to the 
 
 | Date | Event | Source |
 |---|---|---|
-| Mar 1993 | Zorro Trust buys the ranch from King Brothers Ranch, King Land & Cattle and Pine Canyon Ranch | EFTA01305252 p.414 |
+| Mar 1993 | Zorro Trust buys the ranch from King Brothers Ranch, King Land & Cattle and Pine Canyon Ranch; Reuters reports from county records that Gary King was one of the parties to the sale | EFTA01305252 p.414; Reuters, Mar 21, 2026 |
 | Jun 2002 | Ranch reports: "King agreed to easement"; the existing pipeline "was installed by the Kings" | EFTA00582110; EFTA00578393 |
 | Mar 2, 2004 | Land office inspection memo on the Zorro lease, addressed to Jerry King | EFTA01305252 p.322 |
 | Apr 22, 2004 | Follow-up memo: "As per your direction ... your report of heavy machinery" | EFTA01305252 p.321 |
