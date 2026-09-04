@@ -1,6 +1,6 @@
 # Gary King — "I don't think I've ever met him personally"
 
-*In 2004 Ghislaine Maxwell and Jeffrey Epstein each put $4,000 into Gary King's campaign for Congress, filing from the same St. Thomas address. In 2006 King said he had never met Epstein and would give his money back. In August 2010, one day after the state decided Epstein need not register as a sex offender, and two weeks after Epstein's lawyer told the state his client had not set foot in New Mexico since his conviction, an assistant in the attorney general's own office confirmed a 3:30 meeting between the two men at a Santa Fe restaurant. In 2014 Epstein's staff arranged the candidate a private jet, and Epstein told his accountant the fare could be paid "through two diffent entities 10 4." Deutsche Bank and federal prosecutors were reading the same name in their own files years before any of it was news. This report follows the paper, and stops where it stops.*
+*In 2004 Ghislaine Maxwell and Jeffrey Epstein each put $4,000 into Gary King's campaign for Congress, filing from the same St. Thomas address. In 2006 King said he had never met Epstein and would give his money back. In August 2010, one day after the state decided Epstein need not register as a sex offender, and two weeks after Epstein's lawyer told the state his client had not set foot in New Mexico since his conviction, an assistant in the attorney general's own office set up a meeting between the two men at a Santa Fe restaurant. In 2014 Epstein's staff arranged the candidate a private jet, and Epstein told his accountant the fare could be paid "through two diffent entities 10 4." Deutsche Bank and federal prosecutors were reading the same name in their own files years before any of it was news. This report follows the paper, and stops where it stops.*
 
 ---
 
@@ -12,7 +12,13 @@ This report reads the same emails against the charter operator's written quote, 
 
 It then does what the coverage has not done, which is to read the rest of the file. Four bodies of record sit around the charter and have gone unused. The campaign's own 2004 federal filings name Ghislaine Maxwell as a donor. The state's sex offender file on Epstein, and the flight manifests for August 2010, put the reported lunch inside a five week sequence. Deutsche Bank's compliance records and a September 2019 presentation to federal prosecutors use King's name to identify four of Epstein's shell companies. And the land office file on the ranch lease is addressed, over and over, to the attorney general's cousin.
 
-**Not previously reported.** The comparison of Epstein's "10 4" instruction with the two September 1 contributions, the campaign's September 5 payment date, and the circulation of the attorney general's office address do not appear in the coverage reviewed for this report (NM Political Report, Feb 17 and 23, 2026; Albuquerque Journal, Feb 17; ICT, Feb 19; KOB, Feb 19 and Feb 28; Reuters, Mar 21; The Daily Beast, Apr 16, 2019; Santa Fe New Mexican, Sept 9 and 10, 2014). Searches run September 3, 2026 for `"two diffent entities"` return only verbatim reprints of the Journal's quotation; `"Gary King" "10,400"`, `"take care of gary king office"`, and `"Villagra Building" Epstein "Gary King"` return nothing.
+### What the coverage has said
+
+Twelve articles were fetched in full and read for this report. In February and March 2026, NM Political Report published the trip sheet, the charter by JEGE LLC, the campaign's $22,060 payment to Injet, the JEGE deposits recorded in the state system, the first half of Epstein's August 21 message, and the corporations paragraph with the Indyke exchange, which it dated to June 18. It also reported that a staffer in the attorney general's office used official government email to arrange a 2010 meeting with Epstein at a Santa Fe restaurant. The Albuquerque Journal printed the "11.6 … 10 4" email verbatim without interpreting it, and carried King saying he thought the jet came from NetJets and his finance director saying Epstein had offered the plane after a conversation with Bill Richardson. ICT carried Deb Haaland's spokesperson. KOB carried King on February 19 and February 28, including his statement that the campaign "paid fair market value" and that he returned Epstein's 2006 money after 2009. Reuters reported in March that the campaign returned $35,600 three days after the story broke, quoted King's statement that he had told Epstein the campaign would not accept his contributions, gave King's account of the Jinja meeting as tea and condolences, and reported that he had not returned the 2006 money. The Santa Fe New Mexican's King family piece identified Jerry King as Bruce King's nephew and a point person for Epstein's staff in land dealings. Behind all of it stand the two Santa Fe New Mexican stories of September 9 and 10, 2014 and The Daily Beast's 2019 piece on Epstein's giving.
+
+**What we could not find in it.** Each of those articles was fetched and searched on September 4, 2026. We were not able to find any mention in them of the 2004 contributions from Ghislaine Maxwell or of Eric Gany. Maxwell is named in the 2019 Daily Beast piece, as Epstein's associate and as the defendant in the Giuffre litigation, not as a donor to anyone. Nor were we able to find any mention of the July and August 2010 correspondence between the Department of Public Safety and Epstein's lawyer; of the passenger manifests for his two August 2010 trips; of the August 26 change to the meeting time; of Deutsche Bank's screening files or its September 2019 presentation to federal prosecutors; of the February 2020 privilege term; or of the 2004 land office memoranda addressed to Jerry King, though the Santa Fe New Mexican reported the fact that he was a point person and cited a 2004 land office letter. We were also not able to find the comparison this report draws in Part VI between Epstein's "10 4" instruction and the two September 1 contributions.
+
+That is a statement about a defined set of articles and about the searches we ran, both of which are described so a reader can repeat them. It is not a claim that nothing has ever been published on these points. Web searches on these terms were attempted on September 3 and 4, 2026 and were repeatedly rate-limited, so no weight is placed on them here.
 
 **What this report does not claim.** No document reviewed here shows that King knew of any crime at Zorro Ranch, that any victim complaint reached his office, or that his office had anything to do with the state's decision not to require Epstein to register. Those three absences are stated here so that they are not read into anything below.
 
@@ -38,7 +44,16 @@ Four donors from Epstein's circle appear in that year's reports, in the committe
 | **Maxwell, Ghislaine** | 6100 Red Hook Quarter B-3, Saint Thomas VI | Retired | **Sept 1** | $2,000 | primary, applied to debt |
 | **Maxwell, Ghislaine** | same | Retired | **Sept 1** | $2,000 | general |
 
-Sources: the campaign's July quarterly report, covering May 13 to June 30, 2004 ([filing 127614](https://docquery.fec.gov/dcdev/posted/127614.fec), Schedule A, transactions C2613 and C2614), and its October quarterly report, covering July 1 to September 30 ([filing 140986](https://docquery.fec.gov/dcdev/posted/140986.fec), transactions C4087, C4088, C4959, C4962 and C4963). The Epstein and Maxwell gifts are recorded twice each because the campaign designated one to the primary, where it retired debt, and one to the general. Each pair aggregates to $4,000. The seven lines total **$14,000**.
+Sources: the campaign's July quarterly report, covering May 13 to June 30, 2004 ([filing 127614](https://docquery.fec.gov/dcdev/posted/127614.fec), Schedule A, transactions C2613 and C2614), and its October quarterly report, covering July 1 to September 30 ([filing 140986](https://docquery.fec.gov/dcdev/posted/140986.fec), transactions C4087, C4088, C4959, C4962 and C4963). Both are original reports, form F3N, filed by the committee itself. The seven lines total **$14,000**.
+
+The Epstein and Maxwell gifts appear twice each because the campaign designated one of each pair to the primary, where it retired debt, and the other to the general. They are two separate receipts, not one receipt reported twice. The filing carries a distinct transaction identifier for each, and the two Maxwell lines read as follows in the campaign's own submission:
+
+```
+SA11AI,"C00393702","IND",...,"Saint Thomas","VI","","O2004","Debt Primary","Retired","",4000,20040901,2000,...,"C4962",...,"Maxwell","Ghislaine"
+SA11AI,"C00393702","IND",...,"Saint Thomas","VI","","G2004","","Retired","",4000,20040901,2000,...,"C4963",...,"Maxwell","Ghislaine"
+```
+
+The field order is election code, election description, occupation, then the running aggregate for that donor, the receipt date, and the receipt amount. Both lines show $2,000 received on September 1, 2004 against a $4,000 cycle aggregate. The Federal Election Commission's own [itemized receipts viewer](https://docquery.fec.gov/cgi-bin/forms/C00393702/140986/sa/ALL) for the same filing shows the pair as two rows, "6100 Red Hook Quarter B-3, Saint Thomas, Virgin Islands," occupation "Retired," each $2,000 on 09/01/2004 against an aggregate of $4,000. That viewer suppresses contributor names, which is why the name is cited to the filing itself. The same lines survive into the committee's December 2, 2004 amendment ([filing 154878](https://docquery.fec.gov/dcdev/posted/154878.fec)).
 
 Two things in that table are not in the 2026 coverage reviewed for this report. The first is Maxwell's name. The second is the address. **6100 Red Hook Quarter B-3** is the address the Santa Fe New Mexican identified ten years later, in September 2014, as the address shared by the companies then giving to King's campaign for governor. It was already the address the campaign recorded for Epstein and for Maxwell in 2004.
 
@@ -54,7 +69,9 @@ The bank's summary of findings on Maxwell is blunter:
 
 The same file carries a Dun & Bradstreet record for "ERIC T GANY" at 66 Little Brook Rd, Wilton, Connecticut ([EFTA01582907](https://epstein-data.com/EFTA01582907)), the address on the campaign's FEC line. So all four of the 2004 donors are Epstein, his lawyer, his longtime associate, and a man his bank file describes as working for him and holding power of attorney over her account.
 
-**Not previously reported.** The record is public: it sits in the campaign's own filing, and the research database LittleSis has logged "Ghislaine Maxwell gave money to Gary King," $4,000, dated September 1, 2004 ([LittleSis entity 44872](https://littlesis.org/entities/44872)). Epstein's 2004 giving is known too, and King's Wikipedia entry records it. Maxwell's is not in the coverage. Every 2026 article reviewed for this report was fetched and searched on September 4, 2026, and none contains her name: NM Political Report (Feb 17 and Feb 23), the Albuquerque Journal (Feb 17), ICT (Feb 19), KOB (Feb 19 and Feb 28), Reuters (Mar 21) and the Santa Fe New Mexican's King family piece. No outlet placed the 2004 checks beside what King said in 2006.
+None of this is hidden. The contributions sit in the campaign's own filing with the Federal Election Commission, and the research database LittleSis has logged "Ghislaine Maxwell gave money to Gary King," $4,000, dated September 1, 2004 ([LittleSis entity 44872](https://littlesis.org/entities/44872)). Epstein's 2004 giving to King is known well enough that King's Wikipedia entry records it.
+
+What we could not find is any account of it. Searching the twelve articles fetched for this report, we were not able to find Maxwell named as a contributor to King in any of them, or any mention of Eric Gany, or any instance of the 2004 contributions being set beside what King said in 2006.
 
 ### 2005 and 2006 · Two personal checks, then "I don't think I've ever met him personally"
 
@@ -74,7 +91,7 @@ One correction belongs here, because it has been repeated for a decade. In Septe
 
 ## II. 2010: the registry file, and the lunch
 
-The meeting at Jinja has been reported. NM Political Report established in February 2026 that "a staffer in the New Mexico Attorney General's Office reached out to Epstein and his assistant using official government emails to arrange for an afternoon meeting for Epstein 'with AG Gary King' at a Santa Fe restaurant," and King has given his account of it to Reuters. What has not been published is the calendar around it. The same DOJ release holds the state's sex offender file on Epstein and the flight manifests for the two trips he made to New Mexico that month. Read in order, they put the attorney general's meeting inside a five week sequence in which the state first told Epstein to register, then told him he did not have to.
+The meeting at Jinja has been reported. NM Political Report established in February 2026 that "a staffer in the New Mexico Attorney General's Office reached out to Epstein and his assistant using official government emails to arrange for an afternoon meeting for Epstein 'with AG Gary King' at a Santa Fe restaurant," and King has given his account of it to Reuters. What has not been published is the calendar around it. The same DOJ release holds the state's sex offender file on Epstein and the flight manifests for the two trips he made to New Mexico that month. Read in order, they show the state telling Epstein to register on July 23 and telling him he did not have to on August 19, with his two trips to New Mexico bracketing that decision and the attorney general's meeting set the day after it.
 
 ### July 23 · The state tells him to register
 
@@ -127,7 +144,14 @@ The public account of that meeting is King's. He told Reuters he met Epstein onl
 
 Epstein came back. The manifests record Teterboro to Phoenix and Phoenix to Albuquerque on August 25, carrying Epstein, a passenger listed as Igor Zinoviev, and two redacted passengers ([HOUSE_OVERSIGHT_006117](https://epstein-data.com/HOUSE_OVERSIGHT_006117), [HOUSE_OVERSIGHT_006116](https://epstein-data.com/HOUSE_OVERSIGHT_006116)).
 
-On August 27 an Orbitz confirmation was issued for a commercial itinerary from New York LaGuardia through Dallas to Santa Fe, arriving at 3:35 pm on August 28. The passenger name is redacted. The confirmation was forwarded from Epstein's own account the next day ([EFTA02422860](https://epstein-data.com/EFTA02422860)). The ticket arrives after the meeting time the attorney general's office had set, so it does not show anyone traveling to the meeting, and the traveler is not identified.
+The next day, two days before the meeting, Epstein's office relayed a call.
+
+> Gary Kings assistant called and said Mr King can meet with you this Saturday in Santa Fe at 4:30pm(not 3:30pm as was originally scheduled)
+> I have given Renee the address to where you are going and she will arrange for you to be driven. ([EFTA00895604](https://epstein-data.com/EFTA00895604), page image)
+
+Epstein answered "ok." The time in the attorney general's written confirmation was 3:30. The meeting was moved to 4:30, at the request of King's assistant, and Epstein was to be driven to it. Both times are documented. No document in the release records what time the two men actually sat down.
+
+On August 27, the day after the time changed, an Orbitz confirmation was issued for a commercial itinerary from New York LaGuardia through Dallas to Santa Fe, arriving at 3:35 pm on August 28. The passenger name is redacted. The confirmation was forwarded from Epstein's own account the next day ([EFTA02422860](https://epstein-data.com/EFTA02422860)). That arrival falls five minutes after the originally scheduled time and fifty five minutes before the time the meeting was moved to. Nothing in the record identifies the traveler or connects that ticket to the meeting, and this report does not.
 
 The day after the meeting, a Sunday, the ranch had a houseguest. Epstein's assistant wrote on August 27 that "Dr. Merkin will be landing in Santa Fe on Sunday at 10:40am," asked whether to "invite Seth Lloyd over on Sunday," and forwarded the arrival details, including the tail number of the aircraft. Epstein answered with the names of the two people who should collect him ([EFTA00779059](https://epstein-data.com/EFTA00779059)).
 
@@ -135,13 +159,13 @@ The aircraft left Albuquerque for Teterboro on August 30 at 5:49 pm. Six people 
 
 ### What the file does not show
 
-Epstein did register with the Santa Fe County Sheriff, on his own lawyers' account. A Kirkland & Ellis memorandum of October 7, 2010 states that "notwithstanding the Sstate's determination that he need not register, Mr. Epstein voluntarily chose to register with New Mexico authorities in order to comply with federal requirements" ([EFTA00727403](https://epstein-data.com/EFTA00727403) p.7), and Darren Indyke told a Santa Fe County sheriff's detective in May 2012 that Epstein "nevertheless registered with the Santa Fe County Sheriff in an effort to comply with federal" requirements ([EFTA01147516](https://epstein-data.com/EFTA01147516)). The registration form itself, its date, and any sheriff's log of his visits are not in the DOJ release. They would come from the county.
+Epstein did register with the Santa Fe County Sheriff, on his own lawyers' account. A Kirkland & Ellis memorandum of October 7, 2010 states that "notwithstanding the Sstate's determination that he need not register, Mr. Epstein voluntarily chose to register with New Mexico authorities in order to comply with federal requirements" ([EFTA00727403](https://epstein-data.com/EFTA00727403) p.7), and Darren Indyke told a Santa Fe County sheriff's detective in May 2012 that Epstein "nevertheless registered with the Santa Fe County Sheriff in an effort to comply with federal" requirements ([EFTA01147516](https://epstein-data.com/EFTA01147516)). The registration form itself, its date, and any sheriff's log of his visits are not in the DOJ release. They would come from the county. Nothing here establishes when he first appeared at the sheriff's office or what he wrote on the form.
 
 Nothing in the release connects the attorney general or his office to the registry decision. There is no document showing that anyone at the Department of Justice for New Mexico, then called the Office of the Attorney General, was consulted, copied, or informed. The determination was made inside the Department of Public Safety, and the reasoning is not in the file either. That gap was noticed at the time by a federal judge. Denying Epstein bail in July 2019, Judge Richard Berman wrote:
 
 > The Court requested from the Defense all application materials that Mr. Epstein may have submitted to the New Mexico Department of Public Safety, believing that the Department would not initiate the waiver of Mr. Epstein's sex offense registration on its own. No such materials have been received by the Court as of this date. ([EFTA00039383](https://epstein-data.com/EFTA00039383) p.20)
 
-What the documents establish is the order of events, not a cause. On July 30 Epstein's lawyer told the state his client had not been to New Mexico since his conviction. On August 13 he arrived. On August 19 the state wrote that he need not register. On August 20 the attorney general's office confirmed a 3:30 pm meeting with him for the following Saturday. On August 25 he flew back, and on August 28 the two men met. King was on the ballot that November, and won a second term as attorney general ([Wikipedia](https://en.wikipedia.org/wiki/Gary_King_%28politician%29)).
+What the documents establish is the order of events, not a cause. On July 30 Epstein's lawyer told the state his client had not been to New Mexico since his conviction. On August 13 he arrived. On August 19 the state wrote that he need not register. On August 20 the attorney general's office confirmed a 3:30 pm meeting with him for the following Saturday. On August 25 he flew back. On August 26 King's assistant moved the meeting to 4:30, and on August 28 the two men met. King was on the ballot that November, and won a second term as attorney general ([Wikipedia](https://en.wikipedia.org/wiki/Gary_King_%28politician%29)).
 
 ---
 
@@ -324,7 +348,7 @@ On the same list sit the New Mexico lawyers who did Epstein's state work: "Roths
 
 A privilege term is a screening instruction, not an accusation, and a term can be added for many reasons. What the document shows is that in February 2020 the government was treating "Gary King" as a name worth screening in the same pass as Epstein's New Mexico counsel.
 
-None of these four records appears in the 2026 coverage. Each of the eight articles reviewed for this report was fetched and searched on September 4, 2026, and none mentions Deutsche Bank or the privilege screen.
+Searching the twelve articles fetched for this report, we were not able to find any mention of Deutsche Bank's files on the Epstein companies, of its September 2019 presentation, or of the privilege term.
 
 ---
 
@@ -350,7 +374,7 @@ In June the office wrote to Zorro Trust, care of Jeffrey E. Epstein at 457 Madis
 
 > Please find enclosed an approved copy of your improvement application. Note that the Commissioner has chosen to grant you 25% of the value for the improvement. ... If you have any questions please contact me at [redacted] or Jerry King, Assistant Commissioner at [redacted]. ([EFTA01305252](https://epstein-data.com/EFTA01305252) p.307, Bates EFTA01305559)
 
-So the report of the machinery came from Jerry King, the inspection memorandum was addressed to Jerry King, the after the fact application was approved, and the approval letter gave Epstein Jerry King's telephone number.
+The follow-up memorandum describes the inspection as filed "as per your direction" and in regard to "your report" of heavy machinery, and Jerry King is the "you" it is addressed to. Whether he first spotted the machinery or the report reached the office through him, the file does not say. What it does show is the routing: the inquiry ran through Jerry King, the inspection memorandum was addressed to him, the application filed after the work was approved, and the approval letter gave Epstein his telephone number.
 
 The conflict on the face of that file is a matter of public record, and it was raised in New Mexico five years later for other reasons. NMPolitics.net reported in September 2009 that Jerry King, then an assistant commissioner handling "special projects," had filed a disclosure form dated January 1, 2003 stating "that he is a partner and shareholder in King Land & Cattle Co. and Pine Canyon Ranch Corp., which both have state land leases, and that his father holds land leases through the company King Bros. Ranch." A handwritten note on the form reads, "I will avoid any conflict that may arise."
 
@@ -421,6 +445,8 @@ King is now president of the New Mexico Children's Foundation, according to the 
 | Schoenburg wrote on July 30, 2010 that Epstein "has not visited NM since his conviction" | Documented | EFTA00730001 |
 | Epstein was in New Mexico Aug 13-18 and Aug 25-30, 2010 | Documented, page images | HOUSE_OVERSIGHT_006120, 006119, 006118, 006117, 006116, 006115 |
 | The AG's office set a 3:30 pm meeting for Aug 28, 2010 at Jinja | Documented | EFTA00779086 |
+| King's assistant moved the meeting to 4:30 pm on Aug 26, 2010 | Documented, page image | EFTA00895604 |
+| The redacted Orbitz traveler was going to the meeting | Not established | none |
 | The AG's office had any role in the DPS determination | Not in corpus | none |
 | A victim complaint reached the AG's office, 2007-2014 | Not in corpus | none |
 | Deutsche Bank's only negative media on JEGE and Neptune was the 2014 King story | Documented | EFTA01296377; EFTA01296884 |
@@ -453,7 +479,9 @@ King is now president of the New Mexico Children's Foundation, according to the 
 | Aug 19, 2010 | DPS: "not required to register" | EFTA00731095 |
 | **Aug 20, 2010** | **The AG's office confirms a 3:30 pm meeting for Aug 28 at Jinja** | EFTA00779086 |
 | Aug 25, 2010 | Epstein returns to Albuquerque | HOUSE_OVERSIGHT_006117, 006116 |
-| Aug 28, 2010 | King and Epstein meet | EFTA00779086; King's account to Reuters |
+| Aug 26, 2010 | King's assistant moves the meeting to 4:30 pm; Epstein: "ok" | EFTA00895604 |
+| Aug 27, 2010 | Orbitz ticket issued, New York to Santa Fe, arriving 3:35 pm Aug 28; passenger redacted | EFTA02422860 |
+| Aug 28, 2010 | King and Epstein meet | EFTA00779086; EFTA00895604; King's account to Reuters |
 | Aug 30, 2010 | Out to Teterboro, six aboard, four redacted | HOUSE_OVERSIGHT_006115 |
 | Jun 3, 2014 | King wins the Democratic primary | Wikipedia |
 | Jun 5, 2014 | King and Epstein speak; campaign letter thanks Epstein for "$50,000.00" commitment | EFTA00368519 |
@@ -479,14 +507,14 @@ King is now president of the New Mexico Children's Foundation, according to the 
 
 Corpus, 2014 charter and money: EFTA00364267; EFTA00650515; EFTA00995439; EFTA00364043; EFTA00364041; EFTA00364038; EFTA00364053; EFTA00363574; EFTA00363588; EFTA00363159; EFTA00310528; EFTA00870192; EFTA00368519; EFTA00368401; EFTA00368431; EFTA00304889; EFTA00367846; EFTA00367856; EFTA00630939; EFTA00362315; EFTA00362357; EFTA01348584; EFTA01348769; EFTA01271585.
 
-Corpus, 2010 registry file and trips: EFTA00728275; EFTA00727954; EFTA00730001; EFTA00731095; EFTA00779086; EFTA00757727; EFTA02422860; EFTA00779059; EFTA00727403; EFTA01147516; EFTA00039383. Passenger manifests: HOUSE_OVERSIGHT_006120; 006119; 006118; 006117; 006116; 006115 (page images).
+Corpus, 2010 registry file and trips: EFTA00728275; EFTA00727954; EFTA00730001; EFTA00731095; EFTA00779086; EFTA00895604; EFTA00757727; EFTA02422860; EFTA00779059; EFTA00727403; EFTA01147516; EFTA00039383. Passenger manifests: HOUSE_OVERSIGHT_006120; 006119; 006118; 006117; 006116; 006115 (page images).
 
 Corpus, institutions and land office: EFTA01296377; EFTA01296884; EFTA01362390; EFTA01681865 (Bates EFTA01681898 and EFTA01681899, page images); EFTA00099346; EFTA01349431; EFTA01305252; EFTA00582110; EFTA00578393; EFTA01661603.
 
-Federal filings: King for Congress, FEC committee C00393702, quarterly reports [127614](https://docquery.fec.gov/dcdev/posted/127614.fec) (May 13 to June 30, 2004) and [140986](https://docquery.fec.gov/dcdev/posted/140986.fec) (July 1 to September 30, 2004), Schedule A.
+Federal filings: King for Congress, FEC committee C00393702, original quarterly reports [127614](https://docquery.fec.gov/dcdev/posted/127614.fec) (May 13 to June 30, 2004) and [140986](https://docquery.fec.gov/dcdev/posted/140986.fec) (July 1 to September 30, 2004), Schedule A, with the amendment [154878](https://docquery.fec.gov/dcdev/posted/154878.fec) (filed December 2, 2004) and the FEC's [itemized receipts viewer](https://docquery.fec.gov/cgi-bin/forms/C00393702/140986/sa/ALL) for the October report.
 
 State and public records: New Mexico campaign finance filings for "Gary King 2014" (Fourth Primary, submitted July 3, 2014; First General, September 8; Second General, October 14; Third General, October 30), as uploaded to Scribd by NM Telegram in 2014; The Accountability Project, dataset 392, New Mexico campaign contributions 2000–2021; New Mexico Department of Justice contact page; New Mexico Children's Foundation board listing; LittleSis entity 44872; Wikipedia, 2014 New Mexico gubernatorial election (primary date) and Gary King (politician) (offices and the 2010 reelection).
 
 Press: NMPolitics.net (Heath Haussamen), Sept 7, 2009; Santa Fe New Mexican, Aug 16, 2006 (reproduced at EFTA01661603) and Sept 9, 2014 and [Sept 10, 2014](https://www.santafenewmexican.com/news/local_news/gary-king-says-he-ll-return-cash-linked-to-sex-offender/article_0cb7a32c-c0f1-51c6-b722-33dcff363b71.html); Associated Press, Sept 9, 2014 (the AP caller is named as Barry Massey in EFTA00630939); The Daily Beast (Kate Briquelet), Apr 16, 2019; NM Political Report, Feb 17 and Feb 23, 2026; Albuquerque Journal (Matthew Reisen), Feb 17, 2026; ICT (Pauly Denetclaw), Feb 19, 2026; KOB, Feb 19 and Feb 28, 2026; Reuters (Andrew Hay), Mar 21, 2026; Santa Fe New Mexican, "Jeffrey Epstein maintained ties to New Mexico's prominent King family for years," 2026.
 
-*Report compiled September 3, 2026 and expanded September 4, 2026. Every corpus citation was checked against the document text, with page images pulled for the three checks, the key 2014 emails, the two 2010 passenger manifests quoted here, both pages of the Deutsche Bank exhibit, and the JPMorgan summary quoted in Part I. The 2004 contributions were read from the campaign's own electronic filings with the Federal Election Commission. Every external source was fetched and checked.*
+*Report compiled September 3, 2026 and expanded September 4, 2026. Fifty three quotations from corpus documents were checked line by line against the document text. Three more, where the scanned text is unreliable, were read from the page image instead: the JPMorgan summary in Part I, and the August 26 message in Part II. Page images were also pulled for the three 2014 checks, the key 2014 emails, the two 2010 passenger manifests quoted here, and both pages of the Deutsche Bank exhibit. The 2004 contributions were read from the campaign's own electronic filings with the Federal Election Commission and checked against the Commission's itemized receipts viewer. All eighty one external links were fetched and checked on September 4, 2026.*
