@@ -1,4 +1,4 @@
-# Line of Investigation 10: Prosecutorial Scope Evolution
+# How the Prosecution's Scope Changed Over Time
 
 ## Executive Summary
 

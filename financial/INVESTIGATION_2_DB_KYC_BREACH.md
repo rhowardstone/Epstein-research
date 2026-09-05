@@ -1,4 +1,4 @@
-# INVESTIGATION LINE 2: DEUTSCHE BANK KYC BREACH TIMELINE
+# Deutsche Bank's Know-Your-Customer Breach: A Timeline
 
 ## Forensic Analysis of the Southern Financial LLC / Jeffrey Epstein Know Your Customer (KYC) Compliance Failure
 

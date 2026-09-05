@@ -1,4 +1,4 @@
-# Dossier 03: Tech Company Production Gaps
+# Tech Company Production Gaps
 
 ## 21 Subpoenas to Technology Companies; Only 5 Matched to Returns
 

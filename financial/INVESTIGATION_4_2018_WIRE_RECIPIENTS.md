@@ -1,4 +1,4 @@
-# INVESTIGATION LINE 4: November/December 2018 Wire Recipients
+# Who Received the November and December 2018 Wires
 
 ## Forensic Financial Investigation Report
 **Database:** the primary document text database

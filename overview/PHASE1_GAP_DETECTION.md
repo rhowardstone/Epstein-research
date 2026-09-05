@@ -1,4 +1,4 @@
-# PHASE I: GAP DETECTION AND COUNTERFACTUAL ANALYSIS
+# What Is Missing: Timeline Gaps and Documents That Are Not There
 ## Epstein Files Forensic Investigation
 
 **Date:** February 10, 2026

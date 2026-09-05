@@ -1,4 +1,4 @@
-# INVESTIGATION LINE 8: UNEXPLORED NAMES RESEARCH
+# Names Nobody Had Looked Up Yet
 ## Comprehensive Forensic Analysis of 18 Previously Under-Examined Names in the DOJ Epstein Files
 
 **Database:** the primary document text database

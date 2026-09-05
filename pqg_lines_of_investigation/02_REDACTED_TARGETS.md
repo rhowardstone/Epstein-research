@@ -1,4 +1,4 @@
-# Dossier 02: The 27 Redacted Targets
+# The 27 Redacted Targets
 
 ## Who Are the Entities Behind the Fully-Redacted Subpoena Targets?
 

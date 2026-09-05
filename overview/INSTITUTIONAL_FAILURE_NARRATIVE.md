@@ -1,4 +1,4 @@
-# THE ARCHITECTURE OF IMPUNITY
+# The Architecture of Impunity
 
 ## A Prosecutorial Failure Narrative: The United States Department of Justice and the Jeffrey Epstein Case, 1996-2024
 

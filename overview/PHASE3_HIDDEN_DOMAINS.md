@@ -1,4 +1,4 @@
-# PHASE III: HIDDEN DOMAIN CONNECTIONS
+# Leon Black, Wexner and Barak: A Nine-Domain Database Sweep
 
 ## Epstein Files Systematic Database Investigation
 ### Databases Searched: primary document text database (1,808,942 rows), Dataset 10 document text database (1,629,776 rows), entity relationship database, OCR text extraction database

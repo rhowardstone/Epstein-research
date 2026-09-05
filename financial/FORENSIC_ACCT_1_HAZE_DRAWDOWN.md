@@ -1,4 +1,4 @@
-# FORENSIC ACCOUNTING REPORT #1
+# The Haze Trust Drawdown: From $49.5M to $7.7M in Eight Months
 # THE HAZE TRUST $41.7M DRAWDOWN
 ## Tracing the Decline from $49.5M to ~$7.7M (June 2018 - February 2019)
 

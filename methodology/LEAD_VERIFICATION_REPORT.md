@@ -1,4 +1,4 @@
-# LEAD VERIFICATION REPORT
+# Leads Re-Checked Against the Source PDFs
 ## Epstein DOJ Files -- Deep Forensic Review
 ### Date: 2026-02-08
 ### Method: Direct PDF reading via PDF analysis tools, cross-referenced with redaction databases

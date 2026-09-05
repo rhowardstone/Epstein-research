@@ -1,4 +1,4 @@
-# [EFTA00004800](https://www.justice.gov/epstein/files/DataSet%203/EFTA00004800.pdf) DEEP DIVE: FBI Digital Evidence Directory
+# Book 17: The Seized Digital Media Thumbnail Catalog
 ## "Book 17" -- Seized Digital Media Thumbnail Catalog
 
 **Document:** [EFTA00004800](https://www.justice.gov/epstein/files/DataSet%203/EFTA00004800.pdf)
