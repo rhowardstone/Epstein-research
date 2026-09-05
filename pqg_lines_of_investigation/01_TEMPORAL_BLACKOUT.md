@@ -1,4 +1,4 @@
-# Dossier 01: The 524-Day Subpoena Gap
+# The 524-Day Subpoena Gap
 
 ## Why Did the Grand Jury Stop Issuing Subpoenas for 17 Months?
 

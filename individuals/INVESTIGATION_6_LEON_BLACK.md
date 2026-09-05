@@ -1,4 +1,4 @@
-# INVESTIGATION LINE 6: LEON BLACK -- NTOC FILING AND ASSOCIATED EVIDENCE
+# Leon Black: The NTOC Filing and the Evidence Around It
 
 ## Forensic Analysis of DOJ Epstein Files Database
 **Database:** the primary document text database

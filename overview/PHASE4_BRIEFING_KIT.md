@@ -1,4 +1,4 @@
-# EPSTEIN FILES: CONGRESSIONAL BRIEFING KIT
+# Congressional Briefing Kit: Five Findings and Five Subpoena Targets
 
 ## Prepared for Congressional Staff Use
 ## Based on Systematic Analysis of 3.4 Million Redaction Records, Knowledge Graph, and OCR Databases

@@ -1,4 +1,4 @@
-# FORENSIC ENTITY EXTRACTION REPORT
+# Entities Extracted From Dataset 10 Text Layers
 ## Epstein Files - Redaction Hidden Text Analysis
 **Generated:** 2026-02-05 20:33:45
 **Database:** the primary document text database

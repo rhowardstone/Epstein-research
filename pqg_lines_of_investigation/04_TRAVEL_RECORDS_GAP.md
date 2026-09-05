@@ -1,4 +1,4 @@
-# Line of Investigation 04: The Travel Records Gap
+# The Travel Records Gap
 
 ## Executive Summary
 

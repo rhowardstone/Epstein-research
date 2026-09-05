@@ -1,4 +1,4 @@
-# Line of Investigation 05: Deutsche Bank Production Analysis
+# Deutsche Bank Production Analysis
 
 ## Executive Summary
 

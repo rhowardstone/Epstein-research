@@ -1,4 +1,4 @@
-# INVESTIGATION LINE 7: PAUL BARRETT WEEKLY REPORTS
+# Paul Barrett's Weekly Reports
 
 ## Forensic Analysis of Deutsche Bank Relationship Manager's Weekly Reporting on the Jeffrey Epstein Account
 

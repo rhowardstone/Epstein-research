@@ -1,4 +1,4 @@
-# Line of Investigation 06: Financial Institutions Without Returns
+# Financial Institutions That Returned Nothing
 
 ## Executive Summary
 

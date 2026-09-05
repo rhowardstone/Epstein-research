@@ -1,4 +1,4 @@
-# FORENSIC ACCOUNTING ANALYSIS #4: JABWCPA AND INSTITUTION-1
+# JABWCPA and Institution-1
 
 ## Classification: WORKING ANALYTICAL DOCUMENT
 ## Database: primary document text database

@@ -1,4 +1,4 @@
-# Line of Investigation 09: Correctional Records Gaps and the Death Investigation
+# Correctional Records Gaps and the Death Investigation
 
 ## Executive Summary
 

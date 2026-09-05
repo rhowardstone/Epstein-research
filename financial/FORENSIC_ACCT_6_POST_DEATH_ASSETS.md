@@ -1,4 +1,4 @@
-# FORENSIC ACCOUNTING REPORT #6: POST-DEATH DISPOSITION OF THE JEFFREY EPSTEIN ESTATE
+# What Happened to the Estate After Epstein Died
 
 **Classification:** Forensic Analysis of DOJ EFTA Records
 **Database:** the primary document text database (1.8M redactions, 107K entities, 39.5K reconstructed pages)

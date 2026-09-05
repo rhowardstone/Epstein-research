@@ -1,4 +1,4 @@
-# Line of Investigation 08: The Cryptocurrency Gap
+# The Cryptocurrency Gap
 
 ## Executive Summary
 

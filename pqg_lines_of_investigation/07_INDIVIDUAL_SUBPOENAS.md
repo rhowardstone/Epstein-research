@@ -1,4 +1,4 @@
-# Line of Investigation 07: Individuals Under Subpoena
+# Individuals Under Subpoena
 
 ## Executive Summary
 

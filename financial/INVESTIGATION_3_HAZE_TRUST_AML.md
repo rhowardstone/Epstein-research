@@ -1,4 +1,4 @@
-# INVESTIGATION LINE 3: THE HAZE TRUST AML INQUIRY
+# The Haze Trust Anti-Money-Laundering Inquiry
 
 ## Forensic Financial Analysis of Deutsche Bank's Anti-Money Laundering Process for Jeffrey Epstein's Largest Trust Vehicle
 

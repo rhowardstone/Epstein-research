@@ -1,4 +1,4 @@
-# Prosecutorial Query Graph: Lines of Investigation
+# Lines of Investigation: Index
 
 ## A Structured Analysis of Grand Jury Subpoena Intent vs. Produced Material
 

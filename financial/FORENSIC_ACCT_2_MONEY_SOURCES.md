@@ -1,4 +1,4 @@
-# FORENSIC ACCOUNTING REPORT: TRACING THE SOURCES OF EPSTEIN'S WEALTH
+# Tracing the Sources of Epstein's Wealth
 
 ## Classification: Analytical Work Product
 ## Database: primary document text database (1,808,915 redactions; 107,422 entities; 39,588 reconstructed pages)

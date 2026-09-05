@@ -1,4 +1,4 @@
-# Epstein Files Analysis Summary
+# The First Read of the SDNY Prosecution Memo, January 2026
 ## January 2026 DOJ Release - Key Findings
 
 > **Context:** This was one of the first reports written (late January 2026), focused on initial findings from the SDNY prosecution memo. The project has since produced **150+ investigation reports** with far more comprehensive analysis. For the complete catalog, see the [full report index](https://epstein-data.com/reports/).

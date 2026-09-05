@@ -1,4 +1,4 @@
-# INVESTIGATION LINE 1: BARR NTOC FILING DEEP DIVE
+# William Barr and the NTOC Filing
 
 ## Forensic Analysis of DOJ Epstein Files -- Redaction Database
 ### Date of Analysis: February 5, 2026
