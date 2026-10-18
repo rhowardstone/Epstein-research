@@ -303,16 +303,16 @@ The emails are written in a mix of English and Russian (Yahoo interface in Russi
 6. **The "30-60 days out" message** suggests Epstein was planning something 1-2 months away.
 7. **Her desire to cook for him** ("potatoes or russian salad") shows she viewed the relationship as personal/intimate.
 
-### The [name withheld] Connection ([EFTA02439449](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02439449.pdf))
+### The Model-Agency Link ([EFTA02439449](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02439449.pdf))
 
 On June 20, 2009 -- **one day after the first MC2 email** -- Daniel Siad emailed Epstein:
 
 > *"Hello Again. Here are more pictures click the site*
 > *www.fashionhdtv.com*
 > *hello Jeff follow the link below*
-> *http://nevsmodels.co.uk/women/main/Lana%20[name withheld]/"*
+> *http://nevsmodels.co.uk/women/main/[name withheld]/"*
 
-**[name withheld]** is a Latvian model who was with Nevs Models UK. The timing (June 19-20, 2009) and the name "Lana" are striking. However, the MC2 correspondence is from a Russian-speaking woman (not Latvian), so these may be two different "Lanas" in Epstein's orbit simultaneously -- or the same person, as Latvians often speak Russian.
+The linked profile belongs to a Latvian model then with Nevs Models UK. Her name is withheld here: she has since been identified as a victim of the Brunel/MC2 trafficking operation, and this archive does not publish identifying information about survivors of Epstein's abuse. The timing (June 19-20, 2009) is notable, but the MC2 correspondence is from a Russian-speaking woman, so this may be a different person entirely.
 
 ### Daniel Siad: The Scout/Recruiter Network
 
@@ -542,7 +542,7 @@ The January 2019 island trip was planned while the FBI/NYPD Child Exploitation t
 | [EFTA02439348](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02439348.pdf) | Jun 23, 2009 | Lana - "most important people" | OCR, primary text database |
 | [EFTA02439395](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02439395.pdf) | Jun 19, 2009 | Lana - MC2 3 weeks promise | OCR, primary text database |
 | [EFTA02439413](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02439413.pdf) | Jun 30, 2009 | Lana - Milan, no jobs, Moscow | OCR, primary text database |
-| [EFTA02439449](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02439449.pdf) | Jun 20, 2009 | Daniel Siad sends [name withheld] link | OCR |
+| [EFTA02439449](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02439449.pdf) | Jun 20, 2009 | Daniel Siad sends model-agency link | OCR |
 | [EFTA02432663](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02432663.pdf) | Dec 24, 2009 | Daniel Siad sends model from Thailand | OCR |
 | [EFTA00017956](https://www.justice.gov/epstein/files/DataSet%208/EFTA00017956.pdf) | Dec 2018 | FBI: Siad is "scout/recruiter" for Epstein | OCR |
 | [EFTA02571027](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02571027.pdf) | Jun 10, 2013 | Daniel Siad in Dubai/Thailand | OCR |
@@ -578,7 +578,6 @@ All four databases were queried for:
 - "Mossad" (no Junkermann connection found)
 - "3BIS" (construction firm)
 - "Daniel Siad" (model scout)
-- "Lana" + "[name withheld]"
 - "301 E 66" (MC2 apartment building)
 - "Auctionata" + "Paddles"
 - "23andme" / "23 and me"

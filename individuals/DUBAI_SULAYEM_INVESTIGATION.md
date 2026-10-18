@@ -456,7 +456,7 @@ Daniel Siad was explicitly described by Jean-Luc Brunel as a "scout" or recruite
 ### 5.1.1 Siad's Documented Activities
 
 - **[EFTA02432663](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02432663.pdf)** (Dec 24, 2009): Siad to Epstein: "I am here in Koh Samui with Eva... she is from Slovakia... I could place her with jean luc in Miami because she is already with next in NY" -- sending model portfolio links
-- **[EFTA02439449](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02439449.pdf)** (June 20, 2009): "More pictures" -- sending model photos including [name withheld] (Latvian model)
+- **[EFTA02439449](https://www.justice.gov/epstein/files/DataSet%2011/EFTA02439449.pdf)** (June 20, 2009): "More pictures" -- sending model photos including a Latvian model ([name withheld])
 - **[EFTA01796033](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01796033.pdf)** (Mar 15, 2011): Email exchange
 - **[EFTA01975079](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01975079.pdf)**: Epstein to Siad with cc to "Lesle Gro[ff]"
 - **[EFTA01976769](https://www.justice.gov/epstein/files/DataSet%2010/EFTA01976769.pdf)**: From Daniel Siad
