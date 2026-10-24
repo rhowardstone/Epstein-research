@@ -1066698,8 +1066698,8 @@ EFTA02252831,0,1,replace,CONTENT_REMOVAL,NON_PII,[CONTENT_REMOVAL] Diana@KingTut
 EFTA02252973,0,0,replace,NAME_REDACTION,AMBIGUOUS,[NAME_REDACTION] MIMEM (MIMEM),[NAME_REDACTION] Lesley Groff (MIMEM),"The original text 'MIMEM' could be an OCR artifact or an abbreviation, and replacing it with 'Lesley Groff' introduces new information without clear justification.",done,11,19,11,https://www.justice.gov/epstein/files/DataSet%2011/EFTA02252973.pdf,https://jmail.world/drive/vol00011-efta02252973-pdf
 EFTA02252973,0,1,replace,CONTENT_REMOVAL,NON_PII,[CONTENT_REMOVAL] N,"[CONTENT_REMOVAL] Lesley, ","The change involves adding 'Lesley,' which does not appear to be a redaction of personal information but rather an addition to the text.",done,90,100,11,https://www.justice.gov/epstein/files/DataSet%2011/EFTA02252973.pdf,https://jmail.world/drive/vol00011-efta02252973-pdf
 EFTA02252973,0,2,replace,NAME_REDACTION,MIXED,"[CONTENT_REMOVAL] y
-[NAME_REDACTION] #PUTBDE) for Toma Penkauskaite. (Toma Penkauskaite)
-[CONTENT_REMOVAL] cy-r. (pr o",,"The edit primarily involves the removal of a name (Toma Penkauskaite), but also includes other content removals.",done,322,283,11,https://www.justice.gov/epstein/files/DataSet%2011/EFTA02252973.pdf,https://jmail.world/drive/vol00011-efta02252973-pdf
+[NAME_REDACTION] #PUTBDE) for unspecified (redacted). (unspecified (redacted))
+[CONTENT_REMOVAL] cy-r. (pr o",,"The edit primarily involves the removal of a name (unspecified (redacted)), but also includes other content removals.",done,322,283,11,https://www.justice.gov/epstein/files/DataSet%2011/EFTA02252973.pdf,https://jmail.world/drive/vol00011-efta02252973-pdf
 EFTA02252983,0,0,insert,NAME_REDACTION,PRIVACY_ACT_PII,,[NAME_REDACTION] Lesley Groff (Lesley Groff),"The name 'Lesley Groff' was inserted into the document, suggesting it was previously redacted or removed.",done,0,12,11,https://www.justice.gov/epstein/files/DataSet%2011/EFTA02252983.pdf,https://jmail.world/drive/vol00011-efta02252983-pdf
 EFTA02252983,0,1,replace,CONTENT_REMOVAL,NON_PII,,"[CONTENT_REMOVAL] Lesley, ","The addition of 'Lesley,' does not constitute a redaction but rather an insertion of a name, which is not PII.",done,48,56,11,https://www.justice.gov/epstein/files/DataSet%2011/EFTA02252983.pdf,https://jmail.world/drive/vol00011-efta02252983-pdf
 EFTA02253013,0,0,insert,NAME_REDACTION,PRIVACY_ACT_PII,,[NAME_REDACTION] Lesley Groff (Lesley Groff),"The name 'Lesley Groff' was inserted into the document, which could be a redaction indicating an attempt to protect a person's identity.",done,0,12,11,https://www.justice.gov/epstein/files/DataSet%2011/EFTA02253013.pdf,https://jmail.world/drive/vol00011-efta02253013-pdf
@@ -1067482,7 +1067482,7 @@ Aeroflot
 SU 2104 E Economy Class12 Aug 2018
 Aeroflot
 SU 2104 E Economy Class","The removed content consists of flight details and schedules, which do not constitute personally identifiable information.",done,464,88,11,https://www.justice.gov/epstein/files/DataSet%2011/EFTA02255199.pdf,https://jmail.world/drive/vol00011-efta02255199-pdf
-EFTA02255199,3,0,delete,CONTENT_REMOVAL,NON_PII,"[CONTENT_REMOVAL] <PENKAUSKAITE_TOMA-PUTBDE.pdf'
+EFTA02255199,3,0,delete,CONTENT_REMOVAL,NON_PII,"[CONTENT_REMOVAL] <unspecified (redacted)-PUTBDE.pdf'
 [CONTENT_REMOVAL] <pUTBDE_ItineraryCalendar.ics>",,The removed content consists of file names and does not contain personally identifiable information.,done,62,0,11,https://www.justice.gov/epstein/files/DataSet%2011/EFTA02255199.pdf,https://jmail.world/drive/vol00011-efta02255199-pdf
 EFTA02255220,0,0,replace,OCR_IMPROVEMENT,OCR_IMPROVEMENT,[OCR_IMPROVEMENT] Frcm:,[OCR_IMPROVEMENT] From:,"The change corrects an OCR error, improving the text quality.",done,5,5,11,https://www.justice.gov/epstein/files/DataSet%2011/EFTA02255220.pdf,https://jmail.world/drive/vol00011-efta02255220-pdf
 EFTA02255220,0,1,replace,CONTENT_REMOVAL,NON_PII,"[CONTENT_REMOVAL] > On Aug 25, 2018, at 10:25 AM, Larry Visoski <
@@ -1067562,7 +1067562,7 @@ Aeroflot
 ATBVFM","[CONTENT_REMOVAL] 12 Aug 2018
 Aeroflot12 Aug 2018
 Aeroflot","The removed content consists of flight details and schedules, which do not constitute personal identifying information.",done,440,40,11,https://www.justice.gov/epstein/files/DataSet%2011/EFTA02255299.pdf,https://jmail.world/drive/vol00011-efta02255299-pdf
-EFTA02255299,3,0,delete,CONTENT_REMOVAL,NON_PII,"[CONTENT_REMOVAL] <PENKAUSKAITE_TOMA-PUTBDE.pdf> (PENKAUSKAITE_TOMA-PUTBDE.pdf)
+EFTA02255299,3,0,delete,CONTENT_REMOVAL,NON_PII,"[CONTENT_REMOVAL] <unspecified (redacted)-PUTBDE.pdf> (unspecified (redacted)-PUTBDE.pdf)
 [CONTENT_REMOVAL] <PUTBDE_ItineraryCalendar.ics> (PUTBDE_ItineraryCalendar.ics)",,The removed content consists of file names which do not constitute personal identifying information.,done,62,0,11,https://www.justice.gov/epstein/files/DataSet%2011/EFTA02255299.pdf,https://jmail.world/drive/vol00011-efta02255299-pdf
 EFTA02255366,0,0,insert,CONTENT_REMOVAL,NON_PII,,"[CONTENT_REMOVAL] Lesley Groffl
 Ann Rodriquez",The inserted text does not contain any personal identifying information and appears to be substantive content such as names or roles.,done,0,27,11,https://www.justice.gov/epstein/files/DataSet%2011/EFTA02255366.pdf,https://jmail.world/drive/vol00011-efta02255366-pdf
@@ -1067652,7 +1067652,7 @@ Terminal D Domestic/Intl
 Non-stop 
 12 Aug 2018",[CONTENT_REMOVAL] 12 Aug 201812 Aug 2018,"The removed content consists of flight details and schedules, which do not constitute personal identifying information.",done,432,22,11,https://www.justice.gov/epstein/files/DataSet%2011/EFTA02255491.pdf,https://jmail.world/drive/vol00011-efta02255491-pdf
 EFTA02255491,2,0,delete,CONTENT_REMOVAL,NON_PII,[CONTENT_REMOVAL] ATBVFM (ATBVFM),,"The removed content 'ATBVFM' does not appear to be personally identifiable information or metadata, and its removal affects substantive text content.",done,6,0,11,https://www.justice.gov/epstein/files/DataSet%2011/EFTA02255491.pdf,https://jmail.world/drive/vol00011-efta02255491-pdf
-EFTA02255491,3,0,delete,CONTENT_REMOVAL,NON_PII,"[CONTENT_REMOVAL] <PENKAUSKAITE_TOMA-PUTBDE.pdf5-
+EFTA02255491,3,0,delete,CONTENT_REMOVAL,NON_PII,"[CONTENT_REMOVAL] <unspecified (redacted)-PUTBDE.pdf5-
 [CONTENT_REMOVAL] <PUTBDE_ItincraryCalcndar.ics>",,The removed content does not appear to be personally identifiable information but rather file names or references.,done,62,0,11,https://www.justice.gov/epstein/files/DataSet%2011/EFTA02255491.pdf,https://jmail.world/drive/vol00011-efta02255491-pdf
 EFTA02255512,0,0,replace,NAME_REDACTION,PRIVACY_ACT_PII,"[NAME_REDACTION] Masha Prusakova (Masha Prusakova)
 [CONTENT_REMOVAL] Thu",[CONTENT_REMOVAL] u,"The name 'Masha Prusakova' was removed, which is a privacy act PII, and there was a minor content removal of 'Thu'.",done,66,46,11,https://www.justice.gov/epstein/files/DataSet%2011/EFTA02255512.pdf,https://jmail.world/drive/vol00011-efta02255512-pdf
