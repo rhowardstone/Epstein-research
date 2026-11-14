@@ -53,7 +53,7 @@ CATEGORIES = {
     "victims": "Victim Census & Routes",
     "art": "Art Market Investigation",
     "internet-theories": "Internet Theories",
-    "pqg_lines_of_investigation": "Prosecutorial Query Graph",
+    "pqg_lines_of_investigation": "Lines of Investigation",
     "raw-dataset-analysis": "Dataset Analysis",
     "scientists": "Science Network",
     "methodology": "Methodology & Data Quality",
