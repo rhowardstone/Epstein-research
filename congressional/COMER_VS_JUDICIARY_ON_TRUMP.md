@@ -270,9 +270,13 @@ Report page numbers are the printed numbers. Links jump to the matching PDF page
    like 136:20-24. Left to wrap they each took a second line, at the widest column's
    expense, so the quotation column keeps a little less width and these keep one line.
    Scoped to this table; no other report's tables are affected. The table is
-   matched both bare and inside the scroll wrapper the site's script adds. */
+   matched both bare and inside the scroll wrapper the site's script adds. The
+   Witness heading is included too, or it breaks as WITNES / S; the pin-cite
+   heading is left to wrap, since forcing it onto one line costs 47px. */
+#comers-twelve-witnesses + p + table th:nth-child(1),
 #comers-twelve-witnesses + p + table td:nth-child(1),
 #comers-twelve-witnesses + p + table td:nth-child(2),
+#comers-twelve-witnesses + p + div table th:nth-child(1),
 #comers-twelve-witnesses + p + div table td:nth-child(1),
 #comers-twelve-witnesses + p + div table td:nth-child(2) { white-space: nowrap; }
 </style>
