@@ -248,9 +248,9 @@ The file supports neither committee's certainty, and it raises questions for DOJ
 
 ## Methodology
 
-I gave both reports, the [epstein-data.com][llms] corpus documentation and my report protocol to four independent AI research agents (Claude, ChatGPT, Gemini and Grok), each with the same 40-odd questions. Only one of the four reached the corpus API. The others worked from the reports and secondary indexes, and their findings were used only where I could confirm them.
+Both reports, the [epstein-data.com][llms] corpus documentation and my report protocol went to several independent AI research agents, each working through the same set of about forty questions. Nothing any of them produced was used unless I could confirm it against the primary record.
 
-I then re-pulled every primary document quoted here through the corpus API, read it in full, and checked each quotation. I also checked the Groff, Barr, Lutnick and Bondi transcripts against the committee's published PDFs, and confirmed the DOJ response and the Goldman floor display through press reports. Where the agents disagreed, the primary record decided. For example, one agent said Farmer's FBI reports were "confirmed missing" and another said the case-number footnote was "inaccurate." Both conclusions are wrong on the documents.
+I then re-pulled every primary document quoted here through the corpus API, read it in full, and checked each quotation. I also checked the Groff, Barr, Lutnick and Bondi transcripts against the committee's published PDFs, and confirmed the DOJ response and the Goldman floor display through press reports. Where the agents disagreed with each other, the primary record decided.
 
 Report page numbers are the printed numbers. Links jump to the matching PDF page. Corpus links go to the epstein-data.com viewer, and the [corpus API][llms] returns the same text.
 
