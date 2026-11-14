@@ -265,6 +265,18 @@ Report page numbers are the printed numbers. Links jump to the matching PDF page
 
 ---
 
+<style>
+/* The first two columns hold one short value each: a surname, and a page:line cite
+   like 136:20-24. Left to wrap they each took a second line, at the widest column's
+   expense, so the quotation column keeps a little less width and these keep one line.
+   Scoped to this table; no other report's tables are affected. The table is
+   matched both bare and inside the scroll wrapper the site's script adds. */
+#comers-twelve-witnesses + p + table td:nth-child(1),
+#comers-twelve-witnesses + p + table td:nth-child(2),
+#comers-twelve-witnesses + p + div table td:nth-child(1),
+#comers-twelve-witnesses + p + div table td:nth-child(2) { white-space: nowrap; }
+</style>
+
 ## Comer's twelve witnesses
 
 What each witness in Comer's footnote 754 said, at the cited page and line ([Comer p.126][c126]).
